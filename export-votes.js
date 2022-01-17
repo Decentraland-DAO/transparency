@@ -2,10 +2,6 @@ const fetch = require('isomorphic-fetch');
 const CSVWritter = require('csv-writer')
 
 async function main() {
-    // Fetch all snapshot proposals
-
-
-
     const votes = [];
     while(true) {
         let skip = votes.length

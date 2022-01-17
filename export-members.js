@@ -6,7 +6,6 @@ var Web3 = require('web3');
 let provider = new Web3.providers.HttpProvider(`https://mainnet.infura.io/v3/8a9a382f3c664a1294aea0ab7172858e`)
 var ens = new ENS(provider);
 
-const members = require('./members.json');
 const info = [];
 
 const space = 'snapshot.dcl.eth';
@@ -158,6 +157,33 @@ const catalysts = [
 ];
 
 async function main() {
+    // Fetch all votes from snapshot
+    const votes = [];
+    while(true) {
+        let skip = votes.length
+        const url = 'https://hub.snapshot.org/graphql';
+        const query = `query {\n  votes (\n    first: 1000\n    skip: ${skip}\n   where: {\n      space_in: [\"snapshot.dcl.eth\"]\n      vp_gt: 10\n    }\n  ) {\n    voter\n  }\n}`;
+
+        const res = await fetch(
+            url,
+            {
+                headers: {
+                'content-type': 'application/json'
+                },
+                body: JSON.stringify({"query": query, "variables": null}),
+                method: 'POST'
+            }
+        );
+        const json = await res.json();
+
+        if (!json.data.votes.length) break;
+        votes.push(...json.data.votes);
+    }
+
+    const allVoters = votes.map(v => v.voter);
+    const members = allVoters.filter((elem, pos) => allVoters.indexOf(elem) == pos);
+    console.log("Total Members:", members.length);
+
     for(var i = 0 ; i < members.length ; i++) {
         const address = members[i];
         
