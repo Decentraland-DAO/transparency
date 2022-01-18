@@ -11,4 +11,4 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Pull Proposals
-        run: npm export-proposals.js
+        run: node export-proposals.js
