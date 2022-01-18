@@ -9,6 +9,10 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '12'
+      - run: npm install
 
       - name: Pull Proposals
         run: node export-proposals.js
