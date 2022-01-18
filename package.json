@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@alch/alchemy-web3": "^1.1.9",
     "@snapshot-labs/snapshot.js": "^0.3.26",
     "csv-writer": "^1.6.0",
     "ethereum-ens": "^0.8.0",

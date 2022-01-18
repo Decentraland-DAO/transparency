@@ -1,5 +1,5 @@
 const fetch = require('isomorphic-fetch');
-const CSVWritter = require('csv-writer')
+const CSVWritter = require('csv-writer');
 
 async function main() {
     const votes = [];

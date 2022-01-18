@@ -5,9 +5,20 @@ The goal is to make Decentraland's data more accesible, in [this Google Sheet](h
 Data crawlers are run on daily basis, data is pushed to the sheet.
 
 ### Data
-- [ ] Proposals
-- [ ] Members
-- [ ] Treasury
+- [X] KPIs
+- [X] Proposals
+- [X] Members
+- [X] Votes
+- [X] Grants
+- [ ] Balances
+- [ ] Transactions
+- [ ] Curations
+- [ ] Marketplace
+- [ ] Liquidity
+- [ ] Names
 
 
-
+### Publish Formats
+- [X] CSV
+- [ ] Google Sheets
+- [ ] JSON
