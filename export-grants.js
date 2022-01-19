@@ -72,7 +72,7 @@ async function main() {
 
     });
 
-    csvWriter.writeRecords(proposals).then(()=> console.log('The CSV file was written successfully'));
+    csvWriter.writeRecords(proposals).then(()=> console.log('The CSV file has been saved.'));
 }
 
 main();

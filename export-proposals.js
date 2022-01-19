@@ -1,3 +1,4 @@
+const fs = require('fs');
 const fetch = require('isomorphic-fetch');
 const CSVWritter = require('csv-writer')
 
@@ -46,10 +47,10 @@ async function main() {
         proposals.push(...json.data);
     }
 
-    console.log(proposals.length);
+    console.log(proposals.length, 'proposals found.');
 
     const csvWriter = CSVWritter.createObjectCsvWriter({
-        path: 'proposals.csv',
+        path: 'public/proposals.csv',
         header: [
           {id: 'id', title: 'Proposal ID'},
           {id: 'snapshot_id', title: 'Snapshot ID'},
@@ -73,17 +74,42 @@ async function main() {
         ]
       });
 
-    proposals.forEach(p => {
+    const data = proposals.map(p => {
         pv = proposalVotes[p.snapshot_id];
-        p.scores_total = parseInt(pv.scores_total);
-        p.votes = pv.votes;
-        p.manaVP = getVP(pv, "MANA") + getVP(pv, "WMANA");
-        p.landVP = getVP(pv, "LAND") + getVP(pv, "ESTATE");
-        p.namesVP = getVP(pv, "NAMES");
-        p.delegatedVP = getVP(pv, "VP (delegated)");
+        return {
+            'id': p.id,
+            'snapshot_id': p.snapshot_id,
+            'user': p.user,
+          
+            'type': p.type,
+            'title': p.title,
+            'start_at': p.start_at,
+            'finish_at': p.finish_at,
+            'required_to_pass': p.required_to_pass,
+            'status': p.status,
+          
+            'discourse_topic_id': p.discourse_topic_id,
+
+            'scores_total': parseInt(pv.scores_total),
+            'votes': pv.votes,
+            'manaVP': getVP(pv, "MANA") + getVP(pv, "WMANA"),
+            'landVP': getVP(pv, "LAND") + getVP(pv, "ESTATE"),
+            'namesVP': getVP(pv, "NAMES"),
+            'delegatedVP': getVP(pv, "VP (delegated)"),
+        }
     });
 
-    csvWriter.writeRecords(proposals).then(()=> console.log('The CSV file was written successfully'));
+    if (!fs.existsSync('./public')) fs.mkdirSync('./public');
+
+    csvWriter.writeRecords(data).then(()=> console.log('The CSV file has been saved.'));
+ 
+    fs.writeFile("public/proposals.json", JSON.stringify(data), 'utf8', function (err) {
+        if (err) {
+            console.log("An error occured while writing JSON Object to File.");
+            return console.log(err);
+        }
+        console.log("The JSON file has been saved.");
+    });
 }
 
 main();

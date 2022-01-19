@@ -16,5 +16,14 @@ jobs:
 
       - name: Pull Proposals
         run: node export-proposals.js
-      - name: Update Proposals
-        run: node upload.js Proposals ./proposals.csv
+        run: node upload.js Proposals ./public/proposals.csv
+
+      - name: Pull Votes
+        run: node export-votes.js
+        run: node upload.js Votes ./public/votes.csv
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4.2.2
+        with:
+          branch: gh-pages
+          folder: public
