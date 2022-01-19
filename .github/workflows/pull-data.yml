@@ -16,3 +16,5 @@ jobs:
 
       - name: Pull Proposals
         run: node export-proposals.js
+      - name: Update Proposals
+        run: node upload.js Proposals ./proposals.csv
