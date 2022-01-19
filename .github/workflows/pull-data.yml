@@ -15,12 +15,14 @@ jobs:
       - run: npm install
 
       - name: Pull Proposals
-        run: node export-proposals.js
-        run: node upload.js Proposals ./public/proposals.csv
+        run: |
+          node export-proposals.js
+          node upload.js Proposals ./public/proposals.csv
 
       - name: Pull Votes
-        run: node export-votes.js
-        run: node upload.js Votes ./public/votes.csv
+        run: |
+          node export-votes.js
+          node upload.js Votes ./public/votes.csv
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.2.2

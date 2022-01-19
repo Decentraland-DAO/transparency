@@ -19,7 +19,7 @@ async function main() {
     const proposals = parse(fs.readFileSync(path));
     await sheet.setHeaderRow(proposals[0]);
     await sheet.addRows(proposals);
-    console.log(`✅ The ${title} sheet has been updated with ${proposals.length} elemets`);
+    console.log(`✅ The ${title} sheet has been updated with ${proposals.length-1} elemets`);
 }
 
 main();
