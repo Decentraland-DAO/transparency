@@ -14,11 +14,14 @@ async function main() {
 
     await doc.loadInfo();
     const sheet = doc.sheetsByTitle[title];
-    sheet.clear();
-
+    await sheet.clear();
+    
     const proposals = parse(fs.readFileSync(path));
     await sheet.setHeaderRow(proposals[0]);
-    await sheet.addRows(proposals);
+    await sheet.addRows(proposals.slice(1));
+    sheet.gridProperties['rowCount'] = proposals.length;
+    sheet.gridProperties['columnCount'] = proposals[0].length;
+    await sheet.updateGridProperties(sheet.gridProperties);
     console.log(`✅ The ${title} sheet has been updated with ${proposals.length-1} elemets`);
 }
 
