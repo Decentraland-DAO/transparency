@@ -15,8 +15,8 @@ Data is updated every day thanks to [Github Actions](https://github.com/Decentra
 - [X] Members
 - [X] Votes
 - [X] Grants
-- [ ] Balances
-- [ ] Transactions
+- [X] Balances
+- [X] Transactions
 - [ ] Curations
 - [ ] Marketplace
 - [ ] Liquidity
