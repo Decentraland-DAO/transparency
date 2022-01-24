@@ -42,7 +42,7 @@ async function main() {
     console.log(proposals.length);
 
     const csvWriter = CSVWritter.createObjectCsvWriter({
-        path: 'grants.csv',
+        path: './public/grants.csv',
         header: [
           {id: 'id', title: 'Proposal ID'},
           {id: 'snapshot_id', title: 'Snapshot ID'},
