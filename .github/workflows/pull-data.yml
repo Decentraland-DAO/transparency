@@ -33,6 +33,10 @@ jobs:
         run: |
           node export-transactions.js
           node upload.js Transactions ./public/transactions.csv
+          
+      - name: Export Report
+        run: |
+          node export-report.js
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.2.2
