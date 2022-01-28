@@ -34,9 +34,9 @@ jobs:
           node export-transactions.js
           node upload.js Transactions ./public/transactions.csv
           
-      - name: Export Report
+      - name: Export API
         run: |
-          node export-report.js
+          node export-api.js
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.2.2
