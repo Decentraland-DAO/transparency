@@ -70,6 +70,7 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x1F6893034525ab6e23F98A166ECcb52f673c8e94,QmR8gNYnzMaFiFPafpbJ9sDAKHEhiyqxm3W54hzsKLVQwU,1643106760,Should the DAO buy the dip?,1,Yes! Buy!,10.35422061588529,0
 0x1F6893034525ab6e23F98A166ECcb52f673c8e94,QmYpub8a8P3m2sbGvN1HCY14gCsvx8F6No8drx7XUpz6aQ,1643106740,Stop spamming wearables on marketplace,1,"Yes, we need to stop",10.35422061588529,0
 0x1F6893034525ab6e23F98A166ECcb52f673c8e94,QmbcKQ1SxXZyHoW3DRheFyHpQpXL8KSCrsTDfhokqASkZj,1643106735,Renting LAND And Wearables,1,"Yes, we need this thing",10.35422061588529,0
+0x1F6893034525ab6e23F98A166ECcb52f673c8e94,Qmc28UbPNgc5RVX4AfNZqbYCzUbmsn5ganWKTBNLtvVuTm,1643106730,Can we convert the wearable fee to DAI/USDC/USDT/UST,1,Yes! USD instead of MANA!,10.35422061588529,5
 0x2304d3F8c1d7e3692F8B8FCdCb9B8Dc62b31131E,QmSNz7Rp7XwUUvZJBvQZa8DiU4MotevEpWjBxQv1JeuFRB,1643102410,Should pubblication fee be higher?,2,No,23.59323158,0
 0x2304d3F8c1d7e3692F8B8FCdCb9B8Dc62b31131E,QmbcKQ1SxXZyHoW3DRheFyHpQpXL8KSCrsTDfhokqASkZj,1643101816,Renting LAND And Wearables,1,"Yes, we need this thing",23.59323158,0
 0x0749d1AbB5CA9128432B612644c0eA1e9c6cc9aF,QmbcKQ1SxXZyHoW3DRheFyHpQpXL8KSCrsTDfhokqASkZj,1643094680,Renting LAND And Wearables,1,"Yes, we need this thing",398.81075243712473,0
@@ -103,6 +104,7 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x361f6b30969ea2dFBd6AFF56f2FDB705fdBd1f35,QmbrJYkD7CX5heQgfZJRw8tyry1KBviaaMswif97UeTDpx,1643064633,Should we mint new LANDs and should we round the map like earth?,3,yes,164.6083586066371,0
 0x361f6b30969ea2dFBd6AFF56f2FDB705fdBd1f35,QmYpub8a8P3m2sbGvN1HCY14gCsvx8F6No8drx7XUpz6aQ,1643064611,Stop spamming wearables on marketplace,1,"Yes, we need to stop",164.6083586066371,3
 0x361f6b30969ea2dFBd6AFF56f2FDB705fdBd1f35,QmbcKQ1SxXZyHoW3DRheFyHpQpXL8KSCrsTDfhokqASkZj,1643064593,Renting LAND And Wearables,1,"Yes, we need this thing",164.6083586066371,0
+0x361f6b30969ea2dFBd6AFF56f2FDB705fdBd1f35,Qmc28UbPNgc5RVX4AfNZqbYCzUbmsn5ganWKTBNLtvVuTm,1643064569,Can we convert the wearable fee to DAI/USDC/USDT/UST,2,No. Keep it like it is.,164.6083586066371,93
 0x11cDdb1cDf1c297C8db918aC2B41E6803117d037,QmbrJYkD7CX5heQgfZJRw8tyry1KBviaaMswif97UeTDpx,1643060539,Should we mint new LANDs and should we round the map like earth?,4,no,196.63442,0
 0x4a919147F0351E608ec3b54820079385FDee12C2,QmQshvDwSc6kHxgQVzHR7iywDr1npnAgibHQb6xdf9kgoc,1643056944,"Add the location 6,64 to the Points of Interest",2,no,4500,5
 0x4a919147F0351E608ec3b54820079385FDee12C2,QmVLLEwjkQAx9anZAiMJEgSQV3TDP7aFSZTfrbJktezxTt,1643056913,"Add the location 100,100 to the Points of Interest",2,no,4500,1
