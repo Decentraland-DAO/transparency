@@ -1,7 +1,6 @@
 const fs = require('fs');
 const ejs = require('ejs');
 const fetch = require('isomorphic-fetch');
-const CSVWritter = require('csv-writer')
 
 function lastReport(now) {
     let lastReport = (new Date(now));

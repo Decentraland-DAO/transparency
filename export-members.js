@@ -1,9 +1,11 @@
+require('dotenv').config();
+
 const fetch = require('isomorphic-fetch');
 const snapshot = require('@snapshot-labs/snapshot.js')
 const CSVWritter = require('csv-writer');
 var ENS = require('ethereum-ens');
 var Web3 = require('web3');
-let provider = new Web3.providers.HttpProvider(`https://mainnet.infura.io/v3/8a9a382f3c664a1294aea0ab7172858e`)
+let provider = new Web3.providers.HttpProvider(process.env.INFURA_URL)
 var ens = new ENS(provider);
 
 const info = [];

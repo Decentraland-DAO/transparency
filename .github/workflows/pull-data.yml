@@ -33,10 +33,24 @@ jobs:
         run: |
           node export-transactions.js
           node upload.js Transactions ./public/transactions.csv
+
+      - name: Pull Collections
+        run: |
+          node export-collections.js
+          node upload.js Collections ./public/collections.csv
+
+      - name: Pull Wearables
+        run: |
+          node export-wearables.js
+          node upload.js Wearables ./public/wearables.csv
+
+      - name: Pull Grants
+        run: |
+          node export-grants.js
+          node upload.js Grants ./public/grants.csv
           
       - name: Export API
-        run: |
-          node export-api.js
+        run: node export-api.js
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.2.2

@@ -1,5 +1,4 @@
 const fs = require('fs');
-const fetch = require('isomorphic-fetch');
 const balances = require('./public/balances.json');
 
 async function main() {

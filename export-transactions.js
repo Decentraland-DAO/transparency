@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 const fs = require('fs');
 const BigNumber = require('bignumber.js');
 const fetch = require('isomorphic-fetch');
@@ -26,7 +28,7 @@ const tokens = {
 const ethTokens = Object.keys(tokens).filter(a => tokens[a][0] == 'Ethereum');
 const maticTokens = Object.keys(tokens).filter(a => tokens[a][0] == 'Polygon');
 
-const API_KEY = 'ckey_bbdf3a95cccf45c88cf71b7174b';
+const API_KEY = process.env.COVALENTHQ_API_KEY;
 
 async function main() {
     const transactions = [];
