@@ -8,24 +8,35 @@ function lastReport(now) {
     return lastReport;
 }
 
+function nextReport(now) {
+    return lastReport(new Date(now - 0 + 3600 * 1000 * 24 * 17));
+}
+
 function yesterday(now) {
     return new Date(now - (1000 * 3600 * 24));
 }
 
 async function main() {
     let now = new Date(new Date().toISOString().slice(0, 10));
-
     let currentReport = 14 + (now.getUTCFullYear() - 2022) * 24 + (now.getUTCMonth() * 2);
     currentReport += now.getUTCDate() < 16 ? 0 : 1;
     
     let endDate = lastReport(now);
     let startDate = lastReport(yesterday(endDate));
+    
+    await generateReport(currentReport, startDate, endDate);
 
+    startDate = nextReport(startDate);
+    endDate = nextReport(endDate);
+
+    await generateReport(currentReport + 1, startDate, endDate);
+}
+
+async function generateReport(currentReport, startDate, endDate) {
     const startDateStr = startDate.toLocaleDateString('en', { month: 'long', day: 'numeric', timeZone: 'GMT' });
     const endDateStr = yesterday(endDate).toLocaleDateString('en', { month: 'long', day: 'numeric', timeZone: 'GMT' });
 
     console.log(`Generating Report #${currentReport}...`);
-    console.log(`Today: ${now.toISOString()}`);
     console.log(`Proposals from ${startDateStr} to ${endDateStr}`);
 
     // Get Gobernance dApp Proposals
