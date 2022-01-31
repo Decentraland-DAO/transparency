@@ -15,32 +15,67 @@ jobs:
       - run: npm install
 
       - name: Pull Proposals
+        env:
+          COVALENTHQ_API_KEY: ${{ secrets.COVALENTHQ_API_KEY }}
+          INFURA_URL: ${{ secrets.INFURA_URL }}
+          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
+          SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
+          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
         run: |
           node export-proposals.js
           node upload.js Proposals ./public/proposals.csv
 
       - name: Pull Votes
+        env:
+          COVALENTHQ_API_KEY: ${{ secrets.COVALENTHQ_API_KEY }}
+          INFURA_URL: ${{ secrets.INFURA_URL }}
+          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
+          SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
+          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
         run: |
           node export-votes.js
           node upload.js Votes ./public/votes.csv
 
       - name: Pull Balances
+        env:
+          COVALENTHQ_API_KEY: ${{ secrets.COVALENTHQ_API_KEY }}
+          INFURA_URL: ${{ secrets.INFURA_URL }}
+          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
+          SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
+          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
         run: |
           node export-balances.js
           node upload.js Balances ./public/balances.csv
-          node export-api.js
 
       - name: Pull Transactions
+        env:
+          COVALENTHQ_API_KEY: ${{ secrets.COVALENTHQ_API_KEY }}
+          INFURA_URL: ${{ secrets.INFURA_URL }}
+          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
+          SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
+          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
         run: |
           node export-transactions.js
           node upload.js Transactions ./public/transactions.csv
 
       - name: Pull Collections
+        env:
+          COVALENTHQ_API_KEY: ${{ secrets.COVALENTHQ_API_KEY }}
+          INFURA_URL: ${{ secrets.INFURA_URL }}
+          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
+          SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
+          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
         run: |
           node export-collections.js
           node upload.js Collections ./public/collections.csv
 
       - name: Pull Wearables
+        env:
+          COVALENTHQ_API_KEY: ${{ secrets.COVALENTHQ_API_KEY }}
+          INFURA_URL: ${{ secrets.INFURA_URL }}
+          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
+          SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
+          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
         run: |
           node export-wearables.js
           node upload.js Wearables ./public/wearables.csv
@@ -50,6 +85,9 @@ jobs:
           node export-grants.js
           node upload.js Grants ./public/grants.csv
           
+      - name: Export API
+        run: node export-api.js
+
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.2.2
         with:
