@@ -5,13 +5,14 @@ const { parse } = require('csv-parse/sync');
 const { GoogleSpreadsheet } = require('google-spreadsheet');
 
 async function main() {
+    console.log('Client email', process.env.SHEET_CLIENT_EMAIL);
+
     const doc = new GoogleSpreadsheet(process.env.SHEET_ID);
     await doc.useServiceAccountAuth({
       client_email: process.env.SHEET_CLIENT_EMAIL,
       private_key: process.env.SHEET_PRIVATE_KEY,
     });
 
-    console.log(process.env.SHEET_CLIENT_EMAIL);
     
     const title = process.argv[2];
     const path = process.argv[3];
