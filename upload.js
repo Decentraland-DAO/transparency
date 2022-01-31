@@ -18,10 +18,18 @@ async function main() {
     
     const proposals = parse(fs.readFileSync(path));
     await sheet.setHeaderRow(proposals[0]);
-    await sheet.addRows(proposals.slice(1));
+
+    const batchSize = 20000;
+    let uploadProposals = proposals.slice(1);
+    while(uploadProposals.length > 0) {
+      const batch = uploadProposals.slice(0, batchSize);
+      uploadProposals = uploadProposals.slice(batchSize);
+      await sheet.addRows(batch);
+    }
     sheet.gridProperties['rowCount'] = proposals.length;
     sheet.gridProperties['columnCount'] = proposals[0].length;
     await sheet.updateGridProperties(sheet.gridProperties);
+
     console.log(`✅ The ${title} sheet has been updated with ${proposals.length-1} elemets`);
 }
 
