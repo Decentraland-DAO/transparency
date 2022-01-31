@@ -5,7 +5,9 @@ const { parse } = require('csv-parse/sync');
 const { GoogleSpreadsheet } = require('google-spreadsheet');
 
 async function main() {
-    console.log('Client email', process.env.SHEET_CLIENT_EMAIL);
+    console.log('Client email', process.env.SHEET_ID.length);
+    console.log('Client email', process.env.SHEET_CLIENT_EMAIL.length);
+    console.log('Client email', process.env.SHEET_PRIVATE_KEY.length);
 
     const doc = new GoogleSpreadsheet(process.env.SHEET_ID);
     await doc.useServiceAccountAuth({
