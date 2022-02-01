@@ -40,7 +40,7 @@ jobs:
           SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
         run: |
           node export-balances.js
-          node upload.js Balances ./public/balances.csv
+          node upload.js Balances ./public/balances.csv --append
 
       - name: Pull Transactions
         env:

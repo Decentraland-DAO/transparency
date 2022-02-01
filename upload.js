@@ -13,26 +13,29 @@ async function main() {
     
     const title = process.argv[2];
     const path = process.argv[3];
+    const append = process.argv[4] == '--append';
 
     await doc.loadInfo();
     const sheet = doc.sheetsByTitle[title];
-    await sheet.clear();
+    const rows = parse(fs.readFileSync(path));
     
-    const proposals = parse(fs.readFileSync(path));
-    await sheet.setHeaderRow(proposals[0]);
+    if(!append) {
+      await sheet.clear();
+      sheet.gridProperties['rowCount'] = rows.length;
+      sheet.gridProperties['columnCount'] = rows[0].length;
+      await sheet.updateGridProperties(sheet.gridProperties);
+      await sheet.setHeaderRow(rows[0]);
+    }
 
     const batchSize = 20000;
-    let uploadProposals = proposals.slice(1);
-    while(uploadProposals.length > 0) {
-      const batch = uploadProposals.slice(0, batchSize);
-      uploadProposals = uploadProposals.slice(batchSize);
+    let uploadRows = rows.slice(1);
+    while(uploadRows.length > 0) {
+      const batch = uploadRows.slice(0, batchSize);
+      uploadRows = uploadRows.slice(batchSize);
       await sheet.addRows(batch);
     }
-    sheet.gridProperties['rowCount'] = proposals.length;
-    sheet.gridProperties['columnCount'] = proposals[0].length;
-    await sheet.updateGridProperties(sheet.gridProperties);
 
-    console.log(`✅ The ${title} sheet has been updated with ${proposals.length-1} elemets`);
+    console.log(`✅ The ${title} sheet has been updated with ${rows.length-1} elemets`);
 }
 
 main();
