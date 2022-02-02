@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -77,13 +77,6 @@ Since January 16, 1 grants have been approved and the vesting contract(s) will b
 * Invalid question/options 0% 0 VP (0 votes)
 
 
-#### [Should wearables carry at least 1 Voting Power?](https://governance.decentraland.org/proposal/?id=e7a68a50-751f-11ec-8188-4352ce3d30e7)
-
-* Yes, this makes sense. 6% 35,344 VP (25 votes)
-* No, this makes no sense. 93% 527,925 VP (5 votes)
-* Invalid question/options 0% 0 VP (0 votes)
-
-
 #### [Third Party Wearables submission fees](https://governance.decentraland.org/proposal/?id=90a67ae0-7320-11ec-8188-4352ce3d30e7)
 
 * 1. Slot Price: USD 300 / Commission for Curators: USD 50  2% 58,121 VP (3 votes)
@@ -106,15 +99,19 @@ Since January 16, 1 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* 104, 78: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=e74d5f20-8307-11ec-9166-a5dd0ddb7cdb)
+* 8, 140: [No Name](https://governance.decentraland.org/proposal/?id=6ee64670-82fb-11ec-9166-a5dd0ddb7cdb)
+* -76, 58: [District X](https://governance.decentraland.org/proposal/?id=bf801250-82f6-11ec-9166-a5dd0ddb7cdb)
 * 23, -130: [No Name](https://governance.decentraland.org/proposal/?id=f0e2dee0-8274-11ec-9166-a5dd0ddb7cdb)
 * -42, 109: [Tin-Tin Tatouages Tattoo Shop](https://governance.decentraland.org/proposal/?id=e2d84840-8237-11ec-9166-a5dd0ddb7cdb)
 * 48, 89: [Aura: a curated NFT platform.](https://governance.decentraland.org/proposal/?id=28f819f0-81d8-11ec-9166-a5dd0ddb7cdb)
 * -55, 29: [The Doors Cafe](https://governance.decentraland.org/proposal/?id=84ceac50-8195-11ec-9166-a5dd0ddb7cdb)
 * 119, -149: [No Name](https://governance.decentraland.org/proposal/?id=7c964aa0-7efe-11ec-9447-6b730f00647d)
-* -150, -143: [MetaOne Designs - M1D](https://governance.decentraland.org/proposal/?id=5dc4b1c0-7e5e-11ec-9447-6b730f00647d)
 
 ## Grants
 
+* [Fashion School Graduate Makes Wearables](https://governance.decentraland.org/proposal/?id=65647d80-83d5-11ec-bd91-0316d7e70123) (Tier 2)
+* [want to spread virtual joy by telling dad jokes](https://governance.decentraland.org/proposal/?id=9d1819b0-83be-11ec-bd91-0316d7e70123) (Tier 3)
 * [Decentraland Connect-A-Life (D-CAL)](https://governance.decentraland.org/proposal/?id=b43fb280-82a9-11ec-9166-a5dd0ddb7cdb) (Tier 6)
 * [A virtual fun to play casino](https://governance.decentraland.org/proposal/?id=5737f330-8228-11ec-9166-a5dd0ddb7cdb) (Tier 4)
 * [Interdimensional](https://governance.decentraland.org/proposal/?id=c3932840-81f3-11ec-9166-a5dd0ddb7cdb) (Tier 1)
@@ -129,12 +126,11 @@ Since January 16, 1 grants have been approved and the vesting contract(s) will b
 * [Aspiring Digital/ Animation Artist](https://governance.decentraland.org/proposal/?id=785f2120-80e1-11ec-9166-a5dd0ddb7cdb) (Tier 2)
 * [Decentral Grave Yard](https://governance.decentraland.org/proposal/?id=0be3df90-80d7-11ec-9166-a5dd0ddb7cdb) (Tier 5)
 * [Land Rental in Decentraland](https://governance.decentraland.org/proposal/?id=3dd05210-80a3-11ec-9166-a5dd0ddb7cdb) (Tier 6)
-* [Develop a local scene editor to work with the Decentraland SDK](https://governance.decentraland.org/proposal/?id=0cb35ba0-7e05-11ec-9447-6b730f00647d) (Tier 3)
 * [Country Flag Wearables](https://governance.decentraland.org/proposal/?id=1bd751a0-7a49-11ec-8188-4352ce3d30e7) (Tier 4)
-* [African Community for Outreach and event organization](https://governance.decentraland.org/proposal/?id=0a1f30d0-77f2-11ec-8188-4352ce3d30e7) (Tier 4)
 
 ## Names Bans
 
+* [Ban the name Sextou](https://governance.decentraland.org/proposal/?id=d8fc48a0-82d5-11ec-9166-a5dd0ddb7cdb)
 
 ## Catalysts
 
@@ -158,16 +154,7 @@ Since January 16, 1 grants have been approved and the vesting contract(s) will b
 * [Should Grimey be added to the Wearables Curation Committee?](https://governance.decentraland.org/proposal/?id=0ab85be0-80ab-11ec-9166-a5dd0ddb7cdb)
 * [Should Sango be added to the Wearables Curation Committee?](https://governance.decentraland.org/proposal/?id=8e015390-80aa-11ec-9166-a5dd0ddb7cdb)
 * [Should we form a social media council for Decentraland?](https://governance.decentraland.org/proposal/?id=0efaa140-802e-11ec-9166-a5dd0ddb7cdb)
-* [Mobile devices support](https://governance.decentraland.org/proposal/?id=23656320-800d-11ec-9166-a5dd0ddb7cdb)
 * [Use the domain peer.decentraland.org as a Load balancer and rename that server to peer-ec2.decentraland.org](https://governance.decentraland.org/proposal/?id=d21a2110-7ede-11ec-9447-6b730f00647d)
-* [Mental Health Garden POI](https://governance.decentraland.org/proposal/?id=72de83b0-7e0e-11ec-9447-6b730f00647d)
-* [Resize the LAND.](https://governance.decentraland.org/proposal/?id=7d1ed2e0-7dfe-11ec-9447-6b730f00647d)
-* [LAND and WEARABLE mortages](https://governance.decentraland.org/proposal/?id=c7aa56f0-7dfd-11ec-9447-6b730f00647d)
-* [Resize the LAND.](https://governance.decentraland.org/proposal/?id=f9aae580-7dfc-11ec-9447-6b730f00647d)
-* [Should we mint new LANDs and should we round the map like earth?](https://governance.decentraland.org/proposal/?id=ccfc68c0-7dfb-11ec-9447-6b730f00647d)
-* [By default show Store &amp; Listings on marketplace](https://governance.decentraland.org/proposal/?id=f6d9f9f0-7df6-11ec-9447-6b730f00647d)
-* [Wearables Creator Pass](https://governance.decentraland.org/proposal/?id=a79d4450-7dbf-11ec-9447-6b730f00647d)
-* [Should we mint new LANDs and should we round the map like earth?](https://governance.decentraland.org/proposal/?id=baaac150-7db8-11ec-9447-6b730f00647d)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
