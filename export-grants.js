@@ -66,7 +66,7 @@ async function main() {
         pv = proposalVotes[p.snapshot_id];
         p.scores_total = parseInt(pv.scores_total);
         p.grant_category = p.configuration.category;
-        p.grant_tier = p.configuration.tier;
+        p.grant_tier = p.configuration.tier.split(':')[0];
         p.grant_size = p.configuration.size;
         p.grant_beneficiary = p.configuration.beneficiary;
 
