@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 8 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 9 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -37,6 +37,13 @@ Since February 1, 1 grants have been approved and the vesting contract(s) will b
 
 
 ## Polls
+
+#### [Delist Decentral Games Backgammon from Map @ -101, -70 as it sits disconnected from server for over a year...](https://governance.decentraland.org/proposal/?id=7b03b200-8196-11ec-9166-a5dd0ddb7cdb)
+
+* DELIST 99% 524,824 VP (59 votes)
+* KEEP AS IS 0% 4,075 VP (1 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
 
 #### [Should Kristian be added to the Wearables Curation Committee?](https://governance.decentraland.org/proposal/?id=cec36e80-80ab-11ec-9166-a5dd0ddb7cdb)
 
@@ -99,6 +106,9 @@ Since February 1, 1 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* -23, -2: [&#39;Genesis Proud&#39;](https://governance.decentraland.org/proposal/?id=1fa3dec0-8525-11ec-bd91-0316d7e70123)
+* 19, 53: [SENSE-GARDEN](https://governance.decentraland.org/proposal/?id=97cf0d70-8511-11ec-bd91-0316d7e70123)
+* -91, -84: [No Name](https://governance.decentraland.org/proposal/?id=b21e91f0-84f3-11ec-bd91-0316d7e70123)
 * 150, 150: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=131c1e60-8476-11ec-bd91-0316d7e70123)
 * -30, -140: [expo24seven](https://governance.decentraland.org/proposal/?id=503a53b0-842c-11ec-bd91-0316d7e70123)
 * -75, 108: [Premium Estate](https://governance.decentraland.org/proposal/?id=7e899b10-8420-11ec-bd91-0316d7e70123)
@@ -126,10 +136,11 @@ Since February 1, 1 grants have been approved and the vesting contract(s) will b
 * [Aspiring Digital/ Animation Artist](https://governance.decentraland.org/proposal/?id=785f2120-80e1-11ec-9166-a5dd0ddb7cdb) (Tier 2)
 * [Decentral Grave Yard](https://governance.decentraland.org/proposal/?id=0be3df90-80d7-11ec-9166-a5dd0ddb7cdb) (Tier 5)
 * [Land Rental in Decentraland](https://governance.decentraland.org/proposal/?id=3dd05210-80a3-11ec-9166-a5dd0ddb7cdb) (Tier 6)
-* [Country Flag Wearables](https://governance.decentraland.org/proposal/?id=1bd751a0-7a49-11ec-8188-4352ce3d30e7) (Tier 4)
 
 ## Names Bans
 
+* [Ban the name Niggeroni](https://governance.decentraland.org/proposal/?id=068384e0-8516-11ec-bd91-0316d7e70123)
+* [Ban the name Niggeroni](https://governance.decentraland.org/proposal/?id=ef0348a0-8515-11ec-bd91-0316d7e70123)
 * [Ban the name Sextou](https://governance.decentraland.org/proposal/?id=d8fc48a0-82d5-11ec-9166-a5dd0ddb7cdb)
 
 ## Catalysts
@@ -137,15 +148,13 @@ Since February 1, 1 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Integrate subdomain names into the Avatar Naming System.](https://governance.decentraland.org/proposal/?id=b8978790-85a1-11ec-bd91-0316d7e70123)
+* [[DRAFT PROPOSAL] Decentraland Olympus Pro Partnership](https://governance.decentraland.org/proposal/?id=d166f800-8510-11ec-bd91-0316d7e70123)
 * [Should Yannakis be added to the Wearables Curation Committee?](https://governance.decentraland.org/proposal/?id=d6e15b80-84d0-11ec-bd91-0316d7e70123)
 * [To change the wearable category of Tiara to a more open category](https://governance.decentraland.org/proposal/?id=640662b0-8299-11ec-9166-a5dd0ddb7cdb)
 * [Should decentraland dao move forward on acquiring a suitable public ENS domain? (like mana.eth)](https://governance.decentraland.org/proposal/?id=cbe90790-821a-11ec-9166-a5dd0ddb7cdb)
 * [Should Wearables Including Guns Be Allowed?](https://governance.decentraland.org/proposal/?id=51cae350-81fe-11ec-9166-a5dd0ddb7cdb)
 * [Should Wearables Including Guns Be Allowed?](https://governance.decentraland.org/proposal/?id=b8ad7250-81f8-11ec-9166-a5dd0ddb7cdb)
-* [another proposal to try on wearables before purchase](https://governance.decentraland.org/proposal/?id=ed884440-819a-11ec-9166-a5dd0ddb7cdb)
-* [Delist Decentral Games Backgammon from Map @ -101, -70 as it sits disconnected from server for over a year...](https://governance.decentraland.org/proposal/?id=7b03b200-8196-11ec-9166-a5dd0ddb7cdb)
-* [Should there be an option to buy NFTs in bulk on the DCL Marketplace?](https://governance.decentraland.org/proposal/?id=482765b0-8124-11ec-9166-a5dd0ddb7cdb)
-* [Should there be a marketplace in DCL for Builders?](https://governance.decentraland.org/proposal/?id=e44e3530-8120-11ec-9166-a5dd0ddb7cdb)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
