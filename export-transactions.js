@@ -7,9 +7,11 @@ const CSVWritter = require('csv-writer');
 
 const wallets = [
     ["Ethereum", "0x9a6ebe7e2a7722f8200d0ffb63a1f6406a0d7dce", "Aragon Agent"],
-    ["Ethereum", "0x89214c8Ca9A49E60a3bfa8e00544F384C93719b1", "DAO Committee"],
-    ["Polygon", "0xB08E3e7cc815213304d884C88cA476ebC50EaAB2", "DAO Committee"],
+    ["Ethereum", "0x89214c8ca9a49e60a3bfa8e00544f384c93719b1", "DAO Committee"],
+    ["Polygon", "0xb08e3e7cc815213304d884c88ca476ebc50eaab2", "DAO Committee"],
 ];
+
+const walletAddresses = wallets.map(w => w[1]);
 
 const tokens = {
     "0x0f5d2fb29fb7d3cfee444a200298f468908cc942": ["Ethereum", "MANA", 18],
@@ -41,23 +43,28 @@ async function main() {
 
         for(var t = 0; t < tokenAddresses.length; t++) {
             var token = tokens[tokenAddresses[t]];
-            console.log(`- Getting ${token[1]} transactions on ${name} (${token[0]})`);
             const url = `https://api.covalenthq.com/v1/${network}/address/${address}/transfers_v2/?key=${API_KEY}&contract-address=${tokenAddresses[t]}&page-size=500000`;
             const res = await fetch(url);
             const json = await res.json();
-            const txs = json.data.items.map(t => ({
-                'date': t.block_signed_at,
+            const txs = json.data.items.filter(t => t.successful).map(t => {
+                var type = (
+                    walletAddresses.indexOf(t.transfers[0].from_address) != -1 &&
+                    walletAddresses.indexOf(t.transfers[0].to_address) != -1
+                ) ? 'INTERNAL' : t.transfers[0].transfer_type;
+                return {
                 'wallet': name,
+                'hash': t.tx_hash,
+                'date': t.block_signed_at,
                 'network': token[0],
-                'type': t.transfers[0].transfer_type,
+                'type': type,
                 'amount': BigNumber(t.transfers[0].delta).dividedBy(10 ** t.transfers[0].contract_decimals).toNumber(),
                 'symbol': t.transfers[0].contract_ticker_symbol,
+                'contract': t.transfers[0].contract_address,
                 'quote': t.transfers[0].delta_quote,
-                'hash': t.tx_hash,
-                'from': t.from_address,
-                'to': t.to_address,
-                'successful': t.successful,
-            }));
+                'sender': t.from_address,
+                'from': t.transfers[0].from_address,
+                'to': t.transfers[0].to_address,
+            }});
             transactions.push(...txs);
         }
     }
@@ -75,10 +82,11 @@ async function main() {
           {id: 'amount', title: 'Amount'},
           {id: 'symbol', title: 'Token'},
           {id: 'quote', title: 'USD Amount'},
+          {id: 'sender', title: 'Sender'},
+          {id: 'from', title: 'Transfer From'},
+          {id: 'to', title: 'Transfer To'},
           {id: 'hash', title: 'Hash'},
-          {id: 'from', title: 'From'},
-          {id: 'to', title: 'To'},
-          {id: 'successful', title: 'Successful'},
+          {id: 'contract', title: 'Contract'},
         ]
       });
 

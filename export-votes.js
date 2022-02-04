@@ -27,6 +27,10 @@ async function main() {
 
     console.log(votes.length, 'votes found.');
 
+    votes.forEach(v => {
+        v.created = new Date(v.created * 1000).toISOString();
+    });
+
     const csvWriter = CSVWritter.createObjectCsvWriter({
         path: 'public/votes.csv',
         header: [

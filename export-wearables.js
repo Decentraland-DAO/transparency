@@ -32,6 +32,11 @@ async function main() {
         w.category = w.metadata.wearable.category;
         w.price = BigNumber(w.price).dividedBy(10 ** 18).toNumber() || 0;
         w.creationFee = BigNumber(w.creationFee).dividedBy(10 ** 18).toNumber() || 0;
+
+        w.createdAt = w.createdAt && new Date(w.createdAt * 1000).toISOString();
+        w.updatedAt = w.updatedAt && new Date(w.updatedAt * 1000).toISOString();
+        w.reviewedAt = w.reviewedAt && new Date(w.reviewedAt * 1000).toISOString();
+        w.soldAt = w.soldAt && new Date(w.soldAt * 1000).toISOString();
     });
 
     console.log(wearables.length, 'wearables found.');

@@ -27,6 +27,12 @@ async function main() {
 
     console.log(collections.length, 'collections found.');
 
+    collections.forEach(c => {
+        c.createdAt = c.createdAt && new Date(c.createdAt * 1000).toISOString();
+        c.updatedAt = c.updatedAt && new Date(c.updatedAt * 1000).toISOString();
+        c.reviewedAt = c.reviewedAt && new Date(c.reviewedAt * 1000).toISOString();
+    });
+
     const csvWriter = CSVWritter.createObjectCsvWriter({
         path: 'public/collections.csv',
         header: [
