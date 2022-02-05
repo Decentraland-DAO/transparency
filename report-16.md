@@ -114,6 +114,9 @@ Since January 16, 1 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
+* [Bionic City Oasis](https://governance.decentraland.org/proposal/?id=553aad60-862a-11ec-bd91-0316d7e70123) (Tier 5)
+* [TO PURCHASE LAND TO CREATE A SPACE SO PEOPLE CAN COME AND SHARE INVESTMENT IDEAS](https://governance.decentraland.org/proposal/?id=017e97e0-85f8-11ec-bd91-0316d7e70123) (Tier 2)
+* [Investment to my families future of online real estate](https://governance.decentraland.org/proposal/?id=37b47740-85ed-11ec-bd91-0316d7e70123) (Tier 1)
 * [Fashion School Graduate Makes Wearables](https://governance.decentraland.org/proposal/?id=65647d80-83d5-11ec-bd91-0316d7e70123) (Tier 2)
 * [want to spread virtual joy by telling dad jokes](https://governance.decentraland.org/proposal/?id=9d1819b0-83be-11ec-bd91-0316d7e70123) (Tier 3)
 * [Decentraland Connect-A-Life (D-CAL)](https://governance.decentraland.org/proposal/?id=b43fb280-82a9-11ec-9166-a5dd0ddb7cdb) (Tier 6)
@@ -125,8 +128,6 @@ Since January 16, 1 grants have been approved and the vesting contract(s) will b
 * [PhD - Lifelong Educator  of Special Needs Individuals Seeks Inclusive Education](https://governance.decentraland.org/proposal/?id=07b07c30-8131-11ec-9166-a5dd0ddb7cdb) (Tier 2)
 * [Mental health support on decentraland](https://governance.decentraland.org/proposal/?id=a47fc6e0-8110-11ec-9166-a5dd0ddb7cdb) (Tier 4)
 * [Community education and interaction.](https://governance.decentraland.org/proposal/?id=2cadb150-80fb-11ec-9166-a5dd0ddb7cdb) (Tier 6)
-* [Decentraland Ambassador](https://governance.decentraland.org/proposal/?id=d78edbe0-80e6-11ec-9166-a5dd0ddb7cdb) (Tier 2)
-* [Aspiring Digital/ Animation Artist](https://governance.decentraland.org/proposal/?id=785f2120-80e1-11ec-9166-a5dd0ddb7cdb) (Tier 2)
 * [Decentral Grave Yard](https://governance.decentraland.org/proposal/?id=0be3df90-80d7-11ec-9166-a5dd0ddb7cdb) (Tier 5)
 * [Land Rental in Decentraland](https://governance.decentraland.org/proposal/?id=3dd05210-80a3-11ec-9166-a5dd0ddb7cdb) (Tier 6)
 
@@ -145,9 +146,6 @@ Since January 16, 1 grants have been approved and the vesting contract(s) will b
 * [[DRAFT PROPOSAL] Decentraland Olympus Pro Partnership](https://governance.decentraland.org/proposal/?id=d166f800-8510-11ec-bd91-0316d7e70123)
 * [Should Yannakis be added to the Wearables Curation Committee?](https://governance.decentraland.org/proposal/?id=d6e15b80-84d0-11ec-bd91-0316d7e70123)
 * [To change the wearable category of Tiara to a more open category](https://governance.decentraland.org/proposal/?id=640662b0-8299-11ec-9166-a5dd0ddb7cdb)
-* [Should decentraland dao move forward on acquiring a suitable public ENS domain? (like mana.eth)](https://governance.decentraland.org/proposal/?id=cbe90790-821a-11ec-9166-a5dd0ddb7cdb)
-* [Should Wearables Including Guns Be Allowed?](https://governance.decentraland.org/proposal/?id=51cae350-81fe-11ec-9166-a5dd0ddb7cdb)
-* [Should Wearables Including Guns Be Allowed?](https://governance.decentraland.org/proposal/?id=b8ad7250-81f8-11ec-9166-a5dd0ddb7cdb)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
