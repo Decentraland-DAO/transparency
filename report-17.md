@@ -106,6 +106,7 @@ Since February 1, 1 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* -54, 34: [CRNFT.ART](https://governance.decentraland.org/proposal/?id=ff239b60-86bc-11ec-bd91-0316d7e70123)
 * -23, -2: [&#39;Genesis Proud&#39;](https://governance.decentraland.org/proposal/?id=1fa3dec0-8525-11ec-bd91-0316d7e70123)
 * 19, 53: [SENSE-GARDEN](https://governance.decentraland.org/proposal/?id=97cf0d70-8511-11ec-bd91-0316d7e70123)
 * -91, -84: [No Name](https://governance.decentraland.org/proposal/?id=b21e91f0-84f3-11ec-bd91-0316d7e70123)
@@ -117,10 +118,10 @@ Since February 1, 1 grants have been approved and the vesting contract(s) will b
 * -76, 58: [District X](https://governance.decentraland.org/proposal/?id=bf801250-82f6-11ec-9166-a5dd0ddb7cdb)
 * -42, 109: [Tin-Tin Tatouages Tattoo Shop](https://governance.decentraland.org/proposal/?id=e2d84840-8237-11ec-9166-a5dd0ddb7cdb)
 * 48, 89: [Aura: a curated NFT platform.](https://governance.decentraland.org/proposal/?id=28f819f0-81d8-11ec-9166-a5dd0ddb7cdb)
-* -55, 29: [The Doors Cafe](https://governance.decentraland.org/proposal/?id=84ceac50-8195-11ec-9166-a5dd0ddb7cdb)
 
 ## Grants
 
+* [Create a community to watch socially conscious programming (films &amp; series)](https://governance.decentraland.org/proposal/?id=b8dc2270-86e5-11ec-bd91-0316d7e70123) (Tier 4)
 * [Bionic City Oasis](https://governance.decentraland.org/proposal/?id=553aad60-862a-11ec-bd91-0316d7e70123) (Tier 5)
 * [TO PURCHASE LAND TO CREATE A SPACE SO PEOPLE CAN COME AND SHARE INVESTMENT IDEAS](https://governance.decentraland.org/proposal/?id=017e97e0-85f8-11ec-bd91-0316d7e70123) (Tier 2)
 * [Investment to my families future of online real estate](https://governance.decentraland.org/proposal/?id=37b47740-85ed-11ec-bd91-0316d7e70123) (Tier 1)
@@ -129,10 +130,7 @@ Since February 1, 1 grants have been approved and the vesting contract(s) will b
 * [Decentraland Connect-A-Life (D-CAL)](https://governance.decentraland.org/proposal/?id=b43fb280-82a9-11ec-9166-a5dd0ddb7cdb) (Tier 6)
 * [A virtual fun to play casino](https://governance.decentraland.org/proposal/?id=5737f330-8228-11ec-9166-a5dd0ddb7cdb) (Tier 4)
 * [Interdimensional](https://governance.decentraland.org/proposal/?id=c3932840-81f3-11ec-9166-a5dd0ddb7cdb) (Tier 1)
-* [Crypto Real Estate Education](https://governance.decentraland.org/proposal/?id=f5925e10-8180-11ec-9166-a5dd0ddb7cdb) (Tier 3)
 * [Decentasland and nft conventions meetups and education](https://governance.decentraland.org/proposal/?id=47d600d0-8165-11ec-9166-a5dd0ddb7cdb) (Tier 6)
-* [Deaf Community Center to promote American Sign Language, Education, + Diversity](https://governance.decentraland.org/proposal/?id=436ce8e0-813a-11ec-9166-a5dd0ddb7cdb) (Tier 3)
-* [PhD - Lifelong Educator  of Special Needs Individuals Seeks Inclusive Education](https://governance.decentraland.org/proposal/?id=07b07c30-8131-11ec-9166-a5dd0ddb7cdb) (Tier 2)
 * [Mental health support on decentraland](https://governance.decentraland.org/proposal/?id=a47fc6e0-8110-11ec-9166-a5dd0ddb7cdb) (Tier 4)
 * [Community education and interaction.](https://governance.decentraland.org/proposal/?id=2cadb150-80fb-11ec-9166-a5dd0ddb7cdb) (Tier 6)
 * [Decentral Grave Yard](https://governance.decentraland.org/proposal/?id=0be3df90-80d7-11ec-9166-a5dd0ddb7cdb) (Tier 5)
@@ -149,10 +147,10 @@ Since February 1, 1 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Have mutiple language avaliable and build local official technical support team to advertise and support global user better.](https://governance.decentraland.org/proposal/?id=c3d57b80-86a0-11ec-bd91-0316d7e70123)
 * [Integrate subdomain names into the Avatar Naming System.](https://governance.decentraland.org/proposal/?id=b8978790-85a1-11ec-bd91-0316d7e70123)
 * [[DRAFT PROPOSAL] Decentraland Olympus Pro Partnership](https://governance.decentraland.org/proposal/?id=d166f800-8510-11ec-bd91-0316d7e70123)
 * [Should Yannakis be added to the Wearables Curation Committee?](https://governance.decentraland.org/proposal/?id=d6e15b80-84d0-11ec-bd91-0316d7e70123)
-* [To change the wearable category of Tiara to a more open category](https://governance.decentraland.org/proposal/?id=640662b0-8299-11ec-9166-a5dd0ddb7cdb)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
