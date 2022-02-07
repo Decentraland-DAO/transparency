@@ -81,29 +81,38 @@ async function main() {
                 'description': "Their principal responsibility is to enact binding proposals on-chain like listing Point of Interests, sending Grants, and any other operations involving the DAO's smart contracts.",
                 'members': [
                     {'address': '0xfe91C0c482E09600f2d1DBCA10FD705BC6de60bc', 'name': 'Yemel'},
-                    {'address': '0xfe91C0c482E09600f2d1DBCA10FD705BC6de60bc', 'name': 'HPrivakos'},
-                    {'address': '0xfe91C0c482E09600f2d1DBCA10FD705BC6de60bc', 'name': 'Eric'},
+                    {'address': '0xBef99f5f55CF7cDb3a70998C57061B7e1386a9b0', 'name': 'HPrivakos'},
+                    {'address': '0x3323B7264F7D5e8f98e6aFCcec73b6bA1116AE19', 'name': 'Eric'},
+                ],
+            },
+            {
+                'name': 'DAO Facilitators',
+                'description': "Responsible for general community outreach and hosting monthly town halls. The DAO Facilitator writes the bi-weekly report based on the comments of the DAO Committee and the community.",
+                'members': [
+                    {'address': '0x76fb13f00CdbdD5eAC8E2664CF14be791aF87cb0', 'name': 'Matimio'},
                 ],
             },
             {
                 'name': 'Security Advisory Board',
                 'description': "Responsable to overview the sensible operations of the DAO, with the power to halt operations initiated by the DAO Committee or the Community. They advise in the best course of action for technical operations involving the DAO's smart contracts.",
                 'members': [
-                    {'address': '0xfe91C0c482E09600f2d1DBCA10FD705BC6de60bc', 'name': 'Nacho'},
-                    {'address': '0xfe91C0c482E09600f2d1DBCA10FD705BC6de60bc', 'name': 'Brett'},
-                    {'address': '0xfe91C0c482E09600f2d1DBCA10FD705BC6de60bc', 'name': 'HPrivakos'},
-                    {'address': '0xfe91C0c482E09600f2d1DBCA10FD705BC6de60bc', 'name': 'Agustin'},
-                    {'address': '0xfe91C0c482E09600f2d1DBCA10FD705BC6de60bc', 'name': 'Ariel Barmat'},
+                    {'address': '0xbcac4dafb7e215f2f6cb3312af6d5e4f9d9e7eda', 'name': 'Nacho'},
+                    {'address': '0xfc4ef0903bb924d06db9cbaba1e4bda6b71d2f82', 'name': 'Brett'},
+                    {'address': '0x48850327b81D0c924Ad212891C7223c2ea5Cd426', 'name': 'HPrivakos'},
+                    {'address': '0x42ebd2ab698ba74eec1d2a81c376ea2c38c05249', 'name': 'Agustin F.'},
+                    {'address': '0x759605f5497c578988d167e2f66d4955d35e77af', 'name': 'Ariel B.'},
                 ],
             },
             {
                 'name': 'Wearable Curation Team',
                 'description': "Responsible for reviewing new wearable submissions ensuring they are glitch-free and compliant with the design guidelines. They also rise warnings about IP infringement and violent content.",
                 'members': [
-                    {'address': '0xfe91C0c482E09600f2d1DBCA10FD705BC6de60bc', 'name': 'Shibu'},
-                    {'address': '0xfe91C0c482E09600f2d1DBCA10FD705BC6de60bc', 'name': 'JP'},
-                    {'address': '0xfe91C0c482E09600f2d1DBCA10FD705BC6de60bc', 'name': 'Lau'},
-                    {'address': '0xfe91C0c482E09600f2d1DBCA10FD705BC6de60bc', 'name': 'Hirotokai'},
+                    {'address': '0x8938d1f65abe7750b0777206ee26c974a6721194', 'name': 'Shibu'},
+                    {'address': '0x7a3891acf4f3b810992c4c6388f2e37357d7d3ab', 'name': 'JP'},
+                    {'address': '0x5d7846007c1dd6dca25d16ce2f71ec13bcdcf6f0', 'name': 'Lau'},
+                    {'address': '0x716954738e57686a08902d9dd586e813490fee23', 'name': 'Hirotokai'},
+                    {'address': '0x82d54417fc69681dc74a6c0c68c6dbad5a2857b9', 'name': 'Malloy'},
+                    {'address': '0x91e222ed7598efbcfe7190481f2fd14897e168c8', 'name': 'Chestnutbruze'},
                 ],
             }
         ]
