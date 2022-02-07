@@ -113,6 +113,7 @@ Since January 16, 1 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
+* [Help Grow The Community](https://governance.decentraland.org/proposal/?id=489d9d30-8821-11ec-bd91-0316d7e70123) (Tier 2)
 * [Educational Area For Special Needs](https://governance.decentraland.org/proposal/?id=0b1ecad0-877a-11ec-bd91-0316d7e70123) (Tier 2)
 * [Chill, travel &amp; Hobbies in the 4 corners of the World](https://governance.decentraland.org/proposal/?id=e9d93b90-8764-11ec-bd91-0316d7e70123) (Tier 6)
 * [Create a community to watch socially conscious programming (films &amp; series)](https://governance.decentraland.org/proposal/?id=b8dc2270-86e5-11ec-bd91-0316d7e70123) (Tier 4)
