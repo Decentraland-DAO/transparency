@@ -56,8 +56,8 @@ async function main() {
             'previous': delta,
             'details': [
                 {'name': 'Vesting Contract', 'value': totalVesting},
-                // {'name': 'Marketplace', 'value': 1233333},
-                // {'name': 'Wearables Publication', 'value': 1233333},
+                {'name': 'Marketplace', 'value': 1233333},
+                {'name': 'Wearables Publication', 'value': 1233333},
                 {'name': 'Other', 'value': otherIncome},
             ]
         },
@@ -67,7 +67,7 @@ async function main() {
             'details': [
                 {'name': 'Curation Committee', 'value': totalCurators},
                 {'name': 'DAO Facilitator', 'value': totalFacilitator},
-                //{'name': 'Grants', 'value': totalFacilitator},
+                {'name': 'Grants', 'value': totalFacilitator},
                 {'name': 'Other', 'value': otherExpenses},
             ]
         },
@@ -75,11 +75,38 @@ async function main() {
             'total': 28000,
             'budget': 40000,
         },
-        'members': [
-            {'address': '0xfe91C0c482E09600f2d1DBCA10FD705BC6de60bc', 'name': 'Yemel', 'team': 'DAO Committee'},
-            {'address': '0xfe91C0c482E09600f2d1DBCA10FD705BC6de60bc', 'name': 'HPrivakos', 'team': 'DAO Committee'},
-            {'address': '0xfe91C0c482E09600f2d1DBCA10FD705BC6de60bc', 'name': 'Eric', 'team': 'DAO Committee'},
-        ],
+        'teams': [
+            {
+                'name': 'DAO Committee',
+                'description': "Their principal responsibility is to enact binding proposals on-chain like listing Point of Interests, sending Grants, and any other operations involving the DAO's smart contracts.",
+                'members': [
+                    {'address': '0xfe91C0c482E09600f2d1DBCA10FD705BC6de60bc', 'name': 'Yemel'},
+                    {'address': '0xfe91C0c482E09600f2d1DBCA10FD705BC6de60bc', 'name': 'HPrivakos'},
+                    {'address': '0xfe91C0c482E09600f2d1DBCA10FD705BC6de60bc', 'name': 'Eric'},
+                ],
+            },
+            {
+                'name': 'Security Advisory Board',
+                'description': "Responsable to overview the sensible operations of the DAO, with the power to halt operations initiated by the DAO Committee or the Community. They advise in the best course of action for technical operations involving the DAO's smart contracts.",
+                'members': [
+                    {'address': '0xfe91C0c482E09600f2d1DBCA10FD705BC6de60bc', 'name': 'Nacho'},
+                    {'address': '0xfe91C0c482E09600f2d1DBCA10FD705BC6de60bc', 'name': 'Brett'},
+                    {'address': '0xfe91C0c482E09600f2d1DBCA10FD705BC6de60bc', 'name': 'HPrivakos'},
+                    {'address': '0xfe91C0c482E09600f2d1DBCA10FD705BC6de60bc', 'name': 'Agustin'},
+                    {'address': '0xfe91C0c482E09600f2d1DBCA10FD705BC6de60bc', 'name': 'Ariel Barmat'},
+                ],
+            },
+            {
+                'name': 'Wearable Curation Team',
+                'description': "Responsible for reviewing new wearable submissions ensuring they are glitch-free and compliant with the design guidelines. They also rise warnings about IP infringement and violent content.",
+                'members': [
+                    {'address': '0xfe91C0c482E09600f2d1DBCA10FD705BC6de60bc', 'name': 'Shibu'},
+                    {'address': '0xfe91C0c482E09600f2d1DBCA10FD705BC6de60bc', 'name': 'JP'},
+                    {'address': '0xfe91C0c482E09600f2d1DBCA10FD705BC6de60bc', 'name': 'Lau'},
+                    {'address': '0xfe91C0c482E09600f2d1DBCA10FD705BC6de60bc', 'name': 'Hirotokai'},
+                ],
+            }
+        ]
     };
 
     fs.writeFile(`public/api.json`, JSON.stringify(data), 'utf8', function (err) {
