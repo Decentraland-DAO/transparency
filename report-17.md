@@ -160,6 +160,7 @@ Since February 1, 1 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
+* [Super cool high tech digital senior citizen will help with anything in &#34;D-land&#34;](https://governance.decentraland.org/proposal/?id=853a7ed0-8a9b-11ec-b2d8-691324a163a7) (Tier 6)
 * [Creating content to help users navigate Decentraland](https://governance.decentraland.org/proposal/?id=903c4130-8936-11ec-bd91-0316d7e70123) (Tier 2)
 * [I stream. I want money for coffee to stream longer.](https://governance.decentraland.org/proposal/?id=c3311110-8904-11ec-bd91-0316d7e70123) (Tier 1)
 * [The Statue of Love (The statue of Mikasa Ackerman)](https://governance.decentraland.org/proposal/?id=fe9124a0-8857-11ec-bd91-0316d7e70123) (Tier 2)
@@ -181,7 +182,6 @@ Since February 1, 1 grants have been approved and the vesting contract(s) will b
 
 ## Names Bans
 
-* [Ban the name Niggeroni](https://governance.decentraland.org/proposal/?id=068384e0-8516-11ec-bd91-0316d7e70123)
 
 ## Catalysts
 
