@@ -24,7 +24,7 @@ async function main() {
         const res = await fetch(url);
         const json = await res.json();
 
-        const holdings = json.items.map(t => ({
+        const holdings = json.data.items.map(t => ({
             'timestamp': t.holdings[0].timestamp,
             'name': wallet[2],
             'amount': BigNumber(t.holdings[0].close.balance).dividedBy(10 ** t.contract_decimals).toNumber(),
