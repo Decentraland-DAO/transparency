@@ -77,22 +77,6 @@ async function main() {
         },
         'teams': [
             {
-                'name': 'DAO Committee',
-                'description': "Their principal responsibility is to enact binding proposals on-chain like listing Point of Interests, sending Grants, and any other operations involving the DAO's smart contracts.",
-                'members': [
-                    {'address': '0xfe91C0c482E09600f2d1DBCA10FD705BC6de60bc', 'name': 'Yemel'},
-                    {'address': '0xBef99f5f55CF7cDb3a70998C57061B7e1386a9b0', 'name': 'HPrivakos'},
-                    {'address': '0x3323B7264F7D5e8f98e6aFCcec73b6bA1116AE19', 'name': 'Eric'},
-                ],
-            },
-            {
-                'name': 'DAO Facilitator',
-                'description': "Responsible for general community outreach and hosting monthly town halls. The DAO Facilitator writes the bi-weekly report based on the comments of the DAO Committee and the community.",
-                'members': [
-                    {'address': '0x76fb13f00CdbdD5eAC8E2664CF14be791aF87cb0', 'name': 'Matimio'},
-                ],
-            },
-            {
                 'name': 'Security Advisory Board',
                 'description': "Responsable to overview the sensible operations of the DAO, with the power to halt operations initiated by the DAO Committee or the Community. They advise in the best course of action for technical operations involving the DAO's smart contracts.",
                 'members': [
@@ -101,6 +85,15 @@ async function main() {
                     {'address': '0x48850327b81D0c924Ad212891C7223c2ea5Cd426', 'name': 'HPrivakos'},
                     {'address': '0x42ebd2ab698ba74eec1d2a81c376ea2c38c05249', 'name': 'Agustin F.'},
                     {'address': '0x759605f5497c578988d167e2f66d4955d35e77af', 'name': 'Ariel B.'},
+                ],
+            },
+            {
+                'name': 'DAO Committee',
+                'description': "Their principal responsibility is to enact binding proposals on-chain like listing Point of Interests, sending Grants, and any other operations involving the DAO's smart contracts.",
+                'members': [
+                    {'address': '0xfe91C0c482E09600f2d1DBCA10FD705BC6de60bc', 'name': 'Yemel'},
+                    {'address': '0xBef99f5f55CF7cDb3a70998C57061B7e1386a9b0', 'name': 'HPrivakos'},
+                    {'address': '0x3323B7264F7D5e8f98e6aFCcec73b6bA1116AE19', 'name': 'Eric'},
                 ],
             },
             {
@@ -113,6 +106,21 @@ async function main() {
                     {'address': '0x716954738e57686a08902d9dd586e813490fee23', 'name': 'Hirotokai'},
                     {'address': '0x82d54417fc69681dc74a6c0c68c6dbad5a2857b9', 'name': 'Malloy'},
                     {'address': '0x91e222ed7598efbcfe7190481f2fd14897e168c8', 'name': 'Chestnutbruze'},
+                    {'address': '0x5E382071464A6F9EA29708A045983dc265B0D86d', 'name': 'Sango'},
+                    {'address': '0xc8ad6322821b51da766a4b2a82b39fb72b53d276', 'name': 'Grimey'},
+                    {'address': '0xa8c7d5818A255A1856b31177E5c96E1D61c83991', 'name': 'AndreusAs'},
+                    {'address': '0x336685bb3A96E13B77E909d7C52e8AfCfF1E859E', 'name': 'Mitch Todd'},
+                    {'address': '0x41eb5F82af60873b3C14fEDB898A1712f5c35366', 'name': 'Kristian'},
+                    {'address': '0x470c33aBD57166940095d59BD8Dd573cBae556c3', 'name': 'James Guard'},
+                    {'address': '0x1DeC5f50cB1467F505BB3ddFD408805114406b10', 'name': 'Fabeeo Breen'},
+                    {'address': '0x805797Df0c0d7D70E14230b72E30171d730DA55e', 'name': 'Yannakis'},
+                ],
+            },
+            {
+                'name': 'DAO Facilitator',
+                'description': "Responsible for general community outreach and hosting monthly town halls. The DAO Facilitator writes the bi-weekly report based on the comments of the DAO Committee and the community.",
+                'members': [
+                    {'address': '0x76fb13f00CdbdD5eAC8E2664CF14be791aF87cb0', 'name': 'Matimio'},
                 ],
             }
         ]

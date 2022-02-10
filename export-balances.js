@@ -14,7 +14,7 @@ const wallets = [
 const API_KEY = process.env.COVALENTHQ_API_KEY;
 
 async function main() {
-    const balances = [];
+    let balances = [];
 
     for(var i = 0 ; i < wallets.length ; i++) {
         let wallet = wallets[i];
@@ -37,6 +37,10 @@ async function main() {
         }));
         balances.push(...holdings);
     }
+
+    balances = balances.filter(b => [
+        'MANA', 'MATIC', 'ETH', 'WETH', 'DAI', 'USDC', 'USDT'
+    ].indexOf(b.symbol) != -1 && b.amount > 0);
 
     console.log(balances.length, 'balances found.');
 
