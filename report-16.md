@@ -99,20 +99,20 @@ Since January 16, 1 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* 150, 150: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=5f8083e0-89d5-11ec-bd91-0316d7e70123)
+* 150, 150: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=c565bfc0-89d2-11ec-bd91-0316d7e70123)
+* -32, -6: [No Name](https://governance.decentraland.org/proposal/?id=326dcbc0-888f-11ec-bd91-0316d7e70123)
 * 54, -1: [For rent - 3000 USD per month - ethereumdealer@gmail.com](https://governance.decentraland.org/proposal/?id=7d0a20c0-8772-11ec-bd91-0316d7e70123)
 * -54, 34: [CRNFT.ART](https://governance.decentraland.org/proposal/?id=ff239b60-86bc-11ec-bd91-0316d7e70123)
 * -23, -2: [&#39;Genesis Proud&#39;](https://governance.decentraland.org/proposal/?id=1fa3dec0-8525-11ec-bd91-0316d7e70123)
 * 19, 53: [SENSE-GARDEN](https://governance.decentraland.org/proposal/?id=97cf0d70-8511-11ec-bd91-0316d7e70123)
-* -91, -84: [No Name](https://governance.decentraland.org/proposal/?id=b21e91f0-84f3-11ec-bd91-0316d7e70123)
-* 150, 150: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=131c1e60-8476-11ec-bd91-0316d7e70123)
-* -30, -140: [expo24seven](https://governance.decentraland.org/proposal/?id=503a53b0-842c-11ec-bd91-0316d7e70123)
-* -75, 108: [Premium Estate](https://governance.decentraland.org/proposal/?id=7e899b10-8420-11ec-bd91-0316d7e70123)
-* 104, 78: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=e74d5f20-8307-11ec-9166-a5dd0ddb7cdb)
-* 8, 140: [No Name](https://governance.decentraland.org/proposal/?id=6ee64670-82fb-11ec-9166-a5dd0ddb7cdb)
-* -76, 58: [District X](https://governance.decentraland.org/proposal/?id=bf801250-82f6-11ec-9166-a5dd0ddb7cdb)
 
 ## Grants
 
+* [Creating content to help users navigate Decentraland](https://governance.decentraland.org/proposal/?id=903c4130-8936-11ec-bd91-0316d7e70123) (Tier 2)
+* [I stream. I want money for coffee to stream longer.](https://governance.decentraland.org/proposal/?id=c3311110-8904-11ec-bd91-0316d7e70123) (Tier 1)
+* [The Statue of Love (The statue of Mikasa Ackerman)](https://governance.decentraland.org/proposal/?id=fe9124a0-8857-11ec-bd91-0316d7e70123) (Tier 2)
+* [Tattoos for Decentraland Avatars](https://governance.decentraland.org/proposal/?id=8d78d820-8849-11ec-bd91-0316d7e70123) (Tier 4)
 * [Help Grow The Community](https://governance.decentraland.org/proposal/?id=489d9d30-8821-11ec-bd91-0316d7e70123) (Tier 2)
 * [Educational Area For Special Needs](https://governance.decentraland.org/proposal/?id=0b1ecad0-877a-11ec-bd91-0316d7e70123) (Tier 2)
 * [Chill, travel &amp; Hobbies in the 4 corners of the World](https://governance.decentraland.org/proposal/?id=e9d93b90-8764-11ec-bd91-0316d7e70123) (Tier 6)
@@ -120,8 +120,6 @@ Since January 16, 1 grants have been approved and the vesting contract(s) will b
 * [Bionic City Oasis](https://governance.decentraland.org/proposal/?id=553aad60-862a-11ec-bd91-0316d7e70123) (Tier 5)
 * [TO PURCHASE LAND TO CREATE A SPACE SO PEOPLE CAN COME AND SHARE INVESTMENT IDEAS](https://governance.decentraland.org/proposal/?id=017e97e0-85f8-11ec-bd91-0316d7e70123) (Tier 2)
 * [Investment to my families future of online real estate](https://governance.decentraland.org/proposal/?id=37b47740-85ed-11ec-bd91-0316d7e70123) (Tier 1)
-* [Fashion School Graduate Makes Wearables](https://governance.decentraland.org/proposal/?id=65647d80-83d5-11ec-bd91-0316d7e70123) (Tier 2)
-* [want to spread virtual joy by telling dad jokes](https://governance.decentraland.org/proposal/?id=9d1819b0-83be-11ec-bd91-0316d7e70123) (Tier 3)
 * [Decentraland Connect-A-Life (D-CAL)](https://governance.decentraland.org/proposal/?id=b43fb280-82a9-11ec-9166-a5dd0ddb7cdb) (Tier 6)
 * [A virtual fun to play casino](https://governance.decentraland.org/proposal/?id=5737f330-8228-11ec-9166-a5dd0ddb7cdb) (Tier 4)
 * [Decentasland and nft conventions meetups and education](https://governance.decentraland.org/proposal/?id=47d600d0-8165-11ec-9166-a5dd0ddb7cdb) (Tier 6)
@@ -133,19 +131,23 @@ Since January 16, 1 grants have been approved and the vesting contract(s) will b
 ## Names Bans
 
 * [Ban the name Niggeroni](https://governance.decentraland.org/proposal/?id=068384e0-8516-11ec-bd91-0316d7e70123)
-* [Ban the name Niggeroni](https://governance.decentraland.org/proposal/?id=ef0348a0-8515-11ec-bd91-0316d7e70123)
-* [Ban the name Sextou](https://governance.decentraland.org/proposal/?id=d8fc48a0-82d5-11ec-9166-a5dd0ddb7cdb)
 
 ## Catalysts
 
 
 ## Polls
 
+* [Can we change &#34; /emote &#34; into &#34; /e &#34; ?](https://governance.decentraland.org/proposal/?id=6d261c20-89db-11ec-bd91-0316d7e70123)
+* [Allow to remove vote on DAO proposals](https://governance.decentraland.org/proposal/?id=e05e8c80-89c8-11ec-bd91-0316d7e70123)
+* [Skins - Should the limit be increased from 5k tris to 6k tris?](https://governance.decentraland.org/proposal/?id=0d57a210-8962-11ec-bd91-0316d7e70123)
+* [Should we create a polygon solution to designate claimed names as alias for other wallets](https://governance.decentraland.org/proposal/?id=e352acd0-88e4-11ec-bd91-0316d7e70123)
+* [Allowing DEED To Be Trade-Able On The Marketplace](https://governance.decentraland.org/proposal/?id=6e4683c0-887c-11ec-bd91-0316d7e70123)
+* [Wearable marketplace listing: group by lowest price](https://governance.decentraland.org/proposal/?id=9360d5a0-8879-11ec-bd91-0316d7e70123)
+* [Ethereum (L1) Wearables: A Comprehensive Proposal | L1 Wearables DAO [Part 2]](https://governance.decentraland.org/proposal/?id=61a89ee0-8873-11ec-bd91-0316d7e70123)
+* [Ethereum (L1) Wearables: A Comprehensive Proposal | Voting Power [Part 1]](https://governance.decentraland.org/proposal/?id=ab106370-8872-11ec-bd91-0316d7e70123)
+* [Please Add Profile Badges to Wearable Approval Mods](https://governance.decentraland.org/proposal/?id=0b7078c0-8834-11ec-bd91-0316d7e70123)
 * [Incorporate a running UTC clock on screen.](https://governance.decentraland.org/proposal/?id=88f6b2a0-875d-11ec-bd91-0316d7e70123)
 * [Have mutiple language avaliable and build local official technical support team to advertise and support global user better.](https://governance.decentraland.org/proposal/?id=c3d57b80-86a0-11ec-bd91-0316d7e70123)
-* [Integrate subdomain names into the Avatar Naming System.](https://governance.decentraland.org/proposal/?id=b8978790-85a1-11ec-bd91-0316d7e70123)
-* [[DRAFT PROPOSAL] Decentraland Olympus Pro Partnership](https://governance.decentraland.org/proposal/?id=d166f800-8510-11ec-bd91-0316d7e70123)
-* [Should Yannakis be added to the Wearables Curation Committee?](https://governance.decentraland.org/proposal/?id=d6e15b80-84d0-11ec-bd91-0316d7e70123)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
