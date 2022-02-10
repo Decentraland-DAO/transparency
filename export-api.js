@@ -72,8 +72,8 @@ async function main() {
             ]
         },
         'funding': {
-            'total': 28000,
-            'budget': 40000,
+            'total': 2370000,
+            'budget': 137458464,
         },
         'teams': [
             {
