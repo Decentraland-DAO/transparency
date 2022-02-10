@@ -9,13 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 12 community polls have passed.
+In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 12 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 
 ## Points of Interest
-3 points of interest have been added to Decentraland’s map since the last report.
+4 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 19, 53: [SENSE-GARDEN](https://governance.decentraland.org/proposal/?id=97cf0d70-8511-11ec-bd91-0316d7e70123)
+
+* Yes 99% 818,456 VP (12 votes)
+* No 0% 4,001 VP (1 votes)
 
 
 #### -75, 108: [Premium Estate](https://governance.decentraland.org/proposal/?id=7e899b10-8420-11ec-bd91-0316d7e70123)
@@ -151,7 +157,6 @@ Since February 1, 1 grants have been approved and the vesting contract(s) will b
 * 54, -1: [For rent - 3000 USD per month - ethereumdealer@gmail.com](https://governance.decentraland.org/proposal/?id=7d0a20c0-8772-11ec-bd91-0316d7e70123)
 * -54, 34: [CRNFT.ART](https://governance.decentraland.org/proposal/?id=ff239b60-86bc-11ec-bd91-0316d7e70123)
 * -23, -2: [&#39;Genesis Proud&#39;](https://governance.decentraland.org/proposal/?id=1fa3dec0-8525-11ec-bd91-0316d7e70123)
-* 19, 53: [SENSE-GARDEN](https://governance.decentraland.org/proposal/?id=97cf0d70-8511-11ec-bd91-0316d7e70123)
 
 ## Grants
 
@@ -193,7 +198,6 @@ Since February 1, 1 grants have been approved and the vesting contract(s) will b
 * [Ethereum (L1) Wearables: A Comprehensive Proposal | Voting Power [Part 1]](https://governance.decentraland.org/proposal/?id=ab106370-8872-11ec-bd91-0316d7e70123)
 * [Please Add Profile Badges to Wearable Approval Mods](https://governance.decentraland.org/proposal/?id=0b7078c0-8834-11ec-bd91-0316d7e70123)
 * [Incorporate a running UTC clock on screen.](https://governance.decentraland.org/proposal/?id=88f6b2a0-875d-11ec-bd91-0316d7e70123)
-* [Have mutiple language avaliable and build local official technical support team to advertise and support global user better.](https://governance.decentraland.org/proposal/?id=c3d57b80-86a0-11ec-bd91-0316d7e70123)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
