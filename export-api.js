@@ -118,7 +118,7 @@ async function main() {
             },
             {
                 'name': 'DAO Facilitator',
-                'description': "Responsible for general community outreach and hosting monthly town halls. The DAO Facilitator writes the bi-weekly report based on the comments of the DAO Committee and the community.",
+                'description': "Responsible for general community outreach and hosting monthly town halls. The DAO Facilitator writes bi-weekly reports based on the comments of the DAO Committee and the community.",
                 'members': [
                     {'address': '0x76fb13f00CdbdD5eAC8E2664CF14be791aF87cb0', 'name': 'Matimio'},
                 ],

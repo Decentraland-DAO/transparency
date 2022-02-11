@@ -8,14 +8,14 @@ async function main() {
         'id scores_total strategies { params } scores_by_strategy votes'
     );
 
+    const proposalVotes = {};
+    proposals.forEach(p => proposalVotes[p.id] = p);
+
     const getVP = (p, symbol) => {
         var index = p.strategies.map(s => s.params.symbol).indexOf(symbol);
         if (index == -1) return 0;
         return parseInt(p.scores_by_strategy.reduce((total, choice) => total + choice[index], 0));
     }
-
-    const proposalVotes = {};
-    proposals.forEach(p => proposalVotes[p.id] = p);
 
     // Get Gobernance dApp Proposals
     proposals = [];
@@ -34,22 +34,21 @@ async function main() {
             'id': p.id,
             'snapshot_id': p.snapshot_id,
             'user': p.user,
-            
             'type': p.type,
             'title': p.title,
             'start_at': p.start_at,
             'finish_at': p.finish_at,
             'required_to_pass': p.required_to_pass,
             'status': p.status,
-            
+            'configuration': p.configuration,
             'discourse_topic_id': p.discourse_topic_id,
-            
             'scores_total': parseInt(pv.scores_total),
             'votes': pv.votes,
             'manaVP': getVP(pv, "MANA") + getVP(pv, "WMANA"),
             'landVP': getVP(pv, "LAND") + getVP(pv, "ESTATE"),
             'namesVP': getVP(pv, "NAMES"),
             'delegatedVP': getVP(pv, "VP (delegated)"),
+            'vesting_address': p.vesting_address,
         }
     });
 
