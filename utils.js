@@ -11,11 +11,12 @@ async function fetchURL(url, options) {
     return await res.json();
 }
 
-async function fetchGraphQL(url, collection, where, orderBy, fields) {
+async function fetchGraphQL(url, collection, where, orderBy, fields, first) {
     const elements = [];
+    first = first || 10000;
     while(true) {
         let skip = elements.length
-        const query = `query {  ${collection} (first: 10000, skip: ${skip}, where: { ${where} }, orderBy: "${orderBy}", orderDirection: desc) { ${fields} }}`;
+        const query = `query {  ${collection} (first: ${first}, skip: ${skip}, where: { ${where} }, orderBy: "${orderBy}", orderDirection: desc) { ${fields} }}`;
 
         const json = await fetchURL(url, {
             headers: {'content-type': 'application/json'},
@@ -23,31 +24,35 @@ async function fetchGraphQL(url, collection, where, orderBy, fields) {
             method: 'POST'
         });
         
+        if(json.errors) throw Error('Fetch Error' + json.errors[0].message);
         if (!json.data[collection].length) break;
         elements.push(...json.data[collection]);
     }
     return elements;
 }
 
-function saveToJSON(path, data) {
+function saveToFile(name, data) {
     if (!fs.existsSync('./public')) fs.mkdirSync('./public');
-    fs.writeFile(path, JSON.stringify(data), 'utf8', function (err) {
-        if (err) {
-            console.log("An error occured while writing JSON Object to File.");
-            return console.log(err);
-        }
-        console.log("The JSON file has been saved.");
-    });
+    const path = './public/' + name;
+    fs.writeFileSync(path, data, 'utf8');
 }
 
-async function saveToCSV(path, data, header)  {
+function saveToJSON(name, data) {
+    saveToFile(name, JSON.stringify(data));
+    console.log("The JSON file has been saved.");
+}
+
+async function saveToCSV(name, data, header)  {
     if (!fs.existsSync('./public')) fs.mkdirSync('./public');
+    const path = './public/' + name;
     const csvWriter = CSVWritter.createObjectCsvWriter({path, header});
     await csvWriter.writeRecords(data);
     console.log('The CSV file has been saved.');
 }
 
+exports.saveToFile = saveToFile;
 exports.saveToJSON = saveToJSON;
 exports.saveToCSV = saveToCSV;
 exports.fetchURL = fetchURL;
 exports.fetchGraphQL = fetchGraphQL;
+exports.toISOString = toISOString;

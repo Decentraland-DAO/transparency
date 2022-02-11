@@ -38,8 +38,8 @@ async function main() {
 
     console.log(proposals.length, 'grants found.');
     
-    Utils.saveToJSON('public/grants.json', proposals);
-    Utils.saveToCSV('public/grants.csv', proposals, [
+    Utils.saveToJSON('grants.json', proposals);
+    Utils.saveToCSV('grants.csv', proposals, [
         {id: 'id', title: 'Proposal ID'},
         {id: 'snapshot_id', title: 'Snapshot ID'},
         {id: 'user', title: 'Author'},

@@ -6,7 +6,7 @@ async function main() {
     // Fetch Wearables
     const url = 'https://api.thegraph.com/subgraphs/name/decentraland/collections-matic-mainnet';
     let wearables = await Utils.fetchGraphQL(url, 'items', '', 'createdAt',
-        'id creator itemType totalSupply maxSupply rarity creationFee available price beneficiary URI image createdAt updatedAt reviewedAt soldAt sales volume metadata { wearable { name description category } }'
+        'id creator itemType totalSupply maxSupply rarity creationFee available price beneficiary URI image createdAt updatedAt reviewedAt soldAt sales volume metadata { wearable { name description category } }', 1000
     );
 
     wearables.forEach(w => {
@@ -23,8 +23,8 @@ async function main() {
     });
 
     console.log(wearables.length, 'wearables found.');
-    Utils.saveToJSON('public/wearables.json', data);
-    Utils.saveToCSV('public/wearables.csv', data, [
+    Utils.saveToJSON('wearables.json', wearables);
+    Utils.saveToCSV('wearables.csv', wearables, [
         {id: 'id', title: 'Item ID'},
         {id: 'name', title: 'Name'},
         {id: 'description', title: 'Description'},

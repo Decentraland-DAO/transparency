@@ -55,8 +55,8 @@ async function main() {
 
     console.log(data.length, 'proposals found.');
     
-    Utils.saveToJSON('public/proposals.json', data);
-    Utils.saveToCSV('public/proposals.csv', data, [
+    Utils.saveToJSON('proposals.json', data);
+    Utils.saveToCSV('proposals.csv', data, [
         {id: 'id', title: 'Proposal ID'},
         {id: 'snapshot_id', title: 'Snapshot ID'},
         {id: 'user', title: 'Author'},

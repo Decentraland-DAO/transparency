@@ -21,7 +21,7 @@ async function main() {
         let network = wallet[0] == "Ethereum" ? 1 : 137;
         let address = wallet[1];
         const url = `https://api.covalenthq.com/v1/${network}/address/${address}/portfolio_v2/?key=${API_KEY}`;
-        const json = Utils.fetchURL(url);
+        const json = await Utils.fetchURL(url);
 
         const holdings = json.data.items.map(t => ({
             'timestamp': t.holdings[0].timestamp,
@@ -42,8 +42,8 @@ async function main() {
     );
     console.log(balances.length, 'balances found.');
 
-    Utils.saveToJSON('public/balances.json', balances);
-    Utils.saveToCSV('public/balances.csv', balances, [
+    Utils.saveToJSON('balances.json', balances);
+    Utils.saveToCSV('balances.csv', balances, [
         {id: 'timestamp', title: 'Timestamp'},
         {id: 'name', title: 'Wallet'},
         {id: 'amount', title: 'Balance'},

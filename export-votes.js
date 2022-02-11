@@ -10,19 +10,19 @@ async function main() {
     );
     
     votes = votes.map(vote => ({
-            'voter': vote.voter,
-            'created': new Date(vote.created * 1000).toISOString(),
-            'choice': vote.choice,
-            'vp': vote.vp,
-            'proposal_id': vote.proposal.id,
-            'proposal_title': vote.proposal.title,
-            'choice_text': vote.proposal.choices[vote.choice-1],
-            'weight': vote.proposal.scores_total ? parseInt(vote.vp / vote.proposal.scores_total * 100): 0,
+        'voter': vote.voter,
+        'created': new Date(vote.created * 1000).toISOString(),
+        'choice': vote.choice,
+        'vp': vote.vp,
+        'proposal_id': vote.proposal.id,
+        'proposal_title': vote.proposal.title,
+        'choice_text': vote.proposal.choices[vote.choice-1],
+        'weight': vote.proposal.scores_total ? parseInt(vote.vp / vote.proposal.scores_total * 100): 0,
     }));
 
     console.log(votes.length, 'votes found.');
-    Utils.saveToJSON('public/votes.json', data);
-    Utils.saveToCSV('public/votes.csv', data, [
+    Utils.saveToJSON('votes.json', votes);
+    Utils.saveToCSV('votes.csv', votes, [
         {id: 'voter', title: 'Member'},
         {id: 'proposal_id', title: 'Proposal ID'},
         {id: 'created', title: 'Created'},

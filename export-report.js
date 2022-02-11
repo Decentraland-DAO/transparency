@@ -1,5 +1,6 @@
 const fs = require('fs');
 const ejs = require('ejs');
+const Utils = require('./utils.js');
 
 function lastReport(now) {
     let lastReport = (new Date(now));
@@ -109,13 +110,8 @@ async function generateReport(currentReport, startDate, endDate) {
         'activePolls': activePolls,
     }, {});
 
-    fs.writeFile(`public/report-${currentReport}.md`, report, 'utf8', function (err) {
-        if (err) {
-            console.log("An error occured while writing JSON Object to File.");
-            return console.log(err);
-        }
-        console.log("✅ The markdown file has been saved.");
-    });
+    Utils.saveToFile(`report-${currentReport}.md`, report);
+    console.log("✅ The markdown file has been saved.");
 }
 
 main();

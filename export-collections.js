@@ -5,7 +5,7 @@ async function main() {
     // Fetch Collections
     const url = 'https://api.thegraph.com/subgraphs/name/decentraland/collections-matic-mainnet';
     let collections = await Utils.fetchGraphQL(url, 'collections', '', 'createdAt',
-        'id itemsCount creator name symbol isCompleted isApproved isEditable createdAt updatedAt reviewedAt'
+        'id itemsCount creator name symbol isCompleted isApproved isEditable createdAt updatedAt reviewedAt', 1000
     );
 
     collections.forEach(c => {
@@ -16,8 +16,8 @@ async function main() {
 
     console.log(collections.length, 'collections found.');
     
-    Utils.saveToJSON('public/collections.json', collections);
-    Utils.saveToCSV('public/collections.csv', collections, [
+    Utils.saveToJSON('collections.json', collections);
+    Utils.saveToCSV('collections.csv', collections, [
         {id: 'id', title: 'Collection ID'},
         {id: 'name', title: 'Name'},
         {id: 'symbol', title: 'Symbol'},

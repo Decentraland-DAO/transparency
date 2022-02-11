@@ -19,8 +19,8 @@ async function main() {
 
     console.log(curations.length, 'curations found.');
 
-    Utils.saveToJSON('public/curations.json', curations);
-    Utils.saveToCSV('public/curations.csv', curations, [
+    Utils.saveToJSON('curations.json', curations);
+    Utils.saveToCSV('curations.csv', curations, [
         {id: 'timestamp', title: 'Date'},
         {id: 'txHash', title: 'Tx Hash'},
         {id: 'curator', title: 'Curator'},

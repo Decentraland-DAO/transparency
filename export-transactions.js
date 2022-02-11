@@ -91,8 +91,8 @@ async function main() {
     transactions = transactions.sort((a, b) => a.date > b.date ? -1 : a.date == a.b ? 0 : 1);
     console.log(transactions.length, 'transactions found.');
 
-    Utils.saveToJSON('public/transactions.json', transactions);
-    Utils.saveToCSV('public/transactions.csv', transactions, [
+    Utils.saveToJSON('transactions.json', transactions);
+    Utils.saveToCSV('transactions.csv', transactions, [
         {id: 'date', title: 'Date'},
         {id: 'wallet', title: 'Wallet'},
         {id: 'network', title: 'Network'},
@@ -173,7 +173,7 @@ async function tagging() {
         }
     }
 
-    Utils.saveToCSV('public/transactions2.csv', txs, [
+    Utils.saveToCSV('transactions2.csv', txs, [
         {id: 'date', title: 'Date'},
         {id: 'wallet', title: 'Wallet'},
         {id: 'network', title: 'Network'},

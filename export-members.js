@@ -206,8 +206,8 @@ async function main() {
         console.log(i, members.length, parseInt(i / members.length * 100));
     }
 
-    Utils.saveToJSON('public/members.json', info);
-    Utils.saveToCSV('public/members.csv', info, [
+    Utils.saveToJSON('members.json', info);
+    Utils.saveToCSV('members.csv', info, [
       {id: 'address', title: 'Member'},
       {id: 'dclName', title: 'DCL Name'},
       {id: 'ensName', title: 'ENS Name'},

@@ -126,7 +126,7 @@ async function main() {
         ]
     };
 
-    Utils.saveToJSON('public/api.json', data);
+    Utils.saveToJSON('api.json', data);
 }
 
 main();
