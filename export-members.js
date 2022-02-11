@@ -1,11 +1,11 @@
 require('dotenv').config();
 
-const fetch = require('isomorphic-fetch');
 const snapshot = require('@snapshot-labs/snapshot.js')
-const CSVWritter = require('csv-writer');
+
+const Utils = require('./utils.js');
 var ENS = require('ethereum-ens');
 var Web3 = require('web3');
-let provider = new Web3.providers.HttpProvider(process.env.INFURA_URL)
+let provider = new Web3.providers.HttpProvider(process.env.INFURA_URL);
 var ens = new ENS(provider);
 
 const info = [];
@@ -159,28 +159,10 @@ const catalysts = [
 ];
 
 async function main() {
-    // Fetch all votes from snapshot
-    const votes = [];
-    while(true) {
-        let skip = votes.length
-        const url = 'https://hub.snapshot.org/graphql';
-        const query = `query {\n  votes (\n    first: 1000\n    skip: ${skip}\n   where: {\n      space_in: [\"snapshot.dcl.eth\"]\n      vp_gt: 10\n    }\n  ) {\n    voter\n  }\n}`;
-
-        const res = await fetch(
-            url,
-            {
-                headers: {
-                'content-type': 'application/json'
-                },
-                body: JSON.stringify({"query": query, "variables": null}),
-                method: 'POST'
-            }
-        );
-        const json = await res.json();
-
-        if (!json.data.votes.length) break;
-        votes.push(...json.data.votes);
-    }
+    // Fetch Snapshot Votes
+    const url = 'https://hub.snapshot.org/graphql';
+    const where = 'space_in: ["snapshot.dcl.eth"], vp_gt: 10';
+    let votes = await Utils.fetchGraphQL(url, 'votes', where, 'created', 'voter');
 
     const allVoters = votes.map(v => v.voter);
     const members = allVoters.filter((elem, pos) => allVoters.indexOf(elem) == pos);
@@ -208,7 +190,7 @@ async function main() {
         try {
             console.log('fetching scores')
             scores = await snapshot.utils.getScores(space, strategies, network, [address], blockNumber);
-            scores = scores.map(a => parseInt(a[address] || 0));
+            scores = scores.map(score => parseInt(score[address] || 0));
         } catch {}
 
         info.push({
@@ -224,21 +206,17 @@ async function main() {
         console.log(i, members.length, parseInt(i / members.length * 100));
     }
 
-    const csvWriter = CSVWritter.createObjectCsvWriter({
-        path: 'members.csv',
-        header: [
-          {id: 'address', title: 'Member'},
-          {id: 'dclName', title: 'DCL Name'},
-          {id: 'ensName', title: 'ENS Name'},
-          {id: 'totalVP', title: 'Total VP'},
-          {id: 'manaVP', title: 'MANA VP'},
-          {id: 'landVP', title: 'LAND VP'},
-          {id: 'namesVP', title: 'NAMES VP'},
-          {id: 'delegatedVP', title: 'Delegated VP'},
-        ]
-      });
-
-    csvWriter.writeRecords(info).then(()=> console.log('The CSV file has been saved.'));
+    Utils.saveToJSON('public/members.json', info);
+    Utils.saveToCSV('public/members.csv', info, [
+      {id: 'address', title: 'Member'},
+      {id: 'dclName', title: 'DCL Name'},
+      {id: 'ensName', title: 'ENS Name'},
+      {id: 'totalVP', title: 'Total VP'},
+      {id: 'manaVP', title: 'MANA VP'},
+      {id: 'landVP', title: 'LAND VP'},
+      {id: 'namesVP', title: 'NAMES VP'},
+      {id: 'delegatedVP', title: 'Delegated VP'},
+    ]);
 }
 
 main();

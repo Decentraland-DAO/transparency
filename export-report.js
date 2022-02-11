@@ -1,6 +1,5 @@
 const fs = require('fs');
 const ejs = require('ejs');
-const fetch = require('isomorphic-fetch');
 
 function lastReport(now) {
     let lastReport = (new Date(now));
@@ -44,8 +43,7 @@ async function generateReport(currentReport, startDate, endDate) {
     while(true) {
         let skip = proposals.length
         const url = `https://governance.decentraland.org/api/proposals?limit=100000&offset=${skip}`;
-        const res = await fetch(url);
-        const json = await res.json();
+        const json = await Utils.fetchURL(url);
 
         if (!json.data.length) break;
         proposals.push(...json.data);
@@ -55,8 +53,7 @@ async function generateReport(currentReport, startDate, endDate) {
     for(var i = 0 ; i < pois.length ; i++) {
         const x = pois[i].configuration.x;
         const y = pois[i].configuration.y;
-        const res = await fetch(`https://api.decentraland.org/v2/tiles?x1=${x}&y1=${y}&x2=${x}&y2=${y}`)
-        const json = await res.json();
+        const json = await Utils.fetchURL(`https://api.decentraland.org/v2/tiles?x1=${x}&y1=${y}&x2=${x}&y2=${y}`);
         pois[i].name = json.data[`${x},${y}`].name || 'No Name';
     }
 
@@ -77,8 +74,8 @@ async function generateReport(currentReport, startDate, endDate) {
 
     for(var i = 0; i < fproposals.length; i++) {
         const prop = fproposals[i];
-        const res = await fetch(`https://governance.decentraland.org/api/proposals/${prop.id}/votes`);
-        const data = await res.json();
+        const data = await Utils.fetchURL(`https://governance.decentraland.org/api/proposals/${prop.id}/votes`);
+
         const votes = Object.values(data.data);
         prop.totalVP = votes.reduce((total, vote) => total + vote.vp, 0);
         prop.choices = prop.configuration.choices.map((name, index) => {

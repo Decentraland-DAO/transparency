@@ -1,15 +1,15 @@
 require('dotenv').config();
 
-const fs = require('fs');
-const fetch = require('isomorphic-fetch');
 const BigNumber = require('bignumber.js');
-const CSVWritter = require('csv-writer');
+const Utils = require('./utils.js');
 
 const wallets = [
     ["Ethereum", "0x9a6ebe7e2a7722f8200d0ffb63a1f6406a0d7dce", "Aragon Agent"],
     ["Ethereum", "0x89214c8Ca9A49E60a3bfa8e00544F384C93719b1", "DAO Committee"],
     ["Polygon", "0xB08E3e7cc815213304d884C88cA476ebC50EaAB2", "DAO Committee"],
 ];
+
+const ALLOWED_SYMBOLS = ['MANA', 'MATIC', 'ETH', 'WETH', 'DAI', 'USDC', 'USDT'];
 
 const API_KEY = process.env.COVALENTHQ_API_KEY;
 
@@ -21,8 +21,7 @@ async function main() {
         let network = wallet[0] == "Ethereum" ? 1 : 137;
         let address = wallet[1];
         const url = `https://api.covalenthq.com/v1/${network}/address/${address}/portfolio_v2/?key=${API_KEY}`;
-        const res = await fetch(url);
-        const json = await res.json();
+        const json = Utils.fetchURL(url);
 
         const holdings = json.data.items.map(t => ({
             'timestamp': t.holdings[0].timestamp,
@@ -38,36 +37,23 @@ async function main() {
         balances.push(...holdings);
     }
 
-    balances = balances.filter(b => [
-        'MANA', 'MATIC', 'ETH', 'WETH', 'DAI', 'USDC', 'USDT'
-    ].indexOf(b.symbol) != -1 && b.amount > 0);
-
+    balances = balances.filter(
+        b => ALLOWED_SYMBOLS.indexOf(b.symbol) != -1 && b.amount > 0
+    );
     console.log(balances.length, 'balances found.');
 
-    const csvWriter = CSVWritter.createObjectCsvWriter({
-        path: 'public/balances.csv',
-        header: [
-          {id: 'timestamp', title: 'Timestamp'},
-          {id: 'name', title: 'Wallet'},
-          {id: 'amount', title: 'Balance'},
-          {id: 'symbol', title: 'Symbol'},
-          {id: 'quote', title: 'USD Balance'},
-          {id: 'rate', title: 'USD Rate'},
-          {id: 'network', title: 'Network'},
-          {id: 'address', title: 'Address'},
-          {id: 'contractAddress', title: 'Token'},
-        ]
-      });
-
-    csvWriter.writeRecords(balances).then(()=> console.log('The CSV file has been saved.'));
-
-    fs.writeFile("public/balances.json", JSON.stringify(balances), 'utf8', function (err) {
-        if (err) {
-            console.log("An error occured while writing JSON Object to File.");
-            return console.log(err);
-        }
-        console.log("The JSON file has been saved.");
-    });
+    Utils.saveToJSON('public/balances.json', balances);
+    Utils.saveToCSV('public/balances.csv', balances, [
+        {id: 'timestamp', title: 'Timestamp'},
+        {id: 'name', title: 'Wallet'},
+        {id: 'amount', title: 'Balance'},
+        {id: 'symbol', title: 'Symbol'},
+        {id: 'quote', title: 'USD Balance'},
+        {id: 'rate', title: 'USD Rate'},
+        {id: 'network', title: 'Network'},
+        {id: 'address', title: 'Address'},
+        {id: 'contractAddress', title: 'Token'},
+    ]);
 }
 
 main();

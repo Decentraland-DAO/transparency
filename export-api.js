@@ -1,4 +1,4 @@
-const fs = require('fs');
+const Utils = require('./utils.js');
 const balances = require('./public/balances.json');
 const transactions = require('./public/transactions.json');
 
@@ -126,13 +126,7 @@ async function main() {
         ]
     };
 
-    fs.writeFile(`public/api.json`, JSON.stringify(data), 'utf8', function (err) {
-        if (err) {
-            console.log("An error occured while writing JSON Object to File.");
-            return console.log(err);
-        }
-        console.log("✅ The JSON file has been saved.");
-    });
+    Utils.saveToJSON('public/api.json', data);
 }
 
 main();
