@@ -34,6 +34,15 @@ jobs:
           node export-votes.js
           node upload.js Votes ./public/votes.csv
 
+      - name: Pull Grants
+        env:
+          SHEET_ID: ${{ secrets.SHEET_ID }}
+          SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
+          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
+        run: |
+          node export-grants.js
+          node upload.js Grants ./public/grants.csv
+
       - name: Pull Balances
         env:
           COVALENTHQ_API_KEY: ${{ secrets.COVALENTHQ_API_KEY }}
@@ -73,15 +82,6 @@ jobs:
           node export-wearables.js
           node upload.js Wearables ./public/wearables.csv
 
-      - name: Pull Grants
-        env:
-          SHEET_ID: ${{ secrets.SHEET_ID }}
-          SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
-          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
-        run: |
-          node export-grants.js
-          node upload.js Grants ./public/grants.csv
-          
       - name: Export API
         run: node export-api.js
 
