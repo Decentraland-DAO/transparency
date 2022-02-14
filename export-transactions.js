@@ -239,7 +239,7 @@ async function tagging(txs) {
     ]);
 }
 
-// main();
+main();
 
-let txs = require('./public/transactions.json');
-tagging(txs);
+// let txs = require('./public/transactions.json');
+// tagging(txs);
