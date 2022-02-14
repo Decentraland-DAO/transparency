@@ -1,9 +1,8 @@
 require('dotenv').config();
 
 const BigNumber = require('bignumber.js');
-const fetch = require('isomorphic-fetch');
-
 const Utils = require('./utils.js');
+const grants = require('./public/grants.json');
 
 const wallets = [
     ["Ethereum", "0x9a6ebe7e2a7722f8200d0ffb63a1f6406a0d7dce", "Aragon Agent"],
@@ -32,16 +31,33 @@ const maticTokens = Object.keys(tokens).filter(a => tokens[a][0] == 'Polygon');
 
 const API_KEY = process.env.COVALENTHQ_API_KEY;
 
+const GRANT_ADDRESSES = grants.filter(g => g.status == 'enacted' || g.status == 'passed').map(g => g.vesting_address || g.grant_beneficiary);
+const CURATOR_ADDRESSES = [
+    "0x5d7846007c1dd6dca25d16ce2f71ec13bcdcf6f0",
+    "0x716954738e57686a08902d9dd586e813490fee23",
+    "0xC958f028d1b871ab2e32C2aBdA54F37191eFe0C2",
+    "0x82d54417fc69681dc74a6c0c68c6dbad5a2857b9",
+    "0x9dB59920d3776c2d8A3aA0CbD7b16d81FcAb0A2b",
+    "0x91e222ed7598efbcfe7190481f2fd14897e168c8",
+    "0x9dB59920d3776c2d8A3aA0CbD7b16d81FcAb0A2b",
+    "0x6cDFDB9a4D99f16B5607caB1d00c792206db554E",
+];
+
+async function getLogsTxs(network, contract, topic) {
+
+}
+
 async function getTopicTxs(network, startblock, topic) {
     const events = [];
     let block = startblock;
     let url = `https://api.covalenthq.com/v1/${network}/block_v2/latest/?key=${API_KEY}`;
     let json = await Utils.fetchURL(url);
     let latestBlock = json.data.items[0].height;
-    console.log('Latest', latestBlock)
+    console.log('Latest', network, block, latestBlock, (latestBlock - block) / 1000000);
 
     while(block < latestBlock) {
         url = `https://api.covalenthq.com/v1/${network}/events/topics/${topic}/?key=${API_KEY}&starting-block=${block}&ending-block=${block+1000000}&page-size=1000000000`;
+        console.log('fetch', url);
         json = await Utils.fetchURL(url);
         let evs = json.data.items.map(e => e.tx_hash);
         events.push(...evs);
@@ -107,26 +123,57 @@ async function main() {
         {id: 'hash', title: 'Hash'},
         {id: 'contract', title: 'Contract'},
     ]);
+
+    await tagging(transactions);
 }
 
-async function tagging() {
-    ETH_ORDER_SUCCESSFUL = '0x695ec315e8a642a74d450a4505eeea53df699b47a7378c7d752e97d5b16eb9bb';
-    LAND_TRANSFER_TOPIC = '0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef';
-    ESTATE_TRANSFER_TOPIC = '0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef';
-    let txs = require('./public/transactions.json');
+async function tagging(txs) {
+    ETH_ORDER_TOPIC = '0x695ec315e8a642a74d450a4505eeea53df699b47a7378c7d752e97d5b16eb9bb';
+    MATIC_ORDER_TOPIC = '0x77cc75f8061aa168906862622e88c5b05a026a9c06c02d91ec98543e01e7ad33';
+    MATIC_ORDER_TOPIC2 = '0x6869791f0a34781b29882982cc39e882768cf2c96995c2a110c577c53bc932d5';
     
     const ethTxs = txs.filter(t => t.network == "Ethereum");
     const ethStartblock = ethTxs[ethTxs.length-1].block;
-    marketOrdersTxs = await getTopicTxs(1, ethStartblock, ETH_ORDER_SUCCESSFUL);
-    
+    marketOrdersTxs = await getTopicTxs(1, ethStartblock, ETH_ORDER_TOPIC);
+    console.log('Ethereum Orders:', marketOrdersTxs.length);
+
+    const maticTxs = txs.filter(t => t.network == "Polygon");
+    const maticStartblock = maticTxs[maticTxs.length-1].block;
+    maticOrdersTxs = await getTopicTxs(137, maticStartblock, MATIC_ORDER_TOPIC);
+    console.log('Matic Orders:', maticOrdersTxs.length);
+
+    // maticOrdersTxs2 = await getTopicTxs(137, maticStartblock, MATIC_ORDER_TOPIC2);
+    // console.log('Matic Orders 2:', maticOrdersTxs2.length);
+    // return;
+
     let other = 0;
     for(var i = 0; i < txs.length; i++) {
         let tx = txs[i];
         tx.tag = '-';
 
         if(marketOrdersTxs.indexOf(tx.hash) != -1) {
-            tx.tag = 'DCL Marketplace';
+            tx.tag = 'ETH Marketplace';
             continue;
+        }
+
+        if(maticOrdersTxs.indexOf(tx.hash) != -1) {
+            tx.tag = 'MATIC Marketplace';
+            continue;
+        }
+
+        // if(maticOrdersTxs2.indexOf(tx.hash) != -1) {
+        //     tx.tag = 'MATIC Marketplace 2';
+        //     continue;
+        // }
+
+        if(tx.type == 'OUT' && GRANT_ADDRESSES.indexOf(tx.to) != -1) {
+            tx.tag = 'Grant';
+            continue
+        }
+
+        if(tx.type == 'OUT' && CURATOR_ADDRESSES.indexOf(tx.to) != -1) {
+            tx.tag = 'Curator';
+            continue
         }
 
         if(tx.type == 'IN' && tx.from == '0x7a3abf8897f31b56f09c6f69d074a393a905c1ac') {
@@ -173,7 +220,8 @@ async function tagging() {
         }
     }
 
-    Utils.saveToCSV('transactions2.csv', txs, [
+    Utils.saveToJSON('transactions.json', txs);
+    Utils.saveToCSV('transactions.csv', txs, [
         {id: 'date', title: 'Date'},
         {id: 'wallet', title: 'Wallet'},
         {id: 'network', title: 'Network'},
@@ -191,5 +239,7 @@ async function tagging() {
     ]);
 }
 
-main();
-// tagging();
+// main();
+
+let txs = require('./public/transactions.json');
+tagging(txs);

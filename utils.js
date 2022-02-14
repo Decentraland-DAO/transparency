@@ -8,6 +8,7 @@ function toISOString(date) {
 
 async function fetchURL(url, options) {
     const res = await fetch(url, options);
+    if(res.errors) console.log(res.errors);
     return await res.json();
 }
 

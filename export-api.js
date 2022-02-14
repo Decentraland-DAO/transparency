@@ -1,6 +1,7 @@
 const Utils = require('./utils.js');
 const balances = require('./public/balances.json');
 const transactions = require('./public/transactions.json');
+const grants = require('./public/grants.json');
 
 var VESTING_ADDRESS = '0x7a3abf8897f31b56f09c6f69d074a393a905c1ac';
 var FACILITATOR_ADDRESS = '0x76fb13f00cdbdd5eac8e2664cf14be791af87cb0';
@@ -49,6 +50,8 @@ async function main() {
     var totalCurators = sumQuote(expensesTxs30.filter(tx => CURATORS_ADDRESSES.indexOf(tx.to) != -1));
     var otherExpenses = totalExpenses30 - totalFacilitator - totalCurators;
 
+    var totalFunding = grants.filter(g => g.status == 'enacted').reduce((a, g) => a + g.grant_size, 0);
+
     const data = {
         'balances': balances,
         'income': {
@@ -56,8 +59,8 @@ async function main() {
             'previous': delta,
             'details': [
                 {'name': 'Vesting Contract', 'value': totalVesting},
-                {'name': 'Marketplace', 'value': 1233333},
-                {'name': 'Wearables Publication', 'value': 1233333},
+                // {'name': 'Marketplace', 'value': 1233333},
+                // {'name': 'Wearables Publication', 'value': 1233333},
                 {'name': 'Other', 'value': otherIncome},
             ]
         },
@@ -67,13 +70,12 @@ async function main() {
             'details': [
                 {'name': 'Curation Committee', 'value': totalCurators},
                 {'name': 'DAO Facilitator', 'value': totalFacilitator},
-                {'name': 'Grants', 'value': totalFacilitator},
+                // {'name': 'Grants', 'value': totalFacilitator},
                 {'name': 'Other', 'value': otherExpenses},
             ]
         },
         'funding': {
-            'total': 2370000,
-            'budget': 137458464,
+            'total': totalFunding,
         },
         'teams': [
             {
@@ -93,7 +95,13 @@ async function main() {
                 'members': [
                     {'address': '0xfe91C0c482E09600f2d1DBCA10FD705BC6de60bc', 'name': 'Yemel'},
                     {'address': '0xBef99f5f55CF7cDb3a70998C57061B7e1386a9b0', 'name': 'HPrivakos'},
-                    {'address': '0x3323B7264F7D5e8f98e6aFCcec73b6bA1116AE19', 'name': 'Eric'},
+                ],
+            },
+            {
+                'name': 'DAO Facilitator',
+                'description': "Responsible for general community outreach and hosting monthly town halls. The DAO Facilitator writes bi-weekly reports based on the comments of the DAO Committee and the community.",
+                'members': [
+                    {'address': '0x76fb13f00CdbdD5eAC8E2664CF14be791aF87cb0', 'name': 'Matimio'},
                 ],
             },
             {
@@ -114,13 +122,6 @@ async function main() {
                     {'address': '0x470c33aBD57166940095d59BD8Dd573cBae556c3', 'name': 'James Guard'},
                     {'address': '0x1DeC5f50cB1467F505BB3ddFD408805114406b10', 'name': 'Fabeeo Breen'},
                     {'address': '0x805797Df0c0d7D70E14230b72E30171d730DA55e', 'name': 'Yannakis'},
-                ],
-            },
-            {
-                'name': 'DAO Facilitator',
-                'description': "Responsible for general community outreach and hosting monthly town halls. The DAO Facilitator writes bi-weekly reports based on the comments of the DAO Committee and the community.",
-                'members': [
-                    {'address': '0x76fb13f00CdbdD5eAC8E2664CF14be791aF87cb0', 'name': 'Matimio'},
                 ],
             }
         ]
