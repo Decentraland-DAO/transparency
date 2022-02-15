@@ -1,18 +1,11 @@
 <div align="center">
-    <img src="icon.svg" height="100" alt="Logo">
+    <img src="icon.svg" height="100" alt="Logo"><br/>
     <strong>A set of tools to collect and process Decentraland's data into actionable insights.</strong>
-</div>
-<br>
-<div align="center">
-    <a href="https://datastudio.google.com/u/3/reporting/fca13118-c18d-4e68-9582-ad46d2dd5ce9/page/p_hc6ik7jerc"><b>Dashboard</b></a><br/>
-    <a href="https://docs.google.com/spreadsheets/d/1FoV7TdMTVnqVOZoV4bvVdHWkeu4sMH5JEhp8L0Shjlo/edit?usp=sharing"><b>Google Sheets</b></a><br/>
-    <a href="https://github.com/Decentraland-DAO/transparency/tree/gh-pages"><b>CSV & JSON</b></a><br/>
-    <a href="https://github.com/Decentraland-DAO/transparency/actions"><b>Run logs</b></a>
 </div>
 
 ### How it works:
 * All data is collected from public sources (e.g. blockchain or indexing services).
-* The scripts run on daily bases and publish the raw data in CSV and JSON formats ([view logs]()).
+* The scripts run on daily bases and publish the raw data in CSV and JSON formats.
 * The data also funneled into Google Sheet and Google DataStudio for further analysis.
 
 ### Design Principles
@@ -20,13 +13,13 @@
 * Auditable: Open source code and public workflow logs.
 * Simple: Easy to understand, easy to contribute.
 
-### Third Party
+### Third Party Providers
 * Infura: Blockchain provider.
 * Snapshot: Off-chain voting.
 * Catalyst's API: POIs and members Names.
 * CovalentHQ: Transfers and balances.
 
-### Outputs
+### Data Soruces
 - Proposals
 - Members
 - Votes
@@ -36,10 +29,35 @@
 - Curations
 - API
 
+### Outputs Formats
+* [Google Data Studio](https://datastudio.google.com/u/3/reporting/fca13118-c18d-4e68-9582-ad46d2dd5ce9/page/p_hc6ik7jerc)
+* [Google Sheets](https://docs.google.com/spreadsheets/d/1FoV7TdMTVnqVOZoV4bvVdHWkeu4sMH5JEhp8L0Shjlo/edit?usp=sharing)
+* [Raw Data in CSV and JSON](https://github.com/Decentraland-DAO/transparency/tree/gh-pages)
+* [Run Logs](https://github.com/Decentraland-DAO/transparency/actions)
+
 ## Contributing
 
 Feel free to create a Github issue with your suggestions or find us at [the DAO's Discord Server](https://discord.gg/TKXwhNkY) on the #general channel.
 
+The commands you need to setup and use the enviroment are:
+
+```
+# Install dependencies
+npm install
+
+# Set up your environment variables
+cp .env.example .env
+pico .env
+
+# Run script that exports files to ./public/
+node export-xxxxx.js
+
+# Upload CSV to shpreadsheet
+node upload.js SHEET_NAME ./public/xxxxx.csv
+
+# Add a job the the daily process that collects and publish data
+pico .github/workflows/pull-data.yml
+```
 
 ## Copyright & License
 
