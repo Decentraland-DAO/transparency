@@ -34,6 +34,16 @@ jobs:
           node export-votes.js
           node upload.js Votes ./public/votes.csv
 
+       - name: Pull Members
+        env:
+          INFURA_URL: ${{ secrets.INFURA_URL }}
+          SHEET_ID: ${{ secrets.SHEET_ID }}
+          SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
+          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
+        run: |
+          node export-members.js
+          node upload.js Members ./public/members.csv
+
       - name: Pull Grants
         env:
           INFURA_URL: ${{ secrets.INFURA_URL }}
