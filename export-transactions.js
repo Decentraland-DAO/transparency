@@ -31,21 +31,19 @@ const maticTokens = Object.keys(tokens).filter(a => tokens[a][0] == 'Polygon');
 
 const API_KEY = process.env.COVALENTHQ_API_KEY;
 
-const GRANT_ADDRESSES = grants.filter(g => g.status == 'enacted' || g.status == 'passed').map(g => g.vesting_address || g.grant_beneficiary);
+const GRANT_ADDRESSES = grants.filter(g => g.status == 'enacted' || g.status == 'passed').map(g => (g.vesting_address || g.grant_beneficiary).toLowerCase());
 const CURATOR_ADDRESSES = [
-    "0x5d7846007c1dd6dca25d16ce2f71ec13bcdcf6f0",
-    "0x716954738e57686a08902d9dd586e813490fee23",
-    "0xC958f028d1b871ab2e32C2aBdA54F37191eFe0C2",
-    "0x82d54417fc69681dc74a6c0c68c6dbad5a2857b9",
-    "0x9dB59920d3776c2d8A3aA0CbD7b16d81FcAb0A2b",
-    "0x91e222ed7598efbcfe7190481f2fd14897e168c8",
-    "0x9dB59920d3776c2d8A3aA0CbD7b16d81FcAb0A2b",
-    "0x6cDFDB9a4D99f16B5607caB1d00c792206db554E",
+    '0x5d7846007c1dd6dca25d16ce2f71ec13bcdcf6f0',
+    '0x716954738e57686a08902d9dd586e813490fee23',
+    '0xc958f028d1b871ab2e32c2abda54f37191efe0c2',
+    '0x82d54417fc69681dc74a6c0c68c6dbad5a2857b9',
+    '0x9db59920d3776c2d8a3aa0cbd7b16d81fcab0a2b',
+    '0x91e222ed7598efbcfe7190481f2fd14897e168c8',
+    '0x9db59920d3776c2d8a3aa0cbd7b16d81fcab0a2b',
+    '0x6cdfdb9a4d99f16b5607cab1d00c792206db554e'
 ];
 
-async function getLogsTxs(network, contract, topic) {
-
-}
+const FACILITATOR_ADDRESS = "0x76fb13f00cdbdd5eac8e2664cf14be791af87cb0";
 
 async function getTopicTxs(network, startblock, topic) {
     const events = [];
@@ -80,27 +78,31 @@ async function main() {
             var token = tokens[tokenAddresses[t]];
             const url = `https://api.covalenthq.com/v1/${network}/address/${address}/transfers_v2/?key=${API_KEY}&contract-address=${tokenAddresses[t]}&page-size=500000`;
             const json = await Utils.fetchURL(url);
-            const txs = json.data.items.filter(t => t.successful).map(t => {
-                var type = (
-                    walletAddresses.indexOf(t.transfers[0].from_address) != -1 &&
-                    walletAddresses.indexOf(t.transfers[0].to_address) != -1
-                ) ? 'INTERNAL' : t.transfers[0].transfer_type;
-                return {
-                'wallet': name,
-                'hash': t.tx_hash,
-                'date': t.block_signed_at,
-                'block': t.block_height,
-                'network': token[0],
-                'type': type,
-                'amount': BigNumber(t.transfers[0].delta).dividedBy(10 ** t.transfers[0].contract_decimals).toNumber(),
-                'symbol': t.transfers[0].contract_ticker_symbol,
-                'contract': t.transfers[0].contract_address,
-                'quote': t.transfers[0].delta_quote,
-                'sender': t.from_address,
-                'from': t.transfers[0].from_address,
-                'to': t.transfers[0].to_address,
-            }});
-            transactions.push(...txs);
+            const txs = json.data.items.filter(t => t.successful);
+
+            for(var j = 0; j < txs.length ; j++) {
+                const transfers = txs[j].transfers.map(trans => {
+                    var type = (
+                        walletAddresses.indexOf(trans.from_address) != -1 &&
+                        walletAddresses.indexOf(trans.to_address) != -1
+                    ) ? 'INTERNAL' : trans.transfer_type;
+                    return {
+                    'wallet': name,
+                    'hash': txs[j].tx_hash,
+                    'date': txs[j].block_signed_at,
+                    'block': txs[j].block_height,
+                    'network': token[0],
+                    'type': type,
+                    'amount': BigNumber(trans.delta).dividedBy(10 ** trans.contract_decimals).toNumber(),
+                    'symbol': trans.contract_ticker_symbol,
+                    'contract': trans.contract_address,
+                    'quote': trans.delta_quote,
+                    'sender': trans.from_address,
+                    'from': trans.from_address,
+                    'to': trans.to_address,
+                }});
+                transactions.push(...transfers);
+            }
         }
     }
 
@@ -131,7 +133,8 @@ async function tagging(txs) {
     ETH_ORDER_TOPIC = '0x695ec315e8a642a74d450a4505eeea53df699b47a7378c7d752e97d5b16eb9bb';
     MATIC_ORDER_TOPIC = '0x77cc75f8061aa168906862622e88c5b05a026a9c06c02d91ec98543e01e7ad33';
     MATIC_ORDER_TOPIC2 = '0x6869791f0a34781b29882982cc39e882768cf2c96995c2a110c577c53bc932d5';
-    
+    ONEINCH_ADDRESSES = ['0x1111111254fb6c44bac0bed2854e76f90643097d', '0x11111112542d85b3ef69ae05771c2dccff4faa26'];
+
     const ethTxs = txs.filter(t => t.network == "Ethereum");
     const ethStartblock = ethTxs[ethTxs.length-1].block;
     marketOrdersTxs = await getTopicTxs(1, ethStartblock, ETH_ORDER_TOPIC);
@@ -176,6 +179,11 @@ async function tagging(txs) {
             continue
         }
 
+        if(tx.type == 'OUT' && tx.to == FACILITATOR_ADDRESS) {
+            tx.tag = 'Facilitator';
+            continue
+        }
+
         if(tx.type == 'IN' && tx.from == '0x7a3abf8897f31b56f09c6f69d074a393a905c1ac') {
             tx.tag = 'Vesting Contract';
             continue
@@ -201,7 +209,7 @@ async function tagging(txs) {
             continue
         }
         
-        if (tx.type == 'IN' && tx.network == "Ethereum") {
+        if (tx.network == "Ethereum") {
             tx.tag = 'OTHER';
 
             const network = tx.network == "Ethereum" ? 1 : 137;
@@ -211,9 +219,9 @@ async function tagging(txs) {
             const isLooksRare = !!json.data && json.data.items[0].log_events.filter(log => log.sender_address == '0x59728544b08ab483533076417fbbb2fd0b17ce3a').length > 0;
             const isERC721Bid = !!json.data && json.data.items[0].log_events.filter(log => log.sender_address == '0xe479dfd9664c693b2e2992300930b00bfde08233').length > 0;
             const isSushiswap = !!json.data && json.data.items[0].log_events.filter(log => log.sender_address == '0x1bec4db6c3bc499f3dbf289f5499c30d541fec97').length > 0;
-            const is1nch = !!json.data && json.data.items[0].log_events.filter(log => log.sender_address == '0x11111112542d85b3ef69ae05771c2dccff4faa26').length > 0;
+            const is1nch = !!json.data && json.data.items[0].log_events.filter(log => ONEINCH_ADDRESSES.indexOf(log.sender_address) != -1).length > 0;
             if(isLooksRare) tx.tag = 'LooksRare';
-            if(isERC721Bid) tx.tag = 'DCL Marketplace';
+            if(isERC721Bid) tx.tag = 'ETH Marketplace';
             if(isSushiswap) tx.tag = 'Swap';
             if(is1nch) tx.tag = 'Swap';
             other++;

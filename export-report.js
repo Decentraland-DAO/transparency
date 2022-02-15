@@ -16,6 +16,15 @@ function yesterday(now) {
     return new Date(now - (1000 * 3600 * 24));
 }
 
+async function getPoisNames(pois) {
+    for(var i = 0 ; i < pois.length ; i++) {
+        const x = pois[i].configuration.x;
+        const y = pois[i].configuration.y;
+        const json = await Utils.fetchURL(`https://api.decentraland.org/v2/tiles?x1=${x}&y1=${y}&x2=${x}&y2=${y}`);
+        pois[i].name = json.data[`${x},${y}`].name || 'No Name';
+    }
+}
+
 async function main() {
     let now = new Date(new Date().toISOString().slice(0, 10));
     let currentReport = 14 + (now.getUTCFullYear() - 2022) * 24 + (now.getUTCMonth() * 2);
@@ -48,14 +57,6 @@ async function generateReport(currentReport, startDate, endDate) {
 
         if (!json.data.length) break;
         proposals.push(...json.data);
-    }
-
-    const pois = proposals.filter(p => p.type == 'poi');
-    for(var i = 0 ; i < pois.length ; i++) {
-        const x = pois[i].configuration.x;
-        const y = pois[i].configuration.y;
-        const json = await Utils.fetchURL(`https://api.decentraland.org/v2/tiles?x1=${x}&y1=${y}&x2=${x}&y2=${y}`);
-        pois[i].name = json.data[`${x},${y}`].name || 'No Name';
     }
 
     // Active Proposals
@@ -93,6 +94,9 @@ async function generateReport(currentReport, startDate, endDate) {
     newBans = fproposals.filter(p => p.type == 'ban_name');
     newCatalysts = fproposals.filter(p => p.type == 'catalyst');
     newPolls = fproposals.filter(p => p.type == 'poll');
+
+    await getPoisNames(newPois);
+    await getPoisNames(activePois);
 
     report = await ejs.renderFile('report.md', {
         'number': currentReport,

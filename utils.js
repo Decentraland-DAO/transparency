@@ -6,10 +6,18 @@ function toISOString(date) {
     return date && new Date(date * 1000).toISOString();
 }
 
-async function fetchURL(url, options) {
-    const res = await fetch(url, options);
-    if(res.errors) console.log(res.errors);
-    return await res.json();
+const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
+
+async function fetchURL(url, options, retry) {
+    retry = retry === undefined ? 3 : retry;
+    let res = await fetch(url, options);
+    try {
+        return await res.json();
+    } catch (err) {
+        if (retry == 0) throw err;
+        await delay(2000);
+        return await fetchURL(url, options, retry-1);
+    }
 }
 
 async function fetchGraphQL(url, collection, where, orderBy, fields, first) {
