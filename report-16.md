@@ -118,7 +118,6 @@ Since January 16, 1 grants have been approved and the vesting contract(s) will b
 * [customer accusistion](https://governance.decentraland.org/proposal/?id=4c1eb3b0-8bfd-11ec-b2d8-691324a163a7) (Tier 2)
 * [Super cool high tech digital senior citizen will help with anything in &#34;D-land&#34;](https://governance.decentraland.org/proposal/?id=853a7ed0-8a9b-11ec-b2d8-691324a163a7) (Tier 6)
 * [Creating content to help users navigate Decentraland](https://governance.decentraland.org/proposal/?id=903c4130-8936-11ec-bd91-0316d7e70123) (Tier 2)
-* [I stream. I want money for coffee to stream longer.](https://governance.decentraland.org/proposal/?id=c3311110-8904-11ec-bd91-0316d7e70123) (Tier 1)
 * [Tattoos for Decentraland Avatars](https://governance.decentraland.org/proposal/?id=8d78d820-8849-11ec-bd91-0316d7e70123) (Tier 4)
 * [Chill, travel &amp; Hobbies in the 4 corners of the World](https://governance.decentraland.org/proposal/?id=e9d93b90-8764-11ec-bd91-0316d7e70123) (Tier 6)
 * [Create a community to watch socially conscious programming (films &amp; series)](https://governance.decentraland.org/proposal/?id=b8dc2270-86e5-11ec-bd91-0316d7e70123) (Tier 4)
