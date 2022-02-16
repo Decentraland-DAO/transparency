@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 5 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 12 community polls have passed.
+In the two weeks since the last DAO Committee report, 5 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 12 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -57,7 +57,13 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since February 1, 1 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since February 1, 2 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Creating content to help users navigate Decentraland](https://governance.decentraland.org/proposal/?id=903c4130-8936-11ec-bd91-0316d7e70123) (Tier 2)
+
+* Yes 99% 1,057,550 VP (68 votes)
+* No 0% 157 VP (1 votes)
 
 
 #### [Develop a local scene editor to work with the Decentraland SDK](https://governance.decentraland.org/proposal/?id=0cb35ba0-7e05-11ec-9447-6b730f00647d) (Tier 3)
@@ -175,7 +181,6 @@ Since February 1, 1 grants have been approved and the vesting contract(s) will b
 * [ETHAnglia - Gaming and the Metaverse](https://governance.decentraland.org/proposal/?id=eeb84ba0-8c15-11ec-b2d8-691324a163a7) (Tier 3)
 * [customer accusistion](https://governance.decentraland.org/proposal/?id=4c1eb3b0-8bfd-11ec-b2d8-691324a163a7) (Tier 2)
 * [Super cool high tech digital senior citizen will help with anything in &#34;D-land&#34;](https://governance.decentraland.org/proposal/?id=853a7ed0-8a9b-11ec-b2d8-691324a163a7) (Tier 6)
-* [Creating content to help users navigate Decentraland](https://governance.decentraland.org/proposal/?id=903c4130-8936-11ec-bd91-0316d7e70123) (Tier 2)
 * [Tattoos for Decentraland Avatars](https://governance.decentraland.org/proposal/?id=8d78d820-8849-11ec-bd91-0316d7e70123) (Tier 4)
 * [Chill, travel &amp; Hobbies in the 4 corners of the World](https://governance.decentraland.org/proposal/?id=e9d93b90-8764-11ec-bd91-0316d7e70123) (Tier 6)
 * [Create a community to watch socially conscious programming (films &amp; series)](https://governance.decentraland.org/proposal/?id=b8dc2270-86e5-11ec-bd91-0316d7e70123) (Tier 4)
@@ -183,6 +188,7 @@ Since February 1, 1 grants have been approved and the vesting contract(s) will b
 
 ## Names Bans
 
+* [Ban the name childporn](https://governance.decentraland.org/proposal/?id=3e930040-8f11-11ec-9794-c9ea21a9ed8f)
 * [Ban the name childmolest](https://governance.decentraland.org/proposal/?id=81af96c0-8e32-11ec-9794-c9ea21a9ed8f)
 * [Ban the name childmolest](https://governance.decentraland.org/proposal/?id=7255b010-8e32-11ec-9794-c9ea21a9ed8f)
 
