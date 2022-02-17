@@ -43,11 +43,12 @@ Since February 16, 0 grants have been approved and the vesting contract(s) will 
 * 13, -103: [iMining.com Headquarters](https://governance.decentraland.org/proposal/?id=7e105d90-8add-11ec-b2d8-691324a163a7)
 * -28, -63: [Metakey](https://governance.decentraland.org/proposal/?id=50dcbf30-8ac4-11ec-b2d8-691324a163a7)
 * 14, 53: [SciArt Lab](https://governance.decentraland.org/proposal/?id=d0d6edf0-8aab-11ec-b2d8-691324a163a7)
-* 150, 150: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=5f8083e0-89d5-11ec-bd91-0316d7e70123)
-* 150, 150: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=c565bfc0-89d2-11ec-bd91-0316d7e70123)
 
 ## Grants
 
+* [Engaging videos to help new members](https://governance.decentraland.org/proposal/?id=b70900e0-8f7c-11ec-9794-c9ea21a9ed8f) (Tier 2)
+* [Create models on demand](https://governance.decentraland.org/proposal/?id=61b1fce0-8f46-11ec-9794-c9ea21a9ed8f) (Tier 4)
+* [To keep the content supply fresh in Filmrare-Cinematheque by acquisition](https://governance.decentraland.org/proposal/?id=4bc064d0-8f23-11ec-9794-c9ea21a9ed8f) (Tier 2)
 * [WeMeta Builder Tag](https://governance.decentraland.org/proposal/?id=5c5d12f0-8dea-11ec-9794-c9ea21a9ed8f) (Tier 6)
 * [Runixcoin Mining LAND](https://governance.decentraland.org/proposal/?id=d7202560-8de8-11ec-9794-c9ea21a9ed8f) (Tier 6)
 * [Community Module: Parkour Creation Kit](https://governance.decentraland.org/proposal/?id=5701b9c0-8d25-11ec-b2d8-691324a163a7) (Tier 2)
@@ -71,6 +72,9 @@ Since February 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Request to implement 24 hour timeout on Edit Price function](https://governance.decentraland.org/proposal/?id=2c45c460-8f78-11ec-9794-c9ea21a9ed8f)
+* [Should players own the copyright on Decentraland screenshots they make?](https://governance.decentraland.org/proposal/?id=e8800dc0-8f73-11ec-9794-c9ea21a9ed8f)
+* [Request to add Shop by Creator search filter](https://governance.decentraland.org/proposal/?id=d06edcf0-8f43-11ec-9794-c9ea21a9ed8f)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
