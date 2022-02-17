@@ -3,8 +3,6 @@ const balances = require('./public/balances.json');
 const transactions = require('./public/transactions.json');
 const grants = require('./public/grants.json');
 
-var VESTING_ADDRESS = '0x7a3abf8897f31b56f09c6f69d074a393a905c1ac';
-
 const sumQuote = txs => txs.reduce((total, tx) => total + tx.quote, 0);
 
 async function main() {
@@ -73,11 +71,11 @@ async function main() {
                 'name': 'Security Advisory Board',
                 'description': "Responsable to overview the sensible operations of the DAO, with the power to halt operations initiated by the DAO Committee or the Community. They advise in the best course of action for technical operations involving the DAO's smart contracts.",
                 'members': [
-                    {'address': '0xbcac4dafb7e215f2f6cb3312af6d5e4f9d9e7eda', 'name': 'Nacho', 'url': 'https://decentraland.org/images/male.png'},
+                    {'address': '0xbcac4dafb7e215f2f6cb3312af6d5e4f9d9e7eda', 'name': 'Ignacio', 'url': 'https://decentraland.org/images/male.png'},
                     {'address': '0xfc4ef0903bb924d06db9cbaba1e4bda6b71d2f82', 'name': 'Brett', 'url': 'https://decentraland.org/images/male.png'},
                     {'address': '0x48850327b81D0c924Ad212891C7223c2ea5Cd426', 'name': 'Kyllian', 'url': 'https://peer.decentraland.org/content/contents/QmawhssHwbFsSNfW47bvkUtXq7CzitxQ3idzYoWeZBaYJX'},
-                    {'address': '0x42ebd2ab698ba74eec1d2a81c376ea2c38c05249', 'name': 'Agustin F.', 'url': 'https://decentraland.org/images/male.png'},
-                    {'address': '0x759605f5497c578988d167e2f66d4955d35e77af', 'name': 'Ariel B.', 'url': 'https://decentraland.org/images/male.png'},
+                    {'address': '0x42ebd2ab698ba74eec1d2a81c376ea2c38c05249', 'name': 'Agustin', 'url': 'https://decentraland.org/images/male.png'},
+                    {'address': '0x759605f5497c578988d167e2f66d4955d35e77af', 'name': 'Ariel', 'url': 'https://decentraland.org/images/male.png'},
                 ],
             },
             {
