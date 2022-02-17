@@ -30,6 +30,7 @@
 - API
 
 ### Outputs Formats
+* [Transparency Page](https://governance.decentraland.org/transparency/)
 * [Google Data Studio](https://datastudio.google.com/u/3/reporting/fca13118-c18d-4e68-9582-ad46d2dd5ce9/page/p_hc6ik7jerc)
 * [Google Sheets](https://docs.google.com/spreadsheets/d/1FoV7TdMTVnqVOZoV4bvVdHWkeu4sMH5JEhp8L0Shjlo/edit?usp=sharing)
 * [Raw Data in CSV and JSON](https://github.com/Decentraland-DAO/transparency/tree/gh-pages)
