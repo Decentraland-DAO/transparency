@@ -172,6 +172,11 @@ Since February 1, 2 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
+* [Genesis city top-down map website and mapping script](https://governance.decentraland.org/proposal/?id=b8219300-900f-11ec-9794-c9ea21a9ed8f) (Tier 3)
+* [Genesis city top-down map website and mapping script](https://governance.decentraland.org/proposal/?id=ccdf9770-900e-11ec-9794-c9ea21a9ed8f) (Tier 3)
+* [Genesis city top-down map website and mapping script](https://governance.decentraland.org/proposal/?id=39d1f0b0-900c-11ec-9794-c9ea21a9ed8f) (Tier 3)
+* [Genesis city top-down map website and mapping script](https://governance.decentraland.org/proposal/?id=87b922e0-900b-11ec-9794-c9ea21a9ed8f) (Tier 3)
+* [Genesis city top-down map website and mapping script](https://governance.decentraland.org/proposal/?id=635927b0-900b-11ec-9794-c9ea21a9ed8f) (Tier 3)
 * [Engaging videos to help new members](https://governance.decentraland.org/proposal/?id=b70900e0-8f7c-11ec-9794-c9ea21a9ed8f) (Tier 2)
 * [Create models on demand](https://governance.decentraland.org/proposal/?id=61b1fce0-8f46-11ec-9794-c9ea21a9ed8f) (Tier 4)
 * [To keep the content supply fresh in Filmrare-Cinematheque by acquisition](https://governance.decentraland.org/proposal/?id=4bc064d0-8f23-11ec-9794-c9ea21a9ed8f) (Tier 2)
