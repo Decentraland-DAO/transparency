@@ -71,19 +71,19 @@ async function main() {
                 'name': 'Security Advisory Board',
                 'description': "Responsable to overview the sensible operations of the DAO, with the power to halt operations initiated by the DAO Committee or the Community. They advise in the best course of action for technical operations involving the DAO's smart contracts.",
                 'members': [
-                    {'address': '0xbcac4dafb7e215f2f6cb3312af6d5e4f9d9e7eda', 'name': 'Ignacio', 'url': 'https://decentraland.org/images/male.png'},
-                    {'address': '0xfc4ef0903bb924d06db9cbaba1e4bda6b71d2f82', 'name': 'Brett', 'url': 'https://decentraland.org/images/male.png'},
-                    {'address': '0x48850327b81D0c924Ad212891C7223c2ea5Cd426', 'name': 'Kyllian', 'url': 'https://peer.decentraland.org/content/contents/QmawhssHwbFsSNfW47bvkUtXq7CzitxQ3idzYoWeZBaYJX'},
-                    {'address': '0x42ebd2ab698ba74eec1d2a81c376ea2c38c05249', 'name': 'Agustin', 'url': 'https://decentraland.org/images/male.png'},
-                    {'address': '0x759605f5497c578988d167e2f66d4955d35e77af', 'name': 'Ariel', 'url': 'https://decentraland.org/images/male.png'},
+                    {'address': '0xbcac4dafb7e215f2f6cb3312af6d5e4f9d9e7eda', 'name': 'Ignacio', 'avatar': 'https://decentraland.org/images/male.png'},
+                    {'address': '0xfc4ef0903bb924d06db9cbaba1e4bda6b71d2f82', 'name': 'Brett', 'avatar': 'https://decentraland.org/images/male.png'},
+                    {'address': '0x48850327b81D0c924Ad212891C7223c2ea5Cd426', 'name': 'Kyllian', 'avatar': 'https://peer.decentraland.org/content/contents/QmawhssHwbFsSNfW47bvkUtXq7CzitxQ3idzYoWeZBaYJX'},
+                    {'address': '0x42ebd2ab698ba74eec1d2a81c376ea2c38c05249', 'name': 'Agustin', 'avatar': 'https://decentraland.org/images/male.png'},
+                    {'address': '0x759605f5497c578988d167e2f66d4955d35e77af', 'name': 'Ariel', 'avatar': 'https://decentraland.org/images/male.png'},
                 ],
             },
             {
                 'name': 'DAO Committee',
                 'description': "Their principal responsibility is to enact binding proposals on-chain like listing Point of Interests, sending Grants, and any other operations involving the DAO's smart contracts.",
                 'members': [
-                    {'address': '0xfe91C0c482E09600f2d1DBCA10FD705BC6de60bc', 'name': 'Yemel', 'url': 'https://peer.decentraland.org/content/contents/QmUvDC3wSSTg7Hnej2A6sp3KZPqSULtvkJfvMBJBrLSb8p'},
-                    {'address': '0xBef99f5f55CF7cDb3a70998C57061B7e1386a9b0', 'name': 'Kyllian', 'url': 'https://decentraland.org/images/male.png'},
+                    {'address': '0xfe91C0c482E09600f2d1DBCA10FD705BC6de60bc', 'name': 'Yemel', 'avatar': 'https://peer.decentraland.org/content/contents/QmUvDC3wSSTg7Hnej2A6sp3KZPqSULtvkJfvMBJBrLSb8p'},
+                    {'address': '0xBef99f5f55CF7cDb3a70998C57061B7e1386a9b0', 'name': 'Kyllian', 'avatar': 'https://decentraland.org/images/male.png'},
                 ],
             },
             {
