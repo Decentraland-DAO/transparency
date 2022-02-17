@@ -35,7 +35,6 @@ jobs:
 
       - name: Pull Members
         env:
-          INFURA_URL: ${{ secrets.INFURA_URL }}
           SHEET_ID: ${{ secrets.SHEET_ID }}
           SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
           SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}

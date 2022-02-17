@@ -3,10 +3,6 @@ require('dotenv').config();
 const snapshot = require('@snapshot-labs/snapshot.js')
 
 const Utils = require('./utils.js');
-var ENS = require('ethereum-ens');
-var Web3 = require('web3');
-let provider = new Web3.providers.HttpProvider(process.env.INFURA_URL);
-var ens = new ENS(provider);
 
 const info = [];
 
@@ -170,22 +166,6 @@ async function main() {
 
     for(var i = 0 ; i < members.length ; i++) {
         const address = members[i];
-        
-        let json = {"avatars":[]}
-        try {
-            console.log('fetching profile')
-            const domain = catalysts[i % catalysts.length];
-            const res = await fetch(`https://${domain}/lambdas/profile/${address}`);
-            json = await res.json();
-        } catch {}
-        
-        // Fetch Name
-        let ensName = '';
-        try {
-            console.log('fetching ens')
-            ensName = await ens.reverse(address).name();
-        } catch {}
-
         let scores = [0, 0, 0, 0, 0];
         try {
             console.log('fetching scores')
@@ -195,13 +175,11 @@ async function main() {
 
         info.push({
             'address': address,
-            'dclName': json.avatars[0] ? json.avatars[0].name : '',
             'totalVP': scores.reduce((a, b) => a + b),
             'manaVP': scores[0] + scores[1],
             'landVP': scores[2] + scores[3],
             'namesVP': scores[4],
             'delegatedVP': scores[5],
-            'ensName': ensName,
         });
         console.log(i, members.length, parseInt(i / members.length * 100));
     }
