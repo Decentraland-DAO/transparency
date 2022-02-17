@@ -173,10 +173,6 @@ Since February 1, 2 grants have been approved and the vesting contract(s) will b
 ## Grants
 
 * [Genesis city top-down map website and mapping script](https://governance.decentraland.org/proposal/?id=b8219300-900f-11ec-9794-c9ea21a9ed8f) (Tier 3)
-* [Genesis city top-down map website and mapping script](https://governance.decentraland.org/proposal/?id=ccdf9770-900e-11ec-9794-c9ea21a9ed8f) (Tier 3)
-* [Genesis city top-down map website and mapping script](https://governance.decentraland.org/proposal/?id=39d1f0b0-900c-11ec-9794-c9ea21a9ed8f) (Tier 3)
-* [Genesis city top-down map website and mapping script](https://governance.decentraland.org/proposal/?id=87b922e0-900b-11ec-9794-c9ea21a9ed8f) (Tier 3)
-* [Genesis city top-down map website and mapping script](https://governance.decentraland.org/proposal/?id=635927b0-900b-11ec-9794-c9ea21a9ed8f) (Tier 3)
 * [Engaging videos to help new members](https://governance.decentraland.org/proposal/?id=b70900e0-8f7c-11ec-9794-c9ea21a9ed8f) (Tier 2)
 * [Create models on demand](https://governance.decentraland.org/proposal/?id=61b1fce0-8f46-11ec-9794-c9ea21a9ed8f) (Tier 4)
 * [To keep the content supply fresh in Filmrare-Cinematheque by acquisition](https://governance.decentraland.org/proposal/?id=4bc064d0-8f23-11ec-9794-c9ea21a9ed8f) (Tier 2)
@@ -203,6 +199,7 @@ Since February 1, 2 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Should &#39;Pets&#39; Be Approved as Shoe Category?](https://governance.decentraland.org/proposal/?id=286f5f60-9025-11ec-9794-c9ea21a9ed8f)
 * [Request to implement 24 hour timeout on Edit Price function](https://governance.decentraland.org/proposal/?id=2c45c460-8f78-11ec-9794-c9ea21a9ed8f)
 * [Should players own the copyright on Decentraland screenshots they make?](https://governance.decentraland.org/proposal/?id=e8800dc0-8f73-11ec-9794-c9ea21a9ed8f)
 * [Request to add Shop by Creator search filter](https://governance.decentraland.org/proposal/?id=d06edcf0-8f43-11ec-9794-c9ea21a9ed8f)
