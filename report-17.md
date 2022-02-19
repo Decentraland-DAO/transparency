@@ -164,7 +164,6 @@ Since February 1, 2 grants have been approved and the vesting contract(s) will b
 ## Points of Interest
 
 * -40, 68: [No Name](https://governance.decentraland.org/proposal/?id=415342f0-8db7-11ec-9794-c9ea21a9ed8f)
-* 143, -36: [Federated Reserve Pub](https://governance.decentraland.org/proposal/?id=5273a640-8b9d-11ec-b2d8-691324a163a7)
 
 ## Grants
 
@@ -182,7 +181,6 @@ Since February 1, 2 grants have been approved and the vesting contract(s) will b
 * [Tattoos for Decentraland Avatars](https://governance.decentraland.org/proposal/?id=8d78d820-8849-11ec-bd91-0316d7e70123) (Tier 4)
 * [Chill, travel &amp; Hobbies in the 4 corners of the World](https://governance.decentraland.org/proposal/?id=e9d93b90-8764-11ec-bd91-0316d7e70123) (Tier 6)
 * [Create a community to watch socially conscious programming (films &amp; series)](https://governance.decentraland.org/proposal/?id=b8dc2270-86e5-11ec-bd91-0316d7e70123) (Tier 4)
-* [Bionic City Oasis](https://governance.decentraland.org/proposal/?id=553aad60-862a-11ec-bd91-0316d7e70123) (Tier 5)
 
 ## Names Bans
 
