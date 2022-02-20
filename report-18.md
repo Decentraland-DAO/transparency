@@ -49,6 +49,7 @@ Since February 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
+* 100, -5: [👨‍🔧 SALE 🤝 8 LAND 👩‍⚖️](https://governance.decentraland.org/proposal/?id=a080dd40-920e-11ec-831d-95af4f79cd2a)
 * -40, 68: [No Name](https://governance.decentraland.org/proposal/?id=415342f0-8db7-11ec-9794-c9ea21a9ed8f)
 
 ## Grants
@@ -61,15 +62,13 @@ Since February 16, 0 grants have been approved and the vesting contract(s) will 
 * [Runixcoin Mining LAND](https://governance.decentraland.org/proposal/?id=d7202560-8de8-11ec-9794-c9ea21a9ed8f) (Tier 6)
 * [Community Module: Parkour Creation Kit](https://governance.decentraland.org/proposal/?id=5701b9c0-8d25-11ec-b2d8-691324a163a7) (Tier 2)
 * [Clinically Validated Mental Health Resources in DCL](https://governance.decentraland.org/proposal/?id=07a64e10-8c29-11ec-b2d8-691324a163a7) (Tier 6)
-* [ETHAnglia - Gaming and the Metaverse](https://governance.decentraland.org/proposal/?id=eeb84ba0-8c15-11ec-b2d8-691324a163a7) (Tier 3)
-* [customer accusistion](https://governance.decentraland.org/proposal/?id=4c1eb3b0-8bfd-11ec-b2d8-691324a163a7) (Tier 2)
 * [Super cool high tech digital senior citizen will help with anything in &#34;D-land&#34;](https://governance.decentraland.org/proposal/?id=853a7ed0-8a9b-11ec-b2d8-691324a163a7) (Tier 6)
 * [Tattoos for Decentraland Avatars](https://governance.decentraland.org/proposal/?id=8d78d820-8849-11ec-bd91-0316d7e70123) (Tier 4)
 * [Chill, travel &amp; Hobbies in the 4 corners of the World](https://governance.decentraland.org/proposal/?id=e9d93b90-8764-11ec-bd91-0316d7e70123) (Tier 6)
-* [Create a community to watch socially conscious programming (films &amp; series)](https://governance.decentraland.org/proposal/?id=b8dc2270-86e5-11ec-bd91-0316d7e70123) (Tier 4)
 
 ## Names Bans
 
+* [Ban the name Hamadalzeri560b](https://governance.decentraland.org/proposal/?id=a3f2ff30-9182-11ec-831d-95af4f79cd2a)
 * [Ban the name childfucker](https://governance.decentraland.org/proposal/?id=a4d0ff70-904b-11ec-831d-95af4f79cd2a)
 * [Ban the name childporn](https://governance.decentraland.org/proposal/?id=3e930040-8f11-11ec-9794-c9ea21a9ed8f)
 * [Ban the name childmolest](https://governance.decentraland.org/proposal/?id=81af96c0-8e32-11ec-9794-c9ea21a9ed8f)
