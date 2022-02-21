@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -39,7 +39,13 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since February 16, 0 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since February 16, 1 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Community Module: Parkour Creation Kit](https://governance.decentraland.org/proposal/?id=5701b9c0-8d25-11ec-b2d8-691324a163a7) (Tier 2)
+
+* Yes 99% 1,236,255 VP (19 votes)
+* No 0% 9,705 VP (5 votes)
 
 
 ## Polls
@@ -49,22 +55,22 @@ Since February 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
+* 150, 150: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=a2dcf940-925c-11ec-831d-95af4f79cd2a)
 * 100, -5: [👨‍🔧 SALE 🤝 8 LAND 👩‍⚖️](https://governance.decentraland.org/proposal/?id=a080dd40-920e-11ec-831d-95af4f79cd2a)
 * -40, 68: [No Name](https://governance.decentraland.org/proposal/?id=415342f0-8db7-11ec-9794-c9ea21a9ed8f)
 
 ## Grants
 
+* [Decentraland tutorial videos for Portuguese speaking community](https://governance.decentraland.org/proposal/?id=38c72150-9286-11ec-831d-95af4f79cd2a) (Tier 2)
 * [To keep the content supply fresh in Filmrare-Cinematheque by acquisition](https://governance.decentraland.org/proposal/?id=20fa0450-9067-11ec-831d-95af4f79cd2a) (Tier 2)
 * [Genesis city top-down map website and mapping script](https://governance.decentraland.org/proposal/?id=b8219300-900f-11ec-9794-c9ea21a9ed8f) (Tier 3)
 * [Engaging videos to help new members](https://governance.decentraland.org/proposal/?id=b70900e0-8f7c-11ec-9794-c9ea21a9ed8f) (Tier 2)
 * [Create models on demand](https://governance.decentraland.org/proposal/?id=61b1fce0-8f46-11ec-9794-c9ea21a9ed8f) (Tier 4)
 * [WeMeta Builder Tag](https://governance.decentraland.org/proposal/?id=5c5d12f0-8dea-11ec-9794-c9ea21a9ed8f) (Tier 6)
 * [Runixcoin Mining LAND](https://governance.decentraland.org/proposal/?id=d7202560-8de8-11ec-9794-c9ea21a9ed8f) (Tier 6)
-* [Community Module: Parkour Creation Kit](https://governance.decentraland.org/proposal/?id=5701b9c0-8d25-11ec-b2d8-691324a163a7) (Tier 2)
 * [Clinically Validated Mental Health Resources in DCL](https://governance.decentraland.org/proposal/?id=07a64e10-8c29-11ec-b2d8-691324a163a7) (Tier 6)
 * [Super cool high tech digital senior citizen will help with anything in &#34;D-land&#34;](https://governance.decentraland.org/proposal/?id=853a7ed0-8a9b-11ec-b2d8-691324a163a7) (Tier 6)
 * [Tattoos for Decentraland Avatars](https://governance.decentraland.org/proposal/?id=8d78d820-8849-11ec-bd91-0316d7e70123) (Tier 4)
-* [Chill, travel &amp; Hobbies in the 4 corners of the World](https://governance.decentraland.org/proposal/?id=e9d93b90-8764-11ec-bd91-0316d7e70123) (Tier 6)
 
 ## Names Bans
 
@@ -79,6 +85,9 @@ Since February 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Can we add a merch store option to the main landing page for Decentraland?](https://governance.decentraland.org/proposal/?id=c5798a00-9292-11ec-831d-95af4f79cd2a)
+* [Platform BUG!](https://governance.decentraland.org/proposal/?id=a7861ce0-9286-11ec-831d-95af4f79cd2a)
+* [Create the ability of &#34;flight?&#34;  Allow items/wearables to convey this?](https://governance.decentraland.org/proposal/?id=402d0fe0-9240-11ec-831d-95af4f79cd2a)
 * [Open NFT Emote Loading/Minting in Decentraland to the Public, similar to wearable minting](https://governance.decentraland.org/proposal/?id=6862f830-9051-11ec-831d-95af4f79cd2a)
 * [Is it possible to produce a TV ad?](https://governance.decentraland.org/proposal/?id=e32a8930-9028-11ec-9794-c9ea21a9ed8f)
 * [Should &#39;Pets&#39; Be Approved as Shoe Category?](https://governance.decentraland.org/proposal/?id=286f5f60-9025-11ec-9794-c9ea21a9ed8f)
