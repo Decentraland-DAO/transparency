@@ -163,9 +163,9 @@ Since February 1, 2 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* 14, 53: [SciArt Lab](https://governance.decentraland.org/proposal/?id=0140c150-933a-11ec-831d-95af4f79cd2a)
 * 150, 150: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=a2dcf940-925c-11ec-831d-95af4f79cd2a)
 * 100, -5: [👨‍🔧 SALE 🤝 8 LAND 👩‍⚖️](https://governance.decentraland.org/proposal/?id=a080dd40-920e-11ec-831d-95af4f79cd2a)
-* -40, 68: [No Name](https://governance.decentraland.org/proposal/?id=415342f0-8db7-11ec-9794-c9ea21a9ed8f)
 
 ## Grants
 
@@ -178,30 +178,27 @@ Since February 1, 2 grants have been approved and the vesting contract(s) will b
 * [Runixcoin Mining LAND](https://governance.decentraland.org/proposal/?id=d7202560-8de8-11ec-9794-c9ea21a9ed8f) (Tier 6)
 * [Clinically Validated Mental Health Resources in DCL](https://governance.decentraland.org/proposal/?id=07a64e10-8c29-11ec-b2d8-691324a163a7) (Tier 6)
 * [Super cool high tech digital senior citizen will help with anything in &#34;D-land&#34;](https://governance.decentraland.org/proposal/?id=853a7ed0-8a9b-11ec-b2d8-691324a163a7) (Tier 6)
-* [Tattoos for Decentraland Avatars](https://governance.decentraland.org/proposal/?id=8d78d820-8849-11ec-bd91-0316d7e70123) (Tier 4)
 
 ## Names Bans
 
+* [Ban the name WearableNiqab](https://governance.decentraland.org/proposal/?id=231ed1c0-9328-11ec-831d-95af4f79cd2a)
+* [Ban the name tomasu](https://governance.decentraland.org/proposal/?id=509162d0-931e-11ec-831d-95af4f79cd2a)
 * [Ban the name Hamadalzeri560b](https://governance.decentraland.org/proposal/?id=a3f2ff30-9182-11ec-831d-95af4f79cd2a)
 * [Ban the name childfucker](https://governance.decentraland.org/proposal/?id=a4d0ff70-904b-11ec-831d-95af4f79cd2a)
 * [Ban the name childporn](https://governance.decentraland.org/proposal/?id=3e930040-8f11-11ec-9794-c9ea21a9ed8f)
-* [Ban the name childmolest](https://governance.decentraland.org/proposal/?id=81af96c0-8e32-11ec-9794-c9ea21a9ed8f)
-* [Ban the name childmolest](https://governance.decentraland.org/proposal/?id=7255b010-8e32-11ec-9794-c9ea21a9ed8f)
 
 ## Catalysts
 
 
 ## Polls
 
+* [Add Decentraland 3rd party NFT to new Marketplace Category](https://governance.decentraland.org/proposal/?id=09fbd2a0-9383-11ec-831d-95af4f79cd2a)
+* [Would you like to see a clear, well maintained Decentraland feature roadmap?](https://governance.decentraland.org/proposal/?id=885dbbb0-934a-11ec-831d-95af4f79cd2a)
 * [Can we add a merch store option to the main landing page for Decentraland?](https://governance.decentraland.org/proposal/?id=c5798a00-9292-11ec-831d-95af4f79cd2a)
-* [Platform BUG!](https://governance.decentraland.org/proposal/?id=a7861ce0-9286-11ec-831d-95af4f79cd2a)
 * [Create the ability of &#34;flight?&#34;  Allow items/wearables to convey this?](https://governance.decentraland.org/proposal/?id=402d0fe0-9240-11ec-831d-95af4f79cd2a)
 * [Open NFT Emote Loading/Minting in Decentraland to the Public, similar to wearable minting](https://governance.decentraland.org/proposal/?id=6862f830-9051-11ec-831d-95af4f79cd2a)
 * [Is it possible to produce a TV ad?](https://governance.decentraland.org/proposal/?id=e32a8930-9028-11ec-9794-c9ea21a9ed8f)
 * [Should &#39;Pets&#39; Be Approved as Shoe Category?](https://governance.decentraland.org/proposal/?id=286f5f60-9025-11ec-9794-c9ea21a9ed8f)
-* [Request to implement 24 hour timeout on Edit Price function](https://governance.decentraland.org/proposal/?id=2c45c460-8f78-11ec-9794-c9ea21a9ed8f)
-* [Should players own the copyright on Decentraland screenshots they make?](https://governance.decentraland.org/proposal/?id=e8800dc0-8f73-11ec-9794-c9ea21a9ed8f)
-* [Request to add Shop by Creator search filter](https://governance.decentraland.org/proposal/?id=d06edcf0-8f43-11ec-9794-c9ea21a9ed8f)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
