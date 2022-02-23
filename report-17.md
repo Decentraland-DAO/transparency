@@ -176,7 +176,6 @@ Since February 1, 2 grants have been approved and the vesting contract(s) will b
 * [Create models on demand](https://governance.decentraland.org/proposal/?id=61b1fce0-8f46-11ec-9794-c9ea21a9ed8f) (Tier 4)
 * [WeMeta Builder Tag](https://governance.decentraland.org/proposal/?id=5c5d12f0-8dea-11ec-9794-c9ea21a9ed8f) (Tier 6)
 * [Runixcoin Mining LAND](https://governance.decentraland.org/proposal/?id=d7202560-8de8-11ec-9794-c9ea21a9ed8f) (Tier 6)
-* [Clinically Validated Mental Health Resources in DCL](https://governance.decentraland.org/proposal/?id=07a64e10-8c29-11ec-b2d8-691324a163a7) (Tier 6)
 * [Super cool high tech digital senior citizen will help with anything in &#34;D-land&#34;](https://governance.decentraland.org/proposal/?id=853a7ed0-8a9b-11ec-b2d8-691324a163a7) (Tier 6)
 
 ## Names Bans
@@ -185,20 +184,17 @@ Since February 1, 2 grants have been approved and the vesting contract(s) will b
 * [Ban the name tomasu](https://governance.decentraland.org/proposal/?id=509162d0-931e-11ec-831d-95af4f79cd2a)
 * [Ban the name Hamadalzeri560b](https://governance.decentraland.org/proposal/?id=a3f2ff30-9182-11ec-831d-95af4f79cd2a)
 * [Ban the name childfucker](https://governance.decentraland.org/proposal/?id=a4d0ff70-904b-11ec-831d-95af4f79cd2a)
-* [Ban the name childporn](https://governance.decentraland.org/proposal/?id=3e930040-8f11-11ec-9794-c9ea21a9ed8f)
 
 ## Catalysts
 
 
 ## Polls
 
+* [Should fractional MANA pricing be added to the User Interface for Secondary Market listings?](https://governance.decentraland.org/proposal/?id=40bb3970-93dd-11ec-831d-95af4f79cd2a)
 * [Add Decentraland 3rd party NFT to new Marketplace Category](https://governance.decentraland.org/proposal/?id=09fbd2a0-9383-11ec-831d-95af4f79cd2a)
 * [Would you like to see a clear, well maintained Decentraland feature roadmap?](https://governance.decentraland.org/proposal/?id=885dbbb0-934a-11ec-831d-95af4f79cd2a)
 * [Can we add a merch store option to the main landing page for Decentraland?](https://governance.decentraland.org/proposal/?id=c5798a00-9292-11ec-831d-95af4f79cd2a)
 * [Create the ability of &#34;flight?&#34;  Allow items/wearables to convey this?](https://governance.decentraland.org/proposal/?id=402d0fe0-9240-11ec-831d-95af4f79cd2a)
-* [Open NFT Emote Loading/Minting in Decentraland to the Public, similar to wearable minting](https://governance.decentraland.org/proposal/?id=6862f830-9051-11ec-831d-95af4f79cd2a)
-* [Is it possible to produce a TV ad?](https://governance.decentraland.org/proposal/?id=e32a8930-9028-11ec-9794-c9ea21a9ed8f)
-* [Should &#39;Pets&#39; Be Approved as Shoe Category?](https://governance.decentraland.org/proposal/?id=286f5f60-9025-11ec-9794-c9ea21a9ed8f)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
