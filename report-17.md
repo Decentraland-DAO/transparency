@@ -171,23 +171,22 @@ Since February 1, 2 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
+* [Create a new Wearable category - &#34;PET&#34;](https://governance.decentraland.org/proposal/?id=23915b80-960e-11ec-831d-95af4f79cd2a) (Tier 2)
+* [Expanding and Upgrading Ethermon District Gameplay](https://governance.decentraland.org/proposal/?id=e122d240-95ce-11ec-831d-95af4f79cd2a) (Tier 6)
+* [Prototype of Argus - Virtual World](https://governance.decentraland.org/proposal/?id=4ad3a8d0-958f-11ec-831d-95af4f79cd2a) (Tier 6)
 * [Creation NFT Gaming access  : Palladium Divine Angelmon (PDA)](https://governance.decentraland.org/proposal/?id=9c6e5040-9545-11ec-831d-95af4f79cd2a) (Tier 1)
 * [Helpful Video Guides &amp; Walkthroughs For New DCL Members](https://governance.decentraland.org/proposal/?id=60421650-9532-11ec-831d-95af4f79cd2a) (Tier 2)
 * [IRL Events Including Terminals and Decentraland Speakers](https://governance.decentraland.org/proposal/?id=9811ede0-94eb-11ec-831d-95af4f79cd2a) (Tier 3)
 * [Decentraland tutorial videos for Portuguese speaking community](https://governance.decentraland.org/proposal/?id=38c72150-9286-11ec-831d-95af4f79cd2a) (Tier 2)
-* [To keep the content supply fresh in Filmrare-Cinematheque by acquisition](https://governance.decentraland.org/proposal/?id=20fa0450-9067-11ec-831d-95af4f79cd2a) (Tier 2)
-* [Genesis city top-down map website and mapping script](https://governance.decentraland.org/proposal/?id=b8219300-900f-11ec-9794-c9ea21a9ed8f) (Tier 3)
 * [Create models on demand](https://governance.decentraland.org/proposal/?id=61b1fce0-8f46-11ec-9794-c9ea21a9ed8f) (Tier 4)
 * [WeMeta Builder Tag](https://governance.decentraland.org/proposal/?id=5c5d12f0-8dea-11ec-9794-c9ea21a9ed8f) (Tier 6)
 * [Runixcoin Mining LAND](https://governance.decentraland.org/proposal/?id=d7202560-8de8-11ec-9794-c9ea21a9ed8f) (Tier 6)
-* [Super cool high tech digital senior citizen will help with anything in &#34;D-land&#34;](https://governance.decentraland.org/proposal/?id=853a7ed0-8a9b-11ec-b2d8-691324a163a7) (Tier 6)
 
 ## Names Bans
 
 * [Ban the name WearableNiqab](https://governance.decentraland.org/proposal/?id=231ed1c0-9328-11ec-831d-95af4f79cd2a)
 * [Ban the name tomasu](https://governance.decentraland.org/proposal/?id=509162d0-931e-11ec-831d-95af4f79cd2a)
 * [Ban the name Hamadalzeri560b](https://governance.decentraland.org/proposal/?id=a3f2ff30-9182-11ec-831d-95af4f79cd2a)
-* [Ban the name childfucker](https://governance.decentraland.org/proposal/?id=a4d0ff70-904b-11ec-831d-95af4f79cd2a)
 
 ## Catalysts
 
