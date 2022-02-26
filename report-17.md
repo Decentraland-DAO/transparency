@@ -171,7 +171,6 @@ Since February 1, 2 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
-* [Create a new Wearable category - &#34;PET&#34;](https://governance.decentraland.org/proposal/?id=23915b80-960e-11ec-831d-95af4f79cd2a) (Tier 2)
 * [Expanding and Upgrading Ethermon District Gameplay](https://governance.decentraland.org/proposal/?id=e122d240-95ce-11ec-831d-95af4f79cd2a) (Tier 6)
 * [Prototype of Argus - Virtual World](https://governance.decentraland.org/proposal/?id=4ad3a8d0-958f-11ec-831d-95af4f79cd2a) (Tier 6)
 * [Creation NFT Gaming access  : Palladium Divine Angelmon (PDA)](https://governance.decentraland.org/proposal/?id=9c6e5040-9545-11ec-831d-95af4f79cd2a) (Tier 1)
@@ -196,8 +195,6 @@ Since February 1, 2 grants have been approved and the vesting contract(s) will b
 * [Should fractional MANA pricing be added to the User Interface for Secondary Market listings?](https://governance.decentraland.org/proposal/?id=40bb3970-93dd-11ec-831d-95af4f79cd2a)
 * [Add Decentraland 3rd party NFT to new Marketplace Category](https://governance.decentraland.org/proposal/?id=09fbd2a0-9383-11ec-831d-95af4f79cd2a)
 * [Would you like to see a clear, well maintained Decentraland feature roadmap?](https://governance.decentraland.org/proposal/?id=885dbbb0-934a-11ec-831d-95af4f79cd2a)
-* [Can we add a merch store option to the main landing page for Decentraland?](https://governance.decentraland.org/proposal/?id=c5798a00-9292-11ec-831d-95af4f79cd2a)
-* [Create the ability of &#34;flight?&#34;  Allow items/wearables to convey this?](https://governance.decentraland.org/proposal/?id=402d0fe0-9240-11ec-831d-95af4f79cd2a)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
