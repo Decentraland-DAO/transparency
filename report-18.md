@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 2 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 2 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -62,6 +62,14 @@ Since February 16, 3 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+#### [Add Decentraland 3rd party NFT to new Marketplace Category](https://governance.decentraland.org/proposal/?id=09fbd2a0-9383-11ec-831d-95af4f79cd2a)
+
+* Yes 77% 619,606 VP (25 votes)
+* No 22% 183,393 VP (1 votes)
+* Null 0% 431 VP (1 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 #### [Open NFT Emote Loading/Minting in Decentraland to the Public, similar to wearable minting](https://governance.decentraland.org/proposal/?id=6862f830-9051-11ec-831d-95af4f79cd2a)
 
 * Yes - I would like for the Decentraland Developement Team to prioritize building a UI/UX for creators to load in their own movements.  99% 982,876 VP (40 votes)
@@ -85,10 +93,11 @@ Since February 16, 3 grants have been approved and the vesting contract(s) will 
 * -94, -99: [vEmpire Arena](https://governance.decentraland.org/proposal/?id=5f49dfa0-94ae-11ec-831d-95af4f79cd2a)
 * 14, 53: [SciArt Lab](https://governance.decentraland.org/proposal/?id=0140c150-933a-11ec-831d-95af4f79cd2a)
 * 150, 150: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=a2dcf940-925c-11ec-831d-95af4f79cd2a)
-* 100, -5: [👨‍🔧 SALE 🤝 8 LAND 👩‍⚖️](https://governance.decentraland.org/proposal/?id=a080dd40-920e-11ec-831d-95af4f79cd2a)
 
 ## Grants
 
+* [Engaging Videos To Help New Members](https://governance.decentraland.org/proposal/?id=39b7ca40-9765-11ec-831d-95af4f79cd2a) (Tier 2)
+* [NFT Awards for Engaging with Our NFTs, Billboards, Games, Etc.](https://governance.decentraland.org/proposal/?id=a76eca80-974b-11ec-831d-95af4f79cd2a) (Tier 2)
 * [Expanding and Upgrading Ethermon District Gameplay](https://governance.decentraland.org/proposal/?id=e122d240-95ce-11ec-831d-95af4f79cd2a) (Tier 6)
 * [Prototype of Argus - Virtual World](https://governance.decentraland.org/proposal/?id=4ad3a8d0-958f-11ec-831d-95af4f79cd2a) (Tier 6)
 * [Creation NFT Gaming access  : Palladium Divine Angelmon (PDA)](https://governance.decentraland.org/proposal/?id=9c6e5040-9545-11ec-831d-95af4f79cd2a) (Tier 1)
@@ -103,7 +112,6 @@ Since February 16, 3 grants have been approved and the vesting contract(s) will 
 
 * [Ban the name WearableNiqab](https://governance.decentraland.org/proposal/?id=231ed1c0-9328-11ec-831d-95af4f79cd2a)
 * [Ban the name tomasu](https://governance.decentraland.org/proposal/?id=509162d0-931e-11ec-831d-95af4f79cd2a)
-* [Ban the name Hamadalzeri560b](https://governance.decentraland.org/proposal/?id=a3f2ff30-9182-11ec-831d-95af4f79cd2a)
 
 ## Catalysts
 
@@ -111,8 +119,6 @@ Since February 16, 3 grants have been approved and the vesting contract(s) will 
 ## Polls
 
 * [Should fractional MANA pricing be added to the User Interface for Secondary Market listings?](https://governance.decentraland.org/proposal/?id=40bb3970-93dd-11ec-831d-95af4f79cd2a)
-* [Add Decentraland 3rd party NFT to new Marketplace Category](https://governance.decentraland.org/proposal/?id=09fbd2a0-9383-11ec-831d-95af4f79cd2a)
-* [Would you like to see a clear, well maintained Decentraland feature roadmap?](https://governance.decentraland.org/proposal/?id=885dbbb0-934a-11ec-831d-95af4f79cd2a)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
