@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 2 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 2 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -39,7 +39,13 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since February 16, 3 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since February 16, 4 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Decentraland tutorial videos for Portuguese speaking community](https://governance.decentraland.org/proposal/?id=38c72150-9286-11ec-831d-95af4f79cd2a) (Tier 2)
+
+* Yes 99% 1,018,679 VP (32 votes)
+* No 0% 50 VP (1 votes)
 
 
 #### [To keep the content supply fresh in Filmrare-Cinematheque by acquisition](https://governance.decentraland.org/proposal/?id=20fa0450-9067-11ec-831d-95af4f79cd2a) (Tier 2)
@@ -89,10 +95,10 @@ Since February 16, 3 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
+* 23, 24: [V&#39;s Thoughts](https://governance.decentraland.org/proposal/?id=e91bbb60-97e0-11ec-831d-95af4f79cd2a)
 * -94, -99: [vEmpire Arena](https://governance.decentraland.org/proposal/?id=783b3810-94ae-11ec-831d-95af4f79cd2a)
 * -94, -99: [vEmpire Arena](https://governance.decentraland.org/proposal/?id=5f49dfa0-94ae-11ec-831d-95af4f79cd2a)
 * 14, 53: [SciArt Lab](https://governance.decentraland.org/proposal/?id=0140c150-933a-11ec-831d-95af4f79cd2a)
-* 150, 150: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=a2dcf940-925c-11ec-831d-95af4f79cd2a)
 
 ## Grants
 
@@ -103,7 +109,6 @@ Since February 16, 3 grants have been approved and the vesting contract(s) will 
 * [Creation NFT Gaming access  : Palladium Divine Angelmon (PDA)](https://governance.decentraland.org/proposal/?id=9c6e5040-9545-11ec-831d-95af4f79cd2a) (Tier 1)
 * [Helpful Video Guides &amp; Walkthroughs For New DCL Members](https://governance.decentraland.org/proposal/?id=60421650-9532-11ec-831d-95af4f79cd2a) (Tier 2)
 * [IRL Events Including Terminals and Decentraland Speakers](https://governance.decentraland.org/proposal/?id=9811ede0-94eb-11ec-831d-95af4f79cd2a) (Tier 3)
-* [Decentraland tutorial videos for Portuguese speaking community](https://governance.decentraland.org/proposal/?id=38c72150-9286-11ec-831d-95af4f79cd2a) (Tier 2)
 * [Create models on demand](https://governance.decentraland.org/proposal/?id=61b1fce0-8f46-11ec-9794-c9ea21a9ed8f) (Tier 4)
 * [WeMeta Builder Tag](https://governance.decentraland.org/proposal/?id=5c5d12f0-8dea-11ec-9794-c9ea21a9ed8f) (Tier 6)
 * [Runixcoin Mining LAND](https://governance.decentraland.org/proposal/?id=d7202560-8de8-11ec-9794-c9ea21a9ed8f) (Tier 6)
@@ -118,7 +123,6 @@ Since February 16, 3 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
-* [Should fractional MANA pricing be added to the User Interface for Secondary Market listings?](https://governance.decentraland.org/proposal/?id=40bb3970-93dd-11ec-831d-95af4f79cd2a)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
