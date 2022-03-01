@@ -9,13 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 2 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 2 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 
 ## Points of Interest
-2 points of interest have been added to Decentraland’s map since the last report.
+3 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 14, 53: [SciArt Lab](https://governance.decentraland.org/proposal/?id=0140c150-933a-11ec-831d-95af4f79cd2a)
+
+* Yes 99% 530,672 VP (21 votes)
+* No 0% 3,371 VP (2 votes)
 
 
 #### 13, -103: [iMining.com Headquarters](https://governance.decentraland.org/proposal/?id=7e105d90-8add-11ec-b2d8-691324a163a7)
@@ -39,7 +45,7 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since February 16, 4 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since February 16, 5 grants have been approved and the vesting contract(s) will be established within 7-10 days.
 
 
 #### [Decentraland tutorial videos for Portuguese speaking community](https://governance.decentraland.org/proposal/?id=38c72150-9286-11ec-831d-95af4f79cd2a) (Tier 2)
@@ -58,6 +64,12 @@ Since February 16, 4 grants have been approved and the vesting contract(s) will 
 
 * Yes 99% 1,310,258 VP (26 votes)
 * No 0% 281 VP (2 votes)
+
+
+#### [WeMeta Builder Tag](https://governance.decentraland.org/proposal/?id=5c5d12f0-8dea-11ec-9794-c9ea21a9ed8f) (Tier 6)
+
+* Yes 95% 14,192,119 VP (26 votes)
+* No 4% 679,708 VP (23 votes)
 
 
 #### [Community Module: Parkour Creation Kit](https://governance.decentraland.org/proposal/?id=5701b9c0-8d25-11ec-b2d8-691324a163a7) (Tier 2)
@@ -95,10 +107,10 @@ Since February 16, 4 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
+* -16, -24: [The Oasis (halliday.oasis@gmail.com)](https://governance.decentraland.org/proposal/?id=d4419c30-98cd-11ec-831d-95af4f79cd2a)
 * 23, 24: [V&#39;s Thoughts](https://governance.decentraland.org/proposal/?id=e91bbb60-97e0-11ec-831d-95af4f79cd2a)
 * -94, -99: [vEmpire Arena](https://governance.decentraland.org/proposal/?id=783b3810-94ae-11ec-831d-95af4f79cd2a)
 * -94, -99: [vEmpire Arena](https://governance.decentraland.org/proposal/?id=5f49dfa0-94ae-11ec-831d-95af4f79cd2a)
-* 14, 53: [SciArt Lab](https://governance.decentraland.org/proposal/?id=0140c150-933a-11ec-831d-95af4f79cd2a)
 
 ## Grants
 
@@ -110,13 +122,9 @@ Since February 16, 4 grants have been approved and the vesting contract(s) will 
 * [Helpful Video Guides &amp; Walkthroughs For New DCL Members](https://governance.decentraland.org/proposal/?id=60421650-9532-11ec-831d-95af4f79cd2a) (Tier 2)
 * [IRL Events Including Terminals and Decentraland Speakers](https://governance.decentraland.org/proposal/?id=9811ede0-94eb-11ec-831d-95af4f79cd2a) (Tier 3)
 * [Create models on demand](https://governance.decentraland.org/proposal/?id=61b1fce0-8f46-11ec-9794-c9ea21a9ed8f) (Tier 4)
-* [WeMeta Builder Tag](https://governance.decentraland.org/proposal/?id=5c5d12f0-8dea-11ec-9794-c9ea21a9ed8f) (Tier 6)
-* [Runixcoin Mining LAND](https://governance.decentraland.org/proposal/?id=d7202560-8de8-11ec-9794-c9ea21a9ed8f) (Tier 6)
 
 ## Names Bans
 
-* [Ban the name WearableNiqab](https://governance.decentraland.org/proposal/?id=231ed1c0-9328-11ec-831d-95af4f79cd2a)
-* [Ban the name tomasu](https://governance.decentraland.org/proposal/?id=509162d0-931e-11ec-831d-95af4f79cd2a)
 
 ## Catalysts
 
