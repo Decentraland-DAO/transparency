@@ -114,6 +114,7 @@ Since February 16, 5 grants have been approved and the vesting contract(s) will 
 
 ## Grants
 
+* [Features for Automating Community Rewards By The Decentraland Report](https://governance.decentraland.org/proposal/?id=71499ee0-99c5-11ec-831d-95af4f79cd2a) (Tier 5)
 * [Engaging Videos To Help New Members](https://governance.decentraland.org/proposal/?id=39b7ca40-9765-11ec-831d-95af4f79cd2a) (Tier 2)
 * [NFT Awards for Engaging with Our NFTs, Billboards, Games, Etc.](https://governance.decentraland.org/proposal/?id=a76eca80-974b-11ec-831d-95af4f79cd2a) (Tier 2)
 * [Expanding and Upgrading Ethermon District Gameplay](https://governance.decentraland.org/proposal/?id=e122d240-95ce-11ec-831d-95af4f79cd2a) (Tier 6)
