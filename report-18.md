@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 2 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 2 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -95,22 +95,14 @@ Since February 16, 5 grants have been approved and the vesting contract(s) will 
 * Invalid question/options 0% 207 VP (2 votes)
 
 
-#### [Request to implement 24 hour timeout on Edit Price function](https://governance.decentraland.org/proposal/?id=2c45c460-8f78-11ec-9794-c9ea21a9ed8f)
-
-* YES, ONLY ONE PRICE EDIT PER 24HRS 8% 65,536 VP (32 votes)
-* NO THERE ARE OTHER THINGS TO FOCUS ON 91% 707,078 VP (5 votes)
-* Invalid question/options 0% 0 VP (0 votes)
-
-
 
 # Active Proposals
 
 ## Points of Interest
 
+* 11, -16: [No Name](https://governance.decentraland.org/proposal/?id=a49a9c30-9aca-11ec-831d-95af4f79cd2a)
 * -16, -24: [The Oasis (halliday.oasis@gmail.com)](https://governance.decentraland.org/proposal/?id=d4419c30-98cd-11ec-831d-95af4f79cd2a)
 * 23, 24: [V&#39;s Thoughts](https://governance.decentraland.org/proposal/?id=e91bbb60-97e0-11ec-831d-95af4f79cd2a)
-* -94, -99: [vEmpire Arena](https://governance.decentraland.org/proposal/?id=783b3810-94ae-11ec-831d-95af4f79cd2a)
-* -94, -99: [vEmpire Arena](https://governance.decentraland.org/proposal/?id=5f49dfa0-94ae-11ec-831d-95af4f79cd2a)
 
 ## Grants
 
@@ -119,10 +111,6 @@ Since February 16, 5 grants have been approved and the vesting contract(s) will 
 * [NFT Awards for Engaging with Our NFTs, Billboards, Games, Etc.](https://governance.decentraland.org/proposal/?id=a76eca80-974b-11ec-831d-95af4f79cd2a) (Tier 2)
 * [Expanding and Upgrading Ethermon District Gameplay](https://governance.decentraland.org/proposal/?id=e122d240-95ce-11ec-831d-95af4f79cd2a) (Tier 6)
 * [Prototype of Argus - Virtual World](https://governance.decentraland.org/proposal/?id=4ad3a8d0-958f-11ec-831d-95af4f79cd2a) (Tier 6)
-* [Creation NFT Gaming access  : Palladium Divine Angelmon (PDA)](https://governance.decentraland.org/proposal/?id=9c6e5040-9545-11ec-831d-95af4f79cd2a) (Tier 1)
-* [Helpful Video Guides &amp; Walkthroughs For New DCL Members](https://governance.decentraland.org/proposal/?id=60421650-9532-11ec-831d-95af4f79cd2a) (Tier 2)
-* [IRL Events Including Terminals and Decentraland Speakers](https://governance.decentraland.org/proposal/?id=9811ede0-94eb-11ec-831d-95af4f79cd2a) (Tier 3)
-* [Create models on demand](https://governance.decentraland.org/proposal/?id=61b1fce0-8f46-11ec-9794-c9ea21a9ed8f) (Tier 4)
 
 ## Names Bans
 
@@ -132,6 +120,7 @@ Since February 16, 5 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [A Scene Moderation System That Respects Plurality](https://governance.decentraland.org/proposal/?id=03582b10-9a4a-11ec-831d-95af4f79cd2a)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
