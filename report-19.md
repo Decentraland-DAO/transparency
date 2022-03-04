@@ -43,12 +43,16 @@ Since March 1, 1 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
+* -80, -57: [PLEIN PLAZA](https://governance.decentraland.org/proposal/?id=ad5ede30-9b74-11ec-831d-95af4f79cd2a)
+* -22, -103: [Brooklyn Towers](https://governance.decentraland.org/proposal/?id=43b40c70-9b43-11ec-831d-95af4f79cd2a)
+* -19, -106: [Manhattan District Towers](https://governance.decentraland.org/proposal/?id=4726afe0-9b41-11ec-831d-95af4f79cd2a)
 * 11, -16: [No Name](https://governance.decentraland.org/proposal/?id=a49a9c30-9aca-11ec-831d-95af4f79cd2a)
 * -16, -24: [The Oasis (halliday.oasis@gmail.com)](https://governance.decentraland.org/proposal/?id=d4419c30-98cd-11ec-831d-95af4f79cd2a)
 * 23, 24: [V&#39;s Thoughts](https://governance.decentraland.org/proposal/?id=e91bbb60-97e0-11ec-831d-95af4f79cd2a)
 
 ## Grants
 
+* [Manhattan Developer Group DAO](https://governance.decentraland.org/proposal/?id=68a0f4a0-9b5f-11ec-831d-95af4f79cd2a) (Tier 6)
 * [Features for Automating Community Rewards By The Decentraland Report](https://governance.decentraland.org/proposal/?id=71499ee0-99c5-11ec-831d-95af4f79cd2a) (Tier 5)
 * [Engaging Videos To Help New Members](https://governance.decentraland.org/proposal/?id=39b7ca40-9765-11ec-831d-95af4f79cd2a) (Tier 2)
 * [NFT Awards for Engaging with Our NFTs, Billboards, Games, Etc.](https://governance.decentraland.org/proposal/?id=a76eca80-974b-11ec-831d-95af4f79cd2a) (Tier 2)
@@ -63,6 +67,7 @@ Since March 1, 1 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Establish a Formal Process for Adding/Removing DAO Committee Members](https://governance.decentraland.org/proposal/?id=782bbe80-9adf-11ec-831d-95af4f79cd2a)
 * [A Scene Moderation System That Respects Plurality](https://governance.decentraland.org/proposal/?id=03582b10-9a4a-11ec-831d-95af4f79cd2a)
 
 
