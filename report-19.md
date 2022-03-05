@@ -43,6 +43,7 @@ Since March 1, 1 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
+* 15, 61: [Carbon Coffee - The World&#39;s 1st NFT Restaurant](https://governance.decentraland.org/proposal/?id=ddf365c0-9bd8-11ec-831d-95af4f79cd2a)
 * -80, -57: [PLEIN PLAZA](https://governance.decentraland.org/proposal/?id=ad5ede30-9b74-11ec-831d-95af4f79cd2a)
 * -22, -103: [Brooklyn Towers](https://governance.decentraland.org/proposal/?id=43b40c70-9b43-11ec-831d-95af4f79cd2a)
 * -19, -106: [Manhattan District Towers](https://governance.decentraland.org/proposal/?id=4726afe0-9b41-11ec-831d-95af4f79cd2a)
@@ -52,6 +53,7 @@ Since March 1, 1 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [Event management &amp; NFT ticketing platform for Decentraland](https://governance.decentraland.org/proposal/?id=eade8bd0-9bd7-11ec-831d-95af4f79cd2a) (Tier 6)
 * [Manhattan Developer Group DAO](https://governance.decentraland.org/proposal/?id=68a0f4a0-9b5f-11ec-831d-95af4f79cd2a) (Tier 6)
 * [Features for Automating Community Rewards By The Decentraland Report](https://governance.decentraland.org/proposal/?id=71499ee0-99c5-11ec-831d-95af4f79cd2a) (Tier 5)
 * [Engaging Videos To Help New Members](https://governance.decentraland.org/proposal/?id=39b7ca40-9765-11ec-831d-95af4f79cd2a) (Tier 2)
