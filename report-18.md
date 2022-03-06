@@ -24,7 +24,7 @@ In the two weeks since the last DAO Committee report, 3 points of interest (POI)
 * No 0% 3,371 VP (2 votes)
 
 
-#### 13, -103: [iMining.com Headquarters](https://governance.decentraland.org/proposal/?id=7e105d90-8add-11ec-b2d8-691324a163a7)
+#### 13, -103: [iMining.com ](https://governance.decentraland.org/proposal/?id=7e105d90-8add-11ec-b2d8-691324a163a7)
 
 * Yes 99% 792,293 VP (10 votes)
 * No 0% 163 VP (1 votes)
@@ -100,6 +100,10 @@ Since February 16, 5 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
+* 117, -25: [THE BIG PLOT](https://governance.decentraland.org/proposal/?id=19b7d120-9d34-11ec-831d-95af4f79cd2a)
+* -55, -129: [No Name](https://governance.decentraland.org/proposal/?id=c0fb1210-9ceb-11ec-831d-95af4f79cd2a)
+* -94, -99: [vEmpire Arena](https://governance.decentraland.org/proposal/?id=9fcdc4c0-9ce1-11ec-831d-95af4f79cd2a)
+* 144, -14: [DCL Real Estate Office - www.DclRealEstate.org](https://governance.decentraland.org/proposal/?id=95c238a0-9cda-11ec-831d-95af4f79cd2a)
 * 15, 61: [Carbon Coffee - The World&#39;s 1st NFT Restaurant](https://governance.decentraland.org/proposal/?id=ddf365c0-9bd8-11ec-831d-95af4f79cd2a)
 * -80, -57: [PLEIN PLAZA](https://governance.decentraland.org/proposal/?id=ad5ede30-9b74-11ec-831d-95af4f79cd2a)
 * -22, -103: [Brooklyn Towers](https://governance.decentraland.org/proposal/?id=43b40c70-9b43-11ec-831d-95af4f79cd2a)
@@ -110,11 +114,11 @@ Since February 16, 5 grants have been approved and the vesting contract(s) will 
 
 ## Grants
 
+* [Community Building with music and helping new players enjoy the experience](https://governance.decentraland.org/proposal/?id=ea5c3560-9ce8-11ec-831d-95af4f79cd2a) (Tier 3)
+* [Real Estate Agent Broker Management - For Rent &amp; For Sale - DclRealEstate.org](https://governance.decentraland.org/proposal/?id=658069b0-9cde-11ec-831d-95af4f79cd2a) (Tier 4)
 * [Event management &amp; NFT ticketing platform for Decentraland](https://governance.decentraland.org/proposal/?id=eade8bd0-9bd7-11ec-831d-95af4f79cd2a) (Tier 6)
 * [Manhattan Developer Group DAO](https://governance.decentraland.org/proposal/?id=68a0f4a0-9b5f-11ec-831d-95af4f79cd2a) (Tier 6)
 * [Features for Automating Community Rewards By The Decentraland Report](https://governance.decentraland.org/proposal/?id=71499ee0-99c5-11ec-831d-95af4f79cd2a) (Tier 5)
-* [Engaging Videos To Help New Members](https://governance.decentraland.org/proposal/?id=39b7ca40-9765-11ec-831d-95af4f79cd2a) (Tier 2)
-* [NFT Awards for Engaging with Our NFTs, Billboards, Games, Etc.](https://governance.decentraland.org/proposal/?id=a76eca80-974b-11ec-831d-95af4f79cd2a) (Tier 2)
 * [Expanding and Upgrading Ethermon District Gameplay](https://governance.decentraland.org/proposal/?id=e122d240-95ce-11ec-831d-95af4f79cd2a) (Tier 6)
 * [Prototype of Argus - Virtual World](https://governance.decentraland.org/proposal/?id=4ad3a8d0-958f-11ec-831d-95af4f79cd2a) (Tier 6)
 
