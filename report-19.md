@@ -43,7 +43,7 @@ Since March 1, 1 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
-* 117, -25: [THE BIG PLOT](https://governance.decentraland.org/proposal/?id=19b7d120-9d34-11ec-831d-95af4f79cd2a)
+* 117, -25: [8MetaBalls](https://governance.decentraland.org/proposal/?id=19b7d120-9d34-11ec-831d-95af4f79cd2a)
 * -55, -129: [No Name](https://governance.decentraland.org/proposal/?id=c0fb1210-9ceb-11ec-831d-95af4f79cd2a)
 * -94, -99: [vEmpire Arena](https://governance.decentraland.org/proposal/?id=9fcdc4c0-9ce1-11ec-831d-95af4f79cd2a)
 * 144, -14: [DCL Real Estate Office - www.DclRealEstate.org](https://governance.decentraland.org/proposal/?id=95c238a0-9cda-11ec-831d-95af4f79cd2a)
@@ -53,7 +53,6 @@ Since March 1, 1 grants have been approved and the vesting contract(s) will be e
 * -19, -106: [Manhattan District Towers](https://governance.decentraland.org/proposal/?id=4726afe0-9b41-11ec-831d-95af4f79cd2a)
 * 11, -16: [No Name](https://governance.decentraland.org/proposal/?id=a49a9c30-9aca-11ec-831d-95af4f79cd2a)
 * -16, -24: [The Oasis (halliday.oasis@gmail.com)](https://governance.decentraland.org/proposal/?id=d4419c30-98cd-11ec-831d-95af4f79cd2a)
-* 23, 24: [V&#39;s Thoughts](https://governance.decentraland.org/proposal/?id=e91bbb60-97e0-11ec-831d-95af4f79cd2a)
 
 ## Grants
 
