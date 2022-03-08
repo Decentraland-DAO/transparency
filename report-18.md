@@ -100,6 +100,8 @@ Since February 16, 5 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
+* -34, -104: [No Name](https://governance.decentraland.org/proposal/?id=c2f3bef0-9ec6-11ec-831d-95af4f79cd2a)
+* -40, -103: [Liberty Towers](https://governance.decentraland.org/proposal/?id=c07a5920-9e87-11ec-831d-95af4f79cd2a)
 * 117, -25: [8MetaBalls](https://governance.decentraland.org/proposal/?id=19b7d120-9d34-11ec-831d-95af4f79cd2a)
 * -55, -129: [No Name](https://governance.decentraland.org/proposal/?id=c0fb1210-9ceb-11ec-831d-95af4f79cd2a)
 * -94, -99: [vEmpire Arena](https://governance.decentraland.org/proposal/?id=9fcdc4c0-9ce1-11ec-831d-95af4f79cd2a)
@@ -109,10 +111,10 @@ Since February 16, 5 grants have been approved and the vesting contract(s) will 
 * -22, -103: [Brooklyn Towers](https://governance.decentraland.org/proposal/?id=43b40c70-9b43-11ec-831d-95af4f79cd2a)
 * -19, -106: [Manhattan District Towers](https://governance.decentraland.org/proposal/?id=4726afe0-9b41-11ec-831d-95af4f79cd2a)
 * 11, -16: [No Name](https://governance.decentraland.org/proposal/?id=a49a9c30-9aca-11ec-831d-95af4f79cd2a)
-* -16, -24: [The Oasis (halliday.oasis@gmail.com)](https://governance.decentraland.org/proposal/?id=d4419c30-98cd-11ec-831d-95af4f79cd2a)
 
 ## Grants
 
+* [Tutorials to teach new members how to join the DCL ecosystem in multi-languages.](https://governance.decentraland.org/proposal/?id=7a9be590-9e8c-11ec-831d-95af4f79cd2a) (Tier 3)
 * [Community Building with music and helping new players enjoy the experience](https://governance.decentraland.org/proposal/?id=ea5c3560-9ce8-11ec-831d-95af4f79cd2a) (Tier 3)
 * [Real Estate Agent Broker Management - For Rent &amp; For Sale - DclRealEstate.org](https://governance.decentraland.org/proposal/?id=658069b0-9cde-11ec-831d-95af4f79cd2a) (Tier 4)
 * [Event management &amp; NFT ticketing platform for Decentraland](https://governance.decentraland.org/proposal/?id=eade8bd0-9bd7-11ec-831d-95af4f79cd2a) (Tier 6)
@@ -129,8 +131,8 @@ Since February 16, 5 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Change the name &#34;MANA&#34;](https://governance.decentraland.org/proposal/?id=d9586630-9e0f-11ec-831d-95af4f79cd2a)
 * [Establish a Formal Process for Adding/Removing DAO Committee Members](https://governance.decentraland.org/proposal/?id=782bbe80-9adf-11ec-831d-95af4f79cd2a)
-* [A Scene Moderation System That Respects Plurality](https://governance.decentraland.org/proposal/?id=03582b10-9a4a-11ec-831d-95af4f79cd2a)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
