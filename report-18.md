@@ -100,7 +100,8 @@ Since February 16, 5 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
-* -34, -104: [No Name](https://governance.decentraland.org/proposal/?id=c2f3bef0-9ec6-11ec-831d-95af4f79cd2a)
+* -57, -139: [Degenerate Takes Studio](https://governance.decentraland.org/proposal/?id=51eaeea0-9f6f-11ec-831d-95af4f79cd2a)
+* -34, -104: [TKFA CO LTD](https://governance.decentraland.org/proposal/?id=c2f3bef0-9ec6-11ec-831d-95af4f79cd2a)
 * -40, -103: [Liberty Towers](https://governance.decentraland.org/proposal/?id=c07a5920-9e87-11ec-831d-95af4f79cd2a)
 * 117, -25: [8MetaBalls](https://governance.decentraland.org/proposal/?id=19b7d120-9d34-11ec-831d-95af4f79cd2a)
 * -55, -129: [No Name](https://governance.decentraland.org/proposal/?id=c0fb1210-9ceb-11ec-831d-95af4f79cd2a)
@@ -131,8 +132,8 @@ Since February 16, 5 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Should the legacy POI list be deleted?](https://governance.decentraland.org/proposal/?id=b3cb6dc0-9f01-11ec-831d-95af4f79cd2a)
 * [Change the name &#34;MANA&#34;](https://governance.decentraland.org/proposal/?id=d9586630-9e0f-11ec-831d-95af4f79cd2a)
-* [Establish a Formal Process for Adding/Removing DAO Committee Members](https://governance.decentraland.org/proposal/?id=782bbe80-9adf-11ec-831d-95af4f79cd2a)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
