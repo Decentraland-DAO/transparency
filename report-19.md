@@ -57,6 +57,7 @@ Since March 1, 1 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
+* 45, 113: [No Name](https://governance.decentraland.org/proposal/?id=5c747d30-9f9e-11ec-831d-95af4f79cd2a)
 * -57, -139: [Degenerate Takes Studio](https://governance.decentraland.org/proposal/?id=51eaeea0-9f6f-11ec-831d-95af4f79cd2a)
 * -34, -104: [TKFA CO LTD](https://governance.decentraland.org/proposal/?id=c2f3bef0-9ec6-11ec-831d-95af4f79cd2a)
 * -40, -103: [Liberty Towers](https://governance.decentraland.org/proposal/?id=c07a5920-9e87-11ec-831d-95af4f79cd2a)
@@ -68,7 +69,6 @@ Since March 1, 1 grants have been approved and the vesting contract(s) will be e
 * -80, -57: [PLEIN PLAZA](https://governance.decentraland.org/proposal/?id=ad5ede30-9b74-11ec-831d-95af4f79cd2a)
 * -22, -103: [Brooklyn Towers](https://governance.decentraland.org/proposal/?id=43b40c70-9b43-11ec-831d-95af4f79cd2a)
 * -19, -106: [Manhattan District Towers](https://governance.decentraland.org/proposal/?id=4726afe0-9b41-11ec-831d-95af4f79cd2a)
-* 11, -16: [No Name](https://governance.decentraland.org/proposal/?id=a49a9c30-9aca-11ec-831d-95af4f79cd2a)
 
 ## Grants
 
@@ -76,7 +76,6 @@ Since March 1, 1 grants have been approved and the vesting contract(s) will be e
 * [Community Building with music and helping new players enjoy the experience](https://governance.decentraland.org/proposal/?id=ea5c3560-9ce8-11ec-831d-95af4f79cd2a) (Tier 3)
 * [Real Estate Agent Broker Management - For Rent &amp; For Sale - DclRealEstate.org](https://governance.decentraland.org/proposal/?id=658069b0-9cde-11ec-831d-95af4f79cd2a) (Tier 4)
 * [Event management &amp; NFT ticketing platform for Decentraland](https://governance.decentraland.org/proposal/?id=eade8bd0-9bd7-11ec-831d-95af4f79cd2a) (Tier 6)
-* [Manhattan Developer Group DAO](https://governance.decentraland.org/proposal/?id=68a0f4a0-9b5f-11ec-831d-95af4f79cd2a) (Tier 6)
 * [Features for Automating Community Rewards By The Decentraland Report](https://governance.decentraland.org/proposal/?id=71499ee0-99c5-11ec-831d-95af4f79cd2a) (Tier 5)
 * [Expanding and Upgrading Ethermon District Gameplay](https://governance.decentraland.org/proposal/?id=e122d240-95ce-11ec-831d-95af4f79cd2a) (Tier 6)
 * [Prototype of Argus - Virtual World](https://governance.decentraland.org/proposal/?id=4ad3a8d0-958f-11ec-831d-95af4f79cd2a) (Tier 6)
@@ -89,6 +88,7 @@ Since March 1, 1 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Should users be able to use ENS names?](https://governance.decentraland.org/proposal/?id=7af3f780-9fc7-11ec-831d-95af4f79cd2a)
 * [Should the legacy POI list be deleted?](https://governance.decentraland.org/proposal/?id=b3cb6dc0-9f01-11ec-831d-95af4f79cd2a)
 * [Change the name &#34;MANA&#34;](https://governance.decentraland.org/proposal/?id=d9586630-9e0f-11ec-831d-95af4f79cd2a)
 
