@@ -90,7 +90,6 @@ Since March 1, 2 grants have been approved and the vesting contract(s) will be e
 * -55, -129: [No Name](https://governance.decentraland.org/proposal/?id=c0fb1210-9ceb-11ec-831d-95af4f79cd2a)
 * -94, -99: [vEmpire Arena](https://governance.decentraland.org/proposal/?id=9fcdc4c0-9ce1-11ec-831d-95af4f79cd2a)
 * 144, -14: [DCL Real Estate Office - www.DclRealEstate.org](https://governance.decentraland.org/proposal/?id=95c238a0-9cda-11ec-831d-95af4f79cd2a)
-* 15, 61: [Carbon Coffee - The World&#39;s 1st NFT Restaurant](https://governance.decentraland.org/proposal/?id=ddf365c0-9bd8-11ec-831d-95af4f79cd2a)
 
 ## Grants
 
