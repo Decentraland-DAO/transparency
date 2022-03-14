@@ -93,6 +93,7 @@ Since March 1, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
+* 89, 84: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=51bb77b0-a334-11ec-831d-95af4f79cd2a)
 * 41, -118: [THE GOLDEN MONKEY CLUB](https://governance.decentraland.org/proposal/?id=d0480590-a27f-11ec-831d-95af4f79cd2a)
 * -70, 83: [Festival Land](https://governance.decentraland.org/proposal/?id=b296a420-a26b-11ec-831d-95af4f79cd2a)
 * -70, 83: [Festival Land](https://governance.decentraland.org/proposal/?id=7add5a10-a26b-11ec-831d-95af4f79cd2a)
@@ -126,7 +127,6 @@ Since March 1, 2 grants have been approved and the vesting contract(s) will be e
 * [Wearable committee members should not be allowed to mint and sell wearables](https://governance.decentraland.org/proposal/?id=197944e0-a23f-11ec-831d-95af4f79cd2a)
 * [Curation of Programmatic Collections for Linked Wearables](https://governance.decentraland.org/proposal/?id=83351b70-a0a0-11ec-831d-95af4f79cd2a)
 * [Should users be able to use ENS names?](https://governance.decentraland.org/proposal/?id=7af3f780-9fc7-11ec-831d-95af4f79cd2a)
-* [Should the legacy POI list be deleted?](https://governance.decentraland.org/proposal/?id=b3cb6dc0-9f01-11ec-831d-95af4f79cd2a)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
