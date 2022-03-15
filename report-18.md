@@ -100,6 +100,7 @@ Since February 16, 5 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
+* 74, 30: [Excoino](https://governance.decentraland.org/proposal/?id=d41cf2b0-a43d-11ec-831d-95af4f79cd2a)
 * 89, 84: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=51bb77b0-a334-11ec-831d-95af4f79cd2a)
 * 41, -118: [THE GOLDEN MONKEY CLUB](https://governance.decentraland.org/proposal/?id=d0480590-a27f-11ec-831d-95af4f79cd2a)
 * -70, 83: [Festival Land](https://governance.decentraland.org/proposal/?id=b296a420-a26b-11ec-831d-95af4f79cd2a)
@@ -107,15 +108,13 @@ Since February 16, 5 grants have been approved and the vesting contract(s) will 
 * 2, 55: [Filmrare](https://governance.decentraland.org/proposal/?id=ec57fc10-a11f-11ec-831d-95af4f79cd2a)
 * 45, 113: [No Name](https://governance.decentraland.org/proposal/?id=5c747d30-9f9e-11ec-831d-95af4f79cd2a)
 * -57, -139: [Degenerate Takes Studio](https://governance.decentraland.org/proposal/?id=51eaeea0-9f6f-11ec-831d-95af4f79cd2a)
-* -34, -104: [TKFA CO LTD](https://governance.decentraland.org/proposal/?id=c2f3bef0-9ec6-11ec-831d-95af4f79cd2a)
-* -40, -103: [Liberty Towers](https://governance.decentraland.org/proposal/?id=c07a5920-9e87-11ec-831d-95af4f79cd2a)
 
 ## Grants
 
+* [Event management &amp; NFT ticketing platform for Decentraland](https://governance.decentraland.org/proposal/?id=83634560-a3d7-11ec-831d-95af4f79cd2a) (Tier 4)
 * [Building the Petaverse Park: The Decentraland experience for pet lovers](https://governance.decentraland.org/proposal/?id=df4b7520-a08d-11ec-831d-95af4f79cd2a) (Tier 4)
 * [Adding Mint #s to the Marketplace](https://governance.decentraland.org/proposal/?id=d2b78c40-a08d-11ec-831d-95af4f79cd2a) (Tier 1)
 * [Creating a Decentraland on-ramp via The Bear Gang&#39;s Participate-to-Own model](https://governance.decentraland.org/proposal/?id=107c12e0-a074-11ec-831d-95af4f79cd2a) (Tier 5)
-* [Tutorials to teach new members how to join the DCL ecosystem in multi-languages.](https://governance.decentraland.org/proposal/?id=7a9be590-9e8c-11ec-831d-95af4f79cd2a) (Tier 3)
 * [Real Estate Agent Broker Management - For Rent &amp; For Sale - DclRealEstate.org](https://governance.decentraland.org/proposal/?id=658069b0-9cde-11ec-831d-95af4f79cd2a) (Tier 4)
 * [Event management &amp; NFT ticketing platform for Decentraland](https://governance.decentraland.org/proposal/?id=eade8bd0-9bd7-11ec-831d-95af4f79cd2a) (Tier 6)
 * [Features for Automating Community Rewards By The Decentraland Report](https://governance.decentraland.org/proposal/?id=71499ee0-99c5-11ec-831d-95af4f79cd2a) (Tier 5)
@@ -133,7 +132,6 @@ Since February 16, 5 grants have been approved and the vesting contract(s) will 
 * [Should we have a UN General Assembly like building?](https://governance.decentraland.org/proposal/?id=144e7310-a2a2-11ec-831d-95af4f79cd2a)
 * [Wearable committee members should not be allowed to mint and sell wearables](https://governance.decentraland.org/proposal/?id=197944e0-a23f-11ec-831d-95af4f79cd2a)
 * [Curation of Programmatic Collections for Linked Wearables](https://governance.decentraland.org/proposal/?id=83351b70-a0a0-11ec-831d-95af4f79cd2a)
-* [Should users be able to use ENS names?](https://governance.decentraland.org/proposal/?id=7af3f780-9fc7-11ec-831d-95af4f79cd2a)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

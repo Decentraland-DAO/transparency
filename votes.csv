@@ -1,38 +1,109 @@
 Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
+0xb0145Ae156D201d6E371d07265FE3C045071c967,QmZDdh3tksgE5qv97wMRDhvNrxvGmGpKaaVrwaMG4wvSLR,2022-03-15T02:36:48.000Z,"Add the location -34,-104 to the Points of Interest",1,yes,446020.68,62
+0x0C403e0D57Eeb8f091bCfA8EFdF01c00509f04f2,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-14T16:17:35.000Z,Should users be able to use ENS names?,2,No,6264.803992139119,1
+0x509CDeBBa232E7B7f603db5C93D1e4f1FeD9c6F8,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-14T14:58:35.000Z,Should users be able to use ENS names?,1,Yes,305.625,0
+0x697c6a6aeA3671B1A6E10AeA736f18FA3079Cb97,QmZCcZNYhYvuqD3GEUQUH6YWwFCodiP25DPmD7xo56QwGj,2022-03-14T14:30:12.000Z,Tutorials to teach new members how to join the DCL ecosystem in multi-languages.,1,yes,11.80782476685394,0
+0x9381CAA558F19a821A2360C59FdF3dB60C09ff52,QmZCcZNYhYvuqD3GEUQUH6YWwFCodiP25DPmD7xo56QwGj,2022-03-14T14:20:18.000Z,Tutorials to teach new members how to join the DCL ecosystem in multi-languages.,1,yes,8179.657243141139,55
+0x1156Bf625B37623a86d004e66e0A01Ec4b17E051,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-14T05:50:22.000Z,Should users be able to use ENS names?,1,Yes,22214.082928448195,4
+0x0d772A7565c4480267083E793f9da5AA0373d168,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-14T01:27:32.000Z,Should users be able to use ENS names?,1,Yes,88345.53758114,17
+0x8Cff6832174091DAe86F0244e3Fd92d4CeD2Fe07,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-14T01:19:25.000Z,Should users be able to use ENS names?,1,Yes,1330.2169268396497,0
+0x8b104344F397aFC33Ee55C743a0FbD7d956201cD,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-13T23:53:48.000Z,Should users be able to use ENS names?,1,Yes,3037.41120645,0
+0xe83FCC89Fb8Fdd63eB542be01420d24257F28BCC,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-13T20:46:04.000Z,Should users be able to use ENS names?,2,No,190.33704546933956,0
+0x4262f8BB5bd9Ad132782D2a7279b532A1DC6BCbF,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-13T16:00:32.000Z,Should users be able to use ENS names?,1,Yes,658.062776233724,0
+0x6005cdca3E6AeF6aa9FF5a6301B09c770AA55783,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-13T14:51:45.000Z,Should users be able to use ENS names?,1,Yes,1014.7593401871193,0
+0x531aA0845cF473A55BB5bc8cda5E04Ea5B27C726,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-13T13:47:41.000Z,Should users be able to use ENS names?,1,Yes,43.3539797047391,0
+0xA9C82036372D4D80dDF74013DD51EBC336092dB2,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-13T13:38:49.000Z,Should users be able to use ENS names?,1,Yes,10.835,0
 0x52f8d5518a05366989B3BaAd9c8E1129cA317Fc7,QmZSk5phv4KzpBX2HdiKYRGvkm1SgtRj5mfkyCZUDuqQJb,2022-03-13T09:22:14.000Z,Should the legacy POI list be deleted?,1,"Yes, delete the legacy list and let the community vote for the POIs that should be re-added to the DAO maintained list",317.2294149778355,0
+0x52f8d5518a05366989B3BaAd9c8E1129cA317Fc7,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-13T09:09:25.000Z,Should users be able to use ENS names?,3,Invalid question/options,320.15441497783553,0
 0x044ff5c8D9F9c97b489280cEc21C6E1D28e68657,QmZSk5phv4KzpBX2HdiKYRGvkm1SgtRj5mfkyCZUDuqQJb,2022-03-13T05:55:41.000Z,Should the legacy POI list be deleted?,1,"Yes, delete the legacy list and let the community vote for the POIs that should be re-added to the DAO maintained list",81.72210193737045,0
+0x1D92863Efc0c6fFD2A3c8a83EDB10Ad99c77cc7a,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-13T02:21:15.000Z,Should users be able to use ENS names?,1,Yes,700,0
+0x7AaAaE8cd46aB71E1e5084d55d9C6b3ea4D970a0,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-13T01:09:16.000Z,Should users be able to use ENS names?,1,Yes,7623.820501184933,1
 0x6cca0FEb8906353561a0cF6EA8e305e7EE90d66b,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-12T23:01:10.000Z,Community Building with music and helping new players enjoy the experience,1,yes,612.533256384809,0
 0xDbA3703b88ddC3ee34381231C74F13AAaC8699c4,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-12T20:49:54.000Z,Community Building with music and helping new players enjoy the experience,1,yes,863.4751059809404,0
 0xffd3C4424c2CBdB1776572C4D136F15be66890aF,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-12T20:45:23.000Z,Community Building with music and helping new players enjoy the experience,1,yes,106.6749470817987,0
 0xA9C82036372D4D80dDF74013DD51EBC336092dB2,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-12T20:16:26.000Z,Community Building with music and helping new players enjoy the experience,1,yes,10.685,0
+0x96D623001c5C6De3Cd8b07346da6D0D97Dd4C2B3,QmZCcZNYhYvuqD3GEUQUH6YWwFCodiP25DPmD7xo56QwGj,2022-03-12T19:54:07.000Z,Tutorials to teach new members how to join the DCL ecosystem in multi-languages.,1,yes,200.9377472069287,1
 0x4223eC5e4C5D2ab1e039863A8f90996eFa4f07d3,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-12T18:26:54.000Z,Community Building with music and helping new players enjoy the experience,1,yes,63.30082072011418,0
+0xf519172dc3Cc531786DB0Db7292A51A1bCFa7D82,QmTQQrWdwP3dwZwUU9diBiTRANVJo33rDbW2udDrr8jB2k,2022-03-12T18:16:04.000Z,"Add the location -40,-103 to the Points of Interest",1,yes,1016155.5037972963,76
+0x505D688A38b8cB9190B4f671d98A37a784E92C1F,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-12T17:19:28.000Z,Should users be able to use ENS names?,1,Yes,36.2838292,0
 0xb94Bba3746d108257289a50490b9EEA526832A8b,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-12T17:08:44.000Z,Community Building with music and helping new players enjoy the experience,1,yes,121.18102425333561,0
+0x91CBeA8B5dD4eFC87C8c14EE8323441357325bFe,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-12T16:32:48.000Z,Should users be able to use ENS names?,2,No,5787.767309000774,1
+0x46e992299FB47C7ae51Af7F0e7984a3f7d44A400,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-12T03:07:10.000Z,Should users be able to use ENS names?,1,Yes,11343.74928912,2
+0xffd3C4424c2CBdB1776572C4D136F15be66890aF,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-11T21:41:23.000Z,Should users be able to use ENS names?,1,Yes,61.37994708179871,0
 0x6D873a14A470dd969D7c76A2E088169AB2a1d7Ae,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-11T19:20:59.000Z,Community Building with music and helping new players enjoy the experience,1,yes,110.04996134596179,0
+0x2D10c6039337dec604413c306E5d1F2ea29C8d3D,QmZCcZNYhYvuqD3GEUQUH6YWwFCodiP25DPmD7xo56QwGj,2022-03-11T18:22:04.000Z,Tutorials to teach new members how to join the DCL ecosystem in multi-languages.,1,yes,101.34883700971429,0
 0xE6c649d166D5010cdAf0eD4f02919F08ED2c54B7,QmPAPKUn4CQEkj4xMGUyU6MswPBQbyW99Vw8DqTfLYzouV,2022-03-11T16:22:27.000Z,"Change the name ""MANA""",3,Invalid question/options,2000,0
+0xE6c649d166D5010cdAf0eD4f02919F08ED2c54B7,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-11T16:21:55.000Z,Should users be able to use ENS names?,1,Yes,2000,0
+0xc2877b05CFe462E585fE3DE8046F7528998aF6F1,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-11T15:33:09.000Z,Should users be able to use ENS names?,3,Invalid question/options,1418.92021905,0
 0x4262f8BB5bd9Ad132782D2a7279b532A1DC6BCbF,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-11T12:27:14.000Z,Community Building with music and helping new players enjoy the experience,1,yes,607.2076114850474,0
 0x059d0025E4e1Bb1a37F2C922e54b139Bc1231eE0,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-11T11:47:49.000Z,Community Building with music and helping new players enjoy the experience,2,no,31523.175324811054,3
+0x059d0025E4e1Bb1a37F2C922e54b139Bc1231eE0,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-11T11:18:00.000Z,Should users be able to use ENS names?,2,No,31546.256097314035,6
 0x3CA5e5ea2909025058B1F63851be31dC4AF9cF43,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-11T09:16:02.000Z,Community Building with music and helping new players enjoy the experience,1,yes,102.96446325264597,0
 0x895Be97bDb9F8a244c472B18EA96DeE39ddf8fe5,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-11T08:41:47.000Z,Community Building with music and helping new players enjoy the experience,1,yes,70294.72843687444,7
+0xdE94c0f5FAD32d3c1C0A26D88408670968679AF0,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-11T06:03:30.000Z,Should users be able to use ENS names?,1,Yes,2322.5198983886867,0
+0x66b1488a32E21f2d2757713D16facd9d25Ec977c,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-11T05:17:03.000Z,Should users be able to use ENS names?,2,No,2402.0816148,0
 0xef0b8B0d9867B2bE81C22781f0582588B7299600,QmZSk5phv4KzpBX2HdiKYRGvkm1SgtRj5mfkyCZUDuqQJb,2022-03-11T04:37:54.000Z,Should the legacy POI list be deleted?,1,"Yes, delete the legacy list and let the community vote for the POIs that should be re-added to the DAO maintained list",206.55116358200473,0
 0x598f8af1565003AE7456DaC280a18ee826Df7a2c,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-11T03:34:23.000Z,Community Building with music and helping new players enjoy the experience,1,yes,102823.42997012941,10
 0xc1b8662A68F3eb66bC5e5C4DE7C1EF04Dc344d53,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-11T03:28:18.000Z,Community Building with music and helping new players enjoy the experience,1,yes,111893.07342561925,11
+0xAb05Fe7F1DeE4CDB5640d79fe847EF80204451f1,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-11T02:40:17.000Z,Should users be able to use ENS names?,1,Yes,115.23646750967336,0
+0x877B37D3E5467B4aAE7687Dd3480A46C8D3e16Be,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T23:51:56.000Z,Should users be able to use ENS names?,1,Yes,160,0
 0x1156Bf625B37623a86d004e66e0A01Ec4b17E051,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-10T21:28:55.000Z,Community Building with music and helping new players enjoy the experience,1,yes,22214.082928448195,2
 0xe7D6c7134d01084CEC5064A562ce1E6428Cf052c,QmPAPKUn4CQEkj4xMGUyU6MswPBQbyW99Vw8DqTfLYzouV,2022-03-10T18:19:26.000Z,"Change the name ""MANA""",3,Invalid question/options,45.5516740323306,0
+0x780909C4F1305E5953041E744B09E2F016180676,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T17:18:07.000Z,Should users be able to use ENS names?,1,Yes,144.23099128987138,0
+0x6cca0FEb8906353561a0cF6EA8e305e7EE90d66b,QmTQQrWdwP3dwZwUU9diBiTRANVJo33rDbW2udDrr8jB2k,2022-03-10T16:57:17.000Z,"Add the location -40,-103 to the Points of Interest",1,yes,612.533256384809,0
+0x895Be97bDb9F8a244c472B18EA96DeE39ddf8fe5,QmZDdh3tksgE5qv97wMRDhvNrxvGmGpKaaVrwaMG4wvSLR,2022-03-10T14:33:08.000Z,"Add the location -34,-104 to the Points of Interest",2,no,70294.72843687444,9
 0xd59515Ed5d580246e82e90eD2673d78039eF8fC6,QmPAPKUn4CQEkj4xMGUyU6MswPBQbyW99Vw8DqTfLYzouV,2022-03-10T13:51:26.000Z,"Change the name ""MANA""",1,DON'T CALL IT MANA,10.399548180244917,0
+0xd59515Ed5d580246e82e90eD2673d78039eF8fC6,QmTQQrWdwP3dwZwUU9diBiTRANVJo33rDbW2udDrr8jB2k,2022-03-10T13:50:51.000Z,"Add the location -40,-103 to the Points of Interest",1,yes,10.399548180244917,0
+0xd59515Ed5d580246e82e90eD2673d78039eF8fC6,QmZCcZNYhYvuqD3GEUQUH6YWwFCodiP25DPmD7xo56QwGj,2022-03-10T13:50:17.000Z,Tutorials to teach new members how to join the DCL ecosystem in multi-languages.,1,yes,10.399548180244917,0
+0xd59515Ed5d580246e82e90eD2673d78039eF8fC6,QmZDdh3tksgE5qv97wMRDhvNrxvGmGpKaaVrwaMG4wvSLR,2022-03-10T13:49:55.000Z,"Add the location -34,-104 to the Points of Interest",2,no,10.399548180244917,0
 0xd59515Ed5d580246e82e90eD2673d78039eF8fC6,QmZSk5phv4KzpBX2HdiKYRGvkm1SgtRj5mfkyCZUDuqQJb,2022-03-10T13:49:29.000Z,Should the legacy POI list be deleted?,1,"Yes, delete the legacy list and let the community vote for the POIs that should be re-added to the DAO maintained list",10.399548180244917,0
+0xd59515Ed5d580246e82e90eD2673d78039eF8fC6,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T13:48:26.000Z,Should users be able to use ENS names?,1,Yes,10.399548180244917,0
+0x1018142957a9509f0F0f69c1D380a369Ace15DB3,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T13:15:55.000Z,Should users be able to use ENS names?,1,Yes,6200.7609484703635,1
+0x28c016f2CA09AED00B1208A91DCa17EC20246294,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T13:07:42.000Z,Should users be able to use ENS names?,1,Yes,2500,0
+0xc24Fe6f2bae027aeee47390be73D121f18F51bdB,QmZDdh3tksgE5qv97wMRDhvNrxvGmGpKaaVrwaMG4wvSLR,2022-03-10T12:30:38.000Z,"Add the location -34,-104 to the Points of Interest",1,yes,10.068305621078924,0
 0xc24Fe6f2bae027aeee47390be73D121f18F51bdB,QmZSk5phv4KzpBX2HdiKYRGvkm1SgtRj5mfkyCZUDuqQJb,2022-03-10T12:27:23.000Z,Should the legacy POI list be deleted?,1,"Yes, delete the legacy list and let the community vote for the POIs that should be re-added to the DAO maintained list",10.068305621078924,0
+0xc24Fe6f2bae027aeee47390be73D121f18F51bdB,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T12:24:44.000Z,Should users be able to use ENS names?,1,Yes,10.068305621078924,0
+0x598f8af1565003AE7456DaC280a18ee826Df7a2c,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T12:13:42.000Z,Should users be able to use ENS names?,1,Yes,102823.42997012941,20
+0xb5e7594eC5c93498123571DBAc1e7c1699AfB768,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T11:37:22.000Z,Should users be able to use ENS names?,1,Yes,2101.9839984378414,0
 0x4A544f28F8438BfAd7E10C864F4fD89d9f6989c9,QmRWCHctfH4sEqrkQaSqkMSZ8Jdf7Fd1iCC54JmWvtbje8,2022-03-10T11:35:41.000Z,"Add the location -55,-129 to the Points of Interest",1,yes,2000.82158192,2
 0xB5F4ebcC5a90e58D953eE9e64e365C2468f31F51,QmPAPKUn4CQEkj4xMGUyU6MswPBQbyW99Vw8DqTfLYzouV,2022-03-10T07:11:19.000Z,"Change the name ""MANA""",3,Invalid question/options,630.8966383420413,0
+0xB5F4ebcC5a90e58D953eE9e64e365C2468f31F51,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T07:09:08.000Z,Should users be able to use ENS names?,1,Yes,611.0216383420412,0
+0xA3A4fD7B17983C4b6683547025bE88801DEaf15C,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T05:20:34.000Z,Should users be able to use ENS names?,1,Yes,22100,4
+0xb12Ba0B2dc9D9811A7E3B1F76B3f8318BcB58f20,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T05:20:06.000Z,Should users be able to use ENS names?,1,Yes,36100,7
+0x22De30CCa3A00e508e37dDA042ffDbF2C34E7711,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T05:08:53.000Z,Should users be able to use ENS names?,1,Yes,300,0
 0x0749d1AbB5CA9128432B612644c0eA1e9c6cc9aF,QmPAPKUn4CQEkj4xMGUyU6MswPBQbyW99Vw8DqTfLYzouV,2022-03-10T05:02:12.000Z,"Change the name ""MANA""",3,Invalid question/options,210.37870216084872,0
+0x0749d1AbB5CA9128432B612644c0eA1e9c6cc9aF,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T05:00:24.000Z,Should users be able to use ENS names?,1,Yes,200.7587021608487,0
 0xc375b0A133F49DbF3C6418895d6d024BE2D8F84a,QmZSk5phv4KzpBX2HdiKYRGvkm1SgtRj5mfkyCZUDuqQJb,2022-03-10T03:45:05.000Z,Should the legacy POI list be deleted?,1,"Yes, delete the legacy list and let the community vote for the POIs that should be re-added to the DAO maintained list",55.85929021456589,0
 0xB5905DbE33bb3193ED25dBE86C9436981E7cF54c,QmZSk5phv4KzpBX2HdiKYRGvkm1SgtRj5mfkyCZUDuqQJb,2022-03-10T03:42:55.000Z,Should the legacy POI list be deleted?,1,"Yes, delete the legacy list and let the community vote for the POIs that should be re-added to the DAO maintained list",2100,0
+0xB5905DbE33bb3193ED25dBE86C9436981E7cF54c,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T03:40:52.000Z,Should users be able to use ENS names?,1,Yes,2100,0
+0xc375b0A133F49DbF3C6418895d6d024BE2D8F84a,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T03:40:12.000Z,Should users be able to use ENS names?,1,Yes,56.53929021456589,0
+0xc375b0A133F49DbF3C6418895d6d024BE2D8F84a,QmZCcZNYhYvuqD3GEUQUH6YWwFCodiP25DPmD7xo56QwGj,2022-03-10T03:39:08.000Z,Tutorials to teach new members how to join the DCL ecosystem in multi-languages.,2,no,55.85929021456589,0
+0xeCEC0d3d318cB4E8cC5fbD36644C21D085FE87Af,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T03:14:18.000Z,Should users be able to use ENS names?,1,Yes,321.33009367,0
+0xc52A6BCCc4AeaF141819954EF4adC4582D4DFB9F,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T01:58:55.000Z,Should users be able to use ENS names?,1,Yes,2020,0
 0xd6eFf8F07cAF3443A1178407d3de4129149D6eF6,QmPAPKUn4CQEkj4xMGUyU6MswPBQbyW99Vw8DqTfLYzouV,2022-03-09T23:49:53.000Z,"Change the name ""MANA""",3,Invalid question/options,22285.713239550812,2
+0x5163c73f9B45c276B74065Ef64556BDD53919Ba8,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-09T23:27:38.000Z,Should users be able to use ENS names?,1,Yes,261.8725,0
 0xE25C73435702fED11E9C5584cE6EFE7CbFf71739,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-09T21:30:27.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,1034100,11
+0x2316C4e315E633AF0bA1dAb70149b4eA6A55a58A,QmTQQrWdwP3dwZwUU9diBiTRANVJo33rDbW2udDrr8jB2k,2022-03-09T20:32:45.000Z,"Add the location -40,-103 to the Points of Interest",1,yes,23032.825,1
+0x8FA1Ac51Cd40Ef4d1a415674F06AA26ccc48C50E,QmTQQrWdwP3dwZwUU9diBiTRANVJo33rDbW2udDrr8jB2k,2022-03-09T20:30:21.000Z,"Add the location -40,-103 to the Points of Interest",1,yes,5935.9,0
+0x9AD7316A8196C5a5165378Dd575e9d1D14F6e631,QmTQQrWdwP3dwZwUU9diBiTRANVJo33rDbW2udDrr8jB2k,2022-03-09T20:29:21.000Z,"Add the location -40,-103 to the Points of Interest",1,yes,4312.273811463803,0
 0xA50bB024840a02fDaC7289Ab2f4aE58250ff2E75,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-09T19:46:32.000Z,Community Building with music and helping new players enjoy the experience,2,no,3026.00566408,0
+0xaaE9d8bFf1EF3606c51545B953e0137abB7Ce7f3,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-09T19:46:05.000Z,Should users be able to use ENS names?,1,Yes,400.9655347152158,0
+0x813237Fdb0c5F046575C6cD4650077923c8e4039,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-09T19:44:25.000Z,Should users be able to use ENS names?,1,Yes,152.69774589591907,0
+0xA50bB024840a02fDaC7289Ab2f4aE58250ff2E75,QmZCcZNYhYvuqD3GEUQUH6YWwFCodiP25DPmD7xo56QwGj,2022-03-09T19:44:16.000Z,Tutorials to teach new members how to join the DCL ecosystem in multi-languages.,1,yes,3026.00566408,20
+0x019Ed608dD806b80193942F2A960e7AC8aBb2EE3,QmZCcZNYhYvuqD3GEUQUH6YWwFCodiP25DPmD7xo56QwGj,2022-03-09T19:44:03.000Z,Tutorials to teach new members how to join the DCL ecosystem in multi-languages.,1,yes,2632.9028555537216,17
+0xcA7a6a53d5576102765a0281c723f863D881DC96,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-09T19:43:48.000Z,Should users be able to use ENS names?,1,Yes,201.00885739599062,0
+0x019Ed608dD806b80193942F2A960e7AC8aBb2EE3,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-09T19:42:31.000Z,Should users be able to use ENS names?,1,Yes,2632.9028555537216,0
+0xb3927A81c152aF2600FAf919647e05f1f1F150c6,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-09T19:31:22.000Z,Should users be able to use ENS names?,1,Yes,1604.24148488,0
 0xF7e158bd2b6E79eF2F2Ab72ac6CB2fea239c2A9B,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-09T18:56:01.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,4697.616191069734,0
+0xd5e9eF1CedAd0D135d543D286a2c190B16cBb89E,QmTQQrWdwP3dwZwUU9diBiTRANVJo33rDbW2udDrr8jB2k,2022-03-09T18:51:21.000Z,"Add the location -40,-103 to the Points of Interest",1,yes,180575.19376937218,13
+0xA50bB024840a02fDaC7289Ab2f4aE58250ff2E75,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-09T18:41:28.000Z,Should users be able to use ENS names?,1,Yes,3026.00566408,0
 0xCF10CD8B5Dc2323B1eb6de6164647756BAd4dE4d,QmZSk5phv4KzpBX2HdiKYRGvkm1SgtRj5mfkyCZUDuqQJb,2022-03-09T17:13:49.000Z,Should the legacy POI list be deleted?,1,"Yes, delete the legacy list and let the community vote for the POIs that should be re-added to the DAO maintained list",129497.0441429833,42
+0xCF10CD8B5Dc2323B1eb6de6164647756BAd4dE4d,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-09T16:39:39.000Z,Should users be able to use ENS names?,1,Yes,129497.0441429833,25
 0xe2b6024873d218B2E83B462D3658D8D7C3f55a18,QmZSk5phv4KzpBX2HdiKYRGvkm1SgtRj5mfkyCZUDuqQJb,2022-03-09T14:41:47.000Z,Should the legacy POI list be deleted?,1,"Yes, delete the legacy list and let the community vote for the POIs that should be re-added to the DAO maintained list",59188.02727514581,19
 0xb44ac514588BE99870220d12120815bc3D349507,QmPAPKUn4CQEkj4xMGUyU6MswPBQbyW99Vw8DqTfLYzouV,2022-03-09T11:40:50.000Z,"Change the name ""MANA""",3,Invalid question/options,62.35,0
+0xb44ac514588BE99870220d12120815bc3D349507,QmTQQrWdwP3dwZwUU9diBiTRANVJo33rDbW2udDrr8jB2k,2022-03-09T11:40:25.000Z,"Add the location -40,-103 to the Points of Interest",1,yes,62.35,0
+0xb44ac514588BE99870220d12120815bc3D349507,QmZCcZNYhYvuqD3GEUQUH6YWwFCodiP25DPmD7xo56QwGj,2022-03-09T11:40:10.000Z,Tutorials to teach new members how to join the DCL ecosystem in multi-languages.,1,yes,62.35,0
+0xb44ac514588BE99870220d12120815bc3D349507,QmZDdh3tksgE5qv97wMRDhvNrxvGmGpKaaVrwaMG4wvSLR,2022-03-09T11:39:54.000Z,"Add the location -34,-104 to the Points of Interest",2,no,62.35,0
 0x2D10c6039337dec604413c306E5d1F2ea29C8d3D,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-09T11:37:02.000Z,Community Building with music and helping new players enjoy the experience,2,no,75.6518191457513,0
 0xD28505cae4CECFeC6132Dd366Dd52d499a27F893,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-09T11:12:41.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,169563.94966730734,1
 0x8b51C1Ba09EE33e7649CAc62cCb6d0f410F5647A,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-09T11:12:06.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,344900,3
@@ -45,18 +116,32 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0xdBdD3D732083b13d9EbFd83675b7c22f84392eF6,QmZSk5phv4KzpBX2HdiKYRGvkm1SgtRj5mfkyCZUDuqQJb,2022-03-09T01:54:03.000Z,Should the legacy POI list be deleted?,1,"Yes, delete the legacy list and let the community vote for the POIs that should be re-added to the DAO maintained list",112100,36
 0xBCef8f991c4734565cf3B0aD910a2fE77D06AFE4,QmQ5fetZApfTEYpTdfT2n3F6vkp4YdUMdEitaL32FyCkTM,2022-03-08T22:19:27.000Z,"Add the location 11,-16 to the Points of Interest",1,yes,86303.06728180613,92
 0xBCef8f991c4734565cf3B0aD910a2fE77D06AFE4,QmTReoZPVguNRNVB8UmcXnfo2N53EHL9iaPLgkzZuQ4FTG,2022-03-08T22:15:56.000Z,"Add the location 15,61 to the Points of Interest",1,yes,86303.06728180613,95
+0xFE2d424AF0Df49Bb3316cB2E9f574b0D09cf98Ad,QmTQQrWdwP3dwZwUU9diBiTRANVJo33rDbW2udDrr8jB2k,2022-03-08T22:08:28.000Z,"Add the location -40,-103 to the Points of Interest",1,yes,2621.6,0
 0xBCef8f991c4734565cf3B0aD910a2fE77D06AFE4,QmXktkaXG7Ttr78PCoV63k3rbwBW7LrQoAiJ9HKZgwZzEW,2022-03-08T22:03:19.000Z,"Add the location -94,-99 to the Points of Interest",1,yes,86303.06728180613,31
 0xBCef8f991c4734565cf3B0aD910a2fE77D06AFE4,QmRWCHctfH4sEqrkQaSqkMSZ8Jdf7Fd1iCC54JmWvtbje8,2022-03-08T21:59:22.000Z,"Add the location -55,-129 to the Points of Interest",1,yes,86303.06728180613,94
+0xBCef8f991c4734565cf3B0aD910a2fE77D06AFE4,QmZDdh3tksgE5qv97wMRDhvNrxvGmGpKaaVrwaMG4wvSLR,2022-03-08T21:54:32.000Z,"Add the location -34,-104 to the Points of Interest",1,yes,86303.06728180613,12
+0xBCef8f991c4734565cf3B0aD910a2fE77D06AFE4,QmTQQrWdwP3dwZwUU9diBiTRANVJo33rDbW2udDrr8jB2k,2022-03-08T21:45:34.000Z,"Add the location -40,-103 to the Points of Interest",1,yes,86303.06728180613,6
 0x76fb13f00CdbdD5eAC8E2664CF14be791aF87cb0,QmPAPKUn4CQEkj4xMGUyU6MswPBQbyW99Vw8DqTfLYzouV,2022-03-08T17:51:58.000Z,"Change the name ""MANA""",3,Invalid question/options,183254,23
 0xf72f759AE12945CAb42fcC0D5c49534f9a402835,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-08T17:08:59.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,2100,0
 0x511a22cDd2c4eE8357bB02df2578037Ffe8a4d8d,QmPAPKUn4CQEkj4xMGUyU6MswPBQbyW99Vw8DqTfLYzouV,2022-03-08T17:04:46.000Z,"Change the name ""MANA""",3,Invalid question/options,57.09150684004557,0
+0x4cB780Fd3286f2d10199B61423D1c804BD2a5D2B,QmZDdh3tksgE5qv97wMRDhvNrxvGmGpKaaVrwaMG4wvSLR,2022-03-08T16:11:23.000Z,"Add the location -34,-104 to the Points of Interest",1,yes,10.262061089058662,0
+0x28F18d9AD8730e0dE394E9b5C4dD8dF178E73de4,QmTQQrWdwP3dwZwUU9diBiTRANVJo33rDbW2udDrr8jB2k,2022-03-08T15:26:00.000Z,"Add the location -40,-103 to the Points of Interest",1,yes,4460.85876641,0
 0xed385E4371Fe38265EdE76e865120b04B5b210e0,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-08T14:17:58.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,1304000,14
+0x6cAa802c6895ECD31601518C7f6B9eF6f9349238,QmZDdh3tksgE5qv97wMRDhvNrxvGmGpKaaVrwaMG4wvSLR,2022-03-08T12:39:49.000Z,"Add the location -34,-104 to the Points of Interest",2,no,103400,14
+0x4A544f28F8438BfAd7E10C864F4fD89d9f6989c9,QmZDdh3tksgE5qv97wMRDhvNrxvGmGpKaaVrwaMG4wvSLR,2022-03-08T10:20:28.000Z,"Add the location -34,-104 to the Points of Interest",1,yes,2000.82158192,0
 0xef0b8B0d9867B2bE81C22781f0582588B7299600,QmPAPKUn4CQEkj4xMGUyU6MswPBQbyW99Vw8DqTfLYzouV,2022-03-08T09:39:09.000Z,"Change the name ""MANA""",3,Invalid question/options,206.55116358200473,0
 0x895Be97bDb9F8a244c472B18EA96DeE39ddf8fe5,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-08T08:39:53.000Z,Expanding and Upgrading Ethermon District Gameplay,2,no,70267,0
 0x25cee109528236762EE001A9B32073697b2a11c1,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-08T07:09:09.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,3000,0
 0xc24Fe6f2bae027aeee47390be73D121f18F51bdB,QmPAPKUn4CQEkj4xMGUyU6MswPBQbyW99Vw8DqTfLYzouV,2022-03-08T07:00:12.000Z,"Change the name ""MANA""",3,Invalid question/options,10.068305621078924,0
+0xc24Fe6f2bae027aeee47390be73D121f18F51bdB,QmZCcZNYhYvuqD3GEUQUH6YWwFCodiP25DPmD7xo56QwGj,2022-03-08T06:57:25.000Z,Tutorials to teach new members how to join the DCL ecosystem in multi-languages.,1,yes,10.068305621078924,0
+0xc24Fe6f2bae027aeee47390be73D121f18F51bdB,QmTQQrWdwP3dwZwUU9diBiTRANVJo33rDbW2udDrr8jB2k,2022-03-08T06:56:35.000Z,"Add the location -40,-103 to the Points of Interest",1,yes,10.068305621078924,0
+0x6Aa9fca549ba73De332f88BE2082480CF2D02c8C,QmTQQrWdwP3dwZwUU9diBiTRANVJo33rDbW2udDrr8jB2k,2022-03-08T06:39:23.000Z,"Add the location -40,-103 to the Points of Interest",1,yes,21.19093028,0
+0x77101a0eF72aB4c6D95a2b64289e425dF6E92D72,QmTQQrWdwP3dwZwUU9diBiTRANVJo33rDbW2udDrr8jB2k,2022-03-08T06:05:22.000Z,"Add the location -40,-103 to the Points of Interest",1,yes,4815.65,0
 0x2Fef65e4D69a38bf0dd074079f367CDF176eC0De,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-08T04:46:02.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,100,0
+0x0749d1AbB5CA9128432B612644c0eA1e9c6cc9aF,QmZCcZNYhYvuqD3GEUQUH6YWwFCodiP25DPmD7xo56QwGj,2022-03-08T04:16:13.000Z,Tutorials to teach new members how to join the DCL ecosystem in multi-languages.,1,yes,200.7587021608487,1
 0x496fA7E913309e3581af84162C116FFefC2d3809,QmUUXt2TXHYNyWVQJ46cb1PyAjqyK9VJWhzMGq2xF6RbCb,2022-03-08T04:05:36.000Z,"Add the location 117,-25 to the Points of Interest",1,yes,2038.57111597,0
+0x515bEE382EA1043B699863C06f319A8267D58431,QmZCcZNYhYvuqD3GEUQUH6YWwFCodiP25DPmD7xo56QwGj,2022-03-08T03:20:22.000Z,Tutorials to teach new members how to join the DCL ecosystem in multi-languages.,1,yes,100.53584949,0
+0x5163c73f9B45c276B74065Ef64556BDD53919Ba8,QmZCcZNYhYvuqD3GEUQUH6YWwFCodiP25DPmD7xo56QwGj,2022-03-08T03:09:29.000Z,Tutorials to teach new members how to join the DCL ecosystem in multi-languages.,1,yes,234.665,1
 0x370f859A2F31D40192e1879eB97D64E6459BC8e4,QmUUXt2TXHYNyWVQJ46cb1PyAjqyK9VJWhzMGq2xF6RbCb,2022-03-08T01:54:37.000Z,"Add the location 117,-25 to the Points of Interest",1,yes,100,0
 0x370f859A2F31D40192e1879eB97D64E6459BC8e4,QmPAPKUn4CQEkj4xMGUyU6MswPBQbyW99Vw8DqTfLYzouV,2022-03-08T01:54:19.000Z,"Change the name ""MANA""",3,Invalid question/options,100,0
 0x7d20BB5D2CA0C26524a7cBd3E06d7328f9321080,QmPAPKUn4CQEkj4xMGUyU6MswPBQbyW99Vw8DqTfLYzouV,2022-03-08T00:47:33.000Z,"Change the name ""MANA""",3,Invalid question/options,2529.0711135926667,0
@@ -14318,8 +14403,8 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x3fB38CEe8d0BA7Dcf59403a8C397626dC9c7A13B,QmcEtXsQLg9nY3ACAPFivBrHMTZo1KpKF1niFsJYrF5Br6,2021-06-22T18:14:42.000Z,I want to start a youtube channel.,2,no,20995.23930539,3
 0x1c4633F750ccdF4f40C9e88f5986A80c814B851f,QmW5DxzH3Hu6ovcBWuyGBhQ4YyiuXfeiZEixBAVuiQMLsa,2021-06-22T18:11:42.000Z,Building the Motion Mine,1,yes,2000,0
 0x30b1f4Bd5476906f38385B891f2c09973196b742,QmW5DxzH3Hu6ovcBWuyGBhQ4YyiuXfeiZEixBAVuiQMLsa,2021-06-22T18:10:22.000Z,Building the Motion Mine,1,yes,16000,0
-0xa4244F6711052752E6Bb0271Bf17c756E6598406,QmUqfXPbBZfay8GLPw51ed1oUMXu4b9Cwnub81TFNMxr6d,2021-06-22T18:00:41.000Z,Improving the Toolbox Smart Item In Builder,1,yes,290.075,0
 0xbd5b79D53D75497673e699A571AFA85492a2cc74,QmUqfXPbBZfay8GLPw51ed1oUMXu4b9Cwnub81TFNMxr6d,2021-06-22T18:00:41.000Z,Improving the Toolbox Smart Item In Builder,1,yes,18388.78,1
+0xa4244F6711052752E6Bb0271Bf17c756E6598406,QmUqfXPbBZfay8GLPw51ed1oUMXu4b9Cwnub81TFNMxr6d,2021-06-22T18:00:41.000Z,Improving the Toolbox Smart Item In Builder,1,yes,290.075,0
 0x0a7e606eB21C80C28A005DAeB5f3d99A40d6B154,QmcEtXsQLg9nY3ACAPFivBrHMTZo1KpKF1niFsJYrF5Br6,2021-06-22T17:40:20.000Z,I want to start a youtube channel.,2,no,44.58792667816839,0
 0xe58130a60d7128ffB6ff6C1f99A66eC65f7F73Fd,QmW5DxzH3Hu6ovcBWuyGBhQ4YyiuXfeiZEixBAVuiQMLsa,2021-06-22T17:39:33.000Z,Building the Motion Mine,1,yes,18585.125,0
 0xd689478d44A438798EE0DC07657CcE2135c0AeF7,QmW5DxzH3Hu6ovcBWuyGBhQ4YyiuXfeiZEixBAVuiQMLsa,2021-06-22T17:38:09.000Z,Building the Motion Mine,1,yes,17222.23156123,0
