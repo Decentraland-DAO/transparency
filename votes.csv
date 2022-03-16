@@ -1,9 +1,17 @@
 Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
+0x4534C46EA854c9A302d3dc95b2d3253aE6A28aBC,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-15T23:07:26.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,468.3749697761834,0
+0xa76DD4c653009c756793CA12219b6A6dFe8dA62f,QmTkzM2hVrAagfw5qwJp1LMZxAobPCDHz8NSpUnGAwYhpj,2022-03-15T14:38:27.000Z,Curation of Programmatic Collections for Linked Wearables,1,YES: 1%,150000,2
+0x0690Ef2CDcF5c860be9470ee6858770aa8Fb7d65,QmTkzM2hVrAagfw5qwJp1LMZxAobPCDHz8NSpUnGAwYhpj,2022-03-15T14:13:12.000Z,Curation of Programmatic Collections for Linked Wearables,5,NO,100,0
+0x4EfB206EEc3F109a542639Ef23F3d79Ea09FC02B,QmTkzM2hVrAagfw5qwJp1LMZxAobPCDHz8NSpUnGAwYhpj,2022-03-15T08:19:22.000Z,Curation of Programmatic Collections for Linked Wearables,5,NO,4399180.34,76
 0xb0145Ae156D201d6E371d07265FE3C045071c967,QmZDdh3tksgE5qv97wMRDhvNrxvGmGpKaaVrwaMG4wvSLR,2022-03-15T02:36:48.000Z,"Add the location -34,-104 to the Points of Interest",1,yes,446020.68,62
+0xb0145Ae156D201d6E371d07265FE3C045071c967,QmTkzM2hVrAagfw5qwJp1LMZxAobPCDHz8NSpUnGAwYhpj,2022-03-15T02:23:06.000Z,Curation of Programmatic Collections for Linked Wearables,5,NO,446020.68,7
+0x7D8391A9d2199B3aFA76e7824164503Bb2fCc4Bd,QmTkzM2hVrAagfw5qwJp1LMZxAobPCDHz8NSpUnGAwYhpj,2022-03-14T21:45:30.000Z,Curation of Programmatic Collections for Linked Wearables,4,YES: 0.1%,74790.94574672365,1
 0x0C403e0D57Eeb8f091bCfA8EFdF01c00509f04f2,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-14T16:17:35.000Z,Should users be able to use ENS names?,2,No,6264.803992139119,1
 0x509CDeBBa232E7B7f603db5C93D1e4f1FeD9c6F8,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-14T14:58:35.000Z,Should users be able to use ENS names?,1,Yes,305.625,0
 0x697c6a6aeA3671B1A6E10AeA736f18FA3079Cb97,QmZCcZNYhYvuqD3GEUQUH6YWwFCodiP25DPmD7xo56QwGj,2022-03-14T14:30:12.000Z,Tutorials to teach new members how to join the DCL ecosystem in multi-languages.,1,yes,11.80782476685394,0
 0x9381CAA558F19a821A2360C59FdF3dB60C09ff52,QmZCcZNYhYvuqD3GEUQUH6YWwFCodiP25DPmD7xo56QwGj,2022-03-14T14:20:18.000Z,Tutorials to teach new members how to join the DCL ecosystem in multi-languages.,1,yes,8179.657243141139,55
+0x805797Df0c0d7D70E14230b72E30171d730DA55e,QmTkzM2hVrAagfw5qwJp1LMZxAobPCDHz8NSpUnGAwYhpj,2022-03-14T13:48:11.000Z,Curation of Programmatic Collections for Linked Wearables,1,YES: 1%,3372.683699003042,0
+0xfFAC7FD045303112fdb28e9dACe8E1334aD324c0,QmTkzM2hVrAagfw5qwJp1LMZxAobPCDHz8NSpUnGAwYhpj,2022-03-14T11:52:04.000Z,Curation of Programmatic Collections for Linked Wearables,1,YES: 1%,131077.73896601552,2
 0x1156Bf625B37623a86d004e66e0A01Ec4b17E051,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-14T05:50:22.000Z,Should users be able to use ENS names?,1,Yes,22214.082928448195,4
 0x0d772A7565c4480267083E793f9da5AA0373d168,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-14T01:27:32.000Z,Should users be able to use ENS names?,1,Yes,88345.53758114,17
 0x8Cff6832174091DAe86F0244e3Fd92d4CeD2Fe07,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-14T01:19:25.000Z,Should users be able to use ENS names?,1,Yes,1330.2169268396497,0
@@ -11,10 +19,13 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0xe83FCC89Fb8Fdd63eB542be01420d24257F28BCC,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-13T20:46:04.000Z,Should users be able to use ENS names?,2,No,190.33704546933956,0
 0x4262f8BB5bd9Ad132782D2a7279b532A1DC6BCbF,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-13T16:00:32.000Z,Should users be able to use ENS names?,1,Yes,658.062776233724,0
 0x6005cdca3E6AeF6aa9FF5a6301B09c770AA55783,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-13T14:51:45.000Z,Should users be able to use ENS names?,1,Yes,1014.7593401871193,0
+0xCF10CD8B5Dc2323B1eb6de6164647756BAd4dE4d,QmTkzM2hVrAagfw5qwJp1LMZxAobPCDHz8NSpUnGAwYhpj,2022-03-13T14:35:00.000Z,Curation of Programmatic Collections for Linked Wearables,1,YES: 1%,129497.0441429833,2
 0x531aA0845cF473A55BB5bc8cda5E04Ea5B27C726,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-13T13:47:41.000Z,Should users be able to use ENS names?,1,Yes,43.3539797047391,0
 0xA9C82036372D4D80dDF74013DD51EBC336092dB2,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-13T13:38:49.000Z,Should users be able to use ENS names?,1,Yes,10.835,0
+0x52f8d5518a05366989B3BaAd9c8E1129cA317Fc7,QmTkzM2hVrAagfw5qwJp1LMZxAobPCDHz8NSpUnGAwYhpj,2022-03-13T09:27:07.000Z,Curation of Programmatic Collections for Linked Wearables,5,NO,320.15441497783553,0
 0x52f8d5518a05366989B3BaAd9c8E1129cA317Fc7,QmZSk5phv4KzpBX2HdiKYRGvkm1SgtRj5mfkyCZUDuqQJb,2022-03-13T09:22:14.000Z,Should the legacy POI list be deleted?,1,"Yes, delete the legacy list and let the community vote for the POIs that should be re-added to the DAO maintained list",317.2294149778355,0
 0x52f8d5518a05366989B3BaAd9c8E1129cA317Fc7,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-13T09:09:25.000Z,Should users be able to use ENS names?,3,Invalid question/options,320.15441497783553,0
+0xA50bB024840a02fDaC7289Ab2f4aE58250ff2E75,QmTkzM2hVrAagfw5qwJp1LMZxAobPCDHz8NSpUnGAwYhpj,2022-03-13T06:23:00.000Z,Curation of Programmatic Collections for Linked Wearables,5,NO,3025.00566408,0
 0x044ff5c8D9F9c97b489280cEc21C6E1D28e68657,QmZSk5phv4KzpBX2HdiKYRGvkm1SgtRj5mfkyCZUDuqQJb,2022-03-13T05:55:41.000Z,Should the legacy POI list be deleted?,1,"Yes, delete the legacy list and let the community vote for the POIs that should be re-added to the DAO maintained list",81.72210193737045,0
 0x1D92863Efc0c6fFD2A3c8a83EDB10Ad99c77cc7a,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-13T02:21:15.000Z,Should users be able to use ENS names?,1,Yes,700,0
 0x7AaAaE8cd46aB71E1e5084d55d9C6b3ea4D970a0,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-13T01:09:16.000Z,Should users be able to use ENS names?,1,Yes,7623.820501184933,1
@@ -23,18 +34,34 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0xffd3C4424c2CBdB1776572C4D136F15be66890aF,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-12T20:45:23.000Z,Community Building with music and helping new players enjoy the experience,1,yes,106.6749470817987,0
 0xA9C82036372D4D80dDF74013DD51EBC336092dB2,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-12T20:16:26.000Z,Community Building with music and helping new players enjoy the experience,1,yes,10.685,0
 0x96D623001c5C6De3Cd8b07346da6D0D97Dd4C2B3,QmZCcZNYhYvuqD3GEUQUH6YWwFCodiP25DPmD7xo56QwGj,2022-03-12T19:54:07.000Z,Tutorials to teach new members how to join the DCL ecosystem in multi-languages.,1,yes,200.9377472069287,1
+0x96D623001c5C6De3Cd8b07346da6D0D97Dd4C2B3,QmTkzM2hVrAagfw5qwJp1LMZxAobPCDHz8NSpUnGAwYhpj,2022-03-12T19:53:00.000Z,Curation of Programmatic Collections for Linked Wearables,1,YES: 1%,200.9377472069287,0
 0x4223eC5e4C5D2ab1e039863A8f90996eFa4f07d3,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-12T18:26:54.000Z,Community Building with music and helping new players enjoy the experience,1,yes,63.30082072011418,0
 0xf519172dc3Cc531786DB0Db7292A51A1bCFa7D82,QmTQQrWdwP3dwZwUU9diBiTRANVJo33rDbW2udDrr8jB2k,2022-03-12T18:16:04.000Z,"Add the location -40,-103 to the Points of Interest",1,yes,1016155.5037972963,76
 0x505D688A38b8cB9190B4f671d98A37a784E92C1F,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-12T17:19:28.000Z,Should users be able to use ENS names?,1,Yes,36.2838292,0
 0xb94Bba3746d108257289a50490b9EEA526832A8b,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-12T17:08:44.000Z,Community Building with music and helping new players enjoy the experience,1,yes,121.18102425333561,0
 0x91CBeA8B5dD4eFC87C8c14EE8323441357325bFe,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-12T16:32:48.000Z,Should users be able to use ENS names?,2,No,5787.767309000774,1
+0x667224bf91FAB7546Fe591D1cf80E860d1D06963,QmTkzM2hVrAagfw5qwJp1LMZxAobPCDHz8NSpUnGAwYhpj,2022-03-12T15:00:08.000Z,Curation of Programmatic Collections for Linked Wearables,3,YES: 0.25%,18.40816401,0
+0x1FFaC0d3F477fC1D63AB257AB4Ce40ffD7C281CA,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-12T14:42:25.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,116.31394482,0
+0xc24Fe6f2bae027aeee47390be73D121f18F51bdB,QmTkzM2hVrAagfw5qwJp1LMZxAobPCDHz8NSpUnGAwYhpj,2022-03-12T12:46:08.000Z,Curation of Programmatic Collections for Linked Wearables,1,YES: 1%,10.068305621078924,0
+0x462b6cAa6530139756C415b12355E77B886D8dB0,QmTkzM2hVrAagfw5qwJp1LMZxAobPCDHz8NSpUnGAwYhpj,2022-03-12T12:14:32.000Z,Curation of Programmatic Collections for Linked Wearables,1,YES: 1%,371.18059969599346,0
 0x46e992299FB47C7ae51Af7F0e7984a3f7d44A400,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-12T03:07:10.000Z,Should users be able to use ENS names?,1,Yes,11343.74928912,2
+0x598f8af1565003AE7456DaC280a18ee826Df7a2c,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-12T00:47:43.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,102825.42997012941,2
 0xffd3C4424c2CBdB1776572C4D136F15be66890aF,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-11T21:41:23.000Z,Should users be able to use ENS names?,1,Yes,61.37994708179871,0
+0x7d1192A1Dfe3fC5614d895537DE3D49cbf0FC923,QmTkzM2hVrAagfw5qwJp1LMZxAobPCDHz8NSpUnGAwYhpj,2022-03-11T19:38:18.000Z,Curation of Programmatic Collections for Linked Wearables,4,YES: 0.1%,292476.3662956621,5
+0xf863045FfCDdbBa9970D65096119195AaA493d9d,QmTkzM2hVrAagfw5qwJp1LMZxAobPCDHz8NSpUnGAwYhpj,2022-03-11T19:34:43.000Z,Curation of Programmatic Collections for Linked Wearables,3,YES: 0.25%,16705.01632325031,0
+0x1ac3F360a0D9F2e8E1BFBb1Fe5d3881Ec06f045f,QmTkzM2hVrAagfw5qwJp1LMZxAobPCDHz8NSpUnGAwYhpj,2022-03-11T19:24:33.000Z,Curation of Programmatic Collections for Linked Wearables,4,YES: 0.1%,1013.44713004275,0
 0x6D873a14A470dd969D7c76A2E088169AB2a1d7Ae,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-11T19:20:59.000Z,Community Building with music and helping new players enjoy the experience,1,yes,110.04996134596179,0
+0x7a3891AcF4F3b810992c4C6388f2e37357D7D3Ab,QmTkzM2hVrAagfw5qwJp1LMZxAobPCDHz8NSpUnGAwYhpj,2022-03-11T18:58:32.000Z,Curation of Programmatic Collections for Linked Wearables,4,YES: 0.1%,8025,0
+0x9dB59920d3776c2d8A3aA0CbD7b16d81FcAb0A2b,QmTkzM2hVrAagfw5qwJp1LMZxAobPCDHz8NSpUnGAwYhpj,2022-03-11T18:38:14.000Z,Curation of Programmatic Collections for Linked Wearables,4,YES: 0.1%,44930.61853080416,0
+0xe2b6024873d218B2E83B462D3658D8D7C3f55a18,QmTkzM2hVrAagfw5qwJp1LMZxAobPCDHz8NSpUnGAwYhpj,2022-03-11T18:32:20.000Z,Curation of Programmatic Collections for Linked Wearables,3,YES: 0.25%,49174.02727514581,0
+0x51777c0b8DBA8B4dfE8a1c3d0a1eDAA5B139B4e0,QmTkzM2hVrAagfw5qwJp1LMZxAobPCDHz8NSpUnGAwYhpj,2022-03-11T18:31:56.000Z,Curation of Programmatic Collections for Linked Wearables,4,YES: 0.1%,4544.219780507575,0
 0x2D10c6039337dec604413c306E5d1F2ea29C8d3D,QmZCcZNYhYvuqD3GEUQUH6YWwFCodiP25DPmD7xo56QwGj,2022-03-11T18:22:04.000Z,Tutorials to teach new members how to join the DCL ecosystem in multi-languages.,1,yes,101.34883700971429,0
+0x336685bb3A96E13B77E909d7C52e8AfCfF1E859E,QmTkzM2hVrAagfw5qwJp1LMZxAobPCDHz8NSpUnGAwYhpj,2022-03-11T18:21:36.000Z,Curation of Programmatic Collections for Linked Wearables,2,YES: 0.5%,1617.1459432804272,0
+0x0f051A642A1c4B2c268C7D6a83186159b149021b,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-11T16:34:38.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,11013.21021486773,0
 0xE6c649d166D5010cdAf0eD4f02919F08ED2c54B7,QmPAPKUn4CQEkj4xMGUyU6MswPBQbyW99Vw8DqTfLYzouV,2022-03-11T16:22:27.000Z,"Change the name ""MANA""",3,Invalid question/options,2000,0
 0xE6c649d166D5010cdAf0eD4f02919F08ED2c54B7,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-11T16:21:55.000Z,Should users be able to use ENS names?,1,Yes,2000,0
 0xc2877b05CFe462E585fE3DE8046F7528998aF6F1,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-11T15:33:09.000Z,Should users be able to use ENS names?,3,Invalid question/options,1418.92021905,0
+0x7BAE63C4Dbd39eC66669A1ef6E1CF6f747B71bdd,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-11T12:44:49.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,1349022.565,26
 0x4262f8BB5bd9Ad132782D2a7279b532A1DC6BCbF,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-11T12:27:14.000Z,Community Building with music and helping new players enjoy the experience,1,yes,607.2076114850474,0
 0x059d0025E4e1Bb1a37F2C922e54b139Bc1231eE0,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-11T11:47:49.000Z,Community Building with music and helping new players enjoy the experience,2,no,31523.175324811054,3
 0x059d0025E4e1Bb1a37F2C922e54b139Bc1231eE0,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-11T11:18:00.000Z,Should users be able to use ENS names?,2,No,31546.256097314035,6
@@ -47,10 +74,14 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0xc1b8662A68F3eb66bC5e5C4DE7C1EF04Dc344d53,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-11T03:28:18.000Z,Community Building with music and helping new players enjoy the experience,1,yes,111893.07342561925,11
 0xAb05Fe7F1DeE4CDB5640d79fe847EF80204451f1,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-11T02:40:17.000Z,Should users be able to use ENS names?,1,Yes,115.23646750967336,0
 0x877B37D3E5467B4aAE7687Dd3480A46C8D3e16Be,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T23:51:56.000Z,Should users be able to use ENS names?,1,Yes,160,0
+0x877B37D3E5467B4aAE7687Dd3480A46C8D3e16Be,QmTkzM2hVrAagfw5qwJp1LMZxAobPCDHz8NSpUnGAwYhpj,2022-03-10T23:49:45.000Z,Curation of Programmatic Collections for Linked Wearables,4,YES: 0.1%,160,0
+0x1DeC5f50cB1467F505BB3ddFD408805114406b10,QmTkzM2hVrAagfw5qwJp1LMZxAobPCDHz8NSpUnGAwYhpj,2022-03-10T23:27:58.000Z,Curation of Programmatic Collections for Linked Wearables,3,YES: 0.25%,898.5980761383742,0
 0x1156Bf625B37623a86d004e66e0A01Ec4b17E051,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-10T21:28:55.000Z,Community Building with music and helping new players enjoy the experience,1,yes,22214.082928448195,2
+0x862f109696d7121438642a78B3CaA38F476db08b,QmTkzM2hVrAagfw5qwJp1LMZxAobPCDHz8NSpUnGAwYhpj,2022-03-10T19:29:09.000Z,Curation of Programmatic Collections for Linked Wearables,1,YES: 1%,5020,0
 0xe7D6c7134d01084CEC5064A562ce1E6428Cf052c,QmPAPKUn4CQEkj4xMGUyU6MswPBQbyW99Vw8DqTfLYzouV,2022-03-10T18:19:26.000Z,"Change the name ""MANA""",3,Invalid question/options,45.5516740323306,0
 0x780909C4F1305E5953041E744B09E2F016180676,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T17:18:07.000Z,Should users be able to use ENS names?,1,Yes,144.23099128987138,0
 0x6cca0FEb8906353561a0cF6EA8e305e7EE90d66b,QmTQQrWdwP3dwZwUU9diBiTRANVJo33rDbW2udDrr8jB2k,2022-03-10T16:57:17.000Z,"Add the location -40,-103 to the Points of Interest",1,yes,612.533256384809,0
+0x5DFa1A7f005b61F26C3f6C227723259f0d890d89,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-10T15:57:20.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,23.701615872232193,0
 0x895Be97bDb9F8a244c472B18EA96DeE39ddf8fe5,QmZDdh3tksgE5qv97wMRDhvNrxvGmGpKaaVrwaMG4wvSLR,2022-03-10T14:33:08.000Z,"Add the location -34,-104 to the Points of Interest",2,no,70294.72843687444,9
 0xd59515Ed5d580246e82e90eD2673d78039eF8fC6,QmPAPKUn4CQEkj4xMGUyU6MswPBQbyW99Vw8DqTfLYzouV,2022-03-10T13:51:26.000Z,"Change the name ""MANA""",1,DON'T CALL IT MANA,10.399548180244917,0
 0xd59515Ed5d580246e82e90eD2673d78039eF8fC6,QmTQQrWdwP3dwZwUU9diBiTRANVJo33rDbW2udDrr8jB2k,2022-03-10T13:50:51.000Z,"Add the location -40,-103 to the Points of Interest",1,yes,10.399548180244917,0
@@ -62,10 +93,12 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x28c016f2CA09AED00B1208A91DCa17EC20246294,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T13:07:42.000Z,Should users be able to use ENS names?,1,Yes,2500,0
 0xc24Fe6f2bae027aeee47390be73D121f18F51bdB,QmZDdh3tksgE5qv97wMRDhvNrxvGmGpKaaVrwaMG4wvSLR,2022-03-10T12:30:38.000Z,"Add the location -34,-104 to the Points of Interest",1,yes,10.068305621078924,0
 0xc24Fe6f2bae027aeee47390be73D121f18F51bdB,QmZSk5phv4KzpBX2HdiKYRGvkm1SgtRj5mfkyCZUDuqQJb,2022-03-10T12:27:23.000Z,Should the legacy POI list be deleted?,1,"Yes, delete the legacy list and let the community vote for the POIs that should be re-added to the DAO maintained list",10.068305621078924,0
+0xc24Fe6f2bae027aeee47390be73D121f18F51bdB,Qmc28NJn8tenaHan3xDZntsXiohe8Xs1VF1Ky238gspQMe,2022-03-10T12:25:53.000Z,"Add the location -57,-139 to the Points of Interest",1,yes,10.068305621078924,0
 0xc24Fe6f2bae027aeee47390be73D121f18F51bdB,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T12:24:44.000Z,Should users be able to use ENS names?,1,Yes,10.068305621078924,0
 0x598f8af1565003AE7456DaC280a18ee826Df7a2c,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T12:13:42.000Z,Should users be able to use ENS names?,1,Yes,102823.42997012941,20
 0xb5e7594eC5c93498123571DBAc1e7c1699AfB768,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T11:37:22.000Z,Should users be able to use ENS names?,1,Yes,2101.9839984378414,0
 0x4A544f28F8438BfAd7E10C864F4fD89d9f6989c9,QmRWCHctfH4sEqrkQaSqkMSZ8Jdf7Fd1iCC54JmWvtbje8,2022-03-10T11:35:41.000Z,"Add the location -55,-129 to the Points of Interest",1,yes,2000.82158192,2
+0x834202F427859Cd3E5a874844081aDd454D2B387,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-10T10:15:44.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,103.17642120147067,0
 0xB5F4ebcC5a90e58D953eE9e64e365C2468f31F51,QmPAPKUn4CQEkj4xMGUyU6MswPBQbyW99Vw8DqTfLYzouV,2022-03-10T07:11:19.000Z,"Change the name ""MANA""",3,Invalid question/options,630.8966383420413,0
 0xB5F4ebcC5a90e58D953eE9e64e365C2468f31F51,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T07:09:08.000Z,Should users be able to use ENS names?,1,Yes,611.0216383420412,0
 0xA3A4fD7B17983C4b6683547025bE88801DEaf15C,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T05:20:34.000Z,Should users be able to use ENS names?,1,Yes,22100,4
@@ -80,13 +113,17 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0xc375b0A133F49DbF3C6418895d6d024BE2D8F84a,QmZCcZNYhYvuqD3GEUQUH6YWwFCodiP25DPmD7xo56QwGj,2022-03-10T03:39:08.000Z,Tutorials to teach new members how to join the DCL ecosystem in multi-languages.,2,no,55.85929021456589,0
 0xeCEC0d3d318cB4E8cC5fbD36644C21D085FE87Af,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T03:14:18.000Z,Should users be able to use ENS names?,1,Yes,321.33009367,0
 0xc52A6BCCc4AeaF141819954EF4adC4582D4DFB9F,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T01:58:55.000Z,Should users be able to use ENS names?,1,Yes,2020,0
+0x187fc932038c0aF37c8b6d1e3a6276Cb8FA2bc93,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-10T01:28:41.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,666.5984317560993,0
 0xd6eFf8F07cAF3443A1178407d3de4129149D6eF6,QmPAPKUn4CQEkj4xMGUyU6MswPBQbyW99Vw8DqTfLYzouV,2022-03-09T23:49:53.000Z,"Change the name ""MANA""",3,Invalid question/options,22285.713239550812,2
 0x5163c73f9B45c276B74065Ef64556BDD53919Ba8,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-09T23:27:38.000Z,Should users be able to use ENS names?,1,Yes,261.8725,0
+0x27FfCc3E8967f7c51dc3ebC7C0D242ea863dEb57,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-09T21:33:02.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,1305.0189630567331,0
 0xE25C73435702fED11E9C5584cE6EFE7CbFf71739,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-09T21:30:27.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,1034100,11
 0x2316C4e315E633AF0bA1dAb70149b4eA6A55a58A,QmTQQrWdwP3dwZwUU9diBiTRANVJo33rDbW2udDrr8jB2k,2022-03-09T20:32:45.000Z,"Add the location -40,-103 to the Points of Interest",1,yes,23032.825,1
 0x8FA1Ac51Cd40Ef4d1a415674F06AA26ccc48C50E,QmTQQrWdwP3dwZwUU9diBiTRANVJo33rDbW2udDrr8jB2k,2022-03-09T20:30:21.000Z,"Add the location -40,-103 to the Points of Interest",1,yes,5935.9,0
 0x9AD7316A8196C5a5165378Dd575e9d1D14F6e631,QmTQQrWdwP3dwZwUU9diBiTRANVJo33rDbW2udDrr8jB2k,2022-03-09T20:29:21.000Z,"Add the location -40,-103 to the Points of Interest",1,yes,4312.273811463803,0
+0xA50bB024840a02fDaC7289Ab2f4aE58250ff2E75,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-09T19:48:49.000Z,Features for Automating Community Rewards By The Decentraland Report,2,no,3026.00566408,0
 0xA50bB024840a02fDaC7289Ab2f4aE58250ff2E75,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-09T19:46:32.000Z,Community Building with music and helping new players enjoy the experience,2,no,3026.00566408,0
+0x019Ed608dD806b80193942F2A960e7AC8aBb2EE3,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-09T19:46:08.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,2632.9028555537216,0
 0xaaE9d8bFf1EF3606c51545B953e0137abB7Ce7f3,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-09T19:46:05.000Z,Should users be able to use ENS names?,1,Yes,400.9655347152158,0
 0x813237Fdb0c5F046575C6cD4650077923c8e4039,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-09T19:44:25.000Z,Should users be able to use ENS names?,1,Yes,152.69774589591907,0
 0xA50bB024840a02fDaC7289Ab2f4aE58250ff2E75,QmZCcZNYhYvuqD3GEUQUH6YWwFCodiP25DPmD7xo56QwGj,2022-03-09T19:44:16.000Z,Tutorials to teach new members how to join the DCL ecosystem in multi-languages.,1,yes,3026.00566408,20
@@ -100,6 +137,7 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0xCF10CD8B5Dc2323B1eb6de6164647756BAd4dE4d,QmZSk5phv4KzpBX2HdiKYRGvkm1SgtRj5mfkyCZUDuqQJb,2022-03-09T17:13:49.000Z,Should the legacy POI list be deleted?,1,"Yes, delete the legacy list and let the community vote for the POIs that should be re-added to the DAO maintained list",129497.0441429833,42
 0xCF10CD8B5Dc2323B1eb6de6164647756BAd4dE4d,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-09T16:39:39.000Z,Should users be able to use ENS names?,1,Yes,129497.0441429833,25
 0xe2b6024873d218B2E83B462D3658D8D7C3f55a18,QmZSk5phv4KzpBX2HdiKYRGvkm1SgtRj5mfkyCZUDuqQJb,2022-03-09T14:41:47.000Z,Should the legacy POI list be deleted?,1,"Yes, delete the legacy list and let the community vote for the POIs that should be re-added to the DAO maintained list",59188.02727514581,19
+0x4F0244341f7B8FFBbDbf7a5efa5Ba183e929Db72,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-09T12:24:04.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,535.8299999999999,0
 0xb44ac514588BE99870220d12120815bc3D349507,QmPAPKUn4CQEkj4xMGUyU6MswPBQbyW99Vw8DqTfLYzouV,2022-03-09T11:40:50.000Z,"Change the name ""MANA""",3,Invalid question/options,62.35,0
 0xb44ac514588BE99870220d12120815bc3D349507,QmTQQrWdwP3dwZwUU9diBiTRANVJo33rDbW2udDrr8jB2k,2022-03-09T11:40:25.000Z,"Add the location -40,-103 to the Points of Interest",1,yes,62.35,0
 0xb44ac514588BE99870220d12120815bc3D349507,QmZCcZNYhYvuqD3GEUQUH6YWwFCodiP25DPmD7xo56QwGj,2022-03-09T11:40:10.000Z,Tutorials to teach new members how to join the DCL ecosystem in multi-languages.,1,yes,62.35,0
@@ -111,6 +149,7 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x3e89930d429404c59Df3607670Ee6c9c35D6d2fE,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-09T10:19:11.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,672.82346135,0
 0x66F21fC2aFf75A7dB43E3dbF9FE96C25f2811115,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-09T07:08:17.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,6101,0
 0xB0BABEAc276a23E48098F7b8C76755C0A9e422E0,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-09T07:06:19.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,6500,0
+0x5185118aE86589dd8d90f6e3003fcE75f2042727,Qmc28NJn8tenaHan3xDZntsXiohe8Xs1VF1Ky238gspQMe,2022-03-09T06:09:09.000Z,"Add the location -57,-139 to the Points of Interest",1,yes,2568.7897612478823,98
 0xd2fAF32104BFF6d15f20375912b92e068b0f442a,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-09T05:22:06.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,2000.4341960968884,0
 0xA28C89BfB03706E9EC1199bC398D967a84BeD252,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-09T04:04:13.000Z,Community Building with music and helping new players enjoy the experience,1,yes,35.3391,0
 0xdBdD3D732083b13d9EbFd83675b7c22f84392eF6,QmZSk5phv4KzpBX2HdiKYRGvkm1SgtRj5mfkyCZUDuqQJb,2022-03-09T01:54:03.000Z,Should the legacy POI list be deleted?,1,"Yes, delete the legacy list and let the community vote for the POIs that should be re-added to the DAO maintained list",112100,36
@@ -124,6 +163,7 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x76fb13f00CdbdD5eAC8E2664CF14be791aF87cb0,QmPAPKUn4CQEkj4xMGUyU6MswPBQbyW99Vw8DqTfLYzouV,2022-03-08T17:51:58.000Z,"Change the name ""MANA""",3,Invalid question/options,183254,23
 0xf72f759AE12945CAb42fcC0D5c49534f9a402835,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-08T17:08:59.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,2100,0
 0x511a22cDd2c4eE8357bB02df2578037Ffe8a4d8d,QmPAPKUn4CQEkj4xMGUyU6MswPBQbyW99Vw8DqTfLYzouV,2022-03-08T17:04:46.000Z,"Change the name ""MANA""",3,Invalid question/options,57.09150684004557,0
+0xB59Da3a5fa2FAb1e8aAe5CB352146B3B02F53578,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-08T16:27:59.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,772.5,0
 0x4cB780Fd3286f2d10199B61423D1c804BD2a5D2B,QmZDdh3tksgE5qv97wMRDhvNrxvGmGpKaaVrwaMG4wvSLR,2022-03-08T16:11:23.000Z,"Add the location -34,-104 to the Points of Interest",1,yes,10.262061089058662,0
 0x28F18d9AD8730e0dE394E9b5C4dD8dF178E73de4,QmTQQrWdwP3dwZwUU9diBiTRANVJo33rDbW2udDrr8jB2k,2022-03-08T15:26:00.000Z,"Add the location -40,-103 to the Points of Interest",1,yes,4460.85876641,0
 0xed385E4371Fe38265EdE76e865120b04B5b210e0,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-08T14:17:58.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,1304000,14
@@ -141,12 +181,14 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x0749d1AbB5CA9128432B612644c0eA1e9c6cc9aF,QmZCcZNYhYvuqD3GEUQUH6YWwFCodiP25DPmD7xo56QwGj,2022-03-08T04:16:13.000Z,Tutorials to teach new members how to join the DCL ecosystem in multi-languages.,1,yes,200.7587021608487,1
 0x496fA7E913309e3581af84162C116FFefC2d3809,QmUUXt2TXHYNyWVQJ46cb1PyAjqyK9VJWhzMGq2xF6RbCb,2022-03-08T04:05:36.000Z,"Add the location 117,-25 to the Points of Interest",1,yes,2038.57111597,0
 0x515bEE382EA1043B699863C06f319A8267D58431,QmZCcZNYhYvuqD3GEUQUH6YWwFCodiP25DPmD7xo56QwGj,2022-03-08T03:20:22.000Z,Tutorials to teach new members how to join the DCL ecosystem in multi-languages.,1,yes,100.53584949,0
+0x547C9051ae1F08430d616a98F80eAd074F65FBe8,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-08T03:17:25.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,44.29872460848033,0
 0x5163c73f9B45c276B74065Ef64556BDD53919Ba8,QmZCcZNYhYvuqD3GEUQUH6YWwFCodiP25DPmD7xo56QwGj,2022-03-08T03:09:29.000Z,Tutorials to teach new members how to join the DCL ecosystem in multi-languages.,1,yes,234.665,1
 0x370f859A2F31D40192e1879eB97D64E6459BC8e4,QmUUXt2TXHYNyWVQJ46cb1PyAjqyK9VJWhzMGq2xF6RbCb,2022-03-08T01:54:37.000Z,"Add the location 117,-25 to the Points of Interest",1,yes,100,0
 0x370f859A2F31D40192e1879eB97D64E6459BC8e4,QmPAPKUn4CQEkj4xMGUyU6MswPBQbyW99Vw8DqTfLYzouV,2022-03-08T01:54:19.000Z,"Change the name ""MANA""",3,Invalid question/options,100,0
 0x7d20BB5D2CA0C26524a7cBd3E06d7328f9321080,QmPAPKUn4CQEkj4xMGUyU6MswPBQbyW99Vw8DqTfLYzouV,2022-03-08T00:47:33.000Z,"Change the name ""MANA""",3,Invalid question/options,2529.0711135926667,0
 0x29EacCfBd33ED104a372fb904Ccd0bABf4cE4088,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-08T00:17:46.000Z,Community Building with music and helping new players enjoy the experience,1,yes,322.6,0
 0x7AaAaE8cd46aB71E1e5084d55d9C6b3ea4D970a0,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-07T23:29:09.000Z,Community Building with music and helping new players enjoy the experience,1,yes,7625.320501184933,0
+0x501956acE74EDb360C56d0c0Fa74B0066Fd6f486,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-07T23:11:46.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,206.29430917231514,0
 0x515bEE382EA1043B699863C06f319A8267D58431,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-07T21:36:23.000Z,Community Building with music and helping new players enjoy the experience,1,yes,126.32584949,0
 0x5163c73f9B45c276B74065Ef64556BDD53919Ba8,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-07T21:33:22.000Z,Community Building with music and helping new players enjoy the experience,1,yes,65,0
 0x90Dc69AdD8E43824949dAE048c0c3812295C7E19,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-07T21:28:21.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,177.4477,0
@@ -155,6 +197,7 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0xc375b0A133F49DbF3C6418895d6d024BE2D8F84a,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-07T19:50:08.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,100.83129021456588,0
 0x90A15B3D2A96eA5a146E648e257175af114F8E8A,QmWrDCKsyBuBw8FPAz3VVR8HKZ2DQXiVyY7MAYj4zzNQ6p,2022-03-07T18:58:23.000Z,Establish a Formal Process for Adding/Removing DAO Committee Members,1,"Yes, I support a Draft Proposal",2602.9,0
 0x90A15B3D2A96eA5a146E648e257175af114F8E8A,QmUUXt2TXHYNyWVQJ46cb1PyAjqyK9VJWhzMGq2xF6RbCb,2022-03-07T18:56:15.000Z,"Add the location 117,-25 to the Points of Interest",1,yes,2602.9,0
+0xb0145Ae156D201d6E371d07265FE3C045071c967,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-07T18:50:26.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,446100,8
 0x3fB38CEe8d0BA7Dcf59403a8C397626dC9c7A13B,QmPAPKUn4CQEkj4xMGUyU6MswPBQbyW99Vw8DqTfLYzouV,2022-03-07T18:49:40.000Z,"Change the name ""MANA""",3,Invalid question/options,128937.01339082634,16
 0xb0145Ae156D201d6E371d07265FE3C045071c967,QmUawV7CSRXu85Vu4s2J9kZbiWQxtVzrKgXTmFk8yMoq9o,2022-03-07T18:45:47.000Z,"Add the location -16,-24 to the Points of Interest",2,no,446100,65
 0xb0145Ae156D201d6E371d07265FE3C045071c967,QmRasTbWzUPomRksx4qBiWzK3svh8Dp6B2RwvE9QF5MXTS,2022-03-07T18:42:40.000Z,"Add the location -19,-106 to the Points of Interest",1,yes,446100,34
@@ -175,18 +218,22 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x429EF57e8a683A08F2F13bcf1F9649732d573781,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-07T16:30:33.000Z,Community Building with music and helping new players enjoy the experience,2,no,2046.01632353,0
 0xdE94c0f5FAD32d3c1C0A26D88408670968679AF0,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-07T16:28:09.000Z,Community Building with music and helping new players enjoy the experience,1,yes,2322.3198983886864,0
 0x6cAa802c6895ECD31601518C7f6B9eF6f9349238,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-07T16:07:02.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,103400,1
+0xb963fa652274e887E7Ab9876f436e054Dfb3C3cD,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-07T15:42:39.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,14.72202236,0
 0x60c623Fa0F4F729Ca321458a29cfb245AB11Edd9,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-07T15:33:43.000Z,Community Building with music and helping new players enjoy the experience,1,yes,61.59411089343751,0
 0x0749d1AbB5CA9128432B612644c0eA1e9c6cc9aF,QmWrDCKsyBuBw8FPAz3VVR8HKZ2DQXiVyY7MAYj4zzNQ6p,2022-03-07T15:31:11.000Z,Establish a Formal Process for Adding/Removing DAO Committee Members,1,"Yes, I support a Draft Proposal",280.3787021608487,0
 0x697c6a6aeA3671B1A6E10AeA736f18FA3079Cb97,QmUUXt2TXHYNyWVQJ46cb1PyAjqyK9VJWhzMGq2xF6RbCb,2022-03-07T15:30:04.000Z,"Add the location 117,-25 to the Points of Interest",2,no,14.80782476685394,0
 0x895Be97bDb9F8a244c472B18EA96DeE39ddf8fe5,QmXXjETEJEUe9LzS7A8BAyjh2saYtP2NWnon1pjGcfL7Et,2022-03-07T15:29:42.000Z,A Scene Moderation System That Respects Plurality,1,Yes,70267,12
 0x03bA161f99e0561adC546644640BA6d5602D86c8,QmWrDCKsyBuBw8FPAz3VVR8HKZ2DQXiVyY7MAYj4zzNQ6p,2022-03-07T15:29:14.000Z,Establish a Formal Process for Adding/Removing DAO Committee Members,1,"Yes, I support a Draft Proposal",338.36484365595464,0
 0x03bA161f99e0561adC546644640BA6d5602D86c8,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-07T15:26:43.000Z,Community Building with music and helping new players enjoy the experience,1,yes,292.2648436559547,0
+0x0749d1AbB5CA9128432B612644c0eA1e9c6cc9aF,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-07T15:23:00.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,300.3787021608487,0
 0x697c6a6aeA3671B1A6E10AeA736f18FA3079Cb97,QmPAPKUn4CQEkj4xMGUyU6MswPBQbyW99Vw8DqTfLYzouV,2022-03-07T15:22:42.000Z,"Change the name ""MANA""",3,Invalid question/options,11.80782476685394,0
 0x0749d1AbB5CA9128432B612644c0eA1e9c6cc9aF,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-07T15:19:05.000Z,Community Building with music and helping new players enjoy the experience,1,yes,215.37870216084872,0
 0x0817a129b4794B25C291fC03429d5c2535921eCc,QmPAPKUn4CQEkj4xMGUyU6MswPBQbyW99Vw8DqTfLYzouV,2022-03-07T15:16:57.000Z,"Change the name ""MANA""",3,Invalid question/options,20,0
 0xE2cfEab2bEBA9A7F09Fd981F13e84df1e9978a5E,QmXXjETEJEUe9LzS7A8BAyjh2saYtP2NWnon1pjGcfL7Et,2022-03-07T14:38:35.000Z,A Scene Moderation System That Respects Plurality,1,Yes,1692.5,0
 0x511a22cDd2c4eE8357bB02df2578037Ffe8a4d8d,QmWrDCKsyBuBw8FPAz3VVR8HKZ2DQXiVyY7MAYj4zzNQ6p,2022-03-07T14:36:47.000Z,Establish a Formal Process for Adding/Removing DAO Committee Members,1,"Yes, I support a Draft Proposal",57.09150684004557,0
+0x65475F8DF6D93763Fe50f13F7A3a20B54b5bB26f,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-07T14:32:23.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,8000,0
 0x511a22cDd2c4eE8357bB02df2578037Ffe8a4d8d,QmXXjETEJEUe9LzS7A8BAyjh2saYtP2NWnon1pjGcfL7Et,2022-03-07T14:26:02.000Z,A Scene Moderation System That Respects Plurality,1,Yes,57.09150684004557,0
+0x52aD9215eC1b43DDF987efcB05273114b8B77648,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-07T13:51:25.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,19.18452873,0
 0xcc1FfC986492805C579D9063E7E016513bA931E1,QmUUXt2TXHYNyWVQJ46cb1PyAjqyK9VJWhzMGq2xF6RbCb,2022-03-07T12:10:54.000Z,"Add the location 117,-25 to the Points of Interest",1,yes,100,0
 0xef0b8B0d9867B2bE81C22781f0582588B7299600,QmXXjETEJEUe9LzS7A8BAyjh2saYtP2NWnon1pjGcfL7Et,2022-03-07T11:26:06.000Z,A Scene Moderation System That Respects Plurality,1,Yes,219.55116358200473,0
 0xef0b8B0d9867B2bE81C22781f0582588B7299600,QmXg5tzWzek8cUttAXbGGerZmAAj5MUsMfzi57NxkbZg5J,2022-03-07T11:25:14.000Z,"Add the location -22,-103 to the Points of Interest",1,yes,206.55116358200473,0
@@ -196,6 +243,8 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x0F4A0466C2a1d3FA6Ed55a20994617F0533fbf74,QmQ5fetZApfTEYpTdfT2n3F6vkp4YdUMdEitaL32FyCkTM,2022-03-07T09:55:05.000Z,"Add the location 11,-16 to the Points of Interest",1,yes,102.11011580900137,0
 0x0F4A0466C2a1d3FA6Ed55a20994617F0533fbf74,QmXXjETEJEUe9LzS7A8BAyjh2saYtP2NWnon1pjGcfL7Et,2022-03-07T09:53:50.000Z,A Scene Moderation System That Respects Plurality,1,Yes,115.13511580900138,0
 0x0F4A0466C2a1d3FA6Ed55a20994617F0533fbf74,QmUUXt2TXHYNyWVQJ46cb1PyAjqyK9VJWhzMGq2xF6RbCb,2022-03-07T08:25:25.000Z,"Add the location 117,-25 to the Points of Interest",1,yes,52.223794249504245,0
+0xD28505cae4CECFeC6132Dd366Dd52d499a27F893,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-07T06:05:14.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,144563.94966730734,2
+0x8b51C1Ba09EE33e7649CAc62cCb6d0f410F5647A,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-07T06:04:50.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,344900,6
 0xF0E6C377aC3c206B749C9684209E5E2b1590b27B,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-07T05:25:53.000Z,Community Building with music and helping new players enjoy the experience,1,yes,10.7224080443331,0
 0x3026e5dca7A3F50a482d5f06Fb18CE607386531b,QmXXjETEJEUe9LzS7A8BAyjh2saYtP2NWnon1pjGcfL7Et,2022-03-07T04:17:52.000Z,A Scene Moderation System That Respects Plurality,1,Yes,21.91412785966741,0
 0x55c6F10Ac8CE8e38Ca236DF7b70Ca889804eB924,QmUUXt2TXHYNyWVQJ46cb1PyAjqyK9VJWhzMGq2xF6RbCb,2022-03-07T03:28:21.000Z,"Add the location 117,-25 to the Points of Interest",1,yes,16.18,0
@@ -206,6 +255,7 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0xf519172dc3Cc531786DB0Db7292A51A1bCFa7D82,Qmf6dY1Qhse6oAyuU2Agf77PiXhSquGga24Me6wxLfCDWK,2022-03-07T02:02:42.000Z,"Add the location 144,-14 to the Points of Interest",1,yes,1016155.5037972963,66
 0x5DFa1A7f005b61F26C3f6C227723259f0d890d89,QmUUXt2TXHYNyWVQJ46cb1PyAjqyK9VJWhzMGq2xF6RbCb,2022-03-06T23:36:19.000Z,"Add the location 117,-25 to the Points of Interest",1,yes,10.701615872232193,0
 0x57d1721F6223EB434e20F5b4A88e494008eA0542,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-06T22:53:41.000Z,Community Building with music and helping new players enjoy the experience,1,yes,23.177586696603967,0
+0x373bD701Fc2cf693743a2EF71a6aE7e4Bc35f3D8,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-06T22:45:39.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,406.81377333268347,0
 0x4F0244341f7B8FFBbDbf7a5efa5Ba183e929Db72,QmRasTbWzUPomRksx4qBiWzK3svh8Dp6B2RwvE9QF5MXTS,2022-03-06T22:42:14.000Z,"Add the location -19,-106 to the Points of Interest",1,yes,546.5550000000001,0
 0x4F0244341f7B8FFBbDbf7a5efa5Ba183e929Db72,QmXg5tzWzek8cUttAXbGGerZmAAj5MUsMfzi57NxkbZg5J,2022-03-06T22:41:53.000Z,"Add the location -22,-103 to the Points of Interest",1,yes,546.5550000000001,0
 0x4F0244341f7B8FFBbDbf7a5efa5Ba183e929Db72,QmYTMgxTL75mqM3WZp35pWrWPrHic3CcPkRFNsGaEnS8L1,2022-03-06T22:40:49.000Z,"Add the location -80,-57 to the Points of Interest",1,yes,546.5550000000001,0
@@ -216,6 +266,8 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x3fB38CEe8d0BA7Dcf59403a8C397626dC9c7A13B,QmUUXt2TXHYNyWVQJ46cb1PyAjqyK9VJWhzMGq2xF6RbCb,2022-03-06T22:07:28.000Z,"Add the location 117,-25 to the Points of Interest",1,yes,128937.01339082634,17
 0x5985EB4a8e0e1f7BCa9Cc0D7AE81C2943fb205bd,QmRWCHctfH4sEqrkQaSqkMSZ8Jdf7Fd1iCC54JmWvtbje8,2022-03-06T22:02:42.000Z,"Add the location -55,-129 to the Points of Interest",2,no,106.11218897814554,0
 0x5985EB4a8e0e1f7BCa9Cc0D7AE81C2943fb205bd,QmUUXt2TXHYNyWVQJ46cb1PyAjqyK9VJWhzMGq2xF6RbCb,2022-03-06T21:56:38.000Z,"Add the location 117,-25 to the Points of Interest",1,yes,106.11218897814554,0
+0x9b80a7D7E4CD5CB47a8Bee52fe312dc9267ADaBF,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-06T21:54:14.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,6285.232723107861,0
+0x9381CAA558F19a821A2360C59FdF3dB60C09ff52,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-06T20:15:50.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,8184.0447431411385,0
 0xCF10CD8B5Dc2323B1eb6de6164647756BAd4dE4d,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-06T19:14:35.000Z,Community Building with music and helping new players enjoy the experience,1,yes,129697.0441429833,13
 0xA3A4fD7B17983C4b6683547025bE88801DEaf15C,QmUUXt2TXHYNyWVQJ46cb1PyAjqyK9VJWhzMGq2xF6RbCb,2022-03-06T16:53:12.000Z,"Add the location 117,-25 to the Points of Interest",1,yes,22100,3
 0xc18Ea8CdFC2578535fe8d1cBAAC7cE49e53b61ce,QmUUXt2TXHYNyWVQJ46cb1PyAjqyK9VJWhzMGq2xF6RbCb,2022-03-06T16:52:45.000Z,"Add the location 117,-25 to the Points of Interest",1,yes,100,0
@@ -238,6 +290,7 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x462b6cAa6530139756C415b12355E77B886D8dB0,QmWrDCKsyBuBw8FPAz3VVR8HKZ2DQXiVyY7MAYj4zzNQ6p,2022-03-06T12:17:38.000Z,Establish a Formal Process for Adding/Removing DAO Committee Members,1,"Yes, I support a Draft Proposal",317.55559969599346,0
 0xc24Fe6f2bae027aeee47390be73D121f18F51bdB,QmUUXt2TXHYNyWVQJ46cb1PyAjqyK9VJWhzMGq2xF6RbCb,2022-03-06T12:09:54.000Z,"Add the location 117,-25 to the Points of Interest",1,yes,10.068305621078924,0
 0xE4A13Bc304682a903e9472F469C33801dd18d9E8,QmUUXt2TXHYNyWVQJ46cb1PyAjqyK9VJWhzMGq2xF6RbCb,2022-03-06T11:45:17.000Z,"Add the location 117,-25 to the Points of Interest",1,yes,100,0
+0x86c1c4836361a0AD6C3A0B4359e86890cadd3Ac9,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-06T11:33:17.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,20.14018475429394,0
 0xF7e158bd2b6E79eF2F2Ab72ac6CB2fea239c2A9B,QmUUXt2TXHYNyWVQJ46cb1PyAjqyK9VJWhzMGq2xF6RbCb,2022-03-06T11:11:17.000Z,"Add the location 117,-25 to the Points of Interest",1,yes,4682.266191069733,0
 0xd5d413898d34a534376e160897342a6D9FB0d0fE,QmXktkaXG7Ttr78PCoV63k3rbwBW7LrQoAiJ9HKZgwZzEW,2022-03-06T10:53:41.000Z,"Add the location -94,-99 to the Points of Interest",1,yes,2000,0
 0x895Be97bDb9F8a244c472B18EA96DeE39ddf8fe5,QmUUXt2TXHYNyWVQJ46cb1PyAjqyK9VJWhzMGq2xF6RbCb,2022-03-06T10:48:19.000Z,"Add the location 117,-25 to the Points of Interest",1,yes,70294.72843687444,9
@@ -245,6 +298,7 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0xA7f8a55DbEc4a7060631a9D571B4ea0Edc14Ca3c,QmUUXt2TXHYNyWVQJ46cb1PyAjqyK9VJWhzMGq2xF6RbCb,2022-03-06T10:00:39.000Z,"Add the location 117,-25 to the Points of Interest",1,yes,127.47444280151888,0
 0xe93518667deB50A1f513d44F802238a6fA35B551,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-06T09:15:49.000Z,Community Building with music and helping new players enjoy the experience,1,yes,15.00499672,0
 0x3F3D750B9f8fdBce80333D0D4ac9c1bbA8936bb3,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-06T08:41:33.000Z,Community Building with music and helping new players enjoy the experience,1,yes,344.15,0
+0x3Ea8147DAbfe6818B0F8C1f8d756F4Ad20321A65,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-06T08:09:17.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,207.55445544418473,0
 0x3Ea8147DAbfe6818B0F8C1f8d756F4Ad20321A65,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-06T08:08:12.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,202.55545544418473,0
 0x3Ea8147DAbfe6818B0F8C1f8d756F4Ad20321A65,QmXg5tzWzek8cUttAXbGGerZmAAj5MUsMfzi57NxkbZg5J,2022-03-06T08:00:33.000Z,"Add the location -22,-103 to the Points of Interest",1,yes,202.55445544418473,0
 0x3Ea8147DAbfe6818B0F8C1f8d756F4Ad20321A65,QmXktkaXG7Ttr78PCoV63k3rbwBW7LrQoAiJ9HKZgwZzEW,2022-03-06T07:58:00.000Z,"Add the location -94,-99 to the Points of Interest",1,yes,200.55445544418473,0
@@ -260,8 +314,10 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0xCeD8b1d58CAA854c82e20352dFEBE65F8cF6cCFF,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-06T05:23:51.000Z,Community Building with music and helping new players enjoy the experience,1,yes,56.803154736294964,0
 0xD801e5C154d770814E4dEBD1DDC8214c39720bfe,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-06T05:21:38.000Z,Community Building with music and helping new players enjoy the experience,1,yes,102.03555809915812,0
 0x27A11192E3C7E22386dC7Edbf95B37589C7065Af,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-06T04:58:21.000Z,Community Building with music and helping new players enjoy the experience,1,yes,231.36394873708437,0
+0x9F519412229f26E78Ca646BDDF9f4e33B61231B2,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-06T04:20:24.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,24.547987572121936,0
 0x3Ea8147DAbfe6818B0F8C1f8d756F4Ad20321A65,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-06T04:09:55.000Z,Community Building with music and helping new players enjoy the experience,1,yes,200.55445544418473,0
 0x785c8D210Ab8888dA6d121faA0a9568f75400B13,QmWrDCKsyBuBw8FPAz3VVR8HKZ2DQXiVyY7MAYj4zzNQ6p,2022-03-06T01:56:48.000Z,Establish a Formal Process for Adding/Removing DAO Committee Members,1,"Yes, I support a Draft Proposal",310.05106135,0
+0x785c8D210Ab8888dA6d121faA0a9568f75400B13,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-06T01:55:14.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,310.05106135,0
 0x96c57799F12245C505a13343aBeB20a235Fb8c92,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-06T01:33:13.000Z,Community Building with music and helping new players enjoy the experience,1,yes,11.791198638241735,0
 0x0F4A0466C2a1d3FA6Ed55a20994617F0533fbf74,QmU1tsp5JJQWCjPsYyGp3oH3RoLTpAcGxo4wwMfuFBgU7n,2022-03-06T01:09:39.000Z,Community Building with music and helping new players enjoy the experience,1,yes,40.01011580900138,0
 0x5eFf77571184427f5A9E951597571B5259820b48,QmXktkaXG7Ttr78PCoV63k3rbwBW7LrQoAiJ9HKZgwZzEW,2022-03-06T00:09:16.000Z,"Add the location -94,-99 to the Points of Interest",1,yes,58105.66005862651,20
@@ -272,15 +328,18 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x66b1488a32E21f2d2757713D16facd9d25Ec977c,QmYTMgxTL75mqM3WZp35pWrWPrHic3CcPkRFNsGaEnS8L1,2022-03-05T17:55:40.000Z,"Add the location -80,-57 to the Points of Interest",1,yes,2427.1076148,0
 0xf519172dc3Cc531786DB0Db7292A51A1bCFa7D82,QmXg5tzWzek8cUttAXbGGerZmAAj5MUsMfzi57NxkbZg5J,2022-03-05T17:41:36.000Z,"Add the location -22,-103 to the Points of Interest",1,yes,818955.5037972963,55
 0xD2D950CeA649fEEf4D6111C18ADBD9a37B3a9f63,QmYTMgxTL75mqM3WZp35pWrWPrHic3CcPkRFNsGaEnS8L1,2022-03-05T16:45:33.000Z,"Add the location -80,-57 to the Points of Interest",1,yes,7500,0
+0x0F4A0466C2a1d3FA6Ed55a20994617F0533fbf74,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-05T14:11:30.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,126.46521924957494,0
 0xcaFc098e53EF3198ca1cA9F635a7a9F48C20135F,QmXg5tzWzek8cUttAXbGGerZmAAj5MUsMfzi57NxkbZg5J,2022-03-05T13:30:29.000Z,"Add the location -22,-103 to the Points of Interest",1,yes,107.16752416880473,0
 0x667224bf91FAB7546Fe591D1cf80E860d1D06963,QmTReoZPVguNRNVB8UmcXnfo2N53EHL9iaPLgkzZuQ4FTG,2022-03-05T12:37:17.000Z,"Add the location 15,61 to the Points of Interest",1,yes,17.43316401,0
 0x667224bf91FAB7546Fe591D1cf80E860d1D06963,QmXXjETEJEUe9LzS7A8BAyjh2saYtP2NWnon1pjGcfL7Et,2022-03-05T12:35:57.000Z,A Scene Moderation System That Respects Plurality,1,Yes,17.43316401,0
 0x667224bf91FAB7546Fe591D1cf80E860d1D06963,QmWrDCKsyBuBw8FPAz3VVR8HKZ2DQXiVyY7MAYj4zzNQ6p,2022-03-05T12:34:06.000Z,Establish a Formal Process for Adding/Removing DAO Committee Members,1,"Yes, I support a Draft Proposal",17.43316401,0
 0x700E3990defb8a2eFa87a7A9165C5DEC57F69576,QmTReoZPVguNRNVB8UmcXnfo2N53EHL9iaPLgkzZuQ4FTG,2022-03-05T07:02:15.000Z,"Add the location 15,61 to the Points of Interest",1,yes,238.76431579159348,0
 0xd5e9eF1CedAd0D135d543D286a2c190B16cBb89E,QmXg5tzWzek8cUttAXbGGerZmAAj5MUsMfzi57NxkbZg5J,2022-03-05T01:33:40.000Z,"Add the location -22,-103 to the Points of Interest",1,yes,180566.41876937216,12
+0x8b104344F397aFC33Ee55C743a0FbD7d956201cD,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-05T00:44:37.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,3046.41120645,0
 0x28F18d9AD8730e0dE394E9b5C4dD8dF178E73de4,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-04T23:37:09.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,4645.85876641,0
 0x28F18d9AD8730e0dE394E9b5C4dD8dF178E73de4,QmS8h7FFDHZjGrAMZLdJnPjSn8s7PY5ZSvwbVB3oEGFjJw,2022-03-04T23:34:52.000Z,"NFT Awards for Engaging with Our NFTs, Billboards, Games, Etc.",1,yes,4645.85876641,0
 0x28F18d9AD8730e0dE394E9b5C4dD8dF178E73de4,QmRzoCCssrM51ab3NZHRqeY825rLdTwJKqVNRah1xs1p79,2022-03-04T23:33:03.000Z,Engaging Videos To Help New Members,1,yes,4645.85876641,0
+0x28F18d9AD8730e0dE394E9b5C4dD8dF178E73de4,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-04T23:30:05.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,4645.85876641,0
 0x28F18d9AD8730e0dE394E9b5C4dD8dF178E73de4,QmXXjETEJEUe9LzS7A8BAyjh2saYtP2NWnon1pjGcfL7Et,2022-03-04T23:28:06.000Z,A Scene Moderation System That Respects Plurality,1,Yes,4645.85876641,0
 0x28F18d9AD8730e0dE394E9b5C4dD8dF178E73de4,QmYTMgxTL75mqM3WZp35pWrWPrHic3CcPkRFNsGaEnS8L1,2022-03-04T23:25:12.000Z,"Add the location -80,-57 to the Points of Interest",1,yes,4495.85876641,0
 0xa4244F6711052752E6Bb0271Bf17c756E6598406,QmXXjETEJEUe9LzS7A8BAyjh2saYtP2NWnon1pjGcfL7Et,2022-03-04T22:38:21.000Z,A Scene Moderation System That Respects Plurality,1,Yes,109920.66569160995,19
@@ -289,9 +348,13 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0xa4244F6711052752E6Bb0271Bf17c756E6598406,QmRzoCCssrM51ab3NZHRqeY825rLdTwJKqVNRah1xs1p79,2022-03-04T22:25:06.000Z,Engaging Videos To Help New Members,1,yes,109920.66569160995,15
 0xa4244F6711052752E6Bb0271Bf17c756E6598406,QmS8h7FFDHZjGrAMZLdJnPjSn8s7PY5ZSvwbVB3oEGFjJw,2022-03-04T22:18:30.000Z,"NFT Awards for Engaging with Our NFTs, Billboards, Games, Etc.",2,no,109920.66569160995,20
 0xa4244F6711052752E6Bb0271Bf17c756E6598406,QmcEcxqvqWvgrRh68KCbsXTj1An8Nbr6LVdmoZ4hMNcQCM,2022-03-04T22:14:45.000Z,Prototype of Argus - Virtual World,2,no,109920.66569160995,12
+0xAb05Fe7F1DeE4CDB5640d79fe847EF80204451f1,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-04T21:47:17.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,100.01364874445657,0
+0x370f859A2F31D40192e1879eB97D64E6459BC8e4,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-04T21:46:09.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,100,0
 0xe9a477Bb48F1b3516670049917d2Fb6fC8794AF8,QmYTMgxTL75mqM3WZp35pWrWPrHic3CcPkRFNsGaEnS8L1,2022-03-04T21:44:19.000Z,"Add the location -80,-57 to the Points of Interest",1,yes,81.24312355451197,0
 0x877B37D3E5467B4aAE7687Dd3480A46C8D3e16Be,QmTReoZPVguNRNVB8UmcXnfo2N53EHL9iaPLgkzZuQ4FTG,2022-03-04T21:36:24.000Z,"Add the location 15,61 to the Points of Interest",1,yes,160,0
 0xD11a019a70986Bd607CBC1c1f9Ae221C78581F49,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-04T20:47:06.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,1414000.6591,15
+0xD11a019a70986Bd607CBC1c1f9Ae221C78581F49,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-04T20:37:26.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,1414000.6591,27
+0x66b1488a32E21f2d2757713D16facd9d25Ec977c,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-04T16:56:38.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,2427.1076148,0
 0x7d20BB5D2CA0C26524a7cBd3E06d7328f9321080,QmYTMgxTL75mqM3WZp35pWrWPrHic3CcPkRFNsGaEnS8L1,2022-03-04T16:52:30.000Z,"Add the location -80,-57 to the Points of Interest",1,yes,2638.121113592667,0
 0x7d20BB5D2CA0C26524a7cBd3E06d7328f9321080,QmRasTbWzUPomRksx4qBiWzK3svh8Dp6B2RwvE9QF5MXTS,2022-03-04T16:52:17.000Z,"Add the location -19,-106 to the Points of Interest",1,yes,2633.371113592667,0
 0xd6eFf8F07cAF3443A1178407d3de4129149D6eF6,QmWrDCKsyBuBw8FPAz3VVR8HKZ2DQXiVyY7MAYj4zzNQ6p,2022-03-04T16:48:01.000Z,Establish a Formal Process for Adding/Removing DAO Committee Members,1,"Yes, I support a Draft Proposal",22101.33280455131,2
@@ -304,6 +367,7 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0xb44ac514588BE99870220d12120815bc3D349507,QmRzoCCssrM51ab3NZHRqeY825rLdTwJKqVNRah1xs1p79,2022-03-04T15:02:08.000Z,Engaging Videos To Help New Members,1,yes,62.35,0
 0xb44ac514588BE99870220d12120815bc3D349507,QmbzB6MyyUDLXgkqzCEEVz3NTJgWKzauL5to8k2Vj3TpQC,2022-03-04T15:01:52.000Z,"Add the location 23,24 to the Points of Interest",2,no,62.35,0
 0xb44ac514588BE99870220d12120815bc3D349507,QmUawV7CSRXu85Vu4s2J9kZbiWQxtVzrKgXTmFk8yMoq9o,2022-03-04T15:01:38.000Z,"Add the location -16,-24 to the Points of Interest",1,yes,62.35,0
+0xb44ac514588BE99870220d12120815bc3D349507,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-04T15:01:23.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,62.35,0
 0xb44ac514588BE99870220d12120815bc3D349507,QmXXjETEJEUe9LzS7A8BAyjh2saYtP2NWnon1pjGcfL7Et,2022-03-04T15:01:01.000Z,A Scene Moderation System That Respects Plurality,1,Yes,62.35,0
 0xb44ac514588BE99870220d12120815bc3D349507,QmQ5fetZApfTEYpTdfT2n3F6vkp4YdUMdEitaL32FyCkTM,2022-03-04T15:00:45.000Z,"Add the location 11,-16 to the Points of Interest",1,yes,62.35,0
 0xb44ac514588BE99870220d12120815bc3D349507,QmWrDCKsyBuBw8FPAz3VVR8HKZ2DQXiVyY7MAYj4zzNQ6p,2022-03-04T15:00:19.000Z,Establish a Formal Process for Adding/Removing DAO Committee Members,1,"Yes, I support a Draft Proposal",62.35,0
@@ -315,9 +379,11 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0xf519172dc3Cc531786DB0Db7292A51A1bCFa7D82,QmYTMgxTL75mqM3WZp35pWrWPrHic3CcPkRFNsGaEnS8L1,2022-03-04T13:16:18.000Z,"Add the location -80,-57 to the Points of Interest",1,yes,818955.5037972963,63
 0x99a811E5c62ADD613975456292F836115AEa0164,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-04T12:12:44.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,15634.375,0
 0xD95a49409529b1EE533C9A1166C9C669f21722e6,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-04T11:08:48.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,4101.093931706369,0
+0xA3A4fD7B17983C4b6683547025bE88801DEaf15C,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-04T07:13:07.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,22100,0
 0xA3A4fD7B17983C4b6683547025bE88801DEaf15C,QmWrDCKsyBuBw8FPAz3VVR8HKZ2DQXiVyY7MAYj4zzNQ6p,2022-03-04T07:10:03.000Z,Establish a Formal Process for Adding/Removing DAO Committee Members,1,"Yes, I support a Draft Proposal",22100,2
 0x253ca6C07525e5eBFdFA1495f60d99c260a04E6b,QmYTMgxTL75mqM3WZp35pWrWPrHic3CcPkRFNsGaEnS8L1,2022-03-04T04:41:26.000Z,"Add the location -80,-57 to the Points of Interest",1,yes,170.47341244203142,0
 0x47DCBdF671dC8808d1397bDA92B2cAA4a7c4e951,QmYTMgxTL75mqM3WZp35pWrWPrHic3CcPkRFNsGaEnS8L1,2022-03-04T04:39:23.000Z,"Add the location -80,-57 to the Points of Interest",1,yes,1125,0
+0x571aDBEDBf4D79bC03c2454f7A37588916753bb6,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-04T04:25:56.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,100.043,0
 0x2820316fa2FdAD36FdEF544251bEC0688ebB259e,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-04T01:38:11.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,10.6504586768014,0
 0xb0145Ae156D201d6E371d07265FE3C045071c967,QmWrDCKsyBuBw8FPAz3VVR8HKZ2DQXiVyY7MAYj4zzNQ6p,2022-03-03T23:49:39.000Z,Establish a Formal Process for Adding/Removing DAO Committee Members,1,"Yes, I support a Draft Proposal",446100,44
 0x77101a0eF72aB4c6D95a2b64289e425dF6E92D72,QmXg5tzWzek8cUttAXbGGerZmAAj5MUsMfzi57NxkbZg5J,2022-03-03T22:46:21.000Z,"Add the location -22,-103 to the Points of Interest",1,yes,4916.65,0
@@ -328,12 +394,16 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x8FA1Ac51Cd40Ef4d1a415674F06AA26ccc48C50E,QmRasTbWzUPomRksx4qBiWzK3svh8Dp6B2RwvE9QF5MXTS,2022-03-03T22:31:53.000Z,"Add the location -19,-106 to the Points of Interest",1,yes,5935.9,0
 0x28F18d9AD8730e0dE394E9b5C4dD8dF178E73de4,QmRasTbWzUPomRksx4qBiWzK3svh8Dp6B2RwvE9QF5MXTS,2022-03-03T22:29:36.000Z,"Add the location -19,-106 to the Points of Interest",1,yes,4645.85876641,0
 0x9AD7316A8196C5a5165378Dd575e9d1D14F6e631,QmRasTbWzUPomRksx4qBiWzK3svh8Dp6B2RwvE9QF5MXTS,2022-03-03T22:29:34.000Z,"Add the location -19,-106 to the Points of Interest",1,yes,4162.273811463803,0
+0x7BC07eB3B7db966e4F6E5d439f8c33afF5f628B3,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-03T22:19:47.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,2492.1193109700002,0
+0x2109bfbE707C84876C79698E761232A0eB4A21cE,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-03T21:55:08.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,103.47469896370576,0
 0x0F4A0466C2a1d3FA6Ed55a20994617F0533fbf74,QmWrDCKsyBuBw8FPAz3VVR8HKZ2DQXiVyY7MAYj4zzNQ6p,2022-03-03T21:28:36.000Z,Establish a Formal Process for Adding/Removing DAO Committee Members,1,"Yes, I support a Draft Proposal",100.11011580900137,0
 0xfFAC7FD045303112fdb28e9dACe8E1334aD324c0,QmXXjETEJEUe9LzS7A8BAyjh2saYtP2NWnon1pjGcfL7Et,2022-03-03T20:11:35.000Z,A Scene Moderation System That Respects Plurality,1,Yes,131119.73896601552,22
 0xfFAC7FD045303112fdb28e9dACe8E1334aD324c0,QmWrDCKsyBuBw8FPAz3VVR8HKZ2DQXiVyY7MAYj4zzNQ6p,2022-03-03T20:11:19.000Z,Establish a Formal Process for Adding/Removing DAO Committee Members,1,"Yes, I support a Draft Proposal",131119.73896601552,13
 0x76fb13f00CdbdD5eAC8E2664CF14be791aF87cb0,QmWrDCKsyBuBw8FPAz3VVR8HKZ2DQXiVyY7MAYj4zzNQ6p,2022-03-03T18:18:14.000Z,Establish a Formal Process for Adding/Removing DAO Committee Members,1,"Yes, I support a Draft Proposal",242254.75,24
 0xEBf11037772a5f6A9d2865deb4A44D3da333B347,QmXXjETEJEUe9LzS7A8BAyjh2saYtP2NWnon1pjGcfL7Et,2022-03-03T14:32:22.000Z,A Scene Moderation System That Respects Plurality,1,Yes,31.66691198,0
+0x65d76Da7129348643Ac1A83a9708eE0296d15A12,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-03T14:23:25.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,1500,0
 0x895Be97bDb9F8a244c472B18EA96DeE39ddf8fe5,QmS8h7FFDHZjGrAMZLdJnPjSn8s7PY5ZSvwbVB3oEGFjJw,2022-03-03T14:22:18.000Z,"NFT Awards for Engaging with Our NFTs, Billboards, Games, Etc.",2,no,70267,13
+0x895Be97bDb9F8a244c472B18EA96DeE39ddf8fe5,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-03T13:52:36.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,70267,1
 0xbE08f6602FFCF03388F12112f610A444b3835F5a,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-03T11:52:41.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,2112.0003855824916,0
 0x7dB4df0E27595D0B2D02068a652F414Eb6697dE5,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-03T10:55:12.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,80.01016755852753,0
 0xdd8F056432993DDda852f2a1f3F9F77bB7720aab,QmcEcxqvqWvgrRh68KCbsXTj1An8Nbr6LVdmoZ4hMNcQCM,2022-03-03T09:34:44.000Z,Prototype of Argus - Virtual World,1,yes,66.52710774,0
@@ -347,61 +417,125 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x76fb13f00CdbdD5eAC8E2664CF14be791aF87cb0,QmS8h7FFDHZjGrAMZLdJnPjSn8s7PY5ZSvwbVB3oEGFjJw,2022-03-03T09:32:13.000Z,"NFT Awards for Engaging with Our NFTs, Billboards, Games, Etc.",2,no,177254,33
 0x76fb13f00CdbdD5eAC8E2664CF14be791aF87cb0,QmXXjETEJEUe9LzS7A8BAyjh2saYtP2NWnon1pjGcfL7Et,2022-03-03T09:25:44.000Z,A Scene Moderation System That Respects Plurality,1,Yes,244455.525,42
 0x8C2e843664Be468522769b0d1B3B604A17962249,QmQ5fetZApfTEYpTdfT2n3F6vkp4YdUMdEitaL32FyCkTM,2022-03-03T08:52:31.000Z,"Add the location 11,-16 to the Points of Interest",1,yes,30.631808693457074,0
+0xAf0E126d11161fd002200e980103b78470e660E4,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-03T08:33:37.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,869.5534470803902,0
 0x8E562E0d50179aD3E06019c497f4dB7E1eB31877,QmQ5fetZApfTEYpTdfT2n3F6vkp4YdUMdEitaL32FyCkTM,2022-03-03T08:25:49.000Z,"Add the location 11,-16 to the Points of Interest",1,yes,6428.06664942,6
+0x9a25760DcdcF828264aFc5989869298e1288Fc4B,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-03T05:50:01.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,234.0967117,0
+0x7C4F32d702C5327ac7A1BfB404fB27cE95eD6BE3,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-03T04:57:16.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,100.77716438,0
 0x7C4F32d702C5327ac7A1BfB404fB27cE95eD6BE3,QmcEcxqvqWvgrRh68KCbsXTj1An8Nbr6LVdmoZ4hMNcQCM,2022-03-03T04:56:15.000Z,Prototype of Argus - Virtual World,2,no,100.77716438,0
 0x7C4F32d702C5327ac7A1BfB404fB27cE95eD6BE3,QmUawV7CSRXu85Vu4s2J9kZbiWQxtVzrKgXTmFk8yMoq9o,2022-03-03T04:54:18.000Z,"Add the location -16,-24 to the Points of Interest",1,yes,100.77716438,0
 0x7C4F32d702C5327ac7A1BfB404fB27cE95eD6BE3,QmQW8cmR7SvgAz27ui1xeGbZiHoneJuRUJpuCjjPgcLGPS,2022-03-03T04:52:40.000Z,Helpful Video Guides & Walkthroughs For New DCL Members,1,yes,100.77716438,0
 0x7C4F32d702C5327ac7A1BfB404fB27cE95eD6BE3,QmRzoCCssrM51ab3NZHRqeY825rLdTwJKqVNRah1xs1p79,2022-03-03T04:52:01.000Z,Engaging Videos To Help New Members,1,yes,100.77716438,0
 0xd6eFf8F07cAF3443A1178407d3de4129149D6eF6,QmbzB6MyyUDLXgkqzCEEVz3NTJgWKzauL5to8k2Vj3TpQC,2022-03-03T04:15:30.000Z,"Add the location 23,24 to the Points of Interest",2,no,22467.232804551313,3
+0xd6eFf8F07cAF3443A1178407d3de4129149D6eF6,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-03T04:12:32.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,22101.33280455131,0
 0x093451C160A1b30174229e03C74c451432eAfe54,QmbzB6MyyUDLXgkqzCEEVz3NTJgWKzauL5to8k2Vj3TpQC,2022-03-03T03:51:43.000Z,"Add the location 23,24 to the Points of Interest",2,no,15.647930244202888,0
 0x77d25848b2396250df5860ae566F7c341d81efac,QmXXjETEJEUe9LzS7A8BAyjh2saYtP2NWnon1pjGcfL7Et,2022-03-03T03:47:02.000Z,A Scene Moderation System That Respects Plurality,1,Yes,15,0
+0x2352984D22Df9214fF0473E434fF7956593C30D3,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-03T02:55:34.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,156.20776802794876,0
+0x039E574CEb2c58519586AD10e353F7cdD09dF92A,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-03T01:54:06.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,6100.6,0
+0xbeEE816C3ab89976B22fABA9a17e12488e30bCAA,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-03T01:32:44.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,667.2469429173066,0
 0x7Db5c1EFCEbE4ce04af24D3B9Ec2FFD528cF2493,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-03T00:18:44.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,100,0
 0x7Db5c1EFCEbE4ce04af24D3B9Ec2FFD528cF2493,QmS8h7FFDHZjGrAMZLdJnPjSn8s7PY5ZSvwbVB3oEGFjJw,2022-03-03T00:18:26.000Z,"NFT Awards for Engaging with Our NFTs, Billboards, Games, Etc.",2,no,100,0
 0x7Db5c1EFCEbE4ce04af24D3B9Ec2FFD528cF2493,QmRzoCCssrM51ab3NZHRqeY825rLdTwJKqVNRah1xs1p79,2022-03-03T00:17:56.000Z,Engaging Videos To Help New Members,1,yes,100,0
 0x7Db5c1EFCEbE4ce04af24D3B9Ec2FFD528cF2493,QmbzB6MyyUDLXgkqzCEEVz3NTJgWKzauL5to8k2Vj3TpQC,2022-03-03T00:17:21.000Z,"Add the location 23,24 to the Points of Interest",2,no,100,0
 0x7Db5c1EFCEbE4ce04af24D3B9Ec2FFD528cF2493,QmUawV7CSRXu85Vu4s2J9kZbiWQxtVzrKgXTmFk8yMoq9o,2022-03-03T00:15:17.000Z,"Add the location -16,-24 to the Points of Interest",1,yes,100,0
+0x7Db5c1EFCEbE4ce04af24D3B9Ec2FFD528cF2493,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-03T00:14:54.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,100,0
 0x7Db5c1EFCEbE4ce04af24D3B9Ec2FFD528cF2493,QmXXjETEJEUe9LzS7A8BAyjh2saYtP2NWnon1pjGcfL7Et,2022-03-03T00:14:12.000Z,A Scene Moderation System That Respects Plurality,1,Yes,100,0
 0xc375b0A133F49DbF3C6418895d6d024BE2D8F84a,QmQW8cmR7SvgAz27ui1xeGbZiHoneJuRUJpuCjjPgcLGPS,2022-03-02T21:29:12.000Z,Helpful Video Guides & Walkthroughs For New DCL Members,2,no,11.283764885513232,0
 0x8BF8214C5824fA5cC90B548Ff95Cf3aDf3fcb8Bf,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-02T21:06:22.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,100,0
+0x4bCc68200C672BC6a5f43A118cAbf2507355839f,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T19:45:54.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,100,0
 0x5985EB4a8e0e1f7BCa9Cc0D7AE81C2943fb205bd,QmbvEqaCfcFT6VUKFgxhHGewDHM94fxtKuTNyUCmQDn1tv,2022-03-02T19:11:38.000Z,IRL Events Including Terminals and Decentraland Speakers,1,yes,350.6351889781455,0
 0x5985EB4a8e0e1f7BCa9Cc0D7AE81C2943fb205bd,QmQW8cmR7SvgAz27ui1xeGbZiHoneJuRUJpuCjjPgcLGPS,2022-03-02T19:07:40.000Z,Helpful Video Guides & Walkthroughs For New DCL Members,2,no,101.53518897814554,0
 0x5985EB4a8e0e1f7BCa9Cc0D7AE81C2943fb205bd,QmcCRWKnsDRdxAP9r3DwFT6vWnFqRhyU7znRTS1Mzr8EZr,2022-03-02T19:06:55.000Z,Creation NFT Gaming access  : Palladium Divine Angelmon (PDA),2,no,116.16018897814554,0
 0x5985EB4a8e0e1f7BCa9Cc0D7AE81C2943fb205bd,QmcEcxqvqWvgrRh68KCbsXTj1An8Nbr6LVdmoZ4hMNcQCM,2022-03-02T19:05:59.000Z,Prototype of Argus - Virtual World,2,no,119.56018897814553,0
 0x5985EB4a8e0e1f7BCa9Cc0D7AE81C2943fb205bd,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-02T19:04:56.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,119.56018897814553,0
+0xBCef8f991c4734565cf3B0aD910a2fE77D06AFE4,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T19:03:33.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,86303.06728180613,1
 0x5985EB4a8e0e1f7BCa9Cc0D7AE81C2943fb205bd,QmS8h7FFDHZjGrAMZLdJnPjSn8s7PY5ZSvwbVB3oEGFjJw,2022-03-02T19:01:56.000Z,"NFT Awards for Engaging with Our NFTs, Billboards, Games, Etc.",2,no,117.56018897814553,0
 0x5985EB4a8e0e1f7BCa9Cc0D7AE81C2943fb205bd,QmRzoCCssrM51ab3NZHRqeY825rLdTwJKqVNRah1xs1p79,2022-03-02T19:00:28.000Z,Engaging Videos To Help New Members,2,no,117.56018897814553,0
 0x5985EB4a8e0e1f7BCa9Cc0D7AE81C2943fb205bd,QmbzB6MyyUDLXgkqzCEEVz3NTJgWKzauL5to8k2Vj3TpQC,2022-03-02T18:59:12.000Z,"Add the location 23,24 to the Points of Interest",2,no,117.56018897814553,0
 0x5985EB4a8e0e1f7BCa9Cc0D7AE81C2943fb205bd,QmUawV7CSRXu85Vu4s2J9kZbiWQxtVzrKgXTmFk8yMoq9o,2022-03-02T18:59:00.000Z,"Add the location -16,-24 to the Points of Interest",2,no,112.66018897814554,0
+0x5985EB4a8e0e1f7BCa9Cc0D7AE81C2943fb205bd,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T18:55:48.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,112.26218897814553,0
+0x78d5D78d14b0A36Fc4526C5e99e72cE7c2e8cEF3,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T18:51:46.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,6600,0
 0x5985EB4a8e0e1f7BCa9Cc0D7AE81C2943fb205bd,QmXXjETEJEUe9LzS7A8BAyjh2saYtP2NWnon1pjGcfL7Et,2022-03-02T18:51:42.000Z,A Scene Moderation System That Respects Plurality,1,Yes,112.26218897814553,0
+0x47DCBdF671dC8808d1397bDA92B2cAA4a7c4e951,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T18:50:32.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,1125,0
+0x1253594843798Ff0fcd7Fa221B820C2d3cA58FD5,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T18:09:00.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,4161.2687983979995,0
+0x667224bf91FAB7546Fe591D1cf80E860d1D06963,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T18:02:47.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,17.43316401,0
+0x421646355A0aA9824A593e20601d6099ec0DB812,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T17:59:36.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,35.65,0
 0x421646355A0aA9824A593e20601d6099ec0DB812,QmXXjETEJEUe9LzS7A8BAyjh2saYtP2NWnon1pjGcfL7Et,2022-03-02T17:56:16.000Z,A Scene Moderation System That Respects Plurality,1,Yes,35.65,0
 0x60206B4b0eeefed1C5fb8f755527f72fa872B143,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-02T17:56:07.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,38200.5,0
 0x1a1792286a870d6630a80C924B39E37eD6618082,QmXXjETEJEUe9LzS7A8BAyjh2saYtP2NWnon1pjGcfL7Et,2022-03-02T17:08:32.000Z,A Scene Moderation System That Respects Plurality,1,Yes,4170.792866942889,0
+0xf4DbeF17D54E4B56BB8EE1a55f18F96FEe5B2219,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T16:39:45.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,35.702557797885746,0
 0xF081eDa01d8D3b10F6F93fF1459339b9eD174D3C,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-02T15:41:04.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,1598106.0066812383,17
+0xeA23f96a58850d375d43873A572df9C71e14eF52,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T15:28:28.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,189.71874681933372,0
 0xdE94c0f5FAD32d3c1C0A26D88408670968679AF0,QmcCRWKnsDRdxAP9r3DwFT6vWnFqRhyU7znRTS1Mzr8EZr,2022-03-02T15:18:54.000Z,Creation NFT Gaming access  : Palladium Divine Angelmon (PDA),2,no,2322.3198983886864,0
 0xdE94c0f5FAD32d3c1C0A26D88408670968679AF0,QmRzoCCssrM51ab3NZHRqeY825rLdTwJKqVNRah1xs1p79,2022-03-02T15:17:54.000Z,Engaging Videos To Help New Members,2,no,2322.3198983886864,0
+0xe062d5aBBd68f1A91037fa2e918a4a24AD70bC76,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T15:17:28.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,400.00980612,0
 0xdE94c0f5FAD32d3c1C0A26D88408670968679AF0,QmS8h7FFDHZjGrAMZLdJnPjSn8s7PY5ZSvwbVB3oEGFjJw,2022-03-02T15:16:49.000Z,"NFT Awards for Engaging with Our NFTs, Billboards, Games, Etc.",2,no,2322.3198983886864,0
 0xdE94c0f5FAD32d3c1C0A26D88408670968679AF0,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-02T15:15:52.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,2322.3198983886864,0
+0x350d635C4A4A33D5766550613f3238D3312CAac8,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T15:09:42.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,38.76372361672119,0
 0x3CA5e5ea2909025058B1F63851be31dC4AF9cF43,QmbzB6MyyUDLXgkqzCEEVz3NTJgWKzauL5to8k2Vj3TpQC,2022-03-02T14:58:45.000Z,"Add the location 23,24 to the Points of Interest",2,no,480.88132085835576,0
 0x044ff5c8D9F9c97b489280cEc21C6E1D28e68657,QmbvEqaCfcFT6VUKFgxhHGewDHM94fxtKuTNyUCmQDn1tv,2022-03-02T14:54:37.000Z,IRL Events Including Terminals and Decentraland Speakers,2,no,66.11442926737045,0
 0x044ff5c8D9F9c97b489280cEc21C6E1D28e68657,QmcEcxqvqWvgrRh68KCbsXTj1An8Nbr6LVdmoZ4hMNcQCM,2022-03-02T14:53:20.000Z,Prototype of Argus - Virtual World,2,no,66.11442926737045,0
 0x044ff5c8D9F9c97b489280cEc21C6E1D28e68657,QmS8h7FFDHZjGrAMZLdJnPjSn8s7PY5ZSvwbVB3oEGFjJw,2022-03-02T14:51:48.000Z,"NFT Awards for Engaging with Our NFTs, Billboards, Games, Etc.",1,yes,82.73310193737045,0
+0x664EAbE08871a7b7f13AdE88bc34605ed5EAEAE6,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T14:50:48.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,115.39231701036223,0
+0x044ff5c8D9F9c97b489280cEc21C6E1D28e68657,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T14:50:26.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,82.72210193737045,0
 0x044ff5c8D9F9c97b489280cEc21C6E1D28e68657,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-02T14:47:33.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,66.11442926737045,0
+0x0d7Ab4d241782341491a611E9Cf801cE417f13e0,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T13:58:23.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,901.0028897017934,0
+0x23d8646672cDca0b3261adc46aA2d5A44B0A56EB,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T13:51:42.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,10336.78584078,0
+0xcCe0e1ab3aD9A9935a8B6814A337AFE96b87B759,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T13:14:15.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,100,0
+0xD6E62a97A55537cD04847Bb73E22208Bd20106aa,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T13:03:16.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,1173.3315114460845,0
 0xef0b8B0d9867B2bE81C22781f0582588B7299600,QmQW8cmR7SvgAz27ui1xeGbZiHoneJuRUJpuCjjPgcLGPS,2022-03-02T10:59:47.000Z,Helpful Video Guides & Walkthroughs For New DCL Members,2,no,219.55116358200473,0
 0xef0b8B0d9867B2bE81C22781f0582588B7299600,QmS8h7FFDHZjGrAMZLdJnPjSn8s7PY5ZSvwbVB3oEGFjJw,2022-03-02T10:58:28.000Z,"NFT Awards for Engaging with Our NFTs, Billboards, Games, Etc.",2,no,219.55116358200473,0
+0xef0b8B0d9867B2bE81C22781f0582588B7299600,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T10:51:44.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,219.55116358200473,0
+0xd0Bd81E24d4f97E39b497cB45ac9F10B450B2c9e,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T09:54:42.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,2051.466729875526,0
+0x8FBB8a98DA1DF1a3Dc7D617a246A906531f38C6d,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T09:27:54.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,36263,0
+0xFa61a917133e27B5053Fd4AE97E3910c9Ca99f8C,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T09:27:45.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,46544.4556962,0
+0x862f109696d7121438642a78B3CaA38F476db08b,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T09:23:44.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,4100,0
+0x5E382071464A6F9EA29708A045983dc265B0D86d,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T09:22:51.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,608.95,0
 0x103B3a31c6732C8615161757c64d2C5Ed7DaAD38,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-02T08:42:21.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,18143.476817218863,0
 0x5DFa1A7f005b61F26C3f6C227723259f0d890d89,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-02T08:25:56.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,28.30171587223219,0
 0xC1A5a895a1350980cCF11aEf1Bb3D06aE911Dfa7,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-02T07:19:47.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,11.020855048642822,0
 0x1b2cC339ba159aEe644045B83B1cFe5511b27A5A,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-02T07:03:55.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,624.9999947055064,0
 0x598f8af1565003AE7456DaC280a18ee826Df7a2c,QmQW8cmR7SvgAz27ui1xeGbZiHoneJuRUJpuCjjPgcLGPS,2022-03-02T06:31:47.000Z,Helpful Video Guides & Walkthroughs For New DCL Members,1,yes,100627.13627258012,10
+0x6D873a14A470dd969D7c76A2E088169AB2a1d7Ae,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T05:47:42.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,101.69115091519582,0
+0xB94D272CE26d1F1d9F25E1fed9498031a000cbBC,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T05:39:52.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,13.332290359317271,0
+0x26846c9083C4AB525de593178E3f2f82afB8bA83,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T05:39:46.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,19.91975121038228,0
+0x59B7424977F32e89800fc37baE67A7d4d15F2646,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T05:15:01.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,9992.428748642556,0
+0xf5Fdaa91b9bcBbDE2E3626e4C4c817b34bD796F9,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T05:13:27.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,556.4822931440399,0
 0x431Bdd4cC4e0C54DBb71A8259245E575e436C275,QmbvEqaCfcFT6VUKFgxhHGewDHM94fxtKuTNyUCmQDn1tv,2022-03-02T05:03:10.000Z,IRL Events Including Terminals and Decentraland Speakers,1,yes,100,0
+0x3743f1EB56FaE1F19789CDC481A84F4C7EC49686,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T05:02:50.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,5800,0
 0x431Bdd4cC4e0C54DBb71A8259245E575e436C275,QmRzoCCssrM51ab3NZHRqeY825rLdTwJKqVNRah1xs1p79,2022-03-02T05:02:15.000Z,Engaging Videos To Help New Members,1,yes,100,0
+0x513D855B7175E94c32A461021d80697E74F3CDFa,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T05:01:24.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,50000,0
+0x04533242eFBd2913686E0A7E2EBE335E229804e3,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T05:01:19.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,3279.5888172227897,0
+0x154620dDfdcd6AB15dd9c1682386dEBad1eef536,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T05:01:00.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,3667.6423886572816,0
+0x1Ca995E588c9e1696C784f42bfD27d30Ca46ADC3,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T05:00:54.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,18000,0
 0x431Bdd4cC4e0C54DBb71A8259245E575e436C275,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-02T05:00:28.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,100,0
+0xE13b048f59781e366789f8725ACC1786b6aeCC9B,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T05:00:26.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,264100,5
+0x61C7cB5b1d907ccb0c1b22924466932F34cdd3bD,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T05:00:02.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,4000,0
+0x8b7c37671f37Db95e9d84714f7A4464d552aa0EA,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T04:28:34.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,190,0
 0x521B0fEf9CDCf250aBaF8e7BC798CBE13fa98692,QmbvEqaCfcFT6VUKFgxhHGewDHM94fxtKuTNyUCmQDn1tv,2022-03-02T04:17:08.000Z,IRL Events Including Terminals and Decentraland Speakers,1,yes,1106254.784120421,55
+0xFE705eaD02E849E78278C50de3d939bE23448F1a,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T03:50:57.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,8715.715624335728,0
+0xaD015f00D380da858c76D736Ff0F266608dB0D98,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T03:38:39.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,200.53356834,0
+0x3fB38CEe8d0BA7Dcf59403a8C397626dC9c7A13B,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T03:24:39.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,128937.01339082634,2
+0xc1b8662A68F3eb66bC5e5C4DE7C1EF04Dc344d53,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T03:07:42.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,111893.07342561925,2
+0xD2D950CeA649fEEf4D6111C18ADBD9a37B3a9f63,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T03:06:47.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,7500,0
+0xb5E34509cf4004ecB51392398D7C18B1D8a0DB3f,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T03:02:56.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,327.56736190675133,0
+0x37F00ec67D68C2D3c662339C183D37403c36f28E,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T02:39:44.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,573.0681678585975,0
+0xcD89D190353b1D0D4C103102C38b76F7696D511d,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T02:38:44.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,200,0
+0x6eE1665c36Eae8dc8a381Be7f9D2Dd8075957929,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T02:18:40.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,100,0
 0x598f8af1565003AE7456DaC280a18ee826Df7a2c,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-02T02:09:55.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,102825.42997012941,1
+0x86f5badc9fB2Db49303D69aD0358b467cFd393E0,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T02:07:56.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,72.48700613705704,0
 0x63435Ad7678eF11EB1C9F8D92aeEe96C2294817A,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-02T02:07:18.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,70.9150803327039,0
 0x52f8d5518a05366989B3BaAd9c8E1129cA317Fc7,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-02T01:58:12.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,301.25002845621924,0
 0x4ca15a56F7C626d9e24F2B21C387c937a47b6e26,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-02T01:31:16.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,2001.0715090250733,0
+0xCF10CD8B5Dc2323B1eb6de6164647756BAd4dE4d,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T01:29:51.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,129297.0441429833,2
 0xff1a9252DeF51ede4489c05998F5e7CF8Ad2c1B3,QmanR9S3kduS9BTRPDDCHRuvsV5SiPAFcWoUZxJpydRrnK,2022-03-02T01:17:50.000Z,Expanding and Upgrading Ethermon District Gameplay,1,yes,2009.1879277609773,0
+0xF7e158bd2b6E79eF2F2Ab72ac6CB2fea239c2A9B,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T01:17:17.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,4688.266191069733,0
+0xD801e5C154d770814E4dEBD1DDC8214c39720bfe,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T01:16:04.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,102.43555809915811,0
+0x27A11192E3C7E22386dC7Edbf95B37589C7065Af,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T01:14:01.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,247.81394873708436,0
+0xd689478d44A438798EE0DC07657CcE2135c0AeF7,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T01:13:50.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,17100,0
+0x2Cb94DFF679C15B3aEbb8E6beAb6012DA02dbC51,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T01:13:40.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,107.9605490591996,0
+0x90931f4CFf00c7CBadDca5A4080A78a0A6DD1e25,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T01:13:15.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,105.30295878,0
+0xdE94c0f5FAD32d3c1C0A26D88408670968679AF0,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T01:12:45.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,2322.3198983886864,0
+0xa4244F6711052752E6Bb0271Bf17c756E6598406,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-02T01:12:36.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,109920.66569160995,2
 0xA78d59f05aCF567e60f70B8bDaE5C88825C5b3C1,QmS8h7FFDHZjGrAMZLdJnPjSn8s7PY5ZSvwbVB3oEGFjJw,2022-03-01T23:57:12.000Z,"NFT Awards for Engaging with Our NFTs, Billboards, Games, Etc.",2,no,194.29299548949135,0
 0xA78d59f05aCF567e60f70B8bDaE5C88825C5b3C1,QmRzoCCssrM51ab3NZHRqeY825rLdTwJKqVNRah1xs1p79,2022-03-01T23:56:27.000Z,Engaging Videos To Help New Members,2,no,194.29299548949135,0
 0xf2c86508ed9D7F74207EE39979Ddf8B9692Ef7D3,QmcEcxqvqWvgrRh68KCbsXTj1An8Nbr6LVdmoZ4hMNcQCM,2022-03-01T21:46:32.000Z,Prototype of Argus - Virtual World,2,no,138.55198804,0
@@ -4956,8 +5090,8 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x9DAb43Bc15BD29Cfe3030cA1b7EDb3EEb9f3b6c1,QmPvyUHwKxkyJxG5Z4iAWhNSPrCWLcFFcispJ7p9ujhrXn,2022-01-05T08:16:56.000Z,Should Decentraland have its own NFT Marketplace?,1,YES,100.31224375,0
 0xA3A4fD7B17983C4b6683547025bE88801DEaf15C,QmRSdVTMDFjZFmFmkVhzJtrkH8B48WXPrbQZSAVXPQ2w3j,2022-01-05T07:08:14.000Z,Museum 2.0: Keep activating international artists to DCL + scaling solutions,1,yes,58100,0
 0xA3A4fD7B17983C4b6683547025bE88801DEaf15C,QmWQzTVHB9XaBNuDaZSgnaB8hWBcPPcvXv2epYc3TuVVSA,2022-01-05T07:07:32.000Z,Should Marketplace have a 'Furniture' category?,1,Yes.  ,58100,12
-0x6E0B6FF7536100a9e6b7041CA5a98108935932e5,QmQmHtiR3zejxzTaP2MFz5LjoDMFEcoiduFVNEFCo5NSLZ,2022-01-05T07:06:23.000Z,Add Search Bar to Proposals Page,1,Yea,13.769266516659835,0
 0xA3A4fD7B17983C4b6683547025bE88801DEaf15C,QmSHeofh3RpemchPHMnovG4gLu4ajQpBK11kAyDc5cH1nk,2022-01-05T07:06:23.000Z,Ban the name Terrorist,1,yes,58100,44
+0x6E0B6FF7536100a9e6b7041CA5a98108935932e5,QmQmHtiR3zejxzTaP2MFz5LjoDMFEcoiduFVNEFCo5NSLZ,2022-01-05T07:06:23.000Z,Add Search Bar to Proposals Page,1,Yea,13.769266516659835,0
 0x6E0B6FF7536100a9e6b7041CA5a98108935932e5,Qmc2d3axFmdGz41ZEcLwWkU9jWR7FN5af43MNXDGQosDtd,2022-01-05T07:06:13.000Z,Should Scene/Game creations be moderated / QA'd inside Decentraland thoroughly before released?,1,"Yes,  i believe the QA Process should be improved",13.769266516659835,0
 0x6E0B6FF7536100a9e6b7041CA5a98108935932e5,QmNZ1WA2e4WtNstV959GtavF9wFGfW1Pxf9HUUdboGNgu4,2022-01-05T07:05:59.000Z,"Add the location -134,-43 to the Points of Interest",1,yes,13.769266516659835,0
 0xA3A4fD7B17983C4b6683547025bE88801DEaf15C,QmRahJnk3k9frwho81MWzkc1rrsgVAT23xA3PW9QmJCbbY,2022-01-05T07:05:50.000Z,"Add the location -45,106 to the Points of Interest",1,yes,58100,5

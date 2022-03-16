@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 7 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 7 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -86,6 +86,16 @@ Since March 1, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+#### [Curation of Programmatic Collections for Linked Wearables](https://governance.decentraland.org/proposal/?id=83351b70-a0a0-11ec-831d-95af4f79cd2a)
+
+* YES: 1% 7% 419,547 VP (9 votes)
+* YES: 0.5% 0% 1,617 VP (1 votes)
+* YES: 0.25% 1% 66,795 VP (5 votes)
+* YES: 0.1% 7% 425,952 VP (9 votes)
+* NO 84% 4,848,655 VP (7 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 #### [Establish a Formal Process for Adding/Removing DAO Committee Members](https://governance.decentraland.org/proposal/?id=782bbe80-9adf-11ec-831d-95af4f79cd2a)
 
 * Yes, I support a Draft Proposal 100% 997,222 VP (23 votes)
@@ -112,20 +122,19 @@ Since March 1, 2 grants have been approved and the vesting contract(s) will be e
 * -70, 83: [Festival Land](https://governance.decentraland.org/proposal/?id=7add5a10-a26b-11ec-831d-95af4f79cd2a)
 * 2, 55: [Filmrare](https://governance.decentraland.org/proposal/?id=ec57fc10-a11f-11ec-831d-95af4f79cd2a)
 * 45, 113: [No Name](https://governance.decentraland.org/proposal/?id=5c747d30-9f9e-11ec-831d-95af4f79cd2a)
-* -57, -139: [Degenerate Takes Studio](https://governance.decentraland.org/proposal/?id=51eaeea0-9f6f-11ec-831d-95af4f79cd2a)
 
 ## Grants
 
+* [Building the Petaverse Park - The Decentraland experience for pet lovers!](https://governance.decentraland.org/proposal/?id=8711b2b0-a46c-11ec-831d-95af4f79cd2a) (Tier 4)
 * [Event management &amp; NFT ticketing platform for Decentraland](https://governance.decentraland.org/proposal/?id=83634560-a3d7-11ec-831d-95af4f79cd2a) (Tier 4)
-* [Building the Petaverse Park: The Decentraland experience for pet lovers](https://governance.decentraland.org/proposal/?id=df4b7520-a08d-11ec-831d-95af4f79cd2a) (Tier 4)
 * [Adding Mint #s to the Marketplace](https://governance.decentraland.org/proposal/?id=d2b78c40-a08d-11ec-831d-95af4f79cd2a) (Tier 1)
 * [Creating a Decentraland on-ramp via The Bear Gang&#39;s Participate-to-Own model](https://governance.decentraland.org/proposal/?id=107c12e0-a074-11ec-831d-95af4f79cd2a) (Tier 5)
 * [Real Estate Agent Broker Management - For Rent &amp; For Sale - DclRealEstate.org](https://governance.decentraland.org/proposal/?id=658069b0-9cde-11ec-831d-95af4f79cd2a) (Tier 4)
 * [Event management &amp; NFT ticketing platform for Decentraland](https://governance.decentraland.org/proposal/?id=eade8bd0-9bd7-11ec-831d-95af4f79cd2a) (Tier 6)
-* [Features for Automating Community Rewards By The Decentraland Report](https://governance.decentraland.org/proposal/?id=71499ee0-99c5-11ec-831d-95af4f79cd2a) (Tier 5)
 
 ## Names Bans
 
+* [Ban the name mirko](https://governance.decentraland.org/proposal/?id=0f6d3070-a491-11ec-831d-95af4f79cd2a)
 * [Ban the name test](https://governance.decentraland.org/proposal/?id=19bab9d0-a0c2-11ec-831d-95af4f79cd2a)
 * [Ban the name russia](https://governance.decentraland.org/proposal/?id=9bc016f0-a05e-11ec-831d-95af4f79cd2a)
 
@@ -136,7 +145,6 @@ Since March 1, 2 grants have been approved and the vesting contract(s) will be e
 
 * [Should we have a UN General Assembly like building?](https://governance.decentraland.org/proposal/?id=144e7310-a2a2-11ec-831d-95af4f79cd2a)
 * [Wearable committee members should not be allowed to mint and sell wearables](https://governance.decentraland.org/proposal/?id=197944e0-a23f-11ec-831d-95af4f79cd2a)
-* [Curation of Programmatic Collections for Linked Wearables](https://governance.decentraland.org/proposal/?id=83351b70-a0a0-11ec-831d-95af4f79cd2a)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
