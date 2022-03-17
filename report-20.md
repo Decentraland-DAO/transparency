@@ -43,20 +43,19 @@ Since March 16, 1 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
+* -43, -97: [Manhattan DAO Club](https://governance.decentraland.org/proposal/?id=25c6d910-a578-11ec-831d-95af4f79cd2a)
 * 74, 30: [Excoino](https://governance.decentraland.org/proposal/?id=d41cf2b0-a43d-11ec-831d-95af4f79cd2a)
 * 89, 84: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=51bb77b0-a334-11ec-831d-95af4f79cd2a)
 * 41, -118: [THE GOLDEN MONKEY CLUB](https://governance.decentraland.org/proposal/?id=d0480590-a27f-11ec-831d-95af4f79cd2a)
 * -70, 83: [Festival Land](https://governance.decentraland.org/proposal/?id=b296a420-a26b-11ec-831d-95af4f79cd2a)
 * -70, 83: [Festival Land](https://governance.decentraland.org/proposal/?id=7add5a10-a26b-11ec-831d-95af4f79cd2a)
 * 2, 55: [Filmrare](https://governance.decentraland.org/proposal/?id=ec57fc10-a11f-11ec-831d-95af4f79cd2a)
-* 45, 113: [No Name](https://governance.decentraland.org/proposal/?id=5c747d30-9f9e-11ec-831d-95af4f79cd2a)
 
 ## Grants
 
 * [Building the Petaverse Park - The Decentraland experience for pet lovers!](https://governance.decentraland.org/proposal/?id=8711b2b0-a46c-11ec-831d-95af4f79cd2a) (Tier 4)
 * [Event management &amp; NFT ticketing platform for Decentraland](https://governance.decentraland.org/proposal/?id=83634560-a3d7-11ec-831d-95af4f79cd2a) (Tier 4)
 * [Adding Mint #s to the Marketplace](https://governance.decentraland.org/proposal/?id=d2b78c40-a08d-11ec-831d-95af4f79cd2a) (Tier 1)
-* [Creating a Decentraland on-ramp via The Bear Gang&#39;s Participate-to-Own model](https://governance.decentraland.org/proposal/?id=107c12e0-a074-11ec-831d-95af4f79cd2a) (Tier 5)
 * [Real Estate Agent Broker Management - For Rent &amp; For Sale - DclRealEstate.org](https://governance.decentraland.org/proposal/?id=658069b0-9cde-11ec-831d-95af4f79cd2a) (Tier 4)
 * [Event management &amp; NFT ticketing platform for Decentraland](https://governance.decentraland.org/proposal/?id=eade8bd0-9bd7-11ec-831d-95af4f79cd2a) (Tier 6)
 

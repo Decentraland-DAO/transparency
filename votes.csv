@@ -5,6 +5,7 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x4EfB206EEc3F109a542639Ef23F3d79Ea09FC02B,QmTkzM2hVrAagfw5qwJp1LMZxAobPCDHz8NSpUnGAwYhpj,2022-03-15T08:19:22.000Z,Curation of Programmatic Collections for Linked Wearables,5,NO,4399180.34,76
 0xb0145Ae156D201d6E371d07265FE3C045071c967,QmZDdh3tksgE5qv97wMRDhvNrxvGmGpKaaVrwaMG4wvSLR,2022-03-15T02:36:48.000Z,"Add the location -34,-104 to the Points of Interest",1,yes,446020.68,62
 0xb0145Ae156D201d6E371d07265FE3C045071c967,QmTkzM2hVrAagfw5qwJp1LMZxAobPCDHz8NSpUnGAwYhpj,2022-03-15T02:23:06.000Z,Curation of Programmatic Collections for Linked Wearables,5,NO,446020.68,7
+0xb0145Ae156D201d6E371d07265FE3C045071c967,QmXL1wVRV9o2U86PkkSZtXjHjY1a1MuejfD9Mnb7Nr1pu2,2022-03-15T02:04:07.000Z,"Add the location 45,113 to the Points of Interest",1,yes,446020.68,75
 0x7D8391A9d2199B3aFA76e7824164503Bb2fCc4Bd,QmTkzM2hVrAagfw5qwJp1LMZxAobPCDHz8NSpUnGAwYhpj,2022-03-14T21:45:30.000Z,Curation of Programmatic Collections for Linked Wearables,4,YES: 0.1%,74790.94574672365,1
 0x0C403e0D57Eeb8f091bCfA8EFdF01c00509f04f2,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-14T16:17:35.000Z,Should users be able to use ENS names?,2,No,6264.803992139119,1
 0x509CDeBBa232E7B7f603db5C93D1e4f1FeD9c6F8,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-14T14:58:35.000Z,Should users be able to use ENS names?,1,Yes,305.625,0
@@ -81,6 +82,7 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0xe7D6c7134d01084CEC5064A562ce1E6428Cf052c,QmPAPKUn4CQEkj4xMGUyU6MswPBQbyW99Vw8DqTfLYzouV,2022-03-10T18:19:26.000Z,"Change the name ""MANA""",3,Invalid question/options,45.5516740323306,0
 0x780909C4F1305E5953041E744B09E2F016180676,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T17:18:07.000Z,Should users be able to use ENS names?,1,Yes,144.23099128987138,0
 0x6cca0FEb8906353561a0cF6EA8e305e7EE90d66b,QmTQQrWdwP3dwZwUU9diBiTRANVJo33rDbW2udDrr8jB2k,2022-03-10T16:57:17.000Z,"Add the location -40,-103 to the Points of Interest",1,yes,612.533256384809,0
+0x3fB38CEe8d0BA7Dcf59403a8C397626dC9c7A13B,QmXL1wVRV9o2U86PkkSZtXjHjY1a1MuejfD9Mnb7Nr1pu2,2022-03-10T16:40:08.000Z,"Add the location 45,113 to the Points of Interest",2,no,128937.01339082634,21
 0x5DFa1A7f005b61F26C3f6C227723259f0d890d89,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-10T15:57:20.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,23.701615872232193,0
 0x895Be97bDb9F8a244c472B18EA96DeE39ddf8fe5,QmZDdh3tksgE5qv97wMRDhvNrxvGmGpKaaVrwaMG4wvSLR,2022-03-10T14:33:08.000Z,"Add the location -34,-104 to the Points of Interest",2,no,70294.72843687444,9
 0xd59515Ed5d580246e82e90eD2673d78039eF8fC6,QmPAPKUn4CQEkj4xMGUyU6MswPBQbyW99Vw8DqTfLYzouV,2022-03-10T13:51:26.000Z,"Change the name ""MANA""",1,DON'T CALL IT MANA,10.399548180244917,0
@@ -88,16 +90,19 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0xd59515Ed5d580246e82e90eD2673d78039eF8fC6,QmZCcZNYhYvuqD3GEUQUH6YWwFCodiP25DPmD7xo56QwGj,2022-03-10T13:50:17.000Z,Tutorials to teach new members how to join the DCL ecosystem in multi-languages.,1,yes,10.399548180244917,0
 0xd59515Ed5d580246e82e90eD2673d78039eF8fC6,QmZDdh3tksgE5qv97wMRDhvNrxvGmGpKaaVrwaMG4wvSLR,2022-03-10T13:49:55.000Z,"Add the location -34,-104 to the Points of Interest",2,no,10.399548180244917,0
 0xd59515Ed5d580246e82e90eD2673d78039eF8fC6,QmZSk5phv4KzpBX2HdiKYRGvkm1SgtRj5mfkyCZUDuqQJb,2022-03-10T13:49:29.000Z,Should the legacy POI list be deleted?,1,"Yes, delete the legacy list and let the community vote for the POIs that should be re-added to the DAO maintained list",10.399548180244917,0
+0xd59515Ed5d580246e82e90eD2673d78039eF8fC6,QmXL1wVRV9o2U86PkkSZtXjHjY1a1MuejfD9Mnb7Nr1pu2,2022-03-10T13:48:52.000Z,"Add the location 45,113 to the Points of Interest",1,yes,10.399548180244917,0
 0xd59515Ed5d580246e82e90eD2673d78039eF8fC6,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T13:48:26.000Z,Should users be able to use ENS names?,1,Yes,10.399548180244917,0
 0x1018142957a9509f0F0f69c1D380a369Ace15DB3,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T13:15:55.000Z,Should users be able to use ENS names?,1,Yes,6200.7609484703635,1
 0x28c016f2CA09AED00B1208A91DCa17EC20246294,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T13:07:42.000Z,Should users be able to use ENS names?,1,Yes,2500,0
 0xc24Fe6f2bae027aeee47390be73D121f18F51bdB,QmZDdh3tksgE5qv97wMRDhvNrxvGmGpKaaVrwaMG4wvSLR,2022-03-10T12:30:38.000Z,"Add the location -34,-104 to the Points of Interest",1,yes,10.068305621078924,0
 0xc24Fe6f2bae027aeee47390be73D121f18F51bdB,QmZSk5phv4KzpBX2HdiKYRGvkm1SgtRj5mfkyCZUDuqQJb,2022-03-10T12:27:23.000Z,Should the legacy POI list be deleted?,1,"Yes, delete the legacy list and let the community vote for the POIs that should be re-added to the DAO maintained list",10.068305621078924,0
 0xc24Fe6f2bae027aeee47390be73D121f18F51bdB,Qmc28NJn8tenaHan3xDZntsXiohe8Xs1VF1Ky238gspQMe,2022-03-10T12:25:53.000Z,"Add the location -57,-139 to the Points of Interest",1,yes,10.068305621078924,0
+0xc24Fe6f2bae027aeee47390be73D121f18F51bdB,QmXL1wVRV9o2U86PkkSZtXjHjY1a1MuejfD9Mnb7Nr1pu2,2022-03-10T12:24:59.000Z,"Add the location 45,113 to the Points of Interest",1,yes,10.068305621078924,0
 0xc24Fe6f2bae027aeee47390be73D121f18F51bdB,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T12:24:44.000Z,Should users be able to use ENS names?,1,Yes,10.068305621078924,0
 0x598f8af1565003AE7456DaC280a18ee826Df7a2c,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T12:13:42.000Z,Should users be able to use ENS names?,1,Yes,102823.42997012941,20
 0xb5e7594eC5c93498123571DBAc1e7c1699AfB768,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T11:37:22.000Z,Should users be able to use ENS names?,1,Yes,2101.9839984378414,0
 0x4A544f28F8438BfAd7E10C864F4fD89d9f6989c9,QmRWCHctfH4sEqrkQaSqkMSZ8Jdf7Fd1iCC54JmWvtbje8,2022-03-10T11:35:41.000Z,"Add the location -55,-129 to the Points of Interest",1,yes,2000.82158192,2
+0x4A544f28F8438BfAd7E10C864F4fD89d9f6989c9,QmXL1wVRV9o2U86PkkSZtXjHjY1a1MuejfD9Mnb7Nr1pu2,2022-03-10T11:35:14.000Z,"Add the location 45,113 to the Points of Interest",1,yes,2000.82158192,0
 0x834202F427859Cd3E5a874844081aDd454D2B387,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-10T10:15:44.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,103.17642120147067,0
 0xB5F4ebcC5a90e58D953eE9e64e365C2468f31F51,QmPAPKUn4CQEkj4xMGUyU6MswPBQbyW99Vw8DqTfLYzouV,2022-03-10T07:11:19.000Z,"Change the name ""MANA""",3,Invalid question/options,630.8966383420413,0
 0xB5F4ebcC5a90e58D953eE9e64e365C2468f31F51,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-10T07:09:08.000Z,Should users be able to use ENS names?,1,Yes,611.0216383420412,0
@@ -138,6 +143,8 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0xCF10CD8B5Dc2323B1eb6de6164647756BAd4dE4d,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-09T16:39:39.000Z,Should users be able to use ENS names?,1,Yes,129497.0441429833,25
 0xe2b6024873d218B2E83B462D3658D8D7C3f55a18,QmZSk5phv4KzpBX2HdiKYRGvkm1SgtRj5mfkyCZUDuqQJb,2022-03-09T14:41:47.000Z,Should the legacy POI list be deleted?,1,"Yes, delete the legacy list and let the community vote for the POIs that should be re-added to the DAO maintained list",59188.02727514581,19
 0x4F0244341f7B8FFBbDbf7a5efa5Ba183e929Db72,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-09T12:24:04.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,535.8299999999999,0
+0x973C6eC69C0e540F600fB0BBe2a033C03d5e32F8,QmXL1wVRV9o2U86PkkSZtXjHjY1a1MuejfD9Mnb7Nr1pu2,2022-03-09T11:57:07.000Z,"Add the location 45,113 to the Points of Interest",1,yes,2096.1771726065585,0
+0xDb4F653ED97Bc21FC3F4405f3a4D6f01e57a74b8,QmXL1wVRV9o2U86PkkSZtXjHjY1a1MuejfD9Mnb7Nr1pu2,2022-03-09T11:45:57.000Z,"Add the location 45,113 to the Points of Interest",1,yes,10100,1
 0xb44ac514588BE99870220d12120815bc3D349507,QmPAPKUn4CQEkj4xMGUyU6MswPBQbyW99Vw8DqTfLYzouV,2022-03-09T11:40:50.000Z,"Change the name ""MANA""",3,Invalid question/options,62.35,0
 0xb44ac514588BE99870220d12120815bc3D349507,QmTQQrWdwP3dwZwUU9diBiTRANVJo33rDbW2udDrr8jB2k,2022-03-09T11:40:25.000Z,"Add the location -40,-103 to the Points of Interest",1,yes,62.35,0
 0xb44ac514588BE99870220d12120815bc3D349507,QmZCcZNYhYvuqD3GEUQUH6YWwFCodiP25DPmD7xo56QwGj,2022-03-09T11:40:10.000Z,Tutorials to teach new members how to join the DCL ecosystem in multi-languages.,1,yes,62.35,0
@@ -5090,8 +5097,8 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x9DAb43Bc15BD29Cfe3030cA1b7EDb3EEb9f3b6c1,QmPvyUHwKxkyJxG5Z4iAWhNSPrCWLcFFcispJ7p9ujhrXn,2022-01-05T08:16:56.000Z,Should Decentraland have its own NFT Marketplace?,1,YES,100.31224375,0
 0xA3A4fD7B17983C4b6683547025bE88801DEaf15C,QmRSdVTMDFjZFmFmkVhzJtrkH8B48WXPrbQZSAVXPQ2w3j,2022-01-05T07:08:14.000Z,Museum 2.0: Keep activating international artists to DCL + scaling solutions,1,yes,58100,0
 0xA3A4fD7B17983C4b6683547025bE88801DEaf15C,QmWQzTVHB9XaBNuDaZSgnaB8hWBcPPcvXv2epYc3TuVVSA,2022-01-05T07:07:32.000Z,Should Marketplace have a 'Furniture' category?,1,Yes.  ,58100,12
-0xA3A4fD7B17983C4b6683547025bE88801DEaf15C,QmSHeofh3RpemchPHMnovG4gLu4ajQpBK11kAyDc5cH1nk,2022-01-05T07:06:23.000Z,Ban the name Terrorist,1,yes,58100,44
 0x6E0B6FF7536100a9e6b7041CA5a98108935932e5,QmQmHtiR3zejxzTaP2MFz5LjoDMFEcoiduFVNEFCo5NSLZ,2022-01-05T07:06:23.000Z,Add Search Bar to Proposals Page,1,Yea,13.769266516659835,0
+0xA3A4fD7B17983C4b6683547025bE88801DEaf15C,QmSHeofh3RpemchPHMnovG4gLu4ajQpBK11kAyDc5cH1nk,2022-01-05T07:06:23.000Z,Ban the name Terrorist,1,yes,58100,44
 0x6E0B6FF7536100a9e6b7041CA5a98108935932e5,Qmc2d3axFmdGz41ZEcLwWkU9jWR7FN5af43MNXDGQosDtd,2022-01-05T07:06:13.000Z,Should Scene/Game creations be moderated / QA'd inside Decentraland thoroughly before released?,1,"Yes,  i believe the QA Process should be improved",13.769266516659835,0
 0x6E0B6FF7536100a9e6b7041CA5a98108935932e5,QmNZ1WA2e4WtNstV959GtavF9wFGfW1Pxf9HUUdboGNgu4,2022-01-05T07:05:59.000Z,"Add the location -134,-43 to the Points of Interest",1,yes,13.769266516659835,0
 0xA3A4fD7B17983C4b6683547025bE88801DEaf15C,QmRahJnk3k9frwho81MWzkc1rrsgVAT23xA3PW9QmJCbbY,2022-01-05T07:05:50.000Z,"Add the location -45,106 to the Points of Interest",1,yes,58100,5
@@ -14537,8 +14544,8 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x3fB38CEe8d0BA7Dcf59403a8C397626dC9c7A13B,QmcEtXsQLg9nY3ACAPFivBrHMTZo1KpKF1niFsJYrF5Br6,2021-06-22T18:14:42.000Z,I want to start a youtube channel.,2,no,20995.23930539,3
 0x1c4633F750ccdF4f40C9e88f5986A80c814B851f,QmW5DxzH3Hu6ovcBWuyGBhQ4YyiuXfeiZEixBAVuiQMLsa,2021-06-22T18:11:42.000Z,Building the Motion Mine,1,yes,2000,0
 0x30b1f4Bd5476906f38385B891f2c09973196b742,QmW5DxzH3Hu6ovcBWuyGBhQ4YyiuXfeiZEixBAVuiQMLsa,2021-06-22T18:10:22.000Z,Building the Motion Mine,1,yes,16000,0
-0xbd5b79D53D75497673e699A571AFA85492a2cc74,QmUqfXPbBZfay8GLPw51ed1oUMXu4b9Cwnub81TFNMxr6d,2021-06-22T18:00:41.000Z,Improving the Toolbox Smart Item In Builder,1,yes,18388.78,1
 0xa4244F6711052752E6Bb0271Bf17c756E6598406,QmUqfXPbBZfay8GLPw51ed1oUMXu4b9Cwnub81TFNMxr6d,2021-06-22T18:00:41.000Z,Improving the Toolbox Smart Item In Builder,1,yes,290.075,0
+0xbd5b79D53D75497673e699A571AFA85492a2cc74,QmUqfXPbBZfay8GLPw51ed1oUMXu4b9Cwnub81TFNMxr6d,2021-06-22T18:00:41.000Z,Improving the Toolbox Smart Item In Builder,1,yes,18388.78,1
 0x0a7e606eB21C80C28A005DAeB5f3d99A40d6B154,QmcEtXsQLg9nY3ACAPFivBrHMTZo1KpKF1niFsJYrF5Br6,2021-06-22T17:40:20.000Z,I want to start a youtube channel.,2,no,44.58792667816839,0
 0xe58130a60d7128ffB6ff6C1f99A66eC65f7F73Fd,QmW5DxzH3Hu6ovcBWuyGBhQ4YyiuXfeiZEixBAVuiQMLsa,2021-06-22T17:39:33.000Z,Building the Motion Mine,1,yes,18585.125,0
 0xd689478d44A438798EE0DC07657CcE2135c0AeF7,QmW5DxzH3Hu6ovcBWuyGBhQ4YyiuXfeiZEixBAVuiQMLsa,2021-06-22T17:38:09.000Z,Building the Motion Mine,1,yes,17222.23156123,0
