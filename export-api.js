@@ -17,7 +17,7 @@ async function main() {
 
     var incomeTxs60 = incomeTxs.filter(tx => tx.date >= last60 && tx.date < last30);
     var totalIncome60 = sumQuote(incomeTxs60);
-    var delta = (totalIncome30 - totalIncome60) * 100 / totalIncome60;
+    var incomeDelta = (totalIncome30 - totalIncome60) * 100 / totalIncome60;
 
     var totalVesting = sumQuote(incomeTxs30.filter(tx => tx.tag == 'Vesting Contract'));
     var totalETHMarket = sumQuote(incomeTxs30.filter(tx => tx.tag == 'ETH Marketplace'));
@@ -29,9 +29,9 @@ async function main() {
     var expensesTxs30 = expensesTxs.filter(tx => tx.date >= last30);
     var totalExpenses30 = sumQuote(expensesTxs30);
 
-    var expensesTxs60 = incomeTxs.filter(tx => tx.date >= last60 && tx.date < last30);
+    var expensesTxs60 = expensesTxs.filter(tx => tx.date >= last60 && tx.date < last30);
     var totalExpenses60 = sumQuote(expensesTxs60);
-    var delta = (totalExpenses30 - totalExpenses60) * 100 / totalExpenses60;
+    var expensesDelta = (totalExpenses30 - totalExpenses60) * 100 / totalExpenses60;
 
     var totalFacilitator = sumQuote(expensesTxs30.filter(tx => tx.tag == 'Facilitator'));
     var totalCurators = sumQuote(expensesTxs30.filter(tx => tx.tag == 'Curator'));
@@ -44,7 +44,7 @@ async function main() {
         'balances': balances,
         'income': {
             'total': totalIncome30,
-            'previous': delta,
+            'previous': incomeDelta,
             'details': [
                 {'name': 'Vesting Contract', 'value': totalVesting},
                 {'name': 'ETH DCL Marketplace', 'value': totalETHMarket},
@@ -55,7 +55,7 @@ async function main() {
         },
         'expenses': {
             'total': totalExpenses30,
-            'previous': delta,
+            'previous': expensesDelta,
             'details': [
                 {'name': 'Curation Committee', 'value': totalCurators},
                 {'name': 'DAO Facilitator', 'value': totalFacilitator},
