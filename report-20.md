@@ -9,13 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+1 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 2, 55: [Filmrare](https://governance.decentraland.org/proposal/?id=ec57fc10-a11f-11ec-831d-95af4f79cd2a)
+
+* Yes 100% 797,551 VP (21 votes)
+* No 0% 0 VP (1 votes)
 
 
 ## Name Bans
@@ -38,6 +44,13 @@ Since March 16, 1 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+#### [Wearable committee members should not be allowed to mint and sell wearables](https://governance.decentraland.org/proposal/?id=197944e0-a23f-11ec-831d-95af4f79cd2a)
+
+* Agree 0% 3,121 VP (7 votes)
+* Disagree 99% 668,483 VP (26 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 
 # Active Proposals
 
@@ -49,29 +62,24 @@ Since March 16, 1 grants have been approved and the vesting contract(s) will be 
 * 41, -118: [THE GOLDEN MONKEY CLUB](https://governance.decentraland.org/proposal/?id=d0480590-a27f-11ec-831d-95af4f79cd2a)
 * -70, 83: [Festival Land](https://governance.decentraland.org/proposal/?id=b296a420-a26b-11ec-831d-95af4f79cd2a)
 * -70, 83: [Festival Land](https://governance.decentraland.org/proposal/?id=7add5a10-a26b-11ec-831d-95af4f79cd2a)
-* 2, 55: [Filmrare](https://governance.decentraland.org/proposal/?id=ec57fc10-a11f-11ec-831d-95af4f79cd2a)
 
 ## Grants
 
 * [Building the Petaverse Park - The Decentraland experience for pet lovers!](https://governance.decentraland.org/proposal/?id=8711b2b0-a46c-11ec-831d-95af4f79cd2a) (Tier 4)
 * [Event management &amp; NFT ticketing platform for Decentraland](https://governance.decentraland.org/proposal/?id=83634560-a3d7-11ec-831d-95af4f79cd2a) (Tier 4)
-* [Adding Mint #s to the Marketplace](https://governance.decentraland.org/proposal/?id=d2b78c40-a08d-11ec-831d-95af4f79cd2a) (Tier 1)
 * [Real Estate Agent Broker Management - For Rent &amp; For Sale - DclRealEstate.org](https://governance.decentraland.org/proposal/?id=658069b0-9cde-11ec-831d-95af4f79cd2a) (Tier 4)
 * [Event management &amp; NFT ticketing platform for Decentraland](https://governance.decentraland.org/proposal/?id=eade8bd0-9bd7-11ec-831d-95af4f79cd2a) (Tier 6)
 
 ## Names Bans
 
 * [Ban the name mirko](https://governance.decentraland.org/proposal/?id=0f6d3070-a491-11ec-831d-95af4f79cd2a)
-* [Ban the name test](https://governance.decentraland.org/proposal/?id=19bab9d0-a0c2-11ec-831d-95af4f79cd2a)
-* [Ban the name russia](https://governance.decentraland.org/proposal/?id=9bc016f0-a05e-11ec-831d-95af4f79cd2a)
 
 ## Catalysts
 
 
 ## Polls
 
-* [Should we have a UN General Assembly like building?](https://governance.decentraland.org/proposal/?id=144e7310-a2a2-11ec-831d-95af4f79cd2a)
-* [Wearable committee members should not be allowed to mint and sell wearables](https://governance.decentraland.org/proposal/?id=197944e0-a23f-11ec-831d-95af4f79cd2a)
+* [Can BrandonManus.ETH Be a Voice Actor for Decentraland?](https://governance.decentraland.org/proposal/?id=4fb33ca0-a64a-11ec-831d-95af4f79cd2a)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
