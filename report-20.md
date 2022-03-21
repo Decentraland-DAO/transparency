@@ -9,13 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 
 ## Points of Interest
-1 points of interest have been added to Decentraland’s map since the last report.
+2 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 89, 84: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=51bb77b0-a334-11ec-831d-95af4f79cd2a)
+
+* Yes 100% 515,176 VP (19 votes)
+* No 0% 0 VP (0 votes)
 
 
 #### 2, 55: [Filmrare](https://governance.decentraland.org/proposal/?id=ec57fc10-a11f-11ec-831d-95af4f79cd2a)
@@ -61,10 +67,10 @@ Since March 16, 1 grants have been approved and the vesting contract(s) will be 
 * 136, -21: [No Name](https://governance.decentraland.org/proposal/?id=4fd7f8e0-a6dd-11ec-87a7-6d2a41508231)
 * -43, -97: [Manhattan DAO Club](https://governance.decentraland.org/proposal/?id=25c6d910-a578-11ec-831d-95af4f79cd2a)
 * 74, 30: [Excoino](https://governance.decentraland.org/proposal/?id=d41cf2b0-a43d-11ec-831d-95af4f79cd2a)
-* 89, 84: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=51bb77b0-a334-11ec-831d-95af4f79cd2a)
 
 ## Grants
 
+* [Scaling Filmrare to acquire titles, create wearables, and onboard filmmakers](https://governance.decentraland.org/proposal/?id=e83b6560-a866-11ec-87a7-6d2a41508231) (Tier 4)
 * [Building the Petaverse Park - The Decentraland experience for pet lovers!](https://governance.decentraland.org/proposal/?id=8711b2b0-a46c-11ec-831d-95af4f79cd2a) (Tier 4)
 * [Event management &amp; NFT ticketing platform for Decentraland](https://governance.decentraland.org/proposal/?id=83634560-a3d7-11ec-831d-95af4f79cd2a) (Tier 4)
 

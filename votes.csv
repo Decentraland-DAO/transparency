@@ -1,5 +1,6 @@
 Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x1c0cFE4447753731bBEe7bef474140840Cb3ea6b,QmctdgPbmNb8Z6NQABfgdgiQDx6ZRFLmXAzZf8FARc8mYM,2022-03-19T17:48:55.000Z,Real Estate Agent Broker Management - For Rent & For Sale - DclRealEstate.org,2,no,2000,0
+0xb0F847e61C502Fb82D758C515b3F914de42831D5,QmajZvUhuCTT7MZgEhaWuKg2wQGcve9s4ACA79qPzLD5xY,2022-03-18T21:24:07.000Z,"Add the location 89,84 to the Points of Interest",1,yes,150,0
 0xe01B54179eBdEDa6A3E4E2f19048dBf90a86C575,Qmcp7EcUU7EX1oZmBnvSMdyu49XyAXC4GhgpfUzTod6awc,2022-03-16T23:20:54.000Z,Ban the name russia,2,no,4100,0
 0x66b1488a32E21f2d2757713D16facd9d25Ec977c,QmbVNTBCR5dpwni223t8wpKbEue5SftZQmjF6uZyoZLo3b,2022-03-16T17:38:34.000Z,"Add the location 2,55 to the Points of Interest",1,yes,2406.9566148,0
 0x66b1488a32E21f2d2757713D16facd9d25Ec977c,QmVLR5zCNAXSQ2CEeHBJrgaagrYUuxeYSMkjMvxgvuBmFH,2022-03-16T17:37:50.000Z,Wearable committee members should not be allowed to mint and sell wearables,2,Disagree,2406.9566148,0
@@ -12,7 +13,9 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x494266B93e5456379EB9f4382dB5bAB077328d7A,QmW51oKZuxtXxAu1YAdmrGeA26h9FDKX19uYkeXtBLSnor,2022-03-16T08:57:52.000Z,"Add the location -70,83 to the Points of Interest",1,yes,2000,97
 0xd59515Ed5d580246e82e90eD2673d78039eF8fC6,QmYmPTu4P5WGMSNhnQnm5a8rnksA1r5gwaDT63GFoWjmb6,2022-03-16T06:57:07.000Z,"Add the location 41,-118 to the Points of Interest",1,yes,10.399548180244917,0
 0xd59515Ed5d580246e82e90eD2673d78039eF8fC6,QmdH3qnVs7X2cJbxpQG9CpsGuaGZSBcqo4p2ZoPHb9DVnY,2022-03-16T06:56:41.000Z,Should we have a UN General Assembly like building?,1,Yes,10.399548180244917,6
+0xd59515Ed5d580246e82e90eD2673d78039eF8fC6,QmajZvUhuCTT7MZgEhaWuKg2wQGcve9s4ACA79qPzLD5xY,2022-03-16T06:56:16.000Z,"Add the location 89,84 to the Points of Interest",1,yes,10.399548180244917,0
 0x4534C46EA854c9A302d3dc95b2d3253aE6A28aBC,Qmb8LAiScKLLABPRVshZpkViJgvUbrVwL9d3aggSBjQZnH,2022-03-15T23:07:26.000Z,Features for Automating Community Rewards By The Decentraland Report,1,yes,468.3749697761834,0
+0x7dB4df0E27595D0B2D02068a652F414Eb6697dE5,QmajZvUhuCTT7MZgEhaWuKg2wQGcve9s4ACA79qPzLD5xY,2022-03-15T18:29:15.000Z,"Add the location 89,84 to the Points of Interest",1,yes,80.01016755852753,0
 0x7dB4df0E27595D0B2D02068a652F414Eb6697dE5,QmbYmAYkDUz67fJRyQXTQX49N6e5vmmh487jxV1FjEiAcr,2022-03-15T18:18:26.000Z,Ban the name test,2,no,80.01016755852753,0
 0x7dB4df0E27595D0B2D02068a652F414Eb6697dE5,QmZrVECiAjGmmvBmTvMNvxJz67sBmVSz6T28TbAPh7pHpL,2022-03-15T18:14:34.000Z,Should we have a UN General Assembly like building?,2,No ,80.01016755852753,0
 0x7dB4df0E27595D0B2D02068a652F414Eb6697dE5,QmVLR5zCNAXSQ2CEeHBJrgaagrYUuxeYSMkjMvxgvuBmFH,2022-03-15T18:12:42.000Z,Wearable committee members should not be allowed to mint and sell wearables,2,Disagree,80.01016755852753,0
@@ -27,16 +30,21 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0xb0145Ae156D201d6E371d07265FE3C045071c967,QmZDdh3tksgE5qv97wMRDhvNrxvGmGpKaaVrwaMG4wvSLR,2022-03-15T02:36:48.000Z,"Add the location -34,-104 to the Points of Interest",1,yes,446020.68,62
 0x3eB72A65F9322D3f30167cFF9FC9fcBb23D61cFd,QmZrVECiAjGmmvBmTvMNvxJz67sBmVSz6T28TbAPh7pHpL,2022-03-15T02:31:27.000Z,Should we have a UN General Assembly like building?,3,Invalid question/options,102.404,0
 0x3eB72A65F9322D3f30167cFF9FC9fcBb23D61cFd,QmdH3qnVs7X2cJbxpQG9CpsGuaGZSBcqo4p2ZoPHb9DVnY,2022-03-15T02:28:29.000Z,Should we have a UN General Assembly like building?,1,Yes,102.404,59
+0x3eB72A65F9322D3f30167cFF9FC9fcBb23D61cFd,QmajZvUhuCTT7MZgEhaWuKg2wQGcve9s4ACA79qPzLD5xY,2022-03-15T02:28:08.000Z,"Add the location 89,84 to the Points of Interest",1,yes,102.404,0
 0xb0145Ae156D201d6E371d07265FE3C045071c967,QmTkzM2hVrAagfw5qwJp1LMZxAobPCDHz8NSpUnGAwYhpj,2022-03-15T02:23:06.000Z,Curation of Programmatic Collections for Linked Wearables,5,NO,446020.68,7
 0xb0145Ae156D201d6E371d07265FE3C045071c967,QmbYmAYkDUz67fJRyQXTQX49N6e5vmmh487jxV1FjEiAcr,2022-03-15T02:06:33.000Z,Ban the name test,2,no,446020.68,22
 0xb0145Ae156D201d6E371d07265FE3C045071c967,QmbVNTBCR5dpwni223t8wpKbEue5SftZQmjF6uZyoZLo3b,2022-03-15T02:06:10.000Z,"Add the location 2,55 to the Points of Interest",1,yes,446020.68,55
 0xb0145Ae156D201d6E371d07265FE3C045071c967,QmVLR5zCNAXSQ2CEeHBJrgaagrYUuxeYSMkjMvxgvuBmFH,2022-03-15T02:05:02.000Z,Wearable committee members should not be allowed to mint and sell wearables,2,Disagree,446020.68,66
 0xb0145Ae156D201d6E371d07265FE3C045071c967,QmXL1wVRV9o2U86PkkSZtXjHjY1a1MuejfD9Mnb7Nr1pu2,2022-03-15T02:04:07.000Z,"Add the location 45,113 to the Points of Interest",1,yes,446020.68,75
 0xb0145Ae156D201d6E371d07265FE3C045071c967,Qmcp7EcUU7EX1oZmBnvSMdyu49XyAXC4GhgpfUzTod6awc,2022-03-15T02:03:34.000Z,Ban the name russia,2,no,446020.68,18
+0xb0145Ae156D201d6E371d07265FE3C045071c967,QmajZvUhuCTT7MZgEhaWuKg2wQGcve9s4ACA79qPzLD5xY,2022-03-15T02:01:40.000Z,"Add the location 89,84 to the Points of Interest",1,yes,446020.68,86
 0xb0145Ae156D201d6E371d07265FE3C045071c967,QmdTN1xxovCvH5VgJ2kqDb8CULB2irDZQukwc5eU4v4q5w,2022-03-15T01:52:02.000Z,Adding Mint #s to the Marketplace,2,no,446020.68,23
+0x5e90D41B890328a2eE66190645DC7E2E051E73e3,QmajZvUhuCTT7MZgEhaWuKg2wQGcve9s4ACA79qPzLD5xY,2022-03-14T21:46:31.000Z,"Add the location 89,84 to the Points of Interest",1,yes,10105.42907802,1
 0x7D8391A9d2199B3aFA76e7824164503Bb2fCc4Bd,QmTkzM2hVrAagfw5qwJp1LMZxAobPCDHz8NSpUnGAwYhpj,2022-03-14T21:45:30.000Z,Curation of Programmatic Collections for Linked Wearables,4,YES: 0.1%,74790.94574672365,1
+0x019Ed608dD806b80193942F2A960e7AC8aBb2EE3,QmajZvUhuCTT7MZgEhaWuKg2wQGcve9s4ACA79qPzLD5xY,2022-03-14T19:40:29.000Z,"Add the location 89,84 to the Points of Interest",1,yes,2632.9028555537216,0
 0x76fb13f00CdbdD5eAC8E2664CF14be791aF87cb0,QmVLR5zCNAXSQ2CEeHBJrgaagrYUuxeYSMkjMvxgvuBmFH,2022-03-14T18:43:05.000Z,Wearable committee members should not be allowed to mint and sell wearables,2,Disagree,160536.9,23
 0x76fb13f00CdbdD5eAC8E2664CF14be791aF87cb0,QmZrVECiAjGmmvBmTvMNvxJz67sBmVSz6T28TbAPh7pHpL,2022-03-14T18:42:16.000Z,Should we have a UN General Assembly like building?,3,Invalid question/options,154254,67
+0xD87eC9E7058a08BBc9AC932764C78810aB03efcE,QmajZvUhuCTT7MZgEhaWuKg2wQGcve9s4ACA79qPzLD5xY,2022-03-14T16:25:03.000Z,"Add the location 89,84 to the Points of Interest",1,yes,18.5,0
 0xd6eFf8F07cAF3443A1178407d3de4129149D6eF6,QmVLR5zCNAXSQ2CEeHBJrgaagrYUuxeYSMkjMvxgvuBmFH,2022-03-14T16:23:01.000Z,Wearable committee members should not be allowed to mint and sell wearables,2,Disagree,22232.899187042523,3
 0x0C403e0D57Eeb8f091bCfA8EFdF01c00509f04f2,QmVLR5zCNAXSQ2CEeHBJrgaagrYUuxeYSMkjMvxgvuBmFH,2022-03-14T16:21:55.000Z,Wearable committee members should not be allowed to mint and sell wearables,2,Disagree,6275.678992139119,0
 0x0C403e0D57Eeb8f091bCfA8EFdF01c00509f04f2,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-14T16:17:35.000Z,Should users be able to use ENS names?,2,No,6264.803992139119,1
@@ -49,6 +57,10 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0xfFAC7FD045303112fdb28e9dACe8E1334aD324c0,QmTkzM2hVrAagfw5qwJp1LMZxAobPCDHz8NSpUnGAwYhpj,2022-03-14T11:52:04.000Z,Curation of Programmatic Collections for Linked Wearables,1,YES: 1%,131077.73896601552,2
 0xB5F4ebcC5a90e58D953eE9e64e365C2468f31F51,QmdTN1xxovCvH5VgJ2kqDb8CULB2irDZQukwc5eU4v4q5w,2022-03-14T11:30:46.000Z,Adding Mint #s to the Marketplace,1,yes,645.9221917920413,0
 0x447C69f53d50bc4bc491E5613437983b6D969449,QmVLR5zCNAXSQ2CEeHBJrgaagrYUuxeYSMkjMvxgvuBmFH,2022-03-14T11:29:02.000Z,Wearable committee members should not be allowed to mint and sell wearables,1,Agree,2800.0000503710307,0
+0x447C69f53d50bc4bc491E5613437983b6D969449,QmajZvUhuCTT7MZgEhaWuKg2wQGcve9s4ACA79qPzLD5xY,2022-03-14T11:26:26.000Z,"Add the location 89,84 to the Points of Interest",1,yes,2800.0000503710307,0
+0x52D4d46E28dc72b1CEf2Cb8eb5eC75Dd12BC4dF3,QmajZvUhuCTT7MZgEhaWuKg2wQGcve9s4ACA79qPzLD5xY,2022-03-14T11:25:49.000Z,"Add the location 89,84 to the Points of Interest",1,yes,100,0
+0x5B031Eb3027D79D9fA9f9b02e797e825920aA277,QmajZvUhuCTT7MZgEhaWuKg2wQGcve9s4ACA79qPzLD5xY,2022-03-14T11:24:20.000Z,"Add the location 89,84 to the Points of Interest",1,yes,37.986483908386134,0
+0xB5F4ebcC5a90e58D953eE9e64e365C2468f31F51,QmajZvUhuCTT7MZgEhaWuKg2wQGcve9s4ACA79qPzLD5xY,2022-03-14T09:04:28.000Z,"Add the location 89,84 to the Points of Interest",1,yes,30876.755422306356,5
 0xa8c7d5818A255A1856b31177E5c96E1D61c83991,QmVLR5zCNAXSQ2CEeHBJrgaagrYUuxeYSMkjMvxgvuBmFH,2022-03-14T09:02:05.000Z,Wearable committee members should not be allowed to mint and sell wearables,2,Disagree,509.91044885625536,0
 0xB5F4ebcC5a90e58D953eE9e64e365C2468f31F51,Qmcp7EcUU7EX1oZmBnvSMdyu49XyAXC4GhgpfUzTod6awc,2022-03-14T09:01:16.000Z,Ban the name russia,2,no,645.9221917920413,0
 0xB5F4ebcC5a90e58D953eE9e64e365C2468f31F51,QmZrVECiAjGmmvBmTvMNvxJz67sBmVSz6T28TbAPh7pHpL,2022-03-14T08:57:32.000Z,Should we have a UN General Assembly like building?,3,Invalid question/options,620.7422996534558,0
@@ -57,6 +69,8 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x1156Bf625B37623a86d004e66e0A01Ec4b17E051,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-14T05:50:22.000Z,Should users be able to use ENS names?,1,Yes,22214.082928448195,4
 0x1156Bf625B37623a86d004e66e0A01Ec4b17E051,QmVLR5zCNAXSQ2CEeHBJrgaagrYUuxeYSMkjMvxgvuBmFH,2022-03-14T05:49:44.000Z,Wearable committee members should not be allowed to mint and sell wearables,2,Disagree,22214.082928448195,3
 0x1156Bf625B37623a86d004e66e0A01Ec4b17E051,QmYmPTu4P5WGMSNhnQnm5a8rnksA1r5gwaDT63GFoWjmb6,2022-03-14T05:49:05.000Z,"Add the location 41,-118 to the Points of Interest",1,yes,22214.082928448195,88
+0x1156Bf625B37623a86d004e66e0A01Ec4b17E051,QmajZvUhuCTT7MZgEhaWuKg2wQGcve9s4ACA79qPzLD5xY,2022-03-14T05:48:47.000Z,"Add the location 89,84 to the Points of Interest",1,yes,22214.082928448195,4
+0xc24Fe6f2bae027aeee47390be73D121f18F51bdB,QmajZvUhuCTT7MZgEhaWuKg2wQGcve9s4ACA79qPzLD5xY,2022-03-14T04:21:58.000Z,"Add the location 89,84 to the Points of Interest",1,yes,10.068305621078924,0
 0xc24Fe6f2bae027aeee47390be73D121f18F51bdB,QmW51oKZuxtXxAu1YAdmrGeA26h9FDKX19uYkeXtBLSnor,2022-03-14T04:21:46.000Z,"Add the location -70,83 to the Points of Interest",1,yes,10.068305621078924,0
 0xc24Fe6f2bae027aeee47390be73D121f18F51bdB,QmVLR5zCNAXSQ2CEeHBJrgaagrYUuxeYSMkjMvxgvuBmFH,2022-03-14T04:21:30.000Z,Wearable committee members should not be allowed to mint and sell wearables,1,Agree,10.068305621078924,0
 0x0d772A7565c4480267083E793f9da5AA0373d168,QmTntApwVUUjwDqkwcdEARK28Cpv9mfLNdytTwzAKcafPV,2022-03-14T01:27:32.000Z,Should users be able to use ENS names?,1,Yes,88345.53758114,17
@@ -5284,8 +5298,8 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x9DAb43Bc15BD29Cfe3030cA1b7EDb3EEb9f3b6c1,QmPvyUHwKxkyJxG5Z4iAWhNSPrCWLcFFcispJ7p9ujhrXn,2022-01-05T08:16:56.000Z,Should Decentraland have its own NFT Marketplace?,1,YES,100.31224375,0
 0xA3A4fD7B17983C4b6683547025bE88801DEaf15C,QmRSdVTMDFjZFmFmkVhzJtrkH8B48WXPrbQZSAVXPQ2w3j,2022-01-05T07:08:14.000Z,Museum 2.0: Keep activating international artists to DCL + scaling solutions,1,yes,58100,0
 0xA3A4fD7B17983C4b6683547025bE88801DEaf15C,QmWQzTVHB9XaBNuDaZSgnaB8hWBcPPcvXv2epYc3TuVVSA,2022-01-05T07:07:32.000Z,Should Marketplace have a 'Furniture' category?,1,Yes.  ,58100,12
-0x6E0B6FF7536100a9e6b7041CA5a98108935932e5,QmQmHtiR3zejxzTaP2MFz5LjoDMFEcoiduFVNEFCo5NSLZ,2022-01-05T07:06:23.000Z,Add Search Bar to Proposals Page,1,Yea,13.769266516659835,0
 0xA3A4fD7B17983C4b6683547025bE88801DEaf15C,QmSHeofh3RpemchPHMnovG4gLu4ajQpBK11kAyDc5cH1nk,2022-01-05T07:06:23.000Z,Ban the name Terrorist,1,yes,58100,44
+0x6E0B6FF7536100a9e6b7041CA5a98108935932e5,QmQmHtiR3zejxzTaP2MFz5LjoDMFEcoiduFVNEFCo5NSLZ,2022-01-05T07:06:23.000Z,Add Search Bar to Proposals Page,1,Yea,13.769266516659835,0
 0x6E0B6FF7536100a9e6b7041CA5a98108935932e5,Qmc2d3axFmdGz41ZEcLwWkU9jWR7FN5af43MNXDGQosDtd,2022-01-05T07:06:13.000Z,Should Scene/Game creations be moderated / QA'd inside Decentraland thoroughly before released?,1,"Yes,  i believe the QA Process should be improved",13.769266516659835,0
 0x6E0B6FF7536100a9e6b7041CA5a98108935932e5,QmNZ1WA2e4WtNstV959GtavF9wFGfW1Pxf9HUUdboGNgu4,2022-01-05T07:05:59.000Z,"Add the location -134,-43 to the Points of Interest",1,yes,13.769266516659835,0
 0xA3A4fD7B17983C4b6683547025bE88801DEaf15C,QmRahJnk3k9frwho81MWzkc1rrsgVAT23xA3PW9QmJCbbY,2022-01-05T07:05:50.000Z,"Add the location -45,106 to the Points of Interest",1,yes,58100,5
