@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 7 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
+In the two weeks since the last DAO Committee report, 7 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -86,16 +86,6 @@ Since March 1, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
-#### [Curation of Programmatic Collections for Linked Wearables](https://governance.decentraland.org/proposal/?id=83351b70-a0a0-11ec-831d-95af4f79cd2a)
-
-* YES: 1% 7% 419,547 VP (9 votes)
-* YES: 0.5% 0% 1,617 VP (1 votes)
-* YES: 0.25% 1% 66,795 VP (5 votes)
-* YES: 0.1% 7% 425,952 VP (9 votes)
-* NO 84% 4,848,655 VP (7 votes)
-* Invalid question/options 0% 0 VP (0 votes)
-
-
 #### [Establish a Formal Process for Adding/Removing DAO Committee Members](https://governance.decentraland.org/proposal/?id=782bbe80-9adf-11ec-831d-95af4f79cd2a)
 
 * Yes, I support a Draft Proposal 100% 997,222 VP (23 votes)
@@ -119,7 +109,6 @@ Since March 1, 2 grants have been approved and the vesting contract(s) will be e
 * 136, -21: [No Name](https://governance.decentraland.org/proposal/?id=8b2f7850-a6dd-11ec-87a7-6d2a41508231)
 * 136, -21: [No Name](https://governance.decentraland.org/proposal/?id=4fd7f8e0-a6dd-11ec-87a7-6d2a41508231)
 * -43, -97: [Manhattan DAO Club](https://governance.decentraland.org/proposal/?id=25c6d910-a578-11ec-831d-95af4f79cd2a)
-* 74, 30: [Excoino](https://governance.decentraland.org/proposal/?id=d41cf2b0-a43d-11ec-831d-95af4f79cd2a)
 
 ## Grants
 
