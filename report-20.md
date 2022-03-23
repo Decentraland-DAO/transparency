@@ -55,6 +55,8 @@ Since March 16, 1 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
+* -56, -97: [Time Square Tower](https://governance.decentraland.org/proposal/?id=b70b0c70-aa46-11ec-87a7-6d2a41508231)
+* -86, -74: [MetaKovan Gallery](https://governance.decentraland.org/proposal/?id=0bbea850-aa2c-11ec-87a7-6d2a41508231)
 * -27, -46: [No Name](https://governance.decentraland.org/proposal/?id=e6938a30-a794-11ec-87a7-6d2a41508231)
 * 136, -21: [No Name](https://governance.decentraland.org/proposal/?id=8b2f7850-a6dd-11ec-87a7-6d2a41508231)
 * 136, -21: [No Name](https://governance.decentraland.org/proposal/?id=4fd7f8e0-a6dd-11ec-87a7-6d2a41508231)
@@ -62,20 +64,19 @@ Since March 16, 1 grants have been approved and the vesting contract(s) will be 
 
 ## Grants
 
+* [Building DecentralWear Community Center](https://governance.decentraland.org/proposal/?id=bfa89b30-aa01-11ec-87a7-6d2a41508231) (Tier 4)
 * [Scaling Filmrare to acquire titles, create wearables, and onboard filmmakers](https://governance.decentraland.org/proposal/?id=e83b6560-a866-11ec-87a7-6d2a41508231) (Tier 4)
 * [Building the Petaverse Park - The Decentraland experience for pet lovers!](https://governance.decentraland.org/proposal/?id=8711b2b0-a46c-11ec-831d-95af4f79cd2a) (Tier 4)
 * [Event management &amp; NFT ticketing platform for Decentraland](https://governance.decentraland.org/proposal/?id=83634560-a3d7-11ec-831d-95af4f79cd2a) (Tier 4)
 
 ## Names Bans
 
-* [Ban the name mirko](https://governance.decentraland.org/proposal/?id=0f6d3070-a491-11ec-831d-95af4f79cd2a)
 
 ## Catalysts
 
 
 ## Polls
 
-* [Can BrandonManus.ETH Be a Voice Actor for Decentraland?](https://governance.decentraland.org/proposal/?id=4fb33ca0-a64a-11ec-831d-95af4f79cd2a)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
