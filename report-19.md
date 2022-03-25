@@ -105,15 +105,21 @@ Since March 1, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
+* -113, -19: [Fashion Street Estate](https://governance.decentraland.org/proposal/?id=0dc4d0e0-ab92-11ec-87a7-6d2a41508231)
+* -116, -19: [Fashion Street Estate](https://governance.decentraland.org/proposal/?id=ebe96fa0-ab8f-11ec-87a7-6d2a41508231)
+* 150, 150: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=fabbd0b0-aae8-11ec-87a7-6d2a41508231)
 * -56, -97: [Time Square Tower](https://governance.decentraland.org/proposal/?id=b70b0c70-aa46-11ec-87a7-6d2a41508231)
 * -86, -74: [MetaKovan Gallery](https://governance.decentraland.org/proposal/?id=0bbea850-aa2c-11ec-87a7-6d2a41508231)
 * -27, -46: [No Name](https://governance.decentraland.org/proposal/?id=e6938a30-a794-11ec-87a7-6d2a41508231)
 * 136, -21: [No Name](https://governance.decentraland.org/proposal/?id=8b2f7850-a6dd-11ec-87a7-6d2a41508231)
 * 136, -21: [No Name](https://governance.decentraland.org/proposal/?id=4fd7f8e0-a6dd-11ec-87a7-6d2a41508231)
-* -43, -97: [Manhattan DAO Club](https://governance.decentraland.org/proposal/?id=25c6d910-a578-11ec-831d-95af4f79cd2a)
 
 ## Grants
 
+* [Hodl &amp; Shill](https://governance.decentraland.org/proposal/?id=15e446a0-aba8-11ec-87a7-6d2a41508231) (Tier 1)
+* [Decentraland teach and promote for Portuguese and English speaking community](https://governance.decentraland.org/proposal/?id=3bd44390-ab9b-11ec-87a7-6d2a41508231) (Tier 2)
+* [Creation of video content to popularise Decentraland](https://governance.decentraland.org/proposal/?id=0a8556f0-ab8a-11ec-87a7-6d2a41508231) (Tier 2)
+* [8MetaBalls - P2E Billiard Game](https://governance.decentraland.org/proposal/?id=29559bb0-ab37-11ec-87a7-6d2a41508231) (Tier 5)
 * [Building DecentralWear Community Center](https://governance.decentraland.org/proposal/?id=bfa89b30-aa01-11ec-87a7-6d2a41508231) (Tier 4)
 * [Scaling Filmrare to acquire titles, create wearables, and onboard filmmakers](https://governance.decentraland.org/proposal/?id=e83b6560-a866-11ec-87a7-6d2a41508231) (Tier 4)
 * [Building the Petaverse Park - The Decentraland experience for pet lovers!](https://governance.decentraland.org/proposal/?id=8711b2b0-a46c-11ec-831d-95af4f79cd2a) (Tier 4)
@@ -127,6 +133,7 @@ Since March 1, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Cap the # of POI on the map, and make them tradable NFT&#39;s](https://governance.decentraland.org/proposal/?id=7e5c7ab0-abab-11ec-87a7-6d2a41508231)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
