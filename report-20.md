@@ -61,14 +61,11 @@ Since March 16, 1 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
+* 68, 31: [GDA Crypto Valley Estates](https://governance.decentraland.org/proposal/?id=29e6a780-ac3c-11ec-87a7-6d2a41508231)
 * -113, -19: [Fashion Street Estate](https://governance.decentraland.org/proposal/?id=0dc4d0e0-ab92-11ec-87a7-6d2a41508231)
 * -116, -19: [Fashion Street Estate](https://governance.decentraland.org/proposal/?id=ebe96fa0-ab8f-11ec-87a7-6d2a41508231)
 * 150, 150: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=fabbd0b0-aae8-11ec-87a7-6d2a41508231)
-* -56, -97: [Time Square Tower](https://governance.decentraland.org/proposal/?id=b70b0c70-aa46-11ec-87a7-6d2a41508231)
-* -86, -74: [MetaKovan Gallery](https://governance.decentraland.org/proposal/?id=0bbea850-aa2c-11ec-87a7-6d2a41508231)
 * -27, -46: [No Name](https://governance.decentraland.org/proposal/?id=e6938a30-a794-11ec-87a7-6d2a41508231)
-* 136, -21: [No Name](https://governance.decentraland.org/proposal/?id=8b2f7850-a6dd-11ec-87a7-6d2a41508231)
-* 136, -21: [No Name](https://governance.decentraland.org/proposal/?id=4fd7f8e0-a6dd-11ec-87a7-6d2a41508231)
 
 ## Grants
 
@@ -89,6 +86,7 @@ Since March 16, 1 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+* [Cap the # of POI on the map, and make them tradable NFT&#39;s](https://governance.decentraland.org/proposal/?id=f0c750e0-ac53-11ec-87a7-6d2a41508231)
 * [Cap the # of POI on the map, and make them tradable NFT&#39;s](https://governance.decentraland.org/proposal/?id=7e5c7ab0-abab-11ec-87a7-6d2a41508231)
 
 
