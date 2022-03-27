@@ -9,13 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 
 ## Points of Interest
-3 points of interest have been added to Decentraland’s map since the last report.
+4 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -27, -46: [No Name](https://governance.decentraland.org/proposal/?id=e6938a30-a794-11ec-87a7-6d2a41508231)
+
+* Yes 100% 1,027,108 VP (93 votes)
+* No 0% 0 VP (0 votes)
 
 
 #### -43, -97: [Manhattan DAO Club](https://governance.decentraland.org/proposal/?id=25c6d910-a578-11ec-831d-95af4f79cd2a)
@@ -65,7 +71,6 @@ Since March 16, 1 grants have been approved and the vesting contract(s) will be 
 * -113, -19: [Fashion Street Estate](https://governance.decentraland.org/proposal/?id=0dc4d0e0-ab92-11ec-87a7-6d2a41508231)
 * -116, -19: [Fashion Street Estate](https://governance.decentraland.org/proposal/?id=ebe96fa0-ab8f-11ec-87a7-6d2a41508231)
 * 150, 150: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=fabbd0b0-aae8-11ec-87a7-6d2a41508231)
-* -27, -46: [No Name](https://governance.decentraland.org/proposal/?id=e6938a30-a794-11ec-87a7-6d2a41508231)
 
 ## Grants
 

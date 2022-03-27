@@ -109,7 +109,6 @@ Since March 1, 2 grants have been approved and the vesting contract(s) will be e
 * -113, -19: [Fashion Street Estate](https://governance.decentraland.org/proposal/?id=0dc4d0e0-ab92-11ec-87a7-6d2a41508231)
 * -116, -19: [Fashion Street Estate](https://governance.decentraland.org/proposal/?id=ebe96fa0-ab8f-11ec-87a7-6d2a41508231)
 * 150, 150: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=fabbd0b0-aae8-11ec-87a7-6d2a41508231)
-* -27, -46: [No Name](https://governance.decentraland.org/proposal/?id=e6938a30-a794-11ec-87a7-6d2a41508231)
 
 ## Grants
 
