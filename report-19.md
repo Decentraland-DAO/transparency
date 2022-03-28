@@ -112,6 +112,7 @@ Since March 1, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [Affordable Housing (Apartments and Townhomes)](https://governance.decentraland.org/proposal/?id=2d2a9f40-adfa-11ec-87a7-6d2a41508231) (Tier 4)
 * [Hodl &amp; Shill](https://governance.decentraland.org/proposal/?id=15e446a0-aba8-11ec-87a7-6d2a41508231) (Tier 1)
 * [Decentraland teach and promote for Portuguese and English speaking community](https://governance.decentraland.org/proposal/?id=3bd44390-ab9b-11ec-87a7-6d2a41508231) (Tier 2)
 * [Creation of video content to popularise Decentraland](https://governance.decentraland.org/proposal/?id=0a8556f0-ab8a-11ec-87a7-6d2a41508231) (Tier 2)
