@@ -120,7 +120,6 @@ Since March 1, 2 grants have been approved and the vesting contract(s) will be e
 * [Building DecentralWear Community Center](https://governance.decentraland.org/proposal/?id=bfa89b30-aa01-11ec-87a7-6d2a41508231) (Tier 4)
 * [Scaling Filmrare to acquire titles, create wearables, and onboard filmmakers](https://governance.decentraland.org/proposal/?id=e83b6560-a866-11ec-87a7-6d2a41508231) (Tier 4)
 * [Building the Petaverse Park - The Decentraland experience for pet lovers!](https://governance.decentraland.org/proposal/?id=8711b2b0-a46c-11ec-831d-95af4f79cd2a) (Tier 4)
-* [Event management &amp; NFT ticketing platform for Decentraland](https://governance.decentraland.org/proposal/?id=83634560-a3d7-11ec-831d-95af4f79cd2a) (Tier 4)
 
 ## Names Bans
 
@@ -130,6 +129,8 @@ Since March 1, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Should Events announcements be limited to 1 day or less at a time to be considered &#34;Happening now&#34;??](https://governance.decentraland.org/proposal/?id=4f79c580-aeef-11ec-87a7-6d2a41508231)
+* [A Strategy to improve the relationship between MakerDAO and MANA.](https://governance.decentraland.org/proposal/?id=0b3a1f60-aea8-11ec-87a7-6d2a41508231)
 * [Cap the # of POI on the map, and make them tradable NFT&#39;s](https://governance.decentraland.org/proposal/?id=f0c750e0-ac53-11ec-87a7-6d2a41508231)
 * [Cap the # of POI on the map, and make them tradable NFT&#39;s](https://governance.decentraland.org/proposal/?id=7e5c7ab0-abab-11ec-87a7-6d2a41508231)
 
