@@ -112,6 +112,9 @@ Since March 1, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [Thred - Metaverse Store Builder System for Decentraland](https://governance.decentraland.org/proposal/?id=c515c520-af9c-11ec-87a7-6d2a41508231) (Tier 6)
+* [Turning Physical Assets into Decentraland Assets](https://governance.decentraland.org/proposal/?id=2bd06780-af9c-11ec-87a7-6d2a41508231) (Tier 6)
+* [Art Wurkz Project](https://governance.decentraland.org/proposal/?id=ec2901d0-af8e-11ec-87a7-6d2a41508231) (Tier 4)
 * [Affordable Housing (Apartments and Townhomes)](https://governance.decentraland.org/proposal/?id=2d2a9f40-adfa-11ec-87a7-6d2a41508231) (Tier 4)
 * [Hodl &amp; Shill](https://governance.decentraland.org/proposal/?id=15e446a0-aba8-11ec-87a7-6d2a41508231) (Tier 1)
 * [Decentraland teach and promote for Portuguese and English speaking community](https://governance.decentraland.org/proposal/?id=3bd44390-ab9b-11ec-87a7-6d2a41508231) (Tier 2)
@@ -119,7 +122,6 @@ Since March 1, 2 grants have been approved and the vesting contract(s) will be e
 * [8MetaBalls - P2E Billiard Game](https://governance.decentraland.org/proposal/?id=29559bb0-ab37-11ec-87a7-6d2a41508231) (Tier 5)
 * [Building DecentralWear Community Center](https://governance.decentraland.org/proposal/?id=bfa89b30-aa01-11ec-87a7-6d2a41508231) (Tier 4)
 * [Scaling Filmrare to acquire titles, create wearables, and onboard filmmakers](https://governance.decentraland.org/proposal/?id=e83b6560-a866-11ec-87a7-6d2a41508231) (Tier 4)
-* [Building the Petaverse Park - The Decentraland experience for pet lovers!](https://governance.decentraland.org/proposal/?id=8711b2b0-a46c-11ec-831d-95af4f79cd2a) (Tier 4)
 
 ## Names Bans
 
@@ -132,7 +134,6 @@ Since March 1, 2 grants have been approved and the vesting contract(s) will be e
 * [Should Events announcements be limited to 1 day or less at a time to be considered &#34;Happening now&#34;??](https://governance.decentraland.org/proposal/?id=4f79c580-aeef-11ec-87a7-6d2a41508231)
 * [A Strategy to improve the relationship between MakerDAO and MANA.](https://governance.decentraland.org/proposal/?id=0b3a1f60-aea8-11ec-87a7-6d2a41508231)
 * [Cap the # of POI on the map, and make them tradable NFT&#39;s](https://governance.decentraland.org/proposal/?id=f0c750e0-ac53-11ec-87a7-6d2a41508231)
-* [Cap the # of POI on the map, and make them tradable NFT&#39;s](https://governance.decentraland.org/proposal/?id=7e5c7ab0-abab-11ec-87a7-6d2a41508231)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
