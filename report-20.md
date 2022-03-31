@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -74,6 +74,13 @@ Since March 16, 3 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+#### [Cap the # of POI on the map, and make them tradable NFT&#39;s](https://governance.decentraland.org/proposal/?id=f0c750e0-ac53-11ec-87a7-6d2a41508231)
+
+* Yes 0% 4,633 VP (4 votes)
+* No 99% 652,357 VP (17 votes)
+* Invalid question/options 0% 160 VP (1 votes)
+
+
 #### [Cap the # of POI on the map, and make them tradable NFT&#39;s](https://governance.decentraland.org/proposal/?id=7e5c7ab0-abab-11ec-87a7-6d2a41508231)
 
 * Yes 0% 131 VP (6 votes)
@@ -86,13 +93,14 @@ Since March 16, 3 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
+* 48, -4: [卧龍（1261993598@qq.com）@卧龍#4569 on Discord](https://governance.decentraland.org/proposal/?id=a6794810-b093-11ec-a117-8f4290d5b13d)
 * 68, 31: [GDA Crypto Valley Estates](https://governance.decentraland.org/proposal/?id=29e6a780-ac3c-11ec-87a7-6d2a41508231)
 * -113, -19: [Fashion Street Estate](https://governance.decentraland.org/proposal/?id=0dc4d0e0-ab92-11ec-87a7-6d2a41508231)
 * -116, -19: [Fashion Street Estate](https://governance.decentraland.org/proposal/?id=ebe96fa0-ab8f-11ec-87a7-6d2a41508231)
-* 150, 150: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=fabbd0b0-aae8-11ec-87a7-6d2a41508231)
 
 ## Grants
 
+* [FitPro Games: The GATEWAY to the Crypto Universe](https://governance.decentraland.org/proposal/?id=060d05b0-b0a2-11ec-a117-8f4290d5b13d) (Tier 2)
 * [Thred - Metaverse Store Builder System for Decentraland](https://governance.decentraland.org/proposal/?id=c515c520-af9c-11ec-87a7-6d2a41508231) (Tier 6)
 * [Turning Physical Assets into Decentraland Assets](https://governance.decentraland.org/proposal/?id=2bd06780-af9c-11ec-87a7-6d2a41508231) (Tier 6)
 * [Art Wurkz Project](https://governance.decentraland.org/proposal/?id=ec2901d0-af8e-11ec-87a7-6d2a41508231) (Tier 4)
@@ -114,7 +122,6 @@ Since March 16, 3 grants have been approved and the vesting contract(s) will be 
 
 * [Should Events announcements be limited to 1 day or less at a time to be considered &#34;Happening now&#34;??](https://governance.decentraland.org/proposal/?id=4f79c580-aeef-11ec-87a7-6d2a41508231)
 * [A Strategy to improve the relationship between MakerDAO and MANA.](https://governance.decentraland.org/proposal/?id=0b3a1f60-aea8-11ec-87a7-6d2a41508231)
-* [Cap the # of POI on the map, and make them tradable NFT&#39;s](https://governance.decentraland.org/proposal/?id=f0c750e0-ac53-11ec-87a7-6d2a41508231)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
