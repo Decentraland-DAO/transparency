@@ -9,13 +9,25 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 6 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 
 ## Points of Interest
-4 points of interest have been added to Decentraland’s map since the last report.
+6 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -113, -19: [Fashion Street Estate](https://governance.decentraland.org/proposal/?id=0dc4d0e0-ab92-11ec-87a7-6d2a41508231)
+
+* Yes 100% 689,508 VP (9 votes)
+* No 0% 0 VP (0 votes)
+
+
+#### -116, -19: [Fashion Street Estate](https://governance.decentraland.org/proposal/?id=ebe96fa0-ab8f-11ec-87a7-6d2a41508231)
+
+* Yes 100% 531,360 VP (7 votes)
+* No 0% 0 VP (0 votes)
 
 
 #### -27, -46: [No Name](https://governance.decentraland.org/proposal/?id=e6938a30-a794-11ec-87a7-6d2a41508231)
@@ -51,7 +63,13 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since March 16, 3 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since March 16, 4 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Decentraland teach and promote for Portuguese and English speaking community](https://governance.decentraland.org/proposal/?id=3bd44390-ab9b-11ec-87a7-6d2a41508231) (Tier 2)
+
+* Yes 99% 1,781,003 VP (55 votes)
+* No 0% 4,759 VP (7 votes)
 
 
 #### [Building the Petaverse Park - The Decentraland experience for pet lovers!](https://governance.decentraland.org/proposal/?id=8711b2b0-a46c-11ec-831d-95af4f79cd2a) (Tier 4)
@@ -95,8 +113,6 @@ Since March 16, 3 grants have been approved and the vesting contract(s) will be 
 
 * 48, -4: [卧龍（1261993598@qq.com）@卧龍#4569 on Discord](https://governance.decentraland.org/proposal/?id=a6794810-b093-11ec-a117-8f4290d5b13d)
 * 68, 31: [GDA Crypto Valley Estates](https://governance.decentraland.org/proposal/?id=29e6a780-ac3c-11ec-87a7-6d2a41508231)
-* -113, -19: [Fashion Street Estate](https://governance.decentraland.org/proposal/?id=0dc4d0e0-ab92-11ec-87a7-6d2a41508231)
-* -116, -19: [Fashion Street Estate](https://governance.decentraland.org/proposal/?id=ebe96fa0-ab8f-11ec-87a7-6d2a41508231)
 
 ## Grants
 
@@ -105,9 +121,6 @@ Since March 16, 3 grants have been approved and the vesting contract(s) will be 
 * [Turning Physical Assets into Decentraland Assets](https://governance.decentraland.org/proposal/?id=2bd06780-af9c-11ec-87a7-6d2a41508231) (Tier 6)
 * [Art Wurkz Project](https://governance.decentraland.org/proposal/?id=ec2901d0-af8e-11ec-87a7-6d2a41508231) (Tier 4)
 * [Affordable Housing (Apartments and Townhomes)](https://governance.decentraland.org/proposal/?id=2d2a9f40-adfa-11ec-87a7-6d2a41508231) (Tier 4)
-* [Hodl &amp; Shill](https://governance.decentraland.org/proposal/?id=15e446a0-aba8-11ec-87a7-6d2a41508231) (Tier 1)
-* [Decentraland teach and promote for Portuguese and English speaking community](https://governance.decentraland.org/proposal/?id=3bd44390-ab9b-11ec-87a7-6d2a41508231) (Tier 2)
-* [Creation of video content to popularise Decentraland](https://governance.decentraland.org/proposal/?id=0a8556f0-ab8a-11ec-87a7-6d2a41508231) (Tier 2)
 * [8MetaBalls - P2E Billiard Game](https://governance.decentraland.org/proposal/?id=29559bb0-ab37-11ec-87a7-6d2a41508231) (Tier 5)
 * [Building DecentralWear Community Center](https://governance.decentraland.org/proposal/?id=bfa89b30-aa01-11ec-87a7-6d2a41508231) (Tier 4)
 * [Scaling Filmrare to acquire titles, create wearables, and onboard filmmakers](https://governance.decentraland.org/proposal/?id=e83b6560-a866-11ec-87a7-6d2a41508231) (Tier 4)
