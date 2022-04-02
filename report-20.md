@@ -112,7 +112,6 @@ Since March 16, 4 grants have been approved and the vesting contract(s) will be 
 ## Points of Interest
 
 * 48, -4: [卧龍（1261993598@qq.com）@卧龍#4569 on Discord](https://governance.decentraland.org/proposal/?id=a6794810-b093-11ec-a117-8f4290d5b13d)
-* 68, 31: [GDA Crypto Valley Estates](https://governance.decentraland.org/proposal/?id=29e6a780-ac3c-11ec-87a7-6d2a41508231)
 
 ## Grants
 

@@ -9,13 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+1 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 68, 31: [GDA Crypto Valley Estates](https://governance.decentraland.org/proposal/?id=29e6a780-ac3c-11ec-87a7-6d2a41508231)
+
+* Yes 100% 1,014,999 VP (15 votes)
+* No 0% 0 VP (0 votes)
 
 
 ## Name Bans
@@ -38,7 +44,6 @@ Since April 1, 0 grants have been approved and the vesting contract(s) will be e
 ## Points of Interest
 
 * 48, -4: [卧龍（1261993598@qq.com）@卧龍#4569 on Discord](https://governance.decentraland.org/proposal/?id=a6794810-b093-11ec-a117-8f4290d5b13d)
-* 68, 31: [GDA Crypto Valley Estates](https://governance.decentraland.org/proposal/?id=29e6a780-ac3c-11ec-87a7-6d2a41508231)
 
 ## Grants
 
