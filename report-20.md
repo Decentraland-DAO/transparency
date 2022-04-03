@@ -111,6 +111,7 @@ Since March 16, 4 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
+* -31, 3: [PEV GROW SHOP](https://governance.decentraland.org/proposal/?id=74ce3020-b28f-11ec-980f-b711610def4a)
 * 48, -4: [卧龍（1261993598@qq.com）@卧龍#4569 on Discord](https://governance.decentraland.org/proposal/?id=a6794810-b093-11ec-a117-8f4290d5b13d)
 
 ## Grants
@@ -132,8 +133,7 @@ Since March 16, 4 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
-* [Should Events announcements be limited to 1 day or less at a time to be considered &#34;Happening now&#34;??](https://governance.decentraland.org/proposal/?id=4f79c580-aeef-11ec-87a7-6d2a41508231)
-* [A Strategy to improve the relationship between MakerDAO and MANA.](https://governance.decentraland.org/proposal/?id=0b3a1f60-aea8-11ec-87a7-6d2a41508231)
+* [Approve AaronLeupp.eth 3 Dino Wearables (1st Place Shoes, 2k Lava Shoes, 404 Pants)](https://governance.decentraland.org/proposal/?id=ed2249f0-b283-11ec-980f-b711610def4a)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

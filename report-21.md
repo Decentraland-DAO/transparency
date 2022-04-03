@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -38,11 +38,26 @@ Since April 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+#### [Should Events announcements be limited to 1 day or less at a time to be considered &#34;Happening now&#34;??](https://governance.decentraland.org/proposal/?id=4f79c580-aeef-11ec-87a7-6d2a41508231)
+
+* No, it is fine the way it is. 0% 0 VP (1 votes)
+* Yes, add limits to length of events. 100% 517,227 VP (22 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
+#### [A Strategy to improve the relationship between MakerDAO and MANA.](https://governance.decentraland.org/proposal/?id=0b3a1f60-aea8-11ec-87a7-6d2a41508231)
+
+* For: Improve MANA situation at MakerDAO 86% 817,429 VP (19 votes)
+* Against: Do nothing 13% 128,936 VP (1 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 
 # Active Proposals
 
 ## Points of Interest
 
+* -31, 3: [PEV GROW SHOP](https://governance.decentraland.org/proposal/?id=74ce3020-b28f-11ec-980f-b711610def4a)
 * 48, -4: [卧龍（1261993598@qq.com）@卧龍#4569 on Discord](https://governance.decentraland.org/proposal/?id=a6794810-b093-11ec-a117-8f4290d5b13d)
 
 ## Grants
@@ -64,8 +79,7 @@ Since April 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
-* [Should Events announcements be limited to 1 day or less at a time to be considered &#34;Happening now&#34;??](https://governance.decentraland.org/proposal/?id=4f79c580-aeef-11ec-87a7-6d2a41508231)
-* [A Strategy to improve the relationship between MakerDAO and MANA.](https://governance.decentraland.org/proposal/?id=0b3a1f60-aea8-11ec-87a7-6d2a41508231)
+* [Approve AaronLeupp.eth 3 Dino Wearables (1st Place Shoes, 2k Lava Shoes, 404 Pants)](https://governance.decentraland.org/proposal/?id=ed2249f0-b283-11ec-980f-b711610def4a)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
