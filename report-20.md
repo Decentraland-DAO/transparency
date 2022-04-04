@@ -123,7 +123,6 @@ Since March 16, 4 grants have been approved and the vesting contract(s) will be 
 * [Affordable Housing (Apartments and Townhomes)](https://governance.decentraland.org/proposal/?id=2d2a9f40-adfa-11ec-87a7-6d2a41508231) (Tier 4)
 * [8MetaBalls - P2E Billiard Game](https://governance.decentraland.org/proposal/?id=29559bb0-ab37-11ec-87a7-6d2a41508231) (Tier 5)
 * [Building DecentralWear Community Center](https://governance.decentraland.org/proposal/?id=bfa89b30-aa01-11ec-87a7-6d2a41508231) (Tier 4)
-* [Scaling Filmrare to acquire titles, create wearables, and onboard filmmakers](https://governance.decentraland.org/proposal/?id=e83b6560-a866-11ec-87a7-6d2a41508231) (Tier 4)
 
 ## Names Bans
 
@@ -133,6 +132,7 @@ Since March 16, 4 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+* [Add a variation of a &#34;LIKE&#34; button to all wearables in the MarketPlace regardless if you buy it or not.](https://governance.decentraland.org/proposal/?id=4d23b470-b3b9-11ec-980f-b711610def4a)
 * [Approve AaronLeupp.eth 3 Dino Wearables (1st Place Shoes, 2k Lava Shoes, 404 Pants)](https://governance.decentraland.org/proposal/?id=ed2249f0-b283-11ec-980f-b711610def4a)
 
 

@@ -1,4 +1,18 @@
 Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
+0xc24Fe6f2bae027aeee47390be73D121f18F51bdB,QmT2Jsi3Jshi5mUqKFNmQbNxyuDdKBLoHfSJZURm3TBF44,2022-04-04T09:51:37.000Z,8MetaBalls - P2E Billiard Game,1,yes,10.068305621078924,0
+0x0749d1AbB5CA9128432B612644c0eA1e9c6cc9aF,QmdScNxwFfFFaru3GBhFzZAVfTHdusKt3dpqoDaj5qv1vL,2022-04-04T02:45:21.000Z,"Add the location -31,3 to the Points of Interest",1,yes,300.0087020206687,1
+0xFDCBBAe8851750fceDD27F53feE99E95350f4636,QmV4PzxV4Dw46cvWVj1eW9HEXXy6g9B6ZFA5u2KqfymCV9,2022-04-04T01:44:49.000Z,Art Wurkz Project,1,yes,100,0
+0xf519172dc3Cc531786DB0Db7292A51A1bCFa7D82,QmchxF8CU2ehk9svKfZUSUCpzqwEsFG6ZDEanQhmdiaEaL,2022-04-03T22:03:58.000Z,Establish a Formal Process for Adding/Removing DAO Committee Members,1,yes,1056124.2226771312,50
+0x8b104344F397aFC33Ee55C743a0FbD7d956201cD,QmdbJpYdAFVUGrofr3VwB9XiF4tBzTaHbLViZriw6JA3rZ,2022-04-03T10:54:20.000Z,"Scaling Filmrare to acquire titles, create wearables, and onboard filmmakers",1,yes,3037.41120645,0
+0x8b104344F397aFC33Ee55C743a0FbD7d956201cD,QmVZwLszSs9Cuc223Nr5n7MJwXbZhME1kbAHJzX2fPQfCS,2022-04-03T10:54:07.000Z,Affordable Housing (Apartments and Townhomes),2,no,3035.34020645,0
+0x8b104344F397aFC33Ee55C743a0FbD7d956201cD,QmchxF8CU2ehk9svKfZUSUCpzqwEsFG6ZDEanQhmdiaEaL,2022-04-03T10:53:57.000Z,Establish a Formal Process for Adding/Removing DAO Committee Members,1,yes,3035.34020645,0
+0x8b104344F397aFC33Ee55C743a0FbD7d956201cD,QmV4PzxV4Dw46cvWVj1eW9HEXXy6g9B6ZFA5u2KqfymCV9,2022-04-03T10:53:48.000Z,Art Wurkz Project,1,yes,3035.34020645,1
+0x8b104344F397aFC33Ee55C743a0FbD7d956201cD,QmRvjeDkFHJLKbTAeWYGz6YmABDuaDzsnfBemRNP22252j,2022-04-03T10:53:39.000Z,Turning Physical Assets into Decentraland Assets,2,no,3035.34020645,0
+0x8b104344F397aFC33Ee55C743a0FbD7d956201cD,QmS8vweDqFazLZSVwmfoKdVL1MCBfSM2wy4fjbMP9NnAxz,2022-04-03T10:53:07.000Z,Thred - Metaverse Store Builder System for Decentraland,2,no,3035.34020645,0
+0x8b104344F397aFC33Ee55C743a0FbD7d956201cD,QmRz3jLr8RXeumKS6xMrc7yX1QbKyeaj8bSSmv5FFYGARs,2022-04-03T10:52:40.000Z,"Add the location 48,-4 to the Points of Interest",1,yes,3035.34020645,0
+0x8b104344F397aFC33Ee55C743a0FbD7d956201cD,QmdLJ7JaJfrhuVNc7JJeRgjf16JduP4nH9XNxiPPCWeMjk,2022-04-03T10:52:10.000Z,FitPro Games: The GATEWAY to the Crypto Universe,2,no,3035.34020645,0
+0x8b104344F397aFC33Ee55C743a0FbD7d956201cD,QmS2VM8kMyPjJdp3VNxkAjYSHGnhXRi6hT9qewpqb4WBr8,2022-04-03T10:51:47.000Z,"Approve AaronLeupp.eth 3 Dino Wearables (1st Place Shoes, 2k Lava Shoes, 404 Pants)",3,Invalid question/options,3035.34020645,0
+0x8b104344F397aFC33Ee55C743a0FbD7d956201cD,QmdScNxwFfFFaru3GBhFzZAVfTHdusKt3dpqoDaj5qv1vL,2022-04-03T10:51:22.000Z,"Add the location -31,3 to the Points of Interest",1,yes,3035.34020645,15
 0x11078130217bc2bAA9628837e945276e55cbDD86,QmS2VM8kMyPjJdp3VNxkAjYSHGnhXRi6hT9qewpqb4WBr8,2022-04-03T05:44:52.000Z,"Approve AaronLeupp.eth 3 Dino Wearables (1st Place Shoes, 2k Lava Shoes, 404 Pants)",1,Approve all 3 AaronLeupp's Dino wearables,51.81876951938711,0
 0x0409b454DB103199A9AEE027f307B6a1Cb830120,QmcezstPnzpvHMQvDamgxBwBb7VfJNcLav8j453EQu7bMp,2022-04-03T03:23:44.000Z,Building DecentralWear Community Center,1,yes,1206250,39
 0x0D779D67a428457CAbEC145A0f94703D14cd496B,QmcezstPnzpvHMQvDamgxBwBb7VfJNcLav8j453EQu7bMp,2022-04-03T03:17:08.000Z,Building DecentralWear Community Center,1,yes,13605.18325821924,0
@@ -11,10 +25,10 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x0F4A0466C2a1d3FA6Ed55a20994617F0533fbf74,QmS2VM8kMyPjJdp3VNxkAjYSHGnhXRi6hT9qewpqb4WBr8,2022-04-02T15:33:18.000Z,"Approve AaronLeupp.eth 3 Dino Wearables (1st Place Shoes, 2k Lava Shoes, 404 Pants)",1,Approve all 3 AaronLeupp's Dino wearables,31.091188929685725,0
 0x26871b48eDAD35F81901AB9002E656e594397e7d,QmS2VM8kMyPjJdp3VNxkAjYSHGnhXRi6hT9qewpqb4WBr8,2022-04-02T15:07:09.000Z,"Approve AaronLeupp.eth 3 Dino Wearables (1st Place Shoes, 2k Lava Shoes, 404 Pants)",1,Approve all 3 AaronLeupp's Dino wearables,101.8122435722684,0
 0x336cb537c4c5f35e053b10Ac2694C2f5BB38451a,QmS2VM8kMyPjJdp3VNxkAjYSHGnhXRi6hT9qewpqb4WBr8,2022-04-02T14:44:37.000Z,"Approve AaronLeupp.eth 3 Dino Wearables (1st Place Shoes, 2k Lava Shoes, 404 Pants)",1,Approve all 3 AaronLeupp's Dino wearables,100.16925982981596,0
-0x521B0fEf9CDCf250aBaF8e7BC798CBE13fa98692,QmdLJ7JaJfrhuVNc7JJeRgjf16JduP4nH9XNxiPPCWeMjk,2022-04-02T14:22:42.000Z,FitPro Games: The GATEWAY to the Crypto Universe,2,no,1429334.5030002557,85
+0x521B0fEf9CDCf250aBaF8e7BC798CBE13fa98692,QmdLJ7JaJfrhuVNc7JJeRgjf16JduP4nH9XNxiPPCWeMjk,2022-04-02T14:22:42.000Z,FitPro Games: The GATEWAY to the Crypto Universe,2,no,1429334.5030002557,84
 0x521B0fEf9CDCf250aBaF8e7BC798CBE13fa98692,QmS2VM8kMyPjJdp3VNxkAjYSHGnhXRi6hT9qewpqb4WBr8,2022-04-02T14:22:07.000Z,"Approve AaronLeupp.eth 3 Dino Wearables (1st Place Shoes, 2k Lava Shoes, 404 Pants)",3,Invalid question/options,1427334.5030002557,99
-0x805797Df0c0d7D70E14230b72E30171d730DA55e,QmdScNxwFfFFaru3GBhFzZAVfTHdusKt3dpqoDaj5qv1vL,2022-04-02T14:18:23.000Z,"Add the location -31,3 to the Points of Interest",1,yes,1197.7431429418616,7
-0x3cb7B7C5653c3e8F88Ca6833b781085d592f06b8,QmdScNxwFfFFaru3GBhFzZAVfTHdusKt3dpqoDaj5qv1vL,2022-04-02T14:16:44.000Z,"Add the location -31,3 to the Points of Interest",1,yes,14706.49091291,92
+0x805797Df0c0d7D70E14230b72E30171d730DA55e,QmdScNxwFfFFaru3GBhFzZAVfTHdusKt3dpqoDaj5qv1vL,2022-04-02T14:18:23.000Z,"Add the location -31,3 to the Points of Interest",1,yes,1197.7431429418616,6
+0x3cb7B7C5653c3e8F88Ca6833b781085d592f06b8,QmdScNxwFfFFaru3GBhFzZAVfTHdusKt3dpqoDaj5qv1vL,2022-04-02T14:16:44.000Z,"Add the location -31,3 to the Points of Interest",1,yes,14706.49091291,76
 0x785c8D210Ab8888dA6d121faA0a9568f75400B13,QmS2VM8kMyPjJdp3VNxkAjYSHGnhXRi6hT9qewpqb4WBr8,2022-04-02T14:08:32.000Z,"Approve AaronLeupp.eth 3 Dino Wearables (1st Place Shoes, 2k Lava Shoes, 404 Pants)",1,Approve all 3 AaronLeupp's Dino wearables,232.65306131,0
 0xb0c4EB0a8BF91d5DFE8DB6FEF070b522F2A03a9B,QmS2VM8kMyPjJdp3VNxkAjYSHGnhXRi6hT9qewpqb4WBr8,2022-04-02T14:03:55.000Z,"Approve AaronLeupp.eth 3 Dino Wearables (1st Place Shoes, 2k Lava Shoes, 404 Pants)",1,Approve all 3 AaronLeupp's Dino wearables,34.917310971228595,0
 0xBecdC5b5A3276DB399cBEd84c447Ad7Ce84FefAC,QmS8vweDqFazLZSVwmfoKdVL1MCBfSM2wy4fjbMP9NnAxz,2022-04-02T13:35:07.000Z,Thred - Metaverse Store Builder System for Decentraland,2,no,129.69830064264065,0
@@ -71,7 +85,7 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x895Be97bDb9F8a244c472B18EA96DeE39ddf8fe5,QmS8vweDqFazLZSVwmfoKdVL1MCBfSM2wy4fjbMP9NnAxz,2022-03-31T09:37:18.000Z,Thred - Metaverse Store Builder System for Decentraland,2,no,106140.09209471183,12
 0x895Be97bDb9F8a244c472B18EA96DeE39ddf8fe5,QmRvjeDkFHJLKbTAeWYGz6YmABDuaDzsnfBemRNP22252j,2022-03-31T09:35:33.000Z,Turning Physical Assets into Decentraland Assets,2,no,106140.09209471183,27
 0x7dB4df0E27595D0B2D02068a652F414Eb6697dE5,QmYnoUxLCHv6Ln7e5EeMvz2S32JYWbRLmnaFCBYrB3Crid,2022-03-31T09:35:13.000Z,"Should Events announcements be limited to 1 day or less at a time to be considered ""Happening now""??",2,"Yes, add limits to length of events.",79.01016755852753,0
-0x895Be97bDb9F8a244c472B18EA96DeE39ddf8fe5,QmV4PzxV4Dw46cvWVj1eW9HEXXy6g9B6ZFA5u2KqfymCV9,2022-03-31T09:34:41.000Z,Art Wurkz Project,1,yes,106140.09209471183,38
+0x895Be97bDb9F8a244c472B18EA96DeE39ddf8fe5,QmV4PzxV4Dw46cvWVj1eW9HEXXy6g9B6ZFA5u2KqfymCV9,2022-03-31T09:34:41.000Z,Art Wurkz Project,1,yes,106140.09209471183,37
 0x895Be97bDb9F8a244c472B18EA96DeE39ddf8fe5,QmdLJ7JaJfrhuVNc7JJeRgjf16JduP4nH9XNxiPPCWeMjk,2022-03-31T09:32:28.000Z,FitPro Games: The GATEWAY to the Crypto Universe,2,no,106187.69209471183,6
 0x7dB4df0E27595D0B2D02068a652F414Eb6697dE5,QmS8vweDqFazLZSVwmfoKdVL1MCBfSM2wy4fjbMP9NnAxz,2022-03-31T09:31:16.000Z,Thred - Metaverse Store Builder System for Decentraland,2,no,79.01016755852753,0
 0x7dB4df0E27595D0B2D02068a652F414Eb6697dE5,QmdLJ7JaJfrhuVNc7JJeRgjf16JduP4nH9XNxiPPCWeMjk,2022-03-31T09:28:31.000Z,FitPro Games: The GATEWAY to the Crypto Universe,2,no,79.01016755852753,0
@@ -81,7 +95,7 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x9DAb43Bc15BD29Cfe3030cA1b7EDb3EEb9f3b6c1,QmdLJ7JaJfrhuVNc7JJeRgjf16JduP4nH9XNxiPPCWeMjk,2022-03-31T06:33:13.000Z,FitPro Games: The GATEWAY to the Crypto Universe,2,no,32370.649231738375,1
 0x4534C46EA854c9A302d3dc95b2d3253aE6A28aBC,QmQ9vQJPFEmFeJ24To7e4cwGhprq23GWCazhqponm2QCGx,2022-03-31T06:14:46.000Z,A Strategy to improve the relationship between MakerDAO and MANA.,1,For: Improve MANA situation at MakerDAO,418.9249697761834,0
 0x3806a8E4C942461307020474c2e0DCC43Fa7FAC1,QmcezstPnzpvHMQvDamgxBwBb7VfJNcLav8j453EQu7bMp,2022-03-31T04:38:29.000Z,Building DecentralWear Community Center,1,yes,194.42006415269412,0
-0xCA9CBD376488Dd77187E99864ba7cE1Ff670cB69,QmRz3jLr8RXeumKS6xMrc7yX1QbKyeaj8bSSmv5FFYGARs,2022-03-31T03:46:17.000Z,"Add the location 48,-4 to the Points of Interest",1,yes,982600,84
+0xCA9CBD376488Dd77187E99864ba7cE1Ff670cB69,QmRz3jLr8RXeumKS6xMrc7yX1QbKyeaj8bSSmv5FFYGARs,2022-03-31T03:46:17.000Z,"Add the location 48,-4 to the Points of Interest",1,yes,982600,83
 0x0749d1AbB5CA9128432B612644c0eA1e9c6cc9aF,QmRvjeDkFHJLKbTAeWYGz6YmABDuaDzsnfBemRNP22252j,2022-03-31T03:10:43.000Z,Turning Physical Assets into Decentraland Assets,2,no,300.0087020206687,0
 0x62647118B8B13Dd459232ae46c8FEb157A054D1f,QmRz3jLr8RXeumKS6xMrc7yX1QbKyeaj8bSSmv5FFYGARs,2022-03-31T01:47:37.000Z,"Add the location 48,-4 to the Points of Interest",1,yes,120200,10
 0x27DDbeF68c8C7734D1087358De3fAe220c850b99,QmRz3jLr8RXeumKS6xMrc7yX1QbKyeaj8bSSmv5FFYGARs,2022-03-31T01:43:09.000Z,"Add the location 48,-4 to the Points of Interest",1,yes,66000,5
@@ -97,7 +111,7 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0xfFAC7FD045303112fdb28e9dACe8E1334aD324c0,QmcezstPnzpvHMQvDamgxBwBb7VfJNcLav8j453EQu7bMp,2022-03-30T12:51:27.000Z,Building DecentralWear Community Center,1,yes,131077.73896601552,4
 0xfFAC7FD045303112fdb28e9dACe8E1334aD324c0,QmdbJpYdAFVUGrofr3VwB9XiF4tBzTaHbLViZriw6JA3rZ,2022-03-30T12:50:33.000Z,"Scaling Filmrare to acquire titles, create wearables, and onboard filmmakers",1,yes,131077.73896601552,5
 0x8Cff6832174091DAe86F0244e3Fd92d4CeD2Fe07,QmYnoUxLCHv6Ln7e5EeMvz2S32JYWbRLmnaFCBYrB3Crid,2022-03-30T12:39:35.000Z,"Should Events announcements be limited to 1 day or less at a time to be considered ""Happening now""??",2,"Yes, add limits to length of events.",1345.2006680730562,0
-0xfFAC7FD045303112fdb28e9dACe8E1334aD324c0,QmchxF8CU2ehk9svKfZUSUCpzqwEsFG6ZDEanQhmdiaEaL,2022-03-30T12:14:31.000Z,Establish a Formal Process for Adding/Removing DAO Committee Members,1,yes,131077.73896601552,12
+0xfFAC7FD045303112fdb28e9dACe8E1334aD324c0,QmchxF8CU2ehk9svKfZUSUCpzqwEsFG6ZDEanQhmdiaEaL,2022-03-30T12:14:31.000Z,Establish a Formal Process for Adding/Removing DAO Committee Members,1,yes,131077.73896601552,6
 0xfFAC7FD045303112fdb28e9dACe8E1334aD324c0,QmQ9vQJPFEmFeJ24To7e4cwGhprq23GWCazhqponm2QCGx,2022-03-30T11:59:57.000Z,A Strategy to improve the relationship between MakerDAO and MANA.,1,For: Improve MANA situation at MakerDAO,131077.73896601552,13
 0x38dAEa6f17E4308b0Da9647dB9ca6D84a3A7E195,QmY8MV7h4YPvMDUXfux54MPDvYxe6cbiRDKBWix7HVRD7H,2022-03-30T11:08:32.000Z,Final definitions for Linked Wearables,1,yes,3649.3524467408924,0
 0x38dAEa6f17E4308b0Da9647dB9ca6D84a3A7E195,QmarsNbH7CcameBSehQn4AZHmtAmpKHAQ73LQZpDhamGXe,2022-03-30T11:08:15.000Z,Decentraland teach and promote for Portuguese and English speaking community,2,no,3649.3524467408924,0
@@ -110,7 +124,7 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x38dAEa6f17E4308b0Da9647dB9ca6D84a3A7E195,QmV4PzxV4Dw46cvWVj1eW9HEXXy6g9B6ZFA5u2KqfymCV9,2022-03-30T11:00:46.000Z,Art Wurkz Project,2,no,3649.3524467408924,1
 0x38dAEa6f17E4308b0Da9647dB9ca6D84a3A7E195,QmRvjeDkFHJLKbTAeWYGz6YmABDuaDzsnfBemRNP22252j,2022-03-30T11:00:23.000Z,Turning Physical Assets into Decentraland Assets,2,no,3649.3524467408924,0
 0x38dAEa6f17E4308b0Da9647dB9ca6D84a3A7E195,QmS8vweDqFazLZSVwmfoKdVL1MCBfSM2wy4fjbMP9NnAxz,2022-03-30T10:59:55.000Z,Thred - Metaverse Store Builder System for Decentraland,2,no,3649.3524467408924,0
-0x3fB38CEe8d0BA7Dcf59403a8C397626dC9c7A13B,QmV4PzxV4Dw46cvWVj1eW9HEXXy6g9B6ZFA5u2KqfymCV9,2022-03-30T10:56:11.000Z,Art Wurkz Project,2,no,128937.01339082634,46
+0x3fB38CEe8d0BA7Dcf59403a8C397626dC9c7A13B,QmV4PzxV4Dw46cvWVj1eW9HEXXy6g9B6ZFA5u2KqfymCV9,2022-03-30T10:56:11.000Z,Art Wurkz Project,2,no,128937.01339082634,45
 0x3fB38CEe8d0BA7Dcf59403a8C397626dC9c7A13B,QmS8vweDqFazLZSVwmfoKdVL1MCBfSM2wy4fjbMP9NnAxz,2022-03-30T10:54:46.000Z,Thred - Metaverse Store Builder System for Decentraland,2,no,128937.01339082634,14
 0x3fB38CEe8d0BA7Dcf59403a8C397626dC9c7A13B,QmRvjeDkFHJLKbTAeWYGz6YmABDuaDzsnfBemRNP22252j,2022-03-30T10:54:36.000Z,Turning Physical Assets into Decentraland Assets,2,no,128937.01339082634,33
 0xfC0C2e99b777Ba5E445F4b035ed42A4A80865DE3,QmarsNbH7CcameBSehQn4AZHmtAmpKHAQ73LQZpDhamGXe,2022-03-30T10:44:00.000Z,Decentraland teach and promote for Portuguese and English speaking community,2,no,25.68929016219825,0
@@ -143,7 +157,7 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x805797Df0c0d7D70E14230b72E30171d730DA55e,QmchxF8CU2ehk9svKfZUSUCpzqwEsFG6ZDEanQhmdiaEaL,2022-03-29T19:12:19.000Z,Establish a Formal Process for Adding/Removing DAO Committee Members,1,yes,1117.1336990030418,0
 0xb0145Ae156D201d6E371d07265FE3C045071c967,QmWXnu9gVFJeCVNnMF9Z5dS7vZpNvLR4spFG41Nt7Ww7vH,2022-03-29T18:32:45.000Z,"Add the location 68,31 to the Points of Interest",1,yes,446020.68,43
 0xb0145Ae156D201d6E371d07265FE3C045071c967,QmYZarq7yiaTTkRnC4ebadXBo1BFaWRLJB9zcsSgkCghS5,2022-03-29T18:32:29.000Z,"Cap the # of POI on the map, and make them tradable NFT's",2,No,446020.68,67
-0xb0145Ae156D201d6E371d07265FE3C045071c967,QmchxF8CU2ehk9svKfZUSUCpzqwEsFG6ZDEanQhmdiaEaL,2022-03-29T18:32:10.000Z,Establish a Formal Process for Adding/Removing DAO Committee Members,1,yes,446020.68,43
+0xb0145Ae156D201d6E371d07265FE3C045071c967,QmchxF8CU2ehk9svKfZUSUCpzqwEsFG6ZDEanQhmdiaEaL,2022-03-29T18:32:10.000Z,Establish a Formal Process for Adding/Removing DAO Committee Members,1,yes,446020.68,21
 0xb0145Ae156D201d6E371d07265FE3C045071c967,QmQ9vQJPFEmFeJ24To7e4cwGhprq23GWCazhqponm2QCGx,2022-03-29T18:31:44.000Z,A Strategy to improve the relationship between MakerDAO and MANA.,1,For: Improve MANA situation at MakerDAO,446020.68,47
 0xb0145Ae156D201d6E371d07265FE3C045071c967,QmYnoUxLCHv6Ln7e5EeMvz2S32JYWbRLmnaFCBYrB3Crid,2022-03-29T18:31:13.000Z,"Should Events announcements be limited to 1 day or less at a time to be considered ""Happening now""??",2,"Yes, add limits to length of events.",446020.68,86
 0xb0145Ae156D201d6E371d07265FE3C045071c967,QmVZwLszSs9Cuc223Nr5n7MJwXbZhME1kbAHJzX2fPQfCS,2022-03-29T18:29:29.000Z,Affordable Housing (Apartments and Townhomes),2,no,446020.68,26
@@ -164,7 +178,7 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0xd6eFf8F07cAF3443A1178407d3de4129149D6eF6,QmcezstPnzpvHMQvDamgxBwBb7VfJNcLav8j453EQu7bMp,2022-03-29T16:22:42.000Z,Building DecentralWear Community Center,1,yes,23402.68160029553,0
 0xd6eFf8F07cAF3443A1178407d3de4129149D6eF6,QmYnoUxLCHv6Ln7e5EeMvz2S32JYWbRLmnaFCBYrB3Crid,2022-03-29T16:20:02.000Z,"Should Events announcements be limited to 1 day or less at a time to be considered ""Happening now""??",2,"Yes, add limits to length of events.",20238.358472674787,3
 0x3fB38CEe8d0BA7Dcf59403a8C397626dC9c7A13B,QmVZwLszSs9Cuc223Nr5n7MJwXbZhME1kbAHJzX2fPQfCS,2022-03-29T15:25:34.000Z,Affordable Housing (Apartments and Townhomes),2,no,128937.01339082634,7
-0x3fB38CEe8d0BA7Dcf59403a8C397626dC9c7A13B,QmchxF8CU2ehk9svKfZUSUCpzqwEsFG6ZDEanQhmdiaEaL,2022-03-29T15:21:18.000Z,Establish a Formal Process for Adding/Removing DAO Committee Members,1,yes,128937.01339082634,12
+0x3fB38CEe8d0BA7Dcf59403a8C397626dC9c7A13B,QmchxF8CU2ehk9svKfZUSUCpzqwEsFG6ZDEanQhmdiaEaL,2022-03-29T15:21:18.000Z,Establish a Formal Process for Adding/Removing DAO Committee Members,1,yes,128937.01339082634,6
 0x3fB38CEe8d0BA7Dcf59403a8C397626dC9c7A13B,QmQ9vQJPFEmFeJ24To7e4cwGhprq23GWCazhqponm2QCGx,2022-03-29T14:19:50.000Z,A Strategy to improve the relationship between MakerDAO and MANA.,2,Against: Do nothing,128937.01339082634,13
 0xd689478d44A438798EE0DC07657CcE2135c0AeF7,QmarsNbH7CcameBSehQn4AZHmtAmpKHAQ73LQZpDhamGXe,2022-03-29T14:13:49.000Z,Decentraland teach and promote for Portuguese and English speaking community,1,yes,17100,0
 0x5BC96B831cD6FC900C10DC50a56c852701F03F35,QmYnoUxLCHv6Ln7e5EeMvz2S32JYWbRLmnaFCBYrB3Crid,2022-03-29T13:53:35.000Z,"Should Events announcements be limited to 1 day or less at a time to be considered ""Happening now""??",2,"Yes, add limits to length of events.",36217.433332683824,7
@@ -189,7 +203,7 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0xAE8EaBB58327f856D93248c2a009291d26BfdE18,QmcezstPnzpvHMQvDamgxBwBb7VfJNcLav8j453EQu7bMp,2022-03-28T22:22:52.000Z,Building DecentralWear Community Center,1,yes,281.1745213474078,0
 0x895Be97bDb9F8a244c472B18EA96DeE39ddf8fe5,QmarsNbH7CcameBSehQn4AZHmtAmpKHAQ73LQZpDhamGXe,2022-03-28T22:20:52.000Z,Decentraland teach and promote for Portuguese and English speaking community,1,yes,72214.22843687444,4
 0x895Be97bDb9F8a244c472B18EA96DeE39ddf8fe5,QmQ9vQJPFEmFeJ24To7e4cwGhprq23GWCazhqponm2QCGx,2022-03-28T22:18:28.000Z,A Strategy to improve the relationship between MakerDAO and MANA.,1,For: Improve MANA situation at MakerDAO,106140.09209471183,11
-0x895Be97bDb9F8a244c472B18EA96DeE39ddf8fe5,QmchxF8CU2ehk9svKfZUSUCpzqwEsFG6ZDEanQhmdiaEaL,2022-03-28T22:16:48.000Z,Establish a Formal Process for Adding/Removing DAO Committee Members,1,yes,106140.09209471183,10
+0x895Be97bDb9F8a244c472B18EA96DeE39ddf8fe5,QmchxF8CU2ehk9svKfZUSUCpzqwEsFG6ZDEanQhmdiaEaL,2022-03-28T22:16:48.000Z,Establish a Formal Process for Adding/Removing DAO Committee Members,1,yes,106140.09209471183,5
 0xA78d59f05aCF567e60f70B8bDaE5C88825C5b3C1,QmarsNbH7CcameBSehQn4AZHmtAmpKHAQ73LQZpDhamGXe,2022-03-28T21:44:02.000Z,Decentraland teach and promote for Portuguese and English speaking community,1,yes,194.29299548949135,0
 0x877B37D3E5467B4aAE7687Dd3480A46C8D3e16Be,QmarsNbH7CcameBSehQn4AZHmtAmpKHAQ73LQZpDhamGXe,2022-03-28T21:29:37.000Z,Decentraland teach and promote for Portuguese and English speaking community,1,yes,160,0
 0x877B37D3E5467B4aAE7687Dd3480A46C8D3e16Be,QmaYA2bt9b8VmqU4x5vuEgxppnQinRFoT13bdseCYxoZY4,2022-03-28T21:29:12.000Z,Creation of video content to popularise Decentraland,1,yes,160,0
@@ -232,7 +246,7 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0xB5F4ebcC5a90e58D953eE9e64e365C2468f31F51,QmVZwLszSs9Cuc223Nr5n7MJwXbZhME1kbAHJzX2fPQfCS,2022-03-28T14:48:33.000Z,Affordable Housing (Apartments and Townhomes),2,no,31249.091317217353,1
 0xB8d4467428Fc490657142D2a798aFEbB12F062e4,QmchxF8CU2ehk9svKfZUSUCpzqwEsFG6ZDEanQhmdiaEaL,2022-03-28T14:48:32.000Z,Establish a Formal Process for Adding/Removing DAO Committee Members,1,yes,36.27,0
 0xD11a019a70986Bd607CBC1c1f9Ae221C78581F49,QmT2Jsi3Jshi5mUqKFNmQbNxyuDdKBLoHfSJZURm3TBF44,2022-03-28T14:48:14.000Z,8MetaBalls - P2E Billiard Game,1,yes,1414000.6591,67
-0xB5F4ebcC5a90e58D953eE9e64e365C2468f31F51,QmchxF8CU2ehk9svKfZUSUCpzqwEsFG6ZDEanQhmdiaEaL,2022-03-28T14:45:03.000Z,Establish a Formal Process for Adding/Removing DAO Committee Members,1,yes,31267.491317217355,3
+0xB5F4ebcC5a90e58D953eE9e64e365C2468f31F51,QmchxF8CU2ehk9svKfZUSUCpzqwEsFG6ZDEanQhmdiaEaL,2022-03-28T14:45:03.000Z,Establish a Formal Process for Adding/Removing DAO Committee Members,1,yes,31267.491317217355,1
 0xdCC287d36Cdfdc3da6CCbFaC5c069aA24c0A3Bad,QmcezstPnzpvHMQvDamgxBwBb7VfJNcLav8j453EQu7bMp,2022-03-28T14:43:22.000Z,Building DecentralWear Community Center,1,yes,23.3746108749283,0
 0x9381CAA558F19a821A2360C59FdF3dB60C09ff52,QmcezstPnzpvHMQvDamgxBwBb7VfJNcLav8j453EQu7bMp,2022-03-28T14:41:43.000Z,Building DecentralWear Community Center,1,yes,9050.95474314114,0
 0xD11a019a70986Bd607CBC1c1f9Ae221C78581F49,QmcezstPnzpvHMQvDamgxBwBb7VfJNcLav8j453EQu7bMp,2022-03-28T14:38:58.000Z,Building DecentralWear Community Center,1,yes,1414000.6591,46
@@ -245,7 +259,7 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x515bEE382EA1043B699863C06f319A8267D58431,QmZdVHuRtEwMA86nfjvxLUT8BXX7CKuAkDQTEoDYRyC5G4,2022-03-28T11:28:39.000Z,Building the Petaverse Park - The Decentraland experience for pet lovers!,1,yes,105.78584949,0
 0x85BD6874CE656b3ab058DF04d1b64f30b15d350d,QmchxF8CU2ehk9svKfZUSUCpzqwEsFG6ZDEanQhmdiaEaL,2022-03-28T11:12:03.000Z,Establish a Formal Process for Adding/Removing DAO Committee Members,1,yes,268.7758371294637,0
 0x336685bb3A96E13B77E909d7C52e8AfCfF1E859E,QmcezstPnzpvHMQvDamgxBwBb7VfJNcLav8j453EQu7bMp,2022-03-28T10:57:51.000Z,Building DecentralWear Community Center,1,yes,1430.3459432804273,0
-0x76fb13f00CdbdD5eAC8E2664CF14be791aF87cb0,QmchxF8CU2ehk9svKfZUSUCpzqwEsFG6ZDEanQhmdiaEaL,2022-03-28T08:45:31.000Z,Establish a Formal Process for Adding/Removing DAO Committee Members,1,yes,164819.48812954966,16
+0x76fb13f00CdbdD5eAC8E2664CF14be791aF87cb0,QmchxF8CU2ehk9svKfZUSUCpzqwEsFG6ZDEanQhmdiaEaL,2022-03-28T08:45:31.000Z,Establish a Formal Process for Adding/Removing DAO Committee Members,1,yes,164819.48812954966,7
 0x76fb13f00CdbdD5eAC8E2664CF14be791aF87cb0,QmY8MV7h4YPvMDUXfux54MPDvYxe6cbiRDKBWix7HVRD7H,2022-03-28T08:20:52.000Z,Final definitions for Linked Wearables,1,yes,153501.55053762314,4
 0x76fb13f00CdbdD5eAC8E2664CF14be791aF87cb0,QmUWQ7A6gM19mgrqzMVnfZgf7u9BQnm44GbEPLDerKujis,2022-03-28T08:20:31.000Z,"Add the location 150,150 to the Points of Interest",2,no,181189.05053762314,51
 0x76fb13f00CdbdD5eAC8E2664CF14be791aF87cb0,QmaYA2bt9b8VmqU4x5vuEgxppnQinRFoT13bdseCYxoZY4,2022-03-28T07:59:27.000Z,Creation of video content to popularise Decentraland,1,yes,152279.05053762314,23
@@ -436,7 +450,6 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x75B07e64161aCE39d6eaB54d25F25410ffd3d458,QmPduSeqEUDmiCU3GWz8mSmDuBRbjXP2gQ6wSRdoX5drfZ,2022-03-22T11:53:05.000Z,Ban the name mirko,2,no,1205.5284511946936,0
 0x8C2e843664Be468522769b0d1B3B604A17962249,QmaqaW47uFbB1Bfud1rNr3tJHfJJW4pVqHNSYzPGRuTFHi,2022-03-22T05:13:04.000Z,"Add the location -27,-46 to the Points of Interest",1,yes,30.631808693457074,0
 0x34F216ff2a5425d0091f9dF5D112B68F29BEEc0d,QmaqaW47uFbB1Bfud1rNr3tJHfJJW4pVqHNSYzPGRuTFHi,2022-03-22T03:21:24.000Z,"Add the location -27,-46 to the Points of Interest",1,yes,151.40176846189445,0
-0x8b104344F397aFC33Ee55C743a0FbD7d956201cD,QmdbJpYdAFVUGrofr3VwB9XiF4tBzTaHbLViZriw6JA3rZ,2022-03-22T00:01:06.000Z,"Scaling Filmrare to acquire titles, create wearables, and onboard filmmakers",1,yes,3037.41120645,0
 0x2176cB39E3Bc9F50e0B854Cf9622cB088A921916,QmaqaW47uFbB1Bfud1rNr3tJHfJJW4pVqHNSYzPGRuTFHi,2022-03-21T23:49:54.000Z,"Add the location -27,-46 to the Points of Interest",1,yes,102.44636688853366,0
 0xdAD109d3d3a1dc868FD70272bDB4f75DF6dFd12D,QmdbJpYdAFVUGrofr3VwB9XiF4tBzTaHbLViZriw6JA3rZ,2022-03-21T23:16:51.000Z,"Scaling Filmrare to acquire titles, create wearables, and onboard filmmakers",1,yes,593.3163136275086,0
 0x785c8D210Ab8888dA6d121faA0a9568f75400B13,QmdSCrnNGxcZ41jNucFqVdDkorcxkz7cKimskTfbqtddzo,2022-03-21T23:12:52.000Z,Event management & NFT ticketing platform for Decentraland,1,yes,309.05106135,0

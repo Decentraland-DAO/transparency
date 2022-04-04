@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -33,7 +33,13 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since April 1, 0 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since April 1, 1 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Scaling Filmrare to acquire titles, create wearables, and onboard filmmakers](https://governance.decentraland.org/proposal/?id=e83b6560-a866-11ec-87a7-6d2a41508231) (Tier 4)
+
+* Yes 99% 2,269,301 VP (58 votes)
+* No 0% 8,427 VP (1 votes)
 
 
 ## Polls
@@ -69,7 +75,6 @@ Since April 1, 0 grants have been approved and the vesting contract(s) will be e
 * [Affordable Housing (Apartments and Townhomes)](https://governance.decentraland.org/proposal/?id=2d2a9f40-adfa-11ec-87a7-6d2a41508231) (Tier 4)
 * [8MetaBalls - P2E Billiard Game](https://governance.decentraland.org/proposal/?id=29559bb0-ab37-11ec-87a7-6d2a41508231) (Tier 5)
 * [Building DecentralWear Community Center](https://governance.decentraland.org/proposal/?id=bfa89b30-aa01-11ec-87a7-6d2a41508231) (Tier 4)
-* [Scaling Filmrare to acquire titles, create wearables, and onboard filmmakers](https://governance.decentraland.org/proposal/?id=e83b6560-a866-11ec-87a7-6d2a41508231) (Tier 4)
 
 ## Names Bans
 
@@ -79,6 +84,7 @@ Since April 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Add a variation of a &#34;LIKE&#34; button to all wearables in the MarketPlace regardless if you buy it or not.](https://governance.decentraland.org/proposal/?id=4d23b470-b3b9-11ec-980f-b711610def4a)
 * [Approve AaronLeupp.eth 3 Dino Wearables (1st Place Shoes, 2k Lava Shoes, 404 Pants)](https://governance.decentraland.org/proposal/?id=ed2249f0-b283-11ec-980f-b711610def4a)
 
 
