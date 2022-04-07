@@ -111,18 +111,24 @@ Since March 16, 4 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
+* -101, 135: [No Name](https://governance.decentraland.org/proposal/?id=d2e5d540-b533-11ec-980f-b711610def4a)
+* -108, 135: [No Name](https://governance.decentraland.org/proposal/?id=d516bf00-b533-11ec-980f-b711610def4a)
+* -101, 127: [No Name](https://governance.decentraland.org/proposal/?id=98b68220-b533-11ec-980f-b711610def4a)
+* -12, -108: [Trinity Tower ](https://governance.decentraland.org/proposal/?id=76d72cb0-b496-11ec-980f-b711610def4a)
+* -52, -102: [Kingston Tower](https://governance.decentraland.org/proposal/?id=43d2fbb0-b495-11ec-980f-b711610def4a)
+* -56, -97: [Empress Tower](https://governance.decentraland.org/proposal/?id=220986b0-b491-11ec-980f-b711610def4a)
 * -31, 3: [PEV GROW SHOP](https://governance.decentraland.org/proposal/?id=74ce3020-b28f-11ec-980f-b711610def4a)
-* 48, -4: [卧龍（1261993598@qq.com）@卧龍#4569 on Discord](https://governance.decentraland.org/proposal/?id=a6794810-b093-11ec-a117-8f4290d5b13d)
 
 ## Grants
 
-* [FitPro Games: The GATEWAY to the Crypto Universe](https://governance.decentraland.org/proposal/?id=060d05b0-b0a2-11ec-a117-8f4290d5b13d) (Tier 2)
+* [Hackathon for avatars/wearables in Decentraland Metaverse with Unity/Blender](https://governance.decentraland.org/proposal/?id=c8227a80-b5df-11ec-bdef-bfbc9f87a33b) (Tier 2)
+* [Co-living House in Hollywood Hills for Decentraland like AR House Model](https://governance.decentraland.org/proposal/?id=1a27e450-b5db-11ec-bdef-bfbc9f87a33b) (Tier 6)
+* [Co-living House in Hollywood Hills for Decentraland like AR House Model](https://governance.decentraland.org/proposal/?id=e919e890-b5da-11ec-bdef-bfbc9f87a33b) (Tier 6)
+* [Co-living House in Hollywood Hills for Decentraland like AR House Model](https://governance.decentraland.org/proposal/?id=22974640-b5da-11ec-bdef-bfbc9f87a33b) (Tier 6)
 * [Thred - Metaverse Store Builder System for Decentraland](https://governance.decentraland.org/proposal/?id=c515c520-af9c-11ec-87a7-6d2a41508231) (Tier 6)
 * [Turning Physical Assets into Decentraland Assets](https://governance.decentraland.org/proposal/?id=2bd06780-af9c-11ec-87a7-6d2a41508231) (Tier 6)
 * [Art Wurkz Project](https://governance.decentraland.org/proposal/?id=ec2901d0-af8e-11ec-87a7-6d2a41508231) (Tier 4)
 * [Affordable Housing (Apartments and Townhomes)](https://governance.decentraland.org/proposal/?id=2d2a9f40-adfa-11ec-87a7-6d2a41508231) (Tier 4)
-* [8MetaBalls - P2E Billiard Game](https://governance.decentraland.org/proposal/?id=29559bb0-ab37-11ec-87a7-6d2a41508231) (Tier 5)
-* [Building DecentralWear Community Center](https://governance.decentraland.org/proposal/?id=bfa89b30-aa01-11ec-87a7-6d2a41508231) (Tier 4)
 
 ## Names Bans
 
