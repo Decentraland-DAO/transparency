@@ -111,6 +111,7 @@ Since March 16, 4 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
+* 61, -149: [Metaverse.maff.io](https://governance.decentraland.org/proposal/?id=67b4ab20-b682-11ec-903a-6546e8793cef)
 * -101, 135: [No Name](https://governance.decentraland.org/proposal/?id=d2e5d540-b533-11ec-980f-b711610def4a)
 * -108, 135: [No Name](https://governance.decentraland.org/proposal/?id=d516bf00-b533-11ec-980f-b711610def4a)
 * -101, 127: [No Name](https://governance.decentraland.org/proposal/?id=98b68220-b533-11ec-980f-b711610def4a)
@@ -121,6 +122,7 @@ Since March 16, 4 grants have been approved and the vesting contract(s) will be 
 
 ## Grants
 
+* [Creation of a Community plot for advertising and showcasing projects of creator](https://governance.decentraland.org/proposal/?id=80832090-b6f6-11ec-903a-6546e8793cef) (Tier 4)
 * [Hackathon for avatars/wearables in Decentraland Metaverse with Unity/Blender](https://governance.decentraland.org/proposal/?id=c8227a80-b5df-11ec-bdef-bfbc9f87a33b) (Tier 2)
 * [Co-living House in Hollywood Hills for Decentraland like AR House Model](https://governance.decentraland.org/proposal/?id=1a27e450-b5db-11ec-bdef-bfbc9f87a33b) (Tier 6)
 * [Co-living House in Hollywood Hills for Decentraland like AR House Model](https://governance.decentraland.org/proposal/?id=e919e890-b5da-11ec-bdef-bfbc9f87a33b) (Tier 6)
@@ -139,7 +141,6 @@ Since March 16, 4 grants have been approved and the vesting contract(s) will be 
 ## Polls
 
 * [Add a variation of a &#34;LIKE&#34; button to all wearables in the MarketPlace regardless if you buy it or not.](https://governance.decentraland.org/proposal/?id=4d23b470-b3b9-11ec-980f-b711610def4a)
-* [Approve AaronLeupp.eth 3 Dino Wearables (1st Place Shoes, 2k Lava Shoes, 404 Pants)](https://governance.decentraland.org/proposal/?id=ed2249f0-b283-11ec-980f-b711610def4a)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
