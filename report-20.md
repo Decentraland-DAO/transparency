@@ -118,10 +118,12 @@ Since March 16, 4 grants have been approved and the vesting contract(s) will be 
 * -12, -108: [Trinity Tower ](https://governance.decentraland.org/proposal/?id=76d72cb0-b496-11ec-980f-b711610def4a)
 * -52, -102: [Kingston Tower](https://governance.decentraland.org/proposal/?id=43d2fbb0-b495-11ec-980f-b711610def4a)
 * -56, -97: [Empress Tower](https://governance.decentraland.org/proposal/?id=220986b0-b491-11ec-980f-b711610def4a)
-* -31, 3: [PEV GROW SHOP](https://governance.decentraland.org/proposal/?id=74ce3020-b28f-11ec-980f-b711610def4a)
 
 ## Grants
 
+* [Non Profit Organisation likes to create a Music &amp; Art Place in Decentraland](https://governance.decentraland.org/proposal/?id=ab50a400-b886-11ec-903a-6546e8793cef) (Tier 6)
+* [Mental Health Support in DCL](https://governance.decentraland.org/proposal/?id=af9ca2d0-b808-11ec-903a-6546e8793cef) (Tier 4)
+* [Mental Health Support in DCL](https://governance.decentraland.org/proposal/?id=2e70b430-b808-11ec-903a-6546e8793cef) (Tier 4)
 * [Hackathon for avatars/wearables in Decentraland Metaverse with Unity/Blender](https://governance.decentraland.org/proposal/?id=c8227a80-b5df-11ec-bdef-bfbc9f87a33b) (Tier 2)
 * [Co-living House in Hollywood Hills for Decentraland like AR House Model](https://governance.decentraland.org/proposal/?id=1a27e450-b5db-11ec-bdef-bfbc9f87a33b) (Tier 6)
 * [Co-living House in Hollywood Hills for Decentraland like AR House Model](https://governance.decentraland.org/proposal/?id=e919e890-b5da-11ec-bdef-bfbc9f87a33b) (Tier 6)
@@ -133,6 +135,7 @@ Since March 16, 4 grants have been approved and the vesting contract(s) will be 
 
 ## Names Bans
 
+* [Ban the name Putin](https://governance.decentraland.org/proposal/?id=6d23c110-b810-11ec-903a-6546e8793cef)
 
 ## Catalysts
 
