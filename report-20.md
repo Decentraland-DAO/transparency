@@ -121,17 +121,16 @@ Since March 16, 4 grants have been approved and the vesting contract(s) will be 
 
 ## Grants
 
+* [Decentraland Co-living House and Incubator in Hollywood Hills](https://governance.decentraland.org/proposal/?id=586ef8d0-b92c-11ec-903a-6546e8793cef) (Tier 6)
+* [Decentraland Creators Collective](https://governance.decentraland.org/proposal/?id=85c8b1e0-b8fa-11ec-903a-6546e8793cef) (Tier 4)
 * [Non Profit Organisation likes to create a Music &amp; Art Place in Decentraland](https://governance.decentraland.org/proposal/?id=ab50a400-b886-11ec-903a-6546e8793cef) (Tier 6)
 * [Mental Health Support in DCL](https://governance.decentraland.org/proposal/?id=af9ca2d0-b808-11ec-903a-6546e8793cef) (Tier 4)
 * [Mental Health Support in DCL](https://governance.decentraland.org/proposal/?id=2e70b430-b808-11ec-903a-6546e8793cef) (Tier 4)
 * [Hackathon for avatars/wearables in Decentraland Metaverse with Unity/Blender](https://governance.decentraland.org/proposal/?id=c8227a80-b5df-11ec-bdef-bfbc9f87a33b) (Tier 2)
 * [Co-living House in Hollywood Hills for Decentraland like AR House Model](https://governance.decentraland.org/proposal/?id=1a27e450-b5db-11ec-bdef-bfbc9f87a33b) (Tier 6)
-* [Co-living House in Hollywood Hills for Decentraland like AR House Model](https://governance.decentraland.org/proposal/?id=e919e890-b5da-11ec-bdef-bfbc9f87a33b) (Tier 6)
-* [Co-living House in Hollywood Hills for Decentraland like AR House Model](https://governance.decentraland.org/proposal/?id=22974640-b5da-11ec-bdef-bfbc9f87a33b) (Tier 6)
 * [Thred - Metaverse Store Builder System for Decentraland](https://governance.decentraland.org/proposal/?id=c515c520-af9c-11ec-87a7-6d2a41508231) (Tier 6)
 * [Turning Physical Assets into Decentraland Assets](https://governance.decentraland.org/proposal/?id=2bd06780-af9c-11ec-87a7-6d2a41508231) (Tier 6)
 * [Art Wurkz Project](https://governance.decentraland.org/proposal/?id=ec2901d0-af8e-11ec-87a7-6d2a41508231) (Tier 4)
-* [Affordable Housing (Apartments and Townhomes)](https://governance.decentraland.org/proposal/?id=2d2a9f40-adfa-11ec-87a7-6d2a41508231) (Tier 4)
 
 ## Names Bans
 
