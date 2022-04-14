@@ -9,13 +9,31 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 6 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 9 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 
 ## Points of Interest
-6 points of interest have been added to Decentraland’s map since the last report.
+9 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -101, 135: [No Name](https://governance.decentraland.org/proposal/?id=d2e5d540-b533-11ec-980f-b711610def4a)
+
+* Yes 100% 2,125,069 VP (58 votes)
+* No 0% 0 VP (0 votes)
+
+
+#### -108, 135: [No Name](https://governance.decentraland.org/proposal/?id=d516bf00-b533-11ec-980f-b711610def4a)
+
+* Yes 100% 2,051,651 VP (53 votes)
+* No 0% 0 VP (0 votes)
+
+
+#### -101, 127: [No Name](https://governance.decentraland.org/proposal/?id=98b68220-b533-11ec-980f-b711610def4a)
+
+* Yes 100% 2,051,647 VP (51 votes)
+* No 0% 0 VP (0 votes)
 
 
 #### -12, -108: [Trinity Tower ](https://governance.decentraland.org/proposal/?id=76d72cb0-b496-11ec-980f-b711610def4a)
@@ -99,29 +117,25 @@ Since April 1, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
+* 100, 99: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=57a20580-bb95-11ec-8561-b591bf2cf0d0)
+* -23, 68: [Decentramine](https://governance.decentraland.org/proposal/?id=ad87f6d0-ba7d-11ec-8561-b591bf2cf0d0)
 * -20, -126: [bay ridge](https://governance.decentraland.org/proposal/?id=454e71b0-ba33-11ec-8561-b591bf2cf0d0)
 * -20, -126: [bay ridge](https://governance.decentraland.org/proposal/?id=2d15bc80-b9d3-11ec-903a-6546e8793cef)
 * -42, -102: [Oasis Gallery](https://governance.decentraland.org/proposal/?id=568db9a0-b9c4-11ec-903a-6546e8793cef)
 * -86, -74: [Calligraphy Gallery ](https://governance.decentraland.org/proposal/?id=38c29400-b9c3-11ec-903a-6546e8793cef)
 * 61, -149: [Metaverse.maff.io](https://governance.decentraland.org/proposal/?id=67b4ab20-b682-11ec-903a-6546e8793cef)
-* -101, 135: [No Name](https://governance.decentraland.org/proposal/?id=d2e5d540-b533-11ec-980f-b711610def4a)
-* -108, 135: [No Name](https://governance.decentraland.org/proposal/?id=d516bf00-b533-11ec-980f-b711610def4a)
-* -101, 127: [No Name](https://governance.decentraland.org/proposal/?id=98b68220-b533-11ec-980f-b711610def4a)
 
 ## Grants
 
+* [Bwindi Club](https://governance.decentraland.org/proposal/?id=13d6ee30-bac1-11ec-8561-b591bf2cf0d0) (Tier 4)
+* [DCL POI Hub](https://governance.decentraland.org/proposal/?id=ad7eac90-bac0-11ec-8561-b591bf2cf0d0) (Tier 2)
 * [Glenrose Rehabilitation Hospital Foundation initiative in Decentraland](https://governance.decentraland.org/proposal/?id=2e207620-ba1d-11ec-8561-b591bf2cf0d0) (Tier 4)
 * [Interactive mazes, encouraging engagement, and offering support, while earning.](https://governance.decentraland.org/proposal/?id=54d70e80-b9fc-11ec-8561-b591bf2cf0d0) (Tier 6)
 * [Genesis Plaza Tours, Interactive Lessons, and Community Engagement](https://governance.decentraland.org/proposal/?id=566b58d0-b9a9-11ec-903a-6546e8793cef) (Tier 4)
 * [Decentraland Co-living House and Incubator in Hollywood Hills](https://governance.decentraland.org/proposal/?id=586ef8d0-b92c-11ec-903a-6546e8793cef) (Tier 6)
 * [Non Profit Organisation likes to create a Music &amp; Art Place in Decentraland](https://governance.decentraland.org/proposal/?id=ab50a400-b886-11ec-903a-6546e8793cef) (Tier 6)
 * [Mental Health Support in DCL](https://governance.decentraland.org/proposal/?id=af9ca2d0-b808-11ec-903a-6546e8793cef) (Tier 4)
-* [Mental Health Support in DCL](https://governance.decentraland.org/proposal/?id=2e70b430-b808-11ec-903a-6546e8793cef) (Tier 4)
-* [Hackathon for avatars/wearables in Decentraland Metaverse with Unity/Blender](https://governance.decentraland.org/proposal/?id=c8227a80-b5df-11ec-bdef-bfbc9f87a33b) (Tier 2)
 * [Co-living House in Hollywood Hills for Decentraland like AR House Model](https://governance.decentraland.org/proposal/?id=1a27e450-b5db-11ec-bdef-bfbc9f87a33b) (Tier 6)
-* [Thred - Metaverse Store Builder System for Decentraland](https://governance.decentraland.org/proposal/?id=c515c520-af9c-11ec-87a7-6d2a41508231) (Tier 6)
-* [Turning Physical Assets into Decentraland Assets](https://governance.decentraland.org/proposal/?id=2bd06780-af9c-11ec-87a7-6d2a41508231) (Tier 6)
-* [Art Wurkz Project](https://governance.decentraland.org/proposal/?id=ec2901d0-af8e-11ec-87a7-6d2a41508231) (Tier 4)
 
 ## Names Bans
 
@@ -133,6 +147,7 @@ Since April 1, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Should inactive committee members be removed after 1 month of inactivity?](https://governance.decentraland.org/proposal/?id=0f9f1bd0-bb0c-11ec-8561-b591bf2cf0d0)
 * [Should the DAO Committee be compensated?](https://governance.decentraland.org/proposal/?id=3c9e7730-b9da-11ec-903a-6546e8793cef)
 * [Would you support a proposal to allow fractional MANA sales in the secondary market?](https://governance.decentraland.org/proposal/?id=e5662680-b997-11ec-903a-6546e8793cef)
 
