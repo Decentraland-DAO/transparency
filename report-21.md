@@ -9,13 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 9 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 10 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 
 ## Points of Interest
-9 points of interest have been added to Decentraland’s map since the last report.
+10 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 61, -149: [Metaverse.maff.io](https://governance.decentraland.org/proposal/?id=67b4ab20-b682-11ec-903a-6546e8793cef)
+
+* Yes 100% 564,350 VP (20 votes)
+* No 0% 0 VP (0 votes)
 
 
 #### -101, 135: [No Name](https://governance.decentraland.org/proposal/?id=d2e5d540-b533-11ec-980f-b711610def4a)
@@ -117,13 +123,13 @@ Since April 1, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
+* 150, 150: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=3a5c90c0-bc3b-11ec-86b8-5dac6b550fc4)
 * 100, 99: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=57a20580-bb95-11ec-8561-b591bf2cf0d0)
 * -23, 68: [Decentramine](https://governance.decentraland.org/proposal/?id=ad87f6d0-ba7d-11ec-8561-b591bf2cf0d0)
 * -20, -126: [bay ridge](https://governance.decentraland.org/proposal/?id=454e71b0-ba33-11ec-8561-b591bf2cf0d0)
 * -20, -126: [bay ridge](https://governance.decentraland.org/proposal/?id=2d15bc80-b9d3-11ec-903a-6546e8793cef)
 * -42, -102: [Oasis Gallery](https://governance.decentraland.org/proposal/?id=568db9a0-b9c4-11ec-903a-6546e8793cef)
 * -86, -74: [Calligraphy Gallery ](https://governance.decentraland.org/proposal/?id=38c29400-b9c3-11ec-903a-6546e8793cef)
-* 61, -149: [Metaverse.maff.io](https://governance.decentraland.org/proposal/?id=67b4ab20-b682-11ec-903a-6546e8793cef)
 
 ## Grants
 
@@ -139,6 +145,7 @@ Since April 1, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Names Bans
 
+* [Ban the name myname](https://governance.decentraland.org/proposal/?id=62b1ac90-bc8b-11ec-86b8-5dac6b550fc4)
 * [Ban the name aaaa](https://governance.decentraland.org/proposal/?id=0be9b3d0-ba2e-11ec-8561-b591bf2cf0d0)
 * [Ban the name Putin](https://governance.decentraland.org/proposal/?id=6d23c110-b810-11ec-903a-6546e8793cef)
 

@@ -1,21 +1,76 @@
 Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
-0x462b6cAa6530139756C415b12355E77B886D8dB0,Qmbh7GNH6Q8hxXX7nPN9JoXTQx93vWhzpDKhEKnVWJeLaq,2022-04-14T09:19:36.000Z,"Add the location 100,99 to the Points of Interest",2,no,276.8197951519138,57
-0x462b6cAa6530139756C415b12355E77B886D8dB0,QmSr1S2SWUEWeBSrk5hnPhe99uH13T4LVq9AdyKRMsYojq,2022-04-14T09:19:17.000Z,Add CFO's AKA Creative Freedom Officer's to the Linked Wearables Registry,2,no,271.9447951519138,1
-0x462b6cAa6530139756C415b12355E77B886D8dB0,QmPGMLNBms6bs2o2HttGGCGWm5VJdzhY66MwuSswwvFvkS,2022-04-14T09:17:43.000Z,Add z1nkx to the Linked Wearables Registry,2,no,276.8197951519138,64
+0x8C2e843664Be468522769b0d1B3B604A17962249,QmSHxYE1dLKTPchcMsrr7tp27zuudHSMMcn35KrrBsQPZq,2022-04-15T03:35:00.000Z,"Add the location 150,150 to the Points of Interest",2,no,30.631808693457074,29
+0xAb05Fe7F1DeE4CDB5640d79fe847EF80204451f1,QmfTRPTyQ43iSwJWptX7xUpKdsmuRDV9BYynbp2wfwFjyD,2022-04-15T00:53:00.000Z,"Add the location -86,-74 to the Points of Interest",1,yes,7804.599165657062,0
+0xAb05Fe7F1DeE4CDB5640d79fe847EF80204451f1,QmaQpuDhByZVcABwUwdRfEjgA9dVDWjqq99nsZaBv338g4,2022-04-15T00:52:28.000Z,"Add the location -42,-102 to the Points of Interest",1,yes,7804.599165657062,0
+0xAb05Fe7F1DeE4CDB5640d79fe847EF80204451f1,QmcRpRcQdvZLfiUFaD21FCGRQ5dturHjnoMJyzRPUjVyWy,2022-04-15T00:50:11.000Z,"Add the location -20,-126 to the Points of Interest",1,yes,7804.599165657062,6
+0xAb05Fe7F1DeE4CDB5640d79fe847EF80204451f1,QmXHciyXoZDTJTBqCbDsVccJkVacgPV5WKQHTvjdbvAcME,2022-04-15T00:42:01.000Z,Should the DAO Committee be compensated?,1,Compensate members of the DAO Committee ,7804.599165657062,0
+0xAb05Fe7F1DeE4CDB5640d79fe847EF80204451f1,QmenhshxkHmDfdwTkgc358aAaMnkAJacrNxEwNhq4MaV2n,2022-04-15T00:40:15.000Z,Should inactive committee members be removed after 1 month of inactivity?,2,Change how the committee work on collection changes,7804.599165657062,40
+0xAb05Fe7F1DeE4CDB5640d79fe847EF80204451f1,QmbsXTvvN4kxmut92PGVfKj8iSE14Q7TuFgyyT3eoJn3J7,2022-04-15T00:38:04.000Z,Linked Wearables Project,1,yes,7961.29878615445,0
+0x7d1192A1Dfe3fC5614d895537DE3D49cbf0FC923,Qmd4gxSYaEtqzp3k7EvvxGy432HZeuWytAixkSUNMTEcFR,2022-04-15T00:11:49.000Z,Add Kollectiff to the Linked Wearables Registry,1,yes,292476.3662956621,6
+0x22C402D624F9A4c6D706ed1B030DbaCfe31eEF69,QmPGMLNBms6bs2o2HttGGCGWm5VJdzhY66MwuSswwvFvkS,2022-04-14T23:35:14.000Z,Add z1nkx to the Linked Wearables Registry,1,yes,68.72684311529412,0
+0x22C402D624F9A4c6D706ed1B030DbaCfe31eEF69,Qmbh7GNH6Q8hxXX7nPN9JoXTQx93vWhzpDKhEKnVWJeLaq,2022-04-14T23:34:45.000Z,"Add the location 100,99 to the Points of Interest",2,no,68.72684311529412,0
+0x22C402D624F9A4c6D706ed1B030DbaCfe31eEF69,QmSHxYE1dLKTPchcMsrr7tp27zuudHSMMcn35KrrBsQPZq,2022-04-14T23:34:29.000Z,"Add the location 150,150 to the Points of Interest",2,no,68.72684311529412,66
+0x247e0896706BB09245549E476257A0A1129db418,QmcRpRcQdvZLfiUFaD21FCGRQ5dturHjnoMJyzRPUjVyWy,2022-04-14T23:22:42.000Z,"Add the location -20,-126 to the Points of Interest",1,yes,100,0
+0x247e0896706BB09245549E476257A0A1129db418,QmenhshxkHmDfdwTkgc358aAaMnkAJacrNxEwNhq4MaV2n,2022-04-14T23:21:19.000Z,Should inactive committee members be removed after 1 month of inactivity?,1,Remove after 1 month of inactivity,2100,11
+0x52f8d5518a05366989B3BaAd9c8E1129cA317Fc7,QmVAbtrbuRrsusz7k8wB4zuDUvjqyphdZap3mfHHxxsutn,2022-04-14T23:14:41.000Z,Add Satoshiverse to the Linked Wearables Registry,1,yes,305.01202845621924,0
+0x52f8d5518a05366989B3BaAd9c8E1129cA317Fc7,QmSr1S2SWUEWeBSrk5hnPhe99uH13T4LVq9AdyKRMsYojq,2022-04-14T23:13:59.000Z,Add CFO's AKA Creative Freedom Officer's to the Linked Wearables Registry,1,yes,305.01202845621924,0
+0x52f8d5518a05366989B3BaAd9c8E1129cA317Fc7,QmPGMLNBms6bs2o2HttGGCGWm5VJdzhY66MwuSswwvFvkS,2022-04-14T23:13:49.000Z,Add z1nkx to the Linked Wearables Registry,1,yes,305.01202845621924,0
+0x52f8d5518a05366989B3BaAd9c8E1129cA317Fc7,QmenhshxkHmDfdwTkgc358aAaMnkAJacrNxEwNhq4MaV2n,2022-04-14T23:13:15.000Z,Should inactive committee members be removed after 1 month of inactivity?,2,Change how the committee work on collection changes,305.01202845621924,1
+0x8DD060AD7f867ad890490fd87657c1b7e63C622f,Qmd4gxSYaEtqzp3k7EvvxGy432HZeuWytAixkSUNMTEcFR,2022-04-14T23:11:10.000Z,Add Kollectiff to the Linked Wearables Registry,1,yes,36342,0
+0x8DD060AD7f867ad890490fd87657c1b7e63C622f,QmVAbtrbuRrsusz7k8wB4zuDUvjqyphdZap3mfHHxxsutn,2022-04-14T23:10:53.000Z,Add Satoshiverse to the Linked Wearables Registry,1,yes,36342,0
+0x338AD1918362025F34b3701DaC1E9648E8e8268f,QmVAbtrbuRrsusz7k8wB4zuDUvjqyphdZap3mfHHxxsutn,2022-04-14T23:05:21.000Z,Add Satoshiverse to the Linked Wearables Registry,1,yes,310535.7818885738,8
+0x216f23a92670893FA47ddE34e1Fa60FB011c79E4,QmVAbtrbuRrsusz7k8wB4zuDUvjqyphdZap3mfHHxxsutn,2022-04-14T23:03:54.000Z,Add Satoshiverse to the Linked Wearables Registry,1,yes,3000.0375018664386,0
+0xd210DC1dd26751503CbF1B8c9154224707820da8,Qmd4gxSYaEtqzp3k7EvvxGy432HZeuWytAixkSUNMTEcFR,2022-04-14T23:03:36.000Z,Add Kollectiff to the Linked Wearables Registry,1,yes,907.0711614269325,0
+0xBC02db030361121DD43bBb2FcbCB4F9f98c1Dc7d,QmVAbtrbuRrsusz7k8wB4zuDUvjqyphdZap3mfHHxxsutn,2022-04-14T23:03:30.000Z,Add Satoshiverse to the Linked Wearables Registry,1,yes,75701,1
+0x216f23a92670893FA47ddE34e1Fa60FB011c79E4,Qmd4gxSYaEtqzp3k7EvvxGy432HZeuWytAixkSUNMTEcFR,2022-04-14T22:59:44.000Z,Add Kollectiff to the Linked Wearables Registry,1,yes,3000.0375018664386,0
+0xBC02db030361121DD43bBb2FcbCB4F9f98c1Dc7d,Qmd4gxSYaEtqzp3k7EvvxGy432HZeuWytAixkSUNMTEcFR,2022-04-14T22:59:19.000Z,Add Kollectiff to the Linked Wearables Registry,1,yes,75601,1
+0x76fb13f00CdbdD5eAC8E2664CF14be791aF87cb0,Qmd4gxSYaEtqzp3k7EvvxGy432HZeuWytAixkSUNMTEcFR,2022-04-14T22:27:08.000Z,Add Kollectiff to the Linked Wearables Registry,1,yes,143909,3
+0x76fb13f00CdbdD5eAC8E2664CF14be791aF87cb0,QmXHciyXoZDTJTBqCbDsVccJkVacgPV5WKQHTvjdbvAcME,2022-04-14T22:22:59.000Z,Should the DAO Committee be compensated?,1,Compensate members of the DAO Committee ,131909,13
+0x3498857Bb3e1CC8A3c9b582DC726F47A9625242B,QmVAbtrbuRrsusz7k8wB4zuDUvjqyphdZap3mfHHxxsutn,2022-04-14T21:35:42.000Z,Add Satoshiverse to the Linked Wearables Registry,1,yes,536.6556484292371,0
+0x0E041f485F4c51d8593fEab600bCe3f4C4b50ab9,Qmbh7GNH6Q8hxXX7nPN9JoXTQx93vWhzpDKhEKnVWJeLaq,2022-04-14T21:32:08.000Z,"Add the location 100,99 to the Points of Interest",1,yes,100,0
+0x04B8553Bac8E75Cf75D5F4b2046feb063eb68038,QmYhjneVzahGEngXifx1RQAvtR26k99s7tVX48CeAEE433,2022-04-14T21:12:38.000Z,"Add the location -23,68 to the Points of Interest",1,yes,6300,7
+0x511a22cDd2c4eE8357bB02df2578037Ffe8a4d8d,Qmd4gxSYaEtqzp3k7EvvxGy432HZeuWytAixkSUNMTEcFR,2022-04-14T20:08:54.000Z,Add Kollectiff to the Linked Wearables Registry,1,yes,120.78685299427791,0
+0x4959F54F7B30224047ac3caE6bf147BbAee8b61C,QmYpV9ds1zyiYyKe8BQjdV6BUffbL69MPC7wTvf5EWtU7N,2022-04-14T18:18:41.000Z,Glenrose Rehabilitation Hospital Foundation initiative in Decentraland,1,yes,420100,18
+0xAaE2B1a243827AE93c59A0738fCE17ce02f78F28,QmYpV9ds1zyiYyKe8BQjdV6BUffbL69MPC7wTvf5EWtU7N,2022-04-14T18:17:38.000Z,Glenrose Rehabilitation Hospital Foundation initiative in Decentraland,1,yes,44100,1
+0x63F587Fc66d140368bE6F808785937d63b8E6Fc4,QmYpV9ds1zyiYyKe8BQjdV6BUffbL69MPC7wTvf5EWtU7N,2022-04-14T18:16:59.000Z,Glenrose Rehabilitation Hospital Foundation initiative in Decentraland,1,yes,7552,0
+0xFE2d424AF0Df49Bb3316cB2E9f574b0D09cf98Ad,QmYpV9ds1zyiYyKe8BQjdV6BUffbL69MPC7wTvf5EWtU7N,2022-04-14T18:05:59.000Z,Glenrose Rehabilitation Hospital Foundation initiative in Decentraland,1,yes,2519.55,0
+0x29519122d08771Ca4c83C8E3Fa981Df18721f76D,QmXHciyXoZDTJTBqCbDsVccJkVacgPV5WKQHTvjdbvAcME,2022-04-14T17:41:02.000Z,Should the DAO Committee be compensated?,1,Compensate members of the DAO Committee ,2215.675,0
+0x29519122d08771Ca4c83C8E3Fa981Df18721f76D,QmenhshxkHmDfdwTkgc358aAaMnkAJacrNxEwNhq4MaV2n,2022-04-14T17:39:37.000Z,Should inactive committee members be removed after 1 month of inactivity?,3,Invalid question/options,5071.091265280965,26
+0x29519122d08771Ca4c83C8E3Fa981Df18721f76D,Qmbh7GNH6Q8hxXX7nPN9JoXTQx93vWhzpDKhEKnVWJeLaq,2022-04-14T17:38:59.000Z,"Add the location 100,99 to the Points of Interest",2,no,5071.091265280965,3
+0x29519122d08771Ca4c83C8E3Fa981Df18721f76D,QmYpV9ds1zyiYyKe8BQjdV6BUffbL69MPC7wTvf5EWtU7N,2022-04-14T17:37:57.000Z,Glenrose Rehabilitation Hospital Foundation initiative in Decentraland,1,yes,5070.916265280965,0
+0xF179344bBec75aD4522Bd6b2c780b2E13b3469a2,QmVXkCZ38M59FcTPPpUG4BT5pmfbRYHWv1vL7PzxGLjfmv,2022-04-14T17:34:42.000Z,Bwindi Club,2,no,48004.5,13
+0x66b1488a32E21f2d2757713D16facd9d25Ec977c,Qmbh7GNH6Q8hxXX7nPN9JoXTQx93vWhzpDKhEKnVWJeLaq,2022-04-14T17:16:34.000Z,"Add the location 100,99 to the Points of Interest",2,no,2422.1316148,1
+0x4F0244341f7B8FFBbDbf7a5efa5Ba183e929Db72,QmRTYuf3zkaHGfSJtWo7TEfanMDYBndfBLFMyjRgYFERNj,2022-04-14T16:30:05.000Z,"Genesis Plaza Tours, Interactive Lessons, and Community Engagement",1,yes,568.2513170805834,0
+0xa76DD4c653009c756793CA12219b6A6dFe8dA62f,Qmd4gxSYaEtqzp3k7EvvxGy432HZeuWytAixkSUNMTEcFR,2022-04-14T15:42:30.000Z,Add Kollectiff to the Linked Wearables Registry,1,yes,150000,3
+0x3fB38CEe8d0BA7Dcf59403a8C397626dC9c7A13B,QmcF7qBX57TCKGkLmXMdjKcZCivcnbc1KD29wdV6DLuyXZ,2022-04-14T15:08:46.000Z,"Add the location -20,-126 to the Points of Interest",2,no,128937.01339082634,77
+0x3fB38CEe8d0BA7Dcf59403a8C397626dC9c7A13B,QmfNaEg3FGvDcQMFhocd74LKyCUTAXeWWh32uMwDrshyEQ,2022-04-14T15:07:41.000Z,Ban the name aaaa,2,no,128937.01339082634,53
+0x3fB38CEe8d0BA7Dcf59403a8C397626dC9c7A13B,QmVXkCZ38M59FcTPPpUG4BT5pmfbRYHWv1vL7PzxGLjfmv,2022-04-14T15:06:57.000Z,Bwindi Club,2,no,128937.01339082634,36
+0x3fB38CEe8d0BA7Dcf59403a8C397626dC9c7A13B,QmVAbtrbuRrsusz7k8wB4zuDUvjqyphdZap3mfHHxxsutn,2022-04-14T15:05:45.000Z,Add Satoshiverse to the Linked Wearables Registry,1,yes,128937.01339082634,3
+0x3fB38CEe8d0BA7Dcf59403a8C397626dC9c7A13B,QmSr1S2SWUEWeBSrk5hnPhe99uH13T4LVq9AdyKRMsYojq,2022-04-14T15:05:18.000Z,Add CFO's AKA Creative Freedom Officer's to the Linked Wearables Registry,2,no,128937.01339082634,89
+0x3fB38CEe8d0BA7Dcf59403a8C397626dC9c7A13B,QmPGMLNBms6bs2o2HttGGCGWm5VJdzhY66MwuSswwvFvkS,2022-04-14T15:01:11.000Z,Add z1nkx to the Linked Wearables Registry,2,no,128937.01339082634,99
+0x3fB38CEe8d0BA7Dcf59403a8C397626dC9c7A13B,Qmbh7GNH6Q8hxXX7nPN9JoXTQx93vWhzpDKhEKnVWJeLaq,2022-04-14T15:00:20.000Z,"Add the location 100,99 to the Points of Interest",2,no,128937.01339082634,94
+0xF081eDa01d8D3b10F6F93fF1459339b9eD174D3C,QmbsXTvvN4kxmut92PGVfKj8iSE14Q7TuFgyyT3eoJn3J7,2022-04-14T14:30:32.000Z,Linked Wearables Project,1,yes,1598106.0066812383,20
+0xF081eDa01d8D3b10F6F93fF1459339b9eD174D3C,QmVAbtrbuRrsusz7k8wB4zuDUvjqyphdZap3mfHHxxsutn,2022-04-14T14:27:20.000Z,Add Satoshiverse to the Linked Wearables Registry,1,yes,1598106.0066812383,42
+0x82B16206E6d54ec145835720e13C43ECDb57B814,QmRTYuf3zkaHGfSJtWo7TEfanMDYBndfBLFMyjRgYFERNj,2022-04-14T13:13:59.000Z,"Genesis Plaza Tours, Interactive Lessons, and Community Engagement",1,yes,5572.618687945429,0
+0x021cD6E21865C919164D76E310B1352252b8c6Ad,QmRTYuf3zkaHGfSJtWo7TEfanMDYBndfBLFMyjRgYFERNj,2022-04-14T13:13:12.000Z,"Genesis Plaza Tours, Interactive Lessons, and Community Engagement",1,yes,5382.347316802307,0
+0x5E09edEDa5Da13ab433209Af20616a8EBf9E285d,QmPGMLNBms6bs2o2HttGGCGWm5VJdzhY66MwuSswwvFvkS,2022-04-14T12:09:19.000Z,Add z1nkx to the Linked Wearables Registry,1,yes,188,0
+0x462b6cAa6530139756C415b12355E77B886D8dB0,Qmbh7GNH6Q8hxXX7nPN9JoXTQx93vWhzpDKhEKnVWJeLaq,2022-04-14T09:19:36.000Z,"Add the location 100,99 to the Points of Interest",2,no,276.8197951519138,0
+0x462b6cAa6530139756C415b12355E77B886D8dB0,QmSr1S2SWUEWeBSrk5hnPhe99uH13T4LVq9AdyKRMsYojq,2022-04-14T09:19:17.000Z,Add CFO's AKA Creative Freedom Officer's to the Linked Wearables Registry,2,no,271.9447951519138,0
+0x462b6cAa6530139756C415b12355E77B886D8dB0,QmPGMLNBms6bs2o2HttGGCGWm5VJdzhY66MwuSswwvFvkS,2022-04-14T09:17:43.000Z,Add z1nkx to the Linked Wearables Registry,2,no,276.8197951519138,0
 0x462b6cAa6530139756C415b12355E77B886D8dB0,QmVAbtrbuRrsusz7k8wB4zuDUvjqyphdZap3mfHHxxsutn,2022-04-14T09:15:13.000Z,Add Satoshiverse to the Linked Wearables Registry,1,yes,271.9447951519138,0
-0x462b6cAa6530139756C415b12355E77B886D8dB0,QmenhshxkHmDfdwTkgc358aAaMnkAJacrNxEwNhq4MaV2n,2022-04-14T09:14:12.000Z,Should inactive committee members be removed after 1 month of inactivity?,2,Change how the committee work on collection changes,271.9447951519138,7
+0x462b6cAa6530139756C415b12355E77B886D8dB0,QmenhshxkHmDfdwTkgc358aAaMnkAJacrNxEwNhq4MaV2n,2022-04-14T09:14:12.000Z,Should inactive committee members be removed after 1 month of inactivity?,2,Change how the committee work on collection changes,271.9447951519138,1
 0x515bEE382EA1043B699863C06f319A8267D58431,QmVAbtrbuRrsusz7k8wB4zuDUvjqyphdZap3mfHHxxsutn,2022-04-14T05:38:25.000Z,Add Satoshiverse to the Linked Wearables Registry,1,yes,186.26455794180606,0
-0x9DAb43Bc15BD29Cfe3030cA1b7EDb3EEb9f3b6c1,QmYhjneVzahGEngXifx1RQAvtR26k99s7tVX48CeAEE433,2022-04-14T05:24:48.000Z,"Add the location -23,68 to the Points of Interest",2,no,73119.73872747085,97
+0x9DAb43Bc15BD29Cfe3030cA1b7EDb3EEb9f3b6c1,QmYhjneVzahGEngXifx1RQAvtR26k99s7tVX48CeAEE433,2022-04-14T05:24:48.000Z,"Add the location -23,68 to the Points of Interest",2,no,73119.73872747085,89
 0x4FACc7Af7206568e75373dD121eacBB79Bce48C2,QmcCaUkmadYKkgzbKtCijNxN9hQuMtKUxMdP2fpEonr1bE,2022-04-14T05:17:08.000Z,"Add the location 61,-149 to the Points of Interest",1,yes,409.63753283,0
 0x9DAb43Bc15BD29Cfe3030cA1b7EDb3EEb9f3b6c1,QmcCaUkmadYKkgzbKtCijNxN9hQuMtKUxMdP2fpEonr1bE,2022-04-14T05:00:03.000Z,"Add the location 61,-149 to the Points of Interest",1,yes,73055.14923173838,12
-0x9DAb43Bc15BD29Cfe3030cA1b7EDb3EEb9f3b6c1,QmVXkCZ38M59FcTPPpUG4BT5pmfbRYHWv1vL7PzxGLjfmv,2022-04-14T04:43:17.000Z,Bwindi Club,2,no,73119.73872747085,40
+0x9DAb43Bc15BD29Cfe3030cA1b7EDb3EEb9f3b6c1,QmVXkCZ38M59FcTPPpUG4BT5pmfbRYHWv1vL7PzxGLjfmv,2022-04-14T04:43:17.000Z,Bwindi Club,2,no,73119.73872747085,20
 0x9DAb43Bc15BD29Cfe3030cA1b7EDb3EEb9f3b6c1,QmNiBwn4XUpH2yfwZKs6Ky3DB1mfdm5wB4aU4zXRog1M7q,2022-04-14T04:39:26.000Z,Decentraland Co-living House and Incubator in Hollywood Hills,2,no,41518.34229288539,13
 0x9DAb43Bc15BD29Cfe3030cA1b7EDb3EEb9f3b6c1,QmRz3bjPQ39z8RZQuHpc8BKxFS3akNhgLw7y2zgGHoGjC9,2022-04-14T04:33:56.000Z,DCL POI Hub,1,yes,73119.73872747085,1
-0xA75fee88E663BcD2f8Ebd8203877CB963D9D37dB,QmPGMLNBms6bs2o2HttGGCGWm5VJdzhY66MwuSswwvFvkS,2022-04-14T04:09:57.000Z,Add z1nkx to the Linked Wearables Registry,1,yes,151.91940355796172,35
+0xA75fee88E663BcD2f8Ebd8203877CB963D9D37dB,QmPGMLNBms6bs2o2HttGGCGWm5VJdzhY66MwuSswwvFvkS,2022-04-14T04:09:57.000Z,Add z1nkx to the Linked Wearables Registry,1,yes,151.91940355796172,0
 0x284b999D7dE8026873dbF537B8e37D0f18f6bcc0,QmVAbtrbuRrsusz7k8wB4zuDUvjqyphdZap3mfHHxxsutn,2022-04-14T03:59:47.000Z,Add Satoshiverse to the Linked Wearables Registry,1,yes,200,0
 0x59C6bdd416ec14af867e8307882a4b91d6f89C2F,QmVXkCZ38M59FcTPPpUG4BT5pmfbRYHWv1vL7PzxGLjfmv,2022-04-14T03:32:05.000Z,Bwindi Club,2,no,32.05097797395632,0
 0x196bB73DaBC6465F7f8cd8D26C5C7383a395694e,QmVAbtrbuRrsusz7k8wB4zuDUvjqyphdZap3mfHHxxsutn,2022-04-14T02:47:43.000Z,Add Satoshiverse to the Linked Wearables Registry,1,yes,53.13171254063745,0
-0xA5c8A62F221aDeaf8A7c0BEF60044861D9C4b400,Qmbh7GNH6Q8hxXX7nPN9JoXTQx93vWhzpDKhEKnVWJeLaq,2022-04-14T02:29:38.000Z,"Add the location 100,99 to the Points of Interest",2,no,200,41
+0xA5c8A62F221aDeaf8A7c0BEF60044861D9C4b400,Qmbh7GNH6Q8hxXX7nPN9JoXTQx93vWhzpDKhEKnVWJeLaq,2022-04-14T02:29:38.000Z,"Add the location 100,99 to the Points of Interest",2,no,200,0
 0x336685bb3A96E13B77E909d7C52e8AfCfF1E859E,Qmd4gxSYaEtqzp3k7EvvxGy432HZeuWytAixkSUNMTEcFR,2022-04-14T01:48:18.000Z,Add Kollectiff to the Linked Wearables Registry,1,yes,1186.1350186421316,0
 0x11078130217bc2bAA9628837e945276e55cbDD86,QmYpV9ds1zyiYyKe8BQjdV6BUffbL69MPC7wTvf5EWtU7N,2022-04-14T00:44:17.000Z,Glenrose Rehabilitation Hospital Foundation initiative in Decentraland,1,yes,32.51876951938711,0
 0x11078130217bc2bAA9628837e945276e55cbDD86,QmRTYuf3zkaHGfSJtWo7TEfanMDYBndfBLFMyjRgYFERNj,2022-04-14T00:38:11.000Z,"Genesis Plaza Tours, Interactive Lessons, and Community Engagement",1,yes,32.51876951938711,0
@@ -23,28 +78,28 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0xFec33A90737254DCf9Aa33188a11f32797197F93,QmVAbtrbuRrsusz7k8wB4zuDUvjqyphdZap3mfHHxxsutn,2022-04-13T23:19:09.000Z,Add Satoshiverse to the Linked Wearables Registry,1,yes,15066.761870843045,0
 0x7AaAaE8cd46aB71E1e5084d55d9C6b3ea4D970a0,QmbsXTvvN4kxmut92PGVfKj8iSE14Q7TuFgyyT3eoJn3J7,2022-04-13T22:11:22.000Z,Linked Wearables Project,1,yes,7434.020501184932,0
 0xc521bC8690895A7514bD7a72a4855f03FD50Cb60,QmQrWXAFQbGLkDNjvd9BC3MBBknurV96TTYTHNKGEaE8y4,2022-04-13T20:28:12.000Z,"Add Waifumon, MetaKuza and CastleCrew NFT owners to have linked Wearbles in DCL! to the Linked Wearables Registry",2,no,14118.27418149295,0
-0xc521bC8690895A7514bD7a72a4855f03FD50Cb60,QmSr1S2SWUEWeBSrk5hnPhe99uH13T4LVq9AdyKRMsYojq,2022-04-13T20:27:50.000Z,Add CFO's AKA Creative Freedom Officer's to the Linked Wearables Registry,2,no,14118.27418149295,98
+0xc521bC8690895A7514bD7a72a4855f03FD50Cb60,QmSr1S2SWUEWeBSrk5hnPhe99uH13T4LVq9AdyKRMsYojq,2022-04-13T20:27:50.000Z,Add CFO's AKA Creative Freedom Officer's to the Linked Wearables Registry,2,no,14118.27418149295,9
 0xc521bC8690895A7514bD7a72a4855f03FD50Cb60,QmT93TzfM4kSMP4Smy3SQoYnNjYXxytiaAYunKrfZpbxRj,2022-04-13T20:27:01.000Z,Add GUNKDUMP to the Linked Wearables Registry,2,no,14118.27418149295,0
-0xF081eDa01d8D3b10F6F93fF1459339b9eD174D3C,Qmd4gxSYaEtqzp3k7EvvxGy432HZeuWytAixkSUNMTEcFR,2022-04-13T20:22:04.000Z,Add Kollectiff to the Linked Wearables Registry,1,yes,1598106.0066812383,45
+0xF081eDa01d8D3b10F6F93fF1459339b9eD174D3C,Qmd4gxSYaEtqzp3k7EvvxGy432HZeuWytAixkSUNMTEcFR,2022-04-13T20:22:04.000Z,Add Kollectiff to the Linked Wearables Registry,1,yes,1598106.0066812383,37
 0xc521bC8690895A7514bD7a72a4855f03FD50Cb60,Qmc8N1i7r9vvpmAfbNXvc74HZ76EJVTwGjvxEFTMpYGDBb,2022-04-13T20:15:56.000Z,Ban the name Putin,2,no,14118.27418149295,2
-0xb0145Ae156D201d6E371d07265FE3C045071c967,QmbsXTvvN4kxmut92PGVfKj8iSE14Q7TuFgyyT3eoJn3J7,2022-04-13T20:14:26.000Z,Linked Wearables Project,2,no,446020.68,7
-0xb0145Ae156D201d6E371d07265FE3C045071c967,QmXHciyXoZDTJTBqCbDsVccJkVacgPV5WKQHTvjdbvAcME,2022-04-13T19:55:52.000Z,Should the DAO Committee be compensated?,1,Compensate members of the DAO Committee ,446020.68,55
+0xb0145Ae156D201d6E371d07265FE3C045071c967,QmbsXTvvN4kxmut92PGVfKj8iSE14Q7TuFgyyT3eoJn3J7,2022-04-13T20:14:26.000Z,Linked Wearables Project,2,no,446020.68,5
+0xb0145Ae156D201d6E371d07265FE3C045071c967,QmXHciyXoZDTJTBqCbDsVccJkVacgPV5WKQHTvjdbvAcME,2022-04-13T19:55:52.000Z,Should the DAO Committee be compensated?,1,Compensate members of the DAO Committee ,446020.68,46
 0x5cC9eF21908821b48394818b61f863Ec22325f33,Qmd4gxSYaEtqzp3k7EvvxGy432HZeuWytAixkSUNMTEcFR,2022-04-13T19:39:09.000Z,Add Kollectiff to the Linked Wearables Registry,1,yes,239.13707324,0
-0x598f8af1565003AE7456DaC280a18ee826Df7a2c,QmVAbtrbuRrsusz7k8wB4zuDUvjqyphdZap3mfHHxxsutn,2022-04-13T19:18:44.000Z,Add Satoshiverse to the Linked Wearables Registry,1,yes,89706.13611070656,5
+0x598f8af1565003AE7456DaC280a18ee826Df7a2c,QmVAbtrbuRrsusz7k8wB4zuDUvjqyphdZap3mfHHxxsutn,2022-04-13T19:18:44.000Z,Add Satoshiverse to the Linked Wearables Registry,1,yes,89706.13611070656,2
 0x86f5badc9fB2Db49303D69aD0358b467cFd393E0,QmVAbtrbuRrsusz7k8wB4zuDUvjqyphdZap3mfHHxxsutn,2022-04-13T19:15:38.000Z,Add Satoshiverse to the Linked Wearables Registry,1,yes,72.48700613705704,0
 0x1C3B20c12Decc473aC0E897a4C1625C71B655427,QmRz3bjPQ39z8RZQuHpc8BKxFS3akNhgLw7y2zgGHoGjC9,2022-04-13T18:40:15.000Z,DCL POI Hub,1,yes,107.7079760270766,0
 0xB02365Dc1A28D82cC454D05a765fEEe31ccC2B00,QmYpV9ds1zyiYyKe8BQjdV6BUffbL69MPC7wTvf5EWtU7N,2022-04-13T18:07:59.000Z,Glenrose Rehabilitation Hospital Foundation initiative in Decentraland,1,yes,49746.3,2
-0xA50bB024840a02fDaC7289Ab2f4aE58250ff2E75,QmenhshxkHmDfdwTkgc358aAaMnkAJacrNxEwNhq4MaV2n,2022-04-13T17:31:39.000Z,Should inactive committee members be removed after 1 month of inactivity?,2,Change how the committee work on collection changes,2713.45566408,71
+0xA50bB024840a02fDaC7289Ab2f4aE58250ff2E75,QmenhshxkHmDfdwTkgc358aAaMnkAJacrNxEwNhq4MaV2n,2022-04-13T17:31:39.000Z,Should inactive committee members be removed after 1 month of inactivity?,2,Change how the committee work on collection changes,2713.45566408,14
 0x247e0896706BB09245549E476257A0A1129db418,QmYpV9ds1zyiYyKe8BQjdV6BUffbL69MPC7wTvf5EWtU7N,2022-04-13T17:10:40.000Z,Glenrose Rehabilitation Hospital Foundation initiative in Decentraland,1,yes,100,0
 0xd210DC1dd26751503CbF1B8c9154224707820da8,QmVAbtrbuRrsusz7k8wB4zuDUvjqyphdZap3mfHHxxsutn,2022-04-13T17:07:28.000Z,Add Satoshiverse to the Linked Wearables Registry,1,yes,907.0711614269325,0
 0xa25c739AB2053eA8def1fb5f000404246c3c11cC,QmVAbtrbuRrsusz7k8wB4zuDUvjqyphdZap3mfHHxxsutn,2022-04-13T16:56:03.000Z,Add Satoshiverse to the Linked Wearables Registry,1,yes,36.98834533024661,0
-0xA87D168717538e86D71aC48BACcaeb84162DE602,Qmd4gxSYaEtqzp3k7EvvxGy432HZeuWytAixkSUNMTEcFR,2022-04-13T16:06:25.000Z,Add Kollectiff to the Linked Wearables Registry,1,yes,73567.17,2
-0xA87D168717538e86D71aC48BACcaeb84162DE602,QmVAbtrbuRrsusz7k8wB4zuDUvjqyphdZap3mfHHxxsutn,2022-04-13T16:05:11.000Z,Add Satoshiverse to the Linked Wearables Registry,1,yes,73567.17,4
+0xA87D168717538e86D71aC48BACcaeb84162DE602,Qmd4gxSYaEtqzp3k7EvvxGy432HZeuWytAixkSUNMTEcFR,2022-04-13T16:06:25.000Z,Add Kollectiff to the Linked Wearables Registry,1,yes,73567.17,1
+0xA87D168717538e86D71aC48BACcaeb84162DE602,QmVAbtrbuRrsusz7k8wB4zuDUvjqyphdZap3mfHHxxsutn,2022-04-13T16:05:11.000Z,Add Satoshiverse to the Linked Wearables Registry,1,yes,73567.17,1
 0x7D8391A9d2199B3aFA76e7824164503Bb2fCc4Bd,QmQrWXAFQbGLkDNjvd9BC3MBBknurV96TTYTHNKGEaE8y4,2022-04-13T15:49:23.000Z,"Add Waifumon, MetaKuza and CastleCrew NFT owners to have linked Wearbles in DCL! to the Linked Wearables Registry",1,yes,53790.94574672364,3
 0x805797Df0c0d7D70E14230b72E30171d730DA55e,QmVAbtrbuRrsusz7k8wB4zuDUvjqyphdZap3mfHHxxsutn,2022-04-13T15:35:49.000Z,Add Satoshiverse to the Linked Wearables Registry,1,yes,1076.6068800997064,0
-0xD11a019a70986Bd607CBC1c1f9Ae221C78581F49,QmVAbtrbuRrsusz7k8wB4zuDUvjqyphdZap3mfHHxxsutn,2022-04-13T15:35:44.000Z,Add Satoshiverse to the Linked Wearables Registry,1,yes,1413000.6591,85
+0xD11a019a70986Bd607CBC1c1f9Ae221C78581F49,QmVAbtrbuRrsusz7k8wB4zuDUvjqyphdZap3mfHHxxsutn,2022-04-13T15:35:44.000Z,Add Satoshiverse to the Linked Wearables Registry,1,yes,1413000.6591,37
 0x578398F7d41A672A517b051B4010CA541B13e6d2,QmVAbtrbuRrsusz7k8wB4zuDUvjqyphdZap3mfHHxxsutn,2022-04-13T15:33:51.000Z,Add Satoshiverse to the Linked Wearables Registry,1,yes,1600,0
-0x7D8391A9d2199B3aFA76e7824164503Bb2fCc4Bd,QmVAbtrbuRrsusz7k8wB4zuDUvjqyphdZap3mfHHxxsutn,2022-04-13T15:33:07.000Z,Add Satoshiverse to the Linked Wearables Registry,1,yes,53790.94574672364,3
+0x7D8391A9d2199B3aFA76e7824164503Bb2fCc4Bd,QmVAbtrbuRrsusz7k8wB4zuDUvjqyphdZap3mfHHxxsutn,2022-04-13T15:33:07.000Z,Add Satoshiverse to the Linked Wearables Registry,1,yes,53790.94574672364,1
 0xe2b6024873d218B2E83B462D3658D8D7C3f55a18,QmbsXTvvN4kxmut92PGVfKj8iSE14Q7TuFgyyT3eoJn3J7,2022-04-13T15:00:53.000Z,Linked Wearables Project,1,yes,49163.98727514581,0
 0x511a22cDd2c4eE8357bB02df2578037Ffe8a4d8d,QmbsXTvvN4kxmut92PGVfKj8iSE14Q7TuFgyyT3eoJn3J7,2022-04-13T15:00:25.000Z,Linked Wearables Project,1,yes,120.78685299427791,0
 0xe2b6024873d218B2E83B462D3658D8D7C3f55a18,QmNNKXGqxkrVMRR7iejsuBEwyWkuvMgpXetAzC2xy6LogP,2022-04-13T15:00:19.000Z,Add NTR1-META to the Linked Wearables Registry,1,yes,49163.98727514581,1
@@ -56,22 +111,22 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0xe987B4b113D6A93a218b457a33773A7db7C81af5,QmenhshxkHmDfdwTkgc358aAaMnkAJacrNxEwNhq4MaV2n,2022-04-13T14:47:37.000Z,Should inactive committee members be removed after 1 month of inactivity?,2,Change how the committee work on collection changes,11.34750485,0
 0x805797Df0c0d7D70E14230b72E30171d730DA55e,QmbsXTvvN4kxmut92PGVfKj8iSE14Q7TuFgyyT3eoJn3J7,2022-04-13T14:31:06.000Z,Linked Wearables Project,1,yes,4835.141324038526,0
 0xD11a019a70986Bd607CBC1c1f9Ae221C78581F49,QmQrWXAFQbGLkDNjvd9BC3MBBknurV96TTYTHNKGEaE8y4,2022-04-13T13:46:54.000Z,"Add Waifumon, MetaKuza and CastleCrew NFT owners to have linked Wearbles in DCL! to the Linked Wearables Registry",1,yes,1414000.6591,82
-0xD11a019a70986Bd607CBC1c1f9Ae221C78581F49,Qmd4gxSYaEtqzp3k7EvvxGy432HZeuWytAixkSUNMTEcFR,2022-04-13T13:43:45.000Z,Add Kollectiff to the Linked Wearables Registry,1,yes,1414000.6591,40
+0xD11a019a70986Bd607CBC1c1f9Ae221C78581F49,Qmd4gxSYaEtqzp3k7EvvxGy432HZeuWytAixkSUNMTEcFR,2022-04-13T13:43:45.000Z,Add Kollectiff to the Linked Wearables Registry,1,yes,1414000.6591,33
 0xD11a019a70986Bd607CBC1c1f9Ae221C78581F49,QmNNKXGqxkrVMRR7iejsuBEwyWkuvMgpXetAzC2xy6LogP,2022-04-13T13:41:42.000Z,Add NTR1-META to the Linked Wearables Registry,1,yes,1414000.6591,41
-0xD11a019a70986Bd607CBC1c1f9Ae221C78581F49,QmbsXTvvN4kxmut92PGVfKj8iSE14Q7TuFgyyT3eoJn3J7,2022-04-13T13:40:52.000Z,Linked Wearables Project,1,yes,1414000.6591,22
+0xD11a019a70986Bd607CBC1c1f9Ae221C78581F49,QmbsXTvvN4kxmut92PGVfKj8iSE14Q7TuFgyyT3eoJn3J7,2022-04-13T13:40:52.000Z,Linked Wearables Project,1,yes,1414000.6591,18
 0xFE2d424AF0Df49Bb3316cB2E9f574b0D09cf98Ad,QmRTYuf3zkaHGfSJtWo7TEfanMDYBndfBLFMyjRgYFERNj,2022-04-13T13:28:51.000Z,"Genesis Plaza Tours, Interactive Lessons, and Community Engagement",1,yes,2512.925,0
 0x0749d1AbB5CA9128432B612644c0eA1e9c6cc9aF,QmcF7qBX57TCKGkLmXMdjKcZCivcnbc1KD29wdV6DLuyXZ,2022-04-13T13:01:23.000Z,"Add the location -20,-126 to the Points of Interest",1,yes,301.20504137373814,0
 0x044ff5c8D9F9c97b489280cEc21C6E1D28e68657,QmVXkCZ38M59FcTPPpUG4BT5pmfbRYHWv1vL7PzxGLjfmv,2022-04-13T13:01:13.000Z,Bwindi Club,2,no,270.53267484737046,0
-0x0749d1AbB5CA9128432B612644c0eA1e9c6cc9aF,QmenhshxkHmDfdwTkgc358aAaMnkAJacrNxEwNhq4MaV2n,2022-04-13T12:58:43.000Z,Should inactive committee members be removed after 1 month of inactivity?,3,Invalid question/options,300.20504137373814,7
+0x0749d1AbB5CA9128432B612644c0eA1e9c6cc9aF,QmenhshxkHmDfdwTkgc358aAaMnkAJacrNxEwNhq4MaV2n,2022-04-13T12:58:43.000Z,Should inactive committee members be removed after 1 month of inactivity?,3,Invalid question/options,300.20504137373814,1
 0x044ff5c8D9F9c97b489280cEc21C6E1D28e68657,Qma2D2B3R5NcedJJ9xFXWsjSNwsKvHKJ14575CYRNegp42,2022-04-13T12:57:53.000Z,"Interactive mazes, encouraging engagement, and offering support, while earning.",2,no,285.53267484737046,0
 0x044ff5c8D9F9c97b489280cEc21C6E1D28e68657,QmRz3bjPQ39z8RZQuHpc8BKxFS3akNhgLw7y2zgGHoGjC9,2022-04-13T12:55:36.000Z,DCL POI Hub,1,yes,270.53267484737046,0
-0x044ff5c8D9F9c97b489280cEc21C6E1D28e68657,QmenhshxkHmDfdwTkgc358aAaMnkAJacrNxEwNhq4MaV2n,2022-04-13T12:54:13.000Z,Should inactive committee members be removed after 1 month of inactivity?,3,Invalid question/options,270.53267484737046,7
-0x895Be97bDb9F8a244c472B18EA96DeE39ddf8fe5,QmVXkCZ38M59FcTPPpUG4BT5pmfbRYHWv1vL7PzxGLjfmv,2022-04-13T12:52:23.000Z,Bwindi Club,2,no,106187.69209471183,59
+0x044ff5c8D9F9c97b489280cEc21C6E1D28e68657,QmenhshxkHmDfdwTkgc358aAaMnkAJacrNxEwNhq4MaV2n,2022-04-13T12:54:13.000Z,Should inactive committee members be removed after 1 month of inactivity?,3,Invalid question/options,270.53267484737046,1
+0x895Be97bDb9F8a244c472B18EA96DeE39ddf8fe5,QmVXkCZ38M59FcTPPpUG4BT5pmfbRYHWv1vL7PzxGLjfmv,2022-04-13T12:52:23.000Z,Bwindi Club,2,no,106187.69209471183,29
 0x044ff5c8D9F9c97b489280cEc21C6E1D28e68657,QmRTYuf3zkaHGfSJtWo7TEfanMDYBndfBLFMyjRgYFERNj,2022-04-13T12:52:21.000Z,"Genesis Plaza Tours, Interactive Lessons, and Community Engagement",1,yes,285.53267484737046,0
 0x044ff5c8D9F9c97b489280cEc21C6E1D28e68657,QmQrWXAFQbGLkDNjvd9BC3MBBknurV96TTYTHNKGEaE8y4,2022-04-13T12:50:45.000Z,"Add Waifumon, MetaKuza and CastleCrew NFT owners to have linked Wearbles in DCL! to the Linked Wearables Registry",1,yes,314.53267484737046,0
 0x28FC4D5ADC40fA57A324f4CFAaC465e24AE3EFbA,QmYpV9ds1zyiYyKe8BQjdV6BUffbL69MPC7wTvf5EWtU7N,2022-04-13T12:45:16.000Z,Glenrose Rehabilitation Hospital Foundation initiative in Decentraland,1,yes,69200,3
-0x0636211443e91468ee3657e1d7FaeDe7059c4843,QmYpV9ds1zyiYyKe8BQjdV6BUffbL69MPC7wTvf5EWtU7N,2022-04-13T12:42:49.000Z,Glenrose Rehabilitation Hospital Foundation initiative in Decentraland,1,yes,73840.59699714437,4
-0x85BD6874CE656b3ab058DF04d1b64f30b15d350d,QmenhshxkHmDfdwTkgc358aAaMnkAJacrNxEwNhq4MaV2n,2022-04-13T11:59:24.000Z,Should inactive committee members be removed after 1 month of inactivity?,2,Change how the committee work on collection changes,222.5758371294637,5
+0x0636211443e91468ee3657e1d7FaeDe7059c4843,QmYpV9ds1zyiYyKe8BQjdV6BUffbL69MPC7wTvf5EWtU7N,2022-04-13T12:42:49.000Z,Glenrose Rehabilitation Hospital Foundation initiative in Decentraland,1,yes,73840.59699714437,3
+0x85BD6874CE656b3ab058DF04d1b64f30b15d350d,QmenhshxkHmDfdwTkgc358aAaMnkAJacrNxEwNhq4MaV2n,2022-04-13T11:59:24.000Z,Should inactive committee members be removed after 1 month of inactivity?,2,Change how the committee work on collection changes,222.5758371294637,1
 0x6Cd7694d30c10bdAB1E644FC1964043a95cEEa5F,QmXHciyXoZDTJTBqCbDsVccJkVacgPV5WKQHTvjdbvAcME,2022-04-13T11:31:57.000Z,Should the DAO Committee be compensated?,1,Compensate members of the DAO Committee ,100,0
 0x8b104344F397aFC33Ee55C743a0FbD7d956201cD,QmRTYuf3zkaHGfSJtWo7TEfanMDYBndfBLFMyjRgYFERNj,2022-04-13T10:35:24.000Z,"Genesis Plaza Tours, Interactive Lessons, and Community Engagement",1,yes,3035.13020645,0
 0x8b104344F397aFC33Ee55C743a0FbD7d956201cD,QmXHciyXoZDTJTBqCbDsVccJkVacgPV5WKQHTvjdbvAcME,2022-04-13T10:34:55.000Z,Should the DAO Committee be compensated?,1,Compensate members of the DAO Committee ,3035.13020645,0
@@ -89,7 +144,7 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0xf3D1E270694aF5309995CC77ea2520bbCBb1f536,Qmc8N1i7r9vvpmAfbNXvc74HZ76EJVTwGjvxEFTMpYGDBb,2022-04-13T08:28:48.000Z,Ban the name Putin,2,no,32.604,0
 0xf3D1E270694aF5309995CC77ea2520bbCBb1f536,QmbsXTvvN4kxmut92PGVfKj8iSE14Q7TuFgyyT3eoJn3J7,2022-04-13T08:27:38.000Z,Linked Wearables Project,1,yes,32.604,0
 0xf3D1E270694aF5309995CC77ea2520bbCBb1f536,QmQrWXAFQbGLkDNjvd9BC3MBBknurV96TTYTHNKGEaE8y4,2022-04-13T08:24:04.000Z,"Add Waifumon, MetaKuza and CastleCrew NFT owners to have linked Wearbles in DCL! to the Linked Wearables Registry",1,yes,31.629,0
-0x6cAa802c6895ECD31601518C7f6B9eF6f9349238,QmYpV9ds1zyiYyKe8BQjdV6BUffbL69MPC7wTvf5EWtU7N,2022-04-13T08:15:18.000Z,Glenrose Rehabilitation Hospital Foundation initiative in Decentraland,2,no,103515.578528495,5
+0x6cAa802c6895ECD31601518C7f6B9eF6f9349238,QmYpV9ds1zyiYyKe8BQjdV6BUffbL69MPC7wTvf5EWtU7N,2022-04-13T08:15:18.000Z,Glenrose Rehabilitation Hospital Foundation initiative in Decentraland,2,no,103515.578528495,4
 0xC4fc1690394caF190c4B76f7b3afbDb69932C719,QmbsXTvvN4kxmut92PGVfKj8iSE14Q7TuFgyyT3eoJn3J7,2022-04-13T05:44:17.000Z,Linked Wearables Project,1,yes,1016.300597733398,0
 0xCF0e97A0Db5C3fc82Fc43b0594bb5B2e8936e32A,QmbsXTvvN4kxmut92PGVfKj8iSE14Q7TuFgyyT3eoJn3J7,2022-04-13T05:43:10.000Z,Linked Wearables Project,1,yes,8000,0
 0xB5F4ebcC5a90e58D953eE9e64e365C2468f31F51,QmYpV9ds1zyiYyKe8BQjdV6BUffbL69MPC7wTvf5EWtU7N,2022-04-13T04:18:23.000Z,Glenrose Rehabilitation Hospital Foundation initiative in Decentraland,1,yes,31312.54479200246,1
@@ -100,11 +155,11 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x1E099d334602CB20B4db7Ff9c5dde43c3Ad94cfC,QmbsXTvvN4kxmut92PGVfKj8iSE14Q7TuFgyyT3eoJn3J7,2022-04-13T02:38:00.000Z,Linked Wearables Project,1,yes,11100,0
 0x1E099d334602CB20B4db7Ff9c5dde43c3Ad94cfC,Qmd4gxSYaEtqzp3k7EvvxGy432HZeuWytAixkSUNMTEcFR,2022-04-13T02:35:36.000Z,Add Kollectiff to the Linked Wearables Registry,1,yes,11100,0
 0xc24Fe6f2bae027aeee47390be73D121f18F51bdB,QmVXkCZ38M59FcTPPpUG4BT5pmfbRYHWv1vL7PzxGLjfmv,2022-04-13T01:43:56.000Z,Bwindi Club,1,yes,10.068305621078924,0
-0xa77610fcb5288BC95849C64136dF159dd3eFe6ac,QmbsXTvvN4kxmut92PGVfKj8iSE14Q7TuFgyyT3eoJn3J7,2022-04-13T01:33:03.000Z,Linked Wearables Project,1,yes,3834000,61
+0xa77610fcb5288BC95849C64136dF159dd3eFe6ac,QmbsXTvvN4kxmut92PGVfKj8iSE14Q7TuFgyyT3eoJn3J7,2022-04-13T01:33:03.000Z,Linked Wearables Project,1,yes,3834000,48
 0xa77610fcb5288BC95849C64136dF159dd3eFe6ac,QmRz3bjPQ39z8RZQuHpc8BKxFS3akNhgLw7y2zgGHoGjC9,2022-04-13T00:31:43.000Z,DCL POI Hub,1,yes,3834000,98
 0x03bA161f99e0561adC546644640BA6d5602D86c8,QmfNaEg3FGvDcQMFhocd74LKyCUTAXeWWh32uMwDrshyEQ,2022-04-12T22:47:46.000Z,Ban the name aaaa,2,no,628.8815126118311,0
-0x9DAb43Bc15BD29Cfe3030cA1b7EDb3EEb9f3b6c1,QmfNaEg3FGvDcQMFhocd74LKyCUTAXeWWh32uMwDrshyEQ,2022-04-12T22:13:42.000Z,Ban the name aaaa,2,no,41618.93178861786,37
-0x9DAb43Bc15BD29Cfe3030cA1b7EDb3EEb9f3b6c1,QmYpV9ds1zyiYyKe8BQjdV6BUffbL69MPC7wTvf5EWtU7N,2022-04-12T22:00:15.000Z,Glenrose Rehabilitation Hospital Foundation initiative in Decentraland,1,yes,73119.73872747085,4
+0x9DAb43Bc15BD29Cfe3030cA1b7EDb3EEb9f3b6c1,QmfNaEg3FGvDcQMFhocd74LKyCUTAXeWWh32uMwDrshyEQ,2022-04-12T22:13:42.000Z,Ban the name aaaa,2,no,41618.93178861786,17
+0x9DAb43Bc15BD29Cfe3030cA1b7EDb3EEb9f3b6c1,QmYpV9ds1zyiYyKe8BQjdV6BUffbL69MPC7wTvf5EWtU7N,2022-04-12T22:00:15.000Z,Glenrose Rehabilitation Hospital Foundation initiative in Decentraland,1,yes,73119.73872747085,3
 0x0d772A7565c4480267083E793f9da5AA0373d168,Qmc8N1i7r9vvpmAfbNXvc74HZ76EJVTwGjvxEFTMpYGDBb,2022-04-12T21:25:21.000Z,Ban the name Putin,2,no,152440.66912112,29
 0x6D873a14A470dd969D7c76A2E088169AB2a1d7Ae,QmRTYuf3zkaHGfSJtWo7TEfanMDYBndfBLFMyjRgYFERNj,2022-04-12T21:02:21.000Z,"Genesis Plaza Tours, Interactive Lessons, and Community Engagement",1,yes,201.1884596422662,0
 0x59B7424977F32e89800fc37baE67A7d4d15F2646,QmYpV9ds1zyiYyKe8BQjdV6BUffbL69MPC7wTvf5EWtU7N,2022-04-12T20:42:57.000Z,Glenrose Rehabilitation Hospital Foundation initiative in Decentraland,1,yes,10092.428748642556,0
@@ -112,14 +167,14 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0xa65797de99c33bA9d028e535aB5F472653Bc462d,QmYpV9ds1zyiYyKe8BQjdV6BUffbL69MPC7wTvf5EWtU7N,2022-04-12T20:05:16.000Z,Glenrose Rehabilitation Hospital Foundation initiative in Decentraland,1,yes,2406.86231349,0
 0xbbD8Eb8E95a11E74c3f7f9C9FD62f34C8eaA2305,QmYpV9ds1zyiYyKe8BQjdV6BUffbL69MPC7wTvf5EWtU7N,2022-04-12T19:44:09.000Z,Glenrose Rehabilitation Hospital Foundation initiative in Decentraland,1,yes,2853.92424569,0
 0x09FA12d8bD5606ba68A27C4316Bf7408aF10e066,QmYpV9ds1zyiYyKe8BQjdV6BUffbL69MPC7wTvf5EWtU7N,2022-04-12T19:33:52.000Z,Glenrose Rehabilitation Hospital Foundation initiative in Decentraland,1,yes,22608.340211584553,1
-0xd5e9eF1CedAd0D135d543D286a2c190B16cBb89E,QmYpV9ds1zyiYyKe8BQjdV6BUffbL69MPC7wTvf5EWtU7N,2022-04-12T19:05:11.000Z,Glenrose Rehabilitation Hospital Foundation initiative in Decentraland,1,yes,175400.50626937218,9
+0xd5e9eF1CedAd0D135d543D286a2c190B16cBb89E,QmYpV9ds1zyiYyKe8BQjdV6BUffbL69MPC7wTvf5EWtU7N,2022-04-12T19:05:11.000Z,Glenrose Rehabilitation Hospital Foundation initiative in Decentraland,1,yes,175400.50626937218,7
 0x511a22cDd2c4eE8357bB02df2578037Ffe8a4d8d,QmXHciyXoZDTJTBqCbDsVccJkVacgPV5WKQHTvjdbvAcME,2022-04-12T19:05:09.000Z,Should the DAO Committee be compensated?,1,Compensate members of the DAO Committee ,120.78685299427791,0
 0x895Be97bDb9F8a244c472B18EA96DeE39ddf8fe5,Qma2D2B3R5NcedJJ9xFXWsjSNwsKvHKJ14575CYRNegp42,2022-04-12T18:57:32.000Z,"Interactive mazes, encouraging engagement, and offering support, while earning.",2,no,106187.69209471183,60
 0x515bEE382EA1043B699863C06f319A8267D58431,QmRTYuf3zkaHGfSJtWo7TEfanMDYBndfBLFMyjRgYFERNj,2022-04-12T18:51:46.000Z,"Genesis Plaza Tours, Interactive Lessons, and Community Engagement",1,yes,186.26455794180606,0
 0xAb05Fe7F1DeE4CDB5640d79fe847EF80204451f1,QmYpV9ds1zyiYyKe8BQjdV6BUffbL69MPC7wTvf5EWtU7N,2022-04-12T18:28:40.000Z,Glenrose Rehabilitation Hospital Foundation initiative in Decentraland,1,yes,7804.599165657062,0
 0xEDe451F92A655e4f317AE520ccE70939a6602A71,QmYpV9ds1zyiYyKe8BQjdV6BUffbL69MPC7wTvf5EWtU7N,2022-04-12T18:18:37.000Z,Glenrose Rehabilitation Hospital Foundation initiative in Decentraland,1,yes,445.39049999,0
-0x9A739c2e212754c3d8432CB717dC9437e5b3Dfae,QmXHciyXoZDTJTBqCbDsVccJkVacgPV5WKQHTvjdbvAcME,2022-04-12T17:58:31.000Z,Should the DAO Committee be compensated?,1,Compensate members of the DAO Committee ,103378.58066310672,12
-0xCF10CD8B5Dc2323B1eb6de6164647756BAd4dE4d,QmYpV9ds1zyiYyKe8BQjdV6BUffbL69MPC7wTvf5EWtU7N,2022-04-12T17:48:48.000Z,Glenrose Rehabilitation Hospital Foundation initiative in Decentraland,1,yes,128837.0441429833,7
+0x9A739c2e212754c3d8432CB717dC9437e5b3Dfae,QmXHciyXoZDTJTBqCbDsVccJkVacgPV5WKQHTvjdbvAcME,2022-04-12T17:58:31.000Z,Should the DAO Committee be compensated?,1,Compensate members of the DAO Committee ,103378.58066310672,10
+0xCF10CD8B5Dc2323B1eb6de6164647756BAd4dE4d,QmYpV9ds1zyiYyKe8BQjdV6BUffbL69MPC7wTvf5EWtU7N,2022-04-12T17:48:48.000Z,Glenrose Rehabilitation Hospital Foundation initiative in Decentraland,1,yes,128837.0441429833,5
 0xff3b47a66d1CD6544ee91dd5a69dB660BB4a867d,QmbsXTvvN4kxmut92PGVfKj8iSE14Q7TuFgyyT3eoJn3J7,2022-04-12T16:35:53.000Z,Linked Wearables Project,1,yes,746.26,0
 0x247e0896706BB09245549E476257A0A1129db418,QmYhjneVzahGEngXifx1RQAvtR26k99s7tVX48CeAEE433,2022-04-12T16:29:53.000Z,"Add the location -23,68 to the Points of Interest",1,yes,2100,2
 0x04533242eFBd2913686E0A7E2EBE335E229804e3,QmXHciyXoZDTJTBqCbDsVccJkVacgPV5WKQHTvjdbvAcME,2022-04-12T16:10:10.000Z,Should the DAO Committee be compensated?,1,Compensate members of the DAO Committee ,2847.525808997188,0
@@ -130,7 +185,7 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x059d0025E4e1Bb1a37F2C922e54b139Bc1231eE0,QmNiBwn4XUpH2yfwZKs6Ky3DB1mfdm5wB4aU4zXRog1M7q,2022-04-12T15:19:17.000Z,Decentraland Co-living House and Incubator in Hollywood Hills,2,no,31500.806938852984,9
 0x059d0025E4e1Bb1a37F2C922e54b139Bc1231eE0,Qma2D2B3R5NcedJJ9xFXWsjSNwsKvHKJ14575CYRNegp42,2022-04-12T15:18:55.000Z,"Interactive mazes, encouraging engagement, and offering support, while earning.",2,no,31500.806938852984,18
 0x247e0896706BB09245549E476257A0A1129db418,Qmc8N1i7r9vvpmAfbNXvc74HZ76EJVTwGjvxEFTMpYGDBb,2022-04-12T15:15:13.000Z,Ban the name Putin,1,yes,100,0
-0x059d0025E4e1Bb1a37F2C922e54b139Bc1231eE0,QmfNaEg3FGvDcQMFhocd74LKyCUTAXeWWh32uMwDrshyEQ,2022-04-12T15:11:23.000Z,Ban the name aaaa,2,no,31500.806938852984,28
+0x059d0025E4e1Bb1a37F2C922e54b139Bc1231eE0,QmfNaEg3FGvDcQMFhocd74LKyCUTAXeWWh32uMwDrshyEQ,2022-04-12T15:11:23.000Z,Ban the name aaaa,2,no,31500.806938852984,13
 0x247e0896706BB09245549E476257A0A1129db418,QmfNaEg3FGvDcQMFhocd74LKyCUTAXeWWh32uMwDrshyEQ,2022-04-12T15:07:48.000Z,Ban the name aaaa,2,no,100,0
 0x247e0896706BB09245549E476257A0A1129db418,QmcF7qBX57TCKGkLmXMdjKcZCivcnbc1KD29wdV6DLuyXZ,2022-04-12T15:00:59.000Z,"Add the location -20,-126 to the Points of Interest",1,yes,100,0
 0x1ac3F360a0D9F2e8E1BFBb1Fe5d3881Ec06f045f,QmbsXTvvN4kxmut92PGVfKj8iSE14Q7TuFgyyT3eoJn3J7,2022-04-12T14:56:48.000Z,Linked Wearables Project,1,yes,1013.44713004275,0
@@ -141,20 +196,20 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x5BC96B831cD6FC900C10DC50a56c852701F03F35,QmUQ9ku9MwpZ9f71xHx1hkkMXFjdpCkGkKpSEG9jLxGQdH,2022-04-12T13:28:48.000Z,Would you support a proposal to allow fractional MANA sales in the secondary market?,1,Yes,36217.423332683815,22
 0x5BC96B831cD6FC900C10DC50a56c852701F03F35,QmfTRPTyQ43iSwJWptX7xUpKdsmuRDV9BYynbp2wfwFjyD,2022-04-12T13:26:26.000Z,"Add the location -86,-74 to the Points of Interest",1,yes,36217.423332683815,3
 0x5BC96B831cD6FC900C10DC50a56c852701F03F35,QmaQpuDhByZVcABwUwdRfEjgA9dVDWjqq99nsZaBv338g4,2022-04-12T13:25:52.000Z,"Add the location -42,-102 to the Points of Interest",1,yes,36217.423332683815,3
-0x5BC96B831cD6FC900C10DC50a56c852701F03F35,QmcRpRcQdvZLfiUFaD21FCGRQ5dturHjnoMJyzRPUjVyWy,2022-04-12T13:25:17.000Z,"Add the location -20,-126 to the Points of Interest",1,yes,36217.423332683815,31
+0x5BC96B831cD6FC900C10DC50a56c852701F03F35,QmcRpRcQdvZLfiUFaD21FCGRQ5dturHjnoMJyzRPUjVyWy,2022-04-12T13:25:17.000Z,"Add the location -20,-126 to the Points of Interest",1,yes,36217.423332683815,29
 0x5BC96B831cD6FC900C10DC50a56c852701F03F35,Qma2D2B3R5NcedJJ9xFXWsjSNwsKvHKJ14575CYRNegp42,2022-04-12T13:24:49.000Z,"Interactive mazes, encouraging engagement, and offering support, while earning.",2,no,36217.423332683815,20
-0x5BC96B831cD6FC900C10DC50a56c852701F03F35,QmfNaEg3FGvDcQMFhocd74LKyCUTAXeWWh32uMwDrshyEQ,2022-04-12T13:23:20.000Z,Ban the name aaaa,2,no,36217.423332683815,32
-0x5BC96B831cD6FC900C10DC50a56c852701F03F35,QmcF7qBX57TCKGkLmXMdjKcZCivcnbc1KD29wdV6DLuyXZ,2022-04-12T13:22:25.000Z,"Add the location -20,-126 to the Points of Interest",1,yes,36217.423332683815,98
+0x5BC96B831cD6FC900C10DC50a56c852701F03F35,QmfNaEg3FGvDcQMFhocd74LKyCUTAXeWWh32uMwDrshyEQ,2022-04-12T13:23:20.000Z,Ban the name aaaa,2,no,36217.423332683815,15
+0x5BC96B831cD6FC900C10DC50a56c852701F03F35,QmcF7qBX57TCKGkLmXMdjKcZCivcnbc1KD29wdV6DLuyXZ,2022-04-12T13:22:25.000Z,"Add the location -20,-126 to the Points of Interest",1,yes,36217.423332683815,21
 0x1e1444ab6F321A15A22205Be7578eE059de10fAF,QmRTYuf3zkaHGfSJtWo7TEfanMDYBndfBLFMyjRgYFERNj,2022-04-12T13:19:49.000Z,"Genesis Plaza Tours, Interactive Lessons, and Community Engagement",1,yes,72.41984550000001,0
-0x338AD1918362025F34b3701DaC1E9648E8e8268f,QmbsXTvvN4kxmut92PGVfKj8iSE14Q7TuFgyyT3eoJn3J7,2022-04-12T12:54:32.000Z,Linked Wearables Project,1,yes,310535.7818885738,4
-0x338AD1918362025F34b3701DaC1E9648E8e8268f,Qmd4gxSYaEtqzp3k7EvvxGy432HZeuWytAixkSUNMTEcFR,2022-04-12T12:54:13.000Z,Add Kollectiff to the Linked Wearables Registry,1,yes,310535.7818885738,8
+0x338AD1918362025F34b3701DaC1E9648E8e8268f,QmbsXTvvN4kxmut92PGVfKj8iSE14Q7TuFgyyT3eoJn3J7,2022-04-12T12:54:32.000Z,Linked Wearables Project,1,yes,310535.7818885738,3
+0x338AD1918362025F34b3701DaC1E9648E8e8268f,Qmd4gxSYaEtqzp3k7EvvxGy432HZeuWytAixkSUNMTEcFR,2022-04-12T12:54:13.000Z,Add Kollectiff to the Linked Wearables Registry,1,yes,310535.7818885738,7
 0x338AD1918362025F34b3701DaC1E9648E8e8268f,QmRTYuf3zkaHGfSJtWo7TEfanMDYBndfBLFMyjRgYFERNj,2022-04-12T12:53:13.000Z,"Genesis Plaza Tours, Interactive Lessons, and Community Engagement",1,yes,310535.7818885738,47
 0xba39f8888c826b3F50ebF8A7aCdBd77807bc32d5,QmRTYuf3zkaHGfSJtWo7TEfanMDYBndfBLFMyjRgYFERNj,2022-04-12T12:21:10.000Z,"Genesis Plaza Tours, Interactive Lessons, and Community Engagement",1,yes,10.725,0
-0x598f8af1565003AE7456DaC280a18ee826Df7a2c,QmXHciyXoZDTJTBqCbDsVccJkVacgPV5WKQHTvjdbvAcME,2022-04-12T11:53:54.000Z,Should the DAO Committee be compensated?,1,Compensate members of the DAO Committee ,89706.13611070656,11
+0x598f8af1565003AE7456DaC280a18ee826Df7a2c,QmXHciyXoZDTJTBqCbDsVccJkVacgPV5WKQHTvjdbvAcME,2022-04-12T11:53:54.000Z,Should the DAO Committee be compensated?,1,Compensate members of the DAO Committee ,89706.13611070656,9
 0x0749d1AbB5CA9128432B612644c0eA1e9c6cc9aF,Qma2D2B3R5NcedJJ9xFXWsjSNwsKvHKJ14575CYRNegp42,2022-04-12T10:16:11.000Z,"Interactive mazes, encouraging engagement, and offering support, while earning.",2,no,301.20504137373814,0
 0x0749d1AbB5CA9128432B612644c0eA1e9c6cc9aF,QmfNaEg3FGvDcQMFhocd74LKyCUTAXeWWh32uMwDrshyEQ,2022-04-12T10:15:49.000Z,Ban the name aaaa,2,no,301.20504137373814,0
 0x0749d1AbB5CA9128432B612644c0eA1e9c6cc9aF,QmYpV9ds1zyiYyKe8BQjdV6BUffbL69MPC7wTvf5EWtU7N,2022-04-12T10:15:23.000Z,Glenrose Rehabilitation Hospital Foundation initiative in Decentraland,1,yes,301.20504137373814,0
-0xCA9CBD376488Dd77187E99864ba7cE1Ff670cB69,QmYpV9ds1zyiYyKe8BQjdV6BUffbL69MPC7wTvf5EWtU7N,2022-04-12T10:03:42.000Z,Glenrose Rehabilitation Hospital Foundation initiative in Decentraland,1,yes,982600,55
+0xCA9CBD376488Dd77187E99864ba7cE1Ff670cB69,QmYpV9ds1zyiYyKe8BQjdV6BUffbL69MPC7wTvf5EWtU7N,2022-04-12T10:03:42.000Z,Glenrose Rehabilitation Hospital Foundation initiative in Decentraland,1,yes,982600,43
 0xb5E34509cf4004ecB51392398D7C18B1D8a0DB3f,QmXHciyXoZDTJTBqCbDsVccJkVacgPV5WKQHTvjdbvAcME,2022-04-12T08:48:10.000Z,Should the DAO Committee be compensated?,1,Compensate members of the DAO Committee ,53.24179373185869,0
 0x9DAb43Bc15BD29Cfe3030cA1b7EDb3EEb9f3b6c1,QmRTYuf3zkaHGfSJtWo7TEfanMDYBndfBLFMyjRgYFERNj,2022-04-12T07:12:30.000Z,"Genesis Plaza Tours, Interactive Lessons, and Community Engagement",1,yes,41618.93178861786,6
 0x4534C46EA854c9A302d3dc95b2d3253aE6A28aBC,QmXHciyXoZDTJTBqCbDsVccJkVacgPV5WKQHTvjdbvAcME,2022-04-12T05:51:34.000Z,Should the DAO Committee be compensated?,1,Compensate members of the DAO Committee ,406.9249697761834,0
@@ -178,16 +233,16 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x75B07e64161aCE39d6eaB54d25F25410ffd3d458,QmRTYuf3zkaHGfSJtWo7TEfanMDYBndfBLFMyjRgYFERNj,2022-04-12T01:24:49.000Z,"Genesis Plaza Tours, Interactive Lessons, and Community Engagement",1,yes,1205.1984511946937,0
 0xcD89D190353b1D0D4C103102C38b76F7696D511d,QmRTYuf3zkaHGfSJtWo7TEfanMDYBndfBLFMyjRgYFERNj,2022-04-12T01:08:03.000Z,"Genesis Plaza Tours, Interactive Lessons, and Community Engagement",1,yes,2450.8,0
 0x2109bfbE707C84876C79698E761232A0eB4A21cE,QmRTYuf3zkaHGfSJtWo7TEfanMDYBndfBLFMyjRgYFERNj,2022-04-12T00:39:24.000Z,"Genesis Plaza Tours, Interactive Lessons, and Community Engagement",1,yes,100,0
-0xCA9CBD376488Dd77187E99864ba7cE1Ff670cB69,QmfTRPTyQ43iSwJWptX7xUpKdsmuRDV9BYynbp2wfwFjyD,2022-04-12T00:30:19.000Z,"Add the location -86,-74 to the Points of Interest",1,yes,982600,96
-0xCA9CBD376488Dd77187E99864ba7cE1Ff670cB69,QmaQpuDhByZVcABwUwdRfEjgA9dVDWjqq99nsZaBv338g4,2022-04-12T00:29:51.000Z,"Add the location -42,-102 to the Points of Interest",1,yes,982600,96
-0x1E93E534C5E26B01Ed242410b43AE23dD0fAA52b,QmXHciyXoZDTJTBqCbDsVccJkVacgPV5WKQHTvjdbvAcME,2022-04-11T23:28:37.000Z,Should the DAO Committee be compensated?,1,Compensate members of the DAO Committee ,52518.88199999,6
+0xCA9CBD376488Dd77187E99864ba7cE1Ff670cB69,QmfTRPTyQ43iSwJWptX7xUpKdsmuRDV9BYynbp2wfwFjyD,2022-04-12T00:30:19.000Z,"Add the location -86,-74 to the Points of Interest",1,yes,982600,95
+0xCA9CBD376488Dd77187E99864ba7cE1Ff670cB69,QmaQpuDhByZVcABwUwdRfEjgA9dVDWjqq99nsZaBv338g4,2022-04-12T00:29:51.000Z,"Add the location -42,-102 to the Points of Interest",1,yes,982600,95
+0x1E93E534C5E26B01Ed242410b43AE23dD0fAA52b,QmXHciyXoZDTJTBqCbDsVccJkVacgPV5WKQHTvjdbvAcME,2022-04-11T23:28:37.000Z,Should the DAO Committee be compensated?,1,Compensate members of the DAO Committee ,52518.88199999,5
 0x0749d1AbB5CA9128432B612644c0eA1e9c6cc9aF,QmUQ9ku9MwpZ9f71xHx1hkkMXFjdpCkGkKpSEG9jLxGQdH,2022-04-11T22:38:47.000Z,Would you support a proposal to allow fractional MANA sales in the secondary market?,1,Yes,301.20504137373814,0
 0x0749d1AbB5CA9128432B612644c0eA1e9c6cc9aF,QmaQpuDhByZVcABwUwdRfEjgA9dVDWjqq99nsZaBv338g4,2022-04-11T22:37:30.000Z,"Add the location -42,-102 to the Points of Interest",1,yes,301.20504137373814,0
 0x0749d1AbB5CA9128432B612644c0eA1e9c6cc9aF,QmcRpRcQdvZLfiUFaD21FCGRQ5dturHjnoMJyzRPUjVyWy,2022-04-11T22:36:05.000Z,"Add the location -20,-126 to the Points of Interest",1,yes,301.20504137373814,0
 0x0749d1AbB5CA9128432B612644c0eA1e9c6cc9aF,QmXHciyXoZDTJTBqCbDsVccJkVacgPV5WKQHTvjdbvAcME,2022-04-11T22:35:01.000Z,Should the DAO Committee be compensated?,1,Compensate members of the DAO Committee ,301.20504137373814,0
 0x28F18d9AD8730e0dE394E9b5C4dD8dF178E73de4,Qmb3eiBdhSwPzCiEeGzwq6ND66Z2syqPVanm7EndBARR2y,2022-04-11T21:54:18.000Z,Mental Health Support in DCL,1,yes,4365,0
-0x895Be97bDb9F8a244c472B18EA96DeE39ddf8fe5,QmXHciyXoZDTJTBqCbDsVccJkVacgPV5WKQHTvjdbvAcME,2022-04-11T21:38:40.000Z,Should the DAO Committee be compensated?,1,Compensate members of the DAO Committee ,106187.69209471183,13
-0xFaADaBA2541488C4ac5f4888da1019708E3fae0C,QmcRpRcQdvZLfiUFaD21FCGRQ5dturHjnoMJyzRPUjVyWy,2022-04-11T20:12:16.000Z,"Add the location -20,-126 to the Points of Interest",1,yes,80000,68
+0x895Be97bDb9F8a244c472B18EA96DeE39ddf8fe5,QmXHciyXoZDTJTBqCbDsVccJkVacgPV5WKQHTvjdbvAcME,2022-04-11T21:38:40.000Z,Should the DAO Committee be compensated?,1,Compensate members of the DAO Committee ,106187.69209471183,11
+0xFaADaBA2541488C4ac5f4888da1019708E3fae0C,QmcRpRcQdvZLfiUFaD21FCGRQ5dturHjnoMJyzRPUjVyWy,2022-04-11T20:12:16.000Z,"Add the location -20,-126 to the Points of Interest",1,yes,80000,64
 0xA68Db902ab9cc215744041772df18EdD64413707,QmRTYuf3zkaHGfSJtWo7TEfanMDYBndfBLFMyjRgYFERNj,2022-04-11T19:06:40.000Z,"Genesis Plaza Tours, Interactive Lessons, and Community Engagement",1,yes,236.58011346,0
 0x4223eC5e4C5D2ab1e039863A8f90996eFa4f07d3,QmRTYuf3zkaHGfSJtWo7TEfanMDYBndfBLFMyjRgYFERNj,2022-04-11T19:05:53.000Z,"Genesis Plaza Tours, Interactive Lessons, and Community Engagement",1,yes,170.2908207201142,0
 0x1d9DAF94983B5f2319619fd35209Faa0B3fAaf3A,QmRTYuf3zkaHGfSJtWo7TEfanMDYBndfBLFMyjRgYFERNj,2022-04-11T18:35:10.000Z,"Genesis Plaza Tours, Interactive Lessons, and Community Engagement",1,yes,11.56425574,0
@@ -288,7 +343,7 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0xBecdC5b5A3276DB399cBEd84c447Ad7Ce84FefAC,QmSSvEKn9ZCv6mHpBfiXst8t9UuCpDxioK8oZXH9n4vAXm,2022-04-10T20:27:22.000Z,Decentraland Creators Collective,1,yes,332.3630287952399,0
 0x264ceE4a17500f40F173Fd87bd4a0BC8238eCeF6,Qmb3eiBdhSwPzCiEeGzwq6ND66Z2syqPVanm7EndBARR2y,2022-04-10T20:22:26.000Z,Mental Health Support in DCL,1,yes,4204.075817307352,0
 0x76fb13f00CdbdD5eAC8E2664CF14be791aF87cb0,QmTyUbCgLvgCGNwzi4jTjYAR8L59JdVcMC8dtvwSGwjfAT,2022-04-10T19:41:16.000Z,Hackathon for avatars/wearables in Decentraland Metaverse with Unity/Blender,2,no,145900,8
-0x76fb13f00CdbdD5eAC8E2664CF14be791aF87cb0,QmbsXTvvN4kxmut92PGVfKj8iSE14Q7TuFgyyT3eoJn3J7,2022-04-10T19:30:40.000Z,Linked Wearables Project,1,yes,143909,2
+0x76fb13f00CdbdD5eAC8E2664CF14be791aF87cb0,QmbsXTvvN4kxmut92PGVfKj8iSE14Q7TuFgyyT3eoJn3J7,2022-04-10T19:30:40.000Z,Linked Wearables Project,1,yes,143909,1
 0xd6eFf8F07cAF3443A1178407d3de4129149D6eF6,QmSSvEKn9ZCv6mHpBfiXst8t9UuCpDxioK8oZXH9n4vAXm,2022-04-10T19:30:02.000Z,Decentraland Creators Collective,1,yes,20309.07280781154,18
 0x76fb13f00CdbdD5eAC8E2664CF14be791aF87cb0,Qmb3eiBdhSwPzCiEeGzwq6ND66Z2syqPVanm7EndBARR2y,2022-04-10T19:29:15.000Z,Mental Health Support in DCL,1,yes,143909,3
 0x76fb13f00CdbdD5eAC8E2664CF14be791aF87cb0,Qmc8N1i7r9vvpmAfbNXvc74HZ76EJVTwGjvxEFTMpYGDBb,2022-04-10T19:28:21.000Z,Ban the name Putin,2,no,143909,27
@@ -844,8 +899,8 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x2D10c6039337dec604413c306E5d1F2ea29C8d3D,QmaYA2bt9b8VmqU4x5vuEgxppnQinRFoT13bdseCYxoZY4,2022-03-28T15:18:47.000Z,Creation of video content to popularise Decentraland,2,no,106.31736546615112,0
 0x9381CAA558F19a821A2360C59FdF3dB60C09ff52,QmaYA2bt9b8VmqU4x5vuEgxppnQinRFoT13bdseCYxoZY4,2022-03-28T15:14:49.000Z,Creation of video content to popularise Decentraland,2,no,8967.35974314114,1
 0xdCC287d36Cdfdc3da6CCbFaC5c069aA24c0A3Bad,QmT2Jsi3Jshi5mUqKFNmQbNxyuDdKBLoHfSJZURm3TBF44,2022-03-28T15:02:33.000Z,8MetaBalls - P2E Billiard Game,1,yes,22.954610874928303,0
-0x2D10c6039337dec604413c306E5d1F2ea29C8d3D,QmT2Jsi3Jshi5mUqKFNmQbNxyuDdKBLoHfSJZURm3TBF44,2022-03-28T15:02:24.000Z,8MetaBalls - P2E Billiard Game,1,yes,106.31736546615112,0
 0x9381CAA558F19a821A2360C59FdF3dB60C09ff52,QmT2Jsi3Jshi5mUqKFNmQbNxyuDdKBLoHfSJZURm3TBF44,2022-03-28T15:02:24.000Z,8MetaBalls - P2E Billiard Game,1,yes,8967.10974314114,0
+0x2D10c6039337dec604413c306E5d1F2ea29C8d3D,QmT2Jsi3Jshi5mUqKFNmQbNxyuDdKBLoHfSJZURm3TBF44,2022-03-28T15:02:24.000Z,8MetaBalls - P2E Billiard Game,1,yes,106.31736546615112,0
 0xa77610fcb5288BC95849C64136dF159dd3eFe6ac,QmVZwLszSs9Cuc223Nr5n7MJwXbZhME1kbAHJzX2fPQfCS,2022-03-28T14:58:47.000Z,Affordable Housing (Apartments and Townhomes),2,no,530000,31
 0xB8d4467428Fc490657142D2a798aFEbB12F062e4,QmT2Jsi3Jshi5mUqKFNmQbNxyuDdKBLoHfSJZURm3TBF44,2022-03-28T14:51:15.000Z,8MetaBalls - P2E Billiard Game,2,no,36.27,0
 0xB8d4467428Fc490657142D2a798aFEbB12F062e4,QmYZarq7yiaTTkRnC4ebadXBo1BFaWRLJB9zcsSgkCghS5,2022-03-28T14:49:10.000Z,"Cap the # of POI on the map, and make them tradable NFT's",1,Yes,36.27,0
@@ -16032,8 +16087,8 @@ Member,Proposal ID,Created,Proposal Title,Choice #,Choice,VP,Vote Weight
 0x3fB38CEe8d0BA7Dcf59403a8C397626dC9c7A13B,QmcEtXsQLg9nY3ACAPFivBrHMTZo1KpKF1niFsJYrF5Br6,2021-06-22T18:14:42.000Z,I want to start a youtube channel.,2,no,20995.23930539,3
 0x1c4633F750ccdF4f40C9e88f5986A80c814B851f,QmW5DxzH3Hu6ovcBWuyGBhQ4YyiuXfeiZEixBAVuiQMLsa,2021-06-22T18:11:42.000Z,Building the Motion Mine,1,yes,2000,0
 0x30b1f4Bd5476906f38385B891f2c09973196b742,QmW5DxzH3Hu6ovcBWuyGBhQ4YyiuXfeiZEixBAVuiQMLsa,2021-06-22T18:10:22.000Z,Building the Motion Mine,1,yes,16000,0
-0xa4244F6711052752E6Bb0271Bf17c756E6598406,QmUqfXPbBZfay8GLPw51ed1oUMXu4b9Cwnub81TFNMxr6d,2021-06-22T18:00:41.000Z,Improving the Toolbox Smart Item In Builder,1,yes,290.075,0
 0xbd5b79D53D75497673e699A571AFA85492a2cc74,QmUqfXPbBZfay8GLPw51ed1oUMXu4b9Cwnub81TFNMxr6d,2021-06-22T18:00:41.000Z,Improving the Toolbox Smart Item In Builder,1,yes,18388.78,1
+0xa4244F6711052752E6Bb0271Bf17c756E6598406,QmUqfXPbBZfay8GLPw51ed1oUMXu4b9Cwnub81TFNMxr6d,2021-06-22T18:00:41.000Z,Improving the Toolbox Smart Item In Builder,1,yes,290.075,0
 0x0a7e606eB21C80C28A005DAeB5f3d99A40d6B154,QmcEtXsQLg9nY3ACAPFivBrHMTZo1KpKF1niFsJYrF5Br6,2021-06-22T17:40:20.000Z,I want to start a youtube channel.,2,no,44.58792667816839,0
 0xe58130a60d7128ffB6ff6C1f99A66eC65f7F73Fd,QmW5DxzH3Hu6ovcBWuyGBhQ4YyiuXfeiZEixBAVuiQMLsa,2021-06-22T17:39:33.000Z,Building the Motion Mine,1,yes,18585.125,0
 0xd689478d44A438798EE0DC07657CcE2135c0AeF7,QmW5DxzH3Hu6ovcBWuyGBhQ4YyiuXfeiZEixBAVuiQMLsa,2021-06-22T17:38:09.000Z,Building the Motion Mine,1,yes,17222.23156123,0
