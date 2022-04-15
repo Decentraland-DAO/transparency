@@ -13,7 +13,6 @@ In the two weeks since the last DAO Committee report, <%= newPois.length %> poin
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
-
 ## Points of Interest
 <%= newPois.length %> points of interest have been added to Decentraland’s map since the last report.
 
@@ -76,6 +75,5 @@ Since <%= startDateStr %>, <%= newGrants.length %> grants have been approved and
 ## Polls
 <% activePolls.forEach(function(poll){ %>
 * [<%= poll.title %>](https://governance.decentraland.org/proposal/?id=<%= poll.id %>)<% }); %>
-
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
