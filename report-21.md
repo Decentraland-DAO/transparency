@@ -123,6 +123,7 @@ Since April 1, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
+* 72, -24: [No Name](https://governance.decentraland.org/proposal/?id=7cd85fd0-bccf-11ec-86b8-5dac6b550fc4)
 * 150, 150: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=3a5c90c0-bc3b-11ec-86b8-5dac6b550fc4)
 * 100, 99: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=57a20580-bb95-11ec-8561-b591bf2cf0d0)
 * -23, 68: [Decentramine](https://governance.decentraland.org/proposal/?id=ad87f6d0-ba7d-11ec-8561-b591bf2cf0d0)
@@ -154,6 +155,8 @@ Since April 1, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Should Decentraland fight more with scammers ?](https://governance.decentraland.org/proposal/?id=d34ee0c0-bd09-11ec-86b8-5dac6b550fc4)
+* [Should the DAO claim its ENS tokens?](https://governance.decentraland.org/proposal/?id=f6840cd0-bce3-11ec-86b8-5dac6b550fc4)
 * [Should inactive committee members be removed after 1 month of inactivity?](https://governance.decentraland.org/proposal/?id=0f9f1bd0-bb0c-11ec-8561-b591bf2cf0d0)
 * [Should the DAO Committee be compensated?](https://governance.decentraland.org/proposal/?id=3c9e7730-b9da-11ec-903a-6546e8793cef)
 * [Would you support a proposal to allow fractional MANA sales in the secondary market?](https://governance.decentraland.org/proposal/?id=e5662680-b997-11ec-903a-6546e8793cef)
