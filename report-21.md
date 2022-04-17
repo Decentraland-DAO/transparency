@@ -134,6 +134,7 @@ Since April 1, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [Decentraland Creators Collective](https://governance.decentraland.org/proposal/?id=efeca450-bd96-11ec-86b8-5dac6b550fc4) (Tier 4)
 * [Bwindi Club](https://governance.decentraland.org/proposal/?id=13d6ee30-bac1-11ec-8561-b591bf2cf0d0) (Tier 4)
 * [DCL POI Hub](https://governance.decentraland.org/proposal/?id=ad7eac90-bac0-11ec-8561-b591bf2cf0d0) (Tier 2)
 * [Glenrose Rehabilitation Hospital Foundation initiative in Decentraland](https://governance.decentraland.org/proposal/?id=2e207620-ba1d-11ec-8561-b591bf2cf0d0) (Tier 4)
@@ -148,18 +149,16 @@ Since April 1, 2 grants have been approved and the vesting contract(s) will be e
 
 * [Ban the name myname](https://governance.decentraland.org/proposal/?id=62b1ac90-bc8b-11ec-86b8-5dac6b550fc4)
 * [Ban the name aaaa](https://governance.decentraland.org/proposal/?id=0be9b3d0-ba2e-11ec-8561-b591bf2cf0d0)
-* [Ban the name Putin](https://governance.decentraland.org/proposal/?id=6d23c110-b810-11ec-903a-6546e8793cef)
 
 ## Catalysts
 
 
 ## Polls
 
+* [Should we have the option to upload profile pictures (PFP) and social contact details to Decentraland Names ?](https://governance.decentraland.org/proposal/?id=8a043450-bdbe-11ec-86b8-5dac6b550fc4)
 * [Should Decentraland fight more with scammers ?](https://governance.decentraland.org/proposal/?id=d34ee0c0-bd09-11ec-86b8-5dac6b550fc4)
 * [Should the DAO claim its ENS tokens?](https://governance.decentraland.org/proposal/?id=f6840cd0-bce3-11ec-86b8-5dac6b550fc4)
 * [Should inactive committee members be removed after 1 month of inactivity?](https://governance.decentraland.org/proposal/?id=0f9f1bd0-bb0c-11ec-8561-b591bf2cf0d0)
-* [Should the DAO Committee be compensated?](https://governance.decentraland.org/proposal/?id=3c9e7730-b9da-11ec-903a-6546e8793cef)
-* [Would you support a proposal to allow fractional MANA sales in the secondary market?](https://governance.decentraland.org/proposal/?id=e5662680-b997-11ec-903a-6546e8793cef)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
