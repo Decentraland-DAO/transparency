@@ -147,7 +147,8 @@ Since April 1, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Names Bans
 
-* [Ban the name myname](https://governance.decentraland.org/proposal/?id=62b1ac90-bc8b-11ec-86b8-5dac6b550fc4)
+* [Ban the name Test](https://governance.decentraland.org/proposal/?id=720905c0-befd-11ec-86b8-5dac6b550fc4)
+* [Ban the name abcdef](https://governance.decentraland.org/proposal/?id=9b425460-bebb-11ec-86b8-5dac6b550fc4)
 * [Ban the name aaaa](https://governance.decentraland.org/proposal/?id=0be9b3d0-ba2e-11ec-8561-b591bf2cf0d0)
 
 ## Catalysts
@@ -155,10 +156,10 @@ Since April 1, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Do you support making movement in Decentraland more accessible and inclusive for people with disabilities?](https://governance.decentraland.org/proposal/?id=2429e850-be9a-11ec-86b8-5dac6b550fc4)
 * [Should we have the option to upload profile pictures (PFP) and social contact details to Decentraland Names ?](https://governance.decentraland.org/proposal/?id=8a043450-bdbe-11ec-86b8-5dac6b550fc4)
 * [Should Decentraland fight more with scammers ?](https://governance.decentraland.org/proposal/?id=d34ee0c0-bd09-11ec-86b8-5dac6b550fc4)
 * [Should the DAO claim its ENS tokens?](https://governance.decentraland.org/proposal/?id=f6840cd0-bce3-11ec-86b8-5dac6b550fc4)
-* [Should inactive committee members be removed after 1 month of inactivity?](https://governance.decentraland.org/proposal/?id=0f9f1bd0-bb0c-11ec-8561-b591bf2cf0d0)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
