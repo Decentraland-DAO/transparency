@@ -123,17 +123,18 @@ Since April 1, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
+* 24, 4: [No Name](https://governance.decentraland.org/proposal/?id=be5648d0-c082-11ec-86b8-5dac6b550fc4)
+* 21, 100: [Decentraland Conference Center](https://governance.decentraland.org/proposal/?id=8d7e8a30-c080-11ec-86b8-5dac6b550fc4)
+* 20, 99: [Decentraland Conference Center](https://governance.decentraland.org/proposal/?id=e63b4280-c076-11ec-86b8-5dac6b550fc4)
 * 72, -24: [No Name](https://governance.decentraland.org/proposal/?id=7cd85fd0-bccf-11ec-86b8-5dac6b550fc4)
 * 150, 150: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=3a5c90c0-bc3b-11ec-86b8-5dac6b550fc4)
 * 100, 99: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=57a20580-bb95-11ec-8561-b591bf2cf0d0)
-* -23, 68: [Decentramine](https://governance.decentraland.org/proposal/?id=ad87f6d0-ba7d-11ec-8561-b591bf2cf0d0)
 
 ## Grants
 
 * [The Uncensored Library in Decentraland](https://governance.decentraland.org/proposal/?id=efddde80-bf1b-11ec-86b8-5dac6b550fc4) (Tier 4)
 * [Decentraland Creators Collective](https://governance.decentraland.org/proposal/?id=efeca450-bd96-11ec-86b8-5dac6b550fc4) (Tier 4)
 * [Bwindi Club](https://governance.decentraland.org/proposal/?id=13d6ee30-bac1-11ec-8561-b591bf2cf0d0) (Tier 4)
-* [DCL POI Hub](https://governance.decentraland.org/proposal/?id=ad7eac90-bac0-11ec-8561-b591bf2cf0d0) (Tier 2)
 * [Glenrose Rehabilitation Hospital Foundation initiative in Decentraland](https://governance.decentraland.org/proposal/?id=2e207620-ba1d-11ec-8561-b591bf2cf0d0) (Tier 4)
 * [Interactive mazes, encouraging engagement, and offering support, while earning.](https://governance.decentraland.org/proposal/?id=54d70e80-b9fc-11ec-8561-b591bf2cf0d0) (Tier 6)
 * [Genesis Plaza Tours, Interactive Lessons, and Community Engagement](https://governance.decentraland.org/proposal/?id=566b58d0-b9a9-11ec-903a-6546e8793cef) (Tier 4)
@@ -153,6 +154,9 @@ Since April 1, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [This idea will help Decentraland anyway?](https://governance.decentraland.org/proposal/?id=22157830-c003-11ec-86b8-5dac6b550fc4)
+* [Saved Outfits](https://governance.decentraland.org/proposal/?id=7cfa79a0-bff7-11ec-86b8-5dac6b550fc4)
+* [Saved Outfits](https://governance.decentraland.org/proposal/?id=46cfbed0-bff7-11ec-86b8-5dac6b550fc4)
 * [Improve wearable market search](https://governance.decentraland.org/proposal/?id=184f6750-bf3d-11ec-86b8-5dac6b550fc4)
 * [Do you support making movement in Decentraland more accessible and inclusive for people with disabilities?](https://governance.decentraland.org/proposal/?id=2429e850-be9a-11ec-86b8-5dac6b550fc4)
 * [Should we have the option to upload profile pictures (PFP) and social contact details to Decentraland Names ?](https://governance.decentraland.org/proposal/?id=8a043450-bdbe-11ec-86b8-5dac6b550fc4)
