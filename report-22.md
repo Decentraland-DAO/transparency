@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -50,6 +50,13 @@ Since April 16, 1 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+#### [Should we have the option to upload profile pictures (PFP) and social contact details to Decentraland Names ?](https://governance.decentraland.org/proposal/?id=8a043450-bdbe-11ec-86b8-5dac6b550fc4)
+
+* Yes 100% 4,554,471 VP (30 votes)
+* No 0% 0 VP (0 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 #### [Should the DAO claim its ENS tokens?](https://governance.decentraland.org/proposal/?id=f6840cd0-bce3-11ec-86b8-5dac6b550fc4)
 
 * Claim ENS Tokens 100% 5,656,807 VP (46 votes)
@@ -81,7 +88,6 @@ Since April 16, 1 grants have been approved and the vesting contract(s) will be 
 * 21, 100: [Decentraland Conference Center](https://governance.decentraland.org/proposal/?id=8d7e8a30-c080-11ec-86b8-5dac6b550fc4)
 * 20, 99: [Decentraland Conference Center](https://governance.decentraland.org/proposal/?id=e63b4280-c076-11ec-86b8-5dac6b550fc4)
 * 72, -24: [No Name](https://governance.decentraland.org/proposal/?id=7cd85fd0-bccf-11ec-86b8-5dac6b550fc4)
-* 150, 150: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=3a5c90c0-bc3b-11ec-86b8-5dac6b550fc4)
 
 ## Grants
 
@@ -98,6 +104,7 @@ Since April 16, 1 grants have been approved and the vesting contract(s) will be 
 
 ## Names Bans
 
+* [Ban the name xvzxvxzvzx](https://governance.decentraland.org/proposal/?id=d2aeca70-c18e-11ec-86b8-5dac6b550fc4)
 * [Ban the name hi](https://governance.decentraland.org/proposal/?id=5b462f70-c155-11ec-86b8-5dac6b550fc4)
 * [Ban the name Testing](https://governance.decentraland.org/proposal/?id=c2b43590-c14f-11ec-86b8-5dac6b550fc4)
 * [Ban the name Testing](https://governance.decentraland.org/proposal/?id=069ea480-c14f-11ec-86b8-5dac6b550fc4)
@@ -113,7 +120,6 @@ Since April 16, 1 grants have been approved and the vesting contract(s) will be 
 * [Saved Outfits](https://governance.decentraland.org/proposal/?id=7cfa79a0-bff7-11ec-86b8-5dac6b550fc4)
 * [Improve wearable market search](https://governance.decentraland.org/proposal/?id=184f6750-bf3d-11ec-86b8-5dac6b550fc4)
 * [Do you support making movement in Decentraland more accessible and inclusive for people with disabilities?](https://governance.decentraland.org/proposal/?id=2429e850-be9a-11ec-86b8-5dac6b550fc4)
-* [Should we have the option to upload profile pictures (PFP) and social contact details to Decentraland Names ?](https://governance.decentraland.org/proposal/?id=8a043450-bdbe-11ec-86b8-5dac6b550fc4)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
