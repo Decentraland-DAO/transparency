@@ -9,13 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 
 ## Points of Interest
-2 points of interest have been added to Decentraland’s map since the last report.
+3 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 72, -24: [No Name](https://governance.decentraland.org/proposal/?id=7cd85fd0-bccf-11ec-86b8-5dac6b550fc4)
+
+* Yes 99% 602,098 VP (32 votes)
+* No 0% 500 VP (1 votes)
 
 
 #### -42, -102: [Oasis Gallery](https://governance.decentraland.org/proposal/?id=568db9a0-b9c4-11ec-903a-6546e8793cef)
@@ -50,6 +56,13 @@ Since April 16, 1 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+#### [Do you support making movement in Decentraland more accessible and inclusive for people with disabilities?](https://governance.decentraland.org/proposal/?id=2429e850-be9a-11ec-86b8-5dac6b550fc4)
+
+* Yes 97% 1,668,826 VP (17 votes)
+* No 0% 0 VP (0 votes)
+* Invalid question/options 2% 41,976 VP (5 votes)
+
+
 #### [Should we have the option to upload profile pictures (PFP) and social contact details to Decentraland Names ?](https://governance.decentraland.org/proposal/?id=8a043450-bdbe-11ec-86b8-5dac6b550fc4)
 
 * Yes 100% 4,554,471 VP (30 votes)
@@ -83,11 +96,11 @@ Since April 16, 1 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
+* 23, 74: [All Time High - Art Gallery](https://governance.decentraland.org/proposal/?id=8bcccae0-c296-11ec-86b8-5dac6b550fc4)
 * 40, 40: [Apart 1](https://governance.decentraland.org/proposal/?id=cfff7810-c0c1-11ec-86b8-5dac6b550fc4)
 * 24, 4: [No Name](https://governance.decentraland.org/proposal/?id=be5648d0-c082-11ec-86b8-5dac6b550fc4)
 * 21, 100: [Decentraland Conference Center](https://governance.decentraland.org/proposal/?id=8d7e8a30-c080-11ec-86b8-5dac6b550fc4)
 * 20, 99: [Decentraland Conference Center](https://governance.decentraland.org/proposal/?id=e63b4280-c076-11ec-86b8-5dac6b550fc4)
-* 72, -24: [No Name](https://governance.decentraland.org/proposal/?id=7cd85fd0-bccf-11ec-86b8-5dac6b550fc4)
 
 ## Grants
 
@@ -117,9 +130,9 @@ Since April 16, 1 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+* [Keep Polygon transactions free](https://governance.decentraland.org/proposal/?id=d958c3e0-c278-11ec-86b8-5dac6b550fc4)
 * [Saved Outfits](https://governance.decentraland.org/proposal/?id=7cfa79a0-bff7-11ec-86b8-5dac6b550fc4)
 * [Improve wearable market search](https://governance.decentraland.org/proposal/?id=184f6750-bf3d-11ec-86b8-5dac6b550fc4)
-* [Do you support making movement in Decentraland more accessible and inclusive for people with disabilities?](https://governance.decentraland.org/proposal/?id=2429e850-be9a-11ec-86b8-5dac6b550fc4)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

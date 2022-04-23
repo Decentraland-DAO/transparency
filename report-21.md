@@ -123,11 +123,11 @@ Since April 1, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
+* 23, 74: [All Time High - Art Gallery](https://governance.decentraland.org/proposal/?id=8bcccae0-c296-11ec-86b8-5dac6b550fc4)
 * 40, 40: [Apart 1](https://governance.decentraland.org/proposal/?id=cfff7810-c0c1-11ec-86b8-5dac6b550fc4)
 * 24, 4: [No Name](https://governance.decentraland.org/proposal/?id=be5648d0-c082-11ec-86b8-5dac6b550fc4)
 * 21, 100: [Decentraland Conference Center](https://governance.decentraland.org/proposal/?id=8d7e8a30-c080-11ec-86b8-5dac6b550fc4)
 * 20, 99: [Decentraland Conference Center](https://governance.decentraland.org/proposal/?id=e63b4280-c076-11ec-86b8-5dac6b550fc4)
-* 72, -24: [No Name](https://governance.decentraland.org/proposal/?id=7cd85fd0-bccf-11ec-86b8-5dac6b550fc4)
 
 ## Grants
 
@@ -157,9 +157,9 @@ Since April 1, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Keep Polygon transactions free](https://governance.decentraland.org/proposal/?id=d958c3e0-c278-11ec-86b8-5dac6b550fc4)
 * [Saved Outfits](https://governance.decentraland.org/proposal/?id=7cfa79a0-bff7-11ec-86b8-5dac6b550fc4)
 * [Improve wearable market search](https://governance.decentraland.org/proposal/?id=184f6750-bf3d-11ec-86b8-5dac6b550fc4)
-* [Do you support making movement in Decentraland more accessible and inclusive for people with disabilities?](https://governance.decentraland.org/proposal/?id=2429e850-be9a-11ec-86b8-5dac6b550fc4)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
