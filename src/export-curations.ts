@@ -1,14 +1,17 @@
-import { fetchGraphQL, saveToCSV, saveToJSON } from "./utils"
+import { fetchGraphQLCondition, saveToCSV, saveToJSON } from './utils'
 
 async function main() {
   // Fetch Curations
   const url = 'https://api.thegraph.com/subgraphs/name/decentraland/collections-matic-mainnet'
-  let curations = await fetchGraphQL(url, 'curations', '', 'timestamp',
-    'id txHash curator { address } collection { id name itemsCount isApproved } isApproved timestamp')
+  let curations = await fetchGraphQLCondition(
+    url,
+    'curations',
+    'timestamp',
+    'txHash',
+    'id txHash curator { address } collection { id name itemsCount isApproved } isApproved timestamp'
+  )
 
-  console.log(curations)
-
-  curations.forEach(c => {
+  curations.forEach((c) => {
     c.curator = c.curator.address
     c.collectionId = c.collection.id
     c.collectionName = c.collection.name

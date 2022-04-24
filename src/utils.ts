@@ -22,6 +22,7 @@ export async function fetchURL(url: string, options?: RequestInit, retry?: numbe
   }
 }
 
+
 export async function fetchGraphQL(url: string, collection: string, where: string, orderBy: string, fields: string, first?: number) {
   const elements = []
   first = first || 1000
@@ -43,6 +44,41 @@ export async function fetchGraphQL(url: string, collection: string, where: strin
     elements.push(...json.data[collection])
   }
   return elements
+}
+
+function removeDuplicates(data: any[], dataKey: string): any[] {
+  const dataMap = {}
+  for (const item of data) {
+    dataMap[item[dataKey]] = item
+  }
+
+  return Object.values(dataMap)
+}
+
+export async function fetchGraphQLCondition(url: string, collection: string, fieldNameCondition: string, dataKey: string, fields: string, first?: number) {
+  const elements = []
+  first = first || 1000
+  let lastField = 0
+
+  while (true) {
+    const query = `query {  ${collection} (first: ${first}, where: { ${fieldNameCondition}_gt: ${lastField} }, orderBy: "${fieldNameCondition}", orderDirection: asc) { ${fields} }}`
+
+    const json = await fetchURL(url, {
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ "query": query, "variables": null }),
+      method: 'POST'
+    })
+
+    if (json.errors) {
+      throw Error('Fetch Error ' + json.errors[0].message)
+    }
+    if (!json.data[collection].length) break
+
+    elements.push(...json.data[collection])
+    lastField = elements[elements.length - 1][fieldNameCondition]
+  }
+
+  return removeDuplicates(elements, dataKey)
 }
 
 export function saveToFile(name: string, data: string) {
