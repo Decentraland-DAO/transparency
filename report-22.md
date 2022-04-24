@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -45,13 +45,19 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since April 16, 1 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since April 16, 2 grants have been approved and the vesting contract(s) will be established within 7-10 days.
 
 
 #### [DCL POI Hub](https://governance.decentraland.org/proposal/?id=ad7eac90-bac0-11ec-8561-b591bf2cf0d0) (Tier 2)
 
 * Yes 100% 4,099,234 VP (19 votes)
 * No 0% 0 VP (0 votes)
+
+
+#### [Mental Health Support in DCL](https://governance.decentraland.org/proposal/?id=af9ca2d0-b808-11ec-903a-6546e8793cef) (Tier 4)
+
+* Yes 97% 4,119,318 VP (24 votes)
+* No 2% 110,186 VP (3 votes)
 
 
 ## Polls
@@ -104,6 +110,7 @@ Since April 16, 1 grants have been approved and the vesting contract(s) will be 
 
 ## Grants
 
+* [Decentral Comedy presents STREAM-X - 4 DAYS/96 HOURS of COMEDY in DECENTRALAND!](https://governance.decentraland.org/proposal/?id=ec8fc0a0-c31b-11ec-86b8-5dac6b550fc4) (Tier 4)
 * [Decentraland documentation for Russian community](https://governance.decentraland.org/proposal/?id=fa3c4aa0-c098-11ec-86b8-5dac6b550fc4) (Tier 1)
 * [The Uncensored Library in Decentraland](https://governance.decentraland.org/proposal/?id=efddde80-bf1b-11ec-86b8-5dac6b550fc4) (Tier 4)
 * [Decentraland Creators Collective](https://governance.decentraland.org/proposal/?id=efeca450-bd96-11ec-86b8-5dac6b550fc4) (Tier 4)
@@ -112,8 +119,6 @@ Since April 16, 1 grants have been approved and the vesting contract(s) will be 
 * [Interactive mazes, encouraging engagement, and offering support, while earning.](https://governance.decentraland.org/proposal/?id=54d70e80-b9fc-11ec-8561-b591bf2cf0d0) (Tier 6)
 * [Genesis Plaza Tours, Interactive Lessons, and Community Engagement](https://governance.decentraland.org/proposal/?id=566b58d0-b9a9-11ec-903a-6546e8793cef) (Tier 4)
 * [Decentraland Co-living House and Incubator in Hollywood Hills](https://governance.decentraland.org/proposal/?id=586ef8d0-b92c-11ec-903a-6546e8793cef) (Tier 6)
-* [Non Profit Organisation likes to create a Music &amp; Art Place in Decentraland](https://governance.decentraland.org/proposal/?id=ab50a400-b886-11ec-903a-6546e8793cef) (Tier 6)
-* [Mental Health Support in DCL](https://governance.decentraland.org/proposal/?id=af9ca2d0-b808-11ec-903a-6546e8793cef) (Tier 4)
 
 ## Names Bans
 
@@ -132,7 +137,6 @@ Since April 16, 1 grants have been approved and the vesting contract(s) will be 
 
 * [Keep Polygon transactions free](https://governance.decentraland.org/proposal/?id=d958c3e0-c278-11ec-86b8-5dac6b550fc4)
 * [Saved Outfits](https://governance.decentraland.org/proposal/?id=7cfa79a0-bff7-11ec-86b8-5dac6b550fc4)
-* [Improve wearable market search](https://governance.decentraland.org/proposal/?id=184f6750-bf3d-11ec-86b8-5dac6b550fc4)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
