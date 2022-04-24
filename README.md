@@ -45,16 +45,17 @@ The commands you need to setup and use the enviroment are:
 ```
 # Install dependencies
 npm install
+npm link typescript
 
 # Set up your environment variables
 cp .env.example .env
 pico .env
 
 # Run script that exports files to ./public/
-node export-xxxxx.js
+npx ts-node export-xxxxx.ts
 
 # Upload CSV to shpreadsheet
-node upload.js SHEET_NAME ./public/xxxxx.csv
+npx ts-node upload.ts SHEET_NAME ./public/xxxxx.csv
 
 # Add a job the the daily process that collects and publish data
 pico .github/workflows/pull-data.yml
