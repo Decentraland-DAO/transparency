@@ -13,7 +13,7 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: '12'
-      - run: npm install
+      - run: npm install && npm link typescript
 
       - name: Pull Proposals
         env:
@@ -21,8 +21,8 @@ jobs:
           SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
           SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
         run: |
-          node export-proposals.js
-          node upload.js Proposals ./public/proposals.csv
+          npx ts-node export-proposals.ts
+          npx ts-node upload.ts Proposals ./public/proposals.csv
 
       - name: Pull Votes
         env:
@@ -30,8 +30,8 @@ jobs:
           SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
           SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
         run: |
-          node export-votes.js
-          node upload.js Votes ./public/votes.csv
+          npx ts-node export-votes.ts
+          npx ts-node upload.ts Votes ./public/votes.csv
 
       - name: Pull Members
         env:
@@ -39,8 +39,8 @@ jobs:
           SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
           SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
         run: |
-          node export-members.js
-          node upload.js Members ./public/members.csv
+          npx ts-node export-members.ts
+          npx ts-node upload.ts Members ./public/members.csv
 
       - name: Pull Grants
         env:
@@ -49,8 +49,8 @@ jobs:
           SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
           SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
         run: |
-          node export-grants.js
-          node upload.js Grants ./public/grants.csv
+          npx ts-node export-grants.ts
+          npx ts-node upload.ts Grants ./public/grants.csv
 
       - name: Pull Balances
         env:
@@ -59,9 +59,9 @@ jobs:
           SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
           SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
         run: |
-          node export-balances.js
-          node upload.js Balances ./public/balances.csv
-          node upload.js BalanceHistory ./public/balances.csv --append
+          npx ts-node export-balances.ts
+          npx ts-node upload.ts Balances ./public/balances.csv
+          npx ts-node upload.ts BalanceHistory ./public/balances.csv --append
 
       - name: Pull Transactions
         env:
@@ -70,8 +70,8 @@ jobs:
           SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
           SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
         run: |
-          node export-transactions.js
-          node upload.js Transactions ./public/transactions.csv
+          npx ts-node export-transactions.ts
+          npx ts-node upload.ts Transactions ./public/transactions.csv
 
       - name: Pull Collections
         env:
@@ -79,8 +79,8 @@ jobs:
           SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
           SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
         run: |
-          node export-collections.js
-          node upload.js Collections ./public/collections.csv
+          npx ts-node export-collections.ts
+          npx ts-node upload.ts Collections ./public/collections.csv
 
       - name: Pull Wearables
         env:
@@ -88,14 +88,14 @@ jobs:
           SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
           SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
         run: |
-          node export-wearables.js
-          node upload.js Wearables ./public/wearables.csv
+          npx ts-node export-wearables.ts
+          npx ts-node upload.ts Wearables ./public/wearables.csv
 
       - name: Export API
-        run: node export-api.js
+        run: npx ts-node export-api.ts
 
       - name: Export Report
-        run: node export-report.js
+        run: npx ts-node export-report.ts
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.2.2
