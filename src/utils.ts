@@ -100,6 +100,6 @@ export async function saveToCSV(name: string, data: any, header: ObjectStringifi
   console.log('The CSV file has been saved.')
 }
 
-export function flattenArray(arr: any[]): any[] {
+export function flattenArray<Type>(arr: Type[][]): Type[] {
   return arr.reduce((acc, val) => acc.concat(val), [])
 }
