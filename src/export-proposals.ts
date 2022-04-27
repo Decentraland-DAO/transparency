@@ -1,4 +1,4 @@
-import { Configuration, GovernanceProposal, Symbol } from "./interfaces/GovernanceProposal"
+import { Configuration, GovernanceProposal, Status, Symbol } from "./interfaces/GovernanceProposal"
 import { Proposal } from "./interfaces/Proposal"
 import { fetchGraphQL, fetchURL, saveToCSV, saveToJSON } from "./utils"
 
@@ -15,7 +15,7 @@ export type ProposalParsed = {
   start_at: Date
   finish_at: Date
   required_to_pass: number
-  status: string
+  status: Status
   configuration: Configuration
   discourse_topic_id: number
   scores_total: number

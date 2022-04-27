@@ -54,4 +54,5 @@ export interface Transfer {
 export enum TransferType {
   IN = "IN",
   OUT = "OUT",
+  INTERNAL = 'INTERNAL',
 }

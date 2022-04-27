@@ -10,13 +10,13 @@ import { fetchURL, flattenArray, saveToCSV, saveToJSON } from './utils'
 
 require('dotenv').config()
 
-interface TransactionParsed {
+export interface TransactionParsed {
   wallet: string
   hash: string
-  date: Date
+  date: string
   block: number
   network: Network
-  type: string
+  type: TransferType
   amount: number
   symbol: Token
   contract: string
@@ -109,12 +109,12 @@ async function getTransactions(name: string, tokenAddress: string, network: numb
       let type = (
         walletAddresses.indexOf(trans.from_address) != -1 &&
         walletAddresses.indexOf(trans.to_address) != -1
-      ) ? 'INTERNAL' : trans.transfer_type
+      ) ? TransferType.INTERNAL : trans.transfer_type
 
       const transfer: TransactionParsed = {
         wallet: name,
         hash: tx.tx_hash,
-        date: tx.block_signed_at,
+        date: tx.block_signed_at.toISOString(),
         block: tx.block_height,
         network: token[0],
         type: type,

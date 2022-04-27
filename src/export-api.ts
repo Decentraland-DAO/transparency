@@ -1,47 +1,54 @@
-import balances from '../public/balances.json'
-import grants from '../public/grants.json'
-import transactions from '../public/transactions.json'
+import BALANCES from '../public/balances.json'
+import GRANTS from '../public/grants.json'
+import TRANSACTIONS from '../public/transactions.json'
+import { GrantProposal } from './export-grants'
+import { TransactionParsed } from './export-transactions'
+import { Status } from './interfaces/GovernanceProposal'
+import { TransferType } from './interfaces/Transactions/Transfers'
 import { saveToJSON } from './utils'
 
-const sumQuote = txs => txs.reduce((total, tx) => total + tx.quote, 0)
+const sumQuote = (txs: TransactionParsed[]) => txs.reduce((total, tx) => total + tx.quote, 0)
 
 async function main() {
 
   const now = new Date()
-  const last30 = new Date(now.getTime() - (1000 * 3600 * 24 * 30)).toISOString()
-  const last60 = new Date(now.getTime() - (1000 * 3600 * 24 * 60)).toISOString()
+  const last30 = new Date(now.getTime() - (1000 * 3600 * 24 * 30))
+  const last60 = new Date(now.getTime() - (1000 * 3600 * 24 * 60))
 
-  const incomeTxs = transactions.filter(tx => tx.type == 'IN')
-  const incomeTxs30 = incomeTxs.filter(tx => tx.date >= last30)
+  const txs = TRANSACTIONS as TransactionParsed[]
+
+  const incomeTxs = txs.filter(tx => tx.type === TransferType.IN)
+  const incomeTxs30 = incomeTxs.filter(tx => new Date(tx.date) >= last30)
   const totalIncome30 = sumQuote(incomeTxs30)
 
-  const incomeTxs60 = incomeTxs.filter(tx => tx.date >= last60 && tx.date < last30)
+  const incomeTxs60 = incomeTxs.filter(tx => new Date(tx.date) >= last60 && new Date(tx.date) < last30)
   const totalIncome60 = sumQuote(incomeTxs60)
   const incomeDelta = (totalIncome30 - totalIncome60) * 100 / totalIncome60
 
-  const totalVesting = sumQuote(incomeTxs30.filter(tx => tx.tag == 'Vesting Contract'))
-  const totalETHMarket = sumQuote(incomeTxs30.filter(tx => tx.tag == 'ETH Marketplace'))
-  const totalMATICMarket = sumQuote(incomeTxs30.filter(tx => tx.tag == 'MATIC Marketplace'))
-  const totalOpenSea = sumQuote(incomeTxs30.filter(tx => tx.tag == 'OpenSea'))
+  const totalVesting = sumQuote(incomeTxs30.filter(tx => tx.tag === 'Vesting Contract'))
+  const totalETHMarket = sumQuote(incomeTxs30.filter(tx => tx.tag === 'ETH Marketplace'))
+  const totalMATICMarket = sumQuote(incomeTxs30.filter(tx => tx.tag === 'MATIC Marketplace'))
+  const totalOpenSea = sumQuote(incomeTxs30.filter(tx => tx.tag === 'OpenSea'))
   const otherIncome = totalIncome30 - totalVesting - totalETHMarket - totalMATICMarket - totalOpenSea
 
-  const expensesTxs = transactions.filter(tx => tx.type == 'OUT')
-  const expensesTxs30 = expensesTxs.filter(tx => tx.date >= last30)
+  const expensesTxs = txs.filter(tx => tx.type === TransferType.OUT)
+  const expensesTxs30 = expensesTxs.filter(tx => new Date(tx.date) >= last30)
   const totalExpenses30 = sumQuote(expensesTxs30)
 
-  const expensesTxs60 = expensesTxs.filter(tx => tx.date >= last60 && tx.date < last30)
+  const expensesTxs60 = expensesTxs.filter(tx => new Date(tx.date) >= last60 && new Date(tx.date) < last30)
   const totalExpenses60 = sumQuote(expensesTxs60)
   const expensesDelta = (totalExpenses30 - totalExpenses60) * 100 / totalExpenses60
 
-  const totalFacilitator = sumQuote(expensesTxs30.filter(tx => tx.tag == 'Facilitator'))
-  const totalCurators = sumQuote(expensesTxs30.filter(tx => tx.tag == 'Curator'))
-  const totalGrants = sumQuote(expensesTxs30.filter(tx => tx.tag == 'Grant'))
+  const totalFacilitator = sumQuote(expensesTxs30.filter(tx => tx.tag === 'Facilitator'))
+  const totalCurators = sumQuote(expensesTxs30.filter(tx => tx.tag === 'Curator'))
+  const totalGrants = sumQuote(expensesTxs30.filter(tx => tx.tag === 'Grant'))
   const otherExpenses = totalExpenses30 - totalFacilitator - totalGrants - totalCurators
 
-  const totalFunding = grants.filter(g => g.status == 'enacted').reduce((a, g) => a + g.grant_size, 0)
+  const grants = GRANTS as GrantProposal[]
+  const totalFunding = grants.filter(g => g.status === Status.ENACTED).reduce((a, g) => a + g.grant_size, 0)
 
   const data = {
-    'balances': balances,
+    'balances': BALANCES,
     'income': {
       'total': totalIncome30,
       'previous': incomeDelta,
