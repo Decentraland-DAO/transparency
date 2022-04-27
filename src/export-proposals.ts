@@ -1,16 +1,22 @@
+import { Configuration, GovernanceProposal, Symbol } from "./interfaces/GovernanceProposal"
+import { Proposal } from "./interfaces/Proposal"
 import { fetchGraphQL, fetchURL, saveToCSV, saveToJSON } from "./utils"
 
-export type Proposal = {
+type ProposalVotes = {
+  [id: string]: Proposal
+}
+
+export type ProposalParsed = {
   id: string
   snapshot_id: string
   user: string
   type: string
   title: string
-  start_at: string
-  finish_at: string
+  start_at: Date
+  finish_at: Date
   required_to_pass: number
   status: string
-  configuration: any
+  configuration: Configuration
   discourse_topic_id: number
   scores_total: number
   votes: number
@@ -25,33 +31,33 @@ async function main() {
   // Fetch Snapshot Proposals
   const url = 'https://hub.snapshot.org/graphql'
   const where = 'space_in: ["snapshot.dcl.eth"]'
-  let proposals = await fetchGraphQL(url, 'proposals', where, 'created',
+  const proposals: Proposal[] = await fetchGraphQL(url, 'proposals', where, 'created',
     'id scores_total strategies { params } scores_by_strategy votes'
   )
 
-  const proposalVotes = {}
+  const proposalVotes: ProposalVotes = {}
   proposals.forEach(p => proposalVotes[p.id] = p)
 
-  const getVP = (p, symbol: string) => {
-    let index = p.strategies.map(s => s.params.symbol).indexOf(symbol)
-    if (index == -1) return 0
-    return parseInt(p.scores_by_strategy.reduce((total, choice) => total + choice[index], 0))
+  const getVP = (p: Proposal, symbol: Symbol) => {
+    const index = p.strategies.map(s => s.params.symbol).indexOf(symbol)
+    if (index === -1) return 0
+    return p.scores_by_strategy.reduce((total, choice) => total + choice[index], 0)
   }
 
-  // Get Gobernance dApp Proposals
-  proposals = []
+  // Get Governance dApp Proposals
+  const governanceProposals: GovernanceProposal[] = []
   while (true) {
-    let skip = proposals.length
+    const skip = governanceProposals.length
     const url = `https://governance.decentraland.org/api/proposals?limit=100000&offset=${skip}`
     const json = await fetchURL(url)
 
     if (!json.data.length) break
-    proposals.push(...json.data)
+    governanceProposals.push(...json.data)
   }
 
-  const data: Proposal[] = proposals.map(p => {
+  const data = governanceProposals.map(p => {
     const pv = proposalVotes[p.snapshot_id]
-    const proposal: Proposal = {
+    const proposal: ProposalParsed = {
       id: p.id,
       snapshot_id: p.snapshot_id,
       user: p.user,
@@ -63,12 +69,12 @@ async function main() {
       status: p.status,
       configuration: p.configuration,
       discourse_topic_id: p.discourse_topic_id,
-      scores_total: parseInt(pv.scores_total),
+      scores_total: pv.scores_total,
       votes: pv.votes,
-      manaVP: getVP(pv, "MANA") + getVP(pv, "WMANA"),
-      landVP: getVP(pv, "LAND") + getVP(pv, "ESTATE"),
-      namesVP: getVP(pv, "NAMES"),
-      delegatedVP: getVP(pv, "VP (delegated)"),
+      manaVP: getVP(pv, Symbol.MANA) + getVP(pv, Symbol.WMANA),
+      landVP: getVP(pv, Symbol.LAND) + getVP(pv, Symbol.ESTATE),
+      namesVP: getVP(pv, Symbol.NAMES),
+      delegatedVP: getVP(pv, Symbol.VP_DELEGATED),
       vesting_address: p.vesting_address,
     }
 
