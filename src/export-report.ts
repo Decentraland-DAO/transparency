@@ -1,10 +1,17 @@
 import { renderFile } from "ejs"
+import { GovernanceProposal, GovernanceProposalType, Status } from "./interfaces/GovernanceProposal"
 import { fetchURL, saveToFile } from "./utils"
 
 type Votes = {
   choice: number
   vp: number
   timestamp: number
+}
+
+type EndedProposal = GovernanceProposal & {
+  name?: string
+  totalVP?: number
+  choices?: (string | number)[][]
 }
 
 function lastReport(now: Date) {
@@ -21,17 +28,17 @@ function yesterday(now: Date) {
   return new Date(now.getTime() - (1000 * 3600 * 24))
 }
 
-async function getPoisNames(pois) {
-  for (let i = 0; i < pois.length; i++) {
-    const x = pois[i].configuration.x
-    const y = pois[i].configuration.y
+async function getPoisNames(pois: EndedProposal[]) {
+  for (const poi of pois) {
+    const x = poi.configuration.x
+    const y = poi.configuration.y
     const json = await fetchURL(`https://api.decentraland.org/v2/tiles?x1=${x}&y1=${y}&x2=${x}&y2=${y}`)
-    pois[i].name = json.data[`${x},${y}`].name || 'No Name'
+    poi.name = json.data[`${x},${y}`].name || 'No Name'
   }
 }
 
 async function main() {
-  let now = new Date(new Date().toISOString().slice(0, 10))
+  const now = new Date(new Date().toISOString().slice(0, 10))
   let currentReport = 14 + (now.getUTCFullYear() - 2022) * 24 + (now.getUTCMonth() * 2)
   currentReport += now.getUTCDate() < 16 ? 0 : 1
 
@@ -54,7 +61,7 @@ async function generateReport(currentReport: number, startDate: Date, endDate: D
   console.log(`Proposals from ${startDateStr} to ${endDateStr}`)
 
   // Get Gobernance dApp Proposals
-  let proposals = []
+  let proposals: GovernanceProposal[] = []
   while (true) {
     let skip = proposals.length
     const url = `https://governance.decentraland.org/api/proposals?limit=100000&offset=${skip}`
@@ -65,38 +72,39 @@ async function generateReport(currentReport: number, startDate: Date, endDate: D
   }
 
   // Active Proposals
-  const aproposals = proposals.filter(p => p.status == 'active')
-  const activePois = aproposals.filter(p => p.type == 'poi')
-  const activeGrants = aproposals.filter(p => p.type == 'grant')
-  const activeBans = aproposals.filter(p => p.type == 'ban_name')
-  const activeCatalysts = aproposals.filter(p => p.type == 'catalyst')
-  const activePolls = aproposals.filter(p => p.type == 'poll')
-  let fproposals = proposals.filter(p => (
+  const activeProposals = proposals.filter(p => p.status === Status.ACTIVE)
+  const activePois = activeProposals.filter(p => p.type === GovernanceProposalType.POI)
+  const activeGrants = activeProposals.filter(p => p.type === GovernanceProposalType.GRANT)
+  const activeBans = activeProposals.filter(p => p.type === GovernanceProposalType.BAN_NAME)
+  const activeCatalysts = activeProposals.filter(p => p.type === GovernanceProposalType.CATALYST)
+  const activePolls = activeProposals.filter(p => p.type === GovernanceProposalType.POLL)
+
+  let endedProposals: EndedProposal[] = proposals.filter(p => (
     startDate < new Date(p.finish_at) &&
     new Date(p.finish_at) < endDate &&
-    ['finished', 'passed', 'enacted'].indexOf(p.status) != -1
+    [Status.FINISHED, Status.PASSED, Status.ENACTED].indexOf(p.status) != -1
   ))
 
-  for (let i = 0; i < fproposals.length; i++) {
-    const prop = fproposals[i]
+  for (const prop of endedProposals) {
     const data = await fetchURL(`https://governance.decentraland.org/api/proposals/${prop.id}/votes`)
 
     const votes: Votes[] = Object.values(data.data)
     prop.totalVP = votes.reduce((total, vote) => total + vote.vp, 0)
     prop.choices = prop.configuration.choices.map((name, index) => {
-      const choiceVP = votes.filter(v => v.choice == index + 1).reduce((total, vote) => total + vote.vp, 0)
-      const choiceVotes = votes.filter(v => v.choice == index + 1).length
+      const choiceVP = votes.filter(v => v.choice === index + 1).reduce((total, vote) => total + vote.vp, 0)
+      const choiceVotes = votes.filter(v => v.choice === index + 1).length
       const choiceWeight = choiceVP / prop.totalVP * 100
       const choiceName = name[0].toUpperCase() + name.slice(1)
       return [choiceName, choiceWeight, choiceVP.toLocaleString('en-us'), choiceVotes]
     })
   }
-  fproposals = fproposals.filter(p => p.totalVP >= 500000)
-  const newPois = fproposals.filter(p => p.type == 'poi')
-  const newGrants = fproposals.filter(p => p.type == 'grant')
-  const newBans = fproposals.filter(p => p.type == 'ban_name')
-  const newCatalysts = fproposals.filter(p => p.type == 'catalyst')
-  const newPolls = fproposals.filter(p => p.type == 'poll')
+
+  endedProposals = endedProposals.filter(p => p.totalVP >= 500000)
+  const newPois = endedProposals.filter(p => p.type === GovernanceProposalType.POI)
+  const newGrants = endedProposals.filter(p => p.type === GovernanceProposalType.GRANT)
+  const newBans = endedProposals.filter(p => p.type === GovernanceProposalType.BAN_NAME)
+  const newCatalysts = endedProposals.filter(p => p.type === GovernanceProposalType.CATALYST)
+  const newPolls = endedProposals.filter(p => p.type === GovernanceProposalType.POLL)
 
   await getPoisNames(newPois)
   await getPoisNames(activePois)
