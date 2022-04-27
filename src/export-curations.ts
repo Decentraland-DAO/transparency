@@ -1,9 +1,19 @@
+import { Curation } from './interfaces/Curation'
 import { fetchGraphQLCondition, saveToCSV, saveToJSON } from './utils'
+
+interface CurationParsed {
+  curator: string
+  collectionId: string
+  collectionName: string
+  collectionItems: number
+  collectionApproved: boolean
+  timestamp: string
+}
 
 async function main() {
   // Fetch Curations
   const url = 'https://api.thegraph.com/subgraphs/name/decentraland/collections-matic-mainnet'
-  let curations = await fetchGraphQLCondition(
+  let curations: Curation[] = await fetchGraphQLCondition(
     url,
     'curations',
     'timestamp',
@@ -11,19 +21,21 @@ async function main() {
     'id txHash curator { address } collection { id name itemsCount isApproved } isApproved timestamp'
   )
 
-  curations.forEach((c) => {
-    c.curator = c.curator.address
-    c.collectionId = c.collection.id
-    c.collectionName = c.collection.name
-    c.collectionItems = c.collection.itemsCount
-    c.collectionApproved = c.collection.isApproved
-    c.timestamp = new Date(c.timestamp * 1000).toISOString()
+  const curationsParsed: CurationParsed[] = curations.map((c) => {
+    return {
+      curator: c.curator.address,
+      collectionId: c.collection.id,
+      collectionName: c.collection.name,
+      collectionItems: c.collection.itemsCount,
+      collectionApproved: c.collection.isApproved,
+      timestamp: new Date(parseInt(c.timestamp) * 1000).toISOString()
+    }
   })
 
-  console.log(curations.length, 'curations found.')
+  console.log(curationsParsed.length, 'curations found.')
 
-  saveToJSON('curations.json', curations)
-  saveToCSV('curations.csv', curations, [
+  saveToJSON('curations.json', curationsParsed)
+  saveToCSV('curations.csv', curationsParsed, [
     { id: 'timestamp', title: 'Date' },
     { id: 'txHash', title: 'Tx Hash' },
     { id: 'curator', title: 'Curator' },
