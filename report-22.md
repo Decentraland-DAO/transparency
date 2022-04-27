@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -45,13 +45,19 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since April 16, 2 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since April 16, 3 grants have been approved and the vesting contract(s) will be established within 7-10 days.
 
 
 #### [DCL POI Hub](https://governance.decentraland.org/proposal/?id=ad7eac90-bac0-11ec-8561-b591bf2cf0d0) (Tier 2)
 
 * Yes 100% 4,099,234 VP (19 votes)
 * No 0% 0 VP (0 votes)
+
+
+#### [Glenrose Rehabilitation Hospital Foundation initiative in Decentraland](https://governance.decentraland.org/proposal/?id=2e207620-ba1d-11ec-8561-b591bf2cf0d0) (Tier 4)
+
+* Yes 59% 2,174,763 VP (53 votes)
+* No 40% 1,488,358 VP (3 votes)
 
 
 #### [Mental Health Support in DCL](https://governance.decentraland.org/proposal/?id=af9ca2d0-b808-11ec-903a-6546e8793cef) (Tier 4)
@@ -102,41 +108,35 @@ Since April 16, 2 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
+* 144, -14: [DCL Real Estate Office - www.DclRealEstate.org](https://governance.decentraland.org/proposal/?id=f26d0d80-c400-11ec-86b8-5dac6b550fc4)
+* -130, 15: [Exclusive FASHION STREET &amp; ROAD! (-130,15) +Free NFT Gallery! @Klockmann#3349 on Discord for details - DCL Real Estate HQ Office - www.DCLRealEstate.org](https://governance.decentraland.org/proposal/?id=97042c80-c400-11ec-86b8-5dac6b550fc4)
 * 23, 74: [All Time High - Art Gallery](https://governance.decentraland.org/proposal/?id=8bcccae0-c296-11ec-86b8-5dac6b550fc4)
 * 40, 40: [Apart 1](https://governance.decentraland.org/proposal/?id=cfff7810-c0c1-11ec-86b8-5dac6b550fc4)
-* 24, 4: [No Name](https://governance.decentraland.org/proposal/?id=be5648d0-c082-11ec-86b8-5dac6b550fc4)
-* 21, 100: [Decentraland Conference Center](https://governance.decentraland.org/proposal/?id=8d7e8a30-c080-11ec-86b8-5dac6b550fc4)
-* 20, 99: [Decentraland Conference Center](https://governance.decentraland.org/proposal/?id=e63b4280-c076-11ec-86b8-5dac6b550fc4)
 
 ## Grants
 
+* [Expansion of the Wilderness P2E Game](https://governance.decentraland.org/proposal/?id=73921310-c519-11ec-86b8-5dac6b550fc4) (Tier 6)
+* [Vroomway Play 2 Earn](https://governance.decentraland.org/proposal/?id=9b0c5c80-c4eb-11ec-86b8-5dac6b550fc4) (Tier 4)
+* [Decentraland Growth through Clever, and Educational Content!](https://governance.decentraland.org/proposal/?id=3abc7da0-c497-11ec-86b8-5dac6b550fc4) (Tier 4)
+* [Community Educational Content on YouTube and RizeUpTV live Streaming](https://governance.decentraland.org/proposal/?id=16bf1a40-c3e6-11ec-86b8-5dac6b550fc4) (Tier 4)
 * [Decentral Comedy presents STREAM-X - 4 DAYS/96 HOURS of COMEDY in DECENTRALAND!](https://governance.decentraland.org/proposal/?id=ec8fc0a0-c31b-11ec-86b8-5dac6b550fc4) (Tier 4)
 * [Decentraland documentation for Russian community](https://governance.decentraland.org/proposal/?id=fa3c4aa0-c098-11ec-86b8-5dac6b550fc4) (Tier 1)
 * [The Uncensored Library in Decentraland](https://governance.decentraland.org/proposal/?id=efddde80-bf1b-11ec-86b8-5dac6b550fc4) (Tier 4)
 * [Decentraland Creators Collective](https://governance.decentraland.org/proposal/?id=efeca450-bd96-11ec-86b8-5dac6b550fc4) (Tier 4)
-* [Bwindi Club](https://governance.decentraland.org/proposal/?id=13d6ee30-bac1-11ec-8561-b591bf2cf0d0) (Tier 4)
-* [Glenrose Rehabilitation Hospital Foundation initiative in Decentraland](https://governance.decentraland.org/proposal/?id=2e207620-ba1d-11ec-8561-b591bf2cf0d0) (Tier 4)
-* [Interactive mazes, encouraging engagement, and offering support, while earning.](https://governance.decentraland.org/proposal/?id=54d70e80-b9fc-11ec-8561-b591bf2cf0d0) (Tier 6)
-* [Genesis Plaza Tours, Interactive Lessons, and Community Engagement](https://governance.decentraland.org/proposal/?id=566b58d0-b9a9-11ec-903a-6546e8793cef) (Tier 4)
-* [Decentraland Co-living House and Incubator in Hollywood Hills](https://governance.decentraland.org/proposal/?id=586ef8d0-b92c-11ec-903a-6546e8793cef) (Tier 6)
 
 ## Names Bans
 
-* [Ban the name xvzxvxzvzx](https://governance.decentraland.org/proposal/?id=d2aeca70-c18e-11ec-86b8-5dac6b550fc4)
 * [Ban the name hi](https://governance.decentraland.org/proposal/?id=5b462f70-c155-11ec-86b8-5dac6b550fc4)
 * [Ban the name Testing](https://governance.decentraland.org/proposal/?id=c2b43590-c14f-11ec-86b8-5dac6b550fc4)
 * [Ban the name Testing](https://governance.decentraland.org/proposal/?id=069ea480-c14f-11ec-86b8-5dac6b550fc4)
-* [Ban the name akhdn](https://governance.decentraland.org/proposal/?id=119627f0-bf8d-11ec-86b8-5dac6b550fc4)
-* [Ban the name Test](https://governance.decentraland.org/proposal/?id=720905c0-befd-11ec-86b8-5dac6b550fc4)
-* [Ban the name abcdef](https://governance.decentraland.org/proposal/?id=9b425460-bebb-11ec-86b8-5dac6b550fc4)
 
 ## Catalysts
 
 
 ## Polls
 
+* [[Resubmission] Should the legacy POI list be deleted?](https://governance.decentraland.org/proposal/?id=78635ac0-c4d8-11ec-86b8-5dac6b550fc4)
 * [Keep Polygon transactions free](https://governance.decentraland.org/proposal/?id=d958c3e0-c278-11ec-86b8-5dac6b550fc4)
-* [Saved Outfits](https://governance.decentraland.org/proposal/?id=7cfa79a0-bff7-11ec-86b8-5dac6b550fc4)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
