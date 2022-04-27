@@ -1,18 +1,5 @@
+import { Collection } from "./interfaces/Collection"
 import { fetchGraphQL, saveToCSV, saveToJSON, toISOString } from "./utils"
-
-type Collection = {
-  id: string
-  itemsCount: number
-  creator: string
-  name: string
-  symbol: string
-  isCompleted: boolean
-  isApproved: boolean
-  isEditable: boolean
-  createdAt: string
-  updatedAt: string
-  reviewedAt: string
-}
 
 async function main() {
   // Fetch Collections
