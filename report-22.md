@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -68,6 +68,13 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+#### [Keep Polygon transactions free](https://governance.decentraland.org/proposal/?id=d958c3e0-c278-11ec-86b8-5dac6b550fc4)
+
+* Yes: Authorize the DAO Committee to continuously refund the meta-transactions gas tank 100% 957,396 VP (80 votes)
+* No: Do not continuously refund the meta-transactions gas tank 0% 0 VP (0 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 #### [Do you support making movement in Decentraland more accessible and inclusive for people with disabilities?](https://governance.decentraland.org/proposal/?id=2429e850-be9a-11ec-86b8-5dac6b550fc4)
 
 * Yes 97% 1,668,826 VP (17 votes)
@@ -111,24 +118,23 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 * 144, -14: [DCL Real Estate Office - www.DclRealEstate.org](https://governance.decentraland.org/proposal/?id=f26d0d80-c400-11ec-86b8-5dac6b550fc4)
 * -130, 15: [Exclusive FASHION STREET &amp; ROAD! (-130,15) +Free NFT Gallery! @Klockmann#3349 on Discord for details - DCL Real Estate HQ Office - www.DCLRealEstate.org](https://governance.decentraland.org/proposal/?id=97042c80-c400-11ec-86b8-5dac6b550fc4)
 * 23, 74: [All Time High - Art Gallery](https://governance.decentraland.org/proposal/?id=8bcccae0-c296-11ec-86b8-5dac6b550fc4)
-* 40, 40: [Apart 1](https://governance.decentraland.org/proposal/?id=cfff7810-c0c1-11ec-86b8-5dac6b550fc4)
 
 ## Grants
 
+* [[Resubmission] 8MetaBalls](https://governance.decentraland.org/proposal/?id=a847c6e0-c6d6-11ec-90c9-11bf3c6f4ca1) (Tier 5)
+* [P2E (Weekly Decentraland Amazing Race) Every Waifumon Wednesday (Attempt 2)](https://governance.decentraland.org/proposal/?id=7431b280-c69a-11ec-90c9-11bf3c6f4ca1) (Tier 4)
+* [Decentraland’s first AI driven smart pets! (Untethered to user motion)](https://governance.decentraland.org/proposal/?id=b8125a10-c670-11ec-90c9-11bf3c6f4ca1) (Tier 6)
 * [Expansion of the Wilderness P2E Game](https://governance.decentraland.org/proposal/?id=73921310-c519-11ec-86b8-5dac6b550fc4) (Tier 6)
 * [Vroomway Play 2 Earn](https://governance.decentraland.org/proposal/?id=9b0c5c80-c4eb-11ec-86b8-5dac6b550fc4) (Tier 4)
 * [Decentraland Growth through Clever, and Educational Content!](https://governance.decentraland.org/proposal/?id=3abc7da0-c497-11ec-86b8-5dac6b550fc4) (Tier 4)
 * [Community Educational Content on YouTube and RizeUpTV live Streaming](https://governance.decentraland.org/proposal/?id=16bf1a40-c3e6-11ec-86b8-5dac6b550fc4) (Tier 4)
 * [Decentral Comedy presents STREAM-X - 4 DAYS/96 HOURS of COMEDY in DECENTRALAND!](https://governance.decentraland.org/proposal/?id=ec8fc0a0-c31b-11ec-86b8-5dac6b550fc4) (Tier 4)
-* [Decentraland documentation for Russian community](https://governance.decentraland.org/proposal/?id=fa3c4aa0-c098-11ec-86b8-5dac6b550fc4) (Tier 1)
 * [The Uncensored Library in Decentraland](https://governance.decentraland.org/proposal/?id=efddde80-bf1b-11ec-86b8-5dac6b550fc4) (Tier 4)
 * [Decentraland Creators Collective](https://governance.decentraland.org/proposal/?id=efeca450-bd96-11ec-86b8-5dac6b550fc4) (Tier 4)
 
 ## Names Bans
 
-* [Ban the name hi](https://governance.decentraland.org/proposal/?id=5b462f70-c155-11ec-86b8-5dac6b550fc4)
-* [Ban the name Testing](https://governance.decentraland.org/proposal/?id=c2b43590-c14f-11ec-86b8-5dac6b550fc4)
-* [Ban the name Testing](https://governance.decentraland.org/proposal/?id=069ea480-c14f-11ec-86b8-5dac6b550fc4)
+* [Ban the name checkDAO](https://governance.decentraland.org/proposal/?id=0d888890-c6d8-11ec-90c9-11bf3c6f4ca1)
 
 ## Catalysts
 
@@ -136,7 +142,6 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 ## Polls
 
 * [[Resubmission] Should the legacy POI list be deleted?](https://governance.decentraland.org/proposal/?id=78635ac0-c4d8-11ec-86b8-5dac6b550fc4)
-* [Keep Polygon transactions free](https://governance.decentraland.org/proposal/?id=d958c3e0-c278-11ec-86b8-5dac6b550fc4)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
