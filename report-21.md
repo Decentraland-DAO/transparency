@@ -134,7 +134,6 @@ Since April 1, 2 grants have been approved and the vesting contract(s) will be e
 * [Decentraland’s first AI driven smart pets! (Untethered to user motion)](https://governance.decentraland.org/proposal/?id=b8125a10-c670-11ec-90c9-11bf3c6f4ca1) (Tier 6)
 * [Expansion of the Wilderness P2E Game](https://governance.decentraland.org/proposal/?id=73921310-c519-11ec-86b8-5dac6b550fc4) (Tier 6)
 * [Vroomway Play 2 Earn](https://governance.decentraland.org/proposal/?id=9b0c5c80-c4eb-11ec-86b8-5dac6b550fc4) (Tier 4)
-* [Decentraland Growth through Clever, and Educational Content!](https://governance.decentraland.org/proposal/?id=3abc7da0-c497-11ec-86b8-5dac6b550fc4) (Tier 4)
 * [Community Educational Content on YouTube and RizeUpTV live Streaming](https://governance.decentraland.org/proposal/?id=16bf1a40-c3e6-11ec-86b8-5dac6b550fc4) (Tier 4)
 * [Decentral Comedy presents STREAM-X - 4 DAYS/96 HOURS of COMEDY in DECENTRALAND!](https://governance.decentraland.org/proposal/?id=ec8fc0a0-c31b-11ec-86b8-5dac6b550fc4) (Tier 4)
 * [The Uncensored Library in Decentraland](https://governance.decentraland.org/proposal/?id=efddde80-bf1b-11ec-86b8-5dac6b550fc4) (Tier 4)
@@ -142,6 +141,7 @@ Since April 1, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Names Bans
 
+* [Ban the name gegegwgrwgrw](https://governance.decentraland.org/proposal/?id=d9660bb0-c799-11ec-90c9-11bf3c6f4ca1)
 * [Ban the name checkDAO](https://governance.decentraland.org/proposal/?id=0d888890-c6d8-11ec-90c9-11bf3c6f4ca1)
 
 ## Catalysts
@@ -149,6 +149,8 @@ Since April 1, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Adding VP for Wearable Creations, Voting Participation, and In-Game Active Time in DCL](https://governance.decentraland.org/proposal/?id=689bb360-c723-11ec-90c9-11bf3c6f4ca1)
+* [Add ZOOM feature to the Marketplace to see wearables close up before purchasing](https://governance.decentraland.org/proposal/?id=f6e6aa50-c717-11ec-90c9-11bf3c6f4ca1)
 * [[Resubmission] Should the legacy POI list be deleted?](https://governance.decentraland.org/proposal/?id=78635ac0-c4d8-11ec-86b8-5dac6b550fc4)
 
 
