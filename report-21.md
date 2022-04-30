@@ -123,12 +123,14 @@ Since April 1, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
+* 86, 35: [Altix, Ethermon, and the Crypto Valley All Nearby! @Chamaster#3764 on Discord for Details!](https://governance.decentraland.org/proposal/?id=45947970-c82b-11ec-90c9-11bf3c6f4ca1)
+* -38, -106: [Union Tower](https://governance.decentraland.org/proposal/?id=60437250-c829-11ec-90c9-11bf3c6f4ca1)
 * 144, -14: [DCL Real Estate Office - www.DclRealEstate.org](https://governance.decentraland.org/proposal/?id=f26d0d80-c400-11ec-86b8-5dac6b550fc4)
 * -130, 15: [Exclusive FASHION STREET &amp; ROAD! (-130,15) +Free NFT Gallery! @Klockmann#3349 on Discord for details - DCL Real Estate HQ Office - www.DCLRealEstate.org](https://governance.decentraland.org/proposal/?id=97042c80-c400-11ec-86b8-5dac6b550fc4)
-* 23, 74: [All Time High - Art Gallery](https://governance.decentraland.org/proposal/?id=8bcccae0-c296-11ec-86b8-5dac6b550fc4)
 
 ## Grants
 
+* [Daily Decentraland videos to highlight upcoming events](https://governance.decentraland.org/proposal/?id=25891a40-c84a-11ec-90c9-11bf3c6f4ca1) (Tier 2)
 * [[Resubmission] 8MetaBalls](https://governance.decentraland.org/proposal/?id=a847c6e0-c6d6-11ec-90c9-11bf3c6f4ca1) (Tier 5)
 * [P2E (Weekly Decentraland Amazing Race) Every Waifumon Wednesday (Attempt 2)](https://governance.decentraland.org/proposal/?id=7431b280-c69a-11ec-90c9-11bf3c6f4ca1) (Tier 4)
 * [Decentraland’s first AI driven smart pets! (Untethered to user motion)](https://governance.decentraland.org/proposal/?id=b8125a10-c670-11ec-90c9-11bf3c6f4ca1) (Tier 6)
@@ -149,6 +151,7 @@ Since April 1, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [At least 1 VP should be in the account to make a proposal.](https://governance.decentraland.org/proposal/?id=5ddf0200-c814-11ec-90c9-11bf3c6f4ca1)
 * [Adding VP for Wearable Creations, Voting Participation, and In-Game Active Time in DCL](https://governance.decentraland.org/proposal/?id=689bb360-c723-11ec-90c9-11bf3c6f4ca1)
 * [Add ZOOM feature to the Marketplace to see wearables close up before purchasing](https://governance.decentraland.org/proposal/?id=f6e6aa50-c717-11ec-90c9-11bf3c6f4ca1)
 * [[Resubmission] Should the legacy POI list be deleted?](https://governance.decentraland.org/proposal/?id=78635ac0-c4d8-11ec-86b8-5dac6b550fc4)
