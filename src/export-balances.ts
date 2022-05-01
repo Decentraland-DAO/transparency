@@ -1,6 +1,6 @@
 import BigNumber from "bignumber.js"
 import { Contract } from "./interfaces/Balance"
-import { Network, Token } from "./interfaces/Network"
+import { Network, NetworkID, Token } from "./interfaces/Network"
 import { fetchURL, saveToCSV, saveToJSON } from "./utils"
 require('dotenv').config()
 
@@ -31,13 +31,13 @@ async function main() {
 
   for (let i = 0; i < wallets.length; i++) {
     const wallet = wallets[i]
-    const network = wallet[0] === Network.ETHEREUM ? 1 : 137
+    const network = wallet[0] === Network.ETHEREUM ? NetworkID[Network.ETHEREUM] : NetworkID[Network.POLYGON]
     const address = wallet[1]
     const url = `https://api.covalenthq.com/v1/${network}/address/${address}/portfolio_v2/?key=${API_KEY}`
     const json = await fetchURL(url)
     const contracts: Contract[] = json.data.items
 
-    const balances: BalanceParsed[] = contracts.map(t => ({
+    const balanceParsed: BalanceParsed[] = contracts.map(t => ({
       timestamp: t.holdings[0].timestamp,
       name: wallet[2],
       amount: new BigNumber(t.holdings[0].close.balance).dividedBy(10 ** t.contract_decimals).toNumber(),
@@ -48,7 +48,7 @@ async function main() {
       address: address,
       contractAddress: t.contract_address
     }))
-    balances.push(...balances)
+    balances.push(...balanceParsed)
   }
 
   balances = balances.filter(

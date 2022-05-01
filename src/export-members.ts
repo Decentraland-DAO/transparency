@@ -28,26 +28,38 @@ async function main() {
   console.log("Total Members:", members.length)
 
   const info: MemberInfo[] = []
+  let incompleted: string[] = []
+  let current: string[]
 
-  for (const address of members) {
-    let scores = [0, 0, 0, 0, 0, 0]
-    try {
-      const snapshotScores = await snapshot.utils.getScores(space, STRATEGIES, network, [address], blockNumber)
-      scores = snapshotScores.map(score => parseInt(score[address] || 0))
-    } catch (e) {
-      console.error(address)
+  current = members
+
+  do {
+    incompleted = []
+
+    for (const address of current) {
+      let scores = [0, 0, 0, 0, 0, 0]
+      try {
+        const snapshotScores = await snapshot.utils.getScores(space, STRATEGIES, network, [address], blockNumber)
+        scores = snapshotScores.map(score => parseInt(score[address] || 0))
+      } catch (e) {
+        incompleted.push(address)
+      }
+
+      info.push({
+        address,
+        totalVP: scores.reduce((a, b) => a + b),
+        manaVP: scores[0] + scores[1],
+        landVP: scores[2] + scores[3],
+        namesVP: scores[4],
+        delegatedVP: scores[5],
+      })
+      console.log(info.length, members.length, info.length / members.length * 100);
     }
 
-    info.push({
-      address,
-      totalVP: scores.reduce((a, b) => a + b),
-      manaVP: scores[0] + scores[1],
-      landVP: scores[2] + scores[3],
-      namesVP: scores[4],
-      delegatedVP: scores[5],
-    })
-    console.log(info.length, members.length, info.length / members.length * 100);
-  }
+    console.log(`Fetch members info to retry: ${incompleted.length}`)
+    current = [...incompleted]
+
+  } while (incompleted.length !== 0)
 
   saveToJSON('members.json', info)
   saveToCSV('members.csv', info, [

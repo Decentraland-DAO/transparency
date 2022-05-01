@@ -2,12 +2,13 @@ import { Curation } from './interfaces/Curation'
 import { fetchGraphQLCondition, saveToCSV, saveToJSON } from './utils'
 
 interface CurationParsed {
-  curator: string
-  collectionId: string
-  collectionName: string
-  collectionItems: number
-  collectionApproved: boolean
-  timestamp: string
+  timestamp: string,
+  txHash: string,
+  curator: string,
+  collectionId: string,
+  collectionName: string,
+  collectionItems: number,
+  collectionApproved: boolean,
 }
 
 async function main() {
@@ -23,6 +24,7 @@ async function main() {
 
   const curationsParsed: CurationParsed[] = curations.map((c) => {
     return {
+      txHash: c.txHash,
       curator: c.curator.address,
       collectionId: c.collection.id,
       collectionName: c.collection.name,
@@ -39,7 +41,6 @@ async function main() {
     { id: 'timestamp', title: 'Date' },
     { id: 'txHash', title: 'Tx Hash' },
     { id: 'curator', title: 'Curator' },
-    { id: 'isApproved', title: 'Approved' },
     { id: 'collectionId', title: 'Collection ID' },
     { id: 'collectionName', title: 'Collection Name' },
     { id: 'collectionItems', title: 'Collection Items' },

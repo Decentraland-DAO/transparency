@@ -33,15 +33,6 @@ jobs:
           npx ts-node ./src/export-votes.ts
           npx ts-node ./src/upload.ts Votes ./public/votes.csv
 
-      - name: Pull Members
-        env:
-          SHEET_ID: ${{ secrets.SHEET_ID }}
-          SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
-          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
-        run: |
-          npx ts-node ./src/export-members.ts
-          npx ts-node ./src/upload.ts Members ./public/members.csv
-
       - name: Pull Grants
         env:
           INFURA_URL: ${{ secrets.INFURA_URL }}
@@ -90,6 +81,24 @@ jobs:
         run: |
           npx ts-node ./src/export-wearables.ts
           npx ts-node ./src/upload.ts Wearables ./public/wearables.csv
+
+      - name: Pull Curations
+        env:
+          SHEET_ID: ${{ secrets.SHEET_ID }}
+          SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
+          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
+        run: |
+          npx ts-node ./src/export-curations.ts
+          npx ts-node ./src/upload.ts Curations ./public/wearables.csv
+
+      - name: Pull Members
+        env:
+          SHEET_ID: ${{ secrets.SHEET_ID }}
+          SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
+          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
+        run: |
+          npx ts-node ./src/export-members.ts
+          npx ts-node ./src/upload.ts Members ./public/members.csv
 
       - name: Export API
         run: npx ts-node ./src/export-api.ts

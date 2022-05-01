@@ -114,7 +114,7 @@ async function getTransactions(name: string, tokenAddress: string, network: numb
       const transfer: TransactionParsed = {
         wallet: name,
         hash: tx.tx_hash,
-        date: tx.block_signed_at.toISOString(),
+        date: tx.block_signed_at,
         block: tx.block_height,
         network: token[0],
         type: type,
@@ -170,6 +170,7 @@ async function main() {
     { id: 'contract', title: 'Contract' },
   ])
 
+  console.log('Tagging...')
   await tagging(transactions)
 }
 
@@ -271,6 +272,7 @@ async function tagging(txs: TransactionParsed[]) {
     }
   }
 
+  console.log('Saving with tags...')
   saveToJSON('transactions.json', txs)
   saveToCSV('transactions.csv', txs, [
     { id: 'date', title: 'Date' },
