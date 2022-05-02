@@ -125,11 +125,10 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 
 * 86, 35: [CV Tower](https://governance.decentraland.org/proposal/?id=45947970-c82b-11ec-90c9-11bf3c6f4ca1)
 * -38, -106: [Union Tower](https://governance.decentraland.org/proposal/?id=60437250-c829-11ec-90c9-11bf3c6f4ca1)
-* 144, -14: [DCL Real Estate Office - www.DclRealEstate.org](https://governance.decentraland.org/proposal/?id=f26d0d80-c400-11ec-86b8-5dac6b550fc4)
-* -130, 15: [Exclusive FASHION STREET &amp; ROAD! (-130,15) +Free NFT Gallery! @Klockmann#3349 on Discord for details - DCL Real Estate HQ Office - www.DCLRealEstate.org](https://governance.decentraland.org/proposal/?id=97042c80-c400-11ec-86b8-5dac6b550fc4)
 
 ## Grants
 
+* [First Decentraland native crypto debit card top up](https://governance.decentraland.org/proposal/?id=06eece00-c96b-11ec-90c9-11bf3c6f4ca1) (Tier 4)
 * [Daily Decentraland videos to highlight upcoming events](https://governance.decentraland.org/proposal/?id=25891a40-c84a-11ec-90c9-11bf3c6f4ca1) (Tier 2)
 * [[Resubmission] 8MetaBalls](https://governance.decentraland.org/proposal/?id=a847c6e0-c6d6-11ec-90c9-11bf3c6f4ca1) (Tier 5)
 * [P2E (Weekly Decentraland Amazing Race) Every Waifumon Wednesday (Attempt 2)](https://governance.decentraland.org/proposal/?id=7431b280-c69a-11ec-90c9-11bf3c6f4ca1) (Tier 4)
@@ -142,6 +141,7 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 
 ## Names Bans
 
+* [Ban the name 23423](https://governance.decentraland.org/proposal/?id=55699800-c946-11ec-90c9-11bf3c6f4ca1)
 * [Ban the name gegegwgrwgrw](https://governance.decentraland.org/proposal/?id=d9660bb0-c799-11ec-90c9-11bf3c6f4ca1)
 * [Ban the name checkDAO](https://governance.decentraland.org/proposal/?id=0d888890-c6d8-11ec-90c9-11bf3c6f4ca1)
 
