@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -39,7 +39,13 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since May 1, 0 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since May 1, 1 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [The Uncensored Library in Decentraland](https://governance.decentraland.org/proposal/?id=efddde80-bf1b-11ec-86b8-5dac6b550fc4) (Tier 4)
+
+* Yes 100% 4,660,191 VP (30 votes)
+* No 0% 0 VP (0 votes)
 
 
 ## Polls
@@ -49,11 +55,13 @@ Since May 1, 0 grants have been approved and the vesting contract(s) will be est
 
 ## Points of Interest
 
+* 138, -143: [Mr. Dhingia Club](https://governance.decentraland.org/proposal/?id=027be5d0-ca63-11ec-90c9-11bf3c6f4ca1)
 * 86, 35: [CV Tower](https://governance.decentraland.org/proposal/?id=45947970-c82b-11ec-90c9-11bf3c6f4ca1)
 * -38, -106: [Union Tower](https://governance.decentraland.org/proposal/?id=60437250-c829-11ec-90c9-11bf3c6f4ca1)
 
 ## Grants
 
+* [A Grant to Publish More Wearables](https://governance.decentraland.org/proposal/?id=23d855a0-cabe-11ec-90c9-11bf3c6f4ca1) (Tier 2)
 * [First Decentraland native crypto debit card top up](https://governance.decentraland.org/proposal/?id=06eece00-c96b-11ec-90c9-11bf3c6f4ca1) (Tier 4)
 * [Daily Decentraland videos to highlight upcoming events](https://governance.decentraland.org/proposal/?id=25891a40-c84a-11ec-90c9-11bf3c6f4ca1) (Tier 2)
 * [[Resubmission] 8MetaBalls](https://governance.decentraland.org/proposal/?id=a847c6e0-c6d6-11ec-90c9-11bf3c6f4ca1) (Tier 5)
@@ -63,7 +71,6 @@ Since May 1, 0 grants have been approved and the vesting contract(s) will be est
 * [Vroomway Play 2 Earn](https://governance.decentraland.org/proposal/?id=9b0c5c80-c4eb-11ec-86b8-5dac6b550fc4) (Tier 4)
 * [Community Educational Content on YouTube and RizeUpTV live Streaming](https://governance.decentraland.org/proposal/?id=16bf1a40-c3e6-11ec-86b8-5dac6b550fc4) (Tier 4)
 * [Decentral Comedy presents STREAM-X - 4 DAYS/96 HOURS of COMEDY in DECENTRALAND!](https://governance.decentraland.org/proposal/?id=ec8fc0a0-c31b-11ec-86b8-5dac6b550fc4) (Tier 4)
-* [The Uncensored Library in Decentraland](https://governance.decentraland.org/proposal/?id=efddde80-bf1b-11ec-86b8-5dac6b550fc4) (Tier 4)
 
 ## Names Bans
 
@@ -76,6 +83,7 @@ Since May 1, 0 grants have been approved and the vesting contract(s) will be est
 
 ## Polls
 
+* [Adding VP for Wearable Creations DCL](https://governance.decentraland.org/proposal/?id=d22828a0-ca7e-11ec-90c9-11bf3c6f4ca1)
 * [Place the wearables you own on your land](https://governance.decentraland.org/proposal/?id=a4b31290-c8f3-11ec-90c9-11bf3c6f4ca1)
 * [At least 1 VP should be in the account to make a proposal.](https://governance.decentraland.org/proposal/?id=5ddf0200-c814-11ec-90c9-11bf3c6f4ca1)
 * [Adding VP for Wearable Creations, Voting Participation, and In-Game Active Time in DCL](https://governance.decentraland.org/proposal/?id=689bb360-c723-11ec-90c9-11bf3c6f4ca1)
