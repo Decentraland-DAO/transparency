@@ -123,13 +123,13 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
+* 130, -13: [No Name](https://governance.decentraland.org/proposal/?id=ebb6db70-cadf-11ec-90c9-11bf3c6f4ca1)
 * 138, -143: [Mr. Dhingia Club](https://governance.decentraland.org/proposal/?id=027be5d0-ca63-11ec-90c9-11bf3c6f4ca1)
 * 86, 35: [CV Tower](https://governance.decentraland.org/proposal/?id=45947970-c82b-11ec-90c9-11bf3c6f4ca1)
 * -38, -106: [Union Tower](https://governance.decentraland.org/proposal/?id=60437250-c829-11ec-90c9-11bf3c6f4ca1)
 
 ## Grants
 
-* [A Grant to Publish More Wearables](https://governance.decentraland.org/proposal/?id=23d855a0-cabe-11ec-90c9-11bf3c6f4ca1) (Tier 2)
 * [First Decentraland native crypto debit card top up](https://governance.decentraland.org/proposal/?id=06eece00-c96b-11ec-90c9-11bf3c6f4ca1) (Tier 4)
 * [Daily Decentraland videos to highlight upcoming events](https://governance.decentraland.org/proposal/?id=25891a40-c84a-11ec-90c9-11bf3c6f4ca1) (Tier 2)
 * [[Resubmission] 8MetaBalls](https://governance.decentraland.org/proposal/?id=a847c6e0-c6d6-11ec-90c9-11bf3c6f4ca1) (Tier 5)
@@ -142,6 +142,7 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 
 ## Names Bans
 
+* [Ban the name 5y5467](https://governance.decentraland.org/proposal/?id=fcb93730-cb7d-11ec-90c9-11bf3c6f4ca1)
 * [Ban the name 23423](https://governance.decentraland.org/proposal/?id=55699800-c946-11ec-90c9-11bf3c6f4ca1)
 * [Ban the name gegegwgrwgrw](https://governance.decentraland.org/proposal/?id=d9660bb0-c799-11ec-90c9-11bf3c6f4ca1)
 * [Ban the name checkDAO](https://governance.decentraland.org/proposal/?id=0d888890-c6d8-11ec-90c9-11bf3c6f4ca1)
@@ -154,8 +155,6 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 * [Adding VP for Wearable Creations DCL](https://governance.decentraland.org/proposal/?id=d22828a0-ca7e-11ec-90c9-11bf3c6f4ca1)
 * [Place the wearables you own on your land](https://governance.decentraland.org/proposal/?id=a4b31290-c8f3-11ec-90c9-11bf3c6f4ca1)
 * [At least 1 VP should be in the account to make a proposal.](https://governance.decentraland.org/proposal/?id=5ddf0200-c814-11ec-90c9-11bf3c6f4ca1)
-* [Adding VP for Wearable Creations, Voting Participation, and In-Game Active Time in DCL](https://governance.decentraland.org/proposal/?id=689bb360-c723-11ec-90c9-11bf3c6f4ca1)
-* [Add ZOOM feature to the Marketplace to see wearables close up before purchasing](https://governance.decentraland.org/proposal/?id=f6e6aa50-c717-11ec-90c9-11bf3c6f4ca1)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
