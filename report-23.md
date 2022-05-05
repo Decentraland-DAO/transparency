@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -50,11 +50,19 @@ Since May 1, 1 grants have been approved and the vesting contract(s) will be est
 
 ## Polls
 
+#### [At least 1 VP should be in the account to make a proposal.](https://governance.decentraland.org/proposal/?id=5ddf0200-c814-11ec-90c9-11bf3c6f4ca1)
+
+* 1 vp should be required to make proposals 89% 959,111 VP (27 votes)
+* No vote power should be requited 0% 0 VP (1 votes)
+* Invalid question/options 10% 112,012 VP (2 votes)
+
+
 
 # Active Proposals
 
 ## Points of Interest
 
+* 14, 14: [Statue Of Liberty](https://governance.decentraland.org/proposal/?id=3bc28420-cbb7-11ec-90c9-11bf3c6f4ca1)
 * 130, -13: [No Name](https://governance.decentraland.org/proposal/?id=ebb6db70-cadf-11ec-90c9-11bf3c6f4ca1)
 * 138, -143: [Mr. Dhingia Club](https://governance.decentraland.org/proposal/?id=027be5d0-ca63-11ec-90c9-11bf3c6f4ca1)
 * 86, 35: [CV Tower](https://governance.decentraland.org/proposal/?id=45947970-c82b-11ec-90c9-11bf3c6f4ca1)
@@ -62,6 +70,8 @@ Since May 1, 1 grants have been approved and the vesting contract(s) will be est
 
 ## Grants
 
+* [MAD DAO - Radical Public Lease and Advertisement Bundle Auction Protocol](https://governance.decentraland.org/proposal/?id=913a1b90-cc05-11ec-8d87-ddbb20320020) (Tier 5)
+* [Impression analytics dashboard for billboards and NFT surfaces.](https://governance.decentraland.org/proposal/?id=435d0c40-cbea-11ec-8d87-ddbb20320020) (Tier 4)
 * [First Decentraland native crypto debit card top up](https://governance.decentraland.org/proposal/?id=06eece00-c96b-11ec-90c9-11bf3c6f4ca1) (Tier 4)
 * [Daily Decentraland videos to highlight upcoming events](https://governance.decentraland.org/proposal/?id=25891a40-c84a-11ec-90c9-11bf3c6f4ca1) (Tier 2)
 * [[Resubmission] 8MetaBalls](https://governance.decentraland.org/proposal/?id=a847c6e0-c6d6-11ec-90c9-11bf3c6f4ca1) (Tier 5)
@@ -77,7 +87,6 @@ Since May 1, 1 grants have been approved and the vesting contract(s) will be est
 * [Ban the name 5y5467](https://governance.decentraland.org/proposal/?id=fcb93730-cb7d-11ec-90c9-11bf3c6f4ca1)
 * [Ban the name 23423](https://governance.decentraland.org/proposal/?id=55699800-c946-11ec-90c9-11bf3c6f4ca1)
 * [Ban the name gegegwgrwgrw](https://governance.decentraland.org/proposal/?id=d9660bb0-c799-11ec-90c9-11bf3c6f4ca1)
-* [Ban the name checkDAO](https://governance.decentraland.org/proposal/?id=0d888890-c6d8-11ec-90c9-11bf3c6f4ca1)
 
 ## Catalysts
 
@@ -86,7 +95,6 @@ Since May 1, 1 grants have been approved and the vesting contract(s) will be est
 
 * [Adding VP for Wearable Creations DCL](https://governance.decentraland.org/proposal/?id=d22828a0-ca7e-11ec-90c9-11bf3c6f4ca1)
 * [Place the wearables you own on your land](https://governance.decentraland.org/proposal/?id=a4b31290-c8f3-11ec-90c9-11bf3c6f4ca1)
-* [At least 1 VP should be in the account to make a proposal.](https://governance.decentraland.org/proposal/?id=5ddf0200-c814-11ec-90c9-11bf3c6f4ca1)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
