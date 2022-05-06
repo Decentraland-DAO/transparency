@@ -123,14 +123,14 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
+* -147, 23: [The FMF365 Office Building](https://governance.decentraland.org/proposal/?id=220fd4a0-ccc1-11ec-8d87-ddbb20320020)
 * 14, 14: [Statue Of Liberty](https://governance.decentraland.org/proposal/?id=3bc28420-cbb7-11ec-90c9-11bf3c6f4ca1)
 * 130, -13: [No Name](https://governance.decentraland.org/proposal/?id=ebb6db70-cadf-11ec-90c9-11bf3c6f4ca1)
 * 138, -143: [Mr. Dhingia Club](https://governance.decentraland.org/proposal/?id=027be5d0-ca63-11ec-90c9-11bf3c6f4ca1)
-* 86, 35: [CV Tower](https://governance.decentraland.org/proposal/?id=45947970-c82b-11ec-90c9-11bf3c6f4ca1)
-* -38, -106: [Union Tower](https://governance.decentraland.org/proposal/?id=60437250-c829-11ec-90c9-11bf3c6f4ca1)
 
 ## Grants
 
+* [Pacific Cliffs Foundation Campaign to #SavetheCliffHouse with Community run DAO](https://governance.decentraland.org/proposal/?id=d7ee5a30-cd07-11ec-8d87-ddbb20320020) (Tier 4)
 * [MAD DAO - Radical Public Lease and Advertisement Bundle Auction Protocol](https://governance.decentraland.org/proposal/?id=913a1b90-cc05-11ec-8d87-ddbb20320020) (Tier 5)
 * [Impression analytics dashboard for billboards and NFT surfaces.](https://governance.decentraland.org/proposal/?id=435d0c40-cbea-11ec-8d87-ddbb20320020) (Tier 4)
 * [First Decentraland native crypto debit card top up](https://governance.decentraland.org/proposal/?id=06eece00-c96b-11ec-90c9-11bf3c6f4ca1) (Tier 4)
@@ -147,7 +147,6 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 
 * [Ban the name 5y5467](https://governance.decentraland.org/proposal/?id=fcb93730-cb7d-11ec-90c9-11bf3c6f4ca1)
 * [Ban the name 23423](https://governance.decentraland.org/proposal/?id=55699800-c946-11ec-90c9-11bf3c6f4ca1)
-* [Ban the name gegegwgrwgrw](https://governance.decentraland.org/proposal/?id=d9660bb0-c799-11ec-90c9-11bf3c6f4ca1)
 
 ## Catalysts
 
@@ -155,7 +154,6 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 ## Polls
 
 * [Adding VP for Wearable Creations DCL](https://governance.decentraland.org/proposal/?id=d22828a0-ca7e-11ec-90c9-11bf3c6f4ca1)
-* [Place the wearables you own on your land](https://governance.decentraland.org/proposal/?id=a4b31290-c8f3-11ec-90c9-11bf3c6f4ca1)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
