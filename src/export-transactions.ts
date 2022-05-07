@@ -6,7 +6,7 @@ import { Decimals, Network, NetworkID, Token } from './interfaces/Network'
 import { APIEvents } from './interfaces/Transactions/Events'
 import { APITransactions } from './interfaces/Transactions/Transactions'
 import { APITransfers, TransferType } from './interfaces/Transactions/Transfers'
-import { fetchURL, flattenArray, saveToCSV, saveToJSON } from './utils'
+import { fetchURL, flattenArray, saveToCSV, saveToJSON, splitArray } from './utils'
 
 require('dotenv').config()
 
@@ -192,89 +192,105 @@ async function tagging(txs: TransactionParsed[]) {
   // console.log('Matic Orders 2:', maticOrdersTxs2.length)
   // return
 
-  let other = 0
-  for (let i = 0; i < txs.length; i++) {
-    let tx = txs[i]
-    tx.tag = '-'
+  const tagger = async (transactions: TransactionParsed[], block: number) => {
+    let other = 0
+    for (let i = 0; i < transactions.length; i++) {
+      let tx = transactions[i]
+      tx.tag = '-'
 
-    if (marketOrdersTxs.indexOf(tx.hash) != -1) {
-      tx.tag = 'ETH Marketplace'
-      continue
+      if (marketOrdersTxs.indexOf(tx.hash) != -1) {
+        tx.tag = 'ETH Marketplace'
+        continue
+      }
+
+      if (maticOrdersTxs.indexOf(tx.hash) != -1) {
+        tx.tag = 'MATIC Marketplace'
+        continue
+      }
+
+      // if(maticOrdersTxs2.indexOf(tx.hash) != -1) {
+      //     tx.tag = 'MATIC Marketplace 2'
+      //     continue
+      // }
+
+      if (tx.type === TransferType.OUT && GRANT_ADDRESSES.indexOf(tx.to) != -1) {
+        tx.tag = 'Grant'
+        continue
+      }
+
+      if (tx.type === TransferType.OUT && CURATOR_ADDRESSES.indexOf(tx.to) != -1) {
+        tx.tag = 'Curator'
+        continue
+      }
+
+      if (tx.type === TransferType.OUT && tx.to === FACILITATOR_ADDRESS) {
+        tx.tag = 'Facilitator'
+        continue
+      }
+
+      if (tx.type === TransferType.IN && tx.from === '0x7a3abf8897f31b56f09c6f69d074a393a905c1ac') {
+        tx.tag = 'Vesting Contract'
+        continue
+      }
+
+      if (tx.type === TransferType.IN && tx.from === '0x2da950f79d8bd7e7f815e1bbc43ecee2c7e7f5d3') {
+        tx.tag = 'EOA 0x2da95'
+        continue
+      }
+
+      if (tx.type === TransferType.IN && tx.from === '0x9b814233894cd227f561b78cc65891aa55c62ad2') {
+        tx.tag = 'OpenSea'
+        continue
+      }
+
+      if (tx.type === TransferType.IN && tx.from === '0x6d51fdc0c57cbbff6dac4a565b35a17b88c6ceb5') {
+        tx.tag = 'Swap'
+        continue
+      }
+
+      if (tx.type === TransferType.IN && tx.from === '0x56eddb7aa87536c09ccc2793473599fd21a8b17f') {
+        tx.tag = 'Swap'
+        continue
+      }
+
+      if (tx.network === Network.ETHEREUM) {
+        tx.tag = 'OTHER'
+        let fetched = false
+        do {
+          try {
+            const network = NetworkID[tx.network]
+            const url = `https://api.covalenthq.com/v1/${network}/transaction_v2/${tx.hash}/?key=${API_KEY}`
+            const json = await fetchURL(url)
+            const data: APITransactions = json.data
+            const isLooksRare = !!data && data.items[0].log_events.filter(log => log.sender_address === '0x59728544b08ab483533076417fbbb2fd0b17ce3a').length > 0
+            const isERC721Bid = !!data && data.items[0].log_events.filter(log => log.sender_address === '0xe479dfd9664c693b2e2992300930b00bfde08233').length > 0
+            const isSushiswap = !!data && data.items[0].log_events.filter(log => log.sender_address === '0x1bec4db6c3bc499f3dbf289f5499c30d541fec97').length > 0
+            const is1nch = !!data && data.items[0].log_events.filter(log => ONEINCH_ADDRESSES.indexOf(log.sender_address) != -1).length > 0
+            if (isLooksRare) tx.tag = 'LooksRare'
+            if (isERC721Bid) tx.tag = 'ETH Marketplace'
+            if (isSushiswap) tx.tag = 'Swap'
+            if (is1nch) tx.tag = 'Swap'
+            other++
+            console.log('other txn', i, `block = ${block}`)
+            fetched = true
+          } catch (error) {
+            console.log("retrying...")
+          }
+        } while (!fetched)
+      }
     }
 
-    if (maticOrdersTxs.indexOf(tx.hash) != -1) {
-      tx.tag = 'MATIC Marketplace'
-      continue
-    }
-
-    // if(maticOrdersTxs2.indexOf(tx.hash) != -1) {
-    //     tx.tag = 'MATIC Marketplace 2'
-    //     continue
-    // }
-
-    if (tx.type === TransferType.OUT && GRANT_ADDRESSES.indexOf(tx.to) != -1) {
-      tx.tag = 'Grant'
-      continue
-    }
-
-    if (tx.type === TransferType.OUT && CURATOR_ADDRESSES.indexOf(tx.to) != -1) {
-      tx.tag = 'Curator'
-      continue
-    }
-
-    if (tx.type === TransferType.OUT && tx.to === FACILITATOR_ADDRESS) {
-      tx.tag = 'Facilitator'
-      continue
-    }
-
-    if (tx.type === TransferType.IN && tx.from === '0x7a3abf8897f31b56f09c6f69d074a393a905c1ac') {
-      tx.tag = 'Vesting Contract'
-      continue
-    }
-
-    if (tx.type === TransferType.IN && tx.from === '0x2da950f79d8bd7e7f815e1bbc43ecee2c7e7f5d3') {
-      tx.tag = 'EOA 0x2da95'
-      continue
-    }
-
-    if (tx.type === TransferType.IN && tx.from === '0x9b814233894cd227f561b78cc65891aa55c62ad2') {
-      tx.tag = 'OpenSea'
-      continue
-    }
-
-    if (tx.type === TransferType.IN && tx.from === '0x6d51fdc0c57cbbff6dac4a565b35a17b88c6ceb5') {
-      tx.tag = 'Swap'
-      continue
-    }
-
-    if (tx.type === TransferType.IN && tx.from === '0x56eddb7aa87536c09ccc2793473599fd21a8b17f') {
-      tx.tag = 'Swap'
-      continue
-    }
-
-    if (tx.network === Network.ETHEREUM) {
-      tx.tag = 'OTHER'
-
-      const network = NetworkID[tx.network]
-      const url = `https://api.covalenthq.com/v1/${network}/transaction_v2/${tx.hash}/?key=${API_KEY}`
-      const json = await fetchURL(url)
-      const data: APITransactions = json.data
-      console.log('checking', i, other, i / txs.length * 100)
-      const isLooksRare = !!data && data.items[0].log_events.filter(log => log.sender_address === '0x59728544b08ab483533076417fbbb2fd0b17ce3a').length > 0
-      const isERC721Bid = !!data && data.items[0].log_events.filter(log => log.sender_address === '0xe479dfd9664c693b2e2992300930b00bfde08233').length > 0
-      const isSushiswap = !!data && data.items[0].log_events.filter(log => log.sender_address === '0x1bec4db6c3bc499f3dbf289f5499c30d541fec97').length > 0
-      const is1nch = !!data && data.items[0].log_events.filter(log => ONEINCH_ADDRESSES.indexOf(log.sender_address) != -1).length > 0
-      if (isLooksRare) tx.tag = 'LooksRare'
-      if (isERC721Bid) tx.tag = 'ETH Marketplace'
-      if (isSushiswap) tx.tag = 'Swap'
-      if (is1nch) tx.tag = 'Swap'
-      other++
-    }
+    console.log(`Other txns: ${other} - Block = ${block}`)
+    return transactions
   }
 
+  const dividedTxns = splitArray(txs, 10000)
+
+  const taggedTxns = flattenArray(await Promise.all(dividedTxns.map((t, idx) => tagger(t, idx))))
+
   console.log('Saving with tags...')
-  saveToJSON('transactions.json', txs)
-  saveToCSV('transactions.csv', txs, [
+  saveToJSON('transactions.json', taggedTxns)
+  saveToCSV('transactions.csv', taggedTxns, [
     { id: 'date', title: 'Date' },
     { id: 'wallet', title: 'Wallet' },
     { id: 'network', title: 'Network' },
