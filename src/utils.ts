@@ -103,3 +103,9 @@ export async function saveToCSV(name: string, data: any, header: ObjectStringifi
 export function flattenArray<Type>(arr: Type[][]): Type[] {
   return arr.reduce((acc, val) => acc.concat(val), [])
 }
+
+export function splitArray<Type>(array: Type[], chunkSize: number) {
+  return Array(Math.ceil(array.length / chunkSize)).fill(null).map(function (_, i) {
+    return array.slice(i * chunkSize, i * chunkSize + chunkSize)
+  })
+}
