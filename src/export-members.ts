@@ -58,11 +58,10 @@ async function main() {
   const where = 'space_in: ["snapshot.dcl.eth"], vp_gt: 10'
   const votes: Vote[] = await fetchGraphQL(url, 'votes', where, 'created', 'voter')
 
-  const allVoters = votes.map(v => v.voter)
-  const members = allVoters.filter((elem, pos) => allVoters.indexOf(elem) == pos)
-  console.log("Total Members:", members.length)
+  const members = new Set(votes.map(v => v.voter)) // Unique addresses
+  console.log("Total Members:", members.size)
 
-  const dividedAddresses = splitArray(members, 2000)
+  const dividedAddresses = splitArray(Array.from(members), 2000)
   const info = flattenArray(await Promise.all(dividedAddresses.map(getMembersInfo)))
 
   saveToJSON('members.json', info)
