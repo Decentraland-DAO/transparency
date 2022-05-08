@@ -123,6 +123,7 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
+* 6, -125: [Great location in the south](https://governance.decentraland.org/proposal/?id=31b53bc0-ce4c-11ec-8d87-ddbb20320020)
 * -147, 23: [The FMF365 Office Building](https://governance.decentraland.org/proposal/?id=220fd4a0-ccc1-11ec-8d87-ddbb20320020)
 * 14, 14: [Statue Of Liberty](https://governance.decentraland.org/proposal/?id=3bc28420-cbb7-11ec-90c9-11bf3c6f4ca1)
 * 130, -13: [No Name](https://governance.decentraland.org/proposal/?id=ebb6db70-cadf-11ec-90c9-11bf3c6f4ca1)
@@ -140,7 +141,6 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 * [Expansion of the Wilderness P2E Game](https://governance.decentraland.org/proposal/?id=73921310-c519-11ec-86b8-5dac6b550fc4) (Tier 6)
 * [Vroomway Play 2 Earn](https://governance.decentraland.org/proposal/?id=9b0c5c80-c4eb-11ec-86b8-5dac6b550fc4) (Tier 4)
 * [Community Educational Content on YouTube and RizeUpTV live Streaming](https://governance.decentraland.org/proposal/?id=16bf1a40-c3e6-11ec-86b8-5dac6b550fc4) (Tier 4)
-* [Decentral Comedy presents STREAM-X - 4 DAYS/96 HOURS of COMEDY in DECENTRALAND!](https://governance.decentraland.org/proposal/?id=ec8fc0a0-c31b-11ec-86b8-5dac6b550fc4) (Tier 4)
 
 ## Names Bans
 
@@ -152,7 +152,7 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
-* [Adding VP for Wearable Creations DCL](https://governance.decentraland.org/proposal/?id=d22828a0-ca7e-11ec-90c9-11bf3c6f4ca1)
+* [Extend Name length](https://governance.decentraland.org/proposal/?id=242e4880-ce19-11ec-8d87-ddbb20320020)
 
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
