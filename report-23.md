@@ -9,10 +9,9 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
-
 
 ## Points of Interest
 2 points of interest have been added to Decentraland’s map since the last report.
@@ -26,8 +25,8 @@ In the two weeks since the last DAO Committee report, 2 points of interest (POI)
 
 #### -130, 15: [Exclusive FASHION STREET &amp; ROAD! (-130,15) +Free NFT Gallery! @Klockmann#3349 on Discord for details - DCL Real Estate HQ Office - www.DCLRealEstate.org](https://governance.decentraland.org/proposal/?id=97042c80-c400-11ec-86b8-5dac6b550fc4)
 
-* Yes 99% 1,271,916 VP (15 votes)
-* No 0% 100 VP (1 votes)
+* Yes 99.99213846366712% 1,271,916 VP (15 votes)
+* No 0.007861536332876316% 100 VP (1 votes)
 
 
 ## Name Bans
@@ -39,19 +38,31 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since May 1, 3 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since May 1, 5 grants have been approved and the vesting contract(s) will be established within 7-10 days.
 
 
 #### [Daily Decentraland videos to highlight upcoming events](https://governance.decentraland.org/proposal/?id=25891a40-c84a-11ec-90c9-11bf3c6f4ca1) (Tier 2)
 
-* Yes 96% 1,187,655 VP (31 votes)
-* No 3% 38,846 VP (4 votes)
+* Yes 96.83277877474214% 1,187,655 VP (31 votes)
+* No 3.167221225257868% 38,846 VP (4 votes)
+
+
+#### [Expansion of the Wilderness P2E Game](https://governance.decentraland.org/proposal/?id=73921310-c519-11ec-86b8-5dac6b550fc4) (Tier 6)
+
+* Yes 99.99877434863677% 8,158,827 VP (143 votes)
+* No 0.0012256513632246005% 100 VP (2 votes)
+
+
+#### [Vroomway Play 2 Earn](https://governance.decentraland.org/proposal/?id=9b0c5c80-c4eb-11ec-86b8-5dac6b550fc4) (Tier 4)
+
+* Yes 79.93576953792082% 2,191,093 VP (173 votes)
+* No 20.064230462079184% 549,974 VP (7 votes)
 
 
 #### [Decentral Comedy presents STREAM-X - 4 DAYS/96 HOURS of COMEDY in DECENTRALAND!](https://governance.decentraland.org/proposal/?id=ec8fc0a0-c31b-11ec-86b8-5dac6b550fc4) (Tier 4)
 
-* Yes 99% 4,790,868 VP (30 votes)
-* No 0% 33,531 VP (1 votes)
+* Yes 99.30497042222254% 4,790,868 VP (30 votes)
+* No 0.69502957777746% 33,531 VP (1 votes)
 
 
 #### [The Uncensored Library in Decentraland](https://governance.decentraland.org/proposal/?id=efddde80-bf1b-11ec-86b8-5dac6b550fc4) (Tier 4)
@@ -71,9 +82,9 @@ Since May 1, 3 grants have been approved and the vesting contract(s) will be est
 
 #### [At least 1 VP should be in the account to make a proposal.](https://governance.decentraland.org/proposal/?id=5ddf0200-c814-11ec-90c9-11bf3c6f4ca1)
 
-* 1 vp should be required to make proposals 89% 959,111 VP (27 votes)
+* 1 vp should be required to make proposals 89.54256420597821% 959,111 VP (27 votes)
 * No vote power should be requited 0% 0 VP (1 votes)
-* Invalid question/options 10% 112,012 VP (2 votes)
+* Invalid question/options 10.457435794021789% 112,012 VP (2 votes)
 
 
 
@@ -86,7 +97,6 @@ Since May 1, 3 grants have been approved and the vesting contract(s) will be est
 * -147, 23: [The FMF365 Office Building](https://governance.decentraland.org/proposal/?id=220fd4a0-ccc1-11ec-8d87-ddbb20320020)
 * 14, 14: [Statue Of Liberty](https://governance.decentraland.org/proposal/?id=3bc28420-cbb7-11ec-90c9-11bf3c6f4ca1)
 * 130, -13: [No Name](https://governance.decentraland.org/proposal/?id=ebb6db70-cadf-11ec-90c9-11bf3c6f4ca1)
-* 138, -143: [Mr. Dhingia Club](https://governance.decentraland.org/proposal/?id=027be5d0-ca63-11ec-90c9-11bf3c6f4ca1)
 
 ## Grants
 
@@ -97,8 +107,6 @@ Since May 1, 3 grants have been approved and the vesting contract(s) will be est
 * [[Resubmission] 8MetaBalls](https://governance.decentraland.org/proposal/?id=a847c6e0-c6d6-11ec-90c9-11bf3c6f4ca1) (Tier 5)
 * [P2E (Weekly Decentraland Amazing Race) Every Waifumon Wednesday (Attempt 2)](https://governance.decentraland.org/proposal/?id=7431b280-c69a-11ec-90c9-11bf3c6f4ca1) (Tier 4)
 * [Decentraland’s first AI driven smart pets! (Untethered to user motion)](https://governance.decentraland.org/proposal/?id=b8125a10-c670-11ec-90c9-11bf3c6f4ca1) (Tier 6)
-* [Expansion of the Wilderness P2E Game](https://governance.decentraland.org/proposal/?id=73921310-c519-11ec-86b8-5dac6b550fc4) (Tier 6)
-* [Vroomway Play 2 Earn](https://governance.decentraland.org/proposal/?id=9b0c5c80-c4eb-11ec-86b8-5dac6b550fc4) (Tier 4)
 
 ## Names Bans
 
@@ -110,6 +118,5 @@ Since May 1, 3 grants have been approved and the vesting contract(s) will be est
 ## Polls
 
 * [Extend Name length](https://governance.decentraland.org/proposal/?id=242e4880-ce19-11ec-8d87-ddbb20320020)
-
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
