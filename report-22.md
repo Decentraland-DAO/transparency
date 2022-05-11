@@ -126,7 +126,6 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 * 6, -125: [Great location in the south](https://governance.decentraland.org/proposal/?id=31b53bc0-ce4c-11ec-8d87-ddbb20320020)
 * -147, 23: [The FMF365 Office Building](https://governance.decentraland.org/proposal/?id=220fd4a0-ccc1-11ec-8d87-ddbb20320020)
 * 14, 14: [Statue Of Liberty](https://governance.decentraland.org/proposal/?id=3bc28420-cbb7-11ec-90c9-11bf3c6f4ca1)
-* 130, -13: [No Name](https://governance.decentraland.org/proposal/?id=ebb6db70-cadf-11ec-90c9-11bf3c6f4ca1)
 
 ## Grants
 
@@ -140,7 +139,6 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 
 ## Names Bans
 
-* [Ban the name 5y5467](https://governance.decentraland.org/proposal/?id=fcb93730-cb7d-11ec-90c9-11bf3c6f4ca1)
 
 ## Catalysts
 
