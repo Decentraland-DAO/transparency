@@ -122,23 +122,22 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
+* -131, -142: [No Name](https://governance.decentraland.org/proposal/?id=1a581540-d128-11ec-ad28-1f8828797f44)
 * 85, -139: [EscapeRoom](https://governance.decentraland.org/proposal/?id=e060af50-cee8-11ec-8d87-ddbb20320020)
 * 6, -125: [Great location in the south](https://governance.decentraland.org/proposal/?id=31b53bc0-ce4c-11ec-8d87-ddbb20320020)
 * -147, 23: [The FMF365 Office Building](https://governance.decentraland.org/proposal/?id=220fd4a0-ccc1-11ec-8d87-ddbb20320020)
-* 14, 14: [Statue Of Liberty](https://governance.decentraland.org/proposal/?id=3bc28420-cbb7-11ec-90c9-11bf3c6f4ca1)
 
 ## Grants
 
+* [Web3 community for under-represented startup founders from creative industries](https://governance.decentraland.org/proposal/?id=cd56c640-d1d8-11ec-b521-2f98ffa6ccb0) (Tier 6)
 * [Pacific Cliffs Foundation Campaign to #SavetheCliffHouse with Community run DAO](https://governance.decentraland.org/proposal/?id=d7ee5a30-cd07-11ec-8d87-ddbb20320020) (Tier 4)
 * [MAD DAO - Radical Public Lease and Advertisement Bundle Auction Protocol](https://governance.decentraland.org/proposal/?id=913a1b90-cc05-11ec-8d87-ddbb20320020) (Tier 5)
 * [Impression analytics dashboard for billboards and NFT surfaces.](https://governance.decentraland.org/proposal/?id=435d0c40-cbea-11ec-8d87-ddbb20320020) (Tier 4)
 * [First Decentraland native crypto debit card top up](https://governance.decentraland.org/proposal/?id=06eece00-c96b-11ec-90c9-11bf3c6f4ca1) (Tier 4)
-* [[Resubmission] 8MetaBalls](https://governance.decentraland.org/proposal/?id=a847c6e0-c6d6-11ec-90c9-11bf3c6f4ca1) (Tier 5)
-* [P2E (Weekly Decentraland Amazing Race) Every Waifumon Wednesday (Attempt 2)](https://governance.decentraland.org/proposal/?id=7431b280-c69a-11ec-90c9-11bf3c6f4ca1) (Tier 4)
-* [Decentraland’s first AI driven smart pets! (Untethered to user motion)](https://governance.decentraland.org/proposal/?id=b8125a10-c670-11ec-90c9-11bf3c6f4ca1) (Tier 6)
 
 ## Names Bans
 
+* [Ban the name Check](https://governance.decentraland.org/proposal/?id=78997f80-d1c9-11ec-b521-2f98ffa6ccb0)
 
 ## Catalysts
 
