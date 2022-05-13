@@ -9,12 +9,18 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 7 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 7 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-2 points of interest have been added to Decentraland’s map since the last report.
+3 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -147, 23: [The FMF365 Office Building](https://governance.decentraland.org/proposal/?id=220fd4a0-ccc1-11ec-8d87-ddbb20320020)
+
+* Yes 97.50556695493032% 624,412 VP (30 votes)
+* No 2.4944330450696923% 15,974 VP (2 votes)
 
 
 #### 144, -14: [DCL Real Estate Office - www.DclRealEstate.org](https://governance.decentraland.org/proposal/?id=f26d0d80-c400-11ec-86b8-5dac6b550fc4)
@@ -107,7 +113,6 @@ Since May 1, 7 grants have been approved and the vesting contract(s) will be est
 * -131, -142: [No Name](https://governance.decentraland.org/proposal/?id=1a581540-d128-11ec-ad28-1f8828797f44)
 * 85, -139: [EscapeRoom](https://governance.decentraland.org/proposal/?id=e060af50-cee8-11ec-8d87-ddbb20320020)
 * 6, -125: [Great location in the south](https://governance.decentraland.org/proposal/?id=31b53bc0-ce4c-11ec-8d87-ddbb20320020)
-* -147, 23: [The FMF365 Office Building](https://governance.decentraland.org/proposal/?id=220fd4a0-ccc1-11ec-8d87-ddbb20320020)
 
 ## Grants
 
@@ -126,6 +131,5 @@ Since May 1, 7 grants have been approved and the vesting contract(s) will be est
 
 ## Polls
 
-* [Extend Name length](https://governance.decentraland.org/proposal/?id=242e4880-ce19-11ec-8d87-ddbb20320020)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

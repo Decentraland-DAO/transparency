@@ -125,7 +125,6 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 * -131, -142: [No Name](https://governance.decentraland.org/proposal/?id=1a581540-d128-11ec-ad28-1f8828797f44)
 * 85, -139: [EscapeRoom](https://governance.decentraland.org/proposal/?id=e060af50-cee8-11ec-8d87-ddbb20320020)
 * 6, -125: [Great location in the south](https://governance.decentraland.org/proposal/?id=31b53bc0-ce4c-11ec-8d87-ddbb20320020)
-* -147, 23: [The FMF365 Office Building](https://governance.decentraland.org/proposal/?id=220fd4a0-ccc1-11ec-8d87-ddbb20320020)
 
 ## Grants
 
@@ -144,6 +143,5 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
-* [Extend Name length](https://governance.decentraland.org/proposal/?id=242e4880-ce19-11ec-8d87-ddbb20320020)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
