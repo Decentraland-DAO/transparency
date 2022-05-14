@@ -122,12 +122,13 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
+* 85, -139: [EscapeRoom](https://governance.decentraland.org/proposal/?id=ababd8d0-d360-11ec-b521-2f98ffa6ccb0)
 * -131, -142: [No Name](https://governance.decentraland.org/proposal/?id=1a581540-d128-11ec-ad28-1f8828797f44)
-* 85, -139: [EscapeRoom](https://governance.decentraland.org/proposal/?id=e060af50-cee8-11ec-8d87-ddbb20320020)
 * 6, -125: [Great location in the south](https://governance.decentraland.org/proposal/?id=31b53bc0-ce4c-11ec-8d87-ddbb20320020)
 
 ## Grants
 
+* [Grant Support Squad](https://governance.decentraland.org/proposal/?id=7a236540-d305-11ec-b521-2f98ffa6ccb0) (Tier 5)
 * [Web3 community for under-represented startup founders from creative industries](https://governance.decentraland.org/proposal/?id=cd56c640-d1d8-11ec-b521-2f98ffa6ccb0) (Tier 6)
 * [Pacific Cliffs Foundation Campaign to #SavetheCliffHouse with Community run DAO](https://governance.decentraland.org/proposal/?id=d7ee5a30-cd07-11ec-8d87-ddbb20320020) (Tier 4)
 * [MAD DAO - Radical Public Lease and Advertisement Bundle Auction Protocol](https://governance.decentraland.org/proposal/?id=913a1b90-cc05-11ec-8d87-ddbb20320020) (Tier 5)
@@ -143,5 +144,7 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+* [Add district names to maps.](https://governance.decentraland.org/proposal/?id=f1342cd0-d2fd-11ec-b521-2f98ffa6ccb0)
+* [Should the DAO reimburse wearables creators for the secondary sales accrued between the passing of the DAO proposal and the marketplace smart contract update?](https://governance.decentraland.org/proposal/?id=af8c8f80-d2de-11ec-b521-2f98ffa6ccb0)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
