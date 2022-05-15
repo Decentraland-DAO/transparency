@@ -112,10 +112,11 @@ Since May 1, 7 grants have been approved and the vesting contract(s) will be est
 
 * 85, -139: [EscapeRoom](https://governance.decentraland.org/proposal/?id=ababd8d0-d360-11ec-b521-2f98ffa6ccb0)
 * -131, -142: [No Name](https://governance.decentraland.org/proposal/?id=1a581540-d128-11ec-ad28-1f8828797f44)
-* 6, -125: [Great location in the south](https://governance.decentraland.org/proposal/?id=31b53bc0-ce4c-11ec-8d87-ddbb20320020)
 
 ## Grants
 
+* [Development of &#34;Exodus: Goodbye World&#34;](https://governance.decentraland.org/proposal/?id=74b8b1c0-d40c-11ec-b521-2f98ffa6ccb0) (Tier 6)
+* [Requesting Tier 3 Grant for purchase of land for NFT project Smvsh Friends](https://governance.decentraland.org/proposal/?id=08d6b380-d3c1-11ec-b521-2f98ffa6ccb0) (Tier 3)
 * [Grant Support Squad](https://governance.decentraland.org/proposal/?id=7a236540-d305-11ec-b521-2f98ffa6ccb0) (Tier 5)
 * [Web3 community for under-represented startup founders from creative industries](https://governance.decentraland.org/proposal/?id=cd56c640-d1d8-11ec-b521-2f98ffa6ccb0) (Tier 6)
 * [Pacific Cliffs Foundation Campaign to #SavetheCliffHouse with Community run DAO](https://governance.decentraland.org/proposal/?id=d7ee5a30-cd07-11ec-8d87-ddbb20320020) (Tier 4)
