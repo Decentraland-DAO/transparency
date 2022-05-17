@@ -144,9 +144,9 @@ export const tokenContracts: Record<string, string> = {
 }
 
 export const itemContracts: Record<string, string> = {
-  '0x959e104e1a4db6317fa58f8295f586e1a978c297': "ESTATE",
-  '0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d': "LAND",
-  '0x2a187453064356c898cae034eaed119e1663acb8': "NAME",
+  '0x959e104e1a4db6317fa58f8295f586e1a978c297': "ESTATE fee",
+  '0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d': "LAND fee",
+  '0x2a187453064356c898cae034eaed119e1663acb8': "NAME fee",
 }
 
 export const Tags: Record<string, string> = {

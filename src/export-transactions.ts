@@ -156,7 +156,7 @@ async function findSecondarySalesTag(txs: TransactionParsed[], chunk: number) {
           secondarySalesTag(tx, itemContracts[log.sender_address.toLowerCase()])
         }
         else {
-          secondarySalesTag(tx, 'WEARABLE')
+          secondarySalesTag(tx, 'WEARABLE fee')
         }
 
       } catch (error) {
