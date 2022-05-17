@@ -4,8 +4,9 @@ import { GrantProposal } from './export-grants';
 import { Status } from './interfaces/GovernanceProposal';
 import { Decimals, Network, NetworkID, Token } from './interfaces/Network';
 import { APIEvents } from './interfaces/Transactions/Events';
+import { APITransactions } from './interfaces/Transactions/Transactions';
 import { APITransfers, TransferType } from './interfaces/Transactions/Transfers';
-import { fetchURL, flattenArray, saveToCSV, saveToJSON, setTransactionTag, splitArray, wallets } from './utils';
+import { fetchURL, flattenArray, itemContracts, saveToCSV, saveToJSON, setTransactionTag, splitArray, wallets } from './utils';
 
 require('dotenv').config()
 
@@ -134,6 +135,40 @@ async function getTransactions(name: string, tokenAddress: string, network: numb
   return transactions
 }
 
+async function findSecondarySalesTag(txs: TransactionParsed[], chunk: number) {
+  const secondarySalesTag = (tx: TransactionParsed, type: string) => { tx.tag = tx.tag.concat(` :: ${type}`) }
+
+  for (const tx of txs) {
+    let fetched = false
+    let maxRetries = 10
+
+    do {
+      try {
+        const network = NetworkID[tx.network]
+        const url = `https://api.covalenthq.com/v1/${network}/transaction_v2/${tx.hash}/?key=${API_KEY}`
+        const json = await fetchURL(url)
+        const data: APITransactions = json.data
+        fetched = true
+
+        const log = data.items[0].log_events.find(log => !!itemContracts[log.sender_address.toLowerCase()])
+
+        if (log) {
+          secondarySalesTag(tx, itemContracts[log.sender_address.toLowerCase()])
+        }
+        else {
+          secondarySalesTag(tx, 'WEARABLE')
+        }
+
+      } catch (error) {
+        console.log("retrying...")
+        maxRetries--
+      }
+    } while (!fetched && maxRetries > 0)
+  }
+
+  console.log(`Secondary sales tagged: ${txs.length} - Chunk = ${chunk}`)
+}
+
 async function main() {
   let unresolved_transactions: Promise<TransactionParsed[]>[] = []
 
@@ -225,11 +260,6 @@ async function tagging(txs: TransactionParsed[]) {
         continue
       }
 
-      if (tx.type === TransferType.IN && tx.from === '0x2da950f79d8bd7e7f815e1bbc43ecee2c7e7f5d3') {
-        tx.tag = 'EOA 0x2da95'
-        continue
-      }
-
       if (tx.type === TransferType.IN && (tx.from === OPENSEA_ADDRESS || tx.txFrom === OPENSEA_ADDRESS)) {
         tx.tag = 'OpenSea'
         continue
@@ -249,7 +279,17 @@ async function tagging(txs: TransactionParsed[]) {
 
   const dividedTxns = splitArray(txs, 10000)
 
-  const taggedTxns = flattenArray(await Promise.all(dividedTxns.map((t, idx) => tagger(t, idx))))
+  let taggedTxns = flattenArray(await Promise.all(dividedTxns.map(tagger)))
+  const secondarySales = taggedTxns.filter(tx => tx.tag === 'Secondary Sale')
+
+  const dividedSecondarySales = splitArray(secondarySales, 500)
+
+  console.log('TOTAL SECONDARY SALES CHUNKS:', dividedSecondarySales.length)
+
+  await Promise.all(dividedSecondarySales.map(findSecondarySalesTag))
+  const taggedsecondarySales = flattenArray(dividedSecondarySales)
+
+  taggedTxns = taggedTxns.map(tx => ({ ...tx, ...taggedsecondarySales.find(ss => tx.hash === ss.hash) }))
 
   console.log('Saving with tags...')
   saveToJSON('transactions.json', taggedTxns)

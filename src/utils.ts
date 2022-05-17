@@ -143,40 +143,63 @@ export const tokenContracts: Record<string, string> = {
   '0x2260fac5e5542a773aa44fbcfedf7c193bc2c599': "WBTC",
 }
 
-export const Tags: Record<string, string> = tokenContracts && {
+export const itemContracts: Record<string, string> = {
   '0x959e104e1a4db6317fa58f8295f586e1a978c297': "ESTATE",
   '0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d': "LAND",
-  '0xfe91c0c482e09600f2d1dbca10fd705bc6de60bc': "DAO Committee Member",
-  '0xbef99f5f55cf7cdb3a70998c57061b7e1386a9b0': "DAO Committee Member",
-  '0x8568f23f343694650370fe5e254b55bfb704a6c7': "Estate Land Balance",
-  '0x59728544b08ab483533076417fbbb2fd0b17ce3a': "LooksRare",
-  '0x9a6ebe7e2a7722f8200d0ffb63a1f6406a0d7dce': "DAO Agent",
-  '0xc176761d388caf2f56cf03329d82e1e7c48ae09c': "1inchSwap",
-  '0xb3c839dbde6b96d37c56ee4f9dad3390d49310aa': "1inchSwap",
-  '0x1111111254fb6c44bac0bed2854e76f90643097d': "1inchSwap",
-  '0x27239549dd40e1d60f5b80b0c4196923745b1fd2': "1inchSwap",
-  '0x3058ef90929cb8180174d74c507176cca6835d73': "1inchSwap",
-  '0x220bda5c8994804ac96ebe4df184d25e5c2196d4': "1inchSwap",
-  '0x5f5207df64b0f7ed56bf0b61733d3be8795f4e5a': "1inchSwap",
-  '0x397ff1542f962076d0bfe58ea045ffa2d347aca0': "SushiSwap",
-  '0x1bec4db6c3bc499f3dbf289f5499c30d541fec97': "SushiSwap",
-  '0xc3d03e4f041fd4cd388c549ee2a29a9e5075882f': "SushiSwap",
-  '0x06da0fd433c1a5d7a4faa01111c044910a184553': "SushiSwap",
-  '0x11b1f53204d03e5529f09eb3091939e4fd8c9cf3': "Uniswap",
-  '0x2ec255797fef7669fa243509b7a599121148ffba': "Quickswap",
   '0x2a187453064356c898cae034eaed119e1663acb8': "NAME",
-  '0x8e5660b4ab70168b5a6feea0e0315cb49c8cd539': "Secondary Sale",
-  '0x388fe75d523963c68f5741700403ca285bda5225': "Secondary Sale",
-  '0x7ea4ff532f7c90422cbc4e63250f82acbc0e59b2': "Failed Grant",
-  '0x7816095d41be0ef5875aa8046816ca64a506576a': "Failed Grant",
-  '0xe5109a2af4da771beb0213fc9c794fb889ccfb92': "Failed Grant",
-  '0x0babda04f62c549a09ef3313fe187f29c099ff3c': "Curation fee",
-  '0x9d32aac179153a991e832550d9f96441ea27763a': "Curation fee",
-  '0xecf073f91101ce5628669c487aee8f5822a101b1': "Collection mint fee", // Xmas2020
-  '0x480a0f4e360e8964e68858dd231c2922f1df45ef': "Collection mint fee", // TECH TRIBAL
-  '0xbf53c33235cbfc22cef5a61a83484b86342679c5': "Collection mint fee", // DGSummer2020
-  '0xd35147be6401dcb20811f2104c33de8e97ed6818': "Collection mint fee", // DCLLaunch
-  '0xc3ca6c364b854fd0a653a43f8344f8c22ddfdd26': "Collection mint fee", // CZ MERCENARY MTZ
-  '0x32b7495895264ac9d0b12d32afd435453458b1c6': "Collection mint fee", // CommunityContest
-  '0x4c290f486bae507719c562b6b524bdb71a2570c9': "Collection mint fee", // ATARI LAUNCH
+}
+
+export const Tags: Record<string, string> = {
+  ...tokenContracts, ...itemContracts, ...{
+    '0x2da950f79d8bd7e7f815e1bbc43ecee2c7e7f5d3': "EOA 0x2da95",
+    '0xfe91c0c482e09600f2d1dbca10fd705bc6de60bc': "DAO Committee Member",
+    '0xbef99f5f55cf7cdb3a70998c57061b7e1386a9b0': "DAO Committee Member",
+    '0x521b0fef9cdcf250abaf8e7bc798cbe13fa98692': "DAO Committee Member",
+    '0x59728544b08ab483533076417fbbb2fd0b17ce3a': "LooksRare",
+    '0xc176761d388caf2f56cf03329d82e1e7c48ae09c': "1inchSwap",
+    '0xb3c839dbde6b96d37c56ee4f9dad3390d49310aa': "1inchSwap",
+    '0x1111111254fb6c44bac0bed2854e76f90643097d': "1inchSwap",
+    '0x27239549dd40e1d60f5b80b0c4196923745b1fd2': "1inchSwap",
+    '0x3058ef90929cb8180174d74c507176cca6835d73': "1inchSwap",
+    '0x220bda5c8994804ac96ebe4df184d25e5c2196d4': "1inchSwap",
+    '0x5f5207df64b0f7ed56bf0b61733d3be8795f4e5a': "1inchSwap",
+    '0x397ff1542f962076d0bfe58ea045ffa2d347aca0': "SushiSwap",
+    '0x1bec4db6c3bc499f3dbf289f5499c30d541fec97': "SushiSwap",
+    '0xc3d03e4f041fd4cd388c549ee2a29a9e5075882f': "SushiSwap",
+    '0x06da0fd433c1a5d7a4faa01111c044910a184553': "SushiSwap",
+    '0x11b1f53204d03e5529f09eb3091939e4fd8c9cf3': "Uniswap",
+    '0x2ec255797fef7669fa243509b7a599121148ffba': "Quickswap",
+    '0x8e5660b4ab70168b5a6feea0e0315cb49c8cd539': "Secondary Sale",
+    '0x388fe75d523963c68f5741700403ca285bda5225': "Secondary Sale",
+    '0xf9f68fc85cc9791d264477d1bb1aa649f022e9dc': "Secondary Sale",
+    '0xcdd598d1588503e1609ae1e50cdb74473ffb0090': "Secondary Sale",
+    '0xb9f46b3c2e79238e01f510a60846bf5dcc981bc3': "Secondary Sale",
+    '0x1ea027314c055705ac09d9bc742e6eacc7a1ceb2': "Secondary Sale",
+    '0x2a9da28bcbf97a8c008fd211f5127b860613922d': "Secondary Sale",
+    '0x7ea4ff532f7c90422cbc4e63250f82acbc0e59b2': "Failed Grant",
+    '0x7816095d41be0ef5875aa8046816ca64a506576a': "Failed Grant",
+    '0xe5109a2af4da771beb0213fc9c794fb889ccfb92': "Failed Grant",
+    '0x0babda04f62c549a09ef3313fe187f29c099ff3c': "Curation fee",
+    '0x9d32aac179153a991e832550d9f96441ea27763a': "Curation fee",
+    '0xc04528c14c8ffd84c7c1fb6719b4a89853035cdd': 'Wearable transfer fee', // ExclusiveMasksCollection
+    '0xc1f4b0eea2bd6690930e6c66efd3e197d620b9c2': 'Wearable transfer fee', // Halloween2019Collection
+    '0xc3af02c0fd486c8e9da5788b915d6fff3f049866': 'Wearable transfer fee', // Xmas2019Collection
+    '0xf64dc33a192e056bb5f0e5049356a0498b502d50': 'Wearable transfer fee', // MCHCollection
+    '0x32b7495895264ac9d0b12d32afd435453458b1c6': 'Wearable transfer fee', // CommunityContestCollection
+    '0xd35147be6401dcb20811f2104c33de8e97ed6818': 'Wearable transfer fee', // DCLLaunchCollection
+    '0x3163d2cfee3183f9874e2869942cc62649eeb004': 'Wearable transfer fee', // DCGCollection
+    '0x201c3af8c471e5842428b74d1e7c0249adda2a92': 'Wearable transfer fee', // StaySafeCollection
+    '0x6a99abebb48819d2abe92c5e4dc4f48dc09a3ee8': 'Wearable transfer fee', // Moonshot2020Collection
+    '0x1e1d4e6262787c8a8783a37fee698bd42aa42bec': 'Wearable transfer fee', // DappcraftMoonminerCollection
+    '0xbf53c33235cbfc22cef5a61a83484b86342679c5': 'Wearable transfer fee', // DGSummer2020Collection
+    '0x75a3752579dc2d63ca229eebbe3537fbabf85a12': 'Wearable transfer fee', // PMOuttathisworldCollection
+    '0x574f64ac2e7215cba9752b85fc73030f35166bc0': 'Wearable transfer fee', // DgtbleHeadspaceCollection
+    '0x34ed0aa248f60f54dd32fbc9883d6137a491f4f3': 'Wearable transfer fee', // WonderzoneMeteorchaserCollection
+    '0xa8ee490e4c4da48cc1653502c1a77479d4d818de': 'Wearable transfer fee', // BinanceUsCollection
+    '0xfeb52cbf71b9adac957c6f948a6cf9980ac8c907': 'Wearable transfer fee', // Halloween2020Collection
+    '0xecf073f91101ce5628669c487aee8f5822a101b1': 'Wearable transfer fee', // Xmas2020Collection
+    '0x480a0f4e360e8964e68858dd231c2922f1df45ef': 'Wearable transfer fee', // TECH TRIBAL
+    '0xc3ca6c364b854fd0a653a43f8344f8c22ddfdd26': 'Wearable transfer fee', // CZ MERCENARY MTZ
+    '0x4c290f486bae507719c562b6b524bdb71a2570c9': 'Wearable transfer fee', // ATARI LAUNCH
+  }
 }
