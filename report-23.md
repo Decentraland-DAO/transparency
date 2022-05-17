@@ -110,11 +110,28 @@ Since May 1, 7 grants have been approved and the vesting contract(s) will be est
 
 ## Points of Interest
 
+* -42, -69: [No Name](https://governance.decentraland.org/proposal/?id=5e3a7f10-d573-11ec-b521-2f98ffa6ccb0)
+* -43, -97: [Manhattan DAO Club](https://governance.decentraland.org/proposal/?id=28cb8be0-d4ff-11ec-b521-2f98ffa6ccb0)
+* -56, -97: [Empress Tower](https://governance.decentraland.org/proposal/?id=03d989e0-d4ff-11ec-b521-2f98ffa6ccb0)
+* -19, -106: [Manhattan District Towers](https://governance.decentraland.org/proposal/?id=13bfab00-d4ff-11ec-b521-2f98ffa6ccb0)
+* -52, -102: [Kingston Tower](https://governance.decentraland.org/proposal/?id=d99ed6d0-d4fe-11ec-b521-2f98ffa6ccb0)
+* -12, -108: [Trinity Tower ](https://governance.decentraland.org/proposal/?id=c8cd6b50-d4fe-11ec-b521-2f98ffa6ccb0)
+* -40, -103: [Liberty Towers](https://governance.decentraland.org/proposal/?id=91b56a50-d4fe-11ec-b521-2f98ffa6ccb0)
+* -22, -103: [Brooklyn Towers](https://governance.decentraland.org/proposal/?id=a95f2790-d4fe-11ec-b521-2f98ffa6ccb0)
+* -86, -74: [Calligraphy Gallery ](https://governance.decentraland.org/proposal/?id=7c975340-d4f9-11ec-b521-2f98ffa6ccb0)
+* -42, -102: [Oasis Gallery](https://governance.decentraland.org/proposal/?id=49c1b6e0-d4f9-11ec-b521-2f98ffa6ccb0)
+* 13, -103: [iMining.com Headquarters](https://governance.decentraland.org/proposal/?id=dde541d0-d4f8-11ec-b521-2f98ffa6ccb0)
+* -74, 53: [District X](https://governance.decentraland.org/proposal/?id=5bf3fd70-d4a2-11ec-b521-2f98ffa6ccb0)
+* -85, 60: [District X](https://governance.decentraland.org/proposal/?id=e31b8ee0-d4a1-11ec-b521-2f98ffa6ccb0)
 * 85, -139: [EscapeRoom](https://governance.decentraland.org/proposal/?id=ababd8d0-d360-11ec-b521-2f98ffa6ccb0)
 * -131, -142: [No Name](https://governance.decentraland.org/proposal/?id=1a581540-d128-11ec-ad28-1f8828797f44)
 
 ## Grants
 
+* [Unicorn DAO brings Decentraland to NFT.NYC through physical Web3 Immersion](https://governance.decentraland.org/proposal/?id=4556cef0-d536-11ec-b521-2f98ffa6ccb0) (Tier 5)
+* [DAO Governance Squad 2H2022 Renewal](https://governance.decentraland.org/proposal/?id=524fb800-d532-11ec-b521-2f98ffa6ccb0) (Tier 6)
+* [SkillProfile® Scene and Interactive Game for Decentraland](https://governance.decentraland.org/proposal/?id=48d50360-d4ed-11ec-b521-2f98ffa6ccb0) (Tier 4)
+* [Build SkillProfile for Metaverse - Skills owned by the person, not the employer](https://governance.decentraland.org/proposal/?id=daa9b1c0-d4eb-11ec-b521-2f98ffa6ccb0) (Tier 4)
 * [Development of &#34;Exodus: Goodbye World&#34;](https://governance.decentraland.org/proposal/?id=74b8b1c0-d40c-11ec-b521-2f98ffa6ccb0) (Tier 6)
 * [Requesting Tier 3 Grant for purchase of land for NFT project Smvsh Friends](https://governance.decentraland.org/proposal/?id=08d6b380-d3c1-11ec-b521-2f98ffa6ccb0) (Tier 3)
 * [Grant Support Squad](https://governance.decentraland.org/proposal/?id=7a236540-d305-11ec-b521-2f98ffa6ccb0) (Tier 5)
@@ -122,7 +139,6 @@ Since May 1, 7 grants have been approved and the vesting contract(s) will be est
 * [Pacific Cliffs Foundation Campaign to #SavetheCliffHouse with Community run DAO](https://governance.decentraland.org/proposal/?id=d7ee5a30-cd07-11ec-8d87-ddbb20320020) (Tier 4)
 * [MAD DAO - Radical Public Lease and Advertisement Bundle Auction Protocol](https://governance.decentraland.org/proposal/?id=913a1b90-cc05-11ec-8d87-ddbb20320020) (Tier 5)
 * [Impression analytics dashboard for billboards and NFT surfaces.](https://governance.decentraland.org/proposal/?id=435d0c40-cbea-11ec-8d87-ddbb20320020) (Tier 4)
-* [First Decentraland native crypto debit card top up](https://governance.decentraland.org/proposal/?id=06eece00-c96b-11ec-90c9-11bf3c6f4ca1) (Tier 4)
 
 ## Names Bans
 
