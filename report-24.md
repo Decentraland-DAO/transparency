@@ -36,6 +36,7 @@ Since May 16, 0 grants have been approved and the vesting contract(s) will be es
 
 ## Points of Interest
 
+* 2, -39: [Edifice Metaversal](https://governance.decentraland.org/proposal/?id=919350c0-d619-11ec-b521-2f98ffa6ccb0)
 * -42, -69: [No Name](https://governance.decentraland.org/proposal/?id=5e3a7f10-d573-11ec-b521-2f98ffa6ccb0)
 * -43, -97: [Manhattan DAO Club](https://governance.decentraland.org/proposal/?id=28cb8be0-d4ff-11ec-b521-2f98ffa6ccb0)
 * -56, -97: [Empress Tower](https://governance.decentraland.org/proposal/?id=03d989e0-d4ff-11ec-b521-2f98ffa6ccb0)
@@ -54,6 +55,7 @@ Since May 16, 0 grants have been approved and the vesting contract(s) will be es
 
 ## Grants
 
+* [Continued Development and Expansion of Decentraland VR Client](https://governance.decentraland.org/proposal/?id=8fe0e0a0-d62b-11ec-b521-2f98ffa6ccb0) (Tier 6)
 * [Unicorn DAO brings Decentraland to NFT.NYC through physical Web3 Immersion](https://governance.decentraland.org/proposal/?id=4556cef0-d536-11ec-b521-2f98ffa6ccb0) (Tier 5)
 * [DAO Governance Squad 2H2022 Renewal](https://governance.decentraland.org/proposal/?id=524fb800-d532-11ec-b521-2f98ffa6ccb0) (Tier 6)
 * [SkillProfile® Scene and Interactive Game for Decentraland](https://governance.decentraland.org/proposal/?id=48d50360-d4ed-11ec-b521-2f98ffa6ccb0) (Tier 4)
