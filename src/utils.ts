@@ -151,7 +151,6 @@ export const itemContracts: Record<string, string> = {
 
 export const Tags: Record<string, string> = {
   ...tokenContracts, ...itemContracts, ...{
-    '0x2da950f79d8bd7e7f815e1bbc43ecee2c7e7f5d3': "EOA 0x2da95",
     '0xfe91c0c482e09600f2d1dbca10fd705bc6de60bc': "DAO Committee Member",
     '0xbef99f5f55cf7cdb3a70998c57061b7e1386a9b0': "DAO Committee Member",
     '0x521b0fef9cdcf250abaf8e7bc798cbe13fa98692': "DAO Committee Member",
