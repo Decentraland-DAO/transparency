@@ -132,7 +132,6 @@ Since May 1, 7 grants have been approved and the vesting contract(s) will be est
 * [DAO Governance Squad 2H2022 Renewal](https://governance.decentraland.org/proposal/?id=524fb800-d532-11ec-b521-2f98ffa6ccb0) (Tier 6)
 * [Build SkillProfile for Metaverse - Skills owned by the person, not the employer](https://governance.decentraland.org/proposal/?id=daa9b1c0-d4eb-11ec-b521-2f98ffa6ccb0) (Tier 4)
 * [Development of &#34;Exodus: Goodbye World&#34;](https://governance.decentraland.org/proposal/?id=74b8b1c0-d40c-11ec-b521-2f98ffa6ccb0) (Tier 6)
-* [Requesting Tier 3 Grant for purchase of land for NFT project Smvsh Friends](https://governance.decentraland.org/proposal/?id=08d6b380-d3c1-11ec-b521-2f98ffa6ccb0) (Tier 3)
 * [Grant Support Squad](https://governance.decentraland.org/proposal/?id=7a236540-d305-11ec-b521-2f98ffa6ccb0) (Tier 5)
 * [Web3 community for under-represented startup founders from creative industries](https://governance.decentraland.org/proposal/?id=cd56c640-d1d8-11ec-b521-2f98ffa6ccb0) (Tier 6)
 
@@ -145,6 +144,7 @@ Since May 1, 7 grants have been approved and the vesting contract(s) will be est
 
 ## Polls
 
+* [Change the Price of buying a name to 100usd in worth of mana](https://governance.decentraland.org/proposal/?id=78c618b0-d967-11ec-b521-2f98ffa6ccb0)
 * [MANA incentives for USDC-ICE LP on QuickSwap](https://governance.decentraland.org/proposal/?id=ece9b3e0-d7c9-11ec-b521-2f98ffa6ccb0)
 * [Halt the implementation of the Governance Proposal to adjust the creators fee to reflect a set fiat value of $500](https://governance.decentraland.org/proposal/?id=e1fcd600-d7a2-11ec-b521-2f98ffa6ccb0)
 * [1 Mana per Wearable Submission](https://governance.decentraland.org/proposal/?id=2eb06a30-d7a2-11ec-b521-2f98ffa6ccb0)
