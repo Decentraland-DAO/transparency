@@ -112,18 +112,6 @@ Since May 1, 7 grants have been approved and the vesting contract(s) will be est
 
 * 2, -39: [Edifice Metaversal](https://governance.decentraland.org/proposal/?id=919350c0-d619-11ec-b521-2f98ffa6ccb0)
 * -42, -69: [No Name](https://governance.decentraland.org/proposal/?id=5e3a7f10-d573-11ec-b521-2f98ffa6ccb0)
-* -43, -97: [Manhattan DAO Club](https://governance.decentraland.org/proposal/?id=28cb8be0-d4ff-11ec-b521-2f98ffa6ccb0)
-* -56, -97: [Empress Tower](https://governance.decentraland.org/proposal/?id=03d989e0-d4ff-11ec-b521-2f98ffa6ccb0)
-* -19, -106: [Manhattan District Towers](https://governance.decentraland.org/proposal/?id=13bfab00-d4ff-11ec-b521-2f98ffa6ccb0)
-* -52, -102: [Kingston Tower](https://governance.decentraland.org/proposal/?id=d99ed6d0-d4fe-11ec-b521-2f98ffa6ccb0)
-* -12, -108: [Trinity Tower ](https://governance.decentraland.org/proposal/?id=c8cd6b50-d4fe-11ec-b521-2f98ffa6ccb0)
-* -40, -103: [Liberty Towers](https://governance.decentraland.org/proposal/?id=91b56a50-d4fe-11ec-b521-2f98ffa6ccb0)
-* -22, -103: [Brooklyn Towers](https://governance.decentraland.org/proposal/?id=a95f2790-d4fe-11ec-b521-2f98ffa6ccb0)
-* -86, -74: [Calligraphy Gallery ](https://governance.decentraland.org/proposal/?id=7c975340-d4f9-11ec-b521-2f98ffa6ccb0)
-* -42, -102: [Oasis Gallery](https://governance.decentraland.org/proposal/?id=49c1b6e0-d4f9-11ec-b521-2f98ffa6ccb0)
-* 13, -103: [iMining.com Headquarters](https://governance.decentraland.org/proposal/?id=dde541d0-d4f8-11ec-b521-2f98ffa6ccb0)
-* -74, 53: [District X](https://governance.decentraland.org/proposal/?id=5bf3fd70-d4a2-11ec-b521-2f98ffa6ccb0)
-* -85, 60: [District X](https://governance.decentraland.org/proposal/?id=e31b8ee0-d4a1-11ec-b521-2f98ffa6ccb0)
 
 ## Grants
 

@@ -9,12 +9,72 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 10 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+10 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -43, -97: [Manhattan DAO Club](https://governance.decentraland.org/proposal/?id=28cb8be0-d4ff-11ec-b521-2f98ffa6ccb0)
+
+* Yes 56.74175516248323% 1,109,669 VP (11 votes)
+* No 43.25824483751678% 845,979 VP (1 votes)
+
+
+#### -56, -97: [Empress Tower](https://governance.decentraland.org/proposal/?id=03d989e0-d4ff-11ec-b521-2f98ffa6ccb0)
+
+* Yes 56.742109073951355% 1,109,685 VP (10 votes)
+* No 43.257890926048645% 845,979 VP (1 votes)
+
+
+#### -19, -106: [Manhattan District Towers](https://governance.decentraland.org/proposal/?id=13bfab00-d4ff-11ec-b521-2f98ffa6ccb0)
+
+* Yes 56.741401245224054% 1,109,653 VP (10 votes)
+* No 43.25859875477595% 845,979 VP (1 votes)
+
+
+#### -52, -102: [Kingston Tower](https://governance.decentraland.org/proposal/?id=d99ed6d0-d4fe-11ec-b521-2f98ffa6ccb0)
+
+* Yes 56.741556084737525% 1,109,660 VP (10 votes)
+* No 43.258443915262475% 845,979 VP (1 votes)
+
+
+#### -12, -108: [Trinity Tower ](https://governance.decentraland.org/proposal/?id=c8cd6b50-d4fe-11ec-b521-2f98ffa6ccb0)
+
+* Yes 56.74078187608534% 1,109,625 VP (9 votes)
+* No 43.25921812391466% 845,979 VP (1 votes)
+
+
+#### -40, -103: [Liberty Towers](https://governance.decentraland.org/proposal/?id=91b56a50-d4fe-11ec-b521-2f98ffa6ccb0)
+
+* Yes 56.74042794290004% 1,109,609 VP (8 votes)
+* No 43.25957205709996% 845,979 VP (1 votes)
+
+
+#### -22, -103: [Brooklyn Towers](https://governance.decentraland.org/proposal/?id=a95f2790-d4fe-11ec-b521-2f98ffa6ccb0)
+
+* Yes 56.74042794290004% 1,109,609 VP (8 votes)
+* No 43.25957205709996% 845,979 VP (1 votes)
+
+
+#### -86, -74: [Calligraphy Gallery ](https://governance.decentraland.org/proposal/?id=7c975340-d4f9-11ec-b521-2f98ffa6ccb0)
+
+* Yes 56.7406270310294% 1,109,618 VP (9 votes)
+* No 43.2593729689706% 845,979 VP (1 votes)
+
+
+#### -42, -102: [Oasis Gallery](https://governance.decentraland.org/proposal/?id=49c1b6e0-d4f9-11ec-b521-2f98ffa6ccb0)
+
+* Yes 56.7401628031722% 1,109,618 VP (9 votes)
+* No 43.2598371968278% 845,995 VP (2 votes)
+
+
+#### 13, -103: [iMining.com Headquarters](https://governance.decentraland.org/proposal/?id=dde541d0-d4f8-11ec-b521-2f98ffa6ccb0)
+
+* Yes 56.7406270310294% 1,109,618 VP (9 votes)
+* No 43.2593729689706% 845,979 VP (1 votes)
 
 
 ## Name Bans
@@ -52,18 +112,6 @@ Since May 16, 0 grants have been approved and the vesting contract(s) will be es
 
 * 2, -39: [Edifice Metaversal](https://governance.decentraland.org/proposal/?id=919350c0-d619-11ec-b521-2f98ffa6ccb0)
 * -42, -69: [No Name](https://governance.decentraland.org/proposal/?id=5e3a7f10-d573-11ec-b521-2f98ffa6ccb0)
-* -43, -97: [Manhattan DAO Club](https://governance.decentraland.org/proposal/?id=28cb8be0-d4ff-11ec-b521-2f98ffa6ccb0)
-* -56, -97: [Empress Tower](https://governance.decentraland.org/proposal/?id=03d989e0-d4ff-11ec-b521-2f98ffa6ccb0)
-* -19, -106: [Manhattan District Towers](https://governance.decentraland.org/proposal/?id=13bfab00-d4ff-11ec-b521-2f98ffa6ccb0)
-* -52, -102: [Kingston Tower](https://governance.decentraland.org/proposal/?id=d99ed6d0-d4fe-11ec-b521-2f98ffa6ccb0)
-* -12, -108: [Trinity Tower ](https://governance.decentraland.org/proposal/?id=c8cd6b50-d4fe-11ec-b521-2f98ffa6ccb0)
-* -40, -103: [Liberty Towers](https://governance.decentraland.org/proposal/?id=91b56a50-d4fe-11ec-b521-2f98ffa6ccb0)
-* -22, -103: [Brooklyn Towers](https://governance.decentraland.org/proposal/?id=a95f2790-d4fe-11ec-b521-2f98ffa6ccb0)
-* -86, -74: [Calligraphy Gallery ](https://governance.decentraland.org/proposal/?id=7c975340-d4f9-11ec-b521-2f98ffa6ccb0)
-* -42, -102: [Oasis Gallery](https://governance.decentraland.org/proposal/?id=49c1b6e0-d4f9-11ec-b521-2f98ffa6ccb0)
-* 13, -103: [iMining.com Headquarters](https://governance.decentraland.org/proposal/?id=dde541d0-d4f8-11ec-b521-2f98ffa6ccb0)
-* -74, 53: [District X](https://governance.decentraland.org/proposal/?id=5bf3fd70-d4a2-11ec-b521-2f98ffa6ccb0)
-* -85, 60: [District X](https://governance.decentraland.org/proposal/?id=e31b8ee0-d4a1-11ec-b521-2f98ffa6ccb0)
 
 ## Grants
 
