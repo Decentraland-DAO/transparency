@@ -110,31 +110,35 @@ Since May 1, 7 grants have been approved and the vesting contract(s) will be est
 
 ## Points of Interest
 
-* 2, -39: [Edifice Metaversal](https://governance.decentraland.org/proposal/?id=919350c0-d619-11ec-b521-2f98ffa6ccb0)
-* -42, -69: [No Name](https://governance.decentraland.org/proposal/?id=5e3a7f10-d573-11ec-b521-2f98ffa6ccb0)
+* 5, 16: [Metaparty](https://governance.decentraland.org/proposal/?id=fb0c4680-dcc0-11ec-8ad9-ab7454ba5993)
+* -85, 60: [District X](https://governance.decentraland.org/proposal/?id=afbe4b30-db60-11ec-8ad9-ab7454ba5993)
+* -74, 53: [District X](https://governance.decentraland.org/proposal/?id=535bc7f0-db60-11ec-8ad9-ab7454ba5993)
 
 ## Grants
 
+* [Decentraland’s first AI driven smart pets! (Resubmission)](https://governance.decentraland.org/proposal/?id=edaa5480-dc9a-11ec-8ad9-ab7454ba5993) (Tier 4)
+* [VoxBoards HQ Skate P2E Game in Decentraland](https://governance.decentraland.org/proposal/?id=bf1141e0-dc01-11ec-8ad9-ab7454ba5993) (Tier 4)
+* [I LOST MY PARCEL BECAUSE YOUR SOFTWARE CRASHED](https://governance.decentraland.org/proposal/?id=95740eb0-dbfe-11ec-8ad9-ab7454ba5993) (Tier 4)
+* [Full body tracking maths games for kids aged 4-8 years old played in metaverse](https://governance.decentraland.org/proposal/?id=0c093a80-db2f-11ec-8ad9-ab7454ba5993) (Tier 6)
 * [Continued Development and Expansion of Decentraland VR Client](https://governance.decentraland.org/proposal/?id=8fe0e0a0-d62b-11ec-b521-2f98ffa6ccb0) (Tier 6)
 * [Unicorn DAO brings Decentraland to NFT.NYC through physical Web3 Immersion](https://governance.decentraland.org/proposal/?id=4556cef0-d536-11ec-b521-2f98ffa6ccb0) (Tier 5)
 * [DAO Governance Squad 2H2022 Renewal](https://governance.decentraland.org/proposal/?id=524fb800-d532-11ec-b521-2f98ffa6ccb0) (Tier 6)
 * [Build SkillProfile for Metaverse - Skills owned by the person, not the employer](https://governance.decentraland.org/proposal/?id=daa9b1c0-d4eb-11ec-b521-2f98ffa6ccb0) (Tier 4)
 * [Development of &#34;Exodus: Goodbye World&#34;](https://governance.decentraland.org/proposal/?id=74b8b1c0-d40c-11ec-b521-2f98ffa6ccb0) (Tier 6)
 * [Grant Support Squad](https://governance.decentraland.org/proposal/?id=7a236540-d305-11ec-b521-2f98ffa6ccb0) (Tier 5)
-* [Web3 community for under-represented startup founders from creative industries](https://governance.decentraland.org/proposal/?id=cd56c640-d1d8-11ec-b521-2f98ffa6ccb0) (Tier 6)
 
 ## Names Bans
 
-* [Ban the name test](https://governance.decentraland.org/proposal/?id=7b0bded0-d74a-11ec-b521-2f98ffa6ccb0)
 
 ## Catalysts
 
 
 ## Polls
 
+* [Acquiring Bitcoin as a Long Term Treasury Asset](https://governance.decentraland.org/proposal/?id=1cd79310-dc7f-11ec-8ad9-ab7454ba5993)
+* [the DAO owns +$1M USDT, a really SUSSY coin](https://governance.decentraland.org/proposal/?id=19c1a8e0-dc71-11ec-8ad9-ab7454ba5993)
+* [Can we give everyone that votes 1 VP/Voting Power ?](https://governance.decentraland.org/proposal/?id=5a4adac0-dbc8-11ec-8ad9-ab7454ba5993)
+* [Grant beneficiaries should be validated as real persons before submitting a grant request](https://governance.decentraland.org/proposal/?id=7adc93b0-db77-11ec-8ad9-ab7454ba5993)
 * [Change the Price of buying a name to 100usd in worth of mana](https://governance.decentraland.org/proposal/?id=78c618b0-d967-11ec-b521-2f98ffa6ccb0)
-* [MANA incentives for USDC-ICE LP on QuickSwap](https://governance.decentraland.org/proposal/?id=ece9b3e0-d7c9-11ec-b521-2f98ffa6ccb0)
-* [Halt the implementation of the Governance Proposal to adjust the creators fee to reflect a set fiat value of $500](https://governance.decentraland.org/proposal/?id=e1fcd600-d7a2-11ec-b521-2f98ffa6ccb0)
-* [1 Mana per Wearable Submission](https://governance.decentraland.org/proposal/?id=2eb06a30-d7a2-11ec-b521-2f98ffa6ccb0)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
