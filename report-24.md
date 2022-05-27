@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 11 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
+In the two weeks since the last DAO Committee report, 11 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -97,6 +97,13 @@ Since May 16, 0 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+#### [Change the Price of buying a name to 100usd in worth of mana](https://governance.decentraland.org/proposal/?id=78c618b0-d967-11ec-b521-2f98ffa6ccb0)
+
+* Change to 100 usd equivalent in mana 8.40304033132664% 162,559 VP (13 votes)
+* Keep price&#39;s same 91.59695966867336% 1,771,967 VP (29 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 #### [MANA incentives for USDC-ICE LP on QuickSwap](https://governance.decentraland.org/proposal/?id=ece9b3e0-d7c9-11ec-b521-2f98ffa6ccb0)
 
 * Yes 58.58027579821612% 4,688,364 VP (114 votes)
@@ -130,6 +137,9 @@ Since May 16, 0 grants have been approved and the vesting contract(s) will be es
 
 ## Points of Interest
 
+* -38, 103: [CollecOnline](https://governance.decentraland.org/proposal/?id=23e2b720-dd9c-11ec-8ad9-ab7454ba5993)
+* -55, -127: [No Name](https://governance.decentraland.org/proposal/?id=433d3120-dd62-11ec-8ad9-ab7454ba5993)
+* -69, -139: [No Name](https://governance.decentraland.org/proposal/?id=4d16a900-dd22-11ec-8ad9-ab7454ba5993)
 * 5, 16: [Metaparty](https://governance.decentraland.org/proposal/?id=fb0c4680-dcc0-11ec-8ad9-ab7454ba5993)
 * -85, 60: [District X](https://governance.decentraland.org/proposal/?id=afbe4b30-db60-11ec-8ad9-ab7454ba5993)
 * -74, 53: [District X](https://governance.decentraland.org/proposal/?id=535bc7f0-db60-11ec-8ad9-ab7454ba5993)
@@ -155,10 +165,11 @@ Since May 16, 0 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+* [Enact the ability to dress your avatar from MarketPlace without logging into Decentraland itself (thru Inventory).](https://governance.decentraland.org/proposal/?id=ca7b6d90-dd0e-11ec-8ad9-ab7454ba5993)
+* [Improved backpack features](https://governance.decentraland.org/proposal/?id=8461fe90-dcec-11ec-8ad9-ab7454ba5993)
 * [Acquiring Bitcoin as a Long Term Treasury Asset](https://governance.decentraland.org/proposal/?id=1cd79310-dc7f-11ec-8ad9-ab7454ba5993)
 * [the DAO owns +$1M USDT, a really SUSSY coin](https://governance.decentraland.org/proposal/?id=19c1a8e0-dc71-11ec-8ad9-ab7454ba5993)
 * [Can we give everyone that votes 1 VP/Voting Power ?](https://governance.decentraland.org/proposal/?id=5a4adac0-dbc8-11ec-8ad9-ab7454ba5993)
 * [Grant beneficiaries should be validated as real persons before submitting a grant request](https://governance.decentraland.org/proposal/?id=7adc93b0-db77-11ec-8ad9-ab7454ba5993)
-* [Change the Price of buying a name to 100usd in worth of mana](https://governance.decentraland.org/proposal/?id=78c618b0-d967-11ec-b521-2f98ffa6ccb0)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

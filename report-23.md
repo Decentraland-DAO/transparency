@@ -110,6 +110,9 @@ Since May 1, 7 grants have been approved and the vesting contract(s) will be est
 
 ## Points of Interest
 
+* -38, 103: [CollecOnline](https://governance.decentraland.org/proposal/?id=23e2b720-dd9c-11ec-8ad9-ab7454ba5993)
+* -55, -127: [No Name](https://governance.decentraland.org/proposal/?id=433d3120-dd62-11ec-8ad9-ab7454ba5993)
+* -69, -139: [No Name](https://governance.decentraland.org/proposal/?id=4d16a900-dd22-11ec-8ad9-ab7454ba5993)
 * 5, 16: [Metaparty](https://governance.decentraland.org/proposal/?id=fb0c4680-dcc0-11ec-8ad9-ab7454ba5993)
 * -85, 60: [District X](https://governance.decentraland.org/proposal/?id=afbe4b30-db60-11ec-8ad9-ab7454ba5993)
 * -74, 53: [District X](https://governance.decentraland.org/proposal/?id=535bc7f0-db60-11ec-8ad9-ab7454ba5993)
@@ -135,10 +138,11 @@ Since May 1, 7 grants have been approved and the vesting contract(s) will be est
 
 ## Polls
 
+* [Enact the ability to dress your avatar from MarketPlace without logging into Decentraland itself (thru Inventory).](https://governance.decentraland.org/proposal/?id=ca7b6d90-dd0e-11ec-8ad9-ab7454ba5993)
+* [Improved backpack features](https://governance.decentraland.org/proposal/?id=8461fe90-dcec-11ec-8ad9-ab7454ba5993)
 * [Acquiring Bitcoin as a Long Term Treasury Asset](https://governance.decentraland.org/proposal/?id=1cd79310-dc7f-11ec-8ad9-ab7454ba5993)
 * [the DAO owns +$1M USDT, a really SUSSY coin](https://governance.decentraland.org/proposal/?id=19c1a8e0-dc71-11ec-8ad9-ab7454ba5993)
 * [Can we give everyone that votes 1 VP/Voting Power ?](https://governance.decentraland.org/proposal/?id=5a4adac0-dbc8-11ec-8ad9-ab7454ba5993)
 * [Grant beneficiaries should be validated as real persons before submitting a grant request](https://governance.decentraland.org/proposal/?id=7adc93b0-db77-11ec-8ad9-ab7454ba5993)
-* [Change the Price of buying a name to 100usd in worth of mana](https://governance.decentraland.org/proposal/?id=78c618b0-d967-11ec-b521-2f98ffa6ccb0)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
