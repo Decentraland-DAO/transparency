@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 11 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
+In the two weeks since the last DAO Committee report, 11 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -92,17 +92,16 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since May 16, 0 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since May 16, 1 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Grant Support Squad](https://governance.decentraland.org/proposal/?id=7a236540-d305-11ec-b521-2f98ffa6ccb0) (Tier 5)
+
+* Yes 96.19347287571223% 9,815,556 VP (77 votes)
+* No 3.8065271242877654% 388,417 VP (1 votes)
 
 
 ## Polls
-
-#### [Change the Price of buying a name to 100usd in worth of mana](https://governance.decentraland.org/proposal/?id=78c618b0-d967-11ec-b521-2f98ffa6ccb0)
-
-* Change to 100 usd equivalent in mana 8.40304033132664% 162,559 VP (13 votes)
-* Keep price&#39;s same 91.59695966867336% 1,771,967 VP (29 votes)
-* Invalid question/options 0% 0 VP (0 votes)
-
 
 #### [MANA incentives for USDC-ICE LP on QuickSwap](https://governance.decentraland.org/proposal/?id=ece9b3e0-d7c9-11ec-b521-2f98ffa6ccb0)
 
@@ -123,13 +122,6 @@ Since May 16, 0 grants have been approved and the vesting contract(s) will be es
 * Yes, add district names into the map 100% 1,145,078 VP (21 votes)
 * No 0% 0 VP (0 votes)
 * Invalid question/options 0% 0 VP (0 votes)
-
-
-#### [Should the DAO reimburse wearables creators for the secondary sales accrued between the passing of the DAO proposal and the marketplace smart contract update?](https://governance.decentraland.org/proposal/?id=af8c8f80-d2de-11ec-b521-2f98ffa6ccb0)
-
-* Yes, pay the creators now 11.733485471658522% 171,112 VP (12 votes)
-* No, don&#39;t pay creators 85.66983149126187% 1,249,342 VP (2 votes)
-* Invalid question/options 2.5966830370796026% 37,868 VP (2 votes)
 
 
 
@@ -155,7 +147,6 @@ Since May 16, 0 grants have been approved and the vesting contract(s) will be es
 * [DAO Governance Squad 2H2022 Renewal](https://governance.decentraland.org/proposal/?id=524fb800-d532-11ec-b521-2f98ffa6ccb0) (Tier 6)
 * [Build SkillProfile for Metaverse - Skills owned by the person, not the employer](https://governance.decentraland.org/proposal/?id=daa9b1c0-d4eb-11ec-b521-2f98ffa6ccb0) (Tier 4)
 * [Development of &#34;Exodus: Goodbye World&#34;](https://governance.decentraland.org/proposal/?id=74b8b1c0-d40c-11ec-b521-2f98ffa6ccb0) (Tier 6)
-* [Grant Support Squad](https://governance.decentraland.org/proposal/?id=7a236540-d305-11ec-b521-2f98ffa6ccb0) (Tier 5)
 
 ## Names Bans
 

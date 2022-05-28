@@ -128,7 +128,6 @@ Since May 1, 7 grants have been approved and the vesting contract(s) will be est
 * [DAO Governance Squad 2H2022 Renewal](https://governance.decentraland.org/proposal/?id=524fb800-d532-11ec-b521-2f98ffa6ccb0) (Tier 6)
 * [Build SkillProfile for Metaverse - Skills owned by the person, not the employer](https://governance.decentraland.org/proposal/?id=daa9b1c0-d4eb-11ec-b521-2f98ffa6ccb0) (Tier 4)
 * [Development of &#34;Exodus: Goodbye World&#34;](https://governance.decentraland.org/proposal/?id=74b8b1c0-d40c-11ec-b521-2f98ffa6ccb0) (Tier 6)
-* [Grant Support Squad](https://governance.decentraland.org/proposal/?id=7a236540-d305-11ec-b521-2f98ffa6ccb0) (Tier 5)
 
 ## Names Bans
 
