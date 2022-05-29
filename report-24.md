@@ -129,6 +129,8 @@ Since May 16, 1 grants have been approved and the vesting contract(s) will be es
 
 ## Points of Interest
 
+* 129, 19: [RARE! Cheapest Touching Dragon KingDom district](https://governance.decentraland.org/proposal/?id=652553c0-defd-11ec-8ad9-ab7454ba5993)
+* 7, -35: [Pdubverse](https://governance.decentraland.org/proposal/?id=a8c393f0-defb-11ec-8ad9-ab7454ba5993)
 * -38, 103: [CollecOnline](https://governance.decentraland.org/proposal/?id=23e2b720-dd9c-11ec-8ad9-ab7454ba5993)
 * -55, -127: [No Name](https://governance.decentraland.org/proposal/?id=433d3120-dd62-11ec-8ad9-ab7454ba5993)
 * -69, -139: [No Name](https://governance.decentraland.org/proposal/?id=4d16a900-dd22-11ec-8ad9-ab7454ba5993)
@@ -146,7 +148,6 @@ Since May 16, 1 grants have been approved and the vesting contract(s) will be es
 * [Unicorn DAO brings Decentraland to NFT.NYC through physical Web3 Immersion](https://governance.decentraland.org/proposal/?id=4556cef0-d536-11ec-b521-2f98ffa6ccb0) (Tier 5)
 * [DAO Governance Squad 2H2022 Renewal](https://governance.decentraland.org/proposal/?id=524fb800-d532-11ec-b521-2f98ffa6ccb0) (Tier 6)
 * [Build SkillProfile for Metaverse - Skills owned by the person, not the employer](https://governance.decentraland.org/proposal/?id=daa9b1c0-d4eb-11ec-b521-2f98ffa6ccb0) (Tier 4)
-* [Development of &#34;Exodus: Goodbye World&#34;](https://governance.decentraland.org/proposal/?id=74b8b1c0-d40c-11ec-b521-2f98ffa6ccb0) (Tier 6)
 
 ## Names Bans
 
