@@ -128,7 +128,6 @@ Since May 1, 7 grants have been approved and the vesting contract(s) will be est
 * [Continued Development and Expansion of Decentraland VR Client](https://governance.decentraland.org/proposal/?id=8fe0e0a0-d62b-11ec-b521-2f98ffa6ccb0) (Tier 6)
 * [Unicorn DAO brings Decentraland to NFT.NYC through physical Web3 Immersion](https://governance.decentraland.org/proposal/?id=4556cef0-d536-11ec-b521-2f98ffa6ccb0) (Tier 5)
 * [DAO Governance Squad 2H2022 Renewal](https://governance.decentraland.org/proposal/?id=524fb800-d532-11ec-b521-2f98ffa6ccb0) (Tier 6)
-* [Build SkillProfile for Metaverse - Skills owned by the person, not the employer](https://governance.decentraland.org/proposal/?id=daa9b1c0-d4eb-11ec-b521-2f98ffa6ccb0) (Tier 4)
 
 ## Names Bans
 
@@ -142,7 +141,5 @@ Since May 1, 7 grants have been approved and the vesting contract(s) will be est
 * [Improved backpack features](https://governance.decentraland.org/proposal/?id=8461fe90-dcec-11ec-8ad9-ab7454ba5993)
 * [Acquiring Bitcoin as a Long Term Treasury Asset](https://governance.decentraland.org/proposal/?id=1cd79310-dc7f-11ec-8ad9-ab7454ba5993)
 * [the DAO owns +$1M USDT, a really SUSSY coin](https://governance.decentraland.org/proposal/?id=19c1a8e0-dc71-11ec-8ad9-ab7454ba5993)
-* [Can we give everyone that votes 1 VP/Voting Power ?](https://governance.decentraland.org/proposal/?id=5a4adac0-dbc8-11ec-8ad9-ab7454ba5993)
-* [Grant beneficiaries should be validated as real persons before submitting a grant request](https://governance.decentraland.org/proposal/?id=7adc93b0-db77-11ec-8ad9-ab7454ba5993)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

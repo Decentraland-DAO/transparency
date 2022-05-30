@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 11 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
+In the two weeks since the last DAO Committee report, 11 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -103,6 +103,14 @@ Since May 16, 1 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+#### [Grant beneficiaries should be validated as real persons before submitting a grant request](https://governance.decentraland.org/proposal/?id=7adc93b0-db77-11ec-8ad9-ab7454ba5993)
+
+* Yes, implement a crypto-native validation method (i.e. PoH) 99.86568933667863% 507,096 VP (21 votes)
+* Yes, implement a traditional validation method (Proof of ID or any other) 0.013194742584357733% 67 VP (2 votes)
+* No, do not validate beneficiaries 0.12111592073701499% 615 VP (2 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 #### [MANA incentives for USDC-ICE LP on QuickSwap](https://governance.decentraland.org/proposal/?id=ece9b3e0-d7c9-11ec-b521-2f98ffa6ccb0)
 
 * Yes 58.58027579821612% 4,688,364 VP (114 votes)
@@ -147,7 +155,6 @@ Since May 16, 1 grants have been approved and the vesting contract(s) will be es
 * [Continued Development and Expansion of Decentraland VR Client](https://governance.decentraland.org/proposal/?id=8fe0e0a0-d62b-11ec-b521-2f98ffa6ccb0) (Tier 6)
 * [Unicorn DAO brings Decentraland to NFT.NYC through physical Web3 Immersion](https://governance.decentraland.org/proposal/?id=4556cef0-d536-11ec-b521-2f98ffa6ccb0) (Tier 5)
 * [DAO Governance Squad 2H2022 Renewal](https://governance.decentraland.org/proposal/?id=524fb800-d532-11ec-b521-2f98ffa6ccb0) (Tier 6)
-* [Build SkillProfile for Metaverse - Skills owned by the person, not the employer](https://governance.decentraland.org/proposal/?id=daa9b1c0-d4eb-11ec-b521-2f98ffa6ccb0) (Tier 4)
 
 ## Names Bans
 
@@ -161,7 +168,5 @@ Since May 16, 1 grants have been approved and the vesting contract(s) will be es
 * [Improved backpack features](https://governance.decentraland.org/proposal/?id=8461fe90-dcec-11ec-8ad9-ab7454ba5993)
 * [Acquiring Bitcoin as a Long Term Treasury Asset](https://governance.decentraland.org/proposal/?id=1cd79310-dc7f-11ec-8ad9-ab7454ba5993)
 * [the DAO owns +$1M USDT, a really SUSSY coin](https://governance.decentraland.org/proposal/?id=19c1a8e0-dc71-11ec-8ad9-ab7454ba5993)
-* [Can we give everyone that votes 1 VP/Voting Power ?](https://governance.decentraland.org/proposal/?id=5a4adac0-dbc8-11ec-8ad9-ab7454ba5993)
-* [Grant beneficiaries should be validated as real persons before submitting a grant request](https://governance.decentraland.org/proposal/?id=7adc93b0-db77-11ec-8ad9-ab7454ba5993)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
