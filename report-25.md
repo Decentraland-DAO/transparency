@@ -9,12 +9,24 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+2 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -38, 103: [CollecOnline](https://governance.decentraland.org/proposal/?id=23e2b720-dd9c-11ec-8ad9-ab7454ba5993)
+
+* Yes 100% 551,203 VP (26 votes)
+* No 0% 0 VP (0 votes)
+
+
+#### -69, -139: [No Name](https://governance.decentraland.org/proposal/?id=4d16a900-dd22-11ec-8ad9-ab7454ba5993)
+
+* Yes 100% 687,749 VP (76 votes)
+* No 0% 0 VP (0 votes)
 
 
 ## Name Bans
@@ -43,12 +55,11 @@ Since June 1, 0 grants have been approved and the vesting contract(s) will be es
 * -74, 53: [District X](https://governance.decentraland.org/proposal/?id=0ffcf830-e038-11ec-8ad9-ab7454ba5993)
 * 129, 19: [RARE! Cheapest Touching Dragon KingDom district](https://governance.decentraland.org/proposal/?id=652553c0-defd-11ec-8ad9-ab7454ba5993)
 * 7, -35: [Pdubverse](https://governance.decentraland.org/proposal/?id=a8c393f0-defb-11ec-8ad9-ab7454ba5993)
-* -38, 103: [CollecOnline](https://governance.decentraland.org/proposal/?id=23e2b720-dd9c-11ec-8ad9-ab7454ba5993)
-* -55, -127: [No Name](https://governance.decentraland.org/proposal/?id=433d3120-dd62-11ec-8ad9-ab7454ba5993)
-* -69, -139: [No Name](https://governance.decentraland.org/proposal/?id=4d16a900-dd22-11ec-8ad9-ab7454ba5993)
 
 ## Grants
 
+* [Decentraland Growth through Educational Content, and Advertisement Data](https://governance.decentraland.org/proposal/?id=baae9330-e2d4-11ec-9000-175d8dd584b8) (Tier 4)
+* [Decentraland Growth through Educational Content, and Advertisement Data](https://governance.decentraland.org/proposal/?id=522c45a0-e2d4-11ec-9000-175d8dd584b8) (Tier 4)
 * [Metaverse VR/Desktop Ride Simulator Experience](https://governance.decentraland.org/proposal/?id=2c9d9ae0-e1d6-11ec-bdb6-655e1f599935) (Tier 6)
 * [Creation of the First Audiovisual Hub in DCL](https://governance.decentraland.org/proposal/?id=62493ff0-e03c-11ec-8ad9-ab7454ba5993) (Tier 4)
 * [Decentraland’s first AI driven smart pets! (Resubmission)](https://governance.decentraland.org/proposal/?id=edaa5480-dc9a-11ec-8ad9-ab7454ba5993) (Tier 4)
@@ -65,6 +76,7 @@ Since June 1, 0 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+* [Should we allow an option to purchase NFTs on the DCL Marketplace in $ICE &amp; $MANA ?](https://governance.decentraland.org/proposal/?id=92c8f3b0-e2d4-11ec-9000-175d8dd584b8)
 * [increasing file size for full body](https://governance.decentraland.org/proposal/?id=de57e410-e1cd-11ec-ab46-7fb4b5e74735)
 * [increase in file size for full body](https://governance.decentraland.org/proposal/?id=806f0460-e1cc-11ec-ab46-7fb4b5e74735)
 * [Full screen mode improvement](https://governance.decentraland.org/proposal/?id=7f19a4b0-e0a7-11ec-8ad9-ab7454ba5993)
