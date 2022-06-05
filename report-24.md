@@ -156,13 +156,14 @@ Since May 16, 3 grants have been approved and the vesting contract(s) will be es
 
 ## Points of Interest
 
+* -103, -97: [MyosinMeta1](https://governance.decentraland.org/proposal/?id=68797770-e445-11ec-87ac-677925327766)
+* 115, -140: [No Name](https://governance.decentraland.org/proposal/?id=951901e0-e40b-11ec-87ac-677925327766)
+* -22, 37: [MagusOpus Arcanum](https://governance.decentraland.org/proposal/?id=46d525d0-e3c1-11ec-87ac-677925327766)
 * -1, -135: [Ideal double parcel, corner block units, road adjacent x3](https://governance.decentraland.org/proposal/?id=0d93d330-e1b3-11ec-8ad9-ab7454ba5993)
 * 137, -2: [The Inn](https://governance.decentraland.org/proposal/?id=dcec2be0-e119-11ec-8ad9-ab7454ba5993)
 * -115, -26: [ MetaPals NFT Club](https://governance.decentraland.org/proposal/?id=bd9ccfb0-e0f6-11ec-8ad9-ab7454ba5993)
 * -85, 60: [District X](https://governance.decentraland.org/proposal/?id=46a1c500-e038-11ec-8ad9-ab7454ba5993)
 * -74, 53: [District X](https://governance.decentraland.org/proposal/?id=0ffcf830-e038-11ec-8ad9-ab7454ba5993)
-* 129, 19: [RARE! Cheapest Touching Dragon KingDom district](https://governance.decentraland.org/proposal/?id=652553c0-defd-11ec-8ad9-ab7454ba5993)
-* 7, -35: [Pdubverse](https://governance.decentraland.org/proposal/?id=a8c393f0-defb-11ec-8ad9-ab7454ba5993)
 
 ## Grants
 
@@ -187,7 +188,5 @@ Since May 16, 3 grants have been approved and the vesting contract(s) will be es
 * [Should we allow an option to purchase NFTs on the DCL Marketplace in $ICE &amp; $MANA ?](https://governance.decentraland.org/proposal/?id=92c8f3b0-e2d4-11ec-9000-175d8dd584b8)
 * [increasing file size for full body](https://governance.decentraland.org/proposal/?id=de57e410-e1cd-11ec-ab46-7fb4b5e74735)
 * [increase in file size for full body](https://governance.decentraland.org/proposal/?id=806f0460-e1cc-11ec-ab46-7fb4b5e74735)
-* [Full screen mode improvement](https://governance.decentraland.org/proposal/?id=7f19a4b0-e0a7-11ec-8ad9-ab7454ba5993)
-* [Balanced Voting Power in Decentraland](https://governance.decentraland.org/proposal/?id=dfc7a4d0-e019-11ec-8ad9-ab7454ba5993)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
