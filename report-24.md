@@ -156,17 +156,18 @@ Since May 16, 3 grants have been approved and the vesting contract(s) will be es
 
 ## Points of Interest
 
+* 14, 14: [Statue Of Liberty](https://governance.decentraland.org/proposal/?id=a61b0c30-e62d-11ec-9a81-b1d70acf7d8d)
 * -103, -97: [MyosinMeta1](https://governance.decentraland.org/proposal/?id=68797770-e445-11ec-87ac-677925327766)
 * 115, -140: [No Name](https://governance.decentraland.org/proposal/?id=951901e0-e40b-11ec-87ac-677925327766)
 * -22, 37: [MagusOpus Arcanum](https://governance.decentraland.org/proposal/?id=46d525d0-e3c1-11ec-87ac-677925327766)
 * -1, -135: [Ideal double parcel, corner block units, road adjacent x3](https://governance.decentraland.org/proposal/?id=0d93d330-e1b3-11ec-8ad9-ab7454ba5993)
 * 137, -2: [The Inn](https://governance.decentraland.org/proposal/?id=dcec2be0-e119-11ec-8ad9-ab7454ba5993)
 * -115, -26: [ MetaPals NFT Club](https://governance.decentraland.org/proposal/?id=bd9ccfb0-e0f6-11ec-8ad9-ab7454ba5993)
-* -85, 60: [District X](https://governance.decentraland.org/proposal/?id=46a1c500-e038-11ec-8ad9-ab7454ba5993)
-* -74, 53: [District X](https://governance.decentraland.org/proposal/?id=0ffcf830-e038-11ec-8ad9-ab7454ba5993)
 
 ## Grants
 
+* [Bring the Lagoinha Christian Church to DCL](https://governance.decentraland.org/proposal/?id=0eb58140-e560-11ec-87ac-677925327766) (Tier 6)
+* [Car and apartment](https://governance.decentraland.org/proposal/?id=febe1c80-e527-11ec-87ac-677925327766) (Tier 4)
 * [Decentraland Growth through Educational Content, and Advertisement Data](https://governance.decentraland.org/proposal/?id=baae9330-e2d4-11ec-9000-175d8dd584b8) (Tier 4)
 * [Decentraland Growth through Educational Content, and Advertisement Data](https://governance.decentraland.org/proposal/?id=522c45a0-e2d4-11ec-9000-175d8dd584b8) (Tier 4)
 * [Metaverse VR/Desktop Ride Simulator Experience](https://governance.decentraland.org/proposal/?id=2c9d9ae0-e1d6-11ec-bdb6-655e1f599935) (Tier 6)
@@ -174,7 +175,6 @@ Since May 16, 3 grants have been approved and the vesting contract(s) will be es
 * [Decentraland’s first AI driven smart pets! (Resubmission)](https://governance.decentraland.org/proposal/?id=edaa5480-dc9a-11ec-8ad9-ab7454ba5993) (Tier 4)
 * [VoxBoards HQ Skate P2E Game in Decentraland](https://governance.decentraland.org/proposal/?id=bf1141e0-dc01-11ec-8ad9-ab7454ba5993) (Tier 4)
 * [I LOST MY PARCEL BECAUSE YOUR SOFTWARE CRASHED](https://governance.decentraland.org/proposal/?id=95740eb0-dbfe-11ec-8ad9-ab7454ba5993) (Tier 4)
-* [Full body tracking maths games for kids aged 4-8 years old played in metaverse](https://governance.decentraland.org/proposal/?id=0c093a80-db2f-11ec-8ad9-ab7454ba5993) (Tier 6)
 
 ## Names Bans
 
@@ -185,8 +185,8 @@ Since May 16, 3 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+* [Decentraland scenes as NFTs: Should scenes also be NFTs that can be sold within the Decentraland marketplace?](https://governance.decentraland.org/proposal/?id=a371ead0-e5a1-11ec-9a81-b1d70acf7d8d)
+* [Decentraland scenes as NFTs: Should scenes also be NFTs that can be sold within the Decentraland marketplace?](https://governance.decentraland.org/proposal/?id=72fb7420-e5a1-11ec-9a81-b1d70acf7d8d)
 * [Should we allow an option to purchase NFTs on the DCL Marketplace in $ICE &amp; $MANA ?](https://governance.decentraland.org/proposal/?id=92c8f3b0-e2d4-11ec-9000-175d8dd584b8)
-* [increasing file size for full body](https://governance.decentraland.org/proposal/?id=de57e410-e1cd-11ec-ab46-7fb4b5e74735)
-* [increase in file size for full body](https://governance.decentraland.org/proposal/?id=806f0460-e1cc-11ec-ab46-7fb4b5e74735)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
