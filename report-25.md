@@ -9,12 +9,24 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 5 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 7 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-5 points of interest have been added to Decentraland’s map since the last report.
+7 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 137, -2: [The Inn](https://governance.decentraland.org/proposal/?id=dcec2be0-e119-11ec-8ad9-ab7454ba5993)
+
+* Yes 100% 831,299 VP (53 votes)
+* No 0% 0 VP (0 votes)
+
+
+#### -115, -26: [ MetaPals NFT Club](https://governance.decentraland.org/proposal/?id=bd9ccfb0-e0f6-11ec-8ad9-ab7454ba5993)
+
+* Yes 100% 655,109 VP (13 votes)
+* No 0% 0 VP (0 votes)
 
 
 #### -85, 60: [District X](https://governance.decentraland.org/proposal/?id=46a1c500-e038-11ec-8ad9-ab7454ba5993)
@@ -56,10 +68,23 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since June 1, 0 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since June 1, 1 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [VoxBoards HQ Skate P2E Game in Decentraland](https://governance.decentraland.org/proposal/?id=bf1141e0-dc01-11ec-8ad9-ab7454ba5993) (Tier 4)
+
+* Yes 100% 2,771,513 VP (148 votes)
+* No 0% 0 VP (0 votes)
 
 
 ## Polls
+
+#### [Should we allow an option to purchase NFTs on the DCL Marketplace in $ICE &amp; $MANA ?](https://governance.decentraland.org/proposal/?id=92c8f3b0-e2d4-11ec-9000-175d8dd584b8)
+
+* Yes, this is necessary. 10.294782284860997% 142,365 VP (27 votes)
+* No, this is unnecessary. 89.70521771513901% 1,240,520 VP (23 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
 
 #### [Balanced Voting Power in Decentraland](https://governance.decentraland.org/proposal/?id=dfc7a4d0-e019-11ec-8ad9-ab7454ba5993)
 
@@ -79,8 +104,6 @@ Since June 1, 0 grants have been approved and the vesting contract(s) will be es
 * 115, -140: [No Name](https://governance.decentraland.org/proposal/?id=951901e0-e40b-11ec-87ac-677925327766)
 * -22, 37: [MagusOpus Arcanum](https://governance.decentraland.org/proposal/?id=46d525d0-e3c1-11ec-87ac-677925327766)
 * -1, -135: [Ideal double parcel, corner block units, road adjacent x3](https://governance.decentraland.org/proposal/?id=0d93d330-e1b3-11ec-8ad9-ab7454ba5993)
-* 137, -2: [The Inn](https://governance.decentraland.org/proposal/?id=dcec2be0-e119-11ec-8ad9-ab7454ba5993)
-* -115, -26: [ MetaPals NFT Club](https://governance.decentraland.org/proposal/?id=bd9ccfb0-e0f6-11ec-8ad9-ab7454ba5993)
 
 ## Grants
 
@@ -91,8 +114,6 @@ Since June 1, 0 grants have been approved and the vesting contract(s) will be es
 * [Metaverse VR/Desktop Ride Simulator Experience](https://governance.decentraland.org/proposal/?id=2c9d9ae0-e1d6-11ec-bdb6-655e1f599935) (Tier 6)
 * [Creation of the First Audiovisual Hub in DCL](https://governance.decentraland.org/proposal/?id=62493ff0-e03c-11ec-8ad9-ab7454ba5993) (Tier 4)
 * [Decentraland’s first AI driven smart pets! (Resubmission)](https://governance.decentraland.org/proposal/?id=edaa5480-dc9a-11ec-8ad9-ab7454ba5993) (Tier 4)
-* [VoxBoards HQ Skate P2E Game in Decentraland](https://governance.decentraland.org/proposal/?id=bf1141e0-dc01-11ec-8ad9-ab7454ba5993) (Tier 4)
-* [I LOST MY PARCEL BECAUSE YOUR SOFTWARE CRASHED](https://governance.decentraland.org/proposal/?id=95740eb0-dbfe-11ec-8ad9-ab7454ba5993) (Tier 4)
 
 ## Names Bans
 
@@ -104,7 +125,5 @@ Since June 1, 0 grants have been approved and the vesting contract(s) will be es
 ## Polls
 
 * [Decentraland scenes as NFTs: Should scenes also be NFTs that can be sold within the Decentraland marketplace?](https://governance.decentraland.org/proposal/?id=a371ead0-e5a1-11ec-9a81-b1d70acf7d8d)
-* [Decentraland scenes as NFTs: Should scenes also be NFTs that can be sold within the Decentraland marketplace?](https://governance.decentraland.org/proposal/?id=72fb7420-e5a1-11ec-9a81-b1d70acf7d8d)
-* [Should we allow an option to purchase NFTs on the DCL Marketplace in $ICE &amp; $MANA ?](https://governance.decentraland.org/proposal/?id=92c8f3b0-e2d4-11ec-9000-175d8dd584b8)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
