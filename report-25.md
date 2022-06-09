@@ -9,12 +9,18 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 7 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 8 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-7 points of interest have been added to Decentraland’s map since the last report.
+8 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -1, -135: [Ideal double parcel, corner block units, road adjacent x3](https://governance.decentraland.org/proposal/?id=0d93d330-e1b3-11ec-8ad9-ab7454ba5993)
+
+* Yes 100% 1,144,797 VP (25 votes)
+* No 0% 0 VP (0 votes)
 
 
 #### 137, -2: [The Inn](https://governance.decentraland.org/proposal/?id=dcec2be0-e119-11ec-8ad9-ab7454ba5993)
@@ -99,25 +105,27 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 
 ## Points of Interest
 
+* -62, 128: [Hen.world  (at Voltaire Plaza)](https://governance.decentraland.org/proposal/?id=ffbdb700-e73c-11ec-82d9-d917cdd158ac)
 * 14, 14: [Statue Of Liberty](https://governance.decentraland.org/proposal/?id=a61b0c30-e62d-11ec-9a81-b1d70acf7d8d)
 * -103, -97: [MyosinMeta1](https://governance.decentraland.org/proposal/?id=68797770-e445-11ec-87ac-677925327766)
 * 115, -140: [No Name](https://governance.decentraland.org/proposal/?id=951901e0-e40b-11ec-87ac-677925327766)
 * -22, 37: [MagusOpus Arcanum](https://governance.decentraland.org/proposal/?id=46d525d0-e3c1-11ec-87ac-677925327766)
-* -1, -135: [Ideal double parcel, corner block units, road adjacent x3](https://governance.decentraland.org/proposal/?id=0d93d330-e1b3-11ec-8ad9-ab7454ba5993)
 
 ## Grants
 
+* [Disruptive Technology &amp; science Hub](https://governance.decentraland.org/proposal/?id=321bac90-e7a4-11ec-82d9-d917cdd158ac) (Tier 6)
+* [Decentraland videos to highlight events &amp; promote in Chinese speaking community](https://governance.decentraland.org/proposal/?id=9c9aea50-e79e-11ec-82d9-d917cdd158ac) (Tier 2)
+* [Wear Essentials - Wearables for everyone](https://governance.decentraland.org/proposal/?id=b7334300-e751-11ec-82d9-d917cdd158ac) (Tier 6)
+* [Genesis city top-down map website and mapping script, 6-month renewal](https://governance.decentraland.org/proposal/?id=4fad3e80-e74b-11ec-82d9-d917cdd158ac) (Tier 4)
 * [Bring the Lagoinha Christian Church to DCL](https://governance.decentraland.org/proposal/?id=0eb58140-e560-11ec-87ac-677925327766) (Tier 6)
 * [Car and apartment](https://governance.decentraland.org/proposal/?id=febe1c80-e527-11ec-87ac-677925327766) (Tier 4)
 * [Decentraland Growth through Educational Content, and Advertisement Data](https://governance.decentraland.org/proposal/?id=baae9330-e2d4-11ec-9000-175d8dd584b8) (Tier 4)
 * [Decentraland Growth through Educational Content, and Advertisement Data](https://governance.decentraland.org/proposal/?id=522c45a0-e2d4-11ec-9000-175d8dd584b8) (Tier 4)
 * [Metaverse VR/Desktop Ride Simulator Experience](https://governance.decentraland.org/proposal/?id=2c9d9ae0-e1d6-11ec-bdb6-655e1f599935) (Tier 6)
 * [Creation of the First Audiovisual Hub in DCL](https://governance.decentraland.org/proposal/?id=62493ff0-e03c-11ec-8ad9-ab7454ba5993) (Tier 4)
-* [Decentraland’s first AI driven smart pets! (Resubmission)](https://governance.decentraland.org/proposal/?id=edaa5480-dc9a-11ec-8ad9-ab7454ba5993) (Tier 4)
 
 ## Names Bans
 
-* [Ban the name julie](https://governance.decentraland.org/proposal/?id=8e935300-e255-11ec-bdb6-655e1f599935)
 
 ## Catalysts
 
