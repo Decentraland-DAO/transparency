@@ -113,6 +113,8 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 
 ## Grants
 
+* [Full process wearable creation and submission tutorials](https://governance.decentraland.org/proposal/?id=91ebcb80-e8a5-11ec-82d9-d917cdd158ac) (Tier 3)
+* [Decentraland DAO Facilitation Squad Grant Proposal](https://governance.decentraland.org/proposal/?id=f8b699c0-e810-11ec-82d9-d917cdd158ac) (Tier 5)
 * [Disruptive Technology &amp; science Hub](https://governance.decentraland.org/proposal/?id=321bac90-e7a4-11ec-82d9-d917cdd158ac) (Tier 6)
 * [Decentraland videos to highlight events &amp; promote in Chinese speaking community](https://governance.decentraland.org/proposal/?id=9c9aea50-e79e-11ec-82d9-d917cdd158ac) (Tier 2)
 * [Wear Essentials - Wearables for everyone](https://governance.decentraland.org/proposal/?id=b7334300-e751-11ec-82d9-d917cdd158ac) (Tier 6)
