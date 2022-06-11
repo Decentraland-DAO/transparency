@@ -67,7 +67,6 @@ const CURATOR_ADDRESSES = new Set([
   '0x9db59920d3776c2d8a3aa0cbd7b16d81fcab0a2b',
   '0x6cdfdb9a4d99f16b5607cab1d00c792206db554e'
 ])
-const SWAP_ADDRESSES = new Set(['0x6d51fdc0c57cbbff6dac4a565b35a17b88c6ceb5', '0x56eddb7aa87536c09ccc2793473599fd21a8b17f'])
 const FACILITATOR_ADDRESS = '0x76fb13f00cdbdd5eac8e2664cf14be791af87cb0'
 const OPENSEA_ADDRESSES = new Set(['0x9b814233894cd227f561b78cc65891aa55c62ad2', '0x2da950f79d8bd7e7f815e1bbc43ecee2c7e7f5d3'])
 const VESTING_CONTRACT_ADDRESS = '0x7a3abf8897f31b56f09c6f69d074a393a905c1ac'
@@ -262,11 +261,6 @@ async function tagging(txs: TransactionParsed[]) {
 
       if (tx.type === TransferType.IN && (OPENSEA_ADDRESSES.has(tx.from) || OPENSEA_ADDRESSES.has(tx.txFrom))) {
         tx.tag = 'OpenSea'
-        continue
-      }
-
-      if (tx.type === TransferType.IN && SWAP_ADDRESSES.has(tx.from)) {
-        tx.tag = 'Swap'
         continue
       }
 
