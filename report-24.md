@@ -160,7 +160,6 @@ Since May 16, 3 grants have been approved and the vesting contract(s) will be es
 * 14, 14: [Statue Of Liberty](https://governance.decentraland.org/proposal/?id=a61b0c30-e62d-11ec-9a81-b1d70acf7d8d)
 * -103, -97: [MyosinMeta1](https://governance.decentraland.org/proposal/?id=68797770-e445-11ec-87ac-677925327766)
 * 115, -140: [No Name](https://governance.decentraland.org/proposal/?id=951901e0-e40b-11ec-87ac-677925327766)
-* -22, 37: [MagusOpus Arcanum](https://governance.decentraland.org/proposal/?id=46d525d0-e3c1-11ec-87ac-677925327766)
 
 ## Grants
 
@@ -185,6 +184,7 @@ Since May 16, 3 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+* [Should the foundation meet with Umbria-Narni bridge to discuss adding $MANA to the Umbria platform??](https://governance.decentraland.org/proposal/?id=94a2ede0-e8f5-11ec-82d9-d917cdd158ac)
 * [Decentraland scenes as NFTs: Should scenes also be NFTs that can be sold within the Decentraland marketplace?](https://governance.decentraland.org/proposal/?id=a371ead0-e5a1-11ec-9a81-b1d70acf7d8d)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
