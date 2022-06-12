@@ -9,12 +9,18 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 8 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 9 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-8 points of interest have been added to Decentraland’s map since the last report.
+9 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -103, -97: [MyosinMeta1](https://governance.decentraland.org/proposal/?id=68797770-e445-11ec-87ac-677925327766)
+
+* Yes 100% 728,260 VP (106 votes)
+* No 0% 0 VP (0 votes)
 
 
 #### -1, -135: [Ideal double parcel, corner block units, road adjacent x3](https://governance.decentraland.org/proposal/?id=0d93d330-e1b3-11ec-8ad9-ab7454ba5993)
@@ -85,6 +91,13 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+#### [Decentraland scenes as NFTs: Should scenes also be NFTs that can be sold within the Decentraland marketplace?](https://governance.decentraland.org/proposal/?id=a371ead0-e5a1-11ec-9a81-b1d70acf7d8d)
+
+* Yes 79.72088026593133% 3,950,860 VP (21 votes)
+* No 20.279119734068676% 1,005,006 VP (5 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 #### [Should we allow an option to purchase NFTs on the DCL Marketplace in $ICE &amp; $MANA ?](https://governance.decentraland.org/proposal/?id=92c8f3b0-e2d4-11ec-9000-175d8dd584b8)
 
 * Yes, this is necessary. 10.294782284860997% 142,365 VP (27 votes)
@@ -107,8 +120,6 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 
 * -62, 128: [Hen.world  (at Voltaire Plaza)](https://governance.decentraland.org/proposal/?id=ffbdb700-e73c-11ec-82d9-d917cdd158ac)
 * 14, 14: [Statue Of Liberty](https://governance.decentraland.org/proposal/?id=a61b0c30-e62d-11ec-9a81-b1d70acf7d8d)
-* -103, -97: [MyosinMeta1](https://governance.decentraland.org/proposal/?id=68797770-e445-11ec-87ac-677925327766)
-* 115, -140: [No Name](https://governance.decentraland.org/proposal/?id=951901e0-e40b-11ec-87ac-677925327766)
 
 ## Grants
 
@@ -134,6 +145,5 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 ## Polls
 
 * [Should the foundation meet with Umbria-Narni bridge to discuss adding $MANA to the Umbria platform??](https://governance.decentraland.org/proposal/?id=94a2ede0-e8f5-11ec-82d9-d917cdd158ac)
-* [Decentraland scenes as NFTs: Should scenes also be NFTs that can be sold within the Decentraland marketplace?](https://governance.decentraland.org/proposal/?id=a371ead0-e5a1-11ec-9a81-b1d70acf7d8d)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
