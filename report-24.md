@@ -182,6 +182,7 @@ Since May 16, 3 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+* [Can we add images to our parcels/estates (in map not buildings) so that it looks more attractive when viewing the lands on the map? Something like Sandbox.](https://governance.decentraland.org/proposal/?id=32191f30-eaff-11ec-82d9-d917cdd158ac)
 * [Should the foundation meet with Umbria-Narni bridge to discuss adding $MANA to the Umbria platform??](https://governance.decentraland.org/proposal/?id=94a2ede0-e8f5-11ec-82d9-d917cdd158ac)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
