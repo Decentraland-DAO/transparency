@@ -156,11 +156,14 @@ Since May 16, 3 grants have been approved and the vesting contract(s) will be es
 
 ## Points of Interest
 
+* 66, -1: [Plaza dev](https://governance.decentraland.org/proposal/?id=7e425540-eb20-11ec-82d9-d917cdd158ac)
 * -62, 128: [Hen.world  (at Voltaire Plaza)](https://governance.decentraland.org/proposal/?id=ffbdb700-e73c-11ec-82d9-d917cdd158ac)
-* 14, 14: [Statue Of Liberty](https://governance.decentraland.org/proposal/?id=a61b0c30-e62d-11ec-9a81-b1d70acf7d8d)
 
 ## Grants
 
+* [Decentraland featured on CBS Nationally](https://governance.decentraland.org/proposal/?id=a81e8610-eb4b-11ec-82d9-d917cdd158ac) (Tier 2)
+* [Web3 and Metaverse Journalism Hackathon Sponsorship](https://governance.decentraland.org/proposal/?id=a735d7c0-eb1f-11ec-82d9-d917cdd158ac) (Tier 4)
+* [Creating a market place like amazon, tourism and all in one market place](https://governance.decentraland.org/proposal/?id=a7e50ae0-eb1c-11ec-82d9-d917cdd158ac) (Tier 5)
 * [Full process wearable creation and submission tutorials](https://governance.decentraland.org/proposal/?id=91ebcb80-e8a5-11ec-82d9-d917cdd158ac) (Tier 3)
 * [Decentraland DAO Facilitation Squad Grant Proposal](https://governance.decentraland.org/proposal/?id=f8b699c0-e810-11ec-82d9-d917cdd158ac) (Tier 5)
 * [Disruptive Technology &amp; science Hub](https://governance.decentraland.org/proposal/?id=321bac90-e7a4-11ec-82d9-d917cdd158ac) (Tier 6)
@@ -172,7 +175,6 @@ Since May 16, 3 grants have been approved and the vesting contract(s) will be es
 * [Decentraland Growth through Educational Content, and Advertisement Data](https://governance.decentraland.org/proposal/?id=baae9330-e2d4-11ec-9000-175d8dd584b8) (Tier 4)
 * [Decentraland Growth through Educational Content, and Advertisement Data](https://governance.decentraland.org/proposal/?id=522c45a0-e2d4-11ec-9000-175d8dd584b8) (Tier 4)
 * [Metaverse VR/Desktop Ride Simulator Experience](https://governance.decentraland.org/proposal/?id=2c9d9ae0-e1d6-11ec-bdb6-655e1f599935) (Tier 6)
-* [Creation of the First Audiovisual Hub in DCL](https://governance.decentraland.org/proposal/?id=62493ff0-e03c-11ec-8ad9-ab7454ba5993) (Tier 4)
 
 ## Names Bans
 
