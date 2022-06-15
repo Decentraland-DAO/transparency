@@ -123,6 +123,7 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 
 ## Grants
 
+* [A well-designed mascot that boosts the DCL community](https://governance.decentraland.org/proposal/?id=61214010-ec84-11ec-aa01-87bd234b340d) (Tier 2)
 * [Decentraland featured on CBS Nationally](https://governance.decentraland.org/proposal/?id=a81e8610-eb4b-11ec-82d9-d917cdd158ac) (Tier 2)
 * [Web3 and Metaverse Journalism Hackathon Sponsorship](https://governance.decentraland.org/proposal/?id=a735d7c0-eb1f-11ec-82d9-d917cdd158ac) (Tier 4)
 * [Creating a market place like amazon, tourism and all in one market place](https://governance.decentraland.org/proposal/?id=a7e50ae0-eb1c-11ec-82d9-d917cdd158ac) (Tier 5)
