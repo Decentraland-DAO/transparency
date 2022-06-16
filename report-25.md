@@ -118,11 +118,13 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 
 ## Points of Interest
 
+* -135, 25: [No Name](https://governance.decentraland.org/proposal/?id=e00da1e0-ed27-11ec-aa01-87bd234b340d)
+* -12, -45: [Angels Cove](https://governance.decentraland.org/proposal/?id=e5e51150-ed1a-11ec-aa01-87bd234b340d)
 * 66, -1: [Plaza dev](https://governance.decentraland.org/proposal/?id=7e425540-eb20-11ec-82d9-d917cdd158ac)
-* -62, 128: [Hen.world  (at Voltaire Plaza)](https://governance.decentraland.org/proposal/?id=ffbdb700-e73c-11ec-82d9-d917cdd158ac)
 
 ## Grants
 
+* [Preparing detailed financial statements, budget, and long-range forecast](https://governance.decentraland.org/proposal/?id=a31bfa40-ed02-11ec-aa01-87bd234b340d) (Tier 4)
 * [A well-designed mascot that boosts the DCL community](https://governance.decentraland.org/proposal/?id=61214010-ec84-11ec-aa01-87bd234b340d) (Tier 2)
 * [Decentraland featured on CBS Nationally](https://governance.decentraland.org/proposal/?id=a81e8610-eb4b-11ec-82d9-d917cdd158ac) (Tier 2)
 * [Web3 and Metaverse Journalism Hackathon Sponsorship](https://governance.decentraland.org/proposal/?id=a735d7c0-eb1f-11ec-82d9-d917cdd158ac) (Tier 4)
@@ -130,14 +132,12 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 * [Full process wearable creation and submission tutorials](https://governance.decentraland.org/proposal/?id=91ebcb80-e8a5-11ec-82d9-d917cdd158ac) (Tier 3)
 * [Decentraland DAO Facilitation Squad Grant Proposal](https://governance.decentraland.org/proposal/?id=f8b699c0-e810-11ec-82d9-d917cdd158ac) (Tier 5)
 * [Disruptive Technology &amp; science Hub](https://governance.decentraland.org/proposal/?id=321bac90-e7a4-11ec-82d9-d917cdd158ac) (Tier 6)
-* [Decentraland videos to highlight events &amp; promote in Chinese speaking community](https://governance.decentraland.org/proposal/?id=9c9aea50-e79e-11ec-82d9-d917cdd158ac) (Tier 2)
 * [Wear Essentials - Wearables for everyone](https://governance.decentraland.org/proposal/?id=b7334300-e751-11ec-82d9-d917cdd158ac) (Tier 6)
 * [Genesis city top-down map website and mapping script, 6-month renewal](https://governance.decentraland.org/proposal/?id=4fad3e80-e74b-11ec-82d9-d917cdd158ac) (Tier 4)
 * [Bring the Lagoinha Christian Church to DCL](https://governance.decentraland.org/proposal/?id=0eb58140-e560-11ec-87ac-677925327766) (Tier 6)
 * [Car and apartment](https://governance.decentraland.org/proposal/?id=febe1c80-e527-11ec-87ac-677925327766) (Tier 4)
 * [Decentraland Growth through Educational Content, and Advertisement Data](https://governance.decentraland.org/proposal/?id=baae9330-e2d4-11ec-9000-175d8dd584b8) (Tier 4)
 * [Decentraland Growth through Educational Content, and Advertisement Data](https://governance.decentraland.org/proposal/?id=522c45a0-e2d4-11ec-9000-175d8dd584b8) (Tier 4)
-* [Metaverse VR/Desktop Ride Simulator Experience](https://governance.decentraland.org/proposal/?id=2c9d9ae0-e1d6-11ec-bdb6-655e1f599935) (Tier 6)
 
 ## Names Bans
 
@@ -148,6 +148,5 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 ## Polls
 
 * [Can we add images to our parcels/estates (in map not buildings) so that it looks more attractive when viewing the lands on the map? Something like Sandbox.](https://governance.decentraland.org/proposal/?id=32191f30-eaff-11ec-82d9-d917cdd158ac)
-* [Should the foundation meet with Umbria-Narni bridge to discuss adding $MANA to the Umbria platform??](https://governance.decentraland.org/proposal/?id=94a2ede0-e8f5-11ec-82d9-d917cdd158ac)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
