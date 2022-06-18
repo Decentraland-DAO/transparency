@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -26,7 +26,13 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since June 16, 1 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since June 16, 2 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Full process wearable creation and submission tutorials](https://governance.decentraland.org/proposal/?id=91ebcb80-e8a5-11ec-82d9-d917cdd158ac) (Tier 3)
+
+* Yes 97.39840136020142% 1,642,925 VP (34 votes)
+* No 2.601598639798578% 43,884 VP (6 votes)
 
 
 #### [Decentraland videos to highlight events &amp; promote in Chinese speaking community](https://governance.decentraland.org/proposal/?id=9c9aea50-e79e-11ec-82d9-d917cdd158ac) (Tier 2)
@@ -48,20 +54,19 @@ Since June 16, 1 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [DCL-Edit - Further Development](https://governance.decentraland.org/proposal/?id=4b6bb7e0-eed8-11ec-aa01-87bd234b340d) (Tier 6)
+* [Easy Land Renting - Lands for everyone! [Onboarding users] [+5% to DAO per sale]](https://governance.decentraland.org/proposal/?id=74473440-ee84-11ec-aa01-87bd234b340d) (Tier 4)
 * [Preparing detailed financial statements, budget, and long-range forecast](https://governance.decentraland.org/proposal/?id=a31bfa40-ed02-11ec-aa01-87bd234b340d) (Tier 4)
 * [A well-designed mascot that boosts the DCL community](https://governance.decentraland.org/proposal/?id=61214010-ec84-11ec-aa01-87bd234b340d) (Tier 2)
 * [Decentraland featured on CBS Nationally](https://governance.decentraland.org/proposal/?id=a81e8610-eb4b-11ec-82d9-d917cdd158ac) (Tier 2)
 * [Web3 and Metaverse Journalism Hackathon Sponsorship](https://governance.decentraland.org/proposal/?id=a735d7c0-eb1f-11ec-82d9-d917cdd158ac) (Tier 4)
 * [Creating a market place like amazon, tourism and all in one market place](https://governance.decentraland.org/proposal/?id=a7e50ae0-eb1c-11ec-82d9-d917cdd158ac) (Tier 5)
-* [Full process wearable creation and submission tutorials](https://governance.decentraland.org/proposal/?id=91ebcb80-e8a5-11ec-82d9-d917cdd158ac) (Tier 3)
 * [Decentraland DAO Facilitation Squad Grant Proposal](https://governance.decentraland.org/proposal/?id=f8b699c0-e810-11ec-82d9-d917cdd158ac) (Tier 5)
 * [Disruptive Technology &amp; science Hub](https://governance.decentraland.org/proposal/?id=321bac90-e7a4-11ec-82d9-d917cdd158ac) (Tier 6)
 * [Wear Essentials - Wearables for everyone](https://governance.decentraland.org/proposal/?id=b7334300-e751-11ec-82d9-d917cdd158ac) (Tier 6)
 * [Genesis city top-down map website and mapping script, 6-month renewal](https://governance.decentraland.org/proposal/?id=4fad3e80-e74b-11ec-82d9-d917cdd158ac) (Tier 4)
 * [Bring the Lagoinha Christian Church to DCL](https://governance.decentraland.org/proposal/?id=0eb58140-e560-11ec-87ac-677925327766) (Tier 6)
 * [Car and apartment](https://governance.decentraland.org/proposal/?id=febe1c80-e527-11ec-87ac-677925327766) (Tier 4)
-* [Decentraland Growth through Educational Content, and Advertisement Data](https://governance.decentraland.org/proposal/?id=baae9330-e2d4-11ec-9000-175d8dd584b8) (Tier 4)
-* [Decentraland Growth through Educational Content, and Advertisement Data](https://governance.decentraland.org/proposal/?id=522c45a0-e2d4-11ec-9000-175d8dd584b8) (Tier 4)
 
 ## Names Bans
 
@@ -71,6 +76,6 @@ Since June 16, 1 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
-* [Can we add images to our parcels/estates (in map not buildings) so that it looks more attractive when viewing the lands on the map? Something like Sandbox.](https://governance.decentraland.org/proposal/?id=32191f30-eaff-11ec-82d9-d917cdd158ac)
+* [NFT Mint Amount Options](https://governance.decentraland.org/proposal/?id=f78ecc00-ee39-11ec-aa01-87bd234b340d)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
