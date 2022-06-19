@@ -124,8 +124,8 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 
 ## Grants
 
+* [Bring renewable electricity to Decentraland](https://governance.decentraland.org/proposal/?id=693177c0-ef04-11ec-aa01-87bd234b340d) (Tier 4)
 * [DCL-Edit - Further Development](https://governance.decentraland.org/proposal/?id=4b6bb7e0-eed8-11ec-aa01-87bd234b340d) (Tier 6)
-* [Easy Land Renting - Lands for everyone! [Onboarding users] [+5% to DAO per sale]](https://governance.decentraland.org/proposal/?id=74473440-ee84-11ec-aa01-87bd234b340d) (Tier 4)
 * [Preparing detailed financial statements, budget, and long-range forecast](https://governance.decentraland.org/proposal/?id=a31bfa40-ed02-11ec-aa01-87bd234b340d) (Tier 4)
 * [A well-designed mascot that boosts the DCL community](https://governance.decentraland.org/proposal/?id=61214010-ec84-11ec-aa01-87bd234b340d) (Tier 2)
 * [Decentraland featured on CBS Nationally](https://governance.decentraland.org/proposal/?id=a81e8610-eb4b-11ec-82d9-d917cdd158ac) (Tier 2)
