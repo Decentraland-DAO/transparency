@@ -135,8 +135,6 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 * [Disruptive Technology &amp; science Hub](https://governance.decentraland.org/proposal/?id=321bac90-e7a4-11ec-82d9-d917cdd158ac) (Tier 6)
 * [Wear Essentials - Wearables for everyone](https://governance.decentraland.org/proposal/?id=b7334300-e751-11ec-82d9-d917cdd158ac) (Tier 6)
 * [Genesis city top-down map website and mapping script, 6-month renewal](https://governance.decentraland.org/proposal/?id=4fad3e80-e74b-11ec-82d9-d917cdd158ac) (Tier 4)
-* [Bring the Lagoinha Christian Church to DCL](https://governance.decentraland.org/proposal/?id=0eb58140-e560-11ec-87ac-677925327766) (Tier 6)
-* [Car and apartment](https://governance.decentraland.org/proposal/?id=febe1c80-e527-11ec-87ac-677925327766) (Tier 4)
 
 ## Names Bans
 
