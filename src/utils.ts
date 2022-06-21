@@ -3,6 +3,7 @@ import { ObjectStringifierHeader } from 'csv-writer/src/lib/record'
 import { existsSync, mkdirSync, writeFileSync } from 'fs'
 import 'isomorphic-fetch'
 import { TransactionParsed } from './export-transactions'
+import { KPI } from './interfaces/KPIs'
 import { Network } from './interfaces/Network'
 import { TransferType } from './interfaces/Transactions/Transfers'
 
@@ -11,6 +12,27 @@ export const wallets = [
   [Network.ETHEREUM, "0x89214c8ca9a49e60a3bfa8e00544f384c93719b1", "DAO Committee"],
   [Network.POLYGON, "0xb08e3e7cc815213304d884c88ca476ebc50eaab2", "DAO Committee"],
 ]
+
+export function sum(array: number[]) {
+  return array.reduce((prev, curr) => prev + curr, 0)
+}
+
+export function avg(array: number[]) {
+  return sum(array) / array.length
+}
+
+export function median(array: number[]) {
+  if (array.length === 0) throw new Error("Median: no inputs")
+
+  array.sort((a, b) => a - b)
+  const half = Math.floor(array.length / 2)
+
+  if (array.length % 2) {
+    return array[half]
+  }
+
+  return (array[half - 1] + array[half]) / 2.0
+}
 
 export function toISOString(seconds: number) {
   return seconds && new Date(seconds * 1000).toISOString()
@@ -132,6 +154,20 @@ export function setTransactionTag(tx: TransactionParsed) {
   if (tag) {
     tx.tag = tag
   }
+}
+
+export function parseKPIs(kpis: KPI[]) {
+  const result: any[] = []
+
+  for (const kpi of kpis) {
+    result.push(kpi.header)
+    for (const row of kpi.rows) {
+      result.push(row)
+    }
+    result.push([])
+  }
+
+  return result
 }
 
 export const tokenContracts: Record<string, string> = {

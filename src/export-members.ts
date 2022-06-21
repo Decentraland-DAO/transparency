@@ -3,7 +3,7 @@ import { STRATEGIES, Vote } from './interfaces/Members'
 import { fetchGraphQL, flattenArray, saveToCSV, saveToJSON, splitArray } from './utils'
 require('dotenv').config()
 
-interface MemberInfo {
+export interface MemberInfo {
   address: string
   totalVP: number
   manaVP: number

@@ -1,7 +1,7 @@
 import { Vote } from './interfaces/Vote'
 import { fetchGraphQL, saveToCSV, saveToJSON } from './utils'
 
-interface VotesParsed {
+export interface VotesParsed {
   voter: string
   created: string
   choice: number
