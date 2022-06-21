@@ -26,6 +26,7 @@ export interface TransactionParsed {
   to: string
   interactedWith: string
   txFrom: string
+  fee: number
   tag?: string
 }
 
@@ -124,7 +125,8 @@ async function getTransactions(name: string, tokenAddress: string, network: numb
         from: trans.from_address,
         to: trans.to_address,
         interactedWith: tx.to_address,
-        txFrom: tx.from_address
+        txFrom: tx.from_address,
+        fee: tx.gas_quote
       }
       return transfer
     })
@@ -168,6 +170,27 @@ async function findSecondarySalesTag(txs: TransactionParsed[], chunk: number) {
   console.log(`Secondary sales tagged: ${txs.length} - Chunk = ${chunk}`)
 }
 
+function saveTransactions(txs: TransactionParsed[], tagged = false) {
+  saveToJSON('transactions.json', txs)
+  saveToCSV('transactions.csv', txs, [
+    { id: 'date', title: 'Date' },
+    { id: 'wallet', title: 'Wallet' },
+    { id: 'network', title: 'Network' },
+    { id: 'type', title: 'Type' },
+    tagged && { id: 'tag', title: 'Tag' },
+    { id: 'amount', title: 'Amount' },
+    { id: 'symbol', title: 'Token' },
+    { id: 'quote', title: 'USD Amount' },
+    { id: 'fee', title: 'USD Fee' },
+    { id: 'sender', title: 'Sender' },
+    { id: 'from', title: 'Transfer From' },
+    { id: 'to', title: 'Transfer To' },
+    { id: 'block', title: 'Block' },
+    { id: 'hash', title: 'Hash' },
+    { id: 'contract', title: 'Contract' },
+  ])
+}
+
 async function main() {
   let unresolved_transactions: Promise<TransactionParsed[]>[] = []
 
@@ -187,22 +210,7 @@ async function main() {
   transactions = transactions.sort((a, b) => a.date > b.date ? -1 : a.date === a.date ? 0 : 1)
   console.log(transactions.length, 'transactions found.')
 
-  saveToJSON('transactions.json', transactions)
-  saveToCSV('transactions.csv', transactions, [
-    { id: 'date', title: 'Date' },
-    { id: 'wallet', title: 'Wallet' },
-    { id: 'network', title: 'Network' },
-    { id: 'type', title: 'Type' },
-    { id: 'amount', title: 'Amount' },
-    { id: 'symbol', title: 'Token' },
-    { id: 'quote', title: 'USD Amount' },
-    { id: 'sender', title: 'Sender' },
-    { id: 'from', title: 'Transfer From' },
-    { id: 'to', title: 'Transfer To' },
-    { id: 'block', title: 'Block' },
-    { id: 'hash', title: 'Hash' },
-    { id: 'contract', title: 'Contract' },
-  ])
+  saveTransactions(transactions)
 
   console.log('Tagging...')
   await tagging(transactions)
@@ -286,23 +294,7 @@ async function tagging(txs: TransactionParsed[]) {
   taggedTxns = taggedTxns.map(tx => ({ ...tx, ...taggedsecondarySales.find(ss => tx.hash === ss.hash) }))
 
   console.log('Saving with tags...')
-  saveToJSON('transactions.json', taggedTxns)
-  saveToCSV('transactions.csv', taggedTxns, [
-    { id: 'date', title: 'Date' },
-    { id: 'wallet', title: 'Wallet' },
-    { id: 'network', title: 'Network' },
-    { id: 'type', title: 'Type' },
-    { id: 'tag', title: 'Tag' },
-    { id: 'amount', title: 'Amount' },
-    { id: 'symbol', title: 'Token' },
-    { id: 'quote', title: 'USD Amount' },
-    { id: 'sender', title: 'Sender' },
-    { id: 'from', title: 'Transfer From' },
-    { id: 'to', title: 'Transfer To' },
-    { id: 'block', title: 'Block' },
-    { id: 'hash', title: 'Hash' },
-    { id: 'contract', title: 'Contract' },
-  ])
+  saveTransactions(taggedTxns, true)
 }
 
 main()
