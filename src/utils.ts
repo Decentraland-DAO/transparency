@@ -20,11 +20,14 @@ const delay = (ms: number) => new Promise(resolve => setTimeout(resolve, ms))
 
 export async function fetchURL(url: string, options?: RequestInit, retry?: number): Promise<any> {
   retry = retry === undefined ? 3 : retry
-  let res = await fetch(url, options)
   try {
+    let res = await fetch(url, options)
     return await res.json()
   } catch (err) {
-    if (retry == 0) throw err
+    if (retry <= 0) {
+      console.error('Fetch Error')
+      throw err
+    }
     await delay(2000)
     return await fetchURL(url, options, retry - 1)
   }
@@ -46,7 +49,7 @@ export async function fetchGraphQL(url: string, collection: string, where: strin
 
     if (json.errors) {
       console.log(elements[skip - 1])
-      throw Error('Fetch Error ' + json.errors[0].message)
+      throw Error('GraphQL Fetch Error ' + json.errors[0].message)
     } 
     if (!json.data[collection].length) break
     elements.push(...json.data[collection])
@@ -78,7 +81,7 @@ export async function fetchGraphQLCondition(url: string, collection: string, fie
     })
 
     if (json.errors) {
-      throw Error('Fetch Error ' + json.errors[0].message)
+      throw Error('GraphQL Condition Fetch Error ' + json.errors[0].message)
     }
     if (!json.data[collection].length) break
 
