@@ -4,6 +4,7 @@ import { existsSync, mkdirSync, writeFileSync } from 'fs'
 import 'isomorphic-fetch'
 import { TransactionParsed } from './export-transactions'
 import { Network } from './interfaces/Network'
+import { TransactionDetails } from './interfaces/Transactions/Transactions'
 import { TransferType } from './interfaces/Transactions/Transfers'
 
 export const wallets = [
@@ -135,6 +136,28 @@ export function setTransactionTag(tx: TransactionParsed) {
   if (tag) {
     tx.tag = tag
   }
+}
+
+export function getTransactionsPerTag(transactions: TransactionParsed[]) {
+  const group: Record<string, TransactionDetails> = {}
+
+  for (const tx of transactions) {
+    const result = group[tx.tag]
+    if (result) {
+      group[tx.tag] = {
+        count: result.count + 1,
+        total: result.total + tx.quote
+      }
+    }
+    else {
+      group[tx.tag] = {
+        count: 1,
+        total: tx.quote
+      }
+    }
+  }
+
+  return group
 }
 
 export const tokenContracts: Record<string, string> = {
