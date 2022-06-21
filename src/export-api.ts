@@ -4,10 +4,15 @@ import TRANSACTIONS from '../public/transactions.json'
 import { GrantProposal } from './export-grants'
 import { TransactionParsed } from './export-transactions'
 import { Status } from './interfaces/GovernanceProposal'
+import { TransactionDetails } from './interfaces/Transactions/Transactions'
 import { TransferType } from './interfaces/Transactions/Transfers'
-import { saveToJSON } from './utils'
+import { getTransactionsPerTag, saveToJSON } from './utils'
 
 const sumQuote = (txs: TransactionParsed[]) => txs.reduce((total, tx) => total + tx.quote, 0)
+const getTxsDetails = (txs: Record<string, TransactionDetails>) => Object.keys(txs).map(tag => ({
+  name: tag,
+  value: txs[tag].total
+})).sort((a, b) => b.value - a.value)
 
 async function main() {
 
@@ -25,11 +30,7 @@ async function main() {
   const totalIncome60 = sumQuote(incomeTxs60)
   const incomeDelta = (totalIncome30 - totalIncome60) * 100 / totalIncome60
 
-  const totalVesting = sumQuote(incomeTxs30.filter(tx => tx.tag === 'Vesting Contract'))
-  const totalETHMarket = sumQuote(incomeTxs30.filter(tx => tx.tag === 'ETH Marketplace'))
-  const totalMATICMarket = sumQuote(incomeTxs30.filter(tx => tx.tag === 'MATIC Marketplace'))
-  const totalOpenSea = sumQuote(incomeTxs30.filter(tx => tx.tag === 'OpenSea'))
-  const otherIncome = totalIncome30 - totalVesting - totalETHMarket - totalMATICMarket - totalOpenSea
+  const incomeTaggedTxs = getTransactionsPerTag(incomeTxs30)
 
   const expensesTxs = txs.filter(tx => tx.type === TransferType.OUT)
   const expensesTxs30 = expensesTxs.filter(tx => new Date(tx.date) >= last30)
@@ -39,10 +40,7 @@ async function main() {
   const totalExpenses60 = sumQuote(expensesTxs60)
   const expensesDelta = (totalExpenses30 - totalExpenses60) * 100 / totalExpenses60
 
-  const totalFacilitator = sumQuote(expensesTxs30.filter(tx => tx.tag === 'Facilitator'))
-  const totalCurators = sumQuote(expensesTxs30.filter(tx => tx.tag === 'Curator'))
-  const totalGrants = sumQuote(expensesTxs30.filter(tx => tx.tag === 'Grant'))
-  const otherExpenses = totalExpenses30 - totalFacilitator - totalGrants - totalCurators
+  const expensesTaggedTxs = getTransactionsPerTag(expensesTxs30)
 
   const grants = GRANTS as GrantProposal[]
   const totalFunding = grants.filter(g => g.status === Status.ENACTED).reduce((a, g) => a + g.grant_size, 0)
@@ -52,23 +50,12 @@ async function main() {
     'income': {
       'total': totalIncome30,
       'previous': incomeDelta,
-      'details': [
-        { 'name': 'Vesting Contract', 'value': totalVesting },
-        { 'name': 'ETH DCL Marketplace', 'value': totalETHMarket },
-        { 'name': 'MATIC DCL Marketplace', 'value': totalMATICMarket },
-        { 'name': 'OpenSea Marketplace', 'value': totalOpenSea },
-        { 'name': 'Other', 'value': otherIncome },
-      ]
+      'details': getTxsDetails(incomeTaggedTxs)
     },
     'expenses': {
       'total': totalExpenses30,
       'previous': expensesDelta,
-      'details': [
-        { 'name': 'Curation Committee', 'value': totalCurators },
-        { 'name': 'DAO Facilitator', 'value': totalFacilitator },
-        { 'name': 'Grants', 'value': totalGrants },
-        { 'name': 'Other', 'value': otherExpenses },
-      ]
+      'details': getTxsDetails(expensesTaggedTxs)
     },
     'funding': {
       'total': totalFunding,

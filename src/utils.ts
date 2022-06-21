@@ -5,6 +5,7 @@ import 'isomorphic-fetch'
 import { TransactionParsed } from './export-transactions'
 import { KPI } from './interfaces/KPIs'
 import { Network } from './interfaces/Network'
+import { TransactionDetails } from './interfaces/Transactions/Transactions'
 import { TransferType } from './interfaces/Transactions/Transfers'
 
 export const wallets = [
@@ -72,7 +73,7 @@ export async function fetchGraphQL(url: string, collection: string, where: strin
     if (json.errors) {
       console.log(elements[skip - 1])
       throw Error('GraphQL Fetch Error ' + json.errors[0].message)
-    } 
+    }
     if (!json.data[collection].length) break
     elements.push(...json.data[collection])
   }
@@ -157,6 +158,28 @@ export function setTransactionTag(tx: TransactionParsed) {
   if (tag) {
     tx.tag = tag
   }
+}
+
+export function getTransactionsPerTag(transactions: TransactionParsed[]) {
+  const group: Record<string, TransactionDetails> = {}
+
+  for (const tx of transactions) {
+    const result = group[tx.tag]
+    if (result) {
+      group[tx.tag] = {
+        count: result.count + 1,
+        total: result.total + tx.quote
+      }
+    }
+    else {
+      group[tx.tag] = {
+        count: 1,
+        total: tx.quote
+      }
+    }
+  }
+
+  return group
 }
 
 export function parseKPIs(kpis: KPI[]) {

@@ -11,7 +11,7 @@ import { VotesParsed } from './export-votes'
 import { GovernanceProposalType, Status } from './interfaces/GovernanceProposal'
 import { KPI } from './interfaces/KPIs'
 import { TransferType } from './interfaces/Transactions/Transfers'
-import { avg, median, saveToJSON, sum } from './utils'
+import { avg, getTransactionsPerTag, median, saveToJSON, sum } from './utils'
 
 
 function main() {
@@ -164,29 +164,8 @@ function getTransactionRows(transactions: TransactionParsed[]) {
 }
 
 function getTransactionsPerTagRows(transactions: TransactionParsed[], type: TransferType) {
-  const group: Record<string, { count: number, total: number }> = {}
   const filteredTxns = transactions.filter(tx => tx.type === type)
-  const rows: any[] = []
+  const group = getTransactionsPerTag(filteredTxns)
 
-  for (const tx of filteredTxns) {
-    const result = group[tx.tag]
-    if (result) {
-      group[tx.tag] = {
-        count: result.count + 1,
-        total: result.total + tx.quote
-      }
-    }
-    else {
-      group[tx.tag] = {
-        count: 1,
-        total: tx.quote
-      }
-    }
-  }
-
-  for (const tag of Object.keys(group)) {
-    rows.push([tag, group[tag].count, group[tag].total.toFixed(2)])
-  }
-
-  return rows
+  return Object.keys(group).map(tag => [tag, group[tag].count, group[tag].total.toFixed(2)])
 }
