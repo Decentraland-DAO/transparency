@@ -8,8 +8,8 @@ const ALLOWED_SYMBOLS = new Set([Symbols.MANA, Symbols.MATIC, Symbols.ETH, Symbo
 
 const API_KEY = process.env.COVALENTHQ_API_KEY
 
-type BalanceParsed = {
-  timestamp: Date
+export type BalanceParsed = {
+  timestamp: string
   name: string
   amount: number
   quote: number

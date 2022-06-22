@@ -10,7 +10,7 @@ export interface Contract {
 }
 
 export interface Holding {
-  timestamp: Date
+  timestamp: string
   quote_rate: number | null
   open: Details
   high: Details
@@ -25,8 +25,8 @@ export interface Details {
 
 export interface APIBalance {
   address: string
-  updated_at: Date
-  next_update_at: Date
+  updated_at: string
+  next_update_at: string
   quote_currency: string
   chain_id: number
   items: Contract[]

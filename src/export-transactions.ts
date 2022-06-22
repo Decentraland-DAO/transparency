@@ -2,7 +2,7 @@ import BigNumber from 'bignumber.js'
 import GRANTS from '../public/grants.json'
 import { GrantProposal } from './export-grants'
 import { Status } from './interfaces/GovernanceProposal'
-import { Network, NetworkID, Token, TOKENS } from './interfaces/Network'
+import { Network, NetworkID, Symbols, TOKENS } from './interfaces/Network'
 import { APIEvents } from './interfaces/Transactions/Events'
 import { APITransactions } from './interfaces/Transactions/Transactions'
 import { APITransfers, TransferType } from './interfaces/Transactions/Transfers'
@@ -18,7 +18,7 @@ export interface TransactionParsed {
   network: Network
   type: TransferType
   amount: number
-  symbol: Token
+  symbol: Symbols
   contract: string
   quote: number
   sender: string
