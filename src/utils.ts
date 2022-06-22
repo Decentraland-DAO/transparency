@@ -35,6 +35,10 @@ export function median(array: number[]) {
   return (array[half - 1] + array[half]) / 2.0
 }
 
+export function dayToMilisec(dayAmount: number) {
+  return dayAmount * 24 * 60 * 60 * 1000
+}
+
 export function toISOString(seconds: number) {
   return seconds && new Date(seconds * 1000).toISOString()
 }

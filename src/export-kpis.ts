@@ -10,8 +10,9 @@ import { TransactionParsed } from './export-transactions'
 import { VotesParsed } from './export-votes'
 import { GovernanceProposalType, Status } from './interfaces/GovernanceProposal'
 import { KPI } from './interfaces/KPIs'
+import { FeeDetails } from './interfaces/Transactions/Transactions'
 import { TransferType } from './interfaces/Transactions/Transfers'
-import { avg, getTransactionsPerTag, median, saveToJSON, sum } from './utils'
+import { avg, dayToMilisec, getTransactionsPerTag, median, saveToJSON, sum } from './utils'
 
 
 function main() {
@@ -70,6 +71,10 @@ function main() {
     {
       header: ['Transactions', 'Amount', 'Total USD'],
       rows: getTransactionRows(transactions)
+    },
+    {
+      header: ['Out txs fees', 'Number of transactions', 'Total USD', 'Average USD per transaction'],
+      rows: getFees(transactions, TransferType.OUT)
     },
     {
       header: ['Income Sources', 'Amount', 'Total USD'],
@@ -168,4 +173,53 @@ function getTransactionsPerTagRows(transactions: TransactionParsed[], type: Tran
   const group = getTransactionsPerTag(filteredTxns)
 
   return Object.keys(group).map(tag => [tag, group[tag].count, group[tag].total.toFixed(2)])
+}
+
+function getFees(transactions: TransactionParsed[], type: TransferType) {
+  const filteredTxns = transactions.filter(tx => tx.type === type)
+  const uniqueTxns: Record<string, FeeDetails> = {}
+  const today = new Date()
+
+  type DateFilter = (details: FeeDetails) => boolean
+
+  const filterDays = (details: FeeDetails, days: number) => {
+    const minDate = new Date(today.getTime() - dayToMilisec(days))
+    return details.date >= minDate
+  }
+
+  const filters: Record<string, DateFilter> = {
+    'Last year': (details) => filterDays(details, 365),
+    'Last 6 months': (details) => filterDays(details, 180),
+    'Last 60 days': (details) => filterDays(details, 60),
+    'Last 30 days': (details) => filterDays(details, 30),
+    [`This month (${today.toLocaleString('en-US', { month: 'short' })})`]: (details) => details.date.getMonth() === today.getMonth(),
+  }
+
+  for (const tx of filteredTxns) {
+    uniqueTxns[tx.hash] = { date: new Date(tx.date), fee: tx.fee }
+  }
+
+  let rows: any[] = []
+
+  let feeDetails = Object.values(uniqueTxns)
+
+  for (const key of Object.keys(filters)) {
+    let fees = 0
+    let count = 0
+    const currentDetails: FeeDetails[] = []
+
+    for (const details of feeDetails) {
+      if (filters[key](details)) {
+        fees += details.fee
+        count += 1
+        currentDetails.push(details)
+      }
+    }
+
+    feeDetails = [...currentDetails]
+
+    rows = [[key, count, fees.toFixed(2), count > 0 ? (fees / count).toFixed(2) : 0], ...rows]
+  }
+
+  return rows
 }
