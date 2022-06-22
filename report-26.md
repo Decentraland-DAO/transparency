@@ -9,12 +9,18 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+1 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 66, -1: [Plaza dev](https://governance.decentraland.org/proposal/?id=7e425540-eb20-11ec-82d9-d917cdd158ac)
+
+* Yes 74.9324716422646% 538,455 VP (16 votes)
+* No 25.06752835773539% 180,132 VP (7 votes)
 
 
 ## Name Bans
@@ -50,15 +56,12 @@ Since June 16, 2 grants have been approved and the vesting contract(s) will be e
 
 * -135, 25: [No Name](https://governance.decentraland.org/proposal/?id=e00da1e0-ed27-11ec-aa01-87bd234b340d)
 * -12, -45: [Angels Cove](https://governance.decentraland.org/proposal/?id=e5e51150-ed1a-11ec-aa01-87bd234b340d)
-* 66, -1: [Plaza dev](https://governance.decentraland.org/proposal/?id=7e425540-eb20-11ec-82d9-d917cdd158ac)
 
 ## Grants
 
 * [Bring renewable electricity to Decentraland](https://governance.decentraland.org/proposal/?id=693177c0-ef04-11ec-aa01-87bd234b340d) (Tier 4)
 * [DCL-Edit - Further Development](https://governance.decentraland.org/proposal/?id=4b6bb7e0-eed8-11ec-aa01-87bd234b340d) (Tier 6)
 * [Preparing detailed financial statements, budget, and long-range forecast](https://governance.decentraland.org/proposal/?id=a31bfa40-ed02-11ec-aa01-87bd234b340d) (Tier 4)
-* [A well-designed mascot that boosts the DCL community](https://governance.decentraland.org/proposal/?id=61214010-ec84-11ec-aa01-87bd234b340d) (Tier 2)
-* [Decentraland featured on CBS Nationally](https://governance.decentraland.org/proposal/?id=a81e8610-eb4b-11ec-82d9-d917cdd158ac) (Tier 2)
 * [Web3 and Metaverse Journalism Hackathon Sponsorship](https://governance.decentraland.org/proposal/?id=a735d7c0-eb1f-11ec-82d9-d917cdd158ac) (Tier 4)
 * [Creating a market place like amazon, tourism and all in one market place](https://governance.decentraland.org/proposal/?id=a7e50ae0-eb1c-11ec-82d9-d917cdd158ac) (Tier 5)
 * [Decentraland DAO Facilitation Squad Grant Proposal](https://governance.decentraland.org/proposal/?id=f8b699c0-e810-11ec-82d9-d917cdd158ac) (Tier 5)
