@@ -6,7 +6,7 @@ import { TransactionParsed } from './export-transactions'
 import { Status } from './interfaces/GovernanceProposal'
 import { TransactionDetails } from './interfaces/Transactions/Transactions'
 import { TransferType } from './interfaces/Transactions/Transfers'
-import { getTransactionsPerTag, saveToJSON } from './utils'
+import { dayToMilisec, getTransactionsPerTag, saveToJSON } from './utils'
 
 const sumQuote = (txs: TransactionParsed[]) => txs.reduce((total, tx) => total + tx.quote, 0)
 const getTxsDetails = (txs: Record<string, TransactionDetails>) => Object.keys(txs).map(tag => ({
@@ -17,8 +17,8 @@ const getTxsDetails = (txs: Record<string, TransactionDetails>) => Object.keys(t
 async function main() {
 
   const now = new Date()
-  const last30 = new Date(now.getTime() - (1000 * 3600 * 24 * 30))
-  const last60 = new Date(now.getTime() - (1000 * 3600 * 24 * 60))
+  const last30 = new Date(now.getTime() - dayToMilisec(30))
+  const last60 = new Date(now.getTime() - dayToMilisec(60))
 
   const txs = TRANSACTIONS as TransactionParsed[]
 

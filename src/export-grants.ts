@@ -6,7 +6,7 @@ import PROPOSALS from '../public/proposals.json'
 import VESTING_ABI from './abi/vesting.json'
 import { ProposalParsed } from './export-proposals'
 import { Category, GovernanceProposalType } from './interfaces/GovernanceProposal'
-import { Decimals, Token } from './interfaces/Network'
+import { Network, Symbols, TOKENS } from './interfaces/Network'
 import { saveToCSV, saveToJSON } from './utils'
 
 require('dotenv').config()
@@ -16,7 +16,7 @@ interface Grant {
   grant_tier?: string
   grant_size?: number
   grant_beneficiary?: string
-  token?: Token
+  token?: Symbols
   released?: number
   releasable?: number
 }
@@ -25,15 +25,8 @@ export type GrantProposal = Grant & ProposalParsed
 
 const web3 = new Web3(process.env.INFURA_URL)
 
-const DECIMALS = {
-  "0x0f5d2fb29fb7d3cfee444a200298f468908cc942": [Token.MANA, Decimals.MANA],
-  "0x6b175474e89094c44da98b954eedeac495271d0f": [Token.DAI, Decimals.DAI],
-  "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": [Token.USDC, Decimals.USDC],
-  "0xdac17f958d2ee523a2206206994597c13d831ec7": [Token.USDT, Decimals.USDT],
-}
-
 async function main() {
-  // Get Gobernance dApp Proposals
+  // Get Governance dApp Proposals
   const proposals: GrantProposal[] = PROPOSALS.filter(p => p.type === GovernanceProposalType.GRANT)
 
   for (const p of proposals) {
@@ -44,9 +37,9 @@ async function main() {
 
     if (p.vesting_address) {
       const contract = new web3.eth.Contract(VESTING_ABI as AbiItem[], p.vesting_address)
-      const token: string = (await contract.methods.token().call()).toLowerCase()
-      const decimals: number = DECIMALS[token][1]
-      p.token = DECIMALS[token][0]
+      const tokenAddress: string = (await contract.methods.token().call()).toLowerCase()
+      const decimals = TOKENS[Network.ETHEREUM][tokenAddress].decimals
+      p.token = TOKENS[Network.ETHEREUM][tokenAddress].symbol
 
       p.released = await contract.methods.released().call()
       p.released = new BigNumber(p.released).dividedBy(10 ** decimals).toNumber()

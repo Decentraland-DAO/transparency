@@ -8,10 +8,16 @@ import { Network } from './interfaces/Network'
 import { TransactionDetails } from './interfaces/Transactions/Transactions'
 import { TransferType } from './interfaces/Transactions/Transfers'
 
-export const wallets = [
-  [Network.ETHEREUM, "0x9a6ebe7e2a7722f8200d0ffb63a1f6406a0d7dce", "Aragon Agent"],
-  [Network.ETHEREUM, "0x89214c8ca9a49e60a3bfa8e00544f384c93719b1", "DAO Committee"],
-  [Network.POLYGON, "0xb08e3e7cc815213304d884c88ca476ebc50eaab2", "DAO Committee"],
+export type Wallet = {
+  name: string
+  address: string
+  network: Network
+}
+
+export const wallets: Wallet[] = [
+  { name: "Aragon Agent", address: "0x9a6ebe7e2a7722f8200d0ffb63a1f6406a0d7dce", network: Network.ETHEREUM },
+  { name: "DAO Committee", address: "0x89214c8ca9a49e60a3bfa8e00544f384c93719b1", network: Network.ETHEREUM },
+  { name: "DAO Committee", address: "0xb08e3e7cc815213304d884c88ca476ebc50eaab2", network: Network.POLYGON },
 ]
 
 export function sum(array: number[]) {

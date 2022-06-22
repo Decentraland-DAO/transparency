@@ -1,10 +1,10 @@
 import BigNumber from "bignumber.js"
 import { Contract } from "./interfaces/Balance"
-import { Network, NetworkID, Token } from "./interfaces/Network"
-import { fetchURL, saveToCSV, saveToJSON, wallets } from "./utils"
+import { NetworkID, Symbols } from "./interfaces/Network"
+import { fetchURL, flattenArray, saveToCSV, saveToJSON, Wallet, wallets } from "./utils"
 require('dotenv').config()
 
-const ALLOWED_SYMBOLS = [Token.MANA, Token.MATIC, Token.ETH, Token.WETH, Token.DAI, Token.USDC, Token.USDT]
+const ALLOWED_SYMBOLS = new Set([Symbols.MANA, Symbols.MATIC, Symbols.ETH, Symbols.WETH, Symbols.DAI, Symbols.USDC, Symbols.USDT])
 
 const API_KEY = process.env.COVALENTHQ_API_KEY
 
@@ -14,40 +14,42 @@ type BalanceParsed = {
   amount: number
   quote: number
   rate: number
-  symbol: Token
+  symbol: Symbols
   network: string
   address: string
   contractAddress: string
 }
 
+async function getBalance(wallet: Wallet) {
+  const { name, address, network } = wallet
+  const url = `https://api.covalenthq.com/v1/${NetworkID[network]}/address/${address}/portfolio_v2/?key=${API_KEY}`
+  const json = await fetchURL(url)
+  const contracts: Contract[] = json.data.items
+
+
+  return contracts.map<BalanceParsed>(t => ({
+    timestamp: t.holdings[0].timestamp,
+    name,
+    amount: new BigNumber(t.holdings[0].close.balance).dividedBy(10 ** t.contract_decimals).toNumber(),
+    quote: t.holdings[0].close.quote,
+    rate: t.holdings[0].quote_rate,
+    symbol: t.contract_ticker_symbol,
+    network,
+    address,
+    contractAddress: t.contract_address
+  }))
+}
+
 async function main() {
-  let balances: BalanceParsed[] = []
+  let unresolvedBalances: Promise<BalanceParsed[]>[] = []
 
-  for (let i = 0; i < wallets.length; i++) {
-    const wallet = wallets[i]
-    const network = wallet[0] === Network.ETHEREUM ? NetworkID[Network.ETHEREUM] : NetworkID[Network.POLYGON]
-    const address = wallet[1]
-    const url = `https://api.covalenthq.com/v1/${network}/address/${address}/portfolio_v2/?key=${API_KEY}`
-    const json = await fetchURL(url)
-    const contracts: Contract[] = json.data.items
-
-    const balanceParsed: BalanceParsed[] = contracts.map(t => ({
-      timestamp: t.holdings[0].timestamp,
-      name: wallet[2],
-      amount: new BigNumber(t.holdings[0].close.balance).dividedBy(10 ** t.contract_decimals).toNumber(),
-      quote: t.holdings[0].close.quote,
-      rate: t.holdings[0].quote_rate,
-      symbol: t.contract_ticker_symbol,
-      network: wallet[0],
-      address: address,
-      contractAddress: t.contract_address
-    }))
-    balances.push(...balanceParsed)
+  for (const wallet of wallets) {
+    unresolvedBalances.push(getBalance(wallet))
   }
 
-  balances = balances.filter(
-    b => ALLOWED_SYMBOLS.includes(b.symbol) && b.amount > 0
-  )
+  let balances = flattenArray(await Promise.all(unresolvedBalances))
+
+  balances = balances.filter(b => ALLOWED_SYMBOLS.has(b.symbol) && b.amount > 0)
   console.log(balances.length, 'balances found.')
 
   saveToJSON('balances.json', balances)
