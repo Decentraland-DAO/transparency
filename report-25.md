@@ -118,20 +118,17 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 
 ## Points of Interest
 
-* -135, 25: [No Name](https://governance.decentraland.org/proposal/?id=e00da1e0-ed27-11ec-aa01-87bd234b340d)
-* -12, -45: [Angels Cove](https://governance.decentraland.org/proposal/?id=e5e51150-ed1a-11ec-aa01-87bd234b340d)
 
 ## Grants
 
+* [MoCDA, Museum of Contemporary Digital Art: Public Exhibitions Program 2022](https://governance.decentraland.org/proposal/?id=04d93380-f233-11ec-aa01-87bd234b340d) (Tier 4)
+* [Adding Ramp Network as an additional on-ramp service provider](https://governance.decentraland.org/proposal/?id=a871df00-f216-11ec-aa01-87bd234b340d) (Tier 1)
 * [Bring renewable electricity to Decentraland](https://governance.decentraland.org/proposal/?id=693177c0-ef04-11ec-aa01-87bd234b340d) (Tier 4)
 * [DCL-Edit - Further Development](https://governance.decentraland.org/proposal/?id=4b6bb7e0-eed8-11ec-aa01-87bd234b340d) (Tier 6)
 * [Preparing detailed financial statements, budget, and long-range forecast](https://governance.decentraland.org/proposal/?id=a31bfa40-ed02-11ec-aa01-87bd234b340d) (Tier 4)
 * [Web3 and Metaverse Journalism Hackathon Sponsorship](https://governance.decentraland.org/proposal/?id=a735d7c0-eb1f-11ec-82d9-d917cdd158ac) (Tier 4)
 * [Creating a market place like amazon, tourism and all in one market place](https://governance.decentraland.org/proposal/?id=a7e50ae0-eb1c-11ec-82d9-d917cdd158ac) (Tier 5)
 * [Decentraland DAO Facilitation Squad Grant Proposal](https://governance.decentraland.org/proposal/?id=f8b699c0-e810-11ec-82d9-d917cdd158ac) (Tier 5)
-* [Disruptive Technology &amp; science Hub](https://governance.decentraland.org/proposal/?id=321bac90-e7a4-11ec-82d9-d917cdd158ac) (Tier 6)
-* [Wear Essentials - Wearables for everyone](https://governance.decentraland.org/proposal/?id=b7334300-e751-11ec-82d9-d917cdd158ac) (Tier 6)
-* [Genesis city top-down map website and mapping script, 6-month renewal](https://governance.decentraland.org/proposal/?id=4fad3e80-e74b-11ec-82d9-d917cdd158ac) (Tier 4)
 
 ## Names Bans
 
@@ -141,6 +138,5 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
-* [NFT Mint Amount Options](https://governance.decentraland.org/proposal/?id=f78ecc00-ee39-11ec-aa01-87bd234b340d)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
