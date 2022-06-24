@@ -84,7 +84,7 @@ export async function fetchGraphQL(url: string, collection: string, where: strin
       console.log(elements[skip - 1])
       throw Error('GraphQL Fetch Error ' + json.errors[0].message)
     }
-    if (!json.data[collection].length) break
+    if (!json.data || !json.data[collection] || !json.data[collection].length) break
     elements.push(...json.data[collection])
   }
   return elements
@@ -116,7 +116,7 @@ export async function fetchGraphQLCondition(url: string, collection: string, fie
     if (json.errors) {
       throw Error('GraphQL Condition Fetch Error ' + json.errors[0].message)
     }
-    if (!json.data[collection].length) break
+    if (!json.data || !json.data[collection] || !json.data[collection].length) break
 
     elements.push(...json.data[collection])
     lastField = elements[elements.length - 1][fieldNameCondition]
