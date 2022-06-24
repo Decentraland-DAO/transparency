@@ -100,6 +100,11 @@ jobs:
           npx ts-node ./src/export-members.ts
           npx ts-node ./src/upload.ts Members ./public/members.csv
 
+      - name: Export KPIs
+        run: |
+          npx ts-node ./src/export-kpis.ts
+          npx ts-node ./src/upload.ts KPIs ./public/kpis.json
+
       - name: Export API
         run: npx ts-node ./src/export-api.ts
 

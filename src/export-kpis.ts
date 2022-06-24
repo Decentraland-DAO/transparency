@@ -1,20 +1,20 @@
-import BALANCES from '../public/balances.json';
-import GRANTS from '../public/grants.json';
-import MEMBERS from '../public/members.json';
-import PROPOSALS from '../public/proposals.json';
-import TRANSACTIONS from '../public/transactions.json';
-import VOTES from '../public/votes.json';
-import { BalanceParsed } from './export-balances';
-import { GrantProposal } from './export-grants';
-import { MemberInfo } from './export-members';
-import { ProposalParsed } from './export-proposals';
-import { TransactionParsed } from './export-transactions';
-import { VotesParsed } from './export-votes';
-import { GovernanceProposalType, Status } from './interfaces/GovernanceProposal';
-import { KPI } from './interfaces/KPIs';
-import { FeeDetails } from './interfaces/Transactions/Transactions';
-import { TransferType } from './interfaces/Transactions/Transfers';
-import { avg, dayToMilisec, getTransactionsPerTag, median, saveToJSON, sum } from './utils';
+import BALANCES from '../public/balances.json'
+import GRANTS from '../public/grants.json'
+import MEMBERS from '../public/members.json'
+import PROPOSALS from '../public/proposals.json'
+import TRANSACTIONS from '../public/transactions.json'
+import VOTES from '../public/votes.json'
+import { BalanceParsed } from './export-balances'
+import { GrantProposal } from './export-grants'
+import { MemberInfo } from './export-members'
+import { ProposalParsed } from './export-proposals'
+import { TransactionParsed } from './export-transactions'
+import { VotesParsed } from './export-votes'
+import { GovernanceProposalType, Status } from './interfaces/GovernanceProposal'
+import { KPI } from './interfaces/KPIs'
+import { FeeDetails } from './interfaces/Transactions/Transactions'
+import { TransferType } from './interfaces/Transactions/Transfers'
+import { avg, dayToMilisec, getTransactionsPerTag, median, saveToJSON, sum } from './utils'
 
 
 function main() {
