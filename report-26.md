@@ -85,6 +85,7 @@ Since June 16, 4 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
+* 98, -67: [Dragon City](https://governance.decentraland.org/proposal/?id=a8ab9a30-f467-11ec-b5fc-5178246a05ac)
 
 ## Grants
 
