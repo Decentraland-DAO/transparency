@@ -89,6 +89,7 @@ Since June 16, 4 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [Creating energetic, personalised content &amp; Building project in Decentraland.](https://governance.decentraland.org/proposal/?id=bbf5b1b0-f576-11ec-b5fc-5178246a05ac) (Tier 4)
 * [Golfcraft game and more projects by Eibriel, Pablo &amp; co.](https://governance.decentraland.org/proposal/?id=96914860-f311-11ec-aa01-87bd234b340d) (Tier 6)
 * [MoCDA, Museum of Contemporary Digital Art: Public Exhibitions Program 2022](https://governance.decentraland.org/proposal/?id=04d93380-f233-11ec-aa01-87bd234b340d) (Tier 4)
 * [Adding Ramp Network as an additional on-ramp service provider](https://governance.decentraland.org/proposal/?id=a871df00-f216-11ec-aa01-87bd234b340d) (Tier 1)
