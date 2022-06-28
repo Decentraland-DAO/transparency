@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -44,7 +44,13 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since June 16, 4 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since June 16, 5 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Web3 and Metaverse Journalism Hackathon Sponsorship](https://governance.decentraland.org/proposal/?id=a735d7c0-eb1f-11ec-82d9-d917cdd158ac) (Tier 4)
+
+* Yes 99.99832996388082% 2,155,606 VP (56 votes)
+* No 0.0016700361191700664% 36 VP (1 votes)
 
 
 #### [Full process wearable creation and submission tutorials](https://governance.decentraland.org/proposal/?id=91ebcb80-e8a5-11ec-82d9-d917cdd158ac) (Tier 3)
@@ -85,10 +91,13 @@ Since June 16, 4 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
+* 4, -111: [Wisher Vodka](https://governance.decentraland.org/proposal/?id=beb8e7f0-f648-11ec-805c-77efd746e6b7)
 * 98, -67: [Dragon City](https://governance.decentraland.org/proposal/?id=a8ab9a30-f467-11ec-b5fc-5178246a05ac)
 
 ## Grants
 
+* [DabPlay and MetaDuckies - community and P2E area](https://governance.decentraland.org/proposal/?id=2530aa60-f647-11ec-805c-77efd746e6b7) (Tier 2)
+* [Endless Mafia](https://governance.decentraland.org/proposal/?id=7c213df0-f62c-11ec-805c-77efd746e6b7) (Tier 3)
 * [Creating energetic, personalised content &amp; Building project in Decentraland.](https://governance.decentraland.org/proposal/?id=bbf5b1b0-f576-11ec-b5fc-5178246a05ac) (Tier 4)
 * [Golfcraft game and more projects by Eibriel, Pablo &amp; co.](https://governance.decentraland.org/proposal/?id=96914860-f311-11ec-aa01-87bd234b340d) (Tier 6)
 * [MoCDA, Museum of Contemporary Digital Art: Public Exhibitions Program 2022](https://governance.decentraland.org/proposal/?id=04d93380-f233-11ec-aa01-87bd234b340d) (Tier 4)
@@ -96,8 +105,6 @@ Since June 16, 4 grants have been approved and the vesting contract(s) will be e
 * [Bring renewable electricity to Decentraland](https://governance.decentraland.org/proposal/?id=693177c0-ef04-11ec-aa01-87bd234b340d) (Tier 4)
 * [DCL-Edit - Further Development](https://governance.decentraland.org/proposal/?id=4b6bb7e0-eed8-11ec-aa01-87bd234b340d) (Tier 6)
 * [Preparing detailed financial statements, budget, and long-range forecast](https://governance.decentraland.org/proposal/?id=a31bfa40-ed02-11ec-aa01-87bd234b340d) (Tier 4)
-* [Web3 and Metaverse Journalism Hackathon Sponsorship](https://governance.decentraland.org/proposal/?id=a735d7c0-eb1f-11ec-82d9-d917cdd158ac) (Tier 4)
-* [Creating a market place like amazon, tourism and all in one market place](https://governance.decentraland.org/proposal/?id=a7e50ae0-eb1c-11ec-82d9-d917cdd158ac) (Tier 5)
 
 ## Names Bans
 
