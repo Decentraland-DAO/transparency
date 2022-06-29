@@ -91,11 +91,15 @@ Since June 16, 5 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
+* -75, 35: [Next Realty Hub](https://governance.decentraland.org/proposal/?id=6a76ad70-f711-11ec-805c-77efd746e6b7)
+* -49, 73: [Metancy Art Gallery](https://governance.decentraland.org/proposal/?id=5b0e8c60-f705-11ec-805c-77efd746e6b7)
 * 4, -111: [Wisher Vodka](https://governance.decentraland.org/proposal/?id=beb8e7f0-f648-11ec-805c-77efd746e6b7)
 * 98, -67: [Dragon City](https://governance.decentraland.org/proposal/?id=a8ab9a30-f467-11ec-b5fc-5178246a05ac)
 
 ## Grants
 
+* [Decentraland Retro 2D Client and SDK Proposal](https://governance.decentraland.org/proposal/?id=1959b490-f726-11ec-805c-77efd746e6b7) (Tier 4)
+* [$120,000 grant to be approved to fund Builder Competitions for DCL creators.](https://governance.decentraland.org/proposal/?id=8befa660-f6f2-11ec-805c-77efd746e6b7) (Tier 5)
 * [DabPlay and MetaDuckies - community and P2E area](https://governance.decentraland.org/proposal/?id=2530aa60-f647-11ec-805c-77efd746e6b7) (Tier 2)
 * [Endless Mafia](https://governance.decentraland.org/proposal/?id=7c213df0-f62c-11ec-805c-77efd746e6b7) (Tier 3)
 * [Creating energetic, personalised content &amp; Building project in Decentraland.](https://governance.decentraland.org/proposal/?id=bbf5b1b0-f576-11ec-b5fc-5178246a05ac) (Tier 4)

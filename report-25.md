@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 9 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
+In the two weeks since the last DAO Committee report, 9 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -98,31 +98,20 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 * Invalid question/options 0% 0 VP (0 votes)
 
 
-#### [Should we allow an option to purchase NFTs on the DCL Marketplace in $ICE &amp; $MANA ?](https://governance.decentraland.org/proposal/?id=92c8f3b0-e2d4-11ec-9000-175d8dd584b8)
-
-* Yes, this is necessary. 10.294782284860997% 142,365 VP (27 votes)
-* No, this is unnecessary. 89.70521771513901% 1,240,520 VP (23 votes)
-* Invalid question/options 0% 0 VP (0 votes)
-
-
-#### [Balanced Voting Power in Decentraland](https://governance.decentraland.org/proposal/?id=dfc7a4d0-e019-11ec-8ad9-ab7454ba5993)
-
-* Add New VP Allocations 0.8650779942925346% 13,423 VP (14 votes)
-* Leave VP As Is 99.13492200570747% 1,538,229 VP (20 votes)
-* Abstain 0% 0 VP (0 votes)
-* Invalid question/options 0% 0 VP (0 votes)
-
-
 
 # Active Proposals
 
 ## Points of Interest
 
+* -75, 35: [Next Realty Hub](https://governance.decentraland.org/proposal/?id=6a76ad70-f711-11ec-805c-77efd746e6b7)
+* -49, 73: [Metancy Art Gallery](https://governance.decentraland.org/proposal/?id=5b0e8c60-f705-11ec-805c-77efd746e6b7)
 * 4, -111: [Wisher Vodka](https://governance.decentraland.org/proposal/?id=beb8e7f0-f648-11ec-805c-77efd746e6b7)
 * 98, -67: [Dragon City](https://governance.decentraland.org/proposal/?id=a8ab9a30-f467-11ec-b5fc-5178246a05ac)
 
 ## Grants
 
+* [Decentraland Retro 2D Client and SDK Proposal](https://governance.decentraland.org/proposal/?id=1959b490-f726-11ec-805c-77efd746e6b7) (Tier 4)
+* [$120,000 grant to be approved to fund Builder Competitions for DCL creators.](https://governance.decentraland.org/proposal/?id=8befa660-f6f2-11ec-805c-77efd746e6b7) (Tier 5)
 * [DabPlay and MetaDuckies - community and P2E area](https://governance.decentraland.org/proposal/?id=2530aa60-f647-11ec-805c-77efd746e6b7) (Tier 2)
 * [Endless Mafia](https://governance.decentraland.org/proposal/?id=7c213df0-f62c-11ec-805c-77efd746e6b7) (Tier 3)
 * [Creating energetic, personalised content &amp; Building project in Decentraland.](https://governance.decentraland.org/proposal/?id=bbf5b1b0-f576-11ec-b5fc-5178246a05ac) (Tier 4)
