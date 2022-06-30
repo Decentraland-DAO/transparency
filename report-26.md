@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 6 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -44,7 +44,13 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since June 16, 5 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since June 16, 6 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Preparing detailed financial statements, budget, and long-range forecast](https://governance.decentraland.org/proposal/?id=a31bfa40-ed02-11ec-aa01-87bd234b340d) (Tier 4)
+
+* Yes 87.55043998400284% 2,121,285 VP (19 votes)
+* No 12.449560015997168% 301,644 VP (13 votes)
 
 
 #### [Web3 and Metaverse Journalism Hackathon Sponsorship](https://governance.decentraland.org/proposal/?id=a735d7c0-eb1f-11ec-82d9-d917cdd158ac) (Tier 4)
@@ -98,6 +104,9 @@ Since June 16, 5 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [Metaverse Ceremony and Exhibition Sponsorship](https://governance.decentraland.org/proposal/?id=aee6d230-f844-11ec-805c-77efd746e6b7) (Tier 4)
+* [To Help Peoples](https://governance.decentraland.org/proposal/?id=98c85dc0-f821-11ec-805c-77efd746e6b7) (Tier 6)
+* [Decentraland’s First AI-Driven Smart Chickens! (Resubmission)](https://governance.decentraland.org/proposal/?id=44db93f0-f7f2-11ec-805c-77efd746e6b7) (Tier 4)
 * [Decentraland Retro 2D Client and SDK Proposal](https://governance.decentraland.org/proposal/?id=1959b490-f726-11ec-805c-77efd746e6b7) (Tier 4)
 * [$120,000 grant to be approved to fund Builder Competitions for DCL creators.](https://governance.decentraland.org/proposal/?id=8befa660-f6f2-11ec-805c-77efd746e6b7) (Tier 5)
 * [DabPlay and MetaDuckies - community and P2E area](https://governance.decentraland.org/proposal/?id=2530aa60-f647-11ec-805c-77efd746e6b7) (Tier 2)
@@ -105,10 +114,8 @@ Since June 16, 5 grants have been approved and the vesting contract(s) will be e
 * [Creating energetic, personalised content &amp; Building project in Decentraland.](https://governance.decentraland.org/proposal/?id=bbf5b1b0-f576-11ec-b5fc-5178246a05ac) (Tier 4)
 * [Golfcraft game and more projects by Eibriel, Pablo &amp; co.](https://governance.decentraland.org/proposal/?id=96914860-f311-11ec-aa01-87bd234b340d) (Tier 6)
 * [MoCDA, Museum of Contemporary Digital Art: Public Exhibitions Program 2022](https://governance.decentraland.org/proposal/?id=04d93380-f233-11ec-aa01-87bd234b340d) (Tier 4)
-* [Adding Ramp Network as an additional on-ramp service provider](https://governance.decentraland.org/proposal/?id=a871df00-f216-11ec-aa01-87bd234b340d) (Tier 1)
 * [Bring renewable electricity to Decentraland](https://governance.decentraland.org/proposal/?id=693177c0-ef04-11ec-aa01-87bd234b340d) (Tier 4)
 * [DCL-Edit - Further Development](https://governance.decentraland.org/proposal/?id=4b6bb7e0-eed8-11ec-aa01-87bd234b340d) (Tier 6)
-* [Preparing detailed financial statements, budget, and long-range forecast](https://governance.decentraland.org/proposal/?id=a31bfa40-ed02-11ec-aa01-87bd234b340d) (Tier 4)
 
 ## Names Bans
 
@@ -118,5 +125,6 @@ Since June 16, 5 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Change the welcome message &#39;Play as guest&#39; to &#39;Visit as guest&#39;](https://governance.decentraland.org/proposal/?id=063238f0-f7c7-11ec-805c-77efd746e6b7)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
