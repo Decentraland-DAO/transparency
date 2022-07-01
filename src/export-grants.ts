@@ -19,6 +19,7 @@ interface Grant {
   token?: Token
   released?: number
   releasable?: number
+  vesting_finish_at?: Date
 }
 
 export type GrantProposal = Grant & ProposalParsed
@@ -32,6 +33,10 @@ const DECIMALS = {
   "0xdac17f958d2ee523a2206206994597c13d831ec7": [Token.USDT, Decimals.USDT],
 }
 
+function parseNumber(n: number, decimals: number) {
+  return new BigNumber(n).dividedBy(10 ** decimals).toNumber();
+}
+
 async function main() {
   // Get Gobernance dApp Proposals
   const proposals: GrantProposal[] = PROPOSALS.filter(p => p.type === GovernanceProposalType.GRANT)
@@ -43,16 +48,26 @@ async function main() {
     p.grant_beneficiary = p.configuration.beneficiary
 
     if (p.vesting_address) {
-      const contract = new web3.eth.Contract(VESTING_ABI as AbiItem[], p.vesting_address)
-      const token: string = (await contract.methods.token().call()).toLowerCase()
-      const decimals: number = DECIMALS[token][1]
-      p.token = DECIMALS[token][0]
+      try{
+        const contract = new web3.eth.Contract(VESTING_ABI as AbiItem[], p.vesting_address)
+        const token: string = (await contract.methods.token().call()).toLowerCase()
+        const decimals: number = DECIMALS[token][1]
+        p.token = DECIMALS[token][0]
 
-      p.released = await contract.methods.released().call()
-      p.released = new BigNumber(p.released).dividedBy(10 ** decimals).toNumber()
+        p.released = await contract.methods.released().call()
+        p.released = parseNumber(p.released, decimals)
 
-      p.releasable = await contract.methods.releasableAmount().call()
-      p.releasable = new BigNumber(p.releasable).dividedBy(10 ** decimals).toNumber()
+        p.releasable = await contract.methods.releasableAmount().call()
+        p.releasable = parseNumber(p.releasable, decimals)
+
+        const contractStart:number = await contract.methods.start().call()
+        const contractDuration:number = await contract.methods.duration().call()
+        const contractEndsTimestamp = Number(contractStart) + Number(contractDuration)
+        p.vesting_finish_at = new Date(contractEndsTimestamp * 1000)
+
+      } catch (e){
+        console.log(`Error trying to get vesting data for proposal ${p.id}`, e)
+      }
     }
   }
 
@@ -80,6 +95,7 @@ async function main() {
     { id: 'token', title: 'Token' },
     { id: 'released', title: 'Released Amount' },
     { id: 'releasable', title: 'Releasable Amount' },
+    { id: 'vesting_finish_at', title: 'Vesting Finish At' },
   ])
 }
 
