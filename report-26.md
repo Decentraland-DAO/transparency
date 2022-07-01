@@ -97,6 +97,8 @@ Since June 16, 6 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
+* -25, 90: [Wilderness](https://governance.decentraland.org/proposal/?id=dc1506d0-f8b4-11ec-a32a-859962cd3c29)
+* -45, 106: [Wilderness : P2E Combat](https://governance.decentraland.org/proposal/?id=98238870-f8b4-11ec-a32a-859962cd3c29)
 * -75, 35: [Next Realty Hub](https://governance.decentraland.org/proposal/?id=6a76ad70-f711-11ec-805c-77efd746e6b7)
 * -49, 73: [Metancy Art Gallery](https://governance.decentraland.org/proposal/?id=5b0e8c60-f705-11ec-805c-77efd746e6b7)
 * 4, -111: [Wisher Vodka](https://governance.decentraland.org/proposal/?id=beb8e7f0-f648-11ec-805c-77efd746e6b7)
@@ -104,6 +106,7 @@ Since June 16, 6 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [DCL Highlights - Extension](https://governance.decentraland.org/proposal/?id=18f3e990-f8b5-11ec-a32a-859962cd3c29) (Tier 2)
 * [Metaverse Ceremony and Exhibition Sponsorship](https://governance.decentraland.org/proposal/?id=aee6d230-f844-11ec-805c-77efd746e6b7) (Tier 4)
 * [To Help Peoples](https://governance.decentraland.org/proposal/?id=98c85dc0-f821-11ec-805c-77efd746e6b7) (Tier 6)
 * [Decentraland’s First AI-Driven Smart Chickens! (Resubmission)](https://governance.decentraland.org/proposal/?id=44db93f0-f7f2-11ec-805c-77efd746e6b7) (Tier 4)

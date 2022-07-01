@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Guest Post: DAO Committee Report #25"
-description: "A review of the proposals and polls passed in the DAO from June 1 through June 15".
+title: "Guest Post: DAO Committee Report #27"
+description: "A review of the proposals and polls passed in the DAO from July 1 through July 15".
 date: 2022-01-07 00:00:01 -0300
 tags: [announcement, dao, dao-committee-report]
 category: 'project-updates'
@@ -9,66 +9,12 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 9 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-9 points of interest have been added to Decentraland’s map since the last report.
-
-
-#### -103, -97: [MyosinMeta1](https://governance.decentraland.org/proposal/?id=68797770-e445-11ec-87ac-677925327766)
-
-* Yes 100% 728,260 VP (106 votes)
-* No 0% 0 VP (0 votes)
-
-
-#### -1, -135: [Ideal double parcel, corner block units, road adjacent x3](https://governance.decentraland.org/proposal/?id=0d93d330-e1b3-11ec-8ad9-ab7454ba5993)
-
-* Yes 100% 1,144,797 VP (25 votes)
-* No 0% 0 VP (0 votes)
-
-
-#### 137, -2: [The Inn](https://governance.decentraland.org/proposal/?id=dcec2be0-e119-11ec-8ad9-ab7454ba5993)
-
-* Yes 100% 831,299 VP (53 votes)
-* No 0% 0 VP (0 votes)
-
-
-#### -115, -26: [ MetaPals NFT Club](https://governance.decentraland.org/proposal/?id=bd9ccfb0-e0f6-11ec-8ad9-ab7454ba5993)
-
-* Yes 100% 655,109 VP (13 votes)
-* No 0% 0 VP (0 votes)
-
-
-#### -85, 60: [District X](https://governance.decentraland.org/proposal/?id=46a1c500-e038-11ec-8ad9-ab7454ba5993)
-
-* Yes 100% 4,538,428 VP (32 votes)
-* No 0% 0 VP (0 votes)
-
-
-#### -74, 53: [District X](https://governance.decentraland.org/proposal/?id=0ffcf830-e038-11ec-8ad9-ab7454ba5993)
-
-* Yes 100% 4,565,037 VP (31 votes)
-* No 0% 0 VP (0 votes)
-
-
-#### 7, -35: [Pdubverse](https://governance.decentraland.org/proposal/?id=a8c393f0-defb-11ec-8ad9-ab7454ba5993)
-
-* Yes 100% 643,835 VP (22 votes)
-* No 0% 0 VP (0 votes)
-
-
-#### -38, 103: [CollecOnline](https://governance.decentraland.org/proposal/?id=23e2b720-dd9c-11ec-8ad9-ab7454ba5993)
-
-* Yes 100% 551,203 VP (26 votes)
-* No 0% 0 VP (0 votes)
-
-
-#### -69, -139: [No Name](https://governance.decentraland.org/proposal/?id=4d16a900-dd22-11ec-8ad9-ab7454ba5993)
-
-* Yes 100% 687,749 VP (76 votes)
-* No 0% 0 VP (0 votes)
+0 points of interest have been added to Decentraland’s map since the last report.
 
 
 ## Name Bans
@@ -80,29 +26,18 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since June 1, 1 grants have been approved and the vesting contract(s) will be established within 7-10 days.
-
-
-#### [VoxBoards HQ Skate P2E Game in Decentraland](https://governance.decentraland.org/proposal/?id=bf1141e0-dc01-11ec-8ad9-ab7454ba5993) (Tier 4)
-
-* Yes 100% 2,771,513 VP (148 votes)
-* No 0% 0 VP (0 votes)
+Since July 1, 0 grants have been approved and the vesting contract(s) will be established within 7-10 days.
 
 
 ## Polls
-
-#### [Decentraland scenes as NFTs: Should scenes also be NFTs that can be sold within the Decentraland marketplace?](https://governance.decentraland.org/proposal/?id=a371ead0-e5a1-11ec-9a81-b1d70acf7d8d)
-
-* Yes 79.72088026593133% 3,950,860 VP (21 votes)
-* No 20.279119734068676% 1,005,006 VP (5 votes)
-* Invalid question/options 0% 0 VP (0 votes)
-
 
 
 # Active Proposals
 
 ## Points of Interest
 
+* -25, 90: [Wilderness](https://governance.decentraland.org/proposal/?id=dc1506d0-f8b4-11ec-a32a-859962cd3c29)
+* -45, 106: [Wilderness : P2E Combat](https://governance.decentraland.org/proposal/?id=98238870-f8b4-11ec-a32a-859962cd3c29)
 * -75, 35: [Next Realty Hub](https://governance.decentraland.org/proposal/?id=6a76ad70-f711-11ec-805c-77efd746e6b7)
 * -49, 73: [Metancy Art Gallery](https://governance.decentraland.org/proposal/?id=5b0e8c60-f705-11ec-805c-77efd746e6b7)
 * 4, -111: [Wisher Vodka](https://governance.decentraland.org/proposal/?id=beb8e7f0-f648-11ec-805c-77efd746e6b7)
@@ -110,6 +45,7 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 
 ## Grants
 
+* [DCL Highlights - Extension](https://governance.decentraland.org/proposal/?id=18f3e990-f8b5-11ec-a32a-859962cd3c29) (Tier 2)
 * [Metaverse Ceremony and Exhibition Sponsorship](https://governance.decentraland.org/proposal/?id=aee6d230-f844-11ec-805c-77efd746e6b7) (Tier 4)
 * [To Help Peoples](https://governance.decentraland.org/proposal/?id=98c85dc0-f821-11ec-805c-77efd746e6b7) (Tier 6)
 * [Decentraland’s First AI-Driven Smart Chickens! (Resubmission)](https://governance.decentraland.org/proposal/?id=44db93f0-f7f2-11ec-805c-77efd746e6b7) (Tier 4)
