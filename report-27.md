@@ -9,12 +9,18 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+1 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 98, -67: [Dragon City](https://governance.decentraland.org/proposal/?id=a8ab9a30-f467-11ec-b5fc-5178246a05ac)
+
+* Yes 100% 633,073 VP (42 votes)
+* No 0% 0 VP (0 votes)
 
 
 ## Name Bans
@@ -26,7 +32,13 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since July 1, 0 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since July 1, 1 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [DCL-Edit - Further Development](https://governance.decentraland.org/proposal/?id=4b6bb7e0-eed8-11ec-aa01-87bd234b340d) (Tier 6)
+
+* Yes 99.62793090619475% 8,826,413 VP (28 votes)
+* No 0.3720690938052522% 32,963 VP (7 votes)
 
 
 ## Polls
@@ -41,10 +53,11 @@ Since July 1, 0 grants have been approved and the vesting contract(s) will be es
 * -75, 35: [Next Realty Hub](https://governance.decentraland.org/proposal/?id=6a76ad70-f711-11ec-805c-77efd746e6b7)
 * -49, 73: [Metancy Art Gallery](https://governance.decentraland.org/proposal/?id=5b0e8c60-f705-11ec-805c-77efd746e6b7)
 * 4, -111: [Wisher Vodka](https://governance.decentraland.org/proposal/?id=beb8e7f0-f648-11ec-805c-77efd746e6b7)
-* 98, -67: [Dragon City](https://governance.decentraland.org/proposal/?id=a8ab9a30-f467-11ec-b5fc-5178246a05ac)
 
 ## Grants
 
+* [AllTokenFootball-The FAN Activation Network-shaping Fan Sports 3.0](https://governance.decentraland.org/proposal/?id=d9340f40-f96a-11ec-a32a-859962cd3c29) (Tier 6)
+* [ART|DAO Battles!](https://governance.decentraland.org/proposal/?id=dc2986b0-f958-11ec-a32a-859962cd3c29) (Tier 2)
 * [DCL Highlights - Extension](https://governance.decentraland.org/proposal/?id=18f3e990-f8b5-11ec-a32a-859962cd3c29) (Tier 2)
 * [Metaverse Ceremony and Exhibition Sponsorship](https://governance.decentraland.org/proposal/?id=aee6d230-f844-11ec-805c-77efd746e6b7) (Tier 4)
 * [To Help Peoples](https://governance.decentraland.org/proposal/?id=98c85dc0-f821-11ec-805c-77efd746e6b7) (Tier 6)
@@ -57,7 +70,6 @@ Since July 1, 0 grants have been approved and the vesting contract(s) will be es
 * [Golfcraft game and more projects by Eibriel, Pablo &amp; co.](https://governance.decentraland.org/proposal/?id=96914860-f311-11ec-aa01-87bd234b340d) (Tier 6)
 * [MoCDA, Museum of Contemporary Digital Art: Public Exhibitions Program 2022](https://governance.decentraland.org/proposal/?id=04d93380-f233-11ec-aa01-87bd234b340d) (Tier 4)
 * [Bring renewable electricity to Decentraland](https://governance.decentraland.org/proposal/?id=693177c0-ef04-11ec-aa01-87bd234b340d) (Tier 4)
-* [DCL-Edit - Further Development](https://governance.decentraland.org/proposal/?id=4b6bb7e0-eed8-11ec-aa01-87bd234b340d) (Tier 6)
 
 ## Names Bans
 
