@@ -8,7 +8,7 @@ import { ProposalParsed } from './export-proposals'
 import { Category, GovernanceProposalType } from './interfaces/GovernanceProposal'
 import { Decimals, Network, NetworkID, Token } from './interfaces/Network'
 import { COVALENT_API_KEY, fetchURL, saveToCSV, saveToJSON } from './utils'
-import { APITransactions, Decoded, ParamName, TransactionItem } from './interfaces/Transactions/Transactions'
+import { APITransactions, Decoded, DecodedName, ParamName } from './interfaces/Transactions/Transactions'
 
 
 require('dotenv').config()
@@ -42,65 +42,78 @@ function parseNumber(n: number, decimals: number) {
   return new BigNumber(n).dividedBy(10 ** decimals).toNumber()
 }
 
-function findTxAmount(decodedLogEvent: Decoded, proposal: Grant & ProposalParsed, decimals: number) {
-  decodedLogEvent.params.forEach(param => {
+function getTxAmount(decodedLogEvent: Decoded, decimals: number) {
+  for (let param of decodedLogEvent.params) {
     if (param.name === ParamName.Value) {
-      proposal.tx_amount = parseNumber(Number(param.value), decimals)
+      return parseNumber(Number(param.value), decimals)
     }
-  })
+  }
+  return null
 }
 
-async function fillVestingContractData(proposal: Grant & ProposalParsed) {
+async function getVestingContractData(proposalId: string, vestingAddress: string) {
   try {
-    const contract = new web3.eth.Contract(VESTING_ABI as AbiItem[], proposal.vesting_address)
-    const token: string = (await contract.methods.token().call()).toLowerCase()
-    const decimals: number = DECIMALS[token][1]
-    proposal.token = DECIMALS[token][0]
+    const contract = new web3.eth.Contract(VESTING_ABI as AbiItem[], vestingAddress)
+    const contract_token: string = (await contract.methods.token().call()).toLowerCase()
+    const decimals: number = DECIMALS[contract_token][1]
+    const token = DECIMALS[contract_token][0]
 
-    proposal.vesting_released = await contract.methods.released().call()
-    proposal.vesting_released = parseNumber(proposal.vesting_released, decimals)
+    const raw_vesting_released = await contract.methods.released().call()
+    const vesting_released = parseNumber(raw_vesting_released, decimals)
 
-    proposal.vesting_releasable = await contract.methods.releasableAmount().call()
-    proposal.vesting_releasable = parseNumber(proposal.vesting_releasable, decimals)
+    const raw_vesting_releasable = await contract.methods.releasableAmount().call()
+    const vesting_releasable = parseNumber(raw_vesting_releasable, decimals)
 
     const contractStart: number = await contract.methods.start().call()
     const contractDuration: number = await contract.methods.duration().call()
     const contractEndsTimestamp = Number(contractStart) + Number(contractDuration)
-    proposal.vesting_start_at = new Date(contractStart * 1000)
-    proposal.vesting_finish_at = new Date(contractEndsTimestamp * 1000)
+    const vesting_start_at = new Date(contractStart * 1000)
+    const vesting_finish_at = new Date(contractEndsTimestamp * 1000)
+
+    return {
+      token,
+      vesting_released,
+      vesting_releasable,
+      vesting_start_at,
+      vesting_finish_at
+    }
   } catch (e) {
-    console.log(`Error trying to get vesting data for proposal ${proposal.id}`, e)
+    console.log(`Error trying to get vesting data for proposal ${proposalId}, vesting address ${vestingAddress}`, e)
   }
 }
 
-async function fillEnactingTxData(proposal: Grant & ProposalParsed) {
-  try {
-    const url = `https://api.covalenthq.com/v1/${NetworkID[Network.ETHEREUM]}/transaction_v2/${proposal.enacting_tx}/?key=${COVALENT_API_KEY}`
-    const json = await fetchURL(url)
-    if (json.error) {
-      console.log(`Error trying to get contract data for proposal ${proposal.id}`, json)
-      return
-    }
-    const data: APITransactions = json.data
-    const transactions: TransactionItem = data.items[0]
+function txMatchesBeneficiary(decodedLogEvent: Decoded, beneficiary: string) {
+  return decodedLogEvent.params.some(param => {
+    return param.name === ParamName.To && String(param.value).toLowerCase() === beneficiary.toLowerCase()
+  })
+}
 
-    transactions.log_events.forEach(logEvent => {
+async function getTransactionItems(proposalId: string, enactingTx: string) {
+  const url = `https://api.covalenthq.com/v1/${NetworkID[Network.ETHEREUM]}/transaction_v2/${enactingTx}/?key=${COVALENT_API_KEY}`
+  const json = await fetchURL(url)
+  if (json.error) {
+    throw new Error(JSON.stringify(json))
+  }
+  const data: APITransactions = json.data
+  return data.items[0]
+}
+
+async function getEnactingTxData(proposalId: string, enactingTx: string, beneficiary: string) {
+  try {
+    const transactionItems = await getTransactionItems(proposalId, enactingTx)
+    for (let logEvent of transactionItems.log_events) {
       const decodedLogEvent = logEvent.decoded
-      if (decodedLogEvent) {
-        if (decodedLogEvent.name === 'Transfer') {
-          const txMatchesBeneficiary = decodedLogEvent.params.some(param =>
-            param.name === ParamName.To && String(param.value).toLowerCase() === proposal.beneficiary.toLowerCase())
-          if (txMatchesBeneficiary) {
-            proposal.token = DECIMALS[logEvent.sender_address][0]
-            const decimals: number = DECIMALS[logEvent.sender_address][1]
-            proposal.tx_date = logEvent.block_signed_at
-            findTxAmount(decodedLogEvent, proposal, decimals)
-          }
-        }
+      if (decodedLogEvent && decodedLogEvent.name === DecodedName.Transfer && txMatchesBeneficiary(decodedLogEvent, beneficiary)) {
+        const decimals: number = DECIMALS[logEvent.sender_address][1]
+        const token: Token = DECIMALS[logEvent.sender_address][0]
+        const tx_date = logEvent.block_signed_at
+        const tx_amount: number = getTxAmount(decodedLogEvent, decimals)
+        return { token, tx_date, tx_amount }
       }
-    })
+    }
+    return null
   } catch (e) {
-    console.log(`Error trying to get contract data for proposal ${proposal.id}`, e)
+    console.log(`Error trying to get contract data for proposal ${proposalId}`, e)
   }
 }
 
@@ -115,10 +128,12 @@ async function main() {
     proposal.beneficiary = proposal.configuration.beneficiary
 
     if (proposal.vesting_address) {
-      await fillVestingContractData(proposal)
+      const vestingContractData = await getVestingContractData(proposal.id, proposal.vesting_address.toLowerCase())
+      Object.assign(proposal, vestingContractData)
     }
     if (proposal.enacting_tx) {
-      await fillEnactingTxData(proposal)
+      const enactingTxData = await getEnactingTxData(proposal.id, proposal.enacting_tx.toLowerCase(), proposal.beneficiary)
+      Object.assign(proposal, enactingTxData)
     }
     if (proposal.vesting_address === null && proposal.enacting_tx === null) {
       console.log(`A proposal without vesting address and enacting tx has been found. Id ${proposal.id}`)

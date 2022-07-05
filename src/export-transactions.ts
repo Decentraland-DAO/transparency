@@ -86,8 +86,8 @@ async function getTopicTxs(network: number, startblock: number, topic: Topic) {
     console.log('fetch', url)
     json = await fetchURL(url)
     const data: APIEvents = json.data
-    const evs = data.items.map(e => e.tx_hash)
-    events.push(...evs)
+    const eventsTransactions = data.items.map(e => e.tx_hash)
+    events.push(...eventsTransactions)
     block += 1000000
   }
 
