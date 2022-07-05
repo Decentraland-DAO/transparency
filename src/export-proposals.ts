@@ -1,6 +1,6 @@
-import { Configuration, GovernanceProposal, Status, Symbol } from "./interfaces/GovernanceProposal"
-import { Proposal } from "./interfaces/Proposal"
-import { fetchGraphQL, fetchURL, saveToCSV, saveToJSON } from "./utils"
+import { Configuration, GovernanceProposal, Status, Symbol } from './interfaces/GovernanceProposal'
+import { Proposal } from './interfaces/Proposal'
+import { fetchGraphQL, fetchURL, saveToCSV, saveToJSON } from './utils'
 
 type ProposalVotes = {
   [id: string]: Proposal
@@ -25,6 +25,7 @@ export type ProposalParsed = {
   namesVP: number
   delegatedVP: number
   vesting_address: string | null
+  enacting_tx: string | null
 }
 
 async function main() {
@@ -76,6 +77,7 @@ async function main() {
       namesVP: getVP(pv, Symbol.NAMES),
       delegatedVP: getVP(pv, Symbol.VP_DELEGATED),
       vesting_address: p.vesting_address,
+      enacting_tx: p.enacting_tx
     }
 
     return proposal
@@ -103,7 +105,7 @@ async function main() {
     { id: 'landVP', title: 'LAND VP' },
     { id: 'namesVP', title: 'NAMES VP' },
     { id: 'delegatedVP', title: 'DELEGATED VP' },
-    { id: 'votes', title: 'Votes' },
+    { id: 'votes', title: 'Votes' }
   ])
 }
 
