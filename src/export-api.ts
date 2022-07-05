@@ -1,11 +1,11 @@
 import BALANCES from '../public/balances.json'
 import GRANTS from '../public/grants.json'
 import TRANSACTIONS from '../public/transactions.json'
-import { GrantProposal } from './export-grants'
 import { TransactionParsed } from './export-transactions'
 import { Status } from './interfaces/GovernanceProposal'
 import { TransferType } from './interfaces/Transactions/Transfers'
 import { saveToJSON } from './utils'
+import { GrantProposal } from './interfaces/Grant'
 
 const sumQuote = (txs: TransactionParsed[]) => txs.reduce((total, tx) => total + tx.quote, 0)
 

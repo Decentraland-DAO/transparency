@@ -1,32 +1,6 @@
-import { Configuration, GovernanceProposal, Status, Symbol } from './interfaces/GovernanceProposal'
-import { Proposal } from './interfaces/Proposal'
+import { GovernanceProposal, Status, Symbol } from './interfaces/GovernanceProposal'
+import { Proposal, ProposalParsed, ProposalVotes } from './interfaces/Proposal'
 import { fetchGraphQL, fetchURL, saveToCSV, saveToJSON } from './utils'
-
-type ProposalVotes = {
-  [id: string]: Proposal
-}
-
-export type ProposalParsed = {
-  id: string
-  snapshot_id: string
-  user: string
-  type: string
-  title: string
-  start_at: Date
-  finish_at: Date
-  required_to_pass: number
-  status: Status
-  configuration: Configuration
-  discourse_topic_id: number
-  scores_total: number
-  votes: number
-  manaVP: number
-  landVP: number
-  namesVP: number
-  delegatedVP: number
-  vesting_address: string | null
-  enacting_tx: string | null
-}
 
 async function main() {
   // Fetch Snapshot Proposals

@@ -7,6 +7,7 @@ import { existsSync, mkdirSync, writeFileSync } from 'fs'
 require('dotenv').config()
 
 export const COVALENT_API_KEY = process.env.COVALENTHQ_API_KEY
+export const INFURA_URL = process.env.INFURA_URL
 
 export function toISOString(seconds: number) {
   return seconds && new Date(seconds * 1000).toISOString()
