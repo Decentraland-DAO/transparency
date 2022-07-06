@@ -60,13 +60,13 @@ Since July 1, 2 grants have been approved and the vesting contract(s) will be es
 
 ## Points of Interest
 
+* 12, 23: [No Name](https://governance.decentraland.org/proposal/?id=3f7ad9c0-fca2-11ec-a32a-859962cd3c29)
 * -25, 90: [Wilderness](https://governance.decentraland.org/proposal/?id=dc1506d0-f8b4-11ec-a32a-859962cd3c29)
 * -45, 106: [Wilderness : P2E Combat](https://governance.decentraland.org/proposal/?id=98238870-f8b4-11ec-a32a-859962cd3c29)
-* -75, 35: [Next Realty Hub](https://governance.decentraland.org/proposal/?id=6a76ad70-f711-11ec-805c-77efd746e6b7)
-* -49, 73: [Metancy Art Gallery](https://governance.decentraland.org/proposal/?id=5b0e8c60-f705-11ec-805c-77efd746e6b7)
 
 ## Grants
 
+* [Educational course to bring more brands to Decentraland](https://governance.decentraland.org/proposal/?id=e83685e0-fc85-11ec-a32a-859962cd3c29) (Tier 2)
 * [Room Zero Japan web 3 &#34;Metaverse School&#34;](https://governance.decentraland.org/proposal/?id=1dc97780-fc18-11ec-a32a-859962cd3c29) (Tier 5)
 * [Direct integration with 3D NFT marketplace for scenes and assets MetaMundo](https://governance.decentraland.org/proposal/?id=6cfbafd0-fbe1-11ec-a32a-859962cd3c29) (Tier 5)
 * [AllTokenFootball-The FAN Activation Network-shaping Fan Sports 3.0](https://governance.decentraland.org/proposal/?id=d9340f40-f96a-11ec-a32a-859962cd3c29) (Tier 6)
@@ -83,6 +83,9 @@ Since July 1, 2 grants have been approved and the vesting contract(s) will be es
 
 ## Names Bans
 
+* [Ban the name testtesttest](https://governance.decentraland.org/proposal/?id=e1368fa0-fccc-11ec-a32a-859962cd3c29)
+* [Ban the name pocpurposes](https://governance.decentraland.org/proposal/?id=c2abcab0-fca3-11ec-a32a-859962cd3c29)
+* [Ban the name pocpurposes](https://governance.decentraland.org/proposal/?id=b1c02070-fca3-11ec-a32a-859962cd3c29)
 
 ## Catalysts
 
