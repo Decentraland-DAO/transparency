@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -38,13 +38,19 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since July 1, 2 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since July 1, 3 grants have been approved and the vesting contract(s) will be established within 7-10 days.
 
 
 #### [Endless Mafia](https://governance.decentraland.org/proposal/?id=7c213df0-f62c-11ec-805c-77efd746e6b7) (Tier 3)
 
 * Yes 99.66439703630063% 1,235,103 VP (30 votes)
 * No 0.335602963699363% 4,159 VP (5 votes)
+
+
+#### [MoCDA, Museum of Contemporary Digital Art: Public Exhibitions Program 2022](https://governance.decentraland.org/proposal/?id=04d93380-f233-11ec-aa01-87bd234b340d) (Tier 4)
+
+* Yes 58.480540062166355% 2,453,561 VP (46 votes)
+* No 41.519459937833645% 1,741,956 VP (9 votes)
 
 
 #### [DCL-Edit - Further Development](https://governance.decentraland.org/proposal/?id=4b6bb7e0-eed8-11ec-aa01-87bd234b340d) (Tier 6)
@@ -66,6 +72,7 @@ Since July 1, 2 grants have been approved and the vesting contract(s) will be es
 
 ## Grants
 
+* [Decentraland Explorer Mobile App](https://governance.decentraland.org/proposal/?id=73b27280-fd23-11ec-a32a-859962cd3c29) (Tier 4)
 * [Educational course to bring more brands to Decentraland](https://governance.decentraland.org/proposal/?id=e83685e0-fc85-11ec-a32a-859962cd3c29) (Tier 2)
 * [Room Zero Japan web 3 &#34;Metaverse School&#34;](https://governance.decentraland.org/proposal/?id=1dc97780-fc18-11ec-a32a-859962cd3c29) (Tier 5)
 * [Direct integration with 3D NFT marketplace for scenes and assets MetaMundo](https://governance.decentraland.org/proposal/?id=6cfbafd0-fbe1-11ec-a32a-859962cd3c29) (Tier 5)
@@ -79,7 +86,6 @@ Since July 1, 2 grants have been approved and the vesting contract(s) will be es
 * [$120,000 grant to be approved to fund Builder Competitions for DCL creators.](https://governance.decentraland.org/proposal/?id=8befa660-f6f2-11ec-805c-77efd746e6b7) (Tier 5)
 * [Creating energetic, personalised content &amp; Building project in Decentraland.](https://governance.decentraland.org/proposal/?id=bbf5b1b0-f576-11ec-b5fc-5178246a05ac) (Tier 4)
 * [Golfcraft game and more projects by Eibriel, Pablo &amp; co.](https://governance.decentraland.org/proposal/?id=96914860-f311-11ec-aa01-87bd234b340d) (Tier 6)
-* [MoCDA, Museum of Contemporary Digital Art: Public Exhibitions Program 2022](https://governance.decentraland.org/proposal/?id=04d93380-f233-11ec-aa01-87bd234b340d) (Tier 4)
 
 ## Names Bans
 
@@ -92,6 +98,7 @@ Since July 1, 2 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+* [Should Decentraland have a mature content wearables filter?](https://governance.decentraland.org/proposal/?id=00b4d480-fd73-11ec-8fbf-839e0f96469a)
 * [Darkmode for DAO &amp; Forum](https://governance.decentraland.org/proposal/?id=be808280-fbdd-11ec-a32a-859962cd3c29)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
