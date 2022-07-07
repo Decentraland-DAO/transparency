@@ -103,6 +103,7 @@ Since June 16, 6 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [Partner Support Squad](https://governance.decentraland.org/proposal/?id=f9561670-fdfb-11ec-8fbf-839e0f96469a) (Tier 5)
 * [Decentraland Explorer Mobile App](https://governance.decentraland.org/proposal/?id=73b27280-fd23-11ec-a32a-859962cd3c29) (Tier 4)
 * [Educational course to bring more brands to Decentraland](https://governance.decentraland.org/proposal/?id=e83685e0-fc85-11ec-a32a-859962cd3c29) (Tier 2)
 * [Room Zero Japan web 3 &#34;Metaverse School&#34;](https://governance.decentraland.org/proposal/?id=1dc97780-fc18-11ec-a32a-859962cd3c29) (Tier 5)
@@ -116,7 +117,6 @@ Since June 16, 6 grants have been approved and the vesting contract(s) will be e
 * [Decentraland Retro 2D Client and SDK Proposal](https://governance.decentraland.org/proposal/?id=1959b490-f726-11ec-805c-77efd746e6b7) (Tier 4)
 * [$120,000 grant to be approved to fund Builder Competitions for DCL creators.](https://governance.decentraland.org/proposal/?id=8befa660-f6f2-11ec-805c-77efd746e6b7) (Tier 5)
 * [Creating energetic, personalised content &amp; Building project in Decentraland.](https://governance.decentraland.org/proposal/?id=bbf5b1b0-f576-11ec-b5fc-5178246a05ac) (Tier 4)
-* [Golfcraft game and more projects by Eibriel, Pablo &amp; co.](https://governance.decentraland.org/proposal/?id=96914860-f311-11ec-aa01-87bd234b340d) (Tier 6)
 
 ## Names Bans
 
