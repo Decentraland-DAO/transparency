@@ -6,7 +6,7 @@ import { Decimals, Network, NetworkID, Token } from './interfaces/Network'
 import { APIEvents } from './interfaces/Transactions/Events'
 import { APITransactions } from './interfaces/Transactions/Transactions'
 import { APITransfers, TransferType } from './interfaces/Transactions/Transfers'
-import { fetchURL, flattenArray, saveToCSV, saveToJSON, splitArray } from './utils'
+import { COVALENT_API_KEY, fetchURL, flattenArray, saveToCSV, saveToJSON, splitArray } from './utils'
 
 require('dotenv').config()
 
@@ -36,7 +36,7 @@ enum Topic {
 const wallets = [
   [Network.ETHEREUM, '0x9a6ebe7e2a7722f8200d0ffb63a1f6406a0d7dce', 'Aragon Agent'],
   [Network.ETHEREUM, '0x89214c8ca9a49e60a3bfa8e00544f384c93719b1', 'DAO Committee'],
-  [Network.POLYGON, '0xb08e3e7cc815213304d884c88ca476ebc50eaab2', 'DAO Committee'],
+  [Network.POLYGON, '0xb08e3e7cc815213304d884c88ca476ebc50eaab2', 'DAO Committee']
 ]
 
 const walletAddresses = new Set(wallets.map(w => w[1]))
@@ -52,15 +52,14 @@ const tokens = {
   '0x8f3cf7ad23cd3cadbd9735aff958023239c6a063': [Network.POLYGON, Token.DAI, Decimals.DAI],
   '0xc2132d05d31c914a87c6611c10748aeb04b58e8f': [Network.POLYGON, Token.USDT, Decimals.USDT],
   '0x2791bca1f2de4661ed88a30c99a7a9449aa84174': [Network.POLYGON, Token.USDC, Decimals.USDC],
-  '0x7ceb23fd6bc0add59e62ac25578270cff1b9f619': [Network.POLYGON, Token.WETH, Decimals.WETH],
+  '0x7ceb23fd6bc0add59e62ac25578270cff1b9f619': [Network.POLYGON, Token.WETH, Decimals.WETH]
 }
 
 const ethTokens = Object.keys(tokens).filter(a => tokens[a][0] === Network.ETHEREUM)
 const maticTokens = Object.keys(tokens).filter(a => tokens[a][0] === Network.POLYGON)
 
-const API_KEY = process.env.COVALENTHQ_API_KEY
 const grants: GrantProposal[] = GRANTS
-const GRANT_ADDRESSES = new Set(grants.filter(g => g.status === Status.ENACTED || g.status === Status.PASSED).map(g => (g.vesting_address || g.grant_beneficiary).toLowerCase()))
+const GRANT_ADDRESSES = new Set(grants.filter(g => g.status === Status.ENACTED || g.status === Status.PASSED).map(g => (g.vesting_address || g.beneficiary).toLowerCase()))
 const CURATOR_ADDRESSES = new Set([
   '0x5d7846007c1dd6dca25d16ce2f71ec13bcdcf6f0',
   '0x716954738e57686a08902d9dd586e813490fee23',
@@ -77,18 +76,18 @@ const FACILITATOR_ADDRESS = '0x76fb13f00cdbdd5eac8e2664cf14be791af87cb0'
 async function getTopicTxs(network: number, startblock: number, topic: Topic) {
   const events: string[] = []
   let block = startblock
-  let url = `https://api.covalenthq.com/v1/${network}/block_v2/latest/?key=${API_KEY}`
+  let url = `https://api.covalenthq.com/v1/${network}/block_v2/latest/?key=${COVALENT_API_KEY}`
   let json = await fetchURL(url)
   const latestBlock: number = json.data.items[0].height
   console.log('Latest', network, block, latestBlock, (latestBlock - block) / 1000000)
 
   while (block < latestBlock) {
-    url = `https://api.covalenthq.com/v1/${network}/events/topics/${topic}/?key=${API_KEY}&starting-block=${block}&ending-block=${block + 1000000}&page-size=1000000000`
+    url = `https://api.covalenthq.com/v1/${network}/events/topics/${topic}/?key=${COVALENT_API_KEY}&starting-block=${block}&ending-block=${block + 1000000}&page-size=1000000000`
     console.log('fetch', url)
     json = await fetchURL(url)
     const data: APIEvents = json.data
-    let evs = data.items.map(e => e.tx_hash)
-    events.push(...evs)
+    const eventsTransactions = data.items.map(e => e.tx_hash)
+    events.push(...eventsTransactions)
     block += 1000000
   }
 
@@ -97,7 +96,7 @@ async function getTopicTxs(network: number, startblock: number, topic: Topic) {
 
 async function getTransactions(name: string, tokenAddress: string, network: number, address: string) {
   let token = tokens[tokenAddress]
-  const url = `https://api.covalenthq.com/v1/${network}/address/${address}/transfers_v2/?key=${API_KEY}&contract-address=${tokenAddress}&page-size=500000`
+  const url = `https://api.covalenthq.com/v1/${network}/address/${address}/transfers_v2/?key=${COVALENT_API_KEY}&contract-address=${tokenAddress}&page-size=500000`
   const json = await fetchURL(url)
   const data: APITransfers = json.data
   const txs = data.items.filter(t => t.successful)
@@ -124,7 +123,7 @@ async function getTransactions(name: string, tokenAddress: string, network: numb
         quote: trans.delta_quote,
         sender: trans.from_address,
         from: trans.from_address,
-        to: trans.to_address,
+        to: trans.to_address
       }
       return transfer
     })
@@ -167,7 +166,7 @@ async function main() {
     { id: 'to', title: 'Transfer To' },
     { id: 'block', title: 'Block' },
     { id: 'hash', title: 'Hash' },
-    { id: 'contract', title: 'Contract' },
+    { id: 'contract', title: 'Contract' }
   ])
 
   console.log('Tagging...')
@@ -259,7 +258,7 @@ async function tagging(txs: TransactionParsed[]) {
         do {
           try {
             const network = NetworkID[tx.network]
-            const url = `https://api.covalenthq.com/v1/${network}/transaction_v2/${tx.hash}/?key=${API_KEY}`
+            const url = `https://api.covalenthq.com/v1/${network}/transaction_v2/${tx.hash}/?key=${COVALENT_API_KEY}`
             const json = await fetchURL(url)
             const data: APITransactions = json.data
 
@@ -292,7 +291,7 @@ async function tagging(txs: TransactionParsed[]) {
             }
 
           } catch (error) {
-            console.log("retrying...")
+            console.log('retrying...')
           }
         } while (!fetched)
       }
@@ -322,7 +321,7 @@ async function tagging(txs: TransactionParsed[]) {
     { id: 'to', title: 'Transfer To' },
     { id: 'block', title: 'Block' },
     { id: 'hash', title: 'Hash' },
-    { id: 'contract', title: 'Contract' },
+    { id: 'contract', title: 'Contract' }
   ])
 }
 
