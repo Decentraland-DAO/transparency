@@ -4,39 +4,13 @@ import { AbiItem } from 'web3-utils'
 
 import PROPOSALS from '../public/proposals.json'
 import VESTING_ABI from './abi/vesting.json'
-import { ProposalParsed } from './export-proposals'
 import { Category, GovernanceProposalType } from './interfaces/GovernanceProposal'
-import { Decimals, Network, NetworkID, Token } from './interfaces/Network'
-import { COVALENT_API_KEY, fetchURL, saveToCSV, saveToJSON } from './utils'
+import { Network, NetworkID, Token, getTokenByAddress, TOKENS } from './interfaces/Network'
+import { COVALENT_API_KEY, fetchURL, INFURA_URL, saveToCSV, saveToJSON } from './utils'
 import { APITransactions, Decoded, DecodedName, ParamName } from './interfaces/Transactions/Transactions'
+import { GrantProposal } from './interfaces/Grant'
 
-
-require('dotenv').config()
-
-interface Grant {
-  category?: Category
-  tier?: string
-  size?: number
-  beneficiary?: string
-  token?: Token
-  vesting_released?: number
-  vesting_releasable?: number
-  vesting_start_at?: Date
-  vesting_finish_at?: Date
-  tx_date?: Date
-  tx_amount?: number
-}
-
-export type GrantProposal = Grant & ProposalParsed
-
-const web3 = new Web3(process.env.INFURA_URL)
-
-const DECIMALS = {
-  '0x0f5d2fb29fb7d3cfee444a200298f468908cc942': [Token.MANA, Decimals.MANA],
-  '0x6b175474e89094c44da98b954eedeac495271d0f': [Token.DAI, Decimals.DAI],
-  '0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48': [Token.USDC, Decimals.USDC],
-  '0xdac17f958d2ee523a2206206994597c13d831ec7': [Token.USDT, Decimals.USDT]
-}
+const web3 = new Web3(INFURA_URL)
 
 function parseNumber(n: number, decimals: number) {
   return new BigNumber(n).dividedBy(10 ** decimals).toNumber()
@@ -53,39 +27,47 @@ function getTxAmount(decodedLogEvent: Decoded, decimals: number) {
 
 async function getVestingContractData(proposalId: string, vestingAddress: string) {
   try {
-    const contract = new web3.eth.Contract(VESTING_ABI as AbiItem[], vestingAddress)
-    const contract_token: string = (await contract.methods.token().call()).toLowerCase()
-    const decimals: number = DECIMALS[contract_token][1]
-    const token = DECIMALS[contract_token][0]
+    const vestingContract = new web3.eth.Contract(VESTING_ABI as AbiItem[], vestingAddress)
+    const contract_token_address: string = (await vestingContract.methods.token().call()).toLowerCase()
+    const token = getTokenByAddress(contract_token_address)
+    const decimals: number = TOKENS[token].decimals
 
-    const raw_vesting_released = await contract.methods.released().call()
+    const raw_vesting_released = await vestingContract.methods.released().call()
     const vesting_released = parseNumber(raw_vesting_released, decimals)
 
-    const raw_vesting_releasable = await contract.methods.releasableAmount().call()
+    const raw_vesting_releasable = await vestingContract.methods.releasableAmount().call()
     const vesting_releasable = parseNumber(raw_vesting_releasable, decimals)
 
-    const contractStart: number = await contract.methods.start().call()
-    const contractDuration: number = await contract.methods.duration().call()
+    const contractStart: number = await vestingContract.methods.start().call()
+    const contractDuration: number = await vestingContract.methods.duration().call()
     const contractEndsTimestamp = Number(contractStart) + Number(contractDuration)
     const vesting_start_at = new Date(contractStart * 1000)
     const vesting_finish_at = new Date(contractEndsTimestamp * 1000)
+
+    const tokenContract = new web3.eth.Contract(TOKENS[token].abi, TOKENS[token].address)
+    const raw_token_contract_balance = await tokenContract.methods.balanceOf(vestingAddress).call()
+    const vesting_token_contract_balance = parseNumber(raw_token_contract_balance, decimals)
+    const vesting_total_amount = vesting_token_contract_balance + vesting_released
 
     return {
       token,
       vesting_released,
       vesting_releasable,
       vesting_start_at,
-      vesting_finish_at
+      vesting_finish_at,
+      vesting_token_contract_balance,
+      vesting_total_amount
     }
   } catch (e) {
     console.log(`Error trying to get vesting data for proposal ${proposalId}, vesting address ${vestingAddress}`, e)
   }
 }
 
-function txMatchesBeneficiary(decodedLogEvent: Decoded, beneficiary: string) {
-  return decodedLogEvent.params.some(param => {
-    return param.name === ParamName.To && String(param.value).toLowerCase() === beneficiary.toLowerCase()
-  })
+function transferMatchesBeneficiary(decodedLogEvent: Decoded, beneficiary: string) {
+  return decodedLogEvent && decodedLogEvent.name === DecodedName.Transfer &&
+    decodedLogEvent.params.some(param => {
+      return param.name === ParamName.To && String(param.value).toLowerCase() === beneficiary.toLowerCase()
+    })
 }
 
 async function getTransactionItems(proposalId: string, enactingTx: string) {
@@ -103,9 +85,9 @@ async function getEnactingTxData(proposalId: string, enactingTx: string, benefic
     const transactionItems = await getTransactionItems(proposalId, enactingTx)
     for (let logEvent of transactionItems.log_events) {
       const decodedLogEvent = logEvent.decoded
-      if (decodedLogEvent && decodedLogEvent.name === DecodedName.Transfer && txMatchesBeneficiary(decodedLogEvent, beneficiary)) {
-        const decimals: number = DECIMALS[logEvent.sender_address][1]
-        const token: Token = DECIMALS[logEvent.sender_address][0]
+      if (transferMatchesBeneficiary(decodedLogEvent, beneficiary)) {
+        const token: Token = getTokenByAddress(logEvent.sender_address)
+        const decimals: number = TOKENS[token].decimals
         const tx_date = logEvent.block_signed_at
         const tx_amount: number = getTxAmount(decodedLogEvent, decimals)
         return { token, tx_date, tx_amount }
@@ -164,6 +146,8 @@ async function main() {
     { id: 'vesting_address', title: 'Vesting Contract' },
     { id: 'vesting_released', title: 'Vesting Released Amount' },
     { id: 'vesting_releasable', title: 'Vesting Releasable Amount' },
+    { id: 'vesting_token_contract_balance', title: 'Vesting Token Contract Balance' },
+    { id: 'vesting_total_amount', title: 'Vesting Total Amount' },
     { id: 'vesting_start_at', title: 'Vesting Start At' },
     { id: 'vesting_finish_at', title: 'Vesting Finish At' },
 

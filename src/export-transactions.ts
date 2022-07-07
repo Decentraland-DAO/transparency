@@ -1,12 +1,12 @@
 import BigNumber from 'bignumber.js'
 import GRANTS from '../public/grants.json'
-import { GrantProposal } from './export-grants'
 import { Status } from './interfaces/GovernanceProposal'
 import { Decimals, Network, NetworkID, Token } from './interfaces/Network'
 import { APIEvents } from './interfaces/Transactions/Events'
 import { APITransactions } from './interfaces/Transactions/Transactions'
 import { APITransfers, TransferType } from './interfaces/Transactions/Transfers'
 import { COVALENT_API_KEY, fetchURL, flattenArray, saveToCSV, saveToJSON, splitArray } from './utils'
+import { GrantProposal } from './interfaces/Grant'
 
 require('dotenv').config()
 
