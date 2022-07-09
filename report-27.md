@@ -100,7 +100,6 @@ Since July 1, 5 grants have been approved and the vesting contract(s) will be es
 * [Room Zero Japan web 3 &#34;Metaverse School&#34;](https://governance.decentraland.org/proposal/?id=1dc97780-fc18-11ec-a32a-859962cd3c29) (Tier 5)
 * [Direct integration with 3D NFT marketplace for scenes and assets MetaMundo](https://governance.decentraland.org/proposal/?id=6cfbafd0-fbe1-11ec-a32a-859962cd3c29) (Tier 5)
 * [AllTokenFootball-The FAN Activation Network-shaping Fan Sports 3.0](https://governance.decentraland.org/proposal/?id=d9340f40-f96a-11ec-a32a-859962cd3c29) (Tier 6)
-* [ART|DAO Battles!](https://governance.decentraland.org/proposal/?id=dc2986b0-f958-11ec-a32a-859962cd3c29) (Tier 2)
 * [Metaverse Ceremony and Exhibition Sponsorship](https://governance.decentraland.org/proposal/?id=aee6d230-f844-11ec-805c-77efd746e6b7) (Tier 4)
 * [To Help Peoples](https://governance.decentraland.org/proposal/?id=98c85dc0-f821-11ec-805c-77efd746e6b7) (Tier 6)
 * [Decentraland’s First AI-Driven Smart Chickens! (Resubmission)](https://governance.decentraland.org/proposal/?id=44db93f0-f7f2-11ec-805c-77efd746e6b7) (Tier 4)
@@ -119,6 +118,8 @@ Since July 1, 5 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+* [Set up a bounty program for vulnerability reports](https://governance.decentraland.org/proposal/?id=c8c8ee20-fee5-11ec-8f44-ef1722f0509f)
+* [Would you like custom spawn points or ability to spawn in at last location?](https://governance.decentraland.org/proposal/?id=2f347730-fec6-11ec-8f44-ef1722f0509f)
 * [What do you think of the article &#34;A vision for Decentraland&#39;s next 5 years&#34; written by maraoz.](https://governance.decentraland.org/proposal/?id=fbb9faa0-fe49-11ec-8fbf-839e0f96469a)
 * [Should Decentraland have a mature content wearables filter?](https://governance.decentraland.org/proposal/?id=00b4d480-fd73-11ec-8fbf-839e0f96469a)
 * [Darkmode for DAO &amp; Forum](https://governance.decentraland.org/proposal/?id=be808280-fbdd-11ec-a32a-859962cd3c29)
