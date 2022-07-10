@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -85,11 +85,19 @@ Since July 1, 5 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+#### [Darkmode for DAO &amp; Forum](https://governance.decentraland.org/proposal/?id=be808280-fbdd-11ec-a32a-859962cd3c29)
+
+* Yes 100% 630,338 VP (35 votes)
+* No 0% 0 VP (0 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 
 # Active Proposals
 
 ## Points of Interest
 
+* 103, 150: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=34a8afc0-ffb0-11ec-8f44-ef1722f0509f)
 * 12, 23: [No Name](https://governance.decentraland.org/proposal/?id=3f7ad9c0-fca2-11ec-a32a-859962cd3c29)
 
 ## Grants
@@ -122,6 +130,5 @@ Since July 1, 5 grants have been approved and the vesting contract(s) will be es
 * [Would you like custom spawn points or ability to spawn in at last location?](https://governance.decentraland.org/proposal/?id=2f347730-fec6-11ec-8f44-ef1722f0509f)
 * [What do you think of the article &#34;A vision for Decentraland&#39;s next 5 years&#34; written by maraoz.](https://governance.decentraland.org/proposal/?id=fbb9faa0-fe49-11ec-8fbf-839e0f96469a)
 * [Should Decentraland have a mature content wearables filter?](https://governance.decentraland.org/proposal/?id=00b4d480-fd73-11ec-8fbf-839e0f96469a)
-* [Darkmode for DAO &amp; Forum](https://governance.decentraland.org/proposal/?id=be808280-fbdd-11ec-a32a-859962cd3c29)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
