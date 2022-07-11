@@ -35,6 +35,7 @@ jobs:
 
       - name: Pull Grants
         env:
+          COVALENTHQ_API_KEY: ${{ secrets.COVALENTHQ_API_KEY }}
           INFURA_URL: ${{ secrets.INFURA_URL }}
           SHEET_ID: ${{ secrets.SHEET_ID }}
           SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
