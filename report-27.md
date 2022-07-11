@@ -109,6 +109,7 @@ Since July 1, 6 grants have been approved and the vesting contract(s) will be es
 
 ## Grants
 
+* [Exodus: Goodbye World Development](https://governance.decentraland.org/proposal/?id=38896e40-0122-11ed-8f44-ef1722f0509f) (Tier 6)
 * [Partner Support Squad](https://governance.decentraland.org/proposal/?id=f9561670-fdfb-11ec-8fbf-839e0f96469a) (Tier 5)
 * [Decentraland Explorer Mobile App](https://governance.decentraland.org/proposal/?id=73b27280-fd23-11ec-a32a-859962cd3c29) (Tier 4)
 * [Educational course to bring more brands to Decentraland](https://governance.decentraland.org/proposal/?id=e83685e0-fc85-11ec-a32a-859962cd3c29) (Tier 2)
@@ -123,6 +124,7 @@ Since July 1, 6 grants have been approved and the vesting contract(s) will be es
 
 ## Names Bans
 
+* [Ban the name SashaFucks](https://governance.decentraland.org/proposal/?id=0d519780-0117-11ed-8f44-ef1722f0509f)
 * [Ban the name pissfuck](https://governance.decentraland.org/proposal/?id=52402210-00ec-11ed-8f44-ef1722f0509f)
 * [Ban the name testtesttest](https://governance.decentraland.org/proposal/?id=e1368fa0-fccc-11ec-a32a-859962cd3c29)
 * [Ban the name pocpurposes](https://governance.decentraland.org/proposal/?id=c2abcab0-fca3-11ec-a32a-859962cd3c29)
@@ -133,6 +135,7 @@ Since July 1, 6 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+* [Should Decentraland DAO be incorporated?](https://governance.decentraland.org/proposal/?id=e7077400-0120-11ed-8f44-ef1722f0509f)
 * [Set up a bounty program for vulnerability reports](https://governance.decentraland.org/proposal/?id=c8c8ee20-fee5-11ec-8f44-ef1722f0509f)
 * [Would you like custom spawn points or ability to spawn in at last location?](https://governance.decentraland.org/proposal/?id=2f347730-fec6-11ec-8f44-ef1722f0509f)
 * [What do you think of the article &#34;A vision for Decentraland&#39;s next 5 years&#34; written by maraoz.](https://governance.decentraland.org/proposal/?id=fbb9faa0-fe49-11ec-8fbf-839e0f96469a)
