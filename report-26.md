@@ -97,6 +97,7 @@ Since June 16, 6 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
+* 48, 113: [Vech HQ](https://governance.decentraland.org/proposal/?id=c722ab10-00fc-11ed-8f44-ef1722f0509f)
 * 103, 150: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=34a8afc0-ffb0-11ec-8f44-ef1722f0509f)
 * 12, 23: [No Name](https://governance.decentraland.org/proposal/?id=3f7ad9c0-fca2-11ec-a32a-859962cd3c29)
 
@@ -113,10 +114,10 @@ Since June 16, 6 grants have been approved and the vesting contract(s) will be e
 * [Decentraland’s First AI-Driven Smart Chickens! (Resubmission)](https://governance.decentraland.org/proposal/?id=44db93f0-f7f2-11ec-805c-77efd746e6b7) (Tier 4)
 * [Decentraland Retro 2D Client and SDK Proposal](https://governance.decentraland.org/proposal/?id=1959b490-f726-11ec-805c-77efd746e6b7) (Tier 4)
 * [$120,000 grant to be approved to fund Builder Competitions for DCL creators.](https://governance.decentraland.org/proposal/?id=8befa660-f6f2-11ec-805c-77efd746e6b7) (Tier 5)
-* [Creating energetic, personalised content &amp; Building project in Decentraland.](https://governance.decentraland.org/proposal/?id=bbf5b1b0-f576-11ec-b5fc-5178246a05ac) (Tier 4)
 
 ## Names Bans
 
+* [Ban the name pissfuck](https://governance.decentraland.org/proposal/?id=52402210-00ec-11ed-8f44-ef1722f0509f)
 * [Ban the name testtesttest](https://governance.decentraland.org/proposal/?id=e1368fa0-fccc-11ec-a32a-859962cd3c29)
 * [Ban the name pocpurposes](https://governance.decentraland.org/proposal/?id=c2abcab0-fca3-11ec-a32a-859962cd3c29)
 * [Ban the name pocpurposes](https://governance.decentraland.org/proposal/?id=b1c02070-fca3-11ec-a32a-859962cd3c29)

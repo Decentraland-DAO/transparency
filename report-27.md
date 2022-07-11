@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 6 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -50,7 +50,7 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since July 1, 5 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since July 1, 6 grants have been approved and the vesting contract(s) will be established within 7-10 days.
 
 
 #### [DCL Highlights - Extension](https://governance.decentraland.org/proposal/?id=18f3e990-f8b5-11ec-a32a-859962cd3c29) (Tier 2)
@@ -63,6 +63,12 @@ Since July 1, 5 grants have been approved and the vesting contract(s) will be es
 
 * Yes 99.66439703630063% 1,235,103 VP (30 votes)
 * No 0.335602963699363% 4,159 VP (5 votes)
+
+
+#### [Creating energetic, personalised content &amp; Building project in Decentraland.](https://governance.decentraland.org/proposal/?id=bbf5b1b0-f576-11ec-b5fc-5178246a05ac) (Tier 4)
+
+* Yes 83.87373355720081% 5,177,773 VP (57 votes)
+* No 16.126266442799185% 995,522 VP (7 votes)
 
 
 #### [Golfcraft game and more projects by Eibriel, Pablo &amp; co.](https://governance.decentraland.org/proposal/?id=96914860-f311-11ec-aa01-87bd234b340d) (Tier 6)
@@ -97,6 +103,7 @@ Since July 1, 5 grants have been approved and the vesting contract(s) will be es
 
 ## Points of Interest
 
+* 48, 113: [Vech HQ](https://governance.decentraland.org/proposal/?id=c722ab10-00fc-11ed-8f44-ef1722f0509f)
 * 103, 150: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=34a8afc0-ffb0-11ec-8f44-ef1722f0509f)
 * 12, 23: [No Name](https://governance.decentraland.org/proposal/?id=3f7ad9c0-fca2-11ec-a32a-859962cd3c29)
 
@@ -113,10 +120,10 @@ Since July 1, 5 grants have been approved and the vesting contract(s) will be es
 * [Decentraland’s First AI-Driven Smart Chickens! (Resubmission)](https://governance.decentraland.org/proposal/?id=44db93f0-f7f2-11ec-805c-77efd746e6b7) (Tier 4)
 * [Decentraland Retro 2D Client and SDK Proposal](https://governance.decentraland.org/proposal/?id=1959b490-f726-11ec-805c-77efd746e6b7) (Tier 4)
 * [$120,000 grant to be approved to fund Builder Competitions for DCL creators.](https://governance.decentraland.org/proposal/?id=8befa660-f6f2-11ec-805c-77efd746e6b7) (Tier 5)
-* [Creating energetic, personalised content &amp; Building project in Decentraland.](https://governance.decentraland.org/proposal/?id=bbf5b1b0-f576-11ec-b5fc-5178246a05ac) (Tier 4)
 
 ## Names Bans
 
+* [Ban the name pissfuck](https://governance.decentraland.org/proposal/?id=52402210-00ec-11ed-8f44-ef1722f0509f)
 * [Ban the name testtesttest](https://governance.decentraland.org/proposal/?id=e1368fa0-fccc-11ec-a32a-859962cd3c29)
 * [Ban the name pocpurposes](https://governance.decentraland.org/proposal/?id=c2abcab0-fca3-11ec-a32a-859962cd3c29)
 * [Ban the name pocpurposes](https://governance.decentraland.org/proposal/?id=b1c02070-fca3-11ec-a32a-859962cd3c29)
