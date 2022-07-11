@@ -8,8 +8,6 @@ import { APITransfers, TransferType } from './interfaces/Transactions/Transfers'
 import { COVALENT_API_KEY, fetchURL, flattenArray, saveToCSV, saveToJSON, splitArray } from './utils'
 import { GrantProposal } from './interfaces/Grant'
 
-require('dotenv').config()
-
 export interface TransactionParsed {
   wallet: string
   hash: string
