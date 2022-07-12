@@ -4,8 +4,8 @@ import { AbiItem } from 'web3-utils'
 
 import PROPOSALS from '../public/proposals.json'
 import VESTING_ABI from './abi/vesting.json'
-import { Category, GovernanceProposalType } from './interfaces/GovernanceProposal'
-import { Network, NetworkID, Token, getTokenByAddress, TOKENS } from './interfaces/Network'
+import { Category, GovernanceProposalType, Status } from './interfaces/GovernanceProposal'
+import { getTokenByAddress, Network, NetworkID, Token, TOKENS } from './interfaces/Network'
 import { COVALENT_API_KEY, fetchURL, INFURA_URL, saveToCSV, saveToJSON } from './utils'
 import { APITransactions, Decoded, DecodedName, ParamName } from './interfaces/Transactions/Transactions'
 import { GrantProposal } from './interfaces/Grant'
@@ -109,16 +109,18 @@ async function main() {
     proposal.size = proposal.configuration.size
     proposal.beneficiary = proposal.configuration.beneficiary
 
-    if (proposal.vesting_address) {
-      const vestingContractData = await getVestingContractData(proposal.id, proposal.vesting_address.toLowerCase())
-      Object.assign(proposal, vestingContractData)
-    }
-    if (proposal.enacting_tx) {
-      const enactingTxData = await getEnactingTxData(proposal.id, proposal.enacting_tx.toLowerCase(), proposal.beneficiary)
-      Object.assign(proposal, enactingTxData)
-    }
-    if (proposal.vesting_address === null && proposal.enacting_tx === null) {
-      console.log(`A proposal without vesting address and enacting tx has been found. Id ${proposal.id}`)
+    if(proposal.status === Status.ENACTED){
+      if (proposal.vesting_address) {
+        const vestingContractData = await getVestingContractData(proposal.id, proposal.vesting_address.toLowerCase())
+        Object.assign(proposal, vestingContractData)
+      }
+      if (proposal.enacting_tx) {
+        const enactingTxData = await getEnactingTxData(proposal.id, proposal.enacting_tx.toLowerCase(), proposal.beneficiary)
+        Object.assign(proposal, enactingTxData)
+      }
+      if (proposal.vesting_address === null && proposal.enacting_tx === null) {
+        console.log(`A proposal without vesting address and enacting tx has been found. Id ${proposal.id}`)
+      }
     }
   }
 
