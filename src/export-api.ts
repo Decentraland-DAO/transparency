@@ -65,7 +65,6 @@ async function main() {
       'previous': expensesDelta,
       'details': [
         { 'name': 'Curation Committee', 'value': totalCurators },
-        { 'name': 'DAO Facilitator', 'value': totalFacilitator },
         { 'name': 'Grants', 'value': totalGrants },
         { 'name': 'Other', 'value': otherExpenses }
       ]
@@ -118,17 +117,6 @@ async function main() {
             'address': '0xBef99f5f55CF7cDb3a70998C57061B7e1386a9b0',
             'name': 'Kyllian',
             'avatar': 'https://decentraland.org/images/male.png'
-          }
-        ]
-      },
-      {
-        'name': 'DAO Facilitator',
-        'description': 'Responsible for general community outreach and hosting monthly town halls. The DAO Facilitator writes bi-weekly reports based on the comments of the DAO Committee and the community.',
-        'members': [
-          {
-            'address': '0x76fb13f00CdbdD5eAC8E2664CF14be791aF87cb0',
-            'name': 'Matimio',
-            'avatar': 'https://peer.decentraland.org/content/contents/QmZ7NSnpi4wRdrrC5RLzCbed6wgmjgei2WarKgVDZ5tru6'
           }
         ]
       },
