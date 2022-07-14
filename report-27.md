@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 8 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 9 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -50,13 +50,19 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since July 1, 8 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since July 1, 9 grants have been approved and the vesting contract(s) will be established within 7-10 days.
 
 
 #### [DCL Highlights - Extension](https://governance.decentraland.org/proposal/?id=18f3e990-f8b5-11ec-a32a-859962cd3c29) (Tier 2)
 
 * Yes 67.57344141302907% 1,555,544 VP (37 votes)
 * No 32.42655858697092% 746,461 VP (2 votes)
+
+
+#### [Decentraland’s First AI-Driven Smart Chickens! (Resubmission)](https://governance.decentraland.org/proposal/?id=44db93f0-f7f2-11ec-805c-77efd746e6b7) (Tier 4)
+
+* Yes 69.24668277789652% 2,028,101 VP (24 votes)
+* No 30.753317222103476% 900,705 VP (10 votes)
 
 
 #### [Decentraland Retro 2D Client and SDK Proposal](https://governance.decentraland.org/proposal/?id=1959b490-f726-11ec-805c-77efd746e6b7) (Tier 4)
@@ -103,6 +109,22 @@ Since July 1, 8 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+#### [Set up a bounty program for vulnerability reports](https://governance.decentraland.org/proposal/?id=c8c8ee20-fee5-11ec-8f44-ef1722f0509f)
+
+* Yes 67.76622909184735% 937,621 VP (40 votes)
+* No 0% 0 VP (0 votes)
+* Invalid question/options 32.23377090815266% 445,990 VP (2 votes)
+
+
+#### [Would you like custom spawn points or ability to spawn in at last location?](https://governance.decentraland.org/proposal/?id=2f347730-fec6-11ec-8f44-ef1722f0509f)
+
+* Custom Spawns 99.90477952213877% 658,894 VP (34 votes)
+* Spawn at last location 0.0018194995769663484% 12 VP (1 votes)
+* Either  0.09340097828427255% 616 VP (1 votes)
+* No im happy spawning at default location 0% 0 VP (0 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 #### [What do you think of the article &#34;A vision for Decentraland&#39;s next 5 years&#34; written by maraoz.](https://governance.decentraland.org/proposal/?id=fbb9faa0-fe49-11ec-8fbf-839e0f96469a)
 
 * I agree 100% 666,088 VP (30 votes)
@@ -128,6 +150,7 @@ Since July 1, 8 grants have been approved and the vesting contract(s) will be es
 
 ## Grants
 
+* [Verified Partners Registry](https://governance.decentraland.org/proposal/?id=81af5b00-02e6-11ed-8f44-ef1722f0509f) (Tier 4)
 * [Make Decentraland Buildings/3D assets NFTs that can be added to the builder.](https://governance.decentraland.org/proposal/?id=99afcf60-0218-11ed-8f44-ef1722f0509f) (Tier 5)
 * [Integration of Infrastructure for interoperable 3D wearables with Decentraland](https://governance.decentraland.org/proposal/?id=29e2c130-0202-11ed-8f44-ef1722f0509f) (Tier 6)
 * [Exodus: Goodbye World Development](https://governance.decentraland.org/proposal/?id=38896e40-0122-11ed-8f44-ef1722f0509f) (Tier 6)
@@ -136,9 +159,6 @@ Since July 1, 8 grants have been approved and the vesting contract(s) will be es
 * [Room Zero Japan web 3 &#34;Metaverse School&#34;](https://governance.decentraland.org/proposal/?id=1dc97780-fc18-11ec-a32a-859962cd3c29) (Tier 5)
 * [Direct integration with 3D NFT marketplace for scenes and assets MetaMundo](https://governance.decentraland.org/proposal/?id=6cfbafd0-fbe1-11ec-a32a-859962cd3c29) (Tier 5)
 * [AllTokenFootball-The FAN Activation Network-shaping Fan Sports 3.0](https://governance.decentraland.org/proposal/?id=d9340f40-f96a-11ec-a32a-859962cd3c29) (Tier 6)
-* [Metaverse Ceremony and Exhibition Sponsorship](https://governance.decentraland.org/proposal/?id=aee6d230-f844-11ec-805c-77efd746e6b7) (Tier 4)
-* [To Help Peoples](https://governance.decentraland.org/proposal/?id=98c85dc0-f821-11ec-805c-77efd746e6b7) (Tier 6)
-* [Decentraland’s First AI-Driven Smart Chickens! (Resubmission)](https://governance.decentraland.org/proposal/?id=44db93f0-f7f2-11ec-805c-77efd746e6b7) (Tier 4)
 
 ## Names Bans
 
@@ -150,8 +170,7 @@ Since July 1, 8 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+* [Should Decentraland DAO pay for an annual Blanket Music License?](https://governance.decentraland.org/proposal/?id=fa911b60-02c5-11ed-8f44-ef1722f0509f)
 * [Should Decentraland DAO be incorporated?](https://governance.decentraland.org/proposal/?id=e7077400-0120-11ed-8f44-ef1722f0509f)
-* [Set up a bounty program for vulnerability reports](https://governance.decentraland.org/proposal/?id=c8c8ee20-fee5-11ec-8f44-ef1722f0509f)
-* [Would you like custom spawn points or ability to spawn in at last location?](https://governance.decentraland.org/proposal/?id=2f347730-fec6-11ec-8f44-ef1722f0509f)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
