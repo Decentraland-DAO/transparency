@@ -150,6 +150,8 @@ Since July 1, 9 grants have been approved and the vesting contract(s) will be es
 
 ## Grants
 
+* [test please disregard](https://governance.decentraland.org/proposal/?id=6fa8f5a0-041d-11ed-8a2f-a1a061d4350b) (Tier 1)
+* [Dungeons and Dragons &amp; Decentraland](https://governance.decentraland.org/proposal/?id=10535610-0399-11ed-8a2f-a1a061d4350b) (Tier 5)
 * [Verified Partners Registry](https://governance.decentraland.org/proposal/?id=81af5b00-02e6-11ed-8f44-ef1722f0509f) (Tier 4)
 * [Make Decentraland Buildings/3D assets NFTs that can be added to the builder.](https://governance.decentraland.org/proposal/?id=99afcf60-0218-11ed-8f44-ef1722f0509f) (Tier 5)
 * [Integration of Infrastructure for interoperable 3D wearables with Decentraland](https://governance.decentraland.org/proposal/?id=29e2c130-0202-11ed-8f44-ef1722f0509f) (Tier 6)
