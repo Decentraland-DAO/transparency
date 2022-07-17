@@ -146,7 +146,6 @@ Since July 1, 9 grants have been approved and the vesting contract(s) will be es
 
 * 54, 103: [Voltaire Art Space 2](https://governance.decentraland.org/proposal/?id=4a97d3b0-017c-11ed-8f44-ef1722f0509f)
 * 48, 113: [Vech HQ](https://governance.decentraland.org/proposal/?id=c722ab10-00fc-11ed-8f44-ef1722f0509f)
-* 103, 150: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=34a8afc0-ffb0-11ec-8f44-ef1722f0509f)
 
 ## Grants
 
@@ -171,6 +170,5 @@ Since July 1, 9 grants have been approved and the vesting contract(s) will be es
 ## Polls
 
 * [Should Decentraland DAO pay for an annual Blanket Music License?](https://governance.decentraland.org/proposal/?id=fa911b60-02c5-11ed-8f44-ef1722f0509f)
-* [Should Decentraland DAO be incorporated?](https://governance.decentraland.org/proposal/?id=e7077400-0120-11ed-8f44-ef1722f0509f)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

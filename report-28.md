@@ -9,12 +9,18 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+1 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 103, 150: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=34a8afc0-ffb0-11ec-8f44-ef1722f0509f)
+
+* Yes 99.91902748859025% 760,136 VP (68 votes)
+* No 0.08097251140976297% 616 VP (1 votes)
 
 
 ## Name Bans
@@ -31,6 +37,14 @@ Since July 16, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+#### [Should Decentraland DAO be incorporated?](https://governance.decentraland.org/proposal/?id=e7077400-0120-11ed-8f44-ef1722f0509f)
+
+* Good Idea 0.0029334198316104195% 52 VP (4 votes)
+* Good Idea, with concerns 7.490938835375916% 132,790 VP (5 votes)
+* Bad Idea 92.50612774479248% 1,639,833 VP (4 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 
 # Active Proposals
 
@@ -38,7 +52,6 @@ Since July 16, 0 grants have been approved and the vesting contract(s) will be e
 
 * 54, 103: [Voltaire Art Space 2](https://governance.decentraland.org/proposal/?id=4a97d3b0-017c-11ed-8f44-ef1722f0509f)
 * 48, 113: [Vech HQ](https://governance.decentraland.org/proposal/?id=c722ab10-00fc-11ed-8f44-ef1722f0509f)
-* 103, 150: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=34a8afc0-ffb0-11ec-8f44-ef1722f0509f)
 
 ## Grants
 
@@ -63,6 +76,5 @@ Since July 16, 0 grants have been approved and the vesting contract(s) will be e
 ## Polls
 
 * [Should Decentraland DAO pay for an annual Blanket Music License?](https://governance.decentraland.org/proposal/?id=fa911b60-02c5-11ed-8f44-ef1722f0509f)
-* [Should Decentraland DAO be incorporated?](https://governance.decentraland.org/proposal/?id=e7077400-0120-11ed-8f44-ef1722f0509f)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
