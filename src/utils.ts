@@ -13,6 +13,11 @@ export const wallets = [
   [Network.POLYGON, "0xb08e3e7cc815213304d884c88ca476ebc50eaab2", "DAO Committee"],
 ]
 
+require('dotenv').config()
+
+export const COVALENT_API_KEY = process.env.COVALENTHQ_API_KEY
+export const INFURA_URL = process.env.INFURA_URL
+
 export function toISOString(seconds: number) {
   return seconds && new Date(seconds * 1000).toISOString()
 }
@@ -44,15 +49,15 @@ export async function fetchGraphQL(url: string, collection: string, where: strin
 
     const json = await fetchURL(url, {
       headers: { 'content-type': 'application/json' },
-      body: JSON.stringify({ "query": query, "variables": null }),
+      body: JSON.stringify({ 'query': query, 'variables': null }),
       method: 'POST'
     })
 
     if (json.errors) {
       console.log(elements[skip - 1])
       throw Error('GraphQL Fetch Error ' + json.errors[0].message)
-    } 
-    if (!json.data[collection].length) break
+    }
+    if (!json.data || !json.data[collection] || !json.data[collection].length) break
     elements.push(...json.data[collection])
   }
   return elements
@@ -77,14 +82,14 @@ export async function fetchGraphQLCondition(url: string, collection: string, fie
 
     const json = await fetchURL(url, {
       headers: { 'content-type': 'application/json' },
-      body: JSON.stringify({ "query": query, "variables": null }),
+      body: JSON.stringify({ 'query': query, 'variables': null }),
       method: 'POST'
     })
 
     if (json.errors) {
       throw Error('GraphQL Condition Fetch Error ' + json.errors[0].message)
     }
-    if (!json.data[collection].length) break
+    if (!json.data || !json.data[collection] || !json.data[collection].length) break
 
     elements.push(...json.data[collection])
     lastField = elements[elements.length - 1][fieldNameCondition]
@@ -101,7 +106,7 @@ export function saveToFile(name: string, data: string) {
 
 export function saveToJSON(name: string, data: any) {
   saveToFile(name, JSON.stringify(data))
-  console.log("The JSON file has been saved.")
+  console.log('The JSON file has been saved.')
 }
 
 export async function saveToCSV(name: string, data: any, header: ObjectStringifierHeader) {
@@ -117,7 +122,7 @@ export function flattenArray<Type>(arr: Type[][]): Type[] {
 }
 
 export function splitArray<Type>(array: Type[], chunkSize: number) {
-  return Array(Math.ceil(array.length / chunkSize)).fill(null).map(function (_, i) {
+  return Array(Math.ceil(array.length / chunkSize)).fill(null).map(function(_, i) {
     return array.slice(i * chunkSize, i * chunkSize + chunkSize)
   })
 }

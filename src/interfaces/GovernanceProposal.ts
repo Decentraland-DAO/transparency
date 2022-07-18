@@ -16,6 +16,7 @@ export interface GovernanceProposal {
   configuration: Configuration
   enacted: boolean
   enacted_description: null | string
+  enacting_tx: string | null
   deleted: boolean
   start_at: Date
   finish_at: Date
@@ -61,15 +62,15 @@ export interface Configuration {
 }
 
 export enum Category {
-  Community = "Community",
-  ContentCreator = "Content Creator",
-  Gaming = "Gaming",
-  PlatformContributor = "Platform Contributor",
+  Community = 'Community',
+  ContentCreator = 'Content Creator',
+  Gaming = 'Gaming',
+  PlatformContributor = 'Platform Contributor',
 }
 
 export enum ConfigurationType {
-  AddPoi = "add_poi",
-  RemovePoi = "remove_poi",
+  AddPoi = 'add_poi',
+  RemovePoi = 'remove_poi',
 }
 
 export interface SnapshotProposal {
@@ -94,11 +95,11 @@ export interface MetadataStrategy {
 }
 
 export enum Name {
-  DecentralandEstateSize = "decentraland-estate-size",
-  Delegation = "delegation",
-  Erc20BalanceOf = "erc20-balance-of",
-  Erc721WithMultiplier = "erc721-with-multiplier",
-  Multichain = "multichain",
+  DecentralandEstateSize = 'decentraland-estate-size',
+  Delegation = 'delegation',
+  Erc20BalanceOf = 'erc20-balance-of',
+  Erc721WithMultiplier = 'erc721-with-multiplier',
+  Multichain = 'multichain',
 }
 
 export interface MetadataStrategyParams {
@@ -112,37 +113,37 @@ export interface MetadataStrategyParams {
 }
 
 export interface Graphs {
-  "137": string
+  '137': string
 }
 
 export enum Symbol {
-  ESTATE = "ESTATE",
-  LAND = "LAND",
-  MANA = "MANA",
-  NAMES = "NAMES",
-  VP_DELEGATED = "VP (delegated)",
-  WMANA = "WMANA",
+  ESTATE = 'ESTATE',
+  LAND = 'LAND',
+  MANA = 'MANA',
+  NAMES = 'NAMES',
+  VP_DELEGATED = 'VP (delegated)',
+  WMANA = 'WMANA',
 }
 
 export enum SnapshotSpace {
-  SNAPSHOT_DCL_ETH = "snapshot.dcl.eth",
+  SNAPSHOT_DCL_ETH = 'snapshot.dcl.eth',
 }
 
 export enum Status {
-  ACTIVE = "active",
-  ENACTED = "enacted",
-  FINISHED = "finished",
-  PASSED = "passed",
-  REJECTED = "rejected",
+  ACTIVE = 'active',
+  ENACTED = 'enacted',
+  FINISHED = 'finished',
+  PASSED = 'passed',
+  REJECTED = 'rejected',
 }
 
 export enum GovernanceProposalType {
-  BAN_NAME = "ban_name",
-  DRAFT = "draft",
-  GOVERNANCE = "governance",
-  GRANT = "grant",
-  LINKED_WEARABLES = "linked_wearables",
-  POI = "poi",
-  POLL = "poll",
-  CATALYST = "catalyst"
+  BAN_NAME = 'ban_name',
+  DRAFT = 'draft',
+  GOVERNANCE = 'governance',
+  GRANT = 'grant',
+  LINKED_WEARABLES = 'linked_wearables',
+  POI = 'poi',
+  POLL = 'poll',
+  CATALYST = 'catalyst'
 }
