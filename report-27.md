@@ -145,7 +145,6 @@ Since July 1, 9 grants have been approved and the vesting contract(s) will be es
 ## Points of Interest
 
 * 54, 103: [Voltaire Art Space 2](https://governance.decentraland.org/proposal/?id=4a97d3b0-017c-11ed-8f44-ef1722f0509f)
-* 48, 113: [Vech HQ](https://governance.decentraland.org/proposal/?id=c722ab10-00fc-11ed-8f44-ef1722f0509f)
 
 ## Grants
 
@@ -162,7 +161,6 @@ Since July 1, 9 grants have been approved and the vesting contract(s) will be es
 ## Names Bans
 
 * [Ban the name SashaFucks](https://governance.decentraland.org/proposal/?id=0d519780-0117-11ed-8f44-ef1722f0509f)
-* [Ban the name pissfuck](https://governance.decentraland.org/proposal/?id=52402210-00ec-11ed-8f44-ef1722f0509f)
 
 ## Catalysts
 
