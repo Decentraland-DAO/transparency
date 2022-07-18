@@ -55,7 +55,8 @@ const maticTokens = Object.keys(tokens).filter(a => tokens[a][0] === Network.POL
 const walletAddresses = new Set(wallets.map(w => w[1]))
 
 const grants: GrantProposal[] = GRANTS
-const GRANT_ADDRESSES = new Set(grants.filter(g => g.status === Status.ENACTED || g.status === Status.PASSED).map(g => (g.vesting_address || g.beneficiary).toLowerCase()))
+const GRANTS_VESTING_ADDRESSES = new Set(grants.filter(g => g.status === Status.ENACTED && g.vesting_address).map(g => g.vesting_address.toLowerCase()))
+const GRANTS_ENACTING_TXS = new Set(grants.filter(g => g.status === Status.ENACTED && g.enacting_tx).map(g => g.enacting_tx.toLowerCase()))
 const CURATOR_ADDRESSES = new Set([
   '0x5d7846007c1dd6dca25d16ce2f71ec13bcdcf6f0',
   '0x716954738e57686a08902d9dd586e813490fee23',
@@ -238,7 +239,7 @@ async function tagging(txs: TransactionParsed[]) {
         continue
       }
 
-      if (tx.type === TransferType.OUT && GRANT_ADDRESSES.has(tx.to)) {
+      if (tx.type === TransferType.OUT && (GRANTS_VESTING_ADDRESSES.has(tx.to) || GRANTS_ENACTING_TXS.has(tx.hash))) {
         tx.tag = 'Grant'
         continue
       }
