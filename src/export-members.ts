@@ -1,6 +1,9 @@
 import snapshot from '@snapshot-labs/snapshot.js'
 import { STRATEGIES, Vote } from './interfaces/Members'
 import { fetchGraphQL, flattenArray, saveToCSV, saveToJSON, splitArray } from './utils'
+
+const MAX_RETRIES = 20
+
 require('dotenv').config()
 
 export interface MemberInfo {
@@ -13,21 +16,22 @@ export interface MemberInfo {
 }
 
 const space = 'snapshot.dcl.eth'
-
 const network = '1'
 const blockNumber = 'latest'
 
 async function getMembersInfo(addresses: string[], jobId: number) {
   console.log('Started job:', jobId)
   let snapshotScores: { [x: string]: number }[] = []
-
+  let retries = MAX_RETRIES
   do {
     try {
       snapshotScores = await snapshot.utils.getScores(space, STRATEGIES, network, addresses, blockNumber)
     } catch (e) {
-      console.log(`Job: ${jobId} - retrying score fetch...`)
+      retries -= 1
+      console.log('Error', e)
+      console.log(`Job: ${jobId} - Retrying score fetch. Retries left ${retries}...`)
     }
-  } while (snapshotScores.length === 0)
+  } while (snapshotScores.length === 0 && retries > 0)
 
   const info: MemberInfo[] = []
 
@@ -44,7 +48,7 @@ async function getMembersInfo(addresses: string[], jobId: number) {
       manaVP: scores[0] + scores[1],
       landVP: scores[2] + scores[3],
       namesVP: scores[4],
-      delegatedVP: scores[5],
+      delegatedVP: scores[5]
     })
   }
 
@@ -59,7 +63,7 @@ async function main() {
   const votes: Vote[] = await fetchGraphQL(url, 'votes', where, 'created', 'voter')
 
   const members = new Set(votes.map(v => v.voter)) // Unique addresses
-  console.log("Total Members:", members.size)
+  console.log('Total Members:', members.size)
 
   const dividedAddresses = splitArray(Array.from(members), 2000)
   const info = flattenArray(await Promise.all(dividedAddresses.map(getMembersInfo)))
@@ -73,7 +77,7 @@ async function main() {
     { id: 'manaVP', title: 'MANA VP' },
     { id: 'landVP', title: 'LAND VP' },
     { id: 'namesVP', title: 'NAMES VP' },
-    { id: 'delegatedVP', title: 'Delegated VP' },
+    { id: 'delegatedVP', title: 'Delegated VP' }
   ])
 }
 

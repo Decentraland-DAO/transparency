@@ -1,10 +1,10 @@
 import BigNumber from "bignumber.js"
 import { Contract } from "./interfaces/Balance"
-import { NetworkID, Symbols } from "./interfaces/Network"
+import { NetworkID, TokenSymbols } from "./interfaces/Network"
 import { fetchURL, flattenArray, saveToCSV, saveToJSON, Wallet, wallets } from "./utils"
 require('dotenv').config()
 
-const ALLOWED_SYMBOLS = new Set([Symbols.MANA, Symbols.MATIC, Symbols.ETH, Symbols.WETH, Symbols.DAI, Symbols.USDC, Symbols.USDT])
+const ALLOWED_SYMBOLS = new Set([TokenSymbols.MANA, TokenSymbols.MATIC, TokenSymbols.ETH, TokenSymbols.WETH, TokenSymbols.DAI, TokenSymbols.USDC, TokenSymbols.USDT])
 
 const API_KEY = process.env.COVALENTHQ_API_KEY
 
@@ -14,7 +14,7 @@ export type BalanceParsed = {
   amount: number
   quote: number
   rate: number
-  symbol: Symbols
+  symbol: TokenSymbols
   network: string
   address: string
   contractAddress: string

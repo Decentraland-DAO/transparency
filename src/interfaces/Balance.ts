@@ -1,9 +1,9 @@
-import { Symbols } from "./Network"
+import { TokenSymbols } from "./Network"
 
 export interface Contract {
   contract_decimals: number
   contract_name: string
-  contract_ticker_symbol: Symbols
+  contract_ticker_symbol: TokenSymbols
   contract_address: string
   logo_url: string
   holdings: Holding[]

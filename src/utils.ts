@@ -8,6 +8,11 @@ import { Network } from './interfaces/Network'
 import { TransactionDetails } from './interfaces/Transactions/Transactions'
 import { TransferType } from './interfaces/Transactions/Transfers'
 
+require('dotenv').config()
+
+export const COVALENT_API_KEY = process.env.COVALENTHQ_API_KEY
+export const INFURA_URL = process.env.INFURA_URL
+
 export type Wallet = {
   name: string
   address: string
@@ -76,7 +81,7 @@ export async function fetchGraphQL(url: string, collection: string, where: strin
 
     const json = await fetchURL(url, {
       headers: { 'content-type': 'application/json' },
-      body: JSON.stringify({ "query": query, "variables": null }),
+      body: JSON.stringify({ 'query': query, 'variables': null }),
       method: 'POST'
     })
 
@@ -109,7 +114,7 @@ export async function fetchGraphQLCondition(url: string, collection: string, fie
 
     const json = await fetchURL(url, {
       headers: { 'content-type': 'application/json' },
-      body: JSON.stringify({ "query": query, "variables": null }),
+      body: JSON.stringify({ 'query': query, 'variables': null }),
       method: 'POST'
     })
 
@@ -133,7 +138,7 @@ export function saveToFile(name: string, data: string) {
 
 export function saveToJSON(name: string, data: any) {
   saveToFile(name, JSON.stringify(data))
-  console.log("The JSON file has been saved.")
+  console.log('The JSON file has been saved.')
 }
 
 export async function saveToCSV(name: string, data: any, header: ObjectStringifierHeader) {

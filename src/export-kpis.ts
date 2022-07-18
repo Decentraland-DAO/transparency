@@ -5,13 +5,13 @@ import PROPOSALS from '../public/proposals.json'
 import TRANSACTIONS from '../public/transactions.json'
 import VOTES from '../public/votes.json'
 import { BalanceParsed } from './export-balances'
-import { GrantProposal } from './export-grants'
 import { MemberInfo } from './export-members'
-import { ProposalParsed } from './export-proposals'
 import { TransactionParsed } from './export-transactions'
 import { VotesParsed } from './export-votes'
 import { GovernanceProposalType, Status } from './interfaces/GovernanceProposal'
+import { GrantProposal } from './interfaces/Grant'
 import { KPI } from './interfaces/KPIs'
+import { ProposalParsed } from './interfaces/Proposal'
 import { FeeDetails } from './interfaces/Transactions/Transactions'
 import { TransferType } from './interfaces/Transactions/Transfers'
 import { avg, dayToMilisec, getTransactionsPerTag, median, saveToJSON, sum } from './utils'
@@ -155,7 +155,7 @@ function getParticipationRows(members: MemberInfo[], proposals: ProposalParsed[]
 function getGrantRows(grants: GrantProposal[]) {
 
   const grantEnacted = grants.filter(g => g.status === Status.ENACTED)
-  const fundsGranted = sum(grantEnacted.map(g => g.grant_size))
+  const fundsGranted = sum(grantEnacted.map(g => g.size))
 
   return [['Grants Submitted', grants.length]]
     .concat(getRowsByProposalStatus(grants))

@@ -1,15 +1,16 @@
 import BigNumber from 'bignumber.js'
 import GRANTS from '../public/grants.json'
-import { GrantProposal } from './export-grants'
+import { Tokens } from './classes/Tokens'
 import { Status } from './interfaces/GovernanceProposal'
-import { Network, NetworkID, Symbols, TOKENS } from './interfaces/Network'
+import { GrantProposal } from './interfaces/Grant'
+import { Network, NetworkID, TokenSymbols } from './interfaces/Network'
 import { APIEvents } from './interfaces/Transactions/Events'
 import { APITransactions } from './interfaces/Transactions/Transactions'
 import { APITransfers, TransferType } from './interfaces/Transactions/Transfers'
-import { fetchURL, flattenArray, itemContracts, saveToCSV, saveToJSON, setTransactionTag, splitArray, wallets } from './utils'
+import { COVALENT_API_KEY, fetchURL, flattenArray, itemContracts, saveToCSV, saveToJSON, setTransactionTag, splitArray, wallets } from './utils'
+
 
 require('dotenv').config()
-
 export interface TransactionParsed {
   wallet: string
   hash: string
@@ -18,7 +19,7 @@ export interface TransactionParsed {
   network: Network
   type: TransferType
   amount: number
-  symbol: Symbols
+  symbol: TokenSymbols
   contract: string
   quote: number
   sender: string
@@ -38,9 +39,9 @@ enum Topic {
 
 const walletAddresses = new Set(wallets.map(w => w.address))
 
-const API_KEY = process.env.COVALENTHQ_API_KEY
 const grants: GrantProposal[] = GRANTS
-const GRANT_ADDRESSES = new Set(grants.filter(g => g.status === Status.ENACTED || g.status === Status.PASSED).map(g => (g.vesting_address || g.grant_beneficiary).toLowerCase()))
+const GRANTS_VESTING_ADDRESSES = new Set(grants.filter(g => g.status === Status.ENACTED && g.vesting_address).map(g => g.vesting_address.toLowerCase()))
+const GRANTS_ENACTING_TXS = new Set(grants.filter(g => g.status === Status.ENACTED && g.enacting_tx).map(g => g.enacting_tx.toLowerCase()))
 const CURATOR_ADDRESSES = new Set([
   '0x5d7846007c1dd6dca25d16ce2f71ec13bcdcf6f0',
   '0x716954738e57686a08902d9dd586e813490fee23',
@@ -60,26 +61,26 @@ async function getTopicTxs(network: Network, startblock: number, topic: Topic) {
   const events: string[] = []
   const networkId = NetworkID[network]
   let block = startblock
-  let url = `https://api.covalenthq.com/v1/${networkId}/block_v2/latest/?key=${API_KEY}`
+  let url = `https://api.covalenthq.com/v1/${networkId}/block_v2/latest/?key=${COVALENT_API_KEY}`
   let json = await fetchURL(url)
   const latestBlock: number = json.data.items[0].height
   console.log('Latest', network, block, latestBlock, (latestBlock - block) / 1000000)
 
   while (block < latestBlock) {
-    url = `https://api.covalenthq.com/v1/${networkId}/events/topics/${topic}/?key=${API_KEY}&starting-block=${block}&ending-block=${block + 1000000}&page-size=1000000000`
+    url = `https://api.covalenthq.com/v1/${networkId}/events/topics/${topic}/?key=${COVALENT_API_KEY}&starting-block=${block}&ending-block=${block + 1000000}&page-size=1000000000`
     console.log('fetch', url)
     json = await fetchURL(url)
     const data: APIEvents = json.data
-    let evs = data.items.map(e => e.tx_hash)
-    events.push(...evs)
+    const eventsTransactions = data.items.map(e => e.tx_hash)
+    events.push(...eventsTransactions)
     block += 1000000
   }
 
   return events
 }
 
-async function getTransactions(walletName: string, tokenAddress: string, network: Network, walletAddress: string) {
-  const url = `https://api.covalenthq.com/v1/${NetworkID[network]}/address/${walletAddress}/transfers_v2/?key=${API_KEY}&contract-address=${tokenAddress}&page-size=500000`
+async function getTransactions(name: string, tokenAddress: string, network: Network, address: string) {
+  const url = `https://api.covalenthq.com/v1/${NetworkID[network]}/address/${address}/transfers_v2/?key=${COVALENT_API_KEY}&contract-address=${tokenAddress}&page-size=500000`
   const json = await fetchURL(url)
   const data: APITransfers = json.data
   const txs = data.items.filter(t => t.successful)
@@ -94,7 +95,7 @@ async function getTransactions(walletName: string, tokenAddress: string, network
       ) ? TransferType.INTERNAL : trans.transfer_type
 
       const transfer: TransactionParsed = {
-        wallet: walletName,
+        wallet: name,
         hash: tx.tx_hash,
         date: tx.block_signed_at,
         block: tx.block_height,
@@ -129,7 +130,7 @@ async function findSecondarySalesTag(txs: TransactionParsed[], chunk: number) {
     do {
       try {
         const networkId = NetworkID[tx.network]
-        const url = `https://api.covalenthq.com/v1/${networkId}/transaction_v2/${tx.hash}/?key=${API_KEY}`
+        const url = `https://api.covalenthq.com/v1/${networkId}/transaction_v2/${tx.hash}/?key=${COVALENT_API_KEY}`
         const json = await fetchURL(url)
         const data: APITransactions = json.data
         fetched = true
@@ -170,7 +171,7 @@ function saveTransactions(txs: TransactionParsed[], tagged = false) {
     { id: 'to', title: 'Transfer To' },
     { id: 'block', title: 'Block' },
     { id: 'hash', title: 'Hash' },
-    { id: 'contract', title: 'Contract' },
+    { id: 'contract', title: 'Contract' }
   ])
 }
 
@@ -179,7 +180,7 @@ async function main() {
 
   for (const wallet of wallets) {
     const { name, address, network } = wallet
-    const tokenAddresses = Object.keys(TOKENS[network])
+    const tokenAddresses = Tokens.getTokenAddresses(network)
 
     for (const tokenAddress of tokenAddresses) {
       unresolvedTransactions.push(getTransactions(name, tokenAddress, network, address))
@@ -228,7 +229,7 @@ async function tagging(txs: TransactionParsed[]) {
         continue
       }
 
-      if (tx.type === TransferType.OUT && GRANT_ADDRESSES.has(tx.to)) {
+      if (tx.type === TransferType.OUT && (GRANTS_VESTING_ADDRESSES.has(tx.to) || GRANTS_ENACTING_TXS.has(tx.hash))) {
         tx.tag = 'Grant'
         continue
       }
