@@ -68,7 +68,12 @@ const CURATOR_ADDRESSES = new Set([
   '0x6cdfdb9a4d99f16b5607cab1d00c792206db554e'
 ])
 const FACILITATOR_ADDRESS = '0x76fb13f00cdbdd5eac8e2664cf14be791af87cb0'
-const OPENSEA_ADDRESSES = new Set(['0x9b814233894cd227f561b78cc65891aa55c62ad2', '0x2da950f79d8bd7e7f815e1bbc43ecee2c7e7f5d3'])
+const OPENSEA_ADDRESSES = new Set([
+  '0x9b814233894cd227f561b78cc65891aa55c62ad2',
+  '0x2da950f79d8bd7e7f815e1bbc43ecee2c7e7f5d3',
+  '0x00000000006c3852cbef3e08e8df289169ede581',
+  '0xf715beb51ec8f63317d66f491e37e7bb048fcc2d'
+])
 const VESTING_CONTRACT_ADDRESS = '0x7a3abf8897f31b56f09c6f69d074a393a905c1ac'
 const MULTISIG_DCL_ADDRESS = '0x0e659a116e161d8e502f9036babda51334f2667e'
 
@@ -135,7 +140,7 @@ async function getTransactions(name: string, tokenAddress: string, network: numb
 }
 
 async function findSecondarySalesTag(txs: TransactionParsed[], chunk: number) {
-  const secondarySalesTag = (tx: TransactionParsed, type: string) => { tx.tag = tx.tag.concat(` :: ${type}`) }
+  const secondarySalesTag = (tx: TransactionParsed, type: string) => { tx.tag = tx.tag.concat(` :: ${type.split(' :: ')[0]}`) }
 
   for (const tx of txs) {
     let fetched = false
@@ -259,7 +264,12 @@ async function tagging(txs: TransactionParsed[]) {
         continue
       }
 
-      if (tx.type === TransferType.IN && (OPENSEA_ADDRESSES.has(tx.from) || OPENSEA_ADDRESSES.has(tx.txFrom))) {
+      if (
+        tx.type === TransferType.IN && (
+          OPENSEA_ADDRESSES.has(tx.from) ||
+          OPENSEA_ADDRESSES.has(tx.txFrom) ||
+          OPENSEA_ADDRESSES.has(tx.interactedWith)
+        )) {
         tx.tag = 'OpenSea'
         continue
       }
