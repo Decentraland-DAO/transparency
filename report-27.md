@@ -144,7 +144,7 @@ Since July 1, 9 grants have been approved and the vesting contract(s) will be es
 
 ## Points of Interest
 
-* 54, 103: [Voltaire Art Space 2](https://governance.decentraland.org/proposal/?id=4a97d3b0-017c-11ed-8f44-ef1722f0509f)
+* -69, 35: [EndoMack](https://governance.decentraland.org/proposal/?id=ca34e810-0726-11ed-8a2f-a1a061d4350b)
 
 ## Grants
 
@@ -155,18 +155,15 @@ Since July 1, 9 grants have been approved and the vesting contract(s) will be es
 * [Exodus: Goodbye World Development](https://governance.decentraland.org/proposal/?id=38896e40-0122-11ed-8f44-ef1722f0509f) (Tier 6)
 * [Partner Support Squad](https://governance.decentraland.org/proposal/?id=f9561670-fdfb-11ec-8fbf-839e0f96469a) (Tier 5)
 * [Decentraland Explorer Mobile App](https://governance.decentraland.org/proposal/?id=73b27280-fd23-11ec-a32a-859962cd3c29) (Tier 4)
-* [Room Zero Japan web 3 &#34;Metaverse School&#34;](https://governance.decentraland.org/proposal/?id=1dc97780-fc18-11ec-a32a-859962cd3c29) (Tier 5)
-* [Direct integration with 3D NFT marketplace for scenes and assets MetaMundo](https://governance.decentraland.org/proposal/?id=6cfbafd0-fbe1-11ec-a32a-859962cd3c29) (Tier 5)
 
 ## Names Bans
 
-* [Ban the name SashaFucks](https://governance.decentraland.org/proposal/?id=0d519780-0117-11ed-8f44-ef1722f0509f)
 
 ## Catalysts
 
 
 ## Polls
 
-* [Should Decentraland DAO pay for an annual Blanket Music License?](https://governance.decentraland.org/proposal/?id=fa911b60-02c5-11ed-8f44-ef1722f0509f)
+* [Would you support some sort of continuous LAND issuance?](https://governance.decentraland.org/proposal/?id=1c24a240-06ba-11ed-8a2f-a1a061d4350b)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
