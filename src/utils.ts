@@ -221,9 +221,9 @@ export const tokenContracts: Record<string, string> = {
 }
 
 export const itemContracts: Record<string, string> = {
-  '0x959e104e1a4db6317fa58f8295f586e1a978c297': "ESTATE fee",
-  '0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d': "LAND fee",
-  '0x2a187453064356c898cae034eaed119e1663acb8': "NAME fee",
+  '0x959e104e1a4db6317fa58f8295f586e1a978c297': "ESTATE fee :: BID",
+  '0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d': "LAND fee :: BID",
+  '0x2a187453064356c898cae034eaed119e1663acb8': "NAME fee :: BID",
 }
 
 export const Tags: Record<string, string> = {
@@ -232,6 +232,7 @@ export const Tags: Record<string, string> = {
     '0xbef99f5f55cf7cdb3a70998c57061b7e1386a9b0': "DAO Committee Member",
     '0x521b0fef9cdcf250abaf8e7bc798cbe13fa98692': "DAO Committee Member",
     '0x59728544b08ab483533076417fbbb2fd0b17ce3a': "LooksRare",
+    '0x5777d92f208679db4b9778590fa3cab3ac9e2168': "Swap",
     '0xc176761d388caf2f56cf03329d82e1e7c48ae09c': "Swap",
     '0xb3c839dbde6b96d37c56ee4f9dad3390d49310aa': "Swap",
     '0x1111111254fb6c44bac0bed2854e76f90643097d': "Swap",
