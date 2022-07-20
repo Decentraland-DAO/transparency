@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -43,21 +43,6 @@ Since July 16, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
-#### [Should Decentraland DAO pay for an annual Blanket Music License?](https://governance.decentraland.org/proposal/?id=fa911b60-02c5-11ed-8f44-ef1722f0509f)
-
-* DAO pays retroactive music licensing fees and for blanket license annually  7.896155269299301% 189,712 VP (29 votes)
-* Leave the responsibility to land owners to obtain their own licenses 92.1038447307007% 2,212,875 VP (25 votes)
-* Invalid question/options 0% 0 VP (1 votes)
-
-
-#### [Should Decentraland DAO be incorporated?](https://governance.decentraland.org/proposal/?id=e7077400-0120-11ed-8f44-ef1722f0509f)
-
-* Good Idea 0.0029334198316104195% 52 VP (4 votes)
-* Good Idea, with concerns 7.490938835375916% 132,790 VP (5 votes)
-* Bad Idea 92.50612774479248% 1,639,833 VP (4 votes)
-* Invalid question/options 0% 0 VP (0 votes)
-
-
 
 # Active Proposals
 
@@ -67,6 +52,8 @@ Since July 16, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [Decentraland Monthly Issue - Quality Consistent Decentraland Updates](https://governance.decentraland.org/proposal/?id=b0ce93d0-0780-11ed-8a2f-a1a061d4350b) (Tier 2)
+* [Arabic Youtube Series on Decentraland and The Metaverse](https://governance.decentraland.org/proposal/?id=574344e0-075e-11ed-8a2f-a1a061d4350b) (Tier 2)
 * [Dungeons and Dragons &amp; Decentraland](https://governance.decentraland.org/proposal/?id=10535610-0399-11ed-8a2f-a1a061d4350b) (Tier 5)
 * [Verified Partners Registry](https://governance.decentraland.org/proposal/?id=81af5b00-02e6-11ed-8f44-ef1722f0509f) (Tier 4)
 * [Make Decentraland Buildings/3D assets NFTs that can be added to the builder.](https://governance.decentraland.org/proposal/?id=99afcf60-0218-11ed-8f44-ef1722f0509f) (Tier 5)
