@@ -135,7 +135,7 @@ export function setTransactionTag(tx: TransactionParsed) {
     tag = Tags[tx.from] || tag
   }
   else if (tx.type === TransferType.OUT) {
-    tag = Tags[tx.to] || tag
+    tag = curators[tx.to] || Tags[tx.to] || tag
   }
 
   if (tag) {
@@ -165,13 +165,21 @@ export function getTransactionsPerTag(transactions: TransactionParsed[]) {
   return group
 }
 
-export const tokenContracts: Record<string, string> = {
-  '0x0f5d2fb29fb7d3cfee444a200298f468908cc942': "MANA",
-  '0x6b175474e89094c44da98b954eedeac495271d0f': "DAI",
-  '0xdac17f958d2ee523a2206206994597c13d831ec7': "USDT",
-  '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2': "WETH",
-  '0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48': "USDC",
-  '0x2260fac5e5542a773aa44fbcfedf7c193bc2c599': "WBTC",
+export const curators: Record<string, string> = {
+  '0x8938d1f65abe7750b0777206ee26c974a6721194': 'Curator',
+  '0x7a3891acf4f3b810992c4c6388f2e37357d7d3ab': 'Curator',
+  '0x5d7846007c1dd6dca25d16ce2f71ec13bcdcf6f0': 'Curator',
+  '0x716954738e57686a08902d9dd586e813490fee23': 'Curator',
+  '0x82d54417fc69681dc74a6c0c68c6dbad5a2857b9': 'Curator',
+  '0x91e222ed7598efbcfe7190481f2fd14897e168c8': 'Curator',
+  '0x5e382071464a6f9ea29708a045983dc265b0d86d': 'Curator',
+  '0xc8ad6322821b51da766a4b2a82b39fb72b53d276': 'Curator',
+  '0xa8c7d5818a255a1856b31177e5c96e1d61c83991': 'Curator',
+  '0x336685bb3a96e13b77e909d7c52e8afcff1e859e': 'Curator',
+  '0x41eb5f82af60873b3c14fedb898a1712f5c35366': 'Curator',
+  '0x470c33abd57166940095d59bd8dd573cbae556c3': 'Curator',
+  '0x1dec5f50cb1467f505bb3ddfd408805114406b10': 'Curator',
+  '0x805797df0c0d7d70e14230b72e30171d730da55e': 'Curator',
 }
 
 export const itemContracts: Record<string, string> = {
@@ -223,10 +231,11 @@ export const itemContracts: Record<string, string> = {
 }
 
 export const Tags: Record<string, string> = {
-  ...tokenContracts, ...itemContracts, ...{
+  ...itemContracts, ...{
     '0xfe91c0c482e09600f2d1dbca10fd705bc6de60bc': "DAO Committee Member",
     '0xbef99f5f55cf7cdb3a70998c57061b7e1386a9b0': "DAO Committee Member",
     '0x521b0fef9cdcf250abaf8e7bc798cbe13fa98692': "DAO Committee Member",
+    '0x7a3abf8897f31b56f09c6f69d074a393a905c1ac': "Vesting Contract",
     '0x59728544b08ab483533076417fbbb2fd0b17ce3a': "LooksRare",
     '0x5777d92f208679db4b9778590fa3cab3ac9e2168': "Swap",
     '0xc176761d388caf2f56cf03329d82e1e7c48ae09c': "Swap",

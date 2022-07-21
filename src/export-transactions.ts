@@ -57,16 +57,7 @@ const walletAddresses = new Set(wallets.map(w => w[1]))
 const grants: GrantProposal[] = GRANTS
 const GRANTS_VESTING_ADDRESSES = new Set(grants.filter(g => g.status === Status.ENACTED && g.vesting_address).map(g => g.vesting_address.toLowerCase()))
 const GRANTS_ENACTING_TXS = new Set(grants.filter(g => g.status === Status.ENACTED && g.enacting_tx).map(g => g.enacting_tx.toLowerCase()))
-const CURATOR_ADDRESSES = new Set([
-  '0x5d7846007c1dd6dca25d16ce2f71ec13bcdcf6f0',
-  '0x716954738e57686a08902d9dd586e813490fee23',
-  '0xc958f028d1b871ab2e32c2abda54f37191efe0c2',
-  '0x82d54417fc69681dc74a6c0c68c6dbad5a2857b9',
-  '0x9db59920d3776c2d8a3aa0cbd7b16d81fcab0a2b',
-  '0x91e222ed7598efbcfe7190481f2fd14897e168c8',
-  '0x9db59920d3776c2d8a3aa0cbd7b16d81fcab0a2b',
-  '0x6cdfdb9a4d99f16b5607cab1d00c792206db554e'
-])
+const SAB_ADDRESS = '0x0e659a116e161d8e502f9036babda51334f2667e' // Sec Advisory Board
 const FACILITATOR_ADDRESS = '0x76fb13f00cdbdd5eac8e2664cf14be791af87cb0'
 const OPENSEA_ADDRESSES = new Set([
   '0x9b814233894cd227f561b78cc65891aa55c62ad2',
@@ -74,8 +65,6 @@ const OPENSEA_ADDRESSES = new Set([
   '0x00000000006c3852cbef3e08e8df289169ede581',
   '0xf715beb51ec8f63317d66f491e37e7bb048fcc2d'
 ])
-const VESTING_CONTRACT_ADDRESS = '0x7a3abf8897f31b56f09c6f69d074a393a905c1ac'
-const SAB_ADDRESS = '0x0e659a116e161d8e502f9036babda51334f2667e' // Sec Advisory Board
 
 async function getTopicTxs(network: number, startblock: number, topic: Topic) {
   const events: string[] = []
@@ -246,18 +235,8 @@ async function tagging(txs: TransactionParsed[]) {
         continue
       }
 
-      if (tx.type === TransferType.OUT && CURATOR_ADDRESSES.has(tx.to)) {
-        tx.tag = 'Curator'
-        continue
-      }
-
       if (tx.type === TransferType.OUT && tx.to === FACILITATOR_ADDRESS) {
         tx.tag = 'Facilitator'
-        continue
-      }
-
-      if (tx.type === TransferType.IN && tx.from === VESTING_CONTRACT_ADDRESS) {
-        tx.tag = 'Vesting Contract'
         continue
       }
 
