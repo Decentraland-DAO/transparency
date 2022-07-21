@@ -75,7 +75,7 @@ const OPENSEA_ADDRESSES = new Set([
   '0xf715beb51ec8f63317d66f491e37e7bb048fcc2d'
 ])
 const VESTING_CONTRACT_ADDRESS = '0x7a3abf8897f31b56f09c6f69d074a393a905c1ac'
-const MULTISIG_DCL_ADDRESS = '0x0e659a116e161d8e502f9036babda51334f2667e'
+const SAB_ADDRESS = '0x0e659a116e161d8e502f9036babda51334f2667e' // Sec Advisory Board
 
 async function getTopicTxs(network: number, startblock: number, topic: Topic) {
   const events: string[] = []
@@ -159,9 +159,6 @@ async function findSecondarySalesTag(txs: TransactionParsed[], chunk: number) {
         if (log) {
           secondarySalesTag(tx, itemContracts[log.sender_address.toLowerCase()])
         }
-        else {
-          secondarySalesTag(tx, 'WEARABLE fee')
-        }
 
       } catch (error) {
         console.log("retrying...")
@@ -239,8 +236,8 @@ async function tagging(txs: TransactionParsed[]) {
         continue
       }
 
-      if (tx.from === MULTISIG_DCL_ADDRESS || tx.to === MULTISIG_DCL_ADDRESS) {
-        tx.tag = 'Multisig DCL'
+      if (tx.from === SAB_ADDRESS || tx.to === SAB_ADDRESS) {
+        tx.tag = 'SAB DCL'
         continue
       }
 
