@@ -144,11 +144,11 @@ Since July 1, 9 grants have been approved and the vesting contract(s) will be es
 
 ## Points of Interest
 
+* 120, -12: [No Name](https://governance.decentraland.org/proposal/?id=fe3a84d0-082a-11ed-a7c6-41ac3ec767e9)
 * -69, 35: [EndoMack](https://governance.decentraland.org/proposal/?id=ca34e810-0726-11ed-8a2f-a1a061d4350b)
 
 ## Grants
 
-* [Decentraland Monthly Issue - Quality Consistent Decentraland Updates](https://governance.decentraland.org/proposal/?id=b0ce93d0-0780-11ed-8a2f-a1a061d4350b) (Tier 2)
 * [Arabic Youtube Series on Decentraland and The Metaverse](https://governance.decentraland.org/proposal/?id=574344e0-075e-11ed-8a2f-a1a061d4350b) (Tier 2)
 * [Dungeons and Dragons &amp; Decentraland](https://governance.decentraland.org/proposal/?id=10535610-0399-11ed-8a2f-a1a061d4350b) (Tier 5)
 * [Verified Partners Registry](https://governance.decentraland.org/proposal/?id=81af5b00-02e6-11ed-8f44-ef1722f0509f) (Tier 4)
@@ -156,7 +156,6 @@ Since July 1, 9 grants have been approved and the vesting contract(s) will be es
 * [Integration of Infrastructure for interoperable 3D wearables with Decentraland](https://governance.decentraland.org/proposal/?id=29e2c130-0202-11ed-8f44-ef1722f0509f) (Tier 6)
 * [Exodus: Goodbye World Development](https://governance.decentraland.org/proposal/?id=38896e40-0122-11ed-8f44-ef1722f0509f) (Tier 6)
 * [Partner Support Squad](https://governance.decentraland.org/proposal/?id=f9561670-fdfb-11ec-8fbf-839e0f96469a) (Tier 5)
-* [Decentraland Explorer Mobile App](https://governance.decentraland.org/proposal/?id=73b27280-fd23-11ec-a32a-859962cd3c29) (Tier 4)
 
 ## Names Bans
 
