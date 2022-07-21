@@ -251,9 +251,6 @@ export const Tags: Record<string, string> = {
     '0xb9f46b3c2e79238e01f510a60846bf5dcc981bc3': "Secondary Sale",
     '0x1ea027314c055705ac09d9bc742e6eacc7a1ceb2': "Secondary Sale",
     '0x2a9da28bcbf97a8c008fd211f5127b860613922d': "Secondary Sale",
-    '0x7ea4ff532f7c90422cbc4e63250f82acbc0e59b2': "Failed Grant",
-    '0x7816095d41be0ef5875aa8046816ca64a506576a': "Failed Grant",
-    '0xe5109a2af4da771beb0213fc9c794fb889ccfb92': "Failed Grant",
     '0x0babda04f62c549a09ef3313fe187f29c099ff3c': "Curation fee",
     '0x9d32aac179153a991e832550d9f96441ea27763a': "Curation fee",
   }
