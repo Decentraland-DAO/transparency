@@ -2,17 +2,80 @@ import BALANCES from '../public/balances.json'
 import GRANTS from '../public/grants.json'
 import TRANSACTIONS from '../public/transactions.json'
 import { TransactionParsed } from './export-transactions'
+import { BalanceDetails } from './interfaces/Api'
 import { Status } from './interfaces/GovernanceProposal'
 import { GrantProposal } from './interfaces/Grant'
 import { TransactionDetails } from './interfaces/Transactions/Transactions'
 import { TransferType } from './interfaces/Transactions/Transfers'
 import { getTransactionsPerTag, saveToJSON } from './utils'
 
+const tagDescriptions: Record<string, string> = {
+  'ESTATE DCL Marketplace Sales Fee': 'Funds corresponding to the 2.5% fee applied to every ESTATE transaction (Minting or secondary)',
+  'LAND  DCL Marketplace Sales Fee': 'Funds corresponding to the 2.5% fee applied to every LAND transaction (Minting or secondary)',
+  'NAME DCL Marketplace Sales Fee': 'Funds corresponding to the 2.5% fee applied to every NAME transaction (Minting or secondary)',
+  'Wearable L1 Sales Fee': 'Funds corresponding to the 2.5% fee applied to every Wearable transaction on Ethereum (Minting or secondary)',
+  'LooksRare Marketplace Fee': 'Funds corresponding to the 2.5% fee applied to every transaction (ESTATE, LAND, NAME & Wearables) on LooksRare marketplace',
+  'OpenSea Marketplace Fee': 'Funds corresponding to the 2.5% fee applied to every transaction (ESTATE, LAND, NAME & Wearables) on OpenSea marketplace',
+  'Wearable Submission Fee': 'Funds corresponding to the fee applied to every new Wearable submission to the Decentraland Marketplace',
+  'Wearables Minting Fee': 'Funds corresponding to the 2.5% fee applied to Wearables minting on Polygon network via the Decentraland Marketplace',
+  'DAO Committee': 'Transactions between the DAO Treasury and the DAO Committee wallets (e.g. Transaction gas refunds)',
+  'Community Grants Payout': 'Transactions corresponding to the funding of the vesting contracts for approved DAO Community Grants projects',
+  'Wearable Curators Committee Payout': 'Transactions corresponding to the payout of compensations for members of the Wearables Curation Committee',
+  'Community Facilitation Payout': 'Transactions corresponding to the payout for monthly compensations of the DAO Facilitator role',
+  'MANA Vesting Contract': 'Funds corresponding to the 10-year MANA vesting contract that the DAO holds',
+  'Other': 'Non-categorized or one-off transactions',
+}
+
+const tagGrouping: Record<string, string> = {
+  'ESTATE fee :: BID': 'ESTATE DCL Marketplace Sales Fee',
+  'Secondary Sale :: ESTATE fee': 'ESTATE DCL Marketplace Sales Fee',
+
+  'LAND fee :: BID': 'LAND  DCL Marketplace Sales Fee',
+  'Secondary Sale :: LAND fee': 'LAND  DCL Marketplace Sales Fee',
+
+  'NAME fee :: BID': 'NAME DCL Marketplace Sales Fee',
+  'Secondary Sale :: NAME fee': 'NAME DCL Marketplace Sales Fee',
+
+  'Wearable L1 fee :: BID': 'Wearable L1 Sales Fee',
+  'Secondary Sale :: Wearable L1 fee': 'Wearable L1 Sales Fee',
+
+  'LooksRare': 'LooksRare Marketplace Fee',
+  'OpenSea': 'OpenSea Marketplace Fee',
+  'Curation fee': 'Wearable Submission Fee',
+  'MATIC Marketplace': 'Wearables Minting Fee',
+  'DAO Committee Member': 'DAO Committee',
+  'Grant': 'Community Grants Payout',
+  'Curator': 'Wearable Curators Committee Payout',
+  'Facilitator': 'Community Facilitation Payout',
+  'Vesting Contract': 'MANA Vesting Contract',
+  'OTHER': 'Other',
+}
+
+function getTxsDetails(txs: Record<string, TransactionDetails>): BalanceDetails[] {
+  const groupedTxs: Record<string, number> = {}
+  const availableTags = new Set(Object.keys(tagGrouping))
+
+  for (const [tag, values] of Object.entries(txs)) {
+    if (!availableTags.has(tag)) {
+      continue
+    }
+
+    if (!groupedTxs[tagGrouping[tag]]) {
+      groupedTxs[tagGrouping[tag]] = values.total
+    }
+    else {
+      groupedTxs[tagGrouping[tag]] += values.total
+    }
+  }
+
+  return Object.entries(groupedTxs).map<BalanceDetails>(([tag, value]) => ({
+    name: tag,
+    value,
+    description: tagDescriptions[tag] || '',
+  })).sort((a, b) => b.value - a.value)
+}
+
 const sumQuote = (txs: TransactionParsed[]) => txs.reduce((total, tx) => total + tx.quote, 0)
-const getTxsDetails = (txs: Record<string, TransactionDetails>) => Object.keys(txs).map(tag => ({
-  name: tag,
-  value: txs[tag].total
-})).sort((a, b) => b.value - a.value)
 
 async function main() {
 
