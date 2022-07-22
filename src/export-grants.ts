@@ -4,11 +4,11 @@ import { AbiItem } from 'web3-utils'
 
 import PROPOSALS from '../public/proposals.json'
 import VESTING_ABI from './abi/vesting.json'
-import { Category, GovernanceProposalType, Status } from './interfaces/GovernanceProposal'
-import { getTokenByAddress, Network, NetworkID, Token, TOKENS } from './interfaces/Network'
-import { COVALENT_API_KEY, fetchURL, INFURA_URL, saveToCSV, saveToJSON } from './utils'
-import { APITransactions, Decoded, DecodedName, ParamName } from './interfaces/Transactions/Transactions'
+import { GovernanceProposalType, Status } from './interfaces/GovernanceProposal'
 import { GrantProposal } from './interfaces/Grant'
+import { getTokenByAddress, Network, NetworkID, Token, TOKENS } from './interfaces/Network'
+import { APITransactions, Decoded, DecodedName, ParamName } from './interfaces/Transactions/Transactions'
+import { COVALENT_API_KEY, fetchURL, INFURA_URL, saveToCSV, saveToJSON } from './utils'
 
 const web3 = new Web3(INFURA_URL)
 
@@ -70,7 +70,7 @@ function transferMatchesBeneficiary(decodedLogEvent: Decoded, beneficiary: strin
     })
 }
 
-async function getTransactionItems(proposalId: string, enactingTx: string) {
+async function getTransactionItems(enactingTx: string) {
   const url = `https://api.covalenthq.com/v1/${NetworkID[Network.ETHEREUM]}/transaction_v2/${enactingTx}/?key=${COVALENT_API_KEY}`
   const json = await fetchURL(url)
   if (json.error) {
@@ -82,7 +82,7 @@ async function getTransactionItems(proposalId: string, enactingTx: string) {
 
 async function getEnactingTxData(proposalId: string, enactingTx: string, beneficiary: string) {
   try {
-    const transactionItems = await getTransactionItems(proposalId, enactingTx)
+    const transactionItems = await getTransactionItems(enactingTx)
     for (let logEvent of transactionItems.log_events) {
       const decodedLogEvent = logEvent.decoded
       if (transferMatchesBeneficiary(decodedLogEvent, beneficiary)) {
@@ -99,9 +99,24 @@ async function getEnactingTxData(proposalId: string, enactingTx: string, benefic
   }
 }
 
+async function setEnactingData(proposal: GrantProposal): Promise<void> {
+  if (proposal.vesting_address) {
+    const vestingContractData = await getVestingContractData(proposal.id, proposal.vesting_address.toLowerCase())
+    Object.assign(proposal, vestingContractData)
+  }
+  if (proposal.enacting_tx) {
+    const enactingTxData = await getEnactingTxData(proposal.id, proposal.enacting_tx.toLowerCase(), proposal.beneficiary)
+    Object.assign(proposal, enactingTxData)
+  }
+  if (proposal.vesting_address === null && proposal.enacting_tx === null) {
+    console.log(`A proposal without vesting address and enacting tx has been found. Id ${proposal.id}`)
+  }
+}
+
 async function main() {
   // Get Governance dApp Proposals
   const proposals: GrantProposal[] = PROPOSALS.filter(p => p.type === GovernanceProposalType.GRANT)
+  const enactingData: Promise<void>[] = []
 
   for (const proposal of proposals) {
     proposal.category = proposal.configuration.category
@@ -110,19 +125,11 @@ async function main() {
     proposal.beneficiary = proposal.configuration.beneficiary
 
     if(proposal.status === Status.ENACTED){
-      if (proposal.vesting_address) {
-        const vestingContractData = await getVestingContractData(proposal.id, proposal.vesting_address.toLowerCase())
-        Object.assign(proposal, vestingContractData)
-      }
-      if (proposal.enacting_tx) {
-        const enactingTxData = await getEnactingTxData(proposal.id, proposal.enacting_tx.toLowerCase(), proposal.beneficiary)
-        Object.assign(proposal, enactingTxData)
-      }
-      if (proposal.vesting_address === null && proposal.enacting_tx === null) {
-        console.log(`A proposal without vesting address and enacting tx has been found. Id ${proposal.id}`)
-      }
+      enactingData.push(setEnactingData(proposal))
     }
   }
+
+  await Promise.all(enactingData)
 
   console.log(proposals.length, 'grants found.')
 

@@ -1,3 +1,8 @@
+export interface TransactionDetails {
+  count: number
+  total: number
+}
+
 export interface APITransactions {
   updated_at: Date
   items: TransactionItem[]
