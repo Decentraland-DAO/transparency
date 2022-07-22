@@ -1,4 +1,6 @@
 import snapshot from '@snapshot-labs/snapshot.js'
+import Networks from './entities/Networks'
+import { SnapshotSpace } from './interfaces/GovernanceProposal'
 import { STRATEGIES, Vote } from './interfaces/Members'
 import { fetchGraphQL, flattenArray, saveToCSV, saveToJSON, splitArray } from './utils'
 
@@ -15,8 +17,8 @@ export interface MemberInfo {
   delegatedVP: number
 }
 
-const space = 'snapshot.dcl.eth'
-const network = '1'
+const space = SnapshotSpace.DCL
+const network = Networks.ETHEREUM.id.toString()
 const blockNumber = 'latest'
 
 async function getMembersInfo(addresses: string[], jobId: number) {
@@ -59,7 +61,7 @@ async function getMembersInfo(addresses: string[], jobId: number) {
 async function main() {
   // Fetch Snapshot Votes
   const url = 'https://hub.snapshot.org/graphql'
-  const where = 'space_in: ["snapshot.dcl.eth"], vp_gt: 10'
+  const where = `space_in: ["${space}"], vp_gt: 10`
   const votes: Vote[] = await fetchGraphQL(url, 'votes', where, 'created', 'voter')
 
   const members = new Set(votes.map(v => v.voter)) // Unique addresses

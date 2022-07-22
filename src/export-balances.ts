@@ -1,10 +1,12 @@
 import BigNumber from "bignumber.js"
+import { NetworkName } from './entities/Networks'
+import { TokenSymbols } from "./entities/Tokens"
+import { Wallet, Wallets } from "./entities/Wallets"
 import { Contract } from "./interfaces/Balance"
-import { NetworkID, TokenSymbols } from "./interfaces/Network"
-import { fetchURL, flattenArray, saveToCSV, saveToJSON, Wallet, wallets } from "./utils"
+import { fetchURL, flattenArray, saveToCSV, saveToJSON } from "./utils"
 require('dotenv').config()
 
-const ALLOWED_SYMBOLS = new Set([TokenSymbols.MANA, TokenSymbols.MATIC, TokenSymbols.ETH, TokenSymbols.WETH, TokenSymbols.DAI, TokenSymbols.USDC, TokenSymbols.USDT])
+const ALLOWED_SYMBOLS = new Set<string>(Object.values(TokenSymbols))
 
 const API_KEY = process.env.COVALENTHQ_API_KEY
 
@@ -15,14 +17,14 @@ export type BalanceParsed = {
   quote: number
   rate: number
   symbol: TokenSymbols
-  network: string
+  network: `${NetworkName}`
   address: string
   contractAddress: string
 }
 
 async function getBalance(wallet: Wallet) {
   const { name, address, network } = wallet
-  const url = `https://api.covalenthq.com/v1/${NetworkID[network]}/address/${address}/portfolio_v2/?key=${API_KEY}`
+  const url = `https://api.covalenthq.com/v1/${network.id}/address/${address}/portfolio_v2/?key=${API_KEY}`
   const json = await fetchURL(url)
   const contracts: Contract[] = json.data.items
 
@@ -34,7 +36,7 @@ async function getBalance(wallet: Wallet) {
     quote: t.holdings[0].close.quote,
     rate: t.holdings[0].quote_rate,
     symbol: t.contract_ticker_symbol,
-    network,
+    network: network.name,
     address,
     contractAddress: t.contract_address
   }))
@@ -43,7 +45,7 @@ async function getBalance(wallet: Wallet) {
 async function main() {
   let unresolvedBalances: Promise<BalanceParsed[]>[] = []
 
-  for (const wallet of wallets) {
+  for (const wallet of Wallets.get()) {
     unresolvedBalances.push(getBalance(wallet))
   }
 

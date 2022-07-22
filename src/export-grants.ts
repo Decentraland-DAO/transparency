@@ -1,21 +1,16 @@
-import BigNumber from 'bignumber.js'
 import Web3 from 'web3'
 import { AbiItem } from 'web3-utils'
 
 import PROPOSALS from '../public/proposals.json'
 import VESTING_ABI from './abi/Ethereum/vesting.json'
-import { Tokens } from './classes/Tokens'
+import Networks from './entities/Networks'
+import { Tokens } from './entities/Tokens'
 import { GovernanceProposalType, Status } from './interfaces/GovernanceProposal'
 import { GrantProposal } from './interfaces/Grant'
-import { Network, NetworkID } from './interfaces/Network'
 import { APITransactions, Decoded, DecodedName, ParamName } from './interfaces/Transactions/Transactions'
-import { COVALENT_API_KEY, fetchURL, INFURA_URL, saveToCSV, saveToJSON } from './utils'
+import { COVALENT_API_KEY, fetchURL, INFURA_URL, parseNumber, saveToCSV, saveToJSON } from './utils'
 
 const web3 = new Web3(INFURA_URL)
-
-function parseNumber(n: number, decimals: number) {
-  return new BigNumber(n).dividedBy(10 ** decimals).toNumber()
-}
 
 function getTxAmount(decodedLogEvent: Decoded, decimals: number) {
   for (let param of decodedLogEvent.params) {
@@ -72,7 +67,7 @@ function transferMatchesBeneficiary(decodedLogEvent: Decoded, beneficiary: strin
 }
 
 async function getTransactionItems(enactingTx: string) {
-  const url = `https://api.covalenthq.com/v1/${NetworkID[Network.ETHEREUM]}/transaction_v2/${enactingTx}/?key=${COVALENT_API_KEY}`
+  const url = `https://api.covalenthq.com/v1/${Networks.ETHEREUM.id}/transaction_v2/${enactingTx}/?key=${COVALENT_API_KEY}`
   const json = await fetchURL(url)
   if (json.error) {
     throw new Error(JSON.stringify(json))

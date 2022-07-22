@@ -1,4 +1,4 @@
-import { TokenSymbols } from "../Network"
+import { TokenSymbols } from "../../entities/Tokens"
 
 export interface APITransfers {
   address: string

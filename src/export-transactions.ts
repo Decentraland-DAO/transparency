@@ -1,13 +1,15 @@
 import BigNumber from 'bignumber.js'
 import GRANTS from '../public/grants.json'
-import { Tokens } from './classes/Tokens'
+import Networks, { NetworkName, NetworkType } from './entities/Networks'
+import { Tags, TagType } from './entities/Tags'
+import { Tokens, TokenSymbols } from './entities/Tokens'
+import { Wallets } from './entities/Wallets'
 import { Status } from './interfaces/GovernanceProposal'
 import { GrantProposal } from './interfaces/Grant'
-import { Network, NetworkID, TokenSymbols } from './interfaces/Network'
 import { APIEvents } from './interfaces/Transactions/Events'
 import { APITransactions } from './interfaces/Transactions/Transactions'
 import { APITransfers, TransferType } from './interfaces/Transactions/Transfers'
-import { COVALENT_API_KEY, fetchURL, flattenArray, itemContracts, saveToCSV, saveToJSON, setTransactionTag, splitArray, wallets } from './utils'
+import { COVALENT_API_KEY, fetchURL, flattenArray, saveToCSV, saveToJSON, setTransactionTag, splitArray } from './utils'
 
 
 require('dotenv').config()
@@ -16,7 +18,7 @@ export interface TransactionParsed {
   hash: string
   date: string
   block: number
-  network: Network
+  network: `${NetworkName}`
   type: TransferType
   amount: number
   symbol: TokenSymbols
@@ -37,7 +39,7 @@ enum Topic {
   MATIC_ORDER_TOPIC2 = '0x6869791f0a34781b29882982cc39e882768cf2c96995c2a110c577c53bc932d5'
 }
 
-const walletAddresses = new Set(wallets.map(w => w.address))
+const walletAddresses = new Set(Wallets.getAddresses())
 
 const grants: GrantProposal[] = GRANTS
 const GRANTS_VESTING_ADDRESSES = new Set(grants.filter(g => g.status === Status.ENACTED && g.vesting_address).map(g => g.vesting_address.toLowerCase()))
@@ -51,17 +53,16 @@ const OPENSEA_ADDRESSES = new Set([
   '0xf715beb51ec8f63317d66f491e37e7bb048fcc2d'
 ])
 
-async function getTopicTxs(network: Network, startblock: number, topic: Topic) {
+async function getTopicTxs(network: NetworkType, startblock: number, topic: Topic) {
   const events: string[] = []
-  const networkId = NetworkID[network]
   let block = startblock
-  let url = `https://api.covalenthq.com/v1/${networkId}/block_v2/latest/?key=${COVALENT_API_KEY}`
+  let url = `https://api.covalenthq.com/v1/${network.id}/block_v2/latest/?key=${COVALENT_API_KEY}`
   let json = await fetchURL(url)
   const latestBlock: number = json.data.items[0].height
   console.log('Latest', network, block, latestBlock, (latestBlock - block) / 1000000)
 
   while (block < latestBlock) {
-    url = `https://api.covalenthq.com/v1/${networkId}/events/topics/${topic}/?key=${COVALENT_API_KEY}&starting-block=${block}&ending-block=${block + 1000000}&page-size=1000000000`
+    url = `https://api.covalenthq.com/v1/${network.id}/events/topics/${topic}/?key=${COVALENT_API_KEY}&starting-block=${block}&ending-block=${block + 1000000}&page-size=1000000000`
     console.log('fetch', url)
     json = await fetchURL(url)
     const data: APIEvents = json.data
@@ -73,8 +74,8 @@ async function getTopicTxs(network: Network, startblock: number, topic: Topic) {
   return events
 }
 
-async function getTransactions(name: string, tokenAddress: string, network: Network, address: string) {
-  const url = `https://api.covalenthq.com/v1/${NetworkID[network]}/address/${address}/transfers_v2/?key=${COVALENT_API_KEY}&contract-address=${tokenAddress}&page-size=500000`
+async function getTransactions(name: string, tokenAddress: string, network: NetworkType, address: string) {
+  const url = `https://api.covalenthq.com/v1/${network.id}/address/${address}/transfers_v2/?key=${COVALENT_API_KEY}&contract-address=${tokenAddress}&page-size=500000`
   const json = await fetchURL(url)
   const data: APITransfers = json.data
   const txs = data.items.filter(t => t.successful)
@@ -93,7 +94,7 @@ async function getTransactions(name: string, tokenAddress: string, network: Netw
         hash: tx.tx_hash,
         date: tx.block_signed_at,
         block: tx.block_height,
-        network,
+        network: network.name,
         type,
         amount: new BigNumber(trans.delta).dividedBy(10 ** trans.contract_decimals).toNumber(),
         symbol: trans.contract_ticker_symbol,
@@ -115,24 +116,22 @@ async function getTransactions(name: string, tokenAddress: string, network: Netw
 }
 
 async function findSecondarySalesTag(txs: TransactionParsed[], chunk: number) {
-  const secondarySalesTag = (tx: TransactionParsed, type: string) => { tx.tag = tx.tag.concat(` :: ${type.split(' :: ')[0]}`) }
-
   for (const tx of txs) {
     let fetched = false
     let maxRetries = 10
 
     do {
       try {
-        const networkId = NetworkID[tx.network]
+        const networkId = Networks.get(tx.network).id
         const url = `https://api.covalenthq.com/v1/${networkId}/transaction_v2/${tx.hash}/?key=${COVALENT_API_KEY}`
         const json = await fetchURL(url)
         const data: APITransactions = json.data
         fetched = true
 
-        const log = data.items[0].log_events.find(log => !!itemContracts[log.sender_address.toLowerCase()])
+        const log = data.items[0].log_events.find(log => Tags.isItemContract(log.sender_address))
 
         if (log) {
-          secondarySalesTag(tx, itemContracts[log.sender_address.toLowerCase()])
+          tx.tag = Tags.getSecondarySale(log.sender_address)
         }
 
       } catch (error) {
@@ -169,9 +168,9 @@ function saveTransactions(txs: TransactionParsed[], tagged = false) {
 async function main() {
   let unresolvedTransactions: Promise<TransactionParsed[]>[] = []
 
-  for (const wallet of wallets) {
+  for (const wallet of Wallets.get()) {
     const { name, address, network } = wallet
-    const tokenAddresses = Tokens.getTokenAddresses(network)
+    const tokenAddresses = Tokens.getAddresses(network.name)
 
     for (const tokenAddress of tokenAddresses) {
       unresolvedTransactions.push(getTransactions(name, tokenAddress, network, address))
@@ -191,42 +190,42 @@ async function main() {
 
 async function tagging(txs: TransactionParsed[]) {
 
-  const ethTxs = txs.filter(t => t.network === Network.ETHEREUM)
+  const ethTxs = txs.filter(t => t.network === Networks.ETHEREUM.name)
   const ethStartblock = ethTxs[ethTxs.length - 1].block
-  const marketOrdersTxs = new Set(await getTopicTxs(Network.ETHEREUM, ethStartblock, Topic.ETH_ORDER_TOPIC))
+  const marketOrdersTxs = new Set(await getTopicTxs(Networks.ETHEREUM, ethStartblock, Topic.ETH_ORDER_TOPIC))
   console.log('Ethereum Orders:', marketOrdersTxs.size)
 
-  const maticTxs = txs.filter(t => t.network === Network.POLYGON)
+  const maticTxs = txs.filter(t => t.network === Networks.POLYGON.name)
   const maticStartblock = maticTxs[maticTxs.length - 1].block
-  const maticOrdersTxs = new Set(await getTopicTxs(Network.POLYGON, maticStartblock, Topic.MATIC_ORDER_TOPIC))
+  const maticOrdersTxs = new Set(await getTopicTxs(Networks.POLYGON, maticStartblock, Topic.MATIC_ORDER_TOPIC))
   console.log('Matic Orders:', maticOrdersTxs.size)
 
   const tagger = async (transactions: TransactionParsed[], chunk: number) => {
     for (let i = 0; i < transactions.length; i++) {
       let tx = transactions[i]
-      tx.tag = 'OTHER'
+      tx.tag = TagType.OTHER
 
       if (marketOrdersTxs.has(tx.hash)) {
-        tx.tag = 'ETH Marketplace'
+        tx.tag = TagType.ETH_MARKETPLACE
       }
 
       if (maticOrdersTxs.has(tx.hash)) {
-        tx.tag = 'MATIC Marketplace'
+        tx.tag = TagType.MATIC_MARKETPLACE
         continue
       }
 
       if (tx.from === SAB_ADDRESS || tx.to === SAB_ADDRESS) {
-        tx.tag = 'SAB DCL'
+        tx.tag = TagType.SAB_DCL
         continue
       }
 
       if (tx.type === TransferType.OUT && (GRANTS_VESTING_ADDRESSES.has(tx.to) || GRANTS_ENACTING_TXS.has(tx.hash))) {
-        tx.tag = 'Grant'
+        tx.tag = TagType.GRANT
         continue
       }
 
       if (tx.type === TransferType.OUT && tx.to === FACILITATOR_ADDRESS) {
-        tx.tag = 'Facilitator'
+        tx.tag = TagType.FACILITATOR
         continue
       }
 
@@ -236,7 +235,7 @@ async function tagging(txs: TransactionParsed[]) {
           OPENSEA_ADDRESSES.has(tx.txFrom) ||
           OPENSEA_ADDRESSES.has(tx.interactedWith)
         )) {
-        tx.tag = 'OpenSea'
+        tx.tag = TagType.OPENSEA
         continue
       }
 
@@ -250,7 +249,7 @@ async function tagging(txs: TransactionParsed[]) {
   const dividedTxns = splitArray(txs, 10000)
 
   let taggedTxns = flattenArray(await Promise.all(dividedTxns.map(tagger)))
-  const secondarySales = taggedTxns.filter(tx => tx.tag === 'Secondary Sale')
+  const secondarySales = taggedTxns.filter(tx => tx.tag === TagType.SECONDARY_SALE)
 
   const dividedSecondarySales = splitArray(secondarySales, 500)
 

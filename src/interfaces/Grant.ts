@@ -1,5 +1,5 @@
+import { TokenSymbols } from '../entities/Tokens'
 import { Category } from './GovernanceProposal'
-import { TokenSymbols } from './Network'
 import { ProposalParsed } from './Proposal'
 
 interface Grant {
