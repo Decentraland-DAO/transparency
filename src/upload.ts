@@ -1,6 +1,7 @@
 import { parse } from 'csv-parse/sync'
 import { readFileSync } from 'fs'
 import { GoogleSpreadsheet } from 'google-spreadsheet'
+import { parseKPIs } from './utils'
 
 require('dotenv').config()
 
@@ -19,7 +20,7 @@ async function main() {
 
     await doc.loadInfo()
     const sheet = doc.sheetsByTitle[title]
-    const rows = parse(readFileSync(path))
+    const rows = title === 'KPIs' ? parseKPIs(require('../public/kpis.json')) : parse(readFileSync(path))
 
     if (!append) {
       await sheet.clear()

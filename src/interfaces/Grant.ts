@@ -1,5 +1,5 @@
+import { TokenSymbols } from '../entities/Tokens'
 import { Category } from './GovernanceProposal'
-import { Token } from './Network'
 import { ProposalParsed } from './Proposal'
 
 interface Grant {
@@ -7,7 +7,7 @@ interface Grant {
   tier?: string
   size?: number
   beneficiary?: string
-  token?: Token
+  token?: TokenSymbols
   vesting_released?: number
   vesting_releasable?: number
   vesting_start_at?: Date

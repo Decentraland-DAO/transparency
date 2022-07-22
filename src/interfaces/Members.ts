@@ -2,6 +2,12 @@ export interface Vote {
   voter: string
 }
 
+export interface DCLMember {
+  address: string
+  name: string
+  avatar: string
+}
+
 export const CATALYSTS = [
   'peer-ec1.decentraland.org',
   'peer-wc1.decentraland.org',
@@ -44,7 +50,7 @@ export const STRATEGIES = [
         {
           "name": "erc20-balance-of",
           "params": {
-            "address": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
+            "address": "0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4",
             "decimals": 18
           },
           "network": "137"
@@ -125,7 +131,7 @@ export const STRATEGIES = [
               {
                 "name": "erc20-balance-of",
                 "params": {
-                  "address": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
+                  "address": "0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4",
                   "decimals": 18
                 },
                 "network": "137"

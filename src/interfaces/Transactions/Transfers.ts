@@ -1,4 +1,4 @@
-import { Token } from "../Network"
+import { TokenSymbols } from "../../entities/Tokens"
 
 export interface APITransfers {
   address: string
@@ -39,7 +39,7 @@ export interface Transfer {
   to_address_label: string | null
   contract_decimals: number
   contract_name: string
-  contract_ticker_symbol: Token
+  contract_ticker_symbol: TokenSymbols
   contract_address: string
   logo_url: string
   transfer_type: TransferType

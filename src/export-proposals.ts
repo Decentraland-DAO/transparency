@@ -1,11 +1,11 @@
-import { GovernanceProposal, Status, Symbol } from './interfaces/GovernanceProposal'
+import { GovernanceProposal, SnapshotSpace, Symbol } from './interfaces/GovernanceProposal'
 import { Proposal, ProposalParsed, ProposalVotes } from './interfaces/Proposal'
 import { fetchGraphQL, fetchURL, saveToCSV, saveToJSON } from './utils'
 
 async function main() {
   // Fetch Snapshot Proposals
   const url = 'https://hub.snapshot.org/graphql'
-  const where = 'space_in: ["snapshot.dcl.eth"]'
+  const where = `space_in: ["${SnapshotSpace.DCL}"]`
   const proposals: Proposal[] = await fetchGraphQL(url, 'proposals', where, 'created',
     'id scores_total strategies { params } scores_by_strategy votes'
   )

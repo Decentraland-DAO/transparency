@@ -126,7 +126,7 @@ export enum Symbol {
 }
 
 export enum SnapshotSpace {
-  SNAPSHOT_DCL_ETH = 'snapshot.dcl.eth',
+  DCL = 'snapshot.dcl.eth',
 }
 
 export enum Status {
