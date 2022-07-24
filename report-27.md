@@ -167,6 +167,5 @@ Since July 1, 9 grants have been approved and the vesting contract(s) will be es
 ## Polls
 
 * [Limit monetary allowances to Grant proposals](https://governance.decentraland.org/proposal/?id=19174de0-09bd-11ed-92a2-218eab5ea42b)
-* [Would you support some sort of continuous LAND issuance?](https://governance.decentraland.org/proposal/?id=1c24a240-06ba-11ed-8a2f-a1a061d4350b)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
