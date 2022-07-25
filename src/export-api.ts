@@ -68,11 +68,16 @@ function getTxsDetails(txs: Record<string, TransactionDetails>): BalanceDetails[
     }
   }
 
-  return Object.entries(groupedTxs).map<BalanceDetails>(([tag, value]) => ({
+  const sortedDetails = Object.entries(groupedTxs).map<BalanceDetails>(([tag, value]) => ({
     name: tag,
     value,
     description: tagDescriptions[tag] || '',
   })).sort((a, b) => b.value - a.value)
+
+  // the "Other" tag is always last
+  sortedDetails.push(sortedDetails.splice(sortedDetails.findIndex(d => d.name === 'Other'), 1)[0])
+
+  return sortedDetails
 }
 
 const sumQuote = (txs: TransactionParsed[]) => txs.reduce((total, tx) => total + tx.quote, 0)
@@ -108,17 +113,20 @@ async function main() {
   const grants = GRANTS as GrantProposal[]
   const totalFunding = grants.filter(g => g.status === Status.ENACTED).reduce((a, g) => a + g.size, 0)
 
+  const incomeDetails = getTxsDetails(incomeTaggedTxs)
+  const expensesDetails = getTxsDetails(expensesTaggedTxs)
+
   const data = {
     'balances': BALANCES,
     'income': {
-      'total': totalIncome30,
+      'total': incomeDetails.reduce((acc, cur) => acc + cur.value, 0),
       'previous': incomeDelta,
-      'details': getTxsDetails(incomeTaggedTxs)
+      'details': incomeDetails
     },
     'expenses': {
-      'total': totalExpenses30,
+      'total': expensesDetails.reduce((acc, cur) => acc + cur.value, 0),
       'previous': expensesDelta,
-      'details': getTxsDetails(expensesTaggedTxs)
+      'details': expensesDetails
     },
     'funding': {
       'total': totalFunding
