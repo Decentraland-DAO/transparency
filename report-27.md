@@ -145,10 +145,12 @@ Since July 1, 9 grants have been approved and the vesting contract(s) will be es
 ## Points of Interest
 
 * 120, -12: [No Name](https://governance.decentraland.org/proposal/?id=fe3a84d0-082a-11ed-a7c6-41ac3ec767e9)
-* -69, 35: [EndoMack](https://governance.decentraland.org/proposal/?id=ca34e810-0726-11ed-8a2f-a1a061d4350b)
 
 ## Grants
 
+* [Vueltta x NFT Show Europe: Art Installation to Increase Decentraland Engagement](https://governance.decentraland.org/proposal/?id=99986a30-0cb5-11ed-92a2-218eab5ea42b) (Tier 3)
+* [Create a Phygital experience in DCL to unite artists from developing countries](https://governance.decentraland.org/proposal/?id=b3209c20-0c4c-11ed-92a2-218eab5ea42b) (Tier 4)
+* [Develop new Low Latency Video Streaming components for SDK and builder.](https://governance.decentraland.org/proposal/?id=858cd0a0-0c18-11ed-92a2-218eab5ea42b) (Tier 4)
 * [Decentraland&#39;s most popular QuizZone 2.0 🥳](https://governance.decentraland.org/proposal/?id=58233e80-0928-11ed-8306-41196474443d) (Tier 4)
 * [Dungeons &amp; Dragons Metaverse Hub](https://governance.decentraland.org/proposal/?id=a5ae4290-0909-11ed-8306-41196474443d) (Tier 4)
 * [Arabic Youtube Series on Decentraland and The Metaverse](https://governance.decentraland.org/proposal/?id=574344e0-075e-11ed-8a2f-a1a061d4350b) (Tier 2)
@@ -156,7 +158,6 @@ Since July 1, 9 grants have been approved and the vesting contract(s) will be es
 * [Verified Partners Registry](https://governance.decentraland.org/proposal/?id=81af5b00-02e6-11ed-8f44-ef1722f0509f) (Tier 4)
 * [Make Decentraland Buildings/3D assets NFTs that can be added to the builder.](https://governance.decentraland.org/proposal/?id=99afcf60-0218-11ed-8f44-ef1722f0509f) (Tier 5)
 * [Integration of Infrastructure for interoperable 3D wearables with Decentraland](https://governance.decentraland.org/proposal/?id=29e2c130-0202-11ed-8f44-ef1722f0509f) (Tier 6)
-* [Exodus: Goodbye World Development](https://governance.decentraland.org/proposal/?id=38896e40-0122-11ed-8f44-ef1722f0509f) (Tier 6)
 
 ## Names Bans
 
