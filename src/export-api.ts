@@ -12,7 +12,7 @@ import { TransferType } from './interfaces/Transactions/Transfers'
 import { dayToMilisec, getTransactionsPerTag, saveToJSON } from './utils'
 
 function getTxsDetails(txs: Record<string, TransactionDetails>): BalanceDetails[] {
-  const groupedTxs: Record<string, TagCategoryData & { value: number }> = {}
+  const groupedTxs: Record<string, BalanceDetails> = {}
 
   for (const [tag, values] of Object.entries(txs)) {
     if (!Tags.isAPITag(tag)) {
