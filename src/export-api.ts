@@ -1,19 +1,43 @@
 import BALANCES from '../public/balances.json'
 import GRANTS from '../public/grants.json'
 import TRANSACTIONS from '../public/transactions.json'
+import { TagCategory, TagCategoryData, Tags } from './entities/Tags'
 import { CurationTeam, DAOCommitteeTeam, SABTeam } from './entities/Teams'
 import { TransactionParsed } from './export-transactions'
+import { BalanceDetails } from './interfaces/Api'
 import { Status } from './interfaces/GovernanceProposal'
 import { GrantProposal } from './interfaces/Grant'
 import { TransactionDetails } from './interfaces/Transactions/Transactions'
 import { TransferType } from './interfaces/Transactions/Transfers'
 import { dayToMilisec, getTransactionsPerTag, saveToJSON } from './utils'
 
+function getTxsDetails(txs: Record<string, TransactionDetails>): BalanceDetails[] {
+  const groupedTxs: Record<string, TagCategoryData & { value: number }> = {}
+
+  for (const [tag, values] of Object.entries(txs)) {
+    if (!Tags.isAPITag(tag)) {
+      continue
+    }
+
+    const tagCategory = Tags.getAPITagCategory(tag)
+
+    if (!groupedTxs[tagCategory.name]) {
+      groupedTxs[tagCategory.name] = { ...tagCategory, value: values.total }
+    }
+    else {
+      groupedTxs[tagCategory.name].value += values.total
+    }
+  }
+
+  const sortedDetails = Object.values(groupedTxs).sort((a, b) => b.value - a.value)
+
+  // the "Other" tag is always last
+  sortedDetails.push(sortedDetails.splice(sortedDetails.findIndex(d => d.name === TagCategory.OTHER), 1)[0])
+
+  return sortedDetails
+}
+
 const sumQuote = (txs: TransactionParsed[]) => txs.reduce((total, tx) => total + tx.quote, 0)
-const getTxsDetails = (txs: Record<string, TransactionDetails>) => Object.keys(txs).map(tag => ({
-  name: tag,
-  value: txs[tag].total
-})).sort((a, b) => b.value - a.value)
 
 async function main() {
 
@@ -46,17 +70,20 @@ async function main() {
   const grants = GRANTS as GrantProposal[]
   const totalFunding = grants.filter(g => g.status === Status.ENACTED).reduce((a, g) => a + g.size, 0)
 
+  const incomeDetails = getTxsDetails(incomeTaggedTxs)
+  const expensesDetails = getTxsDetails(expensesTaggedTxs)
+
   const data = {
     'balances': BALANCES,
     'income': {
-      'total': totalIncome30,
+      'total': incomeDetails.reduce((acc, cur) => acc + cur.value, 0),
       'previous': incomeDelta,
-      'details': getTxsDetails(incomeTaggedTxs)
+      'details': incomeDetails
     },
     'expenses': {
-      'total': totalExpenses30,
+      'total': expensesDetails.reduce((acc, cur) => acc + cur.value, 0),
       'previous': expensesDelta,
-      'details': getTxsDetails(expensesTaggedTxs)
+      'details': expensesDetails
     },
     'funding': {
       'total': totalFunding
