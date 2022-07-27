@@ -97,11 +97,11 @@ async function getTransactions(name: string, tokenAddress: string, network: numb
   const transactions: TransactionParsed[] = []
 
   for (const tx of txs) {
-    const transfers = tx.transfers.map(trans => {
+    const transfers = tx.transfers.map(txTransfer => {
       let type = (
-        walletAddresses.has(trans.from_address) &&
-        walletAddresses.has(trans.to_address)
-      ) ? TransferType.INTERNAL : trans.transfer_type
+        walletAddresses.has(txTransfer.from_address) &&
+        walletAddresses.has(txTransfer.to_address)
+      ) ? TransferType.INTERNAL : txTransfer.transfer_type
 
       const transfer: TransactionParsed = {
         wallet: name,
@@ -110,13 +110,13 @@ async function getTransactions(name: string, tokenAddress: string, network: numb
         block: tx.block_height,
         network: token[0],
         type: type,
-        amount: new BigNumber(trans.delta).dividedBy(10 ** trans.contract_decimals).toNumber(),
-        symbol: trans.contract_ticker_symbol,
-        contract: trans.contract_address,
-        quote: trans.delta_quote,
-        sender: trans.from_address,
-        from: trans.from_address,
-        to: trans.to_address,
+        amount: new BigNumber(txTransfer.delta).dividedBy(10 ** txTransfer.contract_decimals).toNumber(),
+        symbol: txTransfer.contract_ticker_symbol,
+        contract: txTransfer.contract_address,
+        quote: txTransfer.delta_quote,
+        sender: txTransfer.from_address,
+        from: txTransfer.from_address,
+        to: txTransfer.to_address,
         interactedWith: tx.to_address,
         txFrom: tx.from_address
       }
