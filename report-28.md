@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -55,13 +55,6 @@ Since July 16, 1 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
-#### [Would you support some sort of continuous LAND issuance?](https://governance.decentraland.org/proposal/?id=1c24a240-06ba-11ed-8a2f-a1a061d4350b)
-
-* Yes 35.68868477270335% 1,678,123 VP (31 votes)
-* No 64.31131522729665% 3,023,992 VP (34 votes)
-* Invalid question/options 0% 0 VP (0 votes)
-
-
 
 # Active Proposals
 
@@ -71,16 +64,14 @@ Since July 16, 1 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [Creation of DAO-Owned Data Aggregation Layer for Decentraland Core](https://governance.decentraland.org/proposal/?id=66d76070-0d27-11ed-92a2-218eab5ea42b) (Tier 4)
 * [Vueltta x NFT Show Europe: Art Installation to Increase Decentraland Engagement](https://governance.decentraland.org/proposal/?id=99986a30-0cb5-11ed-92a2-218eab5ea42b) (Tier 3)
 * [Create a Phygital experience in DCL to unite artists from developing countries](https://governance.decentraland.org/proposal/?id=b3209c20-0c4c-11ed-92a2-218eab5ea42b) (Tier 4)
 * [Develop new Low Latency Video Streaming components for SDK and builder.](https://governance.decentraland.org/proposal/?id=858cd0a0-0c18-11ed-92a2-218eab5ea42b) (Tier 4)
 * [Decentraland&#39;s most popular QuizZone 2.0 🥳](https://governance.decentraland.org/proposal/?id=58233e80-0928-11ed-8306-41196474443d) (Tier 4)
 * [Dungeons &amp; Dragons Metaverse Hub](https://governance.decentraland.org/proposal/?id=a5ae4290-0909-11ed-8306-41196474443d) (Tier 4)
-* [Arabic Youtube Series on Decentraland and The Metaverse](https://governance.decentraland.org/proposal/?id=574344e0-075e-11ed-8a2f-a1a061d4350b) (Tier 2)
 * [Dungeons and Dragons &amp; Decentraland](https://governance.decentraland.org/proposal/?id=10535610-0399-11ed-8a2f-a1a061d4350b) (Tier 5)
 * [Verified Partners Registry](https://governance.decentraland.org/proposal/?id=81af5b00-02e6-11ed-8f44-ef1722f0509f) (Tier 4)
-* [Make Decentraland Buildings/3D assets NFTs that can be added to the builder.](https://governance.decentraland.org/proposal/?id=99afcf60-0218-11ed-8f44-ef1722f0509f) (Tier 5)
-* [Integration of Infrastructure for interoperable 3D wearables with Decentraland](https://governance.decentraland.org/proposal/?id=29e2c130-0202-11ed-8f44-ef1722f0509f) (Tier 6)
 
 ## Names Bans
 
