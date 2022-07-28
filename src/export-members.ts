@@ -38,7 +38,7 @@ async function getMembersInfo(addresses: string[], jobId: number) {
   const info: MemberInfo[] = []
 
   for (const address of addresses) {
-    let scores = [0, 0, 0, 0, 0, 0]
+    const scores = [0, 0, 0, 0, 0, 0]
 
     for (const idx in snapshotScores) {
       scores[idx] = snapshotScores[idx][address] || 0

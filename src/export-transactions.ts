@@ -166,7 +166,7 @@ function saveTransactions(txs: TransactionParsed[], tagged = false) {
 }
 
 async function main() {
-  let unresolvedTransactions: Promise<TransactionParsed[]>[] = []
+  const unresolvedTransactions: Promise<TransactionParsed[]>[] = []
 
   for (const wallet of Wallets.get()) {
     const { name, address, network } = wallet
@@ -202,7 +202,7 @@ async function tagging(txs: TransactionParsed[]) {
 
   const tagger = async (transactions: TransactionParsed[], chunk: number) => {
     for (let i = 0; i < transactions.length; i++) {
-      let tx = transactions[i]
+      const tx = transactions[i]
       tx.tag = TagType.OTHER
 
       if (marketOrdersTxs.has(tx.hash)) {

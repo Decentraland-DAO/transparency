@@ -52,7 +52,7 @@ const delay = (ms: number) => new Promise(resolve => setTimeout(resolve, ms))
 export async function fetchURL(url: string, options?: RequestInit, retry?: number): Promise<any> {
   retry = retry === undefined ? 3 : retry
   try {
-    let res = await fetch(url, options)
+    const res = await fetch(url, options)
     return await res.json()
   } catch (err) {
     if (retry <= 0) {

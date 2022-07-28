@@ -61,9 +61,9 @@ async function generateReport(currentReport: number, startDate: Date, endDate: D
   console.log(`Proposals from ${startDateStr} to ${endDateStr}`)
 
   // Get Gobernance dApp Proposals
-  let proposals: GovernanceProposal[] = []
+  const proposals: GovernanceProposal[] = []
   while (true) {
-    let skip = proposals.length
+    const skip = proposals.length
     const url = `https://governance.decentraland.org/api/proposals?limit=100000&offset=${skip}`
     const json = await fetchURL(url)
 

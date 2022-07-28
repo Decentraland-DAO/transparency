@@ -43,7 +43,7 @@ async function getBalance(wallet: Wallet) {
 }
 
 async function main() {
-  let unresolvedBalances: Promise<BalanceParsed[]>[] = []
+  const unresolvedBalances: Promise<BalanceParsed[]>[] = []
 
   for (const wallet of Wallets.get()) {
     unresolvedBalances.push(getBalance(wallet))

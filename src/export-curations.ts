@@ -14,7 +14,7 @@ interface CurationParsed {
 async function main() {
   // Fetch Curations
   const url = 'https://api.thegraph.com/subgraphs/name/decentraland/collections-matic-mainnet'
-  let curations: Curation[] = await fetchGraphQLCondition(
+  const curations: Curation[] = await fetchGraphQLCondition(
     url,
     'curations',
     'timestamp',
