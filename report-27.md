@@ -144,18 +144,18 @@ Since July 1, 9 grants have been approved and the vesting contract(s) will be es
 
 ## Points of Interest
 
-* 120, -12: [No Name](https://governance.decentraland.org/proposal/?id=fe3a84d0-082a-11ed-a7c6-41ac3ec767e9)
 
 ## Grants
 
+* [Democratize Access to Decentraland for Renting, Marketing, and Hosting Events](https://governance.decentraland.org/proposal/?id=8a1e3180-0e3a-11ed-9d53-7b405ea02bcb) (Tier 3)
+* [Fun land so peoples come and play games and also buy some lottery ticket](https://governance.decentraland.org/proposal/?id=3aefa220-0e02-11ed-9d53-7b405ea02bcb) (Tier 6)
+* [Self-Service Audio/Video Streaming](https://governance.decentraland.org/proposal/?id=23813f00-0de8-11ed-9d53-7b405ea02bcb) (Tier 5)
 * [Creation of DAO-Owned Data Aggregation Layer for Decentraland Core](https://governance.decentraland.org/proposal/?id=66d76070-0d27-11ed-92a2-218eab5ea42b) (Tier 4)
 * [Vueltta x NFT Show Europe: Art Installation to Increase Decentraland Engagement](https://governance.decentraland.org/proposal/?id=99986a30-0cb5-11ed-92a2-218eab5ea42b) (Tier 3)
-* [Create a Phygital experience in DCL to unite artists from developing countries](https://governance.decentraland.org/proposal/?id=b3209c20-0c4c-11ed-92a2-218eab5ea42b) (Tier 4)
 * [Develop new Low Latency Video Streaming components for SDK and builder.](https://governance.decentraland.org/proposal/?id=858cd0a0-0c18-11ed-92a2-218eab5ea42b) (Tier 4)
 * [Decentraland&#39;s most popular QuizZone 2.0 🥳](https://governance.decentraland.org/proposal/?id=58233e80-0928-11ed-8306-41196474443d) (Tier 4)
 * [Dungeons &amp; Dragons Metaverse Hub](https://governance.decentraland.org/proposal/?id=a5ae4290-0909-11ed-8306-41196474443d) (Tier 4)
 * [Dungeons and Dragons &amp; Decentraland](https://governance.decentraland.org/proposal/?id=10535610-0399-11ed-8a2f-a1a061d4350b) (Tier 5)
-* [Verified Partners Registry](https://governance.decentraland.org/proposal/?id=81af5b00-02e6-11ed-8f44-ef1722f0509f) (Tier 4)
 
 ## Names Bans
 
@@ -165,6 +165,6 @@ Since July 1, 9 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
-* [Limit monetary allowances to Grant proposals](https://governance.decentraland.org/proposal/?id=19174de0-09bd-11ed-92a2-218eab5ea42b)
+* [Process for Establishing Formal Working Groups](https://governance.decentraland.org/proposal/?id=bcf89060-0e5c-11ed-9d53-7b405ea02bcb)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
