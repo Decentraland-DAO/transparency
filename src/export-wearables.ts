@@ -7,8 +7,10 @@ type WearableParsed = Wearable & WearableData
 async function main() {
   // Fetch Wearables
   const url = 'https://api.thegraph.com/subgraphs/name/decentraland/collections-matic-mainnet'
-  const wearables: WearableParsed[] = await fetchGraphQLCondition(url, 'items', 'createdAt', 'id',
-    'id creator itemType totalSupply maxSupply rarity creationFee available price beneficiary URI image createdAt updatedAt reviewedAt soldAt sales volume metadata { wearable { name description category } }'
+  const wearables = await fetchGraphQLCondition<WearableParsed>(
+    url, 'items', 'createdAt', 'id',
+    'id creator itemType totalSupply maxSupply rarity creationFee available price beneficiary URI image createdAt updatedAt reviewedAt soldAt sales volume metadata { wearable { name description category } }',
+    1000
   )
 
   for (const w of wearables) {

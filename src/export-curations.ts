@@ -14,12 +14,13 @@ interface CurationParsed {
 async function main() {
   // Fetch Curations
   const url = 'https://api.thegraph.com/subgraphs/name/decentraland/collections-matic-mainnet'
-  const curations: Curation[] = await fetchGraphQLCondition(
+  const curations = await fetchGraphQLCondition<Curation>(
     url,
     'curations',
     'timestamp',
     'txHash',
-    'id txHash curator { address } collection { id name itemsCount isApproved } isApproved timestamp'
+    'id txHash curator { address } collection { id name itemsCount isApproved } isApproved timestamp',
+    1000
   )
 
   const curationsParsed: CurationParsed[] = curations.map((c) => {

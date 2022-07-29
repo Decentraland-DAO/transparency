@@ -58,7 +58,7 @@ async function main() {
   // Fetch Snapshot Votes
   const url = 'https://hub.snapshot.org/graphql'
   const where = `space_in: ["${space}"], vp_gt: 10`
-  const votes: Vote[] = await fetchGraphQL(url, 'votes', where, 'created', 'voter')
+  const votes = await fetchGraphQL<Vote>(url, 'votes', where, 'created', 'voter', 20000)
 
   const members = new Set(votes.map(v => v.voter)) // Unique addresses
   console.log('Total Members:', members.size)

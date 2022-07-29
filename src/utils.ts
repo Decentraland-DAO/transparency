@@ -65,31 +65,45 @@ export async function fetchURL(url: string, options?: RequestInit, retry?: numbe
   }
 }
 
-export async function fetchGraphQL(url: string, collection: string, where: string, orderBy: string, fields: string, first?: number) {
-  const elements = []
+export async function fetchGraphQL<T>(url: string, collection: string, where: string, orderBy: string, fields: string, first?: number): Promise<T[]> {
+  let hasNext = true
   first = first || 1000
-  while (true) {
-    const skip = elements.length
-    const query = `query {  ${collection} (first: ${first}, skip: ${skip}, where: { ${where} }, orderBy: "${orderBy}", orderDirection: desc) { ${fields} }}`
+  let skip = 0
+  const query = `
+  query get($first: Int!, $skip: Int!) {
+    ${collection} (first: $first, skip: $skip, where: { ${where} }, orderBy: "${orderBy}", orderDirection: desc) {
+      ${fields}
+    }
+  }
+  `
 
+  const elements: T[] = []
+  while (hasNext) {
     const json = await fetchURL(url, {
       headers: { 'content-type': 'application/json' },
-      body: JSON.stringify({ 'query': query, 'variables': null }),
+      body: JSON.stringify({ 'query': query, 'variables': { first, skip } }),
       method: 'POST'
-    })
+    }, 5)
 
     if (json.errors) {
-      console.log(elements[skip - 1])
-      throw Error('GraphQL Fetch Error ' + json.errors[0].message)
+      throw Error('GraphQL Fetch Error ' + json.errors)
     }
-    if (!json.data || !json.data[collection] || !json.data[collection].length) break
-    elements.push(...json.data[collection])
+
+    const currentElements = (json?.data?.[collection] || []) as T[]
+    elements.push(...currentElements)
+
+    if (currentElements.length < first) {
+      hasNext = false
+    } else {
+      skip = elements.length
+    }
   }
+
   return elements
 }
 
-function removeDuplicates(data: any[], dataKey: string): any[] {
-  const dataMap = {}
+function removeDuplicates<T>(data: T[], dataKey: string) {
+  const dataMap: Record<string, T> = {}
   for (const item of data) {
     dataMap[item[dataKey]] = item
   }
@@ -97,27 +111,40 @@ function removeDuplicates(data: any[], dataKey: string): any[] {
   return Object.values(dataMap)
 }
 
-export async function fetchGraphQLCondition(url: string, collection: string, fieldNameCondition: string, dataKey: string, fields: string, first?: number) {
-  const elements = []
+export async function fetchGraphQLCondition<T>(url: string, collection: string, fieldNameCondition: string, dataKey: string, fields: string, first?: number): Promise<T[]> {
+  let hasNext = true
   first = first || 1000
+  let skip = 0
   let lastField = 0
+  const query = `
+    query get($first: Int!, $skip: Int!, $lastField: Int!) {
+      ${collection} (first: $first, where: { ${fieldNameCondition}_gt: $lastField }, orderBy: "${fieldNameCondition}", orderDirection: asc) {
+        ${fields}
+      }
+    }
+  `
 
-  while (true) {
-    const query = `query {  ${collection} (first: ${first}, where: { ${fieldNameCondition}_gt: ${lastField} }, orderBy: "${fieldNameCondition}", orderDirection: asc) { ${fields} }}`
-
+  const elements: T[] = []
+  while (hasNext) {
     const json = await fetchURL(url, {
       headers: { 'content-type': 'application/json' },
-      body: JSON.stringify({ 'query': query, 'variables': null }),
+      body: JSON.stringify({ 'query': query, 'variables': { first, skip, lastField } }),
       method: 'POST'
-    })
+    }, 5)
 
     if (json.errors) {
-      throw Error('GraphQL Condition Fetch Error ' + json.errors[0].message)
+      throw Error('GraphQL Condition Fetch Error ' + json.errors)
     }
-    if (!json.data || !json.data[collection] || !json.data[collection].length) break
 
-    elements.push(...json.data[collection])
-    lastField = elements[elements.length - 1][fieldNameCondition]
+    const currentElements = (json?.data?.[collection] || []) as T[]
+    elements.push(...currentElements)
+
+    if (currentElements.length < first) {
+      hasNext = false
+    } else {
+      skip = elements.length
+      lastField = elements[elements.length - 1][fieldNameCondition]
+    }
   }
 
   return removeDuplicates(elements, dataKey)
