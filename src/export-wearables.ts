@@ -4,27 +4,35 @@ import { fetchGraphQLCondition, saveToCSV, saveToJSON } from "./utils"
 
 type WearableParsed = Wearable & WearableData
 
+const networks = ['ethereum', 'matic']
+
 async function main() {
-  // Fetch Wearables
-  const url = 'https://api.thegraph.com/subgraphs/name/decentraland/collections-matic-mainnet'
-  const wearables = await fetchGraphQLCondition<WearableParsed>(
-    url, 'items', 'createdAt', 'id',
-    'id creator itemType totalSupply maxSupply rarity creationFee available price beneficiary URI image createdAt updatedAt reviewedAt soldAt sales volume metadata { wearable { name description category } }',
-    1000
-  )
+  const wearables: WearableParsed[] = []
 
-  for (const w of wearables) {
-    w.name = w.metadata.wearable?.name
-    w.description = w.metadata.wearable?.description
-    w.category = w.metadata.wearable?.category
-    w.price = new BigNumber(w.price).dividedBy(10 ** 18).toNumber() || 0
-    w.creationFee = new BigNumber(w.creationFee).dividedBy(10 ** 18).toNumber() || 0
+  for (const network of networks) {
+    // Fetch Wearables
+    const url = `https://api.thegraph.com/subgraphs/name/decentraland/collections-${network}-mainnet`
+    const networkWearables = await fetchGraphQLCondition<WearableParsed>(
+      url, 'items', 'createdAt', 'id',
+      'id creator itemType totalSupply maxSupply rarity creationFee available price beneficiary URI image createdAt updatedAt reviewedAt soldAt sales volume metadata { wearable { name description category } }',
+      1000
+    )
 
-    w.createdAt = w.createdAt && new Date(parseInt(w.createdAt) * 1000).toISOString()
-    w.updatedAt = w.updatedAt && new Date(parseInt(w.updatedAt) * 1000).toISOString()
-    w.reviewedAt = w.reviewedAt && new Date(parseInt(w.reviewedAt) * 1000).toISOString()
-    w.soldAt = w.soldAt && new Date(parseInt(w.soldAt) * 1000).toISOString()
+    for (const w of networkWearables) {
+      w.name = w.metadata.wearable?.name
+      w.description = w.metadata.wearable?.description
+      w.category = w.metadata.wearable?.category
+      w.network = network
+      w.price = new BigNumber(w.price).dividedBy(10 ** 18).toNumber() || 0
+      w.creationFee = new BigNumber(w.creationFee).dividedBy(10 ** 18).toNumber() || 0
 
+      w.createdAt = w.createdAt && new Date(parseInt(w.createdAt) * 1000).toISOString()
+      w.updatedAt = w.updatedAt && new Date(parseInt(w.updatedAt) * 1000).toISOString()
+      w.reviewedAt = w.reviewedAt && new Date(parseInt(w.reviewedAt) * 1000).toISOString()
+      w.soldAt = w.soldAt && new Date(parseInt(w.soldAt) * 1000).toISOString()
+    }
+
+    wearables.push(...networkWearables)
   }
 
   console.log(wearables.length, 'wearables found.')
@@ -34,6 +42,7 @@ async function main() {
     { id: 'name', title: 'Name' },
     { id: 'description', title: 'Description' },
     { id: 'category', title: 'Category' },
+    { id: 'network', title: 'Network' },
     { id: 'itemType', title: 'Type' },
     { id: 'totalSupply', title: 'Total Supply' },
     { id: 'maxSupply', title: 'Max Supply' },
