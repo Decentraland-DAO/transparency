@@ -86,7 +86,7 @@ export async function fetchGraphQL<T>(url: string, collection: string, where: st
     }, 5)
 
     if (json.errors) {
-      throw Error('GraphQL Fetch Error ' + json.errors)
+      throw Error('GraphQL Fetch Error ' + JSON.stringify(json.errors))
     }
 
     const currentElements = (json?.data?.[collection] || []) as T[]
@@ -133,7 +133,7 @@ export async function fetchGraphQLCondition<T>(url: string, collection: string, 
     }, 5)
 
     if (json.errors) {
-      throw Error('GraphQL Condition Fetch Error ' + json.errors)
+      throw Error('GraphQL Condition Fetch Error ' + JSON.stringify(json.errors))
     }
 
     const currentElements = (json?.data?.[collection] || []) as T[]
@@ -143,7 +143,7 @@ export async function fetchGraphQLCondition<T>(url: string, collection: string, 
       hasNext = false
     } else {
       skip = elements.length
-      lastField = elements[elements.length - 1][fieldNameCondition]
+      lastField = Number(elements[elements.length - 1][fieldNameCondition])
     }
   }
 

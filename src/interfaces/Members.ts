@@ -10,6 +10,7 @@ export interface DCLMember {
 
 export const CATALYSTS = [
   'peer-ec1.decentraland.org',
+  'peer-ec2.decentraland.org',
   'peer-wc1.decentraland.org',
   'eer-eu1.decentraland.org',
   'peer-ap1.decentraland.org',
