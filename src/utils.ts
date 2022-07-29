@@ -4,6 +4,7 @@ import { ObjectStringifierHeader } from 'csv-writer/src/lib/record'
 import { existsSync, mkdirSync, writeFileSync } from 'fs'
 import 'isomorphic-fetch'
 import { Tags } from './entities/Tags'
+import { MemberInfo } from './export-members'
 import { TransactionParsed } from './export-transactions'
 import { KPI } from './interfaces/KPIs'
 import { TransactionDetails } from './interfaces/Transactions/Transactions'
@@ -201,4 +202,33 @@ export function parseKPIs(kpis: KPI[]) {
   }
 
   return result
+}
+
+export function parseVP(scores: number[]): Omit<MemberInfo, 'address'> {
+
+  if (scores.length !== 4 && scores.length !== 6) {
+    throw Error('Invalid VP scores length')
+  }
+
+  const totalVP = scores.reduce((acc, val) => acc + val, 0)
+  const manaVP = scores[0] + scores[3]
+  const landVP = scores[1] + scores[2]
+
+  if (scores.length === 4) {
+    return {
+      totalVP,
+      manaVP,
+      landVP,
+      namesVP: 0,
+      delegatedVP: 0
+    }
+  }
+
+  return {
+    totalVP,
+    manaVP,
+    landVP,
+    namesVP: scores[4],
+    delegatedVP: scores[5]
+  }
 }

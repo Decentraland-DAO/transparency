@@ -31,6 +31,22 @@ export const STRATEGIES = [
     }
   },
   {
+    "name": "erc721-with-multiplier",
+    "params": {
+      "symbol": "LAND",
+      "address": "0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d",
+      "multiplier": 2000
+    }
+  },
+  {
+    "name": "decentraland-estate-size",
+    "params": {
+      "symbol": "ESTATE",
+      "address": "0x959e104e1a4db6317fa58f8295f586e1a978c297",
+      "multiplier": 2000
+    }
+  },
+  {
     "name": "multichain",
     "params": {
       "name": "multichain",
@@ -56,22 +72,6 @@ export const STRATEGIES = [
           "network": "137"
         }
       ]
-    }
-  },
-  {
-    "name": "erc721-with-multiplier",
-    "params": {
-      "symbol": "LAND",
-      "address": "0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d",
-      "multiplier": 2000
-    }
-  },
-  {
-    "name": "decentraland-estate-size",
-    "params": {
-      "symbol": "ESTATE",
-      "address": "0x959e104e1a4db6317fa58f8295f586e1a978c297",
-      "multiplier": 2000
     }
   },
   {

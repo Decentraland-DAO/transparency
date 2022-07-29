@@ -4,6 +4,7 @@ export interface Vote {
   choice: number
   proposal: ProposalData
   vp: number
+  vp_by_strategy: number[]
 }
 
 export interface ProposalData {

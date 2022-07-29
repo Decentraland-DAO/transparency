@@ -2,7 +2,7 @@ import snapshot from '@snapshot-labs/snapshot.js'
 import Networks from './entities/Networks'
 import { SnapshotSpace } from './interfaces/GovernanceProposal'
 import { STRATEGIES, Vote } from './interfaces/Members'
-import { fetchGraphQL, flattenArray, saveToCSV, saveToJSON, splitArray } from './utils'
+import { fetchGraphQL, flattenArray, parseVP, saveToCSV, saveToJSON, splitArray } from './utils'
 
 const MAX_RETRIES = 20
 
@@ -46,11 +46,7 @@ async function getMembersInfo(addresses: string[], jobId: number) {
 
     info.push({
       address,
-      totalVP: scores.reduce((a, b) => a + b),
-      manaVP: scores[0] + scores[1],
-      landVP: scores[2] + scores[3],
-      namesVP: scores[4],
-      delegatedVP: scores[5]
+      ...parseVP(scores)
     })
   }
 
