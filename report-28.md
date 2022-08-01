@@ -82,7 +82,8 @@ Since July 16, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
-* [Inclusion for ENS transactions on market.decentraland.org](https://governance.decentraland.org/proposal/?id=6d9bb420-108c-11ed-affb-95d45c2147f8) (Tier 1)
+* [Creation of quality content for the Spanish-speaking community](https://governance.decentraland.org/proposal/?id=eca738b0-1119-11ed-affb-95d45c2147f8) (Tier 2)
+* [Exodus: Goodbye World Development](https://governance.decentraland.org/proposal/?id=4dcc98d0-10e6-11ed-affb-95d45c2147f8) (Tier 6)
 * [Integrate Metanomic Economy Design and Analytics for Decentraland Builders](https://governance.decentraland.org/proposal/?id=e2e3ce20-0f1a-11ed-affb-95d45c2147f8) (Tier 6)
 * [CROSSVERSE: A cross-metaverse play, learn, explore-to-earn game experience](https://governance.decentraland.org/proposal/?id=7e4f37c0-0e65-11ed-9d53-7b405ea02bcb) (Tier 4)
 * [Democratize Access to Decentraland for Renting, Marketing, and Hosting Events](https://governance.decentraland.org/proposal/?id=8a1e3180-0e3a-11ed-9d53-7b405ea02bcb) (Tier 3)
