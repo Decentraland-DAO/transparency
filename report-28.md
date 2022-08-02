@@ -79,9 +79,12 @@ Since July 16, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
+* -30, -31: [Quontic](https://governance.decentraland.org/proposal/?id=46f01db0-126d-11ed-affb-95d45c2147f8)
+* 120, -4: [Abdi İbrahim Pharmaceuticals](https://governance.decentraland.org/proposal/?id=4ec616f0-1189-11ed-affb-95d45c2147f8)
 
 ## Grants
 
+* [Decentral Comedy Promo at Skankfest Vegas/Backstage Access to Skankfest for DCL](https://governance.decentraland.org/proposal/?id=949f3b40-11f0-11ed-affb-95d45c2147f8) (Tier 5)
 * [Creation of quality content for the Spanish-speaking community](https://governance.decentraland.org/proposal/?id=eca738b0-1119-11ed-affb-95d45c2147f8) (Tier 2)
 * [Exodus: Goodbye World Development](https://governance.decentraland.org/proposal/?id=4dcc98d0-10e6-11ed-affb-95d45c2147f8) (Tier 6)
 * [Integrate Metanomic Economy Design and Analytics for Decentraland Builders](https://governance.decentraland.org/proposal/?id=e2e3ce20-0f1a-11ed-affb-95d45c2147f8) (Tier 6)
@@ -90,7 +93,6 @@ Since July 16, 2 grants have been approved and the vesting contract(s) will be e
 * [Fun land so peoples come and play games and also buy some lottery ticket](https://governance.decentraland.org/proposal/?id=3aefa220-0e02-11ed-9d53-7b405ea02bcb) (Tier 6)
 * [Self-Service Audio/Video Streaming](https://governance.decentraland.org/proposal/?id=23813f00-0de8-11ed-9d53-7b405ea02bcb) (Tier 5)
 * [Creation of DAO-Owned Data Aggregation Layer for Decentraland Core](https://governance.decentraland.org/proposal/?id=66d76070-0d27-11ed-92a2-218eab5ea42b) (Tier 4)
-* [Vueltta x NFT Show Europe: Art Installation to Increase Decentraland Engagement](https://governance.decentraland.org/proposal/?id=99986a30-0cb5-11ed-92a2-218eab5ea42b) (Tier 3)
 * [Develop new Low Latency Video Streaming components for SDK and builder.](https://governance.decentraland.org/proposal/?id=858cd0a0-0c18-11ed-92a2-218eab5ea42b) (Tier 4)
 * [Decentraland&#39;s most popular QuizZone 2.0 🥳](https://governance.decentraland.org/proposal/?id=58233e80-0928-11ed-8306-41196474443d) (Tier 4)
 * [Dungeons &amp; Dragons Metaverse Hub](https://governance.decentraland.org/proposal/?id=a5ae4290-0909-11ed-8306-41196474443d) (Tier 4)
@@ -103,6 +105,5 @@ Since July 16, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
-* [Process for Establishing Formal Working Groups](https://governance.decentraland.org/proposal/?id=bcf89060-0e5c-11ed-9d53-7b405ea02bcb)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
