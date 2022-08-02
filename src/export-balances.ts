@@ -1,14 +1,8 @@
 import BigNumber from "bignumber.js"
 import { Contract } from "./interfaces/Balance"
 import { Network, NetworkID, Token } from "./interfaces/Network"
-import { fetchURL, saveToCSV, saveToJSON } from "./utils"
+import { fetchURL, saveToCSV, saveToJSON, wallets } from "./utils"
 require('dotenv').config()
-
-const wallets = [
-  [Network.ETHEREUM, "0x9a6ebe7e2a7722f8200d0ffb63a1f6406a0d7dce", "Aragon Agent"],
-  [Network.ETHEREUM, "0x89214c8Ca9A49E60a3bfa8e00544F384C93719b1", "DAO Committee"],
-  [Network.POLYGON, "0xB08E3e7cc815213304d884C88cA476ebC50EaAB2", "DAO Committee"],
-]
 
 const ALLOWED_SYMBOLS = [Token.MANA, Token.MATIC, Token.ETH, Token.WETH, Token.DAI, Token.USDC, Token.USDT]
 

@@ -1,13 +1,15 @@
 import BigNumber from 'bignumber.js'
 import GRANTS from '../public/grants.json'
 import { Status } from './interfaces/GovernanceProposal'
+import { GrantProposal } from './interfaces/Grant'
 import { Decimals, Network, NetworkID, Token } from './interfaces/Network'
 import { APIEvents } from './interfaces/Transactions/Events'
 import { APITransactions } from './interfaces/Transactions/Transactions'
 import { APITransfers, TransferType } from './interfaces/Transactions/Transfers'
-import { COVALENT_API_KEY, fetchURL, flattenArray, saveToCSV, saveToJSON, splitArray } from './utils'
-import { GrantProposal } from './interfaces/Grant'
+import { COVALENT_API_KEY, fetchURL, flattenArray, itemContracts, saveToCSV, saveToJSON, setTransactionTag, splitArray, wallets } from './utils'
 
+
+require('dotenv').config()
 export interface TransactionParsed {
   wallet: string
   hash: string
@@ -22,6 +24,8 @@ export interface TransactionParsed {
   sender: string
   from: string
   to: string
+  interactedWith: string
+  txFrom: string
   tag?: string
 }
 
@@ -30,14 +34,6 @@ enum Topic {
   MATIC_ORDER_TOPIC = '0x77cc75f8061aa168906862622e88c5b05a026a9c06c02d91ec98543e01e7ad33',
   MATIC_ORDER_TOPIC2 = '0x6869791f0a34781b29882982cc39e882768cf2c96995c2a110c577c53bc932d5'
 }
-
-const wallets = [
-  [Network.ETHEREUM, '0x9a6ebe7e2a7722f8200d0ffb63a1f6406a0d7dce', 'Aragon Agent'],
-  [Network.ETHEREUM, '0x89214c8ca9a49e60a3bfa8e00544f384c93719b1', 'DAO Committee'],
-  [Network.POLYGON, '0xb08e3e7cc815213304d884c88ca476ebc50eaab2', 'DAO Committee']
-]
-
-const walletAddresses = new Set(wallets.map(w => w[1]))
 
 const tokens = {
   '0x0f5d2fb29fb7d3cfee444a200298f468908cc942': [Network.ETHEREUM, Token.MANA, Decimals.MANA],
@@ -56,20 +52,19 @@ const tokens = {
 const ethTokens = Object.keys(tokens).filter(a => tokens[a][0] === Network.ETHEREUM)
 const maticTokens = Object.keys(tokens).filter(a => tokens[a][0] === Network.POLYGON)
 
-const grants: GrantProposal[] = GRANTS
-const GRANT_ADDRESSES = new Set(grants.filter(g => g.status === Status.ENACTED || g.status === Status.PASSED).map(g => (g.vesting_address || g.beneficiary).toLowerCase()))
-const CURATOR_ADDRESSES = new Set([
-  '0x5d7846007c1dd6dca25d16ce2f71ec13bcdcf6f0',
-  '0x716954738e57686a08902d9dd586e813490fee23',
-  '0xc958f028d1b871ab2e32c2abda54f37191efe0c2',
-  '0x82d54417fc69681dc74a6c0c68c6dbad5a2857b9',
-  '0x9db59920d3776c2d8a3aa0cbd7b16d81fcab0a2b',
-  '0x91e222ed7598efbcfe7190481f2fd14897e168c8',
-  '0x9db59920d3776c2d8a3aa0cbd7b16d81fcab0a2b',
-  '0x6cdfdb9a4d99f16b5607cab1d00c792206db554e'
-])
+const walletAddresses = new Set(wallets.map(w => w[1]))
 
+const grants: GrantProposal[] = GRANTS
+const GRANTS_VESTING_ADDRESSES = new Set(grants.filter(g => g.status === Status.ENACTED && g.vesting_address).map(g => g.vesting_address.toLowerCase()))
+const GRANTS_ENACTING_TXS = new Set(grants.filter(g => g.status === Status.ENACTED && g.enacting_tx).map(g => g.enacting_tx.toLowerCase()))
+const SAB_ADDRESS = '0x0e659a116e161d8e502f9036babda51334f2667e' // Sec Advisory Board
 const FACILITATOR_ADDRESS = '0x76fb13f00cdbdd5eac8e2664cf14be791af87cb0'
+const OPENSEA_ADDRESSES = new Set([
+  '0x9b814233894cd227f561b78cc65891aa55c62ad2',
+  '0x2da950f79d8bd7e7f815e1bbc43ecee2c7e7f5d3',
+  '0x00000000006c3852cbef3e08e8df289169ede581',
+  '0xf715beb51ec8f63317d66f491e37e7bb048fcc2d'
+])
 
 async function getTopicTxs(network: number, startblock: number, topic: Topic) {
   const events: string[] = []
@@ -102,11 +97,11 @@ async function getTransactions(name: string, tokenAddress: string, network: numb
   const transactions: TransactionParsed[] = []
 
   for (const tx of txs) {
-    const transfers = tx.transfers.map(trans => {
+    const transfers = tx.transfers.map(txTransfer => {
       let type = (
-        walletAddresses.has(trans.from_address) &&
-        walletAddresses.has(trans.to_address)
-      ) ? TransferType.INTERNAL : trans.transfer_type
+        walletAddresses.has(txTransfer.from_address) &&
+        walletAddresses.has(txTransfer.to_address)
+      ) ? TransferType.INTERNAL : txTransfer.transfer_type
 
       const transfer: TransactionParsed = {
         wallet: name,
@@ -115,13 +110,15 @@ async function getTransactions(name: string, tokenAddress: string, network: numb
         block: tx.block_height,
         network: token[0],
         type: type,
-        amount: new BigNumber(trans.delta).dividedBy(10 ** trans.contract_decimals).toNumber(),
-        symbol: trans.contract_ticker_symbol,
-        contract: trans.contract_address,
-        quote: trans.delta_quote,
-        sender: trans.from_address,
-        from: trans.from_address,
-        to: trans.to_address
+        amount: new BigNumber(txTransfer.delta).dividedBy(10 ** txTransfer.contract_decimals).toNumber(),
+        symbol: txTransfer.contract_ticker_symbol,
+        contract: txTransfer.contract_address,
+        quote: txTransfer.delta_quote,
+        sender: txTransfer.from_address,
+        from: txTransfer.from_address,
+        to: txTransfer.to_address,
+        interactedWith: tx.to_address,
+        txFrom: tx.from_address
       }
       return transfer
     })
@@ -129,6 +126,37 @@ async function getTransactions(name: string, tokenAddress: string, network: numb
   }
 
   return transactions
+}
+
+async function findSecondarySalesTag(txs: TransactionParsed[], chunk: number) {
+  const secondarySalesTag = (tx: TransactionParsed, type: string) => { tx.tag = tx.tag.concat(` :: ${type.split(' :: ')[0]}`) }
+
+  for (const tx of txs) {
+    let fetched = false
+    let maxRetries = 10
+
+    do {
+      try {
+        const network = NetworkID[tx.network]
+        const url = `https://api.covalenthq.com/v1/${network}/transaction_v2/${tx.hash}/?key=${COVALENT_API_KEY}`
+        const json = await fetchURL(url)
+        const data: APITransactions = json.data
+        fetched = true
+
+        const log = data.items[0].log_events.find(log => !!itemContracts[log.sender_address.toLowerCase()])
+
+        if (log) {
+          secondarySalesTag(tx, itemContracts[log.sender_address.toLowerCase()])
+        }
+
+      } catch (error) {
+        console.log("retrying...")
+        maxRetries--
+      }
+    } while (!fetched && maxRetries > 0)
+  }
+
+  console.log(`Secondary sales tagged: ${txs.length} - Chunk = ${chunk}`)
 }
 
 async function main() {
@@ -173,8 +201,6 @@ async function main() {
 
 async function tagging(txs: TransactionParsed[]) {
 
-  const ONEINCH_ADDRESSES = new Set(['0x1111111254fb6c44bac0bed2854e76f90643097d', '0x11111112542d85b3ef69ae05771c2dccff4faa26'])
-
   const ethTxs = txs.filter(t => t.network === Network.ETHEREUM)
   const ethStartblock = ethTxs[ethTxs.length - 1].block
   const marketOrdersTxs = new Set(await getTopicTxs(NetworkID[Network.ETHEREUM], ethStartblock, Topic.ETH_ORDER_TOPIC))
@@ -185,19 +211,13 @@ async function tagging(txs: TransactionParsed[]) {
   const maticOrdersTxs = new Set(await getTopicTxs(NetworkID[Network.POLYGON], maticStartblock, Topic.MATIC_ORDER_TOPIC))
   console.log('Matic Orders:', maticOrdersTxs.size)
 
-  // maticOrdersTxs2 = await getTopicTxs(137, maticStartblock, Topic.MATIC_ORDER_TOPIC2)
-  // console.log('Matic Orders 2:', maticOrdersTxs2.length)
-  // return
-
   const tagger = async (transactions: TransactionParsed[], chunk: number) => {
-    let other = 0
     for (let i = 0; i < transactions.length; i++) {
       let tx = transactions[i]
-      tx.tag = '-'
+      tx.tag = 'OTHER'
 
       if (marketOrdersTxs.has(tx.hash)) {
         tx.tag = 'ETH Marketplace'
-        continue
       }
 
       if (maticOrdersTxs.has(tx.hash)) {
@@ -205,18 +225,13 @@ async function tagging(txs: TransactionParsed[]) {
         continue
       }
 
-      // if(maticOrdersTxs2.indexOf(tx.hash) != -1) {
-      //     tx.tag = 'MATIC Marketplace 2'
-      //     continue
-      // }
-
-      if (tx.type === TransferType.OUT && GRANT_ADDRESSES.has(tx.to)) {
-        tx.tag = 'Grant'
+      if (tx.from === SAB_ADDRESS || tx.to === SAB_ADDRESS) {
+        tx.tag = 'SAB DCL'
         continue
       }
 
-      if (tx.type === TransferType.OUT && CURATOR_ADDRESSES.has(tx.to)) {
-        tx.tag = 'Curator'
+      if (tx.type === TransferType.OUT && (GRANTS_VESTING_ADDRESSES.has(tx.to) || GRANTS_ENACTING_TXS.has(tx.hash))) {
+        tx.tag = 'Grant'
         continue
       }
 
@@ -225,83 +240,36 @@ async function tagging(txs: TransactionParsed[]) {
         continue
       }
 
-      if (tx.type === TransferType.IN && tx.from === '0x7a3abf8897f31b56f09c6f69d074a393a905c1ac') {
-        tx.tag = 'Vesting Contract'
-        continue
-      }
-
-      if (tx.type === TransferType.IN && tx.from === '0x2da950f79d8bd7e7f815e1bbc43ecee2c7e7f5d3') {
-        tx.tag = 'EOA 0x2da95'
-        continue
-      }
-
-      if (tx.type === TransferType.IN && tx.from === '0x9b814233894cd227f561b78cc65891aa55c62ad2') {
+      if (
+        tx.type === TransferType.IN && (
+          OPENSEA_ADDRESSES.has(tx.from) ||
+          OPENSEA_ADDRESSES.has(tx.txFrom) ||
+          OPENSEA_ADDRESSES.has(tx.interactedWith)
+        )) {
         tx.tag = 'OpenSea'
         continue
       }
 
-      if (tx.type === TransferType.IN && tx.from === '0x6d51fdc0c57cbbff6dac4a565b35a17b88c6ceb5') {
-        tx.tag = 'Swap'
-        continue
-      }
-
-      if (tx.type === TransferType.IN && tx.from === '0x56eddb7aa87536c09ccc2793473599fd21a8b17f') {
-        tx.tag = 'Swap'
-        continue
-      }
-
-      if (tx.network === Network.ETHEREUM) {
-        tx.tag = 'OTHER'
-        let fetched = false
-        do {
-          try {
-            const network = NetworkID[tx.network]
-            const url = `https://api.covalenthq.com/v1/${network}/transaction_v2/${tx.hash}/?key=${COVALENT_API_KEY}`
-            const json = await fetchURL(url)
-            const data: APITransactions = json.data
-
-            other++
-            console.log('other txn', i, `Chunk = ${chunk}`)
-            fetched = true
-
-            const isLooksRare = !!data && !!data.items[0].log_events.find(log => log.sender_address === '0x59728544b08ab483533076417fbbb2fd0b17ce3a')
-            if (isLooksRare) {
-              tx.tag = 'LooksRare'
-              continue
-            }
-
-            const isERC721Bid = !!data && !!data.items[0].log_events.find(log => log.sender_address === '0xe479dfd9664c693b2e2992300930b00bfde08233')
-            if (isERC721Bid) {
-              tx.tag = 'ETH Marketplace'
-              continue
-            }
-
-            const isSushiswap = !!data && !!data.items[0].log_events.find(log => log.sender_address === '0x1bec4db6c3bc499f3dbf289f5499c30d541fec97')
-            if (isSushiswap) {
-              tx.tag = 'Swap'
-              continue
-            }
-
-            const is1nch = !!data && !!data.items[0].log_events.find(log => ONEINCH_ADDRESSES.has(log.sender_address))
-            if (is1nch) {
-              tx.tag = 'Swap'
-              continue
-            }
-
-          } catch (error) {
-            console.log('retrying...')
-          }
-        } while (!fetched)
-      }
+      setTransactionTag(tx)
     }
 
-    console.log(`Other txns: ${other} - Chunk = ${chunk}`)
+    console.log(`Tagged txns: ${transactions.length} - Chunk = ${chunk}`)
     return transactions
   }
 
   const dividedTxns = splitArray(txs, 10000)
 
-  const taggedTxns = flattenArray(await Promise.all(dividedTxns.map((t, idx) => tagger(t, idx))))
+  let taggedTxns = flattenArray(await Promise.all(dividedTxns.map(tagger)))
+  const secondarySales = taggedTxns.filter(tx => tx.tag === 'Secondary Sale')
+
+  const dividedSecondarySales = splitArray(secondarySales, 500)
+
+  console.log('TOTAL SECONDARY SALES CHUNKS:', dividedSecondarySales.length)
+
+  await Promise.all(dividedSecondarySales.map(findSecondarySalesTag))
+  const taggedsecondarySales = flattenArray(dividedSecondarySales)
+
+  taggedTxns = taggedTxns.map(tx => ({ ...tx, ...taggedsecondarySales.find(ss => tx.hash === ss.hash) }))
 
   console.log('Saving with tags...')
   saveToJSON('transactions.json', taggedTxns)

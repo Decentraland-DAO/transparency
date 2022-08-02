@@ -2,10 +2,83 @@ import BALANCES from '../public/balances.json'
 import GRANTS from '../public/grants.json'
 import TRANSACTIONS from '../public/transactions.json'
 import { TransactionParsed } from './export-transactions'
+import { BalanceDetails } from './interfaces/Api'
 import { Status } from './interfaces/GovernanceProposal'
-import { TransferType } from './interfaces/Transactions/Transfers'
-import { saveToJSON } from './utils'
 import { GrantProposal } from './interfaces/Grant'
+import { TransactionDetails } from './interfaces/Transactions/Transactions'
+import { TransferType } from './interfaces/Transactions/Transfers'
+import { getTransactionsPerTag, saveToJSON } from './utils'
+
+const tagDescriptions: Record<string, string> = {
+  'ESTATE DCL Marketplace Sales Fee': 'Funds corresponding to the 2.5% fee applied to every ESTATE transaction (Minting or secondary)',
+  'LAND  DCL Marketplace Sales Fee': 'Funds corresponding to the 2.5% fee applied to every LAND transaction (Minting or secondary)',
+  'NAME DCL Marketplace Sales Fee': 'Funds corresponding to the 2.5% fee applied to every NAME transaction (Minting or secondary)',
+  'Wearable L1 Sales Fee': 'Funds corresponding to the 2.5% fee applied to every Wearable transaction on Ethereum (Minting or secondary)',
+  'LooksRare Marketplace Fee': 'Funds corresponding to the 2.5% fee applied to every transaction (ESTATE, LAND, NAME & Wearables) on LooksRare marketplace',
+  'OpenSea Marketplace Fee': 'Funds corresponding to the 2.5% fee applied to every transaction (ESTATE, LAND, NAME & Wearables) on OpenSea marketplace',
+  'Wearable Submission Fee': 'Funds corresponding to the fee applied to every new Wearable submission to the Decentraland Marketplace',
+  'Wearables Minting Fee': 'Funds corresponding to the 2.5% fee applied to Wearables minting on Polygon network via the Decentraland Marketplace',
+  'DAO Committee': 'Transactions between the DAO Treasury and the DAO Committee wallets (e.g. Transaction gas refunds)',
+  'Community Grants Payout': 'Transactions corresponding to the funding of the vesting contracts for approved DAO Community Grants projects',
+  'Wearable Curators Committee Payout': 'Transactions corresponding to the payout of compensations for members of the Wearables Curation Committee',
+  'Community Facilitation Payout': 'Transactions corresponding to the payout for monthly compensations of the DAO Facilitator role',
+  'MANA Vesting Contract': 'Funds corresponding to the 10-year MANA vesting contract that the DAO holds',
+  'Other': 'Non-categorized or one-off transactions',
+}
+
+const tagGrouping: Record<string, string> = {
+  'ESTATE fee :: BID': 'ESTATE DCL Marketplace Sales Fee',
+  'Secondary Sale :: ESTATE fee': 'ESTATE DCL Marketplace Sales Fee',
+
+  'LAND fee :: BID': 'LAND  DCL Marketplace Sales Fee',
+  'Secondary Sale :: LAND fee': 'LAND  DCL Marketplace Sales Fee',
+
+  'NAME fee :: BID': 'NAME DCL Marketplace Sales Fee',
+  'Secondary Sale :: NAME fee': 'NAME DCL Marketplace Sales Fee',
+
+  'Wearable L1 fee :: BID': 'Wearable L1 Sales Fee',
+  'Secondary Sale :: Wearable L1 fee': 'Wearable L1 Sales Fee',
+
+  'LooksRare': 'LooksRare Marketplace Fee',
+  'OpenSea': 'OpenSea Marketplace Fee',
+  'Curation fee': 'Wearable Submission Fee',
+  'MATIC Marketplace': 'Wearables Minting Fee',
+  'DAO Committee Member': 'DAO Committee',
+  'Grant': 'Community Grants Payout',
+  'Curator': 'Wearable Curators Committee Payout',
+  'Facilitator': 'Community Facilitation Payout',
+  'Vesting Contract': 'MANA Vesting Contract',
+  'OTHER': 'Other',
+}
+
+function getTxsDetails(txs: Record<string, TransactionDetails>): BalanceDetails[] {
+  const groupedTxs: Record<string, number> = {}
+  const availableTags = new Set(Object.keys(tagGrouping))
+
+  for (const [tag, values] of Object.entries(txs)) {
+    if (!availableTags.has(tag)) {
+      continue
+    }
+
+    if (!groupedTxs[tagGrouping[tag]]) {
+      groupedTxs[tagGrouping[tag]] = values.total
+    }
+    else {
+      groupedTxs[tagGrouping[tag]] += values.total
+    }
+  }
+
+  const sortedDetails = Object.entries(groupedTxs).map<BalanceDetails>(([tag, value]) => ({
+    name: tag,
+    value,
+    description: tagDescriptions[tag] || '',
+  })).sort((a, b) => b.value - a.value)
+
+  // the "Other" tag is always last
+  sortedDetails.push(sortedDetails.splice(sortedDetails.findIndex(d => d.name === 'Other'), 1)[0])
+
+  return sortedDetails
+}
 
 const sumQuote = (txs: TransactionParsed[]) => txs.reduce((total, tx) => total + tx.quote, 0)
 
@@ -25,11 +98,7 @@ async function main() {
   const totalIncome60 = sumQuote(incomeTxs60)
   const incomeDelta = (totalIncome30 - totalIncome60) * 100 / totalIncome60
 
-  const totalVesting = sumQuote(incomeTxs30.filter(tx => tx.tag === 'Vesting Contract'))
-  const totalETHMarket = sumQuote(incomeTxs30.filter(tx => tx.tag === 'ETH Marketplace'))
-  const totalMATICMarket = sumQuote(incomeTxs30.filter(tx => tx.tag === 'MATIC Marketplace'))
-  const totalOpenSea = sumQuote(incomeTxs30.filter(tx => tx.tag === 'OpenSea'))
-  const otherIncome = totalIncome30 - totalVesting - totalETHMarket - totalMATICMarket - totalOpenSea
+  const incomeTaggedTxs = getTransactionsPerTag(incomeTxs30)
 
   const expensesTxs = txs.filter(tx => tx.type === TransferType.OUT)
   const expensesTxs30 = expensesTxs.filter(tx => new Date(tx.date) >= last30)
@@ -39,35 +108,25 @@ async function main() {
   const totalExpenses60 = sumQuote(expensesTxs60)
   const expensesDelta = (totalExpenses30 - totalExpenses60) * 100 / totalExpenses60
 
-  const totalFacilitator = sumQuote(expensesTxs30.filter(tx => tx.tag === 'Facilitator'))
-  const totalCurators = sumQuote(expensesTxs30.filter(tx => tx.tag === 'Curator'))
-  const totalGrants = sumQuote(expensesTxs30.filter(tx => tx.tag === 'Grant'))
-  const otherExpenses = totalExpenses30 - totalFacilitator - totalGrants - totalCurators
+  const expensesTaggedTxs = getTransactionsPerTag(expensesTxs30)
 
   const grants = GRANTS as GrantProposal[]
   const totalFunding = grants.filter(g => g.status === Status.ENACTED).reduce((a, g) => a + g.size, 0)
 
+  const incomeDetails = getTxsDetails(incomeTaggedTxs)
+  const expensesDetails = getTxsDetails(expensesTaggedTxs)
+
   const data = {
     'balances': BALANCES,
     'income': {
-      'total': totalIncome30,
+      'total': incomeDetails.reduce((acc, cur) => acc + cur.value, 0),
       'previous': incomeDelta,
-      'details': [
-        { 'name': 'Vesting Contract', 'value': totalVesting },
-        { 'name': 'ETH DCL Marketplace', 'value': totalETHMarket },
-        { 'name': 'MATIC DCL Marketplace', 'value': totalMATICMarket },
-        { 'name': 'OpenSea Marketplace', 'value': totalOpenSea },
-        { 'name': 'Other', 'value': otherIncome }
-      ]
+      'details': incomeDetails
     },
     'expenses': {
-      'total': totalExpenses30,
+      'total': expensesDetails.reduce((acc, cur) => acc + cur.value, 0),
       'previous': expensesDelta,
-      'details': [
-        { 'name': 'Curation Committee', 'value': totalCurators },
-        { 'name': 'Grants', 'value': totalGrants },
-        { 'name': 'Other', 'value': otherExpenses }
-      ]
+      'details': expensesDetails
     },
     'funding': {
       'total': totalFunding
