@@ -11,8 +11,6 @@ import { APITransactions } from './interfaces/Transactions/Transactions'
 import { APITransfers, TransferType } from './interfaces/Transactions/Transfers'
 import { COVALENT_API_KEY, fetchURL, flattenArray, saveToCSV, saveToJSON, setTransactionTag, splitArray } from './utils'
 
-
-require('dotenv').config()
 export interface TransactionParsed {
   wallet: string
   hash: string
