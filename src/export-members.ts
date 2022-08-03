@@ -1,21 +1,12 @@
 import snapshot from '@snapshot-labs/snapshot.js'
 import Networks from './entities/Networks'
 import { SnapshotSpace } from './interfaces/GovernanceProposal'
-import { STRATEGIES, Vote } from './interfaces/Members'
+import { MemberInfo, STRATEGIES, Vote } from './interfaces/Members'
 import { fetchGraphQL, flattenArray, parseVP, saveToCSV, saveToJSON, splitArray } from './utils'
 
 const MAX_RETRIES = 20
 
 require('dotenv').config()
-
-export interface MemberInfo {
-  address: string
-  totalVP: number
-  manaVP: number
-  landVP: number
-  namesVP: number
-  delegatedVP: number
-}
 
 const space = SnapshotSpace.DCL
 const network = Networks.ETHEREUM.id.toString()
@@ -46,6 +37,7 @@ async function getMembersInfo(addresses: string[], jobId: number) {
 
     info.push({
       address,
+      avatar: `https://wearable-preview.decentraland.org/?profile=${address}`,
       ...parseVP(scores)
     })
   }
@@ -69,13 +61,12 @@ async function main() {
   saveToJSON('members.json', info)
   saveToCSV('members.csv', info, [
     { id: 'address', title: 'Member' },
-    { id: 'dclName', title: 'DCL Name' },
-    { id: 'ensName', title: 'ENS Name' },
     { id: 'totalVP', title: 'Total VP' },
     { id: 'manaVP', title: 'MANA VP' },
     { id: 'landVP', title: 'LAND VP' },
     { id: 'namesVP', title: 'NAMES VP' },
-    { id: 'delegatedVP', title: 'Delegated VP' }
+    { id: 'delegatedVP', title: 'Delegated VP' },
+    { id: 'avatar', title: 'Avatar Preview' }
   ])
 }
 

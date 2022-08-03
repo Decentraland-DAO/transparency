@@ -12,7 +12,7 @@ export interface MemberVP {
 
 export type MemberInfo = MemberVP & {
   address: string
-  name: string
+  avatar: string
 }
 
 export interface DCLMember {
