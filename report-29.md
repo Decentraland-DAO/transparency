@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -26,7 +26,13 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since August 1, 1 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since August 1, 2 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Democratize Access to Decentraland for Renting, Marketing, and Hosting Events](https://governance.decentraland.org/proposal/?id=8a1e3180-0e3a-11ed-9d53-7b405ea02bcb) (Tier 3)
+
+* Yes 64.36112076601374% 1,435,076 VP (56 votes)
+* No 35.63887923398625% 794,649 VP (6 votes)
 
 
 #### [Vueltta x NFT Show Europe: Art Installation to Increase Decentraland Engagement](https://governance.decentraland.org/proposal/?id=99986a30-0cb5-11ed-92a2-218eab5ea42b) (Tier 3)
@@ -60,7 +66,6 @@ Since August 1, 1 grants have been approved and the vesting contract(s) will be 
 * [Exodus: Goodbye World Development](https://governance.decentraland.org/proposal/?id=4dcc98d0-10e6-11ed-affb-95d45c2147f8) (Tier 6)
 * [Integrate Metanomic Economy Design and Analytics for Decentraland Builders](https://governance.decentraland.org/proposal/?id=e2e3ce20-0f1a-11ed-affb-95d45c2147f8) (Tier 6)
 * [CROSSVERSE: A cross-metaverse play, learn, explore-to-earn game experience](https://governance.decentraland.org/proposal/?id=7e4f37c0-0e65-11ed-9d53-7b405ea02bcb) (Tier 4)
-* [Democratize Access to Decentraland for Renting, Marketing, and Hosting Events](https://governance.decentraland.org/proposal/?id=8a1e3180-0e3a-11ed-9d53-7b405ea02bcb) (Tier 3)
 * [Fun land so peoples come and play games and also buy some lottery ticket](https://governance.decentraland.org/proposal/?id=3aefa220-0e02-11ed-9d53-7b405ea02bcb) (Tier 6)
 * [Self-Service Audio/Video Streaming](https://governance.decentraland.org/proposal/?id=23813f00-0de8-11ed-9d53-7b405ea02bcb) (Tier 5)
 * [Creation of DAO-Owned Data Aggregation Layer for Decentraland Core](https://governance.decentraland.org/proposal/?id=66d76070-0d27-11ed-92a2-218eab5ea42b) (Tier 4)
@@ -76,5 +81,6 @@ Since August 1, 1 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+* [Would you support funding Decentraland community operations through loans on Fringe Finance?](https://governance.decentraland.org/proposal/?id=c4fc8f70-13c3-11ed-affb-95d45c2147f8)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
