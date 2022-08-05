@@ -94,8 +94,6 @@ Since July 16, 2 grants have been approved and the vesting contract(s) will be e
 * [Self-Service Audio/Video Streaming](https://governance.decentraland.org/proposal/?id=23813f00-0de8-11ed-9d53-7b405ea02bcb) (Tier 5)
 * [Creation of DAO-Owned Data Aggregation Layer for Decentraland Core](https://governance.decentraland.org/proposal/?id=66d76070-0d27-11ed-92a2-218eab5ea42b) (Tier 4)
 * [Develop new Low Latency Video Streaming components for SDK and builder.](https://governance.decentraland.org/proposal/?id=858cd0a0-0c18-11ed-92a2-218eab5ea42b) (Tier 4)
-* [Decentraland&#39;s most popular QuizZone 2.0 🥳](https://governance.decentraland.org/proposal/?id=58233e80-0928-11ed-8306-41196474443d) (Tier 4)
-* [Dungeons &amp; Dragons Metaverse Hub](https://governance.decentraland.org/proposal/?id=a5ae4290-0909-11ed-8306-41196474443d) (Tier 4)
 
 ## Names Bans
 

@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -26,7 +26,7 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since August 1, 2 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since August 1, 3 grants have been approved and the vesting contract(s) will be established within 7-10 days.
 
 
 #### [Democratize Access to Decentraland for Renting, Marketing, and Hosting Events](https://governance.decentraland.org/proposal/?id=8a1e3180-0e3a-11ed-9d53-7b405ea02bcb) (Tier 3)
@@ -39,6 +39,12 @@ Since August 1, 2 grants have been approved and the vesting contract(s) will be 
 
 * Yes 99.99943533331216% 1,416,757 VP (44 votes)
 * No 0.0005646666878416675% 8 VP (1 votes)
+
+
+#### [Decentraland&#39;s most popular QuizZone 2.0 🥳](https://governance.decentraland.org/proposal/?id=58233e80-0928-11ed-8306-41196474443d) (Tier 4)
+
+* Yes 79.4936997739255% 2,563,706 VP (73 votes)
+* No 20.506300226074504% 661,337 VP (2 votes)
 
 
 ## Polls
@@ -70,8 +76,6 @@ Since August 1, 2 grants have been approved and the vesting contract(s) will be 
 * [Self-Service Audio/Video Streaming](https://governance.decentraland.org/proposal/?id=23813f00-0de8-11ed-9d53-7b405ea02bcb) (Tier 5)
 * [Creation of DAO-Owned Data Aggregation Layer for Decentraland Core](https://governance.decentraland.org/proposal/?id=66d76070-0d27-11ed-92a2-218eab5ea42b) (Tier 4)
 * [Develop new Low Latency Video Streaming components for SDK and builder.](https://governance.decentraland.org/proposal/?id=858cd0a0-0c18-11ed-92a2-218eab5ea42b) (Tier 4)
-* [Decentraland&#39;s most popular QuizZone 2.0 🥳](https://governance.decentraland.org/proposal/?id=58233e80-0928-11ed-8306-41196474443d) (Tier 4)
-* [Dungeons &amp; Dragons Metaverse Hub](https://governance.decentraland.org/proposal/?id=a5ae4290-0909-11ed-8306-41196474443d) (Tier 4)
 
 ## Names Bans
 
