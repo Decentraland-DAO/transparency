@@ -61,11 +61,14 @@ Since August 1, 3 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
+* 42, -55: [Gleiss Lutz](https://governance.decentraland.org/proposal/?id=818ae730-14ba-11ed-affb-95d45c2147f8)
 * -30, -31: [Quontic](https://governance.decentraland.org/proposal/?id=46f01db0-126d-11ed-affb-95d45c2147f8)
 * 120, -4: [Abdi İbrahim Pharmaceuticals](https://governance.decentraland.org/proposal/?id=4ec616f0-1189-11ed-affb-95d45c2147f8)
 
 ## Grants
 
+* [Wearable Advertising Space Facility &amp; Decentraland Loyalty Points Programme](https://governance.decentraland.org/proposal/?id=df8dde50-155a-11ed-affb-95d45c2147f8) (Tier 5)
+* [Cryptohunt: a learning portal that onboards beginners to the web3 world](https://governance.decentraland.org/proposal/?id=a8051160-151e-11ed-affb-95d45c2147f8) (Tier 4)
 * [Provide fundamental Decentraland metrics  to the community for free](https://governance.decentraland.org/proposal/?id=ac2b57f0-12ac-11ed-affb-95d45c2147f8) (Tier 4)
 * [Decentral Comedy Promo at Skankfest Vegas/Backstage Access to Skankfest for DCL](https://governance.decentraland.org/proposal/?id=949f3b40-11f0-11ed-affb-95d45c2147f8) (Tier 5)
 * [Creation of quality content for the Spanish-speaking community](https://governance.decentraland.org/proposal/?id=eca738b0-1119-11ed-affb-95d45c2147f8) (Tier 2)
