@@ -61,6 +61,7 @@ Since August 1, 3 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
+* 115, -140: [Green Fairy&#39;s Jura Absinthe lair](https://governance.decentraland.org/proposal/?id=8e4ba400-158c-11ed-affb-95d45c2147f8)
 * 42, -55: [Gleiss Lutz](https://governance.decentraland.org/proposal/?id=818ae730-14ba-11ed-affb-95d45c2147f8)
 * -30, -31: [Quontic](https://governance.decentraland.org/proposal/?id=46f01db0-126d-11ed-affb-95d45c2147f8)
 * 120, -4: [Abdi İbrahim Pharmaceuticals](https://governance.decentraland.org/proposal/?id=4ec616f0-1189-11ed-affb-95d45c2147f8)
