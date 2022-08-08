@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -26,7 +26,13 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since August 1, 3 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since August 1, 4 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Creation of quality content for the Spanish-speaking community](https://governance.decentraland.org/proposal/?id=eca738b0-1119-11ed-affb-95d45c2147f8) (Tier 2)
+
+* Yes 75.9097093276973% 1,774,268 VP (67 votes)
+* No 24.090290672302704% 563,072 VP (11 votes)
 
 
 #### [Democratize Access to Decentraland for Renting, Marketing, and Hosting Events](https://governance.decentraland.org/proposal/?id=8a1e3180-0e3a-11ed-9d53-7b405ea02bcb) (Tier 3)
@@ -68,11 +74,12 @@ Since August 1, 3 grants have been approved and the vesting contract(s) will be 
 
 ## Grants
 
+* [I ask the community&#39;s help to recover my lost mana for a big mistake!](https://governance.decentraland.org/proposal/?id=b25f6830-1682-11ed-affb-95d45c2147f8) (Tier 1)
+* [[Resubmission] Dungeons and Dragons &amp; Decentraland](https://governance.decentraland.org/proposal/?id=12f794f0-167a-11ed-affb-95d45c2147f8) (Tier 4)
 * [Wearable Advertising Space Facility &amp; Decentraland Loyalty Points Programme](https://governance.decentraland.org/proposal/?id=df8dde50-155a-11ed-affb-95d45c2147f8) (Tier 5)
 * [Cryptohunt: a learning portal that onboards beginners to the web3 world](https://governance.decentraland.org/proposal/?id=a8051160-151e-11ed-affb-95d45c2147f8) (Tier 4)
 * [Provide fundamental Decentraland metrics  to the community for free](https://governance.decentraland.org/proposal/?id=ac2b57f0-12ac-11ed-affb-95d45c2147f8) (Tier 4)
 * [Decentral Comedy Promo at Skankfest Vegas/Backstage Access to Skankfest for DCL](https://governance.decentraland.org/proposal/?id=949f3b40-11f0-11ed-affb-95d45c2147f8) (Tier 5)
-* [Creation of quality content for the Spanish-speaking community](https://governance.decentraland.org/proposal/?id=eca738b0-1119-11ed-affb-95d45c2147f8) (Tier 2)
 * [Exodus: Goodbye World Development](https://governance.decentraland.org/proposal/?id=4dcc98d0-10e6-11ed-affb-95d45c2147f8) (Tier 6)
 * [Integrate Metanomic Economy Design and Analytics for Decentraland Builders](https://governance.decentraland.org/proposal/?id=e2e3ce20-0f1a-11ed-affb-95d45c2147f8) (Tier 6)
 * [CROSSVERSE: A cross-metaverse play, learn, explore-to-earn game experience](https://governance.decentraland.org/proposal/?id=7e4f37c0-0e65-11ed-9d53-7b405ea02bcb) (Tier 4)
