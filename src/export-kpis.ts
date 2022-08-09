@@ -10,7 +10,7 @@ import { VotesParsed } from './export-votes'
 import { GovernanceProposalType, Status } from './interfaces/GovernanceProposal'
 import { GrantProposal } from './interfaces/Grant'
 import { KPI } from './interfaces/KPIs'
-import { MemberInfo } from './interfaces/Members'
+import { MemberInfo, MemberVP } from './interfaces/Members'
 import { ProposalParsed } from './interfaces/Proposal'
 import { FeeDetails } from './interfaces/Transactions/Transactions'
 import { TransferType } from './interfaces/Transactions/Transfers'
@@ -25,7 +25,7 @@ function main() {
   const transactions = TRANSACTIONS as TransactionParsed[]
   const balances = BALANCES as BalanceParsed[]
 
-  const VPSources = Object.keys(members[0]).slice(1)
+  const vpSources: (keyof MemberVP)[] = ['totalVP', 'manaVP', 'landVP', 'namesVP', 'delegatedVP']
   const totalVP = sum(members.map(member => member.totalVP))
 
   const kpis: KPI[] = [
@@ -49,7 +49,7 @@ function main() {
     },
     {
       header: ['VP sources', 'Members', 'VP Amount', 'VP percentage'],
-      rows: VPSources.map(source => {
+      rows: vpSources.map(source => {
         if (source === 'totalVP') {
           return [source, '', Math.round(totalVP)]
         }
