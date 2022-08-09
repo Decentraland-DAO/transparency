@@ -1,3 +1,5 @@
+import { Tokens } from './entities/Tokens'
+import { NetworkName } from './entities/Networks'
 import BigNumber from 'bignumber.js'
 import { createObjectCsvWriter } from 'csv-writer'
 import { ObjectStringifierHeader } from 'csv-writer/src/lib/record'
@@ -14,6 +16,7 @@ require('dotenv').config()
 
 export const COVALENT_API_KEY = process.env.COVALENTHQ_API_KEY
 export const INFURA_URL = process.env.INFURA_URL
+export const DECENTRALAND_DATA_URL = process.env.DECENTRALAND_DATA_URL
 
 export function sum(array: number[]) {
   return array.reduce((prev, curr) => prev + curr, 0)
@@ -258,4 +261,23 @@ export function parseVP(scores: number[]): MemberVP {
     namesVP: scores[4],
     delegatedVP: scores[5]
   }
+}
+
+export type LatestBlocks = Record<NetworkName, Record<string, number>>
+export function getLatestBlockByToken(txs: TransactionParsed[]): LatestBlocks {
+  const latestBlocks: LatestBlocks = {
+    [NetworkName.ETHEREUM]: {},
+    [NetworkName.POLYGON]: {}
+  }
+
+  for (const network of Object.values(NetworkName)) {
+    for (const tokenAddress of Tokens.getAddresses(network)) {
+      const latestBlock = txs.filter(tx => tx.network === network && tx.contract.toLowerCase() === tokenAddress).map(tx => tx.block).sort((a, b) => b - a)[0]
+      if (latestBlock) {
+        latestBlocks[network][tokenAddress] = latestBlock
+      }
+    }
+  }
+
+  return latestBlocks
 }

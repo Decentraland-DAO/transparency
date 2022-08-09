@@ -9,7 +9,7 @@ import { GrantProposal } from './interfaces/Grant'
 import { APIEvents } from './interfaces/Transactions/Events'
 import { APITransactions } from './interfaces/Transactions/Transactions'
 import { APITransfers, TransferType } from './interfaces/Transactions/Transfers'
-import { COVALENT_API_KEY, fetchURL, flattenArray, saveToCSV, saveToJSON, setTransactionTag, splitArray } from './utils'
+import { COVALENT_API_KEY, DECENTRALAND_DATA_URL, fetchURL, flattenArray, getLatestBlockByToken, LatestBlocks, saveToCSV, saveToJSON, setTransactionTag, splitArray } from './utils'
 
 export interface TransactionParsed {
   wallet: string
@@ -57,7 +57,7 @@ async function getTopicTxs(network: NetworkType, startblock: number, topic: Topi
   let url = `https://api.covalenthq.com/v1/${network.id}/block_v2/latest/?key=${COVALENT_API_KEY}`
   let json = await fetchURL(url)
   const latestBlock: number = json.data.items[0].height
-  console.log('Latest', network, block, latestBlock, (latestBlock - block) / 1000000)
+  console.log(`Latest ${JSON.stringify(network)} - start block: ${block} - latest block: ${latestBlock} - ${(latestBlock - block) / 1000000}`)
 
   while (block < latestBlock) {
     url = `https://api.covalenthq.com/v1/${network.id}/events/topics/${topic}/?key=${COVALENT_API_KEY}&starting-block=${block}&ending-block=${block + 1000000}&page-size=1000000000`
@@ -72,8 +72,8 @@ async function getTopicTxs(network: NetworkType, startblock: number, topic: Topi
   return events
 }
 
-async function getTransactions(name: string, tokenAddress: string, network: NetworkType, address: string) {
-  const url = `https://api.covalenthq.com/v1/${network.id}/address/${address}/transfers_v2/?key=${COVALENT_API_KEY}&contract-address=${tokenAddress}&page-size=500000`
+async function getTransactions(name: string, tokenAddress: string, network: NetworkType, address: string, startBlock?: number) {
+  const url = `https://api.covalenthq.com/v1/${network.id}/address/${address}/transfers_v2/?key=${COVALENT_API_KEY}&contract-address=${tokenAddress}&page-size=500000${startBlock >= 0 ? `&starting-block=${startBlock + 1}` : ''}`
   const json = await fetchURL(url)
   const data: APITransfers = json.data
   const txs = data.items.filter(t => t.successful)
@@ -163,29 +163,6 @@ function saveTransactions(txs: TransactionParsed[], tagged = false) {
   ])
 }
 
-async function main() {
-  const unresolvedTransactions: Promise<TransactionParsed[]>[] = []
-
-  for (const wallet of Wallets.get()) {
-    const { name, address, network } = wallet
-    const tokenAddresses = Tokens.getAddresses(network.name)
-
-    for (const tokenAddress of tokenAddresses) {
-      unresolvedTransactions.push(getTransactions(name, tokenAddress, network, address))
-    }
-  }
-
-  let transactions = flattenArray(await Promise.all(unresolvedTransactions))
-
-  transactions = transactions.sort((a, b) => a.date > b.date ? -1 : a.date === a.date ? 0 : 1)
-  console.log(transactions.length, 'transactions found.')
-
-  saveTransactions(transactions)
-
-  console.log('Tagging...')
-  await tagging(transactions)
-}
-
 async function tagging(txs: TransactionParsed[]) {
 
   const ethTxs = txs.filter(t => t.network === Networks.ETHEREUM.name)
@@ -258,8 +235,49 @@ async function tagging(txs: TransactionParsed[]) {
 
   taggedTxns = taggedTxns.map(tx => ({ ...tx, ...taggedsecondarySales.find(ss => tx.hash === ss.hash) }))
 
+  return taggedTxns
+}
+
+async function main() {
+  let latestBlocks: LatestBlocks = {
+    [NetworkName.ETHEREUM]: {},
+    [NetworkName.POLYGON]: {}
+  }
+  let lastTransactions: TransactionParsed[] = []
+  const unresolvedTransactions: Promise<TransactionParsed[]>[] = []
+
+  const fullFetch = process.argv.includes('--full')
+
+  if(!fullFetch) {
+    lastTransactions = await fetchURL(`${DECENTRALAND_DATA_URL}/transactions.json`)
+    latestBlocks = await getLatestBlockByToken(lastTransactions)
+    console.log('Latest Blocks:', latestBlocks)
+  }
+  else {
+    console.log('WARNING: fetching all transactions')
+  }
+
+  for (const wallet of Wallets.get()) {
+    const { name, address, network } = wallet
+    const tokenAddresses = Tokens.getAddresses(network.name)
+
+    for (const tokenAddress of tokenAddresses) {
+      unresolvedTransactions.push(getTransactions(name, tokenAddress, network, address, latestBlocks[network.name][tokenAddress]))
+    }
+  }
+
+  let transactions = flattenArray(await Promise.all(unresolvedTransactions))
+
+  transactions = transactions.sort((a, b) => a.date > b.date ? -1 : a.date === a.date ? 0 : 1)
+  console.log(transactions.length, 'transactions found.')
+
+  console.log('Tagging...')
+  const taggedTxns = await tagging(transactions)
+
+  transactions =  !fullFetch ? [...taggedTxns, ...lastTransactions] : taggedTxns
+
   console.log('Saving with tags...')
-  saveTransactions(taggedTxns, true)
+  saveTransactions(transactions, true)
 }
 
 main()
