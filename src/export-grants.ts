@@ -7,8 +7,8 @@ import Networks from './entities/Networks'
 import { Tokens } from './entities/Tokens'
 import { GovernanceProposalType, Status } from './interfaces/GovernanceProposal'
 import { GrantProposal } from './interfaces/Grant'
-import { APITransactions, Decoded, DecodedName, ParamName } from './interfaces/Transactions/Transactions'
-import { COVALENT_API_KEY, fetchURL, INFURA_URL, parseNumber, saveToCSV, saveToJSON } from './utils'
+import { Decoded, DecodedName, ParamName, TransactionItem } from './interfaces/Transactions/Transactions'
+import { COVALENT_API_KEY, fetchCovalentURL, INFURA_URL, parseNumber, saveToCSV, saveToJSON } from './utils'
 
 const web3 = new Web3(INFURA_URL)
 
@@ -67,13 +67,8 @@ function transferMatchesBeneficiary(decodedLogEvent: Decoded, beneficiary: strin
 }
 
 async function getTransactionItems(enactingTx: string) {
-  const url = `https://api.covalenthq.com/v1/${Networks.ETHEREUM.id}/transaction_v2/${enactingTx}/?key=${COVALENT_API_KEY}`
-  const json = await fetchURL(url)
-  if (json.error) {
-    throw new Error(JSON.stringify(json))
-  }
-  const data: APITransactions = json.data
-  return data.items[0]
+  const items = await fetchCovalentURL<TransactionItem>(`https://api.covalenthq.com/v1/${Networks.ETHEREUM.id}/transaction_v2/${enactingTx}/?key=${COVALENT_API_KEY}`, 0)
+  return items[0]
 }
 
 async function getEnactingTxData(proposalId: string, enactingTx: string, beneficiary: string) {

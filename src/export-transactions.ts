@@ -6,10 +6,10 @@ import { Tokens, TokenSymbols } from './entities/Tokens'
 import { Wallets } from './entities/Wallets'
 import { Status } from './interfaces/GovernanceProposal'
 import { GrantProposal } from './interfaces/Grant'
-import { APIEvents } from './interfaces/Transactions/Events'
-import { APITransactions } from './interfaces/Transactions/Transactions'
-import { APITransfers, TransferType } from './interfaces/Transactions/Transfers'
-import { COVALENT_API_KEY, DECENTRALAND_DATA_URL, fetchURL, flattenArray, getLatestBlockByToken, LatestBlocks, saveToCSV, saveToJSON, setTransactionTag, splitArray } from './utils'
+import { EventItem } from './interfaces/Transactions/Events'
+import { TransactionItem } from './interfaces/Transactions/Transactions'
+import { TransferItem, TransferType } from './interfaces/Transactions/Transfers'
+import { COVALENT_API_KEY, DECENTRALAND_DATA_URL, fetchCovalentURL, fetchURL, flattenArray, getLatestBlockByToken, LatestBlocks, saveToCSV, saveToJSON, setTransactionTag, splitArray } from './utils'
 
 export interface TransactionParsed {
   wallet: string
@@ -52,31 +52,29 @@ const OPENSEA_ADDRESSES = new Set([
 ])
 
 async function getTopicTxs(network: NetworkType, startblock: number, topic: Topic) {
-  const events: string[] = []
+  const eventHashes: string[] = []
   let block = startblock
-  let url = `https://api.covalenthq.com/v1/${network.id}/block_v2/latest/?key=${COVALENT_API_KEY}`
-  let json = await fetchURL(url)
-  const latestBlock: number = json.data.items[0].height
+  const response = await fetchCovalentURL<{height: number}>(`https://api.covalenthq.com/v1/${network.id}/block_v2/latest/?key=${COVALENT_API_KEY}`, 0)
+  const latestBlock = response[0].height
   console.log(`Latest ${JSON.stringify(network)} - start block: ${block} - latest block: ${latestBlock} - ${(latestBlock - block) / 1000000}`)
 
   while (block < latestBlock) {
-    url = `https://api.covalenthq.com/v1/${network.id}/events/topics/${topic}/?key=${COVALENT_API_KEY}&starting-block=${block}&ending-block=${block + 1000000}&page-size=1000000000`
+    const url = `https://api.covalenthq.com/v1/${network.id}/events/topics/${topic}/?key=${COVALENT_API_KEY}&starting-block=${block}&ending-block=${block + 1000000}`
     console.log('fetch', url)
-    json = await fetchURL(url)
-    const data: APIEvents = json.data
-    const eventsTransactions = data.items.map(e => e.tx_hash)
-    events.push(...eventsTransactions)
+    const events = await fetchCovalentURL<EventItem>(url, 1000000)
+    const txHashes = events.map(e => e.tx_hash)
+    eventHashes.push(...txHashes)
     block += 1000000
   }
 
-  return events
+  return eventHashes
 }
 
 async function getTransactions(name: string, tokenAddress: string, network: NetworkType, address: string, startBlock?: number) {
-  const url = `https://api.covalenthq.com/v1/${network.id}/address/${address}/transfers_v2/?key=${COVALENT_API_KEY}&contract-address=${tokenAddress}&page-size=500000${startBlock >= 0 ? `&starting-block=${startBlock + 1}` : ''}`
-  const json = await fetchURL(url)
-  const data: APITransfers = json.data
-  const txs = data.items.filter(t => t.successful)
+  const url = `https://api.covalenthq.com/v1/${network.id}/address/${address}/transfers_v2/?key=${COVALENT_API_KEY}&contract-address=${tokenAddress}${startBlock >= 0 ? `&starting-block=${startBlock + 1}` : ''}`
+  const items = await fetchCovalentURL<TransferItem>(url, 100000)
+
+  const txs = items.filter(t => t.successful)
 
   const transactions: TransactionParsed[] = []
 
@@ -121,12 +119,10 @@ async function findSecondarySalesTag(txs: TransactionParsed[], chunk: number) {
     do {
       try {
         const networkId = Networks.get(tx.network).id
-        const url = `https://api.covalenthq.com/v1/${networkId}/transaction_v2/${tx.hash}/?key=${COVALENT_API_KEY}`
-        const json = await fetchURL(url)
-        const data: APITransactions = json.data
+        const data = await fetchCovalentURL<TransactionItem>(`https://api.covalenthq.com/v1/${networkId}/transaction_v2/${tx.hash}/?key=${COVALENT_API_KEY}`, 0)
         fetched = true
 
-        const log = data.items[0].log_events.find(log => Tags.isItemContract(log.sender_address))
+        const log = data[0].log_events.find(log => Tags.isItemContract(log.sender_address))
 
         if (log) {
           tx.tag = Tags.getSecondarySale(log.sender_address)
@@ -254,7 +250,7 @@ async function main() {
     console.log('Latest Blocks:', latestBlocks)
   }
   else {
-    console.log('WARNING: fetching all transactions')
+    console.log('\n\n###################### WARNING: fetching all transactions ######################\n\n')
   }
 
   for (const wallet of Wallets.get()) {

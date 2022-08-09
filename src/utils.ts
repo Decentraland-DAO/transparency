@@ -11,6 +11,7 @@ import { KPI } from './interfaces/KPIs'
 import { MemberVP } from './interfaces/Members'
 import { TransactionDetails } from './interfaces/Transactions/Transactions'
 import { TransferType } from './interfaces/Transactions/Transfers'
+import { CovalentResponse } from './interfaces/Covalent'
 
 require('dotenv').config()
 
@@ -66,6 +67,32 @@ export async function fetchURL(url: string, options?: RequestInit, retry?: numbe
     await delay(2000)
     return await fetchURL(url, options, retry - 1)
   }
+}
+
+export async function fetchCovalentURL<T>(url: string, pageSize = 10000) {
+  let hasNext = true
+  const result: T[] = []
+  let page = 0
+  let retries = 3
+
+  while (hasNext) {
+    const response: CovalentResponse<T> = await fetchURL(url + (pageSize === 0 ? '' : `&page-size=${pageSize}&page-number=${page}`))
+
+    if(response.error) {
+      if (retries > 0) {
+        retries--
+        console.log(`Retrying ${url}`)
+        continue
+      }
+      throw Error(`Failed to fetch ${url} - message: ${response.error_message} - code: ${response.error_code}`)
+    }
+
+    result.push(...response.data.items)
+    page++
+    hasNext = response.data.pagination && response.data.pagination.has_more
+  }
+
+  return result
 }
 
 export async function fetchGraphQL<T>(url: string, collection: string, where: string, orderBy: string, fields: string, first?: number): Promise<T[]> {
