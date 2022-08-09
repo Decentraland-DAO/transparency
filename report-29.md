@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -26,7 +26,7 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since August 1, 4 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since August 1, 5 grants have been approved and the vesting contract(s) will be established within 7-10 days.
 
 
 #### [Creation of quality content for the Spanish-speaking community](https://governance.decentraland.org/proposal/?id=eca738b0-1119-11ed-affb-95d45c2147f8) (Tier 2)
@@ -47,6 +47,12 @@ Since August 1, 4 grants have been approved and the vesting contract(s) will be 
 * No 0.0005646666878416675% 8 VP (1 votes)
 
 
+#### [Develop new Low Latency Video Streaming components for SDK and builder.](https://governance.decentraland.org/proposal/?id=858cd0a0-0c18-11ed-92a2-218eab5ea42b) (Tier 4)
+
+* Yes 100% 4,106,019 VP (71 votes)
+* No 0% 0 VP (0 votes)
+
+
 #### [Decentraland&#39;s most popular QuizZone 2.0 🥳](https://governance.decentraland.org/proposal/?id=58233e80-0928-11ed-8306-41196474443d) (Tier 4)
 
 * Yes 79.4936997739255% 2,563,706 VP (73 votes)
@@ -54,6 +60,13 @@ Since August 1, 4 grants have been approved and the vesting contract(s) will be 
 
 
 ## Polls
+
+#### [Would you support funding Decentraland community operations through loans on Fringe Finance?](https://governance.decentraland.org/proposal/?id=c4fc8f70-13c3-11ed-affb-95d45c2147f8)
+
+* Support funding $MANA community operations on Fringe Finance’s Primary Lending Platform 0.10296861406005621% 819 VP (22 votes)
+* Do not support 74.65237091834426% 593,776 VP (17 votes)
+* Invalid question/options 25.244660467595686% 200,793 VP (10 votes)
+
 
 #### [Process for Establishing Formal Working Groups](https://governance.decentraland.org/proposal/?id=bcf89060-0e5c-11ed-9d53-7b405ea02bcb)
 
@@ -70,7 +83,6 @@ Since August 1, 4 grants have been approved and the vesting contract(s) will be 
 * 115, -140: [Green Fairy&#39;s Jura Absinthe lair](https://governance.decentraland.org/proposal/?id=8e4ba400-158c-11ed-affb-95d45c2147f8)
 * 42, -55: [Gleiss Lutz](https://governance.decentraland.org/proposal/?id=818ae730-14ba-11ed-affb-95d45c2147f8)
 * -30, -31: [Quontic](https://governance.decentraland.org/proposal/?id=46f01db0-126d-11ed-affb-95d45c2147f8)
-* 120, -4: [Abdi İbrahim Pharmaceuticals](https://governance.decentraland.org/proposal/?id=4ec616f0-1189-11ed-affb-95d45c2147f8)
 
 ## Grants
 
@@ -86,7 +98,6 @@ Since August 1, 4 grants have been approved and the vesting contract(s) will be 
 * [Fun land so peoples come and play games and also buy some lottery ticket](https://governance.decentraland.org/proposal/?id=3aefa220-0e02-11ed-9d53-7b405ea02bcb) (Tier 6)
 * [Self-Service Audio/Video Streaming](https://governance.decentraland.org/proposal/?id=23813f00-0de8-11ed-9d53-7b405ea02bcb) (Tier 5)
 * [Creation of DAO-Owned Data Aggregation Layer for Decentraland Core](https://governance.decentraland.org/proposal/?id=66d76070-0d27-11ed-92a2-218eab5ea42b) (Tier 4)
-* [Develop new Low Latency Video Streaming components for SDK and builder.](https://governance.decentraland.org/proposal/?id=858cd0a0-0c18-11ed-92a2-218eab5ea42b) (Tier 4)
 
 ## Names Bans
 
@@ -96,6 +107,5 @@ Since August 1, 4 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
-* [Would you support funding Decentraland community operations through loans on Fringe Finance?](https://governance.decentraland.org/proposal/?id=c4fc8f70-13c3-11ed-affb-95d45c2147f8)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
