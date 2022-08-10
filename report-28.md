@@ -79,16 +79,17 @@ Since July 16, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
+* 18, -66: [DigiFun Official](https://governance.decentraland.org/proposal/?id=43d26ad0-187f-11ed-96c7-2fa07c6df25b)
 * 115, -140: [Green Fairy&#39;s Jura Absinthe lair](https://governance.decentraland.org/proposal/?id=8e4ba400-158c-11ed-affb-95d45c2147f8)
 * 42, -55: [Gleiss Lutz](https://governance.decentraland.org/proposal/?id=818ae730-14ba-11ed-affb-95d45c2147f8)
-* -30, -31: [Quontic](https://governance.decentraland.org/proposal/?id=46f01db0-126d-11ed-affb-95d45c2147f8)
 
 ## Grants
 
+* [SinfulMeatStick - Community Building, Onboarding, Education, and Growth](https://governance.decentraland.org/proposal/?id=18c27260-17fb-11ed-affb-95d45c2147f8) (Tier 4)
+* [LendIT - an NFT rental system](https://governance.decentraland.org/proposal/?id=6c196240-17d1-11ed-affb-95d45c2147f8) (Tier 5)
 * [I ask the community&#39;s help to recover my lost mana for a big mistake!](https://governance.decentraland.org/proposal/?id=b25f6830-1682-11ed-affb-95d45c2147f8) (Tier 1)
 * [[Resubmission] Dungeons and Dragons &amp; Decentraland](https://governance.decentraland.org/proposal/?id=12f794f0-167a-11ed-affb-95d45c2147f8) (Tier 4)
 * [Wearable Advertising Space Facility &amp; Decentraland Loyalty Points Programme](https://governance.decentraland.org/proposal/?id=df8dde50-155a-11ed-affb-95d45c2147f8) (Tier 5)
-* [Cryptohunt: a learning portal that onboards beginners to the web3 world](https://governance.decentraland.org/proposal/?id=a8051160-151e-11ed-affb-95d45c2147f8) (Tier 4)
 * [Provide fundamental Decentraland metrics  to the community for free](https://governance.decentraland.org/proposal/?id=ac2b57f0-12ac-11ed-affb-95d45c2147f8) (Tier 4)
 * [Decentral Comedy Promo at Skankfest Vegas/Backstage Access to Skankfest for DCL](https://governance.decentraland.org/proposal/?id=949f3b40-11f0-11ed-affb-95d45c2147f8) (Tier 5)
 * [Exodus: Goodbye World Development](https://governance.decentraland.org/proposal/?id=4dcc98d0-10e6-11ed-affb-95d45c2147f8) (Tier 6)
@@ -96,7 +97,6 @@ Since July 16, 2 grants have been approved and the vesting contract(s) will be e
 * [CROSSVERSE: A cross-metaverse play, learn, explore-to-earn game experience](https://governance.decentraland.org/proposal/?id=7e4f37c0-0e65-11ed-9d53-7b405ea02bcb) (Tier 4)
 * [Fun land so peoples come and play games and also buy some lottery ticket](https://governance.decentraland.org/proposal/?id=3aefa220-0e02-11ed-9d53-7b405ea02bcb) (Tier 6)
 * [Self-Service Audio/Video Streaming](https://governance.decentraland.org/proposal/?id=23813f00-0de8-11ed-9d53-7b405ea02bcb) (Tier 5)
-* [Creation of DAO-Owned Data Aggregation Layer for Decentraland Core](https://governance.decentraland.org/proposal/?id=66d76070-0d27-11ed-92a2-218eab5ea42b) (Tier 4)
 
 ## Names Bans
 
@@ -106,5 +106,8 @@ Since July 16, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Make grant requests progressive as requirement since Tier 4 (60 000)](https://governance.decentraland.org/proposal/?id=deedf500-17f0-11ed-affb-95d45c2147f8)
+* [Reward VP to wearable creators by the amount they spent publishing a wearable](https://governance.decentraland.org/proposal/?id=779fb010-17ef-11ed-affb-95d45c2147f8)
+* [Change threshold system to pass a proposal to the difference between YES and NO](https://governance.decentraland.org/proposal/?id=9a237890-17ec-11ed-affb-95d45c2147f8)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
