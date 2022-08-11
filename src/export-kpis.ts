@@ -15,6 +15,7 @@ import { ProposalParsed } from './interfaces/Proposal'
 import { FeeDetails } from './interfaces/Transactions/Transactions'
 import { TransferType } from './interfaces/Transactions/Transfers'
 import { avg, dayToMilisec, getTransactionsPerTag, median, saveToJSON, sum } from './utils'
+import { getRatio, getVPDistributionRows } from './kpis-utils'
 
 
 function main() {
@@ -33,8 +34,8 @@ function main() {
       header: ['Proposals'],
       rows: [
         ['DAO Launch', '5/24/2021', new Date().toLocaleDateString('en-US')],
-        ['Proposals created', proposals.length],
-      ],
+        ['Proposals created', proposals.length]
+      ]
     },
     {
       header: ['Proposals by Status', 'Amount', 'Percentage'],
@@ -99,40 +100,11 @@ function main() {
 main()
 
 
-function getRatio(value: number, total: number) {
-  const ratio = value / total
-  return `${(ratio * 100).toFixed(2)}%`
-}
-
 function getRowsByProposalStatus(proposals: ProposalParsed[]) {
   return Object.values(Status).map(status => {
     const count = proposals.filter(p => p.status === status).length
     return [status, count, getRatio(count, proposals.length)]
   })
-}
-
-function getVPDistributionRows(members: MemberInfo[], totalVP: number) {
-  const rows: any[] = [['Total Members', members.length, '', Math.round(totalVP)]]
-  const limits = [1e6, 1e5, 1e4, 1e3]
-  const lookup = {
-    "M": 1e6,
-    "k": 1e3
-  }
-
-  for (let idx = 0; idx < limits.length; idx++) {
-    const title = `Members w/ >=${limits[idx] === lookup.M ? '1M' : `${limits[idx] / lookup.k}k`} VP`
-    const filteredMembers = members.filter(member => member.totalVP >= limits[idx] && (idx > 0 ? member.totalVP < limits[idx - 1] : true))
-    const vp = sum(filteredMembers.map(member => member.totalVP))
-
-    rows.push([title, filteredMembers.length, getRatio(filteredMembers.length, members.length), Math.round(vp), getRatio(vp, totalVP)])
-  }
-
-  const title = `Members w/ <1k VP`
-  const filteredMembers = members.filter(member => member.totalVP < limits[limits.length - 1])
-  const vp = sum(filteredMembers.map(member => member.totalVP))
-  rows.push([title, filteredMembers.length, getRatio(filteredMembers.length, members.length), Math.round(vp), getRatio(vp, totalVP)])
-
-  return rows
 }
 
 function getParticipationRows(members: MemberInfo[], proposals: ProposalParsed[], votes: VotesParsed[]) {
@@ -147,7 +119,7 @@ function getParticipationRows(members: MemberInfo[], proposals: ProposalParsed[]
     ['Median votes per proposal', Math.round(median(proposalVotes))],
     ['Avg votes per proposal', Math.round(avg(proposalVotes))],
     ['Median VP per proposal', Math.round(median(proposalVP))],
-    ['Avg VP per proposal', Math.round(avg(proposalVP))],
+    ['Avg VP per proposal', Math.round(avg(proposalVP))]
   ]
 
 }
@@ -171,7 +143,7 @@ function getTransactionRows(transactions: TransactionParsed[]) {
     ['Total Txs', transactions.length, sum(transactions.map(tx => tx.quote))],
     ['Total In', inTxns.length, sum(inTxns.map(tx => tx.quote))],
     ['Total Out', outTxns.length, sum(outTxns.map(tx => tx.quote))],
-    ['Total Internal', innerTxns.length, sum(innerTxns.map(tx => tx.quote))],
+    ['Total Internal', innerTxns.length, sum(innerTxns.map(tx => tx.quote))]
   ]
 }
 
@@ -199,7 +171,7 @@ function getFees(transactions: TransactionParsed[], type: TransferType) {
     'Last 6 months': (details) => filterDays(details, 180),
     'Last 60 days': (details) => filterDays(details, 60),
     'Last 30 days': (details) => filterDays(details, 30),
-    [`This month (${today.toLocaleString('en-US', { month: 'short' })})`]: (details) => details.date.getMonth() === today.getMonth(),
+    [`This month (${today.toLocaleString('en-US', { month: 'short' })})`]: (details) => details.date.getMonth() === today.getMonth()
   }
 
   for (const tx of filteredTxns) {
@@ -237,8 +209,7 @@ function getBalanceSummaryRows(balances: BalanceParsed[]) {
     const key = `${balance.name} - ${balance.network}`
     if (wallets[key]) {
       wallets[key] += balance.quote
-    }
-    else {
+    } else {
       wallets[key] = balance.quote
     }
   }
