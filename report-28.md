@@ -85,6 +85,8 @@ Since July 16, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [[Resubmission] Easy Land Renting - Lands for everyone! [+5% to DAO per sale]](https://governance.decentraland.org/proposal/?id=0c233e00-18ef-11ed-96c7-2fa07c6df25b) (Tier 4)
+* [Data backpack](https://governance.decentraland.org/proposal/?id=659ab8a0-18d6-11ed-96c7-2fa07c6df25b) (Tier 6)
 * [SinfulMeatStick - Community Building, Onboarding, Education, and Growth](https://governance.decentraland.org/proposal/?id=18c27260-17fb-11ed-affb-95d45c2147f8) (Tier 4)
 * [LendIT - an NFT rental system](https://governance.decentraland.org/proposal/?id=6c196240-17d1-11ed-affb-95d45c2147f8) (Tier 5)
 * [I ask the community&#39;s help to recover my lost mana for a big mistake!](https://governance.decentraland.org/proposal/?id=b25f6830-1682-11ed-affb-95d45c2147f8) (Tier 1)
@@ -95,8 +97,6 @@ Since July 16, 2 grants have been approved and the vesting contract(s) will be e
 * [Exodus: Goodbye World Development](https://governance.decentraland.org/proposal/?id=4dcc98d0-10e6-11ed-affb-95d45c2147f8) (Tier 6)
 * [Integrate Metanomic Economy Design and Analytics for Decentraland Builders](https://governance.decentraland.org/proposal/?id=e2e3ce20-0f1a-11ed-affb-95d45c2147f8) (Tier 6)
 * [CROSSVERSE: A cross-metaverse play, learn, explore-to-earn game experience](https://governance.decentraland.org/proposal/?id=7e4f37c0-0e65-11ed-9d53-7b405ea02bcb) (Tier 4)
-* [Fun land so peoples come and play games and also buy some lottery ticket](https://governance.decentraland.org/proposal/?id=3aefa220-0e02-11ed-9d53-7b405ea02bcb) (Tier 6)
-* [Self-Service Audio/Video Streaming](https://governance.decentraland.org/proposal/?id=23813f00-0de8-11ed-9d53-7b405ea02bcb) (Tier 5)
 
 ## Names Bans
 
@@ -106,6 +106,7 @@ Since July 16, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Requesting for a grant to boost a video on YouTube regarding Decentraland parcel ownership](https://governance.decentraland.org/proposal/?id=656574a0-18d2-11ed-96c7-2fa07c6df25b)
 * [Make grant requests progressive as requirement since Tier 4 (60 000)](https://governance.decentraland.org/proposal/?id=deedf500-17f0-11ed-affb-95d45c2147f8)
 * [Reward VP to wearable creators by the amount they spent publishing a wearable](https://governance.decentraland.org/proposal/?id=779fb010-17ef-11ed-affb-95d45c2147f8)
 * [Change threshold system to pass a proposal to the difference between YES and NO](https://governance.decentraland.org/proposal/?id=9a237890-17ec-11ed-affb-95d45c2147f8)
