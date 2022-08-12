@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 7 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 8 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -32,13 +32,19 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since August 1, 7 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since August 1, 8 grants have been approved and the vesting contract(s) will be established within 7-10 days.
 
 
 #### [Creation of quality content for the Spanish-speaking community](https://governance.decentraland.org/proposal/?id=eca738b0-1119-11ed-affb-95d45c2147f8) (Tier 2)
 
 * Yes 75.9097093276973% 1,774,268 VP (67 votes)
 * No 24.090290672302704% 563,072 VP (11 votes)
+
+
+#### [CROSSVERSE: A cross-metaverse play, learn, explore-to-earn game experience](https://governance.decentraland.org/proposal/?id=7e4f37c0-0e65-11ed-9d53-7b405ea02bcb) (Tier 4)
+
+* Yes 100% 6,444,336 VP (93 votes)
+* No 0% 0 VP (0 votes)
 
 
 #### [Democratize Access to Decentraland for Renting, Marketing, and Hosting Events](https://governance.decentraland.org/proposal/?id=8a1e3180-0e3a-11ed-9d53-7b405ea02bcb) (Tier 3)
@@ -98,6 +104,7 @@ Since August 1, 7 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
+* 35, -96: [🔥Rare Roadside by DCL letters &amp; Plaza - Sentien#5377 Discord](https://governance.decentraland.org/proposal/?id=86683470-1969-11ed-96c7-2fa07c6df25b)
 * 18, -66: [DigiFun Official](https://governance.decentraland.org/proposal/?id=43d26ad0-187f-11ed-96c7-2fa07c6df25b)
 * 115, -140: [Green Fairy&#39;s Jura Absinthe lair](https://governance.decentraland.org/proposal/?id=8e4ba400-158c-11ed-affb-95d45c2147f8)
 * 42, -55: [Gleiss Lutz](https://governance.decentraland.org/proposal/?id=818ae730-14ba-11ed-affb-95d45c2147f8)
@@ -114,8 +121,6 @@ Since August 1, 7 grants have been approved and the vesting contract(s) will be 
 * [Provide fundamental Decentraland metrics  to the community for free](https://governance.decentraland.org/proposal/?id=ac2b57f0-12ac-11ed-affb-95d45c2147f8) (Tier 4)
 * [Decentral Comedy Promo at Skankfest Vegas/Backstage Access to Skankfest for DCL](https://governance.decentraland.org/proposal/?id=949f3b40-11f0-11ed-affb-95d45c2147f8) (Tier 5)
 * [Exodus: Goodbye World Development](https://governance.decentraland.org/proposal/?id=4dcc98d0-10e6-11ed-affb-95d45c2147f8) (Tier 6)
-* [Integrate Metanomic Economy Design and Analytics for Decentraland Builders](https://governance.decentraland.org/proposal/?id=e2e3ce20-0f1a-11ed-affb-95d45c2147f8) (Tier 6)
-* [CROSSVERSE: A cross-metaverse play, learn, explore-to-earn game experience](https://governance.decentraland.org/proposal/?id=7e4f37c0-0e65-11ed-9d53-7b405ea02bcb) (Tier 4)
 
 ## Names Bans
 
