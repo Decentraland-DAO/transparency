@@ -107,7 +107,6 @@ Since August 1, 8 grants have been approved and the vesting contract(s) will be 
 * 35, -96: [🔥Rare Roadside by DCL letters &amp; Plaza - Sentien#5377 Discord](https://governance.decentraland.org/proposal/?id=86683470-1969-11ed-96c7-2fa07c6df25b)
 * 18, -66: [DigiFun Official](https://governance.decentraland.org/proposal/?id=43d26ad0-187f-11ed-96c7-2fa07c6df25b)
 * 115, -140: [Green Fairy&#39;s Jura Absinthe lair](https://governance.decentraland.org/proposal/?id=8e4ba400-158c-11ed-affb-95d45c2147f8)
-* 42, -55: [Gleiss Lutz](https://governance.decentraland.org/proposal/?id=818ae730-14ba-11ed-affb-95d45c2147f8)
 
 ## Grants
 
