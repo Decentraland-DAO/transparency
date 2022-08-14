@@ -81,10 +81,10 @@ Since July 16, 2 grants have been approved and the vesting contract(s) will be e
 
 * 35, -96: [🔥Rare Roadside by DCL letters &amp; Plaza - Sentien#5377 Discord](https://governance.decentraland.org/proposal/?id=86683470-1969-11ed-96c7-2fa07c6df25b)
 * 18, -66: [DigiFun Official](https://governance.decentraland.org/proposal/?id=43d26ad0-187f-11ed-96c7-2fa07c6df25b)
-* 115, -140: [Green Fairy&#39;s Jura Absinthe lair](https://governance.decentraland.org/proposal/?id=8e4ba400-158c-11ed-affb-95d45c2147f8)
 
 ## Grants
 
+* [Nexus Market District Build-Out, Phase 1](https://governance.decentraland.org/proposal/?id=309483d0-1b4b-11ed-96c7-2fa07c6df25b) (Tier 4)
 * [[Resubmission] Easy Land Renting - Lands for everyone! [+5% to DAO per sale]](https://governance.decentraland.org/proposal/?id=0c233e00-18ef-11ed-96c7-2fa07c6df25b) (Tier 4)
 * [Data backpack](https://governance.decentraland.org/proposal/?id=659ab8a0-18d6-11ed-96c7-2fa07c6df25b) (Tier 6)
 * [SinfulMeatStick - Community Building, Onboarding, Education, and Growth](https://governance.decentraland.org/proposal/?id=18c27260-17fb-11ed-affb-95d45c2147f8) (Tier 4)
@@ -104,6 +104,8 @@ Since July 16, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Should We Utilise Genesis Resources](https://governance.decentraland.org/proposal/?id=712b6450-1b31-11ed-96c7-2fa07c6df25b)
+* [In wearables, allow extended publisher metadata (for games mostly)](https://governance.decentraland.org/proposal/?id=5bd7e100-1b0e-11ed-96c7-2fa07c6df25b)
 * [Requesting for a grant to boost a video on YouTube regarding Decentraland parcel ownership](https://governance.decentraland.org/proposal/?id=656574a0-18d2-11ed-96c7-2fa07c6df25b)
 * [Make grant requests progressive as requirement since Tier 4 (60 000)](https://governance.decentraland.org/proposal/?id=deedf500-17f0-11ed-affb-95d45c2147f8)
 * [Reward VP to wearable creators by the amount they spent publishing a wearable](https://governance.decentraland.org/proposal/?id=779fb010-17ef-11ed-affb-95d45c2147f8)
