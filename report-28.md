@@ -79,6 +79,7 @@ Since July 16, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
+* 15, 63: [Gallery Lazise](https://governance.decentraland.org/proposal/?id=6d3e0b00-1bd5-11ed-96c7-2fa07c6df25b)
 * 35, -96: [🔥Rare Roadside by DCL letters &amp; Plaza - Sentien#5377 Discord](https://governance.decentraland.org/proposal/?id=86683470-1969-11ed-96c7-2fa07c6df25b)
 * 18, -66: [DigiFun Official](https://governance.decentraland.org/proposal/?id=43d26ad0-187f-11ed-96c7-2fa07c6df25b)
 
@@ -89,12 +90,10 @@ Since July 16, 2 grants have been approved and the vesting contract(s) will be e
 * [Data backpack](https://governance.decentraland.org/proposal/?id=659ab8a0-18d6-11ed-96c7-2fa07c6df25b) (Tier 6)
 * [SinfulMeatStick - Community Building, Onboarding, Education, and Growth](https://governance.decentraland.org/proposal/?id=18c27260-17fb-11ed-affb-95d45c2147f8) (Tier 4)
 * [LendIT - an NFT rental system](https://governance.decentraland.org/proposal/?id=6c196240-17d1-11ed-affb-95d45c2147f8) (Tier 5)
-* [I ask the community&#39;s help to recover my lost mana for a big mistake!](https://governance.decentraland.org/proposal/?id=b25f6830-1682-11ed-affb-95d45c2147f8) (Tier 1)
 * [[Resubmission] Dungeons and Dragons &amp; Decentraland](https://governance.decentraland.org/proposal/?id=12f794f0-167a-11ed-affb-95d45c2147f8) (Tier 4)
 * [Wearable Advertising Space Facility &amp; Decentraland Loyalty Points Programme](https://governance.decentraland.org/proposal/?id=df8dde50-155a-11ed-affb-95d45c2147f8) (Tier 5)
 * [Provide fundamental Decentraland metrics  to the community for free](https://governance.decentraland.org/proposal/?id=ac2b57f0-12ac-11ed-affb-95d45c2147f8) (Tier 4)
 * [Decentral Comedy Promo at Skankfest Vegas/Backstage Access to Skankfest for DCL](https://governance.decentraland.org/proposal/?id=949f3b40-11f0-11ed-affb-95d45c2147f8) (Tier 5)
-* [Exodus: Goodbye World Development](https://governance.decentraland.org/proposal/?id=4dcc98d0-10e6-11ed-affb-95d45c2147f8) (Tier 6)
 
 ## Names Bans
 
@@ -107,8 +106,5 @@ Since July 16, 2 grants have been approved and the vesting contract(s) will be e
 * [Should We Utilise Genesis Resources](https://governance.decentraland.org/proposal/?id=712b6450-1b31-11ed-96c7-2fa07c6df25b)
 * [In wearables, allow extended publisher metadata (for games mostly)](https://governance.decentraland.org/proposal/?id=5bd7e100-1b0e-11ed-96c7-2fa07c6df25b)
 * [Requesting for a grant to boost a video on YouTube regarding Decentraland parcel ownership](https://governance.decentraland.org/proposal/?id=656574a0-18d2-11ed-96c7-2fa07c6df25b)
-* [Make grant requests progressive as requirement since Tier 4 (60 000)](https://governance.decentraland.org/proposal/?id=deedf500-17f0-11ed-affb-95d45c2147f8)
-* [Reward VP to wearable creators by the amount they spent publishing a wearable](https://governance.decentraland.org/proposal/?id=779fb010-17ef-11ed-affb-95d45c2147f8)
-* [Change threshold system to pass a proposal to the difference between YES and NO](https://governance.decentraland.org/proposal/?id=9a237890-17ec-11ed-affb-95d45c2147f8)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
