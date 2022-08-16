@@ -111,6 +111,7 @@ Since August 1, 8 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
+* -61, 119: [Vegas Prime](https://governance.decentraland.org/proposal/?id=ed473f50-1cf8-11ed-96c7-2fa07c6df25b)
 * 15, 63: [Gallery Lazise](https://governance.decentraland.org/proposal/?id=6d3e0b00-1bd5-11ed-96c7-2fa07c6df25b)
 * 35, -96: [🔥Rare Roadside by DCL letters &amp; Plaza - Sentien#5377 Discord](https://governance.decentraland.org/proposal/?id=86683470-1969-11ed-96c7-2fa07c6df25b)
 * 18, -66: [DigiFun Official](https://governance.decentraland.org/proposal/?id=43d26ad0-187f-11ed-96c7-2fa07c6df25b)
@@ -125,7 +126,6 @@ Since August 1, 8 grants have been approved and the vesting contract(s) will be 
 * [[Resubmission] Dungeons and Dragons &amp; Decentraland](https://governance.decentraland.org/proposal/?id=12f794f0-167a-11ed-affb-95d45c2147f8) (Tier 4)
 * [Wearable Advertising Space Facility &amp; Decentraland Loyalty Points Programme](https://governance.decentraland.org/proposal/?id=df8dde50-155a-11ed-affb-95d45c2147f8) (Tier 5)
 * [Provide fundamental Decentraland metrics  to the community for free](https://governance.decentraland.org/proposal/?id=ac2b57f0-12ac-11ed-affb-95d45c2147f8) (Tier 4)
-* [Decentral Comedy Promo at Skankfest Vegas/Backstage Access to Skankfest for DCL](https://governance.decentraland.org/proposal/?id=949f3b40-11f0-11ed-affb-95d45c2147f8) (Tier 5)
 
 ## Names Bans
 
@@ -135,8 +135,8 @@ Since August 1, 8 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+* [Prevent harassment and surveillance of all users via overly-exposing endpoint](https://governance.decentraland.org/proposal/?id=32ab78a0-1cda-11ed-96c7-2fa07c6df25b)
 * [Should We Utilise Genesis Resources](https://governance.decentraland.org/proposal/?id=712b6450-1b31-11ed-96c7-2fa07c6df25b)
 * [In wearables, allow extended publisher metadata (for games mostly)](https://governance.decentraland.org/proposal/?id=5bd7e100-1b0e-11ed-96c7-2fa07c6df25b)
-* [Requesting for a grant to boost a video on YouTube regarding Decentraland parcel ownership](https://governance.decentraland.org/proposal/?id=656574a0-18d2-11ed-96c7-2fa07c6df25b)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
