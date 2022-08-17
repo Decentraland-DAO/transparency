@@ -111,13 +111,13 @@ Since August 1, 8 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
-* -61, 119: [Vegas Prime](https://governance.decentraland.org/proposal/?id=ed473f50-1cf8-11ed-96c7-2fa07c6df25b)
+* -61, 119: [Petaverse](https://governance.decentraland.org/proposal/?id=ed473f50-1cf8-11ed-96c7-2fa07c6df25b)
 * 15, 63: [Gallery Lazise](https://governance.decentraland.org/proposal/?id=6d3e0b00-1bd5-11ed-96c7-2fa07c6df25b)
 * 35, -96: [🔥Rare Roadside by DCL letters &amp; Plaza - Sentien#5377 Discord](https://governance.decentraland.org/proposal/?id=86683470-1969-11ed-96c7-2fa07c6df25b)
-* 18, -66: [DigiFun Official](https://governance.decentraland.org/proposal/?id=43d26ad0-187f-11ed-96c7-2fa07c6df25b)
 
 ## Grants
 
+* [Oroboro Landing process. Co-delivered by Descentraland Dao](https://governance.decentraland.org/proposal/?id=cca45f00-1daf-11ed-96c7-2fa07c6df25b) (Tier 2)
 * [Nexus Market District Build-Out, Phase 1](https://governance.decentraland.org/proposal/?id=309483d0-1b4b-11ed-96c7-2fa07c6df25b) (Tier 4)
 * [[Resubmission] Easy Land Renting - Lands for everyone! [+5% to DAO per sale]](https://governance.decentraland.org/proposal/?id=0c233e00-18ef-11ed-96c7-2fa07c6df25b) (Tier 4)
 * [Data backpack](https://governance.decentraland.org/proposal/?id=659ab8a0-18d6-11ed-96c7-2fa07c6df25b) (Tier 6)
@@ -125,7 +125,6 @@ Since August 1, 8 grants have been approved and the vesting contract(s) will be 
 * [LendIT - an NFT rental system](https://governance.decentraland.org/proposal/?id=6c196240-17d1-11ed-affb-95d45c2147f8) (Tier 5)
 * [[Resubmission] Dungeons and Dragons &amp; Decentraland](https://governance.decentraland.org/proposal/?id=12f794f0-167a-11ed-affb-95d45c2147f8) (Tier 4)
 * [Wearable Advertising Space Facility &amp; Decentraland Loyalty Points Programme](https://governance.decentraland.org/proposal/?id=df8dde50-155a-11ed-affb-95d45c2147f8) (Tier 5)
-* [Provide fundamental Decentraland metrics  to the community for free](https://governance.decentraland.org/proposal/?id=ac2b57f0-12ac-11ed-affb-95d45c2147f8) (Tier 4)
 
 ## Names Bans
 
@@ -135,6 +134,7 @@ Since August 1, 8 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+* [Enable .vrm support for Decentraland models](https://governance.decentraland.org/proposal/?id=bdafe1c0-1d6b-11ed-96c7-2fa07c6df25b)
 * [Prevent harassment and surveillance of all users via overly-exposing endpoint](https://governance.decentraland.org/proposal/?id=32ab78a0-1cda-11ed-96c7-2fa07c6df25b)
 * [Should We Utilise Genesis Resources](https://governance.decentraland.org/proposal/?id=712b6450-1b31-11ed-96c7-2fa07c6df25b)
 * [In wearables, allow extended publisher metadata (for games mostly)](https://governance.decentraland.org/proposal/?id=5bd7e100-1b0e-11ed-96c7-2fa07c6df25b)
