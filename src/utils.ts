@@ -1,5 +1,5 @@
 import { Tokens } from './entities/Tokens'
-import { NetworkName } from './entities/Networks'
+import { DataByNetworks, NetworkName } from './entities/Networks'
 import BigNumber from 'bignumber.js'
 import { createObjectCsvWriter } from 'csv-writer'
 import { ObjectStringifierHeader } from 'csv-writer/src/lib/record'
@@ -290,7 +290,7 @@ export function parseVP(scores: number[]): MemberVP {
   }
 }
 
-export type LatestBlocks = Record<NetworkName, Record<string, number>>
+export type LatestBlocks = DataByNetworks<Record<string, number>>
 export function getLatestBlockByToken(txs: TransactionParsed[]): LatestBlocks {
   const latestBlocks: LatestBlocks = {
     [NetworkName.ETHEREUM]: {},
@@ -307,4 +307,14 @@ export function getLatestBlockByToken(txs: TransactionParsed[]): LatestBlocks {
   }
 
   return latestBlocks
+}
+
+export function printableLatestBlocks(latestBlocks: LatestBlocks) {
+  return Object.entries(latestBlocks).reduce((acc, [network, blocks]) => {
+    for (const [tokenAddress, latestBlock] of Object.entries(blocks)) {
+      acc[network] = acc[network] || {}
+      acc[network][Tokens.get(network as NetworkName, tokenAddress).symbol] = latestBlock
+    }
+    return acc
+  }, {} as LatestBlocks)
 }

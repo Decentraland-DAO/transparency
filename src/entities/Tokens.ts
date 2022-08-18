@@ -3,7 +3,7 @@ import DAI_ABI from '../abi/Ethereum/dai.json'
 import MANA_ABI from '../abi/Ethereum/mana.json'
 import USDC_ABI from '../abi/Ethereum/usdc.json'
 import USDT_ABI from '../abi/Ethereum/usdt.json'
-import { NetworkName } from './Networks'
+import { DataByNetworks, NetworkName } from './Networks'
 
 export enum TokenSymbols {
   MANA = 'MANA',
@@ -33,7 +33,7 @@ type TokenData = {
 
 type Token = Record<string, TokenData>
 
-const TOKENS: Record<NetworkName, Token> = {
+const TOKENS: DataByNetworks<Token> = {
   [NetworkName.ETHEREUM]: {
     '0x0f5d2fb29fb7d3cfee444a200298f468908cc942': { symbol: TokenSymbols.MANA, decimals: Decimals.MANA, abi: MANA_ABI as AbiItem[] },
     '0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0': { symbol: TokenSymbols.MATIC, decimals: Decimals.MATIC },

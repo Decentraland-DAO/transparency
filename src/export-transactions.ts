@@ -9,7 +9,11 @@ import { GrantProposal } from './interfaces/Grant'
 import { EventItem } from './interfaces/Transactions/Events'
 import { TransactionItem } from './interfaces/Transactions/Transactions'
 import { TransferItem, TransferType } from './interfaces/Transactions/Transfers'
-import { COVALENT_API_KEY, DECENTRALAND_DATA_URL, fetchCovalentURL, fetchURL, flattenArray, getLatestBlockByToken, LatestBlocks, saveToCSV, saveToJSON, setTransactionTag, splitArray } from './utils'
+import {
+  COVALENT_API_KEY, DECENTRALAND_DATA_URL, fetchCovalentURL, fetchURL,
+  flattenArray, getLatestBlockByToken, LatestBlocks, printableLatestBlocks,
+  saveToCSV, saveToJSON, setTransactionTag, splitArray
+} from './utils'
 
 export interface TransactionParsed {
   wallet: string
@@ -249,7 +253,7 @@ async function main() {
   if (!fullFetch) {
     lastTransactions = await fetchURL(`${DECENTRALAND_DATA_URL}/transactions.json`)
     latestBlocks = await getLatestBlockByToken(lastTransactions)
-    console.log('Latest Blocks:', latestBlocks)
+    console.log('Latest Blocks:', printableLatestBlocks(latestBlocks))
   }
   else {
     console.log('\n\n###################### WARNING: fetching all transactions ######################\n\n')
