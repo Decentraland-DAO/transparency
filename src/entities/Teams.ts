@@ -11,7 +11,7 @@ class Team {
     this.members = members
   }
 
-  public get() {
+  public toJson() {
     return {
       name: this.name,
       description: this.description,

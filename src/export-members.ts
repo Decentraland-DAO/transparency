@@ -1,5 +1,5 @@
 import snapshot from '@snapshot-labs/snapshot.js'
-import Networks from './entities/Networks'
+import { Networks } from './entities/Networks'
 import { SnapshotSpace } from './interfaces/GovernanceProposal'
 import { MemberInfo, STRATEGIES, Vote } from './interfaces/Members'
 import { fetchGraphQL, flattenArray, parseVP, saveToCSV, saveToJSON, splitArray } from './utils'
@@ -9,7 +9,7 @@ const MAX_RETRIES = 20
 require('dotenv').config()
 
 const space = SnapshotSpace.DCL
-const network = Networks.ETHEREUM.id.toString()
+const network = Networks.getEth().id.toString()
 const blockNumber = 'latest'
 
 async function getMembersInfo(addresses: string[], jobId: number) {

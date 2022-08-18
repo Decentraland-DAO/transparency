@@ -60,7 +60,7 @@ async function generateReport(currentReport: number, startDate: Date, endDate: D
   console.log(`Generating Report #${currentReport}...`)
   console.log(`Proposals from ${startDateStr} to ${endDateStr}`)
 
-  // Get Gobernance dApp Proposals
+  // Get Governance dApp Proposals
   const proposals: GovernanceProposal[] = []
   while (true) {
     const skip = proposals.length

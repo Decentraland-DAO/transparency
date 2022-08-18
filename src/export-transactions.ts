@@ -1,6 +1,6 @@
 import BigNumber from 'bignumber.js'
 import GRANTS from '../public/grants.json'
-import Networks, { NetworkName, NetworkType } from './entities/Networks'
+import { Networks, NetworkName, Network } from './entities/Networks'
 import { Tags, TagType } from './entities/Tags'
 import { Tokens, TokenSymbols } from './entities/Tokens'
 import { Wallets } from './entities/Wallets'
@@ -34,7 +34,6 @@ export interface TransactionParsed {
 enum Topic {
   ETH_ORDER_TOPIC = '0x695ec315e8a642a74d450a4505eeea53df699b47a7378c7d752e97d5b16eb9bb',
   MATIC_ORDER_TOPIC = '0x77cc75f8061aa168906862622e88c5b05a026a9c06c02d91ec98543e01e7ad33',
-  MATIC_ORDER_TOPIC2 = '0x6869791f0a34781b29882982cc39e882768cf2c96995c2a110c577c53bc932d5'
 }
 
 const walletAddresses = new Set(Wallets.getAddresses())
@@ -51,10 +50,10 @@ const OPENSEA_ADDRESSES = new Set([
   '0xf715beb51ec8f63317d66f491e37e7bb048fcc2d'
 ])
 
-async function getTopicTxs(network: NetworkType, startblock: number, topic: Topic) {
+async function getTopicTxs(network: Network, startblock: number, topic: Topic) {
   const eventHashes: string[] = []
   let block = startblock
-  const response = await fetchCovalentURL<{height: number}>(`https://api.covalenthq.com/v1/${network.id}/block_v2/latest/?key=${COVALENT_API_KEY}`, 0)
+  const response = await fetchCovalentURL<{ height: number }>(`https://api.covalenthq.com/v1/${network.id}/block_v2/latest/?key=${COVALENT_API_KEY}`, 0)
   const latestBlock = response[0].height
   console.log(`Latest ${JSON.stringify(network)} - start block: ${block} - latest block: ${latestBlock} - ${(latestBlock - block) / 1000000}`)
 
@@ -70,7 +69,7 @@ async function getTopicTxs(network: NetworkType, startblock: number, topic: Topi
   return eventHashes
 }
 
-async function getTransactions(name: string, tokenAddress: string, network: NetworkType, address: string, startBlock?: number) {
+async function getTransactions(name: string, tokenAddress: string, network: Network, address: string, startBlock?: number) {
   const url = `https://api.covalenthq.com/v1/${network.id}/address/${address}/transfers_v2/?key=${COVALENT_API_KEY}&contract-address=${tokenAddress}${startBlock >= 0 ? `&starting-block=${startBlock + 1}` : ''}`
   const items = await fetchCovalentURL<TransferItem>(url, 100000)
 
@@ -161,14 +160,17 @@ function saveTransactions(txs: TransactionParsed[], tagged = false) {
 
 async function tagging(txs: TransactionParsed[]) {
 
-  const ethTxs = txs.filter(t => t.network === Networks.ETHEREUM.name)
+  const ethNetwork = Networks.getEth()
+  const polygonNetwork = Networks.getPolygon()
+
+  const ethTxs = txs.filter(t => t.network === ethNetwork.name)
   const ethStartblock = ethTxs[ethTxs.length - 1].block
-  const marketOrdersTxs = new Set(await getTopicTxs(Networks.ETHEREUM, ethStartblock, Topic.ETH_ORDER_TOPIC))
+  const marketOrdersTxs = new Set(await getTopicTxs(ethNetwork, ethStartblock, Topic.ETH_ORDER_TOPIC))
   console.log('Ethereum Orders:', marketOrdersTxs.size)
 
-  const maticTxs = txs.filter(t => t.network === Networks.POLYGON.name)
+  const maticTxs = txs.filter(t => t.network === polygonNetwork.name)
   const maticStartblock = maticTxs[maticTxs.length - 1].block
-  const maticOrdersTxs = new Set(await getTopicTxs(Networks.POLYGON, maticStartblock, Topic.MATIC_ORDER_TOPIC))
+  const maticOrdersTxs = new Set(await getTopicTxs(polygonNetwork, maticStartblock, Topic.MATIC_ORDER_TOPIC))
   console.log('Matic Orders:', maticOrdersTxs.size)
 
   const tagger = async (transactions: TransactionParsed[], chunk: number) => {
@@ -244,7 +246,7 @@ async function main() {
 
   const fullFetch = process.argv.includes('--full')
 
-  if(!fullFetch) {
+  if (!fullFetch) {
     lastTransactions = await fetchURL(`${DECENTRALAND_DATA_URL}/transactions.json`)
     latestBlocks = await getLatestBlockByToken(lastTransactions)
     console.log('Latest Blocks:', latestBlocks)
@@ -253,7 +255,7 @@ async function main() {
     console.log('\n\n###################### WARNING: fetching all transactions ######################\n\n')
   }
 
-  for (const wallet of Wallets.get()) {
+  for (const wallet of Wallets.getAll()) {
     const { name, address, network } = wallet
     const tokenAddresses = Tokens.getAddresses(network.name)
 
@@ -270,7 +272,7 @@ async function main() {
   console.log('Tagging...')
   const taggedTxns = await tagging(transactions)
 
-  transactions =  !fullFetch ? [...taggedTxns, ...lastTransactions] : taggedTxns
+  transactions = !fullFetch ? [...taggedTxns, ...lastTransactions] : taggedTxns
 
   console.log('Saving with tags...')
   saveTransactions(transactions, true)

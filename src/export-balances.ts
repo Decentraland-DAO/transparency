@@ -24,29 +24,30 @@ async function getBalance(wallet: Wallet) {
   const contracts = await fetchCovalentURL<Contract>(`https://api.covalenthq.com/v1/${network.id}/address/${address}/portfolio_v2/?key=${COVALENT_API_KEY}`, 0)
 
 
-  return contracts.map<BalanceParsed>(t => ({
-    timestamp: t.holdings[0].timestamp,
+  return contracts.map<BalanceParsed>(contract => ({
+    timestamp: contract.holdings[0].timestamp,
     name,
-    amount: new BigNumber(t.holdings[0].close.balance).dividedBy(10 ** t.contract_decimals).toNumber(),
-    quote: t.holdings[0].close.quote,
-    rate: t.holdings[0].quote_rate,
-    symbol: t.contract_ticker_symbol,
+    amount: new BigNumber(contract.holdings[0].close.balance).dividedBy(10 ** contract.contract_decimals).toNumber(),
+    quote: contract.holdings[0].close.quote,
+    rate: contract.holdings[0].quote_rate,
+    symbol: contract.contract_ticker_symbol,
     network: network.name,
     address,
-    contractAddress: t.contract_address
+    contractAddress: contract.contract_address
   }))
 }
 
 async function main() {
   const unresolvedBalances: Promise<BalanceParsed[]>[] = []
 
-  for (const wallet of Wallets.get()) {
+  for (const wallet of Wallets.getAll()) {
     unresolvedBalances.push(getBalance(wallet))
   }
 
-  let balances = flattenArray(await Promise.all(unresolvedBalances))
+  const balances = flattenArray(await Promise.all(unresolvedBalances)).filter(
+    (balance) => ALLOWED_SYMBOLS.has(balance.symbol) && balance.amount > 0
+  )
 
-  balances = balances.filter(b => ALLOWED_SYMBOLS.has(b.symbol) && b.amount > 0)
   console.log(balances.length, 'balances found.')
 
   saveToJSON('balances.json', balances)

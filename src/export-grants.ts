@@ -3,7 +3,7 @@ import { AbiItem } from 'web3-utils'
 
 import PROPOSALS from '../public/proposals.json'
 import VESTING_ABI from './abi/Ethereum/vesting.json'
-import Networks from './entities/Networks'
+import { Networks } from './entities/Networks'
 import { Tokens } from './entities/Tokens'
 import { GovernanceProposalType, Status } from './interfaces/GovernanceProposal'
 import { GrantProposal } from './interfaces/Grant'
@@ -67,7 +67,7 @@ function transferMatchesBeneficiary(decodedLogEvent: Decoded, beneficiary: strin
 }
 
 async function getTransactionItems(enactingTx: string) {
-  const items = await fetchCovalentURL<TransactionItem>(`https://api.covalenthq.com/v1/${Networks.ETHEREUM.id}/transaction_v2/${enactingTx}/?key=${COVALENT_API_KEY}`, 0)
+  const items = await fetchCovalentURL<TransactionItem>(`https://api.covalenthq.com/v1/${Networks.getEth().id}/transaction_v2/${enactingTx}/?key=${COVALENT_API_KEY}`, 0)
   return items[0]
 }
 
