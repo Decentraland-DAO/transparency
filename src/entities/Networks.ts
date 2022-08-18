@@ -3,31 +3,30 @@ export enum NetworkName {
   POLYGON = 'Polygon',
 }
 
-export type NetworkType = {
+export type Network = {
   name: `${NetworkName}`
   id: number
 }
 
-class Networks {
-  static readonly ETHEREUM: NetworkType = {
-    name: NetworkName.ETHEREUM,
-    id: 1,
+const NETWORKS: Network[] = [
+  { name: NetworkName.ETHEREUM, id: 1 },
+  { name: NetworkName.POLYGON, id: 137 },
+]
+
+export class Networks {
+  static get(name: `${NetworkName}` | NetworkName): Network {
+    return NETWORKS.find(network => network.name === name)
   }
 
-  static readonly POLYGON: NetworkType = {
-    name: NetworkName.POLYGON,
-    id: 137,
+  static getEth(): Network {
+    return Networks.get(NetworkName.ETHEREUM)
   }
 
-  private static readonly LIST = [Networks.ETHEREUM, Networks.POLYGON]
-
-  static get(name: `${NetworkName}`): NetworkType {
-    return this.LIST.find(network => network.name === name)
+  static getPolygon(): Network {
+    return Networks.get(NetworkName.POLYGON)
   }
 
-  static getAll(): NetworkType[] {
-    return this.LIST
+  static getAll(): Network[] {
+    return NETWORKS
   }
 }
-
-export default Networks

@@ -1,5 +1,5 @@
 import snapshot from '@snapshot-labs/snapshot.js'
-import Networks from './entities/Networks'
+import { Networks } from './entities/Networks'
 import { SnapshotSpace } from './interfaces/GovernanceProposal'
 import { STRATEGIES, Vote } from './interfaces/Members'
 import { fetchGraphQL, flattenArray, saveToCSV, saveToJSON, splitArray } from './utils'
@@ -18,7 +18,7 @@ export interface MemberInfo {
 }
 
 const space = SnapshotSpace.DCL
-const network = Networks.ETHEREUM.id.toString()
+const network = Networks.getEth().id.toString()
 const blockNumber = 'latest'
 
 async function getMembersInfo(addresses: string[], jobId: number) {

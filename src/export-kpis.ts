@@ -14,7 +14,7 @@ import { KPI } from './interfaces/KPIs'
 import { ProposalParsed } from './interfaces/Proposal'
 import { FeeDetails } from './interfaces/Transactions/Transactions'
 import { TransferType } from './interfaces/Transactions/Transfers'
-import { avg, dayToMilisec, getTransactionsPerTag, median, saveToJSON, sum } from './utils'
+import { avg, dayToMillisec, getTransactionsPerTag, median, saveToJSON, sum } from './utils'
 
 
 function main() {
@@ -100,6 +100,9 @@ main()
 
 
 function getRatio(value: number, total: number) {
+  if (total === 0) {
+    return `0%`
+  }
   const ratio = value / total
   return `${(ratio * 100).toFixed(2)}%`
 }
@@ -190,7 +193,7 @@ function getFees(transactions: TransactionParsed[], type: TransferType) {
   type DateFilter = (details: FeeDetails) => boolean
 
   const filterDays = (details: FeeDetails, days: number) => {
-    const minDate = new Date(today.getTime() - dayToMilisec(days))
+    const minDate = new Date(today.getTime() - dayToMillisec(days))
     return details.date >= minDate
   }
 

@@ -1,7 +1,7 @@
 import BALANCES from '../public/balances.json'
 import GRANTS from '../public/grants.json'
 import TRANSACTIONS from '../public/transactions.json'
-import { TagCategory, TagCategoryData, Tags } from './entities/Tags'
+import { TagCategoryType, Tags } from './entities/Tags'
 import { CurationTeam, DAOCommitteeTeam, SABTeam } from './entities/Teams'
 import { TransactionParsed } from './export-transactions'
 import { BalanceDetails } from './interfaces/Api'
@@ -9,17 +9,17 @@ import { Status } from './interfaces/GovernanceProposal'
 import { GrantProposal } from './interfaces/Grant'
 import { TransactionDetails } from './interfaces/Transactions/Transactions'
 import { TransferType } from './interfaces/Transactions/Transfers'
-import { dayToMilisec, getTransactionsPerTag, saveToJSON } from './utils'
+import { dayToMillisec, getTransactionsPerTag, saveToJSON } from './utils'
 
 function getTxsDetails(txs: Record<string, TransactionDetails>): BalanceDetails[] {
   const groupedTxs: Record<string, BalanceDetails> = {}
 
   for (const [tag, values] of Object.entries(txs)) {
-    if (!Tags.isAPITag(tag)) {
+    if (!Tags.isExportedTag(tag)) {
       continue
     }
 
-    const tagCategory = Tags.getAPITagCategory(tag)
+    const tagCategory = Tags.getExportedTagCategory(tag)
 
     if (!groupedTxs[tagCategory.name]) {
       groupedTxs[tagCategory.name] = { ...tagCategory, value: values.total }
@@ -32,7 +32,7 @@ function getTxsDetails(txs: Record<string, TransactionDetails>): BalanceDetails[
   const sortedDetails = Object.values(groupedTxs).sort((a, b) => b.value - a.value)
 
   // the "Other" tag is always last
-  sortedDetails.push(sortedDetails.splice(sortedDetails.findIndex(d => d.name === TagCategory.OTHER), 1)[0])
+  sortedDetails.push(sortedDetails.splice(sortedDetails.findIndex(detail => detail.name === Tags.getTagCategory(TagCategoryType.OTHER).name), 1)[0])
 
   return sortedDetails
 }
@@ -42,8 +42,8 @@ const sumQuote = (txs: TransactionParsed[]) => txs.reduce((total, tx) => total +
 async function main() {
 
   const now = new Date()
-  const last30 = new Date(now.getTime() - dayToMilisec(30))
-  const last60 = new Date(now.getTime() - dayToMilisec(60))
+  const last30 = new Date(now.getTime() - dayToMillisec(30))
+  const last60 = new Date(now.getTime() - dayToMillisec(60))
 
   const txs = TRANSACTIONS as TransactionParsed[]
 
@@ -89,9 +89,9 @@ async function main() {
       'total': totalFunding
     },
     'teams': [
-      SABTeam.get(),
-      DAOCommitteeTeam.get(),
-      CurationTeam.get(),
+      SABTeam.toJson(),
+      DAOCommitteeTeam.toJson(),
+      CurationTeam.toJson(),
     ]
   }
 

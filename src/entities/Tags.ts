@@ -30,60 +30,60 @@ export enum SecondarySaleItemTagType {
   WEARABLE = 'Secondary Sale :: Wearable L1 fee',
 }
 
-type APITagType = Exclude<TagType, TagType.SECONDARY_SALE | TagType.SWAP | TagType.ETH_MARKETPLACE | TagType.SAB_DCL> | SecondarySaleItemTagType
+type ExportedTagType = Exclude<TagType, TagType.SECONDARY_SALE | TagType.SWAP | TagType.ETH_MARKETPLACE | TagType.SAB_DCL> | SecondarySaleItemTagType
 
-export enum TagCategory {
-  ESTATE_MARKETPLACE_SALES = 'ESTATE DCL Marketplace Sales Fee',
-  LAND_MARKETPLACE_SALES = 'LAND  DCL Marketplace Sales Fee',
-  NAME_MARKETPLACE_SALES = 'NAME DCL Marketplace Sales Fee',
-  WEARABLE_MARKETPLACE_SALES = 'Wearable L1 Sales Fee',
-  LOOKSRARE_MARKETPLACE_FEE = 'LooksRare Marketplace Fee',
-  OPENSEA_MARKETPLACE_FEE = 'OpenSea Marketplace Fee',
-  WEARABLE_SUBMISSION_FEE = 'Wearable Submission Fee',
-  WEARABLES_MINTING_FEE = 'Wearables Minting Fee',
-  DAO_COMMITTEE = 'DAO Committee',
-  GRANTS_PAYOUT = 'Community Grants Payout',
-  CURATORS_COMMITTEE_PAYOUT = 'Wearable Curators Committee Payout',
-  FACILITATION_PAYOUT = 'Community Facilitation Payout',
-  VESTING_CONTRACT = 'MANA Vesting Contract',
-  OTHER = 'Other',
+export enum TagCategoryType {
+  ESTATE_MARKETPLACE_SALES,
+  LAND_MARKETPLACE_SALES,
+  NAME_MARKETPLACE_SALES,
+  WEARABLE_MARKETPLACE_SALES,
+  LOOKSRARE_MARKETPLACE_FEE,
+  OPENSEA_MARKETPLACE_FEE,
+  WEARABLE_SUBMISSION_FEE,
+  WEARABLES_MINTING_FEE,
+  DAO_COMMITTEE,
+  GRANTS_PAYOUT,
+  CURATORS_COMMITTEE_PAYOUT,
+  FACILITATION_PAYOUT,
+  VESTING_CONTRACT,
+  OTHER,
 }
 
-export interface TagCategoryData {
-  name: TagCategory
+export interface TagCategory {
+  name: string
   description: string
 }
 
-const tagCategories: Record<keyof typeof TagCategory, TagCategoryData> = {
-  ESTATE_MARKETPLACE_SALES: { name: TagCategory.ESTATE_MARKETPLACE_SALES, description: 'Funds corresponding to the 2.5% fee applied to every ESTATE transaction (Minting or secondary)' },
-  LAND_MARKETPLACE_SALES: { name: TagCategory.LAND_MARKETPLACE_SALES, description: 'Funds corresponding to the 2.5% fee applied to every LAND transaction (Minting or secondary)' },
-  NAME_MARKETPLACE_SALES: { name: TagCategory.NAME_MARKETPLACE_SALES, description: 'Funds corresponding to the 2.5% fee applied to every NAME transaction (Minting or secondary)' },
-  WEARABLE_MARKETPLACE_SALES: { name: TagCategory.WEARABLE_MARKETPLACE_SALES, description: 'Funds corresponding to the 2.5% fee applied to every Wearable transaction on Ethereum (Minting or secondary)' },
-  LOOKSRARE_MARKETPLACE_FEE: { name: TagCategory.LOOKSRARE_MARKETPLACE_FEE, description: 'Funds corresponding to the 2.5% fee applied to every transaction (ESTATE, LAND, NAME & Wearables) on LooksRare marketplace' },
-  OPENSEA_MARKETPLACE_FEE: { name: TagCategory.OPENSEA_MARKETPLACE_FEE, description: 'Funds corresponding to the 2.5% fee applied to every transaction (ESTATE, LAND, NAME & Wearables) on OpenSea marketplace' },
-  WEARABLE_SUBMISSION_FEE: { name: TagCategory.WEARABLE_SUBMISSION_FEE, description: 'Funds corresponding to the fee applied to every new Wearable submission to the Decentraland Marketplace' },
-  WEARABLES_MINTING_FEE: { name: TagCategory.WEARABLES_MINTING_FEE, description: 'Funds corresponding to the 2.5% fee applied to Wearables minting on Polygon network via the Decentraland Marketplace' },
-  DAO_COMMITTEE: { name: TagCategory.DAO_COMMITTEE, description: 'Transactions between the DAO Treasury and the DAO Committee wallets (e.g. Transaction gas refunds)' },
-  GRANTS_PAYOUT: { name: TagCategory.GRANTS_PAYOUT, description: 'Transactions corresponding to the funding of the vesting contracts for approved DAO Community Grants projects' },
-  CURATORS_COMMITTEE_PAYOUT: { name: TagCategory.CURATORS_COMMITTEE_PAYOUT, description: 'Transactions corresponding to the payout of compensations for members of the Wearables Curation Committee' },
-  FACILITATION_PAYOUT: { name: TagCategory.FACILITATION_PAYOUT, description: 'Transactions corresponding to the payout for monthly compensations of the DAO Facilitator role' },
-  VESTING_CONTRACT: { name: TagCategory.VESTING_CONTRACT, description: 'Funds corresponding to the 10-year MANA vesting contract that the DAO holds' },
-  OTHER: { name: TagCategory.OTHER, description: 'Non-categorized or one-off transactions' },
+const TAG_CATEGORIES: Record<keyof typeof TagCategoryType, TagCategory> = {
+  ESTATE_MARKETPLACE_SALES: { name: 'ESTATE DCL Marketplace Sales Fee', description: 'Funds corresponding to the 2.5% fee applied to every ESTATE transaction (Minting or secondary)' },
+  LAND_MARKETPLACE_SALES: { name: 'LAND  DCL Marketplace Sales Fee', description: 'Funds corresponding to the 2.5% fee applied to every LAND transaction (Minting or secondary)' },
+  NAME_MARKETPLACE_SALES: { name: 'NAME DCL Marketplace Sales Fee', description: 'Funds corresponding to the 2.5% fee applied to every NAME transaction (Minting or secondary)' },
+  WEARABLE_MARKETPLACE_SALES: { name: 'Wearable L1 Sales Fee', description: 'Funds corresponding to the 2.5% fee applied to every Wearable transaction on Ethereum (Minting or secondary)' },
+  LOOKSRARE_MARKETPLACE_FEE: { name: 'LooksRare Marketplace Fee', description: 'Funds corresponding to the 2.5% fee applied to every transaction (ESTATE, LAND, NAME & Wearables) on LooksRare marketplace' },
+  OPENSEA_MARKETPLACE_FEE: { name: 'OpenSea Marketplace Fee', description: 'Funds corresponding to the 2.5% fee applied to every transaction (ESTATE, LAND, NAME & Wearables) on OpenSea marketplace' },
+  WEARABLE_SUBMISSION_FEE: { name: 'Wearable Submission Fee', description: 'Funds corresponding to the fee applied to every new Wearable submission to the Decentraland Marketplace' },
+  WEARABLES_MINTING_FEE: { name: 'Wearables Minting Fee', description: 'Funds corresponding to the 2.5% fee applied to Wearables minting on Polygon network via the Decentraland Marketplace' },
+  DAO_COMMITTEE: { name: 'DAO Committee', description: 'Transactions between the DAO Treasury and the DAO Committee wallets (e.g. Transaction gas refunds)' },
+  GRANTS_PAYOUT: { name: 'Community Grants Payout', description: 'Transactions corresponding to the funding of the vesting contracts for approved DAO Community Grants projects' },
+  CURATORS_COMMITTEE_PAYOUT: { name: 'Wearable Curators Committee Payout', description: 'Transactions corresponding to the payout of compensations for members of the Wearables Curation Committee' },
+  FACILITATION_PAYOUT: { name: 'Community Facilitation Payout', description: 'Transactions corresponding to the payout for monthly compensations of the DAO Facilitator role' },
+  VESTING_CONTRACT: { name: 'MANA Vesting Contract', description: 'Funds corresponding to the 10-year MANA vesting contract that the DAO holds' },
+  OTHER: { name: 'Other', description: 'Non-categorized or one-off transactions' },
 }
 
-const secondarySaleTags: Record<ItemTagType, SecondarySaleItemTagType> = {
+const SECONDARY_SALE_TAGS: Record<ItemTagType, SecondarySaleItemTagType> = {
   [TagType.ESTATE_BID_FEE]: SecondarySaleItemTagType.ESTATE,
   [TagType.LAND_BID_FEE]: SecondarySaleItemTagType.LAND,
   [TagType.NAME_BID_FEE]: SecondarySaleItemTagType.NAME,
   [TagType.WEARABLE_BID_FEE]: SecondarySaleItemTagType.WEARABLE,
 }
 
-const daoCommittee = [
+const DAO_COMMITTEE_ADDRESSES = [
   '0x521b0fef9cdcf250abaf8e7bc798cbe13fa98692',
   ...DAOCommitteeTeam.getMemberAddresses()
 ]
 
-const swap = [
+const SWAP_CONTRACTS = [
   '0x5777d92f208679db4b9778590fa3cab3ac9e2168',
   '0xc176761d388caf2f56cf03329d82e1e7c48ae09c',
   '0xb3c839dbde6b96d37c56ee4f9dad3390d49310aa',
@@ -102,7 +102,7 @@ const swap = [
   '0x56eddb7aa87536c09ccc2793473599fd21a8b17f',
 ]
 
-const secondarySale = [
+const SECONDARY_SALE_CONTRACTS = [
   '0x8e5660b4ab70168b5a6feea0e0315cb49c8cd539',
   '0x388fe75d523963c68f5741700403ca285bda5225',
   '0xf9f68fc85cc9791d264477d1bb1aa649f022e9dc',
@@ -113,12 +113,12 @@ const secondarySale = [
   '0x7c6eda316fc4abf1efaba8015e6ff04b241fcb35',
 ]
 
-const curationFee = [
+const CURATION_FEE_CONTRACTS = [
   '0x0babda04f62c549a09ef3313fe187f29c099ff3c',
   '0x9d32aac179153a991e832550d9f96441ea27763a',
 ]
 
-const wearables = [
+const WEARABLE_CONTRACTS = [
   '0xc04528c14c8ffd84c7c1fb6719b4a89853035cdd', // ExclusiveMasksCollection
   '0xc1f4b0eea2bd6690930e6c66efd3e197d620b9c2', // Halloween2019Collection
   '0xc3af02c0fd486c8e9da5788b915d6fff3f049866', // Xmas2019Collection
@@ -164,65 +164,61 @@ const wearables = [
 ]
 
 function toRecord(addresses: string[], tag: TagType) {
-  return addresses.reduce((acc, address) => {
-    acc[address.toLowerCase()] = tag
-    return acc
+  return addresses.reduce((accumulator, address) => {
+    accumulator[address.toLowerCase()] = tag
+    return accumulator
   }, {} as Record<string, TagType>)
 }
 
+const CURATORS = new Set(CurationTeam.getMemberAddresses())
+const ITEM_CONTRACTS: Record<string, ItemTagType> = {
+  '0x959e104e1a4db6317fa58f8295f586e1a978c297': TagType.ESTATE_BID_FEE,
+  '0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d': TagType.LAND_BID_FEE,
+  '0x2a187453064356c898cae034eaed119e1663acb8': TagType.NAME_BID_FEE,
+  ...toRecord(WEARABLE_CONTRACTS, TagType.WEARABLE_BID_FEE)
+}
+const TAGS: Record<string, TagType> = {
+  '0x7a3abf8897f31b56f09c6f69d074a393a905c1ac': TagType.VESTING_CONTRACT,
+  '0x59728544b08ab483533076417fbbb2fd0b17ce3a': TagType.LOOKSRARE,
+  ...ITEM_CONTRACTS,
+  ...toRecord(DAO_COMMITTEE_ADDRESSES, TagType.DAO_COMMITTEE),
+  ...toRecord(SWAP_CONTRACTS, TagType.SWAP),
+  ...toRecord(SECONDARY_SALE_CONTRACTS, TagType.SECONDARY_SALE),
+  ...toRecord(CURATION_FEE_CONTRACTS, TagType.CURATION_FEE),
+}
+const TAG_CATEGORY_MAPPING: Record<ExportedTagType, TagCategory> = {
+  [TagType.ESTATE_BID_FEE]: TAG_CATEGORIES.ESTATE_MARKETPLACE_SALES,
+  [SecondarySaleItemTagType.ESTATE]: TAG_CATEGORIES.ESTATE_MARKETPLACE_SALES,
+
+  [TagType.LAND_BID_FEE]: TAG_CATEGORIES.LAND_MARKETPLACE_SALES,
+  [SecondarySaleItemTagType.LAND]: TAG_CATEGORIES.LAND_MARKETPLACE_SALES,
+
+  [TagType.NAME_BID_FEE]: TAG_CATEGORIES.NAME_MARKETPLACE_SALES,
+  [SecondarySaleItemTagType.NAME]: TAG_CATEGORIES.NAME_MARKETPLACE_SALES,
+
+  [TagType.WEARABLE_BID_FEE]: TAG_CATEGORIES.WEARABLE_MARKETPLACE_SALES,
+  [SecondarySaleItemTagType.WEARABLE]: TAG_CATEGORIES.WEARABLE_MARKETPLACE_SALES,
+
+  [TagType.LOOKSRARE]: TAG_CATEGORIES.LOOKSRARE_MARKETPLACE_FEE,
+  [TagType.OPENSEA]: TAG_CATEGORIES.OPENSEA_MARKETPLACE_FEE,
+  [TagType.CURATION_FEE]: TAG_CATEGORIES.WEARABLE_SUBMISSION_FEE,
+  [TagType.MATIC_MARKETPLACE]: TAG_CATEGORIES.WEARABLES_MINTING_FEE,
+  [TagType.DAO_COMMITTEE]: TAG_CATEGORIES.DAO_COMMITTEE,
+  [TagType.GRANT]: TAG_CATEGORIES.GRANTS_PAYOUT,
+  [TagType.CURATOR]: TAG_CATEGORIES.CURATORS_COMMITTEE_PAYOUT,
+  [TagType.FACILITATOR]: TAG_CATEGORIES.FACILITATION_PAYOUT,
+  [TagType.VESTING_CONTRACT]: TAG_CATEGORIES.VESTING_CONTRACT,
+  [TagType.OTHER]: TAG_CATEGORIES.OTHER,
+}
+
 export class Tags {
-  private static readonly CURATORS = new Set(CurationTeam.getMemberAddresses())
-
-  private static readonly ITEM_CONTRACTS: Record<string, ItemTagType> = {
-    '0x959e104e1a4db6317fa58f8295f586e1a978c297': TagType.ESTATE_BID_FEE,
-    '0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d': TagType.LAND_BID_FEE,
-    '0x2a187453064356c898cae034eaed119e1663acb8': TagType.NAME_BID_FEE,
-    ...toRecord(wearables, TagType.WEARABLE_BID_FEE)
-  }
-
-  private static readonly TAGS: Record<string, TagType> = {
-    '0x7a3abf8897f31b56f09c6f69d074a393a905c1ac': TagType.VESTING_CONTRACT,
-    '0x59728544b08ab483533076417fbbb2fd0b17ce3a': TagType.LOOKSRARE,
-    ...this.ITEM_CONTRACTS,
-    ...toRecord(daoCommittee, TagType.DAO_COMMITTEE),
-    ...toRecord(swap, TagType.SWAP),
-    ...toRecord(secondarySale, TagType.SECONDARY_SALE),
-    ...toRecord(curationFee, TagType.CURATION_FEE),
-  }
-
-
-
-  private static readonly TAG_CATEGORIES: Record<APITagType, TagCategoryData> = {
-    [TagType.ESTATE_BID_FEE]: tagCategories.ESTATE_MARKETPLACE_SALES,
-    [SecondarySaleItemTagType.ESTATE]: tagCategories.ESTATE_MARKETPLACE_SALES,
-
-    [TagType.LAND_BID_FEE]: tagCategories.LAND_MARKETPLACE_SALES,
-    [SecondarySaleItemTagType.LAND]: tagCategories.LAND_MARKETPLACE_SALES,
-
-    [TagType.NAME_BID_FEE]: tagCategories.NAME_MARKETPLACE_SALES,
-    [SecondarySaleItemTagType.NAME]: tagCategories.NAME_MARKETPLACE_SALES,
-
-    [TagType.WEARABLE_BID_FEE]: tagCategories.WEARABLE_MARKETPLACE_SALES,
-    [SecondarySaleItemTagType.WEARABLE]: tagCategories.WEARABLE_MARKETPLACE_SALES,
-
-    [TagType.LOOKSRARE]: tagCategories.LOOKSRARE_MARKETPLACE_FEE,
-    [TagType.OPENSEA]: tagCategories.OPENSEA_MARKETPLACE_FEE,
-    [TagType.CURATION_FEE]: tagCategories.CURATORS_COMMITTEE_PAYOUT,
-    [TagType.MATIC_MARKETPLACE]: tagCategories.WEARABLES_MINTING_FEE,
-    [TagType.DAO_COMMITTEE]: tagCategories.DAO_COMMITTEE,
-    [TagType.GRANT]: tagCategories.GRANTS_PAYOUT,
-    [TagType.CURATOR]: tagCategories.CURATORS_COMMITTEE_PAYOUT,
-    [TagType.FACILITATOR]: tagCategories.FACILITATION_PAYOUT,
-    [TagType.VESTING_CONTRACT]: tagCategories.VESTING_CONTRACT,
-    [TagType.OTHER]: tagCategories.OTHER,
-  }
 
   public static get(address: string): string {
-    return this.TAGS[address.toLowerCase()] || ''
+    return TAGS[address.toLowerCase()] || ''
   }
 
   public static getItemContract(address: string): string {
-    return this.ITEM_CONTRACTS[address.toLowerCase()] || ''
+    return ITEM_CONTRACTS[address.toLowerCase()] || ''
   }
 
   public static isItemContract(address: string): boolean {
@@ -230,7 +226,7 @@ export class Tags {
   }
 
   public static getCurator(address: string): string {
-    return this.CURATORS.has(address.toLowerCase()) ? TagType.CURATOR : ''
+    return CURATORS.has(address.toLowerCase()) ? TagType.CURATOR : ''
   }
 
   public static getSecondarySale(address: string): string {
@@ -238,19 +234,23 @@ export class Tags {
       throw new Error(`Secondary Sale Tag Error: ${address} is not a valid item contract`)
     }
 
-    return secondarySaleTags[this.getItemContract(address)]
+    return SECONDARY_SALE_TAGS[this.getItemContract(address)]
   }
 
-  public static isAPITag(tag: string): boolean {
-    return !!this.TAG_CATEGORIES[tag]
+  public static getTagCategory(tag: TagCategoryType): TagCategory {
+    return TAG_CATEGORIES[TagCategoryType[tag]]
   }
 
-  public static getAPITagCategory(tag: string): TagCategoryData {
-    if (!this.isAPITag(tag)) {
+  public static isExportedTag(tag: string): boolean {
+    return !!TAG_CATEGORY_MAPPING[tag]
+  }
+
+  public static getExportedTagCategory(tag: string): TagCategory {
+    if (!this.isExportedTag(tag)) {
       throw new Error(`Tag Category Error: ${tag} is not a valid tag`)
     }
 
-    return this.TAG_CATEGORIES[tag]
+    return TAG_CATEGORY_MAPPING[tag]
   }
 
 }
