@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -43,18 +43,34 @@ Since August 16, 1 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+#### [Should We Utilise Genesis Resources](https://governance.decentraland.org/proposal/?id=712b6450-1b31-11ed-96c7-2fa07c6df25b)
+
+* Yes 99.99989317837075% 936,139 VP (38 votes)
+* No 0% 0 VP (0 votes)
+* Invalid question/options 0.00010682162924348921% 1 VP (1 votes)
+
+
+#### [In wearables, allow extended publisher metadata (for games mostly)](https://governance.decentraland.org/proposal/?id=5bd7e100-1b0e-11ed-96c7-2fa07c6df25b)
+
+* YES 100% 1,766,567 VP (39 votes)
+* NO 0% 0 VP (0 votes)
+* Remove vote 0% 0 VP (0 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 
 # Active Proposals
 
 ## Points of Interest
 
+* -1, -35: [Sugar Club](https://governance.decentraland.org/proposal/?id=feeb1b00-1f32-11ed-9342-4f244be49f84)
+* -25, 25: [Metaverse Trade Center](https://governance.decentraland.org/proposal/?id=5811e920-1f10-11ed-9342-4f244be49f84)
 * -61, 119: [Petaverse](https://governance.decentraland.org/proposal/?id=ed473f50-1cf8-11ed-96c7-2fa07c6df25b)
 * 15, 63: [Gallery Lazise](https://governance.decentraland.org/proposal/?id=6d3e0b00-1bd5-11ed-96c7-2fa07c6df25b)
-* 35, -96: [🔥Rare Roadside by DCL letters &amp; Plaza - Sentien#5377 Discord](https://governance.decentraland.org/proposal/?id=86683470-1969-11ed-96c7-2fa07c6df25b)
 
 ## Grants
 
-* [Oroboro Landing process. Co-delivered by Descentraland Dao](https://governance.decentraland.org/proposal/?id=cca45f00-1daf-11ed-96c7-2fa07c6df25b) (Tier 2)
+* [Decentraland IRL Meetup at MCON 2022](https://governance.decentraland.org/proposal/?id=a70d0a50-1e75-11ed-9342-4f244be49f84) (Tier 2)
 * [Nexus Market District Build-Out, Phase 1](https://governance.decentraland.org/proposal/?id=309483d0-1b4b-11ed-96c7-2fa07c6df25b) (Tier 4)
 * [[Resubmission] Easy Land Renting - Lands for everyone! [+5% to DAO per sale]](https://governance.decentraland.org/proposal/?id=0c233e00-18ef-11ed-96c7-2fa07c6df25b) (Tier 4)
 * [Data backpack](https://governance.decentraland.org/proposal/?id=659ab8a0-18d6-11ed-96c7-2fa07c6df25b) (Tier 6)
@@ -71,9 +87,8 @@ Since August 16, 1 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Procedure to revoke a grant](https://governance.decentraland.org/proposal/?id=a85bae50-1f0d-11ed-9342-4f244be49f84)
 * [Enable .vrm support for Decentraland models](https://governance.decentraland.org/proposal/?id=bdafe1c0-1d6b-11ed-96c7-2fa07c6df25b)
 * [Prevent harassment and surveillance of all users via overly-exposing endpoint](https://governance.decentraland.org/proposal/?id=32ab78a0-1cda-11ed-96c7-2fa07c6df25b)
-* [Should We Utilise Genesis Resources](https://governance.decentraland.org/proposal/?id=712b6450-1b31-11ed-96c7-2fa07c6df25b)
-* [In wearables, allow extended publisher metadata (for games mostly)](https://governance.decentraland.org/proposal/?id=5bd7e100-1b0e-11ed-96c7-2fa07c6df25b)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
