@@ -111,6 +111,7 @@ Since August 1, 8 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
+* -127, 10: [De Mageva à Megève Art Gallery!](https://governance.decentraland.org/proposal/?id=f4db69c0-1fe7-11ed-b53a-bb8ec35d99a0)
 * -1, -35: [Sugar Club](https://governance.decentraland.org/proposal/?id=feeb1b00-1f32-11ed-9342-4f244be49f84)
 * -25, 25: [Metaverse Trade Center](https://governance.decentraland.org/proposal/?id=5811e920-1f10-11ed-9342-4f244be49f84)
 * -61, 119: [Petaverse](https://governance.decentraland.org/proposal/?id=ed473f50-1cf8-11ed-96c7-2fa07c6df25b)
@@ -125,7 +126,6 @@ Since August 1, 8 grants have been approved and the vesting contract(s) will be 
 * [SinfulMeatStick - Community Building, Onboarding, Education, and Growth](https://governance.decentraland.org/proposal/?id=18c27260-17fb-11ed-affb-95d45c2147f8) (Tier 4)
 * [LendIT - an NFT rental system](https://governance.decentraland.org/proposal/?id=6c196240-17d1-11ed-affb-95d45c2147f8) (Tier 5)
 * [[Resubmission] Dungeons and Dragons &amp; Decentraland](https://governance.decentraland.org/proposal/?id=12f794f0-167a-11ed-affb-95d45c2147f8) (Tier 4)
-* [Wearable Advertising Space Facility &amp; Decentraland Loyalty Points Programme](https://governance.decentraland.org/proposal/?id=df8dde50-155a-11ed-affb-95d45c2147f8) (Tier 5)
 
 ## Names Bans
 
