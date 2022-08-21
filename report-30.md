@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -43,6 +43,13 @@ Since August 16, 1 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+#### [Prevent harassment and surveillance of all users via overly-exposing endpoint](https://governance.decentraland.org/proposal/?id=32ab78a0-1cda-11ed-96c7-2fa07c6df25b)
+
+* Remove the endpoints 58.26965066830183% 5,987,685 VP (18 votes)
+* Keep the endpoints 40.24396688108911% 4,135,398 VP (39 votes)
+* Invalid question/options 1.486382450609056% 152,738 VP (1 votes)
+
+
 #### [Should We Utilise Genesis Resources](https://governance.decentraland.org/proposal/?id=712b6450-1b31-11ed-96c7-2fa07c6df25b)
 
 * Yes 99.99989317837075% 936,139 VP (38 votes)
@@ -71,6 +78,7 @@ Since August 16, 1 grants have been approved and the vesting contract(s) will be
 
 ## Grants
 
+* [Royalty-free audio clip library for land builders in Decentraland](https://governance.decentraland.org/proposal/?id=1c31fb10-2119-11ed-b4a9-178eb7bc02f5) (Tier 3)
 * [Decentraland IRL Meetup at MCON 2022](https://governance.decentraland.org/proposal/?id=a70d0a50-1e75-11ed-9342-4f244be49f84) (Tier 2)
 * [Nexus Market District Build-Out, Phase 1](https://governance.decentraland.org/proposal/?id=309483d0-1b4b-11ed-96c7-2fa07c6df25b) (Tier 4)
 * [[Resubmission] Easy Land Renting - Lands for everyone! [+5% to DAO per sale]](https://governance.decentraland.org/proposal/?id=0c233e00-18ef-11ed-96c7-2fa07c6df25b) (Tier 4)
@@ -89,6 +97,5 @@ Since August 16, 1 grants have been approved and the vesting contract(s) will be
 
 * [Procedure to revoke a grant](https://governance.decentraland.org/proposal/?id=a85bae50-1f0d-11ed-9342-4f244be49f84)
 * [Enable .vrm support for Decentraland models](https://governance.decentraland.org/proposal/?id=bdafe1c0-1d6b-11ed-96c7-2fa07c6df25b)
-* [Prevent harassment and surveillance of all users via overly-exposing endpoint](https://governance.decentraland.org/proposal/?id=32ab78a0-1cda-11ed-96c7-2fa07c6df25b)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
