@@ -115,10 +115,10 @@ Since August 1, 8 grants have been approved and the vesting contract(s) will be 
 * -1, -35: [Sugar Club](https://governance.decentraland.org/proposal/?id=feeb1b00-1f32-11ed-9342-4f244be49f84)
 * -25, 25: [Metaverse Trade Center](https://governance.decentraland.org/proposal/?id=5811e920-1f10-11ed-9342-4f244be49f84)
 * -61, 119: [Petaverse](https://governance.decentraland.org/proposal/?id=ed473f50-1cf8-11ed-96c7-2fa07c6df25b)
-* 15, 63: [Gallery Lazise](https://governance.decentraland.org/proposal/?id=6d3e0b00-1bd5-11ed-96c7-2fa07c6df25b)
 
 ## Grants
 
+* [Wearable Advertising Space Facility &amp; Decentraland Loyalty Points Programme](https://governance.decentraland.org/proposal/?id=465154c0-2157-11ed-b4a9-178eb7bc02f5) (Tier 5)
 * [Royalty-free audio clip library for land builders in Decentraland](https://governance.decentraland.org/proposal/?id=1c31fb10-2119-11ed-b4a9-178eb7bc02f5) (Tier 3)
 * [Decentraland IRL Meetup at MCON 2022](https://governance.decentraland.org/proposal/?id=a70d0a50-1e75-11ed-9342-4f244be49f84) (Tier 2)
 * [Nexus Market District Build-Out, Phase 1](https://governance.decentraland.org/proposal/?id=309483d0-1b4b-11ed-96c7-2fa07c6df25b) (Tier 4)
@@ -126,7 +126,6 @@ Since August 1, 8 grants have been approved and the vesting contract(s) will be 
 * [Data backpack](https://governance.decentraland.org/proposal/?id=659ab8a0-18d6-11ed-96c7-2fa07c6df25b) (Tier 6)
 * [SinfulMeatStick - Community Building, Onboarding, Education, and Growth](https://governance.decentraland.org/proposal/?id=18c27260-17fb-11ed-affb-95d45c2147f8) (Tier 4)
 * [LendIT - an NFT rental system](https://governance.decentraland.org/proposal/?id=6c196240-17d1-11ed-affb-95d45c2147f8) (Tier 5)
-* [[Resubmission] Dungeons and Dragons &amp; Decentraland](https://governance.decentraland.org/proposal/?id=12f794f0-167a-11ed-affb-95d45c2147f8) (Tier 4)
 
 ## Names Bans
 
@@ -137,6 +136,5 @@ Since August 1, 8 grants have been approved and the vesting contract(s) will be 
 ## Polls
 
 * [Procedure to revoke a grant](https://governance.decentraland.org/proposal/?id=a85bae50-1f0d-11ed-9342-4f244be49f84)
-* [Enable .vrm support for Decentraland models](https://governance.decentraland.org/proposal/?id=bdafe1c0-1d6b-11ed-96c7-2fa07c6df25b)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
