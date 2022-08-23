@@ -4,7 +4,7 @@ export interface TransactionDetails {
 }
 
 export interface FeeDetails {
-  date: string
+  date: Date
   fee: number
 }
 

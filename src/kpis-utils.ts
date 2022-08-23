@@ -1,4 +1,4 @@
-import { MemberInfo } from './export-members'
+import { MemberInfo } from './interfaces/Members'
 import { sum } from './utils'
 
 export const VP_DISTRIBUTION_LIMITS = [1e6, 1e5, 1e4, 1e3, 0]
