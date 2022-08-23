@@ -9,12 +9,18 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-1 points of interest have been added to Decentraland’s map since the last report.
+2 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -61, 119: [Petaverse](https://governance.decentraland.org/proposal/?id=ed473f50-1cf8-11ed-96c7-2fa07c6df25b)
+
+* Yes 99.99156679018675% 1,197,545 VP (63 votes)
+* No 0.008433209813250325% 101 VP (5 votes)
 
 
 #### 18, -66: [DigiFun Official](https://governance.decentraland.org/proposal/?id=43d26ad0-187f-11ed-96c7-2fa07c6df25b)
@@ -78,13 +84,15 @@ Since August 16, 1 grants have been approved and the vesting contract(s) will be
 
 ## Points of Interest
 
+* 144, -7: [Borderland](https://governance.decentraland.org/proposal/?id=ec5b1b10-225d-11ed-b4a9-178eb7bc02f5)
+* -28, 27: [NYGallery](https://governance.decentraland.org/proposal/?id=bde03e30-2219-11ed-b4a9-178eb7bc02f5)
 * -127, 10: [De Mageva à Megève Art Gallery!](https://governance.decentraland.org/proposal/?id=f4db69c0-1fe7-11ed-b53a-bb8ec35d99a0)
 * -1, -35: [Sugar Club](https://governance.decentraland.org/proposal/?id=feeb1b00-1f32-11ed-9342-4f244be49f84)
 * -25, 25: [Metaverse Trade Center](https://governance.decentraland.org/proposal/?id=5811e920-1f10-11ed-9342-4f244be49f84)
-* -61, 119: [Petaverse](https://governance.decentraland.org/proposal/?id=ed473f50-1cf8-11ed-96c7-2fa07c6df25b)
 
 ## Grants
 
+* [DCL Closet - Advanced Backpack Features](https://governance.decentraland.org/proposal/?id=42cc9f20-2239-11ed-b4a9-178eb7bc02f5) (Tier 4)
 * [Wearable Advertising Space Facility &amp; Decentraland Loyalty Points Programme](https://governance.decentraland.org/proposal/?id=465154c0-2157-11ed-b4a9-178eb7bc02f5) (Tier 5)
 * [Royalty-free audio clip library for land builders in Decentraland](https://governance.decentraland.org/proposal/?id=1c31fb10-2119-11ed-b4a9-178eb7bc02f5) (Tier 3)
 * [Decentraland IRL Meetup at MCON 2022](https://governance.decentraland.org/proposal/?id=a70d0a50-1e75-11ed-9342-4f244be49f84) (Tier 2)
@@ -102,6 +110,7 @@ Since August 16, 1 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Should Decentraland Names allows for other languages such as Arabic and Mandarin?](https://governance.decentraland.org/proposal/?id=465ff8b0-2231-11ed-b4a9-178eb7bc02f5)
 * [Procedure to revoke a grant](https://governance.decentraland.org/proposal/?id=a85bae50-1f0d-11ed-9342-4f244be49f84)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
