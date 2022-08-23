@@ -5,7 +5,7 @@ export interface CovalentResponse<T> {
   error_code: number | null
 }
 
-interface Data<T> {
+type Data<T> = T[] & {
   updated_at: Date
   items: T[]
   pagination: Pagination | null

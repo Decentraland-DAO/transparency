@@ -87,7 +87,7 @@ export async function fetchCovalentURL<T>(url: string, pageSize = 10000) {
       throw Error(`Failed to fetch ${url} - message: ${response.error_message} - code: ${response.error_code}`)
     }
 
-    result.push(...response.data.items)
+    result.push(...(response.data.items || response.data))
     page++
     hasNext = response.data.pagination && response.data.pagination.has_more
   }
@@ -290,7 +290,7 @@ export function parseVP(scores: number[]): MemberVP {
   }
 }
 
-export type LatestBlocks = DataByNetworks<Record<string, number>>
+export type LatestBlocks = DataByNetworks<Record<string, { block: number, date: string }>>
 export function getLatestBlockByToken(txs: TransactionParsed[]): LatestBlocks {
   const latestBlocks: LatestBlocks = {
     [NetworkName.ETHEREUM]: {},
@@ -299,7 +299,11 @@ export function getLatestBlockByToken(txs: TransactionParsed[]): LatestBlocks {
 
   for (const network of Object.values(NetworkName)) {
     for (const tokenAddress of Tokens.getAddresses(network)) {
-      const latestBlock = txs.filter(tx => tx.network === network && tx.contract.toLowerCase() === tokenAddress).map(tx => tx.block).sort((a, b) => b - a)[0]
+      const latestBlock = txs
+        .filter(tx => tx.network === network && tx.contract.toLowerCase() === tokenAddress)
+        .map(tx => ({ block: tx.block, date: tx.date.split('T')[0] }))
+        .sort((a, b) => b.block - a.block)[0]
+
       if (latestBlock) {
         latestBlocks[network][tokenAddress] = latestBlock
       }

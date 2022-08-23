@@ -1,3 +1,4 @@
+import { TokenPriceAPIData, TokenPriceData } from './interfaces/Transactions/TokenPrices'
 import BigNumber from 'bignumber.js'
 import GRANTS from '../public/grants.json'
 import { Networks, NetworkName, Network } from './entities/Networks'
@@ -40,7 +41,9 @@ enum Topic {
   MATIC_ORDER_TOPIC = '0x77cc75f8061aa168906862622e88c5b05a026a9c06c02d91ec98543e01e7ad33',
 }
 
-const walletAddresses = new Set(Wallets.getAddresses())
+let priceData: TokenPriceData = {}
+
+const WALLET_ADDRESSES = new Set(Wallets.getAddresses())
 
 const grants: GrantProposal[] = GRANTS
 const GRANTS_VESTING_ADDRESSES = new Set(grants.filter(g => g.status === Status.ENACTED && g.vesting_address).map(g => g.vesting_address.toLowerCase()))
@@ -84,9 +87,19 @@ async function getTransactions(name: string, tokenAddress: string, network: Netw
   for (const tx of txs) {
     const transfers = tx.transfers.map(txTransfer => {
       const type = (
-        walletAddresses.has(txTransfer.from_address) &&
-        walletAddresses.has(txTransfer.to_address)
+        WALLET_ADDRESSES.has(txTransfer.from_address) &&
+        WALLET_ADDRESSES.has(txTransfer.to_address)
       ) ? TransferType.INTERNAL : txTransfer.transfer_type
+
+      const date = tx.block_signed_at.split('T')[0]
+      const usdPrice = priceData[txTransfer.contract_address.toLowerCase()][date]
+
+      if (!usdPrice) {
+        throw new Error(`No USD value for tx ${tx.tx_hash} - value: ${usdPrice}`)
+      }
+
+      const amount = new BigNumber(txTransfer.delta).dividedBy(10 ** txTransfer.contract_decimals).toNumber()
+      const usdValue = amount * usdPrice
 
       const transfer: TransactionParsed = {
         wallet: name,
@@ -95,10 +108,10 @@ async function getTransactions(name: string, tokenAddress: string, network: Netw
         block: tx.block_height,
         network: network.name,
         type,
-        amount: new BigNumber(txTransfer.delta).dividedBy(10 ** txTransfer.contract_decimals).toNumber(),
+        amount,
         symbol: txTransfer.contract_ticker_symbol,
         contract: txTransfer.contract_address,
-        quote: txTransfer.delta_quote,
+        quote: usdValue,
         sender: txTransfer.from_address,
         from: txTransfer.from_address,
         to: txTransfer.to_address,
@@ -240,6 +253,43 @@ async function tagging(txs: TransactionParsed[]) {
   return taggedTxns
 }
 
+async function getTokenPrices(latestBlocks?: LatestBlocks) {
+  console.log('Getting token prices...')
+  const unresolvedPrices: Promise<TokenPriceAPIData[]>[] = []
+  const today = new Date().toISOString().split('T')[0]
+
+  for (const network of Networks.getAll()) {
+    const tokenAddresses = Tokens.getAddresses(network.name)
+    for (const address of tokenAddresses) {
+      let from = '2020-01-24'
+      if (latestBlocks) {
+        const blockInfo = latestBlocks[network.name][address]
+        if (blockInfo) {
+          from = blockInfo.date
+        } else {
+          const aWeekAgo = new Date(new Date().setDate(new Date().getDate() - 7)).toISOString().split('T')[0]
+          from = aWeekAgo
+        }
+      }
+      console.log(`${address} - from: ${from}`)
+      const url = `https://api.covalenthq.com/v1/pricing/historical_by_addresses_v2/${network.id}/USD/${address}/?quote-currency=USD&format=JSON&from=${from}&to=${today}&key=${COVALENT_API_KEY}`
+      unresolvedPrices.push(fetchCovalentURL<TokenPriceAPIData>(url, 10000))
+    }
+  }
+
+  const priceData = flattenArray(await Promise.all(unresolvedPrices))
+  const prices: TokenPriceData = {}
+
+  for (const priceItem of priceData) {
+    prices[priceItem.contract_address.toLowerCase()] = priceItem.prices.reduce((accumulator, info) => {
+      accumulator[info.date] = info.price
+      return accumulator
+    }, {} as Record<string, number>)
+  }
+
+  return prices
+}
+
 async function main() {
   let latestBlocks: LatestBlocks = {
     [NetworkName.ETHEREUM]: {},
@@ -259,12 +309,15 @@ async function main() {
     console.log('\n\n###################### WARNING: fetching all transactions ######################\n\n')
   }
 
+  priceData = await getTokenPrices(!fullFetch ? latestBlocks : undefined)
+  console.log('Fetched price data...')
+
   for (const wallet of Wallets.getAll()) {
     const { name, address, network } = wallet
     const tokenAddresses = Tokens.getAddresses(network.name)
 
     for (const tokenAddress of tokenAddresses) {
-      unresolvedTransactions.push(getTransactions(name, tokenAddress, network, address, latestBlocks[network.name][tokenAddress]))
+      unresolvedTransactions.push(getTransactions(name, tokenAddress, network, address, latestBlocks[network.name][tokenAddress]?.block))
     }
   }
 
