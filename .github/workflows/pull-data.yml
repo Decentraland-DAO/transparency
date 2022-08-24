@@ -112,6 +112,8 @@ jobs:
           npx ts-node ./src/upload.ts KPIs ./public/kpis.json
 
       - name: Export API
+        env:
+          NODE_OPTIONS: "--max-old-space-size=4096"
         run: npx ts-node ./src/export-api.ts
 
       - name: Export Report
