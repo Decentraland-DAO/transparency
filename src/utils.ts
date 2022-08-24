@@ -8,7 +8,7 @@ import 'isomorphic-fetch'
 import { Tags } from './entities/Tags'
 import { TransactionParsed } from './export-transactions'
 import { KPI } from './interfaces/KPIs'
-import { MemberVP } from './interfaces/Members'
+import { Delegation, DelegationInfo, MemberVP, ReceivedDelegations } from './interfaces/Members'
 import { TransactionDetails } from './interfaces/Transactions/Transactions'
 import { TransferType } from './interfaces/Transactions/Transfers'
 import { CovalentResponse } from './interfaces/Covalent'
@@ -178,6 +178,37 @@ export async function fetchGraphQLCondition<T>(url: string, collection: string, 
   }
 
   return removeDuplicates(elements, dataKey)
+}
+
+export async function fetchDelegations(members: string[], space: string): Promise<DelegationInfo> {
+  const snapshotQueryUrl = 'https://api.thegraph.com/subgraphs/name/snapshot-labs/snapshot'
+
+  const where = (members: string[], memberIn: 'delegator' | 'delegate') => `space_in: ["", "${space}"], ${memberIn}_in: ${JSON.stringify(members)}`
+
+  const unresolvedGivenDelegations = fetchGraphQL<Delegation>(snapshotQueryUrl, 'delegations', where(members, 'delegator'), 'timestamp', 'delegator delegate')
+  const unresolvedReceivedDelegations = fetchGraphQL<Delegation>(snapshotQueryUrl, 'delegations', where(members, 'delegate'), 'timestamp', 'delegator delegate')
+
+  const [snapshotGivenDelegations, snapshotReceivedDelegations] = await Promise.all([unresolvedGivenDelegations, unresolvedReceivedDelegations])
+
+  const receivedDelegationsMap = snapshotReceivedDelegations.reduce((accumulator, delegation) => {
+    const { delegator, delegate } = delegation
+    if (!accumulator[delegate]) {
+      accumulator[delegate] = []
+    }
+    accumulator[delegate].push(delegator)
+    return accumulator
+  }, {} as Record<string, string[]>)
+
+  const receivedDelegations: ReceivedDelegations[] = Object.entries(receivedDelegationsMap).map(([delegate, delegators]) => ({ delegate, delegators }))
+
+  return {
+    givenDelegations: snapshotGivenDelegations,
+    receivedDelegations
+  }
+}
+
+export function toYesOrNo(value: boolean) {
+  return value ? 'Yes' : 'No'
 }
 
 export function saveToFile(name: string, data: string) {

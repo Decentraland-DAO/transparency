@@ -10,15 +10,36 @@ export interface MemberVP {
   delegatedVP: number
 }
 
+type YesNo = 'Yes' | 'No'
+
 export type MemberInfo = MemberVP & {
   address: string
-  avatar: string
+  avatarPreview: string
+  hasDelegated: YesNo
+  hasDelegators: YesNo
+  delegate?: string
+  delegators?: string[]
 }
 
 export interface DCLMember {
   address: string
   name: string
   avatar: string
+}
+
+export interface Delegation {
+  delegator: string
+  delegate: string
+}
+
+export interface ReceivedDelegations {
+  delegators: string[]
+  delegate: string
+}
+
+export interface DelegationInfo {
+  givenDelegations: Delegation[]
+  receivedDelegations: ReceivedDelegations[]
 }
 
 export const CATALYSTS = [
