@@ -3,7 +3,7 @@ import { NetworkName } from './entities/Networks'
 import { TokenSymbols } from "./entities/Tokens"
 import { Wallet, Wallets } from "./entities/Wallets"
 import { Contract } from "./interfaces/Balance"
-import { fetchURL, flattenArray, saveToCSV, saveToJSON } from "./utils"
+import { baseCovalentUrl, fetchURL, flattenArray, saveToCSV, saveToJSON } from "./utils"
 require('dotenv').config()
 
 const ALLOWED_SYMBOLS = new Set<string>(Object.values(TokenSymbols))
@@ -24,7 +24,7 @@ export type BalanceParsed = {
 
 async function getBalance(wallet: Wallet) {
   const { name, address, network } = wallet
-  const url = `https://api.covalenthq.com/v1/${network.id}/address/${address}/portfolio_v2/?key=${API_KEY}`
+  const url = `${baseCovalentUrl(network)}/address/${address}/portfolio_v2/?key=${API_KEY}`
   const json = await fetchURL(url)
   const contracts: Contract[] = json.data.items
 

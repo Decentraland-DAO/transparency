@@ -8,7 +8,7 @@ import { Tokens } from './entities/Tokens'
 import { GovernanceProposalType, Status } from './interfaces/GovernanceProposal'
 import { GrantProposal } from './interfaces/Grant'
 import { APITransactions, Decoded, DecodedName, ParamName } from './interfaces/Transactions/Transactions'
-import { COVALENT_API_KEY, fetchURL, INFURA_URL, parseNumber, saveToCSV, saveToJSON } from './utils'
+import { baseCovalentUrl, COVALENT_API_KEY, fetchURL, INFURA_URL, parseNumber, saveToCSV, saveToJSON } from './utils'
 
 const web3 = new Web3(INFURA_URL)
 
@@ -67,7 +67,7 @@ function transferMatchesBeneficiary(decodedLogEvent: Decoded, beneficiary: strin
 }
 
 async function getTransactionItems(enactingTx: string) {
-  const url = `https://api.covalenthq.com/v1/${Networks.getEth().id}/transaction_v2/${enactingTx}/?key=${COVALENT_API_KEY}`
+  const url = `${baseCovalentUrl(Networks.getEth())}/transaction_v2/${enactingTx}/?key=${COVALENT_API_KEY}`
   const json = await fetchURL(url)
   if (json.error) {
     throw new Error(JSON.stringify(json))

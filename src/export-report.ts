@@ -1,6 +1,6 @@
 import { renderFile } from "ejs"
 import { GovernanceProposal, GovernanceProposalType, Status } from "./interfaces/GovernanceProposal"
-import { fetchURL, saveToFile } from "./utils"
+import { fetchURL, governanceUrl, saveToFile } from "./utils"
 
 type Votes = {
   choice: number
@@ -64,7 +64,7 @@ async function generateReport(currentReport: number, startDate: Date, endDate: D
   const proposals: GovernanceProposal[] = []
   while (true) {
     const skip = proposals.length
-    const url = `https://governance.decentraland.org/api/proposals?limit=100000&offset=${skip}`
+    const url = `${governanceUrl()}/proposals?limit=100000&offset=${skip}`
     const json = await fetchURL(url)
 
     if (!json.data.length) break
@@ -86,7 +86,7 @@ async function generateReport(currentReport: number, startDate: Date, endDate: D
   ))
 
   for (const prop of endedProposals) {
-    const data = await fetchURL(`https://governance.decentraland.org/api/proposals/${prop.id}/votes`)
+    const data = await fetchURL(`${governanceUrl()}/proposals/${prop.id}/votes`)
 
     const votes: Votes[] = Object.values(data.data)
     prop.totalVP = votes.reduce((total, vote) => total + vote.vp, 0)

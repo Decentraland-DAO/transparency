@@ -9,7 +9,7 @@ import { GrantProposal } from './interfaces/Grant'
 import { APIEvents } from './interfaces/Transactions/Events'
 import { APITransactions } from './interfaces/Transactions/Transactions'
 import { APITransfers, TransferType } from './interfaces/Transactions/Transfers'
-import { COVALENT_API_KEY, fetchURL, flattenArray, saveToCSV, saveToJSON, setTransactionTag, splitArray } from './utils'
+import { baseCovalentUrl, COVALENT_API_KEY, fetchURL, flattenArray, saveToCSV, saveToJSON, setTransactionTag, splitArray } from './utils'
 
 
 require('dotenv').config()
@@ -55,13 +55,13 @@ const OPENSEA_ADDRESSES = new Set([
 async function getTopicTxs(network: Network, startblock: number, topic: Topic) {
   const events: string[] = []
   let block = startblock
-  let url = `https://api.covalenthq.com/v1/${network.id}/block_v2/latest/?key=${COVALENT_API_KEY}`
+  let url = `${baseCovalentUrl(network)}/block_v2/latest/?key=${COVALENT_API_KEY}`
   let json = await fetchURL(url)
   const latestBlock: number = json.data.items[0].height
   console.log('Latest', network, block, latestBlock, (latestBlock - block) / 1000000)
 
   while (block < latestBlock) {
-    url = `https://api.covalenthq.com/v1/${network.id}/events/topics/${topic}/?key=${COVALENT_API_KEY}&starting-block=${block}&ending-block=${block + 1000000}&page-size=1000000000`
+    url = `${baseCovalentUrl(network)}/events/topics/${topic}/?key=${COVALENT_API_KEY}&starting-block=${block}&ending-block=${block + 1000000}&page-size=1000000000`
     console.log('fetch', url)
     json = await fetchURL(url)
     const data: APIEvents = json.data
@@ -74,7 +74,7 @@ async function getTopicTxs(network: Network, startblock: number, topic: Topic) {
 }
 
 async function getTransactions(name: string, tokenAddress: string, network: Network, address: string) {
-  const url = `https://api.covalenthq.com/v1/${network.id}/address/${address}/transfers_v2/?key=${COVALENT_API_KEY}&contract-address=${tokenAddress}&page-size=500000`
+  const url = `${baseCovalentUrl(network)}/address/${address}/transfers_v2/?key=${COVALENT_API_KEY}&contract-address=${tokenAddress}&page-size=500000`
   const json = await fetchURL(url)
   const data: APITransfers = json.data
   const txs = data.items.filter(t => t.successful)
@@ -121,8 +121,7 @@ async function findSecondarySalesTag(txs: TransactionParsed[], chunk: number) {
 
     do {
       try {
-        const networkId = Networks.get(tx.network).id
-        const url = `https://api.covalenthq.com/v1/${networkId}/transaction_v2/${tx.hash}/?key=${COVALENT_API_KEY}`
+        const url = `${baseCovalentUrl(Networks.get(tx.network))}/transaction_v2/${tx.hash}/?key=${COVALENT_API_KEY}`
         const json = await fetchURL(url)
         const data: APITransactions = json.data
         fetched = true

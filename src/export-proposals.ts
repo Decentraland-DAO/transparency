@@ -1,10 +1,10 @@
 import { GovernanceProposal, SnapshotSpace, Symbol } from './interfaces/GovernanceProposal'
 import { Proposal, ProposalParsed, ProposalVotes } from './interfaces/Proposal'
-import { fetchGraphQL, fetchURL, saveToCSV, saveToJSON } from './utils'
+import { fetchGraphQL, fetchURL, governanceUrl, saveToCSV, saveToJSON, snapshotUrl } from './utils'
 
 async function main() {
   // Fetch Snapshot Proposals
-  const url = 'https://hub.snapshot.org/graphql'
+  const url = snapshotUrl()
   const where = `space_in: ["${SnapshotSpace.DCL}"]`
   const proposals: Proposal[] = await fetchGraphQL(url, 'proposals', where, 'created',
     'id scores_total strategies { params } scores_by_strategy votes'
@@ -23,7 +23,7 @@ async function main() {
   const governanceProposals: GovernanceProposal[] = []
   while (true) {
     const skip = governanceProposals.length
-    const url = `https://governance.decentraland.org/api/proposals?limit=100000&offset=${skip}`
+    const url = `${governanceUrl()}/proposals?limit=100000&offset=${skip}`
     const json = await fetchURL(url)
 
     if (!json.data.length) break

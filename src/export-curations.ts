@@ -1,5 +1,5 @@
 import { Curation } from './interfaces/Curation'
-import { fetchGraphQLCondition, saveToCSV, saveToJSON } from './utils'
+import { collectionsUrl, fetchGraphQLCondition, saveToCSV, saveToJSON } from './utils'
 
 interface CurationParsed {
   timestamp: string,
@@ -13,7 +13,7 @@ interface CurationParsed {
 
 async function main() {
   // Fetch Curations
-  const url = 'https://api.thegraph.com/subgraphs/name/decentraland/collections-matic-mainnet'
+  const url = collectionsUrl()
   const curations: Curation[] = await fetchGraphQLCondition(
     url,
     'curations',

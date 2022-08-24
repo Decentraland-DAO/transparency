@@ -2,7 +2,7 @@ import snapshot from '@snapshot-labs/snapshot.js'
 import { Networks } from './entities/Networks'
 import { SnapshotSpace } from './interfaces/GovernanceProposal'
 import { STRATEGIES, Vote } from './interfaces/Members'
-import { fetchGraphQL, flattenArray, saveToCSV, saveToJSON, splitArray } from './utils'
+import { fetchGraphQL, flattenArray, saveToCSV, saveToJSON, snapshotUrl, splitArray } from './utils'
 
 const MAX_RETRIES = 20
 
@@ -60,7 +60,7 @@ async function getMembersInfo(addresses: string[], jobId: number) {
 
 async function main() {
   // Fetch Snapshot Votes
-  const url = 'https://hub.snapshot.org/graphql'
+  const url = snapshotUrl()
   const where = `space_in: ["${space}"], vp_gt: 10`
   const votes: Vote[] = await fetchGraphQL(url, 'votes', where, 'created', 'voter')
 

@@ -1,3 +1,4 @@
+import { Network } from './entities/Networks';
 import BigNumber from 'bignumber.js'
 import { createObjectCsvWriter } from 'csv-writer'
 import { ObjectStringifierHeader } from 'csv-writer/src/lib/record'
@@ -45,6 +46,22 @@ export function dayToMillisec(dayAmount: number) {
 
 export function toISOString(seconds: number) {
   return seconds && new Date(seconds * 1000).toISOString()
+}
+
+export function baseCovalentUrl(network: Network) {
+  return `https://api.covalenthq.com/v1/${network.id}`
+}
+
+export function collectionsUrl() {
+  return 'https://api.thegraph.com/subgraphs/name/decentraland/collections-matic-mainnet'
+}
+
+export function snapshotUrl() {
+  return 'https://hub.snapshot.org/graphql'
+}
+
+export function governanceUrl() {
+  return 'https://governance.decentraland.org/api'
 }
 
 const delay = (ms: number) => new Promise(resolve => setTimeout(resolve, ms))
