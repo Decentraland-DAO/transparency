@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -38,7 +38,19 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since August 16, 2 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since August 16, 4 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Decentraland IRL Meetup at MCON 2022](https://governance.decentraland.org/proposal/?id=a70d0a50-1e75-11ed-9342-4f244be49f84) (Tier 2)
+
+* Yes 99.99974961085354% 2,396,264 VP (77 votes)
+* No 0.0002503891464651312% 6 VP (2 votes)
+
+
+#### [[Resubmission] Easy Land Renting - Lands for everyone! [+5% to DAO per sale]](https://governance.decentraland.org/proposal/?id=0c233e00-18ef-11ed-96c7-2fa07c6df25b) (Tier 4)
+
+* Yes 71.2298429967406% 2,244,374 VP (96 votes)
+* No 28.770157003259396% 906,516 VP (13 votes)
 
 
 #### [SinfulMeatStick - Community Building, Onboarding, Education, and Growth](https://governance.decentraland.org/proposal/?id=18c27260-17fb-11ed-affb-95d45c2147f8) (Tier 4)
@@ -98,14 +110,14 @@ Since August 16, 2 grants have been approved and the vesting contract(s) will be
 
 ## Grants
 
+* [Return to Green](https://governance.decentraland.org/proposal/?id=37c29390-2447-11ed-b4a9-178eb7bc02f5) (Tier 6)
+* [DCL Highlights - Expansion &amp; Long-Term Commitment](https://governance.decentraland.org/proposal/?id=40659800-23eb-11ed-b4a9-178eb7bc02f5) (Tier 4)
+* [An Immersive In-World Marketplace Proposal](https://governance.decentraland.org/proposal/?id=0f9a4300-23c9-11ed-b4a9-178eb7bc02f5) (Tier 6)
 * [Decentral Comedy Promo at Skankfest Vegas/Backstage Access to Skankfest for DCL](https://governance.decentraland.org/proposal/?id=56e0a3b0-2303-11ed-b4a9-178eb7bc02f5) (Tier 5)
 * [DCL Closet - Advanced Backpack Features](https://governance.decentraland.org/proposal/?id=42cc9f20-2239-11ed-b4a9-178eb7bc02f5) (Tier 4)
 * [Wearable Advertising Space Facility &amp; Decentraland Loyalty Points Programme](https://governance.decentraland.org/proposal/?id=465154c0-2157-11ed-b4a9-178eb7bc02f5) (Tier 5)
 * [Royalty-free audio clip library for land builders in Decentraland](https://governance.decentraland.org/proposal/?id=1c31fb10-2119-11ed-b4a9-178eb7bc02f5) (Tier 3)
-* [Decentraland IRL Meetup at MCON 2022](https://governance.decentraland.org/proposal/?id=a70d0a50-1e75-11ed-9342-4f244be49f84) (Tier 2)
 * [Nexus Market District Build-Out, Phase 1](https://governance.decentraland.org/proposal/?id=309483d0-1b4b-11ed-96c7-2fa07c6df25b) (Tier 4)
-* [[Resubmission] Easy Land Renting - Lands for everyone! [+5% to DAO per sale]](https://governance.decentraland.org/proposal/?id=0c233e00-18ef-11ed-96c7-2fa07c6df25b) (Tier 4)
-* [Data backpack](https://governance.decentraland.org/proposal/?id=659ab8a0-18d6-11ed-96c7-2fa07c6df25b) (Tier 6)
 
 ## Names Bans
 
