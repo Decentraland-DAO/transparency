@@ -1,6 +1,6 @@
 import { SnapshotSpace } from './interfaces/GovernanceProposal'
 import { Vote } from './interfaces/Vote'
-import { fetchGraphQL, parseVP, saveToCSV, saveToJSON } from './utils'
+import { fetchGraphQL, parseVP, saveToCSV, saveToJSON, snapshotUrl } from './utils'
 
 export interface VotesParsed {
   voter: string
@@ -19,7 +19,7 @@ export interface VotesParsed {
 
 async function main() {
   // Fetch Snapshot Votes
-  const url = 'https://hub.snapshot.org/graphql'
+  const url = snapshotUrl()
   const where = `space_in: ["${SnapshotSpace.DCL}"], vp_gt: 10`
   const votes = await fetchGraphQL<Vote>(
     url, 'votes', where, 'created',

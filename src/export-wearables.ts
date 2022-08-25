@@ -1,6 +1,6 @@
 import BigNumber from "bignumber.js"
 import { Wearable, WearableData } from "./interfaces/Wearable"
-import { fetchGraphQLCondition, saveToCSV, saveToJSON } from "./utils"
+import { collectionsUrl, fetchGraphQLCondition, saveToCSV, saveToJSON } from "./utils"
 
 type WearableParsed = Wearable & WearableData
 
@@ -11,7 +11,7 @@ async function main() {
 
   for (const network of networks) {
     // Fetch Wearables
-    const url = `https://api.thegraph.com/subgraphs/name/decentraland/collections-${network}-mainnet`
+    const url = collectionsUrl(network)
     const networkWearables = await fetchGraphQLCondition<WearableParsed>(
       url, 'items', 'createdAt', 'id',
       'id creator itemType totalSupply maxSupply rarity creationFee available price beneficiary URI image createdAt updatedAt reviewedAt soldAt sales volume metadata { wearable { name description category } }',

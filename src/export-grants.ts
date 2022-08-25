@@ -8,7 +8,7 @@ import { Tokens } from './entities/Tokens'
 import { GovernanceProposalType, Status } from './interfaces/GovernanceProposal'
 import { GrantProposal, GrantUpdate, GrantUpdateResponse, OneTimePaymentInfo, Update, UpdateStatus, VestingInfo } from './interfaces/Grant'
 import { Decoded, DecodedName, ParamName, TransactionItem } from './interfaces/Transactions/Transactions'
-import { COVALENT_API_KEY, fetchCovalentURL, fetchURL, INFURA_URL, parseNumber, saveToCSV, saveToJSON } from './utils'
+import { baseCovalentUrl, COVALENT_API_KEY, fetchCovalentURL, fetchURL, INFURA_URL, parseNumber, saveToCSV, saveToJSON } from './utils'
 
 const web3 = new Web3(INFURA_URL)
 
@@ -67,7 +67,7 @@ function transferMatchesBeneficiary(decodedLogEvent: Decoded, beneficiary: strin
 }
 
 async function getTransactionItems(enactingTx: string) {
-  const items = await fetchCovalentURL<TransactionItem>(`https://api.covalenthq.com/v1/${Networks.getEth().id}/transaction_v2/${enactingTx}/?key=${COVALENT_API_KEY}`, 0)
+  const items = await fetchCovalentURL<TransactionItem>(`${baseCovalentUrl(Networks.getEth())}/transaction_v2/${enactingTx}/?key=${COVALENT_API_KEY}`, 0)
   return items[0]
 }
 

@@ -3,7 +3,7 @@ import { NetworkName } from './entities/Networks'
 import { TokenSymbols } from "./entities/Tokens"
 import { Wallet, Wallets } from "./entities/Wallets"
 import { Contract } from "./interfaces/Balance"
-import { COVALENT_API_KEY, fetchCovalentURL, flattenArray, saveToCSV, saveToJSON } from "./utils"
+import { baseCovalentUrl, COVALENT_API_KEY, fetchCovalentURL, flattenArray, saveToCSV, saveToJSON } from "./utils"
 
 const ALLOWED_SYMBOLS = new Set<string>(Object.values(TokenSymbols))
 
@@ -21,8 +21,7 @@ export type BalanceParsed = {
 
 async function getBalance(wallet: Wallet) {
   const { name, address, network } = wallet
-  const contracts = await fetchCovalentURL<Contract>(`https://api.covalenthq.com/v1/${network.id}/address/${address}/portfolio_v2/?key=${COVALENT_API_KEY}`, 0)
-
+  const contracts = await fetchCovalentURL<Contract>(`${baseCovalentUrl(network)}}/address/${address}/portfolio_v2/?key=${COVALENT_API_KEY}`, 0)
 
   return contracts.map<BalanceParsed>(contract => ({
     timestamp: contract.holdings[0].timestamp,
