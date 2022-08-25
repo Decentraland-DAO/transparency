@@ -21,7 +21,7 @@ export type BalanceParsed = {
 
 async function getBalance(wallet: Wallet) {
   const { name, address, network } = wallet
-  const contracts = await fetchCovalentURL<Contract>(`${baseCovalentUrl(network)}}/address/${address}/portfolio_v2/?key=${COVALENT_API_KEY}`, 0)
+  const contracts = await fetchCovalentURL<Contract>(`${baseCovalentUrl(network)}/address/${address}/portfolio_v2/?key=${COVALENT_API_KEY}`, 0)
 
   return contracts.map<BalanceParsed>(contract => ({
     timestamp: contract.holdings[0].timestamp,

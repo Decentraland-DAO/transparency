@@ -96,13 +96,17 @@ async function getTransactions(name: string, tokenAddress: string, network: Netw
 
       const date = tx.block_signed_at.split('T')[0]
       const usdPrice = priceData[txTransfer.contract_address.toLowerCase()][date]
+      const amount = new BigNumber(txTransfer.delta).dividedBy(10 ** txTransfer.contract_decimals).toNumber()
+
+      let usdValue = 0
 
       if (!usdPrice) {
-        throw new Error(`No USD value for tx ${tx.tx_hash} - value: ${usdPrice}`)
+        usdValue = txTransfer.delta_quote || 0
+        console.log(`No USD value for tx ${tx.tx_hash}, using ${usdValue}`)
       }
-
-      const amount = new BigNumber(txTransfer.delta).dividedBy(10 ** txTransfer.contract_decimals).toNumber()
-      const usdValue = amount * usdPrice
+      else {
+        usdValue = amount * usdPrice
+      }
 
       const transfer: TransactionParsed = {
         wallet: name,
@@ -122,6 +126,7 @@ async function getTransactions(name: string, tokenAddress: string, network: Netw
         txFrom: tx.from_address,
         fee: tx.gas_quote
       }
+
       return transfer
     })
     transactions.push(...transfers)
