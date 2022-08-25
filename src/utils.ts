@@ -281,13 +281,13 @@ export function getTransactionsPerTag(transactions: TransactionParsed[]) {
     if (result) {
       group[tx.tag] = {
         count: result.count + 1,
-        total: result.total + tx.quote
+        total: result.total.plus(tx.quote)
       }
     }
     else {
       group[tx.tag] = {
         count: 1,
-        total: tx.quote
+        total: new BigNumber(tx.quote)
       }
     }
   }

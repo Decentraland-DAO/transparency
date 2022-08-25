@@ -1,6 +1,8 @@
+import BigNumber from "bignumber.js"
+
 export interface TransactionDetails {
   count: number
-  total: number
+  total: BigNumber
 }
 
 export interface FeeDetails {
