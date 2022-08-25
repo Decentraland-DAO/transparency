@@ -16,6 +16,7 @@ export enum TagType {
   MATIC_MARKETPLACE = 'MATIC Marketplace',
   SAB_DCL = 'SAB DCL',
   GRANT = 'Grant',
+  GRANT_REFUND = 'Grant Refund/Revoke',
   FACILITATOR = 'Facilitator',
   CURATOR = 'Curator',
   OTHER = 'OTHER',
@@ -30,7 +31,7 @@ export enum SecondarySaleItemTagType {
   WEARABLE = 'Secondary Sale :: Wearable L1 fee',
 }
 
-type ExportedTagType = Exclude<TagType, TagType.SECONDARY_SALE | TagType.SWAP | TagType.ETH_MARKETPLACE | TagType.SAB_DCL> | SecondarySaleItemTagType
+type ExportedTagType = Exclude<TagType, TagType.SECONDARY_SALE | TagType.SWAP | TagType.ETH_MARKETPLACE | TagType.SAB_DCL | TagType.GRANT_REFUND> | SecondarySaleItemTagType
 
 export enum TagCategoryType {
   ESTATE_MARKETPLACE_SALES,
@@ -100,6 +101,13 @@ const SWAP_CONTRACTS = [
   '0x2ec255797fef7669fa243509b7a599121148ffba',
   '0x6d51fdc0c57cbbff6dac4a565b35a17b88c6ceb5',
   '0x56eddb7aa87536c09ccc2793473599fd21a8b17f',
+  '0x288931fa76d7b0482f0fd0bca9a50bf0d22b9fef',
+  '0x8661ae7918c0115af9e3691662f605e9c550ddc9',
+  '0xd9ed2b5f292a0e319a04e6c1aca15df97705821c',
+  '0x2057cfb9fd11837d61b294d514c5bd03e5e7189a',
+  '0x4e68ccd3e89f51c3074ca5072bbac773960dfa36',
+  '0x11b815efb8f581194ae79006d24e0d814b7697f6',
+  '0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852',
 ]
 
 const SECONDARY_SALE_CONTRACTS = [
@@ -170,7 +178,25 @@ function toRecord(addresses: string[], tag: TagType) {
   }, {} as Record<string, TagType>)
 }
 
-const CURATORS = new Set(CurationTeam.getMemberAddresses())
+const CURATORS_PAYMENT_ADDRESSES = [
+  '0x5d7846007c1dd6dca25d16ce2f71ec13bcdcf6f0',
+  '0x716954738e57686a08902d9dd586e813490fee23',
+  '0xc958f028d1b871ab2e32c2abda54f37191efe0c2',
+  '0x82d54417fc69681dc74a6c0c68c6dbad5a2857b9',
+  '0x9db59920d3776c2d8a3aa0cbd7b16d81fcab0a2b',
+  '0x91e222ed7598efbcfe7190481f2fd14897e168c8',
+  '0x6cdfdb9a4d99f16b5607cab1d00c792206db554e',
+  '0x862f109696d7121438642a78b3caa38f476db08b',
+  '0xc8ad6322821b51da766a4b2a82b39fb72b53d276',
+  '0xa8c7d5818a255a1856b31177e5c96e1d61c83991',
+  '0x336685bb3a96e13b77e909d7c52e8afcff1e859e',
+  '0x41eb5f82af60873b3c14fedb898a1712f5c35366',
+  '0x470c33abd57166940095d59bd8dd573cbae556c3',
+  '0x1dec5f50cb1467f505bb3ddfd408805114406b10',
+  '0x5ce9fb617333b8c5a8f7787710f7c07002cb3516',
+  '0x805797df0c0d7d70e14230b72e30171d730da55e'
+]
+const CURATORS = new Set([...CurationTeam.getMemberAddresses(), ...CURATORS_PAYMENT_ADDRESSES])
 const ITEM_CONTRACTS: Record<string, ItemTagType> = {
   '0x959e104e1a4db6317fa58f8295f586e1a978c297': TagType.ESTATE_BID_FEE,
   '0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d': TagType.LAND_BID_FEE,

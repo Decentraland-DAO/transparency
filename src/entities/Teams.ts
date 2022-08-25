@@ -143,9 +143,14 @@ export const CurationTeam = new Team(
       avatar: 'https://peer.decentraland.org/content/contents/QmQAUCheYJyaj7T2Uk9rwAqVYabDxpm1AiMxGD4KgLosmu'
     },
     {
-      address: '0x805797df0c0d7d70e14230b72e30171d730da55e',
+      address: '0x5ce9fb617333b8c5a8f7787710f7c07002cb3516',
       name: 'Yannakis',
       avatar: 'https://peer.decentraland.org/content/contents/QmeobCJZze79Nye5KCaUtAfZ7Z1wkE9Z7youUaDG4TzqbV'
-    }
+    },
+    {
+      address: '0x967fb0c36e4f5288f30fb05f8b2a4d7b77eaca4b',
+      name: 'KJWalker',
+      avatar: 'https://peer.decentraland.org/content/contents/bafkreidrquum4l7dymzhodvzctjaj2odhtp6lxjjn6rkoefy5jr6qycsey'
+    },
   ]
 )

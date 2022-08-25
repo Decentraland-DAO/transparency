@@ -49,7 +49,10 @@ const OPENSEA_ADDRESSES = new Set([
   '0x9b814233894cd227f561b78cc65891aa55c62ad2',
   '0x2da950f79d8bd7e7f815e1bbc43ecee2c7e7f5d3',
   '0x00000000006c3852cbef3e08e8df289169ede581',
-  '0xf715beb51ec8f63317d66f491e37e7bb048fcc2d'
+  '0xf715beb51ec8f63317d66f491e37e7bb048fcc2d',
+  '0x000000004b5ad44f70781462233d177d32d993f1',
+  '0x13c10925bf130e4a9631900d89475d2155b5f9c0',
+  '0x0000000000e9c0809c14f4dc1e48f97abd9317f6',
 ])
 
 async function getTopicTxs(network: Network, startblock: number, topic: Topic) {
@@ -137,6 +140,10 @@ async function findSecondarySalesTag(txs: TransactionParsed[], chunk: number) {
         maxRetries--
       }
     } while (!fetched && maxRetries > 0)
+
+    if (maxRetries <= 0) {
+      console.log("Failed to fetch secondary sale tag, tx:", tx.hash)
+    }
   }
 
   console.log(`Secondary sales tagged: ${txs.length} - Chunk = ${chunk}`)
@@ -222,6 +229,11 @@ async function tagging(txs: TransactionParsed[]) {
 
       if (tx.type === TransferType.OUT && (GRANTS_VESTING_ADDRESSES.has(tx.to) || GRANTS_ENACTING_TXS.has(tx.hash))) {
         tx.tag = TagType.GRANT
+        continue
+      }
+      
+      if (tx.type === TransferType.IN && GRANTS_VESTING_ADDRESSES.has(tx.from)) {
+        tx.tag = TagType.GRANT_REFUND
         continue
       }
 
