@@ -9,12 +9,24 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
+In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-2 points of interest have been added to Decentraland’s map since the last report.
+4 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -1, -35: [Sugar Club](https://governance.decentraland.org/proposal/?id=feeb1b00-1f32-11ed-9342-4f244be49f84)
+
+* Yes 100% 2,985,682 VP (100 votes)
+* No 0% 0 VP (0 votes)
+
+
+#### -25, 25: [Metaverse Trade Center](https://governance.decentraland.org/proposal/?id=5811e920-1f10-11ed-9342-4f244be49f84)
+
+* Yes 99.99995187835619% 2,078,066 VP (58 votes)
+* No 0.0000481216438161041% 1 VP (1 votes)
 
 
 #### -61, 119: [Petaverse](https://governance.decentraland.org/proposal/?id=ed473f50-1cf8-11ed-96c7-2fa07c6df25b)
@@ -102,11 +114,10 @@ Since August 16, 4 grants have been approved and the vesting contract(s) will be
 
 ## Points of Interest
 
+* 49, 88: [Revolution](https://governance.decentraland.org/proposal/?id=c3e88400-24b1-11ed-ac99-5bece7edccd0)
 * 144, -7: [Dice Masters](https://governance.decentraland.org/proposal/?id=ec5b1b10-225d-11ed-b4a9-178eb7bc02f5)
 * -28, 27: [NYGallery](https://governance.decentraland.org/proposal/?id=bde03e30-2219-11ed-b4a9-178eb7bc02f5)
 * -127, 10: [De Mageva à Megève Art Gallery!](https://governance.decentraland.org/proposal/?id=f4db69c0-1fe7-11ed-b53a-bb8ec35d99a0)
-* -1, -35: [Sugar Club](https://governance.decentraland.org/proposal/?id=feeb1b00-1f32-11ed-9342-4f244be49f84)
-* -25, 25: [Metaverse Trade Center](https://governance.decentraland.org/proposal/?id=5811e920-1f10-11ed-9342-4f244be49f84)
 
 ## Grants
 

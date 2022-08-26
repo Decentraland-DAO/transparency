@@ -111,11 +111,10 @@ Since August 1, 8 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
+* 49, 88: [Revolution](https://governance.decentraland.org/proposal/?id=c3e88400-24b1-11ed-ac99-5bece7edccd0)
 * 144, -7: [Dice Masters](https://governance.decentraland.org/proposal/?id=ec5b1b10-225d-11ed-b4a9-178eb7bc02f5)
 * -28, 27: [NYGallery](https://governance.decentraland.org/proposal/?id=bde03e30-2219-11ed-b4a9-178eb7bc02f5)
 * -127, 10: [De Mageva à Megève Art Gallery!](https://governance.decentraland.org/proposal/?id=f4db69c0-1fe7-11ed-b53a-bb8ec35d99a0)
-* -1, -35: [Sugar Club](https://governance.decentraland.org/proposal/?id=feeb1b00-1f32-11ed-9342-4f244be49f84)
-* -25, 25: [Metaverse Trade Center](https://governance.decentraland.org/proposal/?id=5811e920-1f10-11ed-9342-4f244be49f84)
 
 ## Grants
 
