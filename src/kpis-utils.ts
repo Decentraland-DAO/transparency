@@ -1,4 +1,4 @@
-import { MemberInfo } from './interfaces/Members'
+import { MemberInfo, MemberVP } from './interfaces/Members'
 import { sum } from './utils'
 
 export const VP_DISTRIBUTION_LIMITS = [1e6, 1e5, 1e4, 1e3, 0]
@@ -41,3 +41,23 @@ export function getVPDistributionRows(members: MemberInfo[], totalVP: number) {
   return rows
 }
 
+export function getDelegatedVPDistributionRows(members: MemberInfo[]) {
+  const membersWhoDelegated = members.filter(member => member.hasDelegated === 'Yes')
+
+  const getMemberVP = (members: MemberInfo[], type: keyof MemberVP) => sum(members.map(member => member[type]))
+
+  const landVP = getMemberVP(membersWhoDelegated, 'landVP')
+  const namesVP = getMemberVP(membersWhoDelegated, 'namesVP')
+  const manaVP = getMemberVP(membersWhoDelegated, 'manaVP')
+
+  const totalDelegatedVP = landVP + namesVP + manaVP
+
+  const getRow = (type: keyof MemberVP, value: number) => [type, Math.round(value), getRatio(value, totalDelegatedVP)]
+
+  return [
+    getRow('manaVP', manaVP),
+    getRow('landVP', landVP),
+    getRow('namesVP', namesVP),
+    ['Total Delegated VP', Math.round(totalDelegatedVP)]
+  ]
+}

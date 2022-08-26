@@ -15,7 +15,7 @@ import { ProposalParsed } from './interfaces/Proposal'
 import { FeeDetails } from './interfaces/Transactions/Transactions'
 import { TransferType } from './interfaces/Transactions/Transfers'
 import { avg, dayToMillisec, getTransactionsPerTag, median, saveToJSON, sum } from './utils'
-import { getRatio, getVPDistributionRows } from './kpis-utils'
+import { getDelegatedVPDistributionRows, getRatio, getVPDistributionRows } from './kpis-utils'
 
 
 function main() {
@@ -63,6 +63,10 @@ function main() {
     {
       header: ['VP Distribution', 'Members', 'Members Percentage', 'Total VP', 'VP percentage'],
       rows: getVPDistributionRows(members, totalVP)
+    },
+    {
+      header: ['Delegated VP Distribution', 'Amount', 'VP percentage'],
+      rows: getDelegatedVPDistributionRows(members)
     },
     {
       header: ['Participation'],
