@@ -99,7 +99,7 @@ jobs:
           SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
         run: |
           npx ts-node ./src/export-curations.ts
-          npx ts-node ./src/upload.ts Curations ./public/wearables.csv
+          npx ts-node ./src/upload.ts Curations ./public/curations.csv
 
       - name: Pull Members
         env:
