@@ -117,10 +117,11 @@ Since August 16, 4 grants have been approved and the vesting contract(s) will be
 * 49, 88: [Revolution](https://governance.decentraland.org/proposal/?id=c3e88400-24b1-11ed-ac99-5bece7edccd0)
 * 144, -7: [Dice Masters](https://governance.decentraland.org/proposal/?id=ec5b1b10-225d-11ed-b4a9-178eb7bc02f5)
 * -28, 27: [NYGallery](https://governance.decentraland.org/proposal/?id=bde03e30-2219-11ed-b4a9-178eb7bc02f5)
-* -127, 10: [De Mageva à Megève Art Gallery!](https://governance.decentraland.org/proposal/?id=f4db69c0-1fe7-11ed-b53a-bb8ec35d99a0)
 
 ## Grants
 
+* [Butterfly Prawn Farm](https://governance.decentraland.org/proposal/?id=0c0fbc20-25cb-11ed-ac99-5bece7edccd0) (Tier 5)
+* [Strategy &amp; Finance Squad](https://governance.decentraland.org/proposal/?id=0e747070-2565-11ed-ac99-5bece7edccd0) (Tier 5)
 * [Return to Green](https://governance.decentraland.org/proposal/?id=37c29390-2447-11ed-b4a9-178eb7bc02f5) (Tier 6)
 * [DCL Highlights - Expansion &amp; Long-Term Commitment](https://governance.decentraland.org/proposal/?id=40659800-23eb-11ed-b4a9-178eb7bc02f5) (Tier 4)
 * [An Immersive In-World Marketplace Proposal](https://governance.decentraland.org/proposal/?id=0f9a4300-23c9-11ed-b4a9-178eb7bc02f5) (Tier 6)
