@@ -9,12 +9,18 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
+In the two weeks since the last DAO Committee report, 5 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-4 points of interest have been added to Decentraland’s map since the last report.
+5 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 144, -7: [Dice Masters](https://governance.decentraland.org/proposal/?id=ec5b1b10-225d-11ed-b4a9-178eb7bc02f5)
+
+* Yes 99.99992086967393% 3,791,211 VP (74 votes)
+* No 0.00007913032606442158% 3 VP (3 votes)
 
 
 #### -1, -35: [Sugar Club](https://governance.decentraland.org/proposal/?id=feeb1b00-1f32-11ed-9342-4f244be49f84)
@@ -127,12 +133,13 @@ Since August 16, 5 grants have been approved and the vesting contract(s) will be
 
 ## Points of Interest
 
+* -51, -106: [Gallery 187](https://governance.decentraland.org/proposal/?id=f7fe5c20-2820-11ed-ac99-5bece7edccd0)
 * 49, 88: [Revolution](https://governance.decentraland.org/proposal/?id=c3e88400-24b1-11ed-ac99-5bece7edccd0)
-* 144, -7: [Dice Masters](https://governance.decentraland.org/proposal/?id=ec5b1b10-225d-11ed-b4a9-178eb7bc02f5)
-* -28, 27: [NYGallery](https://governance.decentraland.org/proposal/?id=bde03e30-2219-11ed-b4a9-178eb7bc02f5)
 
 ## Grants
 
+* [Community Module: Solitaire](https://governance.decentraland.org/proposal/?id=13e979f0-27dc-11ed-ac99-5bece7edccd0) (Tier 2)
+* [Oroboros landing by DCL Season 1 &amp; 2 / Partenership Coordination 4 vote](https://governance.decentraland.org/proposal/?id=960e72c0-27d5-11ed-ac99-5bece7edccd0) (Tier 2)
 * [Butterfly Prawn Farm](https://governance.decentraland.org/proposal/?id=0c0fbc20-25cb-11ed-ac99-5bece7edccd0) (Tier 5)
 * [Strategy &amp; Finance Squad](https://governance.decentraland.org/proposal/?id=0e747070-2565-11ed-ac99-5bece7edccd0) (Tier 5)
 * [Return to Green](https://governance.decentraland.org/proposal/?id=37c29390-2447-11ed-b4a9-178eb7bc02f5) (Tier 6)

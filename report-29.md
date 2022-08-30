@@ -97,12 +97,13 @@ Since August 1, 8 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
+* -51, -106: [Gallery 187](https://governance.decentraland.org/proposal/?id=f7fe5c20-2820-11ed-ac99-5bece7edccd0)
 * 49, 88: [Revolution](https://governance.decentraland.org/proposal/?id=c3e88400-24b1-11ed-ac99-5bece7edccd0)
-* 144, -7: [Dice Masters](https://governance.decentraland.org/proposal/?id=ec5b1b10-225d-11ed-b4a9-178eb7bc02f5)
-* -28, 27: [NYGallery](https://governance.decentraland.org/proposal/?id=bde03e30-2219-11ed-b4a9-178eb7bc02f5)
 
 ## Grants
 
+* [Community Module: Solitaire](https://governance.decentraland.org/proposal/?id=13e979f0-27dc-11ed-ac99-5bece7edccd0) (Tier 2)
+* [Oroboros landing by DCL Season 1 &amp; 2 / Partenership Coordination 4 vote](https://governance.decentraland.org/proposal/?id=960e72c0-27d5-11ed-ac99-5bece7edccd0) (Tier 2)
 * [Butterfly Prawn Farm](https://governance.decentraland.org/proposal/?id=0c0fbc20-25cb-11ed-ac99-5bece7edccd0) (Tier 5)
 * [Strategy &amp; Finance Squad](https://governance.decentraland.org/proposal/?id=0e747070-2565-11ed-ac99-5bece7edccd0) (Tier 5)
 * [Return to Green](https://governance.decentraland.org/proposal/?id=37c29390-2447-11ed-b4a9-178eb7bc02f5) (Tier 6)
