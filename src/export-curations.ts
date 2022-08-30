@@ -30,7 +30,7 @@ async function main() {
       collectionId: c.collection.id,
       collectionName: c.collection.name,
       collectionItems: c.collection.itemsCount,
-      collectionApproved: c.collection.isApproved,
+      collectionApproved: c.isApproved,
       timestamp: new Date(parseInt(c.timestamp) * 1000).toISOString()
     }
   })
