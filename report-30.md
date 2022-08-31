@@ -133,11 +133,14 @@ Since August 16, 5 grants have been approved and the vesting contract(s) will be
 
 ## Points of Interest
 
+* -148, 131: [Casino Quarter West Central](https://governance.decentraland.org/proposal/?id=2cdf3bf0-289c-11ed-ac99-5bece7edccd0)
 * -51, -106: [Gallery 187](https://governance.decentraland.org/proposal/?id=f7fe5c20-2820-11ed-ac99-5bece7edccd0)
 * 49, 88: [Revolution](https://governance.decentraland.org/proposal/?id=c3e88400-24b1-11ed-ac99-5bece7edccd0)
 
 ## Grants
 
+* [i wanna add a free harrypotter land in this which would consist of same rides US](https://governance.decentraland.org/proposal/?id=f11948d0-28d3-11ed-ac99-5bece7edccd0) (Tier 2)
+* [The mobile game QUANTUMSPACE,  portal  in the NFT Galleryu QUANTUMSPACE in DCL.](https://governance.decentraland.org/proposal/?id=6f57fcd0-2877-11ed-ac99-5bece7edccd0) (Tier 6)
 * [Community Module: Solitaire](https://governance.decentraland.org/proposal/?id=13e979f0-27dc-11ed-ac99-5bece7edccd0) (Tier 2)
 * [Oroboros landing by DCL Season 1 &amp; 2 / Partenership Coordination 4 vote](https://governance.decentraland.org/proposal/?id=960e72c0-27d5-11ed-ac99-5bece7edccd0) (Tier 2)
 * [Butterfly Prawn Farm](https://governance.decentraland.org/proposal/?id=0c0fbc20-25cb-11ed-ac99-5bece7edccd0) (Tier 5)
