@@ -133,6 +133,8 @@ Since August 16, 5 grants have been approved and the vesting contract(s) will be
 
 ## Points of Interest
 
+* -100, 10: [Fashion Street Estate](https://governance.decentraland.org/proposal/?id=db97d930-29d8-11ed-ac99-5bece7edccd0)
+* 74, 28: [21Infinite](https://governance.decentraland.org/proposal/?id=da8af850-2970-11ed-ac99-5bece7edccd0)
 * -148, 131: [Casino Quarter West Central](https://governance.decentraland.org/proposal/?id=2cdf3bf0-289c-11ed-ac99-5bece7edccd0)
 * -51, -106: [Gallery 187](https://governance.decentraland.org/proposal/?id=f7fe5c20-2820-11ed-ac99-5bece7edccd0)
 * 49, 88: [Revolution](https://governance.decentraland.org/proposal/?id=c3e88400-24b1-11ed-ac99-5bece7edccd0)
