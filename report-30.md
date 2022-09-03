@@ -133,14 +133,15 @@ Since August 16, 5 grants have been approved and the vesting contract(s) will be
 
 ## Points of Interest
 
+* -36, 146: [The Ocean Meta](https://governance.decentraland.org/proposal/?id=49b232e0-2a32-11ed-ac99-5bece7edccd0)
 * -100, 10: [Fashion Street Estate](https://governance.decentraland.org/proposal/?id=db97d930-29d8-11ed-ac99-5bece7edccd0)
 * 74, 28: [21Infinite](https://governance.decentraland.org/proposal/?id=da8af850-2970-11ed-ac99-5bece7edccd0)
 * -148, 131: [Casino Quarter West Central](https://governance.decentraland.org/proposal/?id=2cdf3bf0-289c-11ed-ac99-5bece7edccd0)
 * -51, -106: [Gallery 187](https://governance.decentraland.org/proposal/?id=f7fe5c20-2820-11ed-ac99-5bece7edccd0)
-* 49, 88: [Revolution](https://governance.decentraland.org/proposal/?id=c3e88400-24b1-11ed-ac99-5bece7edccd0)
 
 ## Grants
 
+* [Decentraland Explorer’s Challenges](https://governance.decentraland.org/proposal/?id=86b776a0-2a64-11ed-ac99-5bece7edccd0) (Tier 3)
 * [i wanna add a free harrypotter land in this which would consist of same rides US](https://governance.decentraland.org/proposal/?id=f11948d0-28d3-11ed-ac99-5bece7edccd0) (Tier 2)
 * [The mobile game QUANTUMSPACE,  portal  in the NFT Galleryu QUANTUMSPACE in DCL.](https://governance.decentraland.org/proposal/?id=6f57fcd0-2877-11ed-ac99-5bece7edccd0) (Tier 6)
 * [Community Module: Solitaire](https://governance.decentraland.org/proposal/?id=13e979f0-27dc-11ed-ac99-5bece7edccd0) (Tier 2)
@@ -162,5 +163,7 @@ Since August 16, 5 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Who should make the decision of revoking grants?](https://governance.decentraland.org/proposal/?id=823c92e0-2ad2-11ed-ac99-5bece7edccd0)
+* [Should 1/4 of DAO balance converted to Eth and Btc before 2024 Bitcoin halving ?](https://governance.decentraland.org/proposal/?id=9d24ced0-2a0d-11ed-ac99-5bece7edccd0)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
