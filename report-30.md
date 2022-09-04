@@ -163,6 +163,7 @@ Since August 16, 5 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Should the community begin discussing a revitalisation strategy for Plazas?](https://governance.decentraland.org/proposal/?id=9987c5a0-2bf4-11ed-ac99-5bece7edccd0)
 * [Who should make the decision of revoking grants?](https://governance.decentraland.org/proposal/?id=823c92e0-2ad2-11ed-ac99-5bece7edccd0)
 * [Should 1/4 of DAO balance converted to Eth and Btc before 2024 Bitcoin halving ?](https://governance.decentraland.org/proposal/?id=9d24ced0-2a0d-11ed-ac99-5bece7edccd0)
 
