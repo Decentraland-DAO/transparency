@@ -56,7 +56,6 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 * [An Immersive In-World Marketplace Proposal](https://governance.decentraland.org/proposal/?id=0f9a4300-23c9-11ed-b4a9-178eb7bc02f5) (Tier 6)
 * [Decentral Comedy Promo at Skankfest Vegas/Backstage Access to Skankfest for DCL](https://governance.decentraland.org/proposal/?id=56e0a3b0-2303-11ed-b4a9-178eb7bc02f5) (Tier 5)
 * [DCL Closet - Advanced Backpack Features](https://governance.decentraland.org/proposal/?id=42cc9f20-2239-11ed-b4a9-178eb7bc02f5) (Tier 4)
-* [Wearable Advertising Space Facility &amp; Decentraland Loyalty Points Programme](https://governance.decentraland.org/proposal/?id=465154c0-2157-11ed-b4a9-178eb7bc02f5) (Tier 5)
 
 ## Names Bans
 
@@ -66,6 +65,7 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Should we bring BUILDING as a type of asset just like wearable, and make it usable on Builder or other Official Editor? Securing the rights of creator.](https://governance.decentraland.org/proposal/?id=fe612aa0-2c50-11ed-ac99-5bece7edccd0)
 * [Should the community begin discussing a revitalisation strategy for Plazas?](https://governance.decentraland.org/proposal/?id=9987c5a0-2bf4-11ed-ac99-5bece7edccd0)
 * [Who should make the decision of revoking grants?](https://governance.decentraland.org/proposal/?id=823c92e0-2ad2-11ed-ac99-5bece7edccd0)
 * [Should 1/4 of DAO balance converted to Eth and Btc before 2024 Bitcoin halving ?](https://governance.decentraland.org/proposal/?id=9d24ced0-2a0d-11ed-ac99-5bece7edccd0)
