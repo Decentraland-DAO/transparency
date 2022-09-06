@@ -9,12 +9,18 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+1 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -51, -106: [Gallery187](https://governance.decentraland.org/proposal/?id=f7fe5c20-2820-11ed-ac99-5bece7edccd0)
+
+* Yes 99.9997365248951% 759,083 VP (51 votes)
+* No 0.00026347510489602616% 2 VP (2 votes)
 
 
 ## Name Bans
@@ -26,7 +32,19 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since September 1, 0 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since September 1, 2 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Community Module: Solitaire](https://governance.decentraland.org/proposal/?id=13e979f0-27dc-11ed-ac99-5bece7edccd0) (Tier 2)
+
+* Yes 99.90544580035446% 1,034,406 VP (34 votes)
+* No 0.09455419964554249% 979 VP (2 votes)
+
+
+#### [DCL Closet - Advanced Backpack Features](https://governance.decentraland.org/proposal/?id=42cc9f20-2239-11ed-b4a9-178eb7bc02f5) (Tier 4)
+
+* Yes 99.99962717760542% 3,486,902 VP (106 votes)
+* No 0.0003728223945808831% 13 VP (2 votes)
 
 
 ## Polls
@@ -40,22 +58,19 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 * -100, 10: [Fashion Street Estate](https://governance.decentraland.org/proposal/?id=db97d930-29d8-11ed-ac99-5bece7edccd0)
 * 74, 28: [21Infinite](https://governance.decentraland.org/proposal/?id=da8af850-2970-11ed-ac99-5bece7edccd0)
 * -148, 131: [Casino Quarter West Central](https://governance.decentraland.org/proposal/?id=2cdf3bf0-289c-11ed-ac99-5bece7edccd0)
-* -51, -106: [Gallery 187](https://governance.decentraland.org/proposal/?id=f7fe5c20-2820-11ed-ac99-5bece7edccd0)
 
 ## Grants
 
+* [Exodus: Goodbye World Development](https://governance.decentraland.org/proposal/?id=d1802450-2d90-11ed-ac99-5bece7edccd0) (Tier 6)
 * [Decentraland Explorer’s Challenges](https://governance.decentraland.org/proposal/?id=86b776a0-2a64-11ed-ac99-5bece7edccd0) (Tier 3)
 * [i wanna add a free harrypotter land in this which would consist of same rides US](https://governance.decentraland.org/proposal/?id=f11948d0-28d3-11ed-ac99-5bece7edccd0) (Tier 2)
 * [The mobile game QUANTUMSPACE,  portal  in the NFT Galleryu QUANTUMSPACE in DCL.](https://governance.decentraland.org/proposal/?id=6f57fcd0-2877-11ed-ac99-5bece7edccd0) (Tier 6)
-* [Community Module: Solitaire](https://governance.decentraland.org/proposal/?id=13e979f0-27dc-11ed-ac99-5bece7edccd0) (Tier 2)
-* [Oroboros landing by DCL Season 1 &amp; 2 / Partenership Coordination 4 vote](https://governance.decentraland.org/proposal/?id=960e72c0-27d5-11ed-ac99-5bece7edccd0) (Tier 2)
 * [Butterfly Prawn Farm](https://governance.decentraland.org/proposal/?id=0c0fbc20-25cb-11ed-ac99-5bece7edccd0) (Tier 5)
 * [Strategy &amp; Finance Squad](https://governance.decentraland.org/proposal/?id=0e747070-2565-11ed-ac99-5bece7edccd0) (Tier 5)
 * [Return to Green](https://governance.decentraland.org/proposal/?id=37c29390-2447-11ed-b4a9-178eb7bc02f5) (Tier 6)
 * [DCL Highlights - Expansion &amp; Long-Term Commitment](https://governance.decentraland.org/proposal/?id=40659800-23eb-11ed-b4a9-178eb7bc02f5) (Tier 4)
 * [An Immersive In-World Marketplace Proposal](https://governance.decentraland.org/proposal/?id=0f9a4300-23c9-11ed-b4a9-178eb7bc02f5) (Tier 6)
 * [Decentral Comedy Promo at Skankfest Vegas/Backstage Access to Skankfest for DCL](https://governance.decentraland.org/proposal/?id=56e0a3b0-2303-11ed-b4a9-178eb7bc02f5) (Tier 5)
-* [DCL Closet - Advanced Backpack Features](https://governance.decentraland.org/proposal/?id=42cc9f20-2239-11ed-b4a9-178eb7bc02f5) (Tier 4)
 
 ## Names Bans
 
