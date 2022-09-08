@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -38,13 +38,19 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since September 1, 3 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since September 1, 4 grants have been approved and the vesting contract(s) will be established within 7-10 days.
 
 
 #### [Community Module: Solitaire](https://governance.decentraland.org/proposal/?id=13e979f0-27dc-11ed-ac99-5bece7edccd0) (Tier 2)
 
 * Yes 99.90544580035446% 1,034,406 VP (34 votes)
 * No 0.09455419964554249% 979 VP (2 votes)
+
+
+#### [An Immersive In-World Marketplace Proposal](https://governance.decentraland.org/proposal/?id=0f9a4300-23c9-11ed-b4a9-178eb7bc02f5) (Tier 6)
+
+* Yes 98.34517317995052% 12,878,207 VP (181 votes)
+* No 1.6548268200494771% 216,698 VP (6 votes)
 
 
 #### [Decentral Comedy Promo at Skankfest Vegas/Backstage Access to Skankfest for DCL](https://governance.decentraland.org/proposal/?id=56e0a3b0-2303-11ed-b4a9-178eb7bc02f5) (Tier 5)
@@ -61,6 +67,16 @@ Since September 1, 3 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+#### [Who should make the decision of revoking grants?](https://governance.decentraland.org/proposal/?id=823c92e0-2ad2-11ed-ac99-5bece7edccd0)
+
+* Community Decides 1.769723813175806% 127,332 VP (15 votes)
+* DAO committee decides 14.802514127477876% 1,065,044 VP (20 votes)
+* New committee decides 83.42762307434543% 6,002,635 VP (25 votes)
+* Jury 0.00013898500087769028% 10 VP (1 votes)
+* Do nothing 0% 0 VP (0 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 #### [Should 1/4 of DAO balance converted to Eth and Btc before 2024 Bitcoin halving ?](https://governance.decentraland.org/proposal/?id=9d24ced0-2a0d-11ed-ac99-5bece7edccd0)
 
 * Yes 0.00108334335134712% 31 VP (22 votes)
@@ -73,12 +89,14 @@ Since September 1, 3 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
+* -89, -85: [Canessa&#39;s Place](https://governance.decentraland.org/proposal/?id=1ea12260-2f27-11ed-b361-67b98a1da2c8)
 * -36, 146: [The Ocean Meta](https://governance.decentraland.org/proposal/?id=49b232e0-2a32-11ed-ac99-5bece7edccd0)
-* -100, 10: [Fashion Street Estate](https://governance.decentraland.org/proposal/?id=db97d930-29d8-11ed-ac99-5bece7edccd0)
-* 74, 28: [21Infinite](https://governance.decentraland.org/proposal/?id=da8af850-2970-11ed-ac99-5bece7edccd0)
 
 ## Grants
 
+* [Building San Fransisco City Hall for weddings in Decentraland](https://governance.decentraland.org/proposal/?id=efa07010-2f58-11ed-b361-67b98a1da2c8) (Tier 2)
+* [Building City Hall Sand Francisco for wedding ceremonis in Decentraland](https://governance.decentraland.org/proposal/?id=285283f0-2f57-11ed-b361-67b98a1da2c8) (Tier 2)
+* [Decentraland NOW - Expansion](https://governance.decentraland.org/proposal/?id=c2432ca0-2f1e-11ed-b361-67b98a1da2c8) (Tier 3)
 * [Create a Phygital environment to unite artists from latam and Decentraland](https://governance.decentraland.org/proposal/?id=9a9c4f70-2e50-11ed-b361-67b98a1da2c8) (Tier 4)
 * [DCL Virtual Library - Gamifying Education](https://governance.decentraland.org/proposal/?id=c7b01920-2e0e-11ed-b361-67b98a1da2c8) (Tier 4)
 * [Dice Masters Development &amp; Expansion](https://governance.decentraland.org/proposal/?id=f67f9bc0-2dfc-11ed-b361-67b98a1da2c8) (Tier 6)
@@ -87,9 +105,6 @@ Since September 1, 3 grants have been approved and the vesting contract(s) will 
 * [The mobile game QUANTUMSPACE,  portal  in the NFT Galleryu QUANTUMSPACE in DCL.](https://governance.decentraland.org/proposal/?id=6f57fcd0-2877-11ed-ac99-5bece7edccd0) (Tier 6)
 * [Butterfly Prawn Farm](https://governance.decentraland.org/proposal/?id=0c0fbc20-25cb-11ed-ac99-5bece7edccd0) (Tier 5)
 * [Strategy &amp; Finance Squad](https://governance.decentraland.org/proposal/?id=0e747070-2565-11ed-ac99-5bece7edccd0) (Tier 5)
-* [Return to Green](https://governance.decentraland.org/proposal/?id=37c29390-2447-11ed-b4a9-178eb7bc02f5) (Tier 6)
-* [DCL Highlights - Expansion &amp; Long-Term Commitment](https://governance.decentraland.org/proposal/?id=40659800-23eb-11ed-b4a9-178eb7bc02f5) (Tier 4)
-* [An Immersive In-World Marketplace Proposal](https://governance.decentraland.org/proposal/?id=0f9a4300-23c9-11ed-b4a9-178eb7bc02f5) (Tier 6)
 
 ## Names Bans
 
@@ -99,10 +114,10 @@ Since September 1, 3 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Should there be limited time to change voting decision ?](https://governance.decentraland.org/proposal/?id=41a339b0-2ec3-11ed-b361-67b98a1da2c8)
 * [World Wide Analytics](https://governance.decentraland.org/proposal/?id=870755f0-2e36-11ed-b361-67b98a1da2c8)
 * [World Wide Analytics](https://governance.decentraland.org/proposal/?id=656b0fa0-2e2b-11ed-b361-67b98a1da2c8)
 * [Should we bring BUILDING as a type of asset just like wearable, and make it usable on Builder or other Official Editor? Securing the rights of creator.](https://governance.decentraland.org/proposal/?id=fe612aa0-2c50-11ed-ac99-5bece7edccd0)
 * [Should the community begin discussing a revitalisation strategy for Plazas?](https://governance.decentraland.org/proposal/?id=9987c5a0-2bf4-11ed-ac99-5bece7edccd0)
-* [Who should make the decision of revoking grants?](https://governance.decentraland.org/proposal/?id=823c92e0-2ad2-11ed-ac99-5bece7edccd0)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
