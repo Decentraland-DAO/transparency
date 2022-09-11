@@ -124,6 +124,7 @@ Since September 1, 5 grants have been approved and the vesting contract(s) will 
 
 ## Grants
 
+* [Expanding Ethermon District RPG Play-to-Earn Gameplay [Guilds, Quests &amp; PvP]](https://governance.decentraland.org/proposal/?id=cb035b60-3146-11ed-b361-67b98a1da2c8) (Tier 6)
 * [DigifunDAO：Introduce more designers into DCL](https://governance.decentraland.org/proposal/?id=6d557e30-305b-11ed-b361-67b98a1da2c8) (Tier 2)
 * [Temple](https://governance.decentraland.org/proposal/?id=7f3dbf70-3030-11ed-b361-67b98a1da2c8) (Tier 4)
 * [EDUCATIONAL RADIO  PROGRAMMES AND  SEMINARS ON DECENTRALAND.](https://governance.decentraland.org/proposal/?id=13ae79a0-3028-11ed-b361-67b98a1da2c8) (Tier 1)
