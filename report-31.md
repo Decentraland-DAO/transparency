@@ -124,12 +124,12 @@ Since September 1, 5 grants have been approved and the vesting contract(s) will 
 
 ## Grants
 
+* [Info screens, with jump to parcel function. IRL PR. 10% of revenue for DL.](https://governance.decentraland.org/proposal/?id=71b1f7f0-3273-11ed-b361-67b98a1da2c8) (Tier 2)
 * [Expanding Ethermon District RPG Play-to-Earn Gameplay [Guilds, Quests &amp; PvP]](https://governance.decentraland.org/proposal/?id=cb035b60-3146-11ed-b361-67b98a1da2c8) (Tier 6)
 * [DigifunDAO：Introduce more designers into DCL](https://governance.decentraland.org/proposal/?id=6d557e30-305b-11ed-b361-67b98a1da2c8) (Tier 2)
 * [Temple](https://governance.decentraland.org/proposal/?id=7f3dbf70-3030-11ed-b361-67b98a1da2c8) (Tier 4)
 * [EDUCATIONAL RADIO  PROGRAMMES AND  SEMINARS ON DECENTRALAND.](https://governance.decentraland.org/proposal/?id=13ae79a0-3028-11ed-b361-67b98a1da2c8) (Tier 1)
 * [Building San Fransisco City Hall for weddings in Decentraland](https://governance.decentraland.org/proposal/?id=efa07010-2f58-11ed-b361-67b98a1da2c8) (Tier 2)
-* [Building City Hall Sand Francisco for wedding ceremonis in Decentraland](https://governance.decentraland.org/proposal/?id=285283f0-2f57-11ed-b361-67b98a1da2c8) (Tier 2)
 * [Decentraland NOW - Expansion](https://governance.decentraland.org/proposal/?id=c2432ca0-2f1e-11ed-b361-67b98a1da2c8) (Tier 3)
 * [Create a Phygital environment to unite artists from latam and Decentraland](https://governance.decentraland.org/proposal/?id=9a9c4f70-2e50-11ed-b361-67b98a1da2c8) (Tier 4)
 * [DCL Virtual Library - Gamifying Education](https://governance.decentraland.org/proposal/?id=c7b01920-2e0e-11ed-b361-67b98a1da2c8) (Tier 4)
@@ -145,8 +145,6 @@ Since September 1, 5 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
-* [Info screens, with jump to parcel function, to increase user traffic and enhance gaming experience. IRL PR on OOH/DOOH screens. 10% of revenue for DL!](https://governance.decentraland.org/proposal/?id=07537850-2faa-11ed-b361-67b98a1da2c8)
 * [Should there be limited time to change voting decision ?](https://governance.decentraland.org/proposal/?id=41a339b0-2ec3-11ed-b361-67b98a1da2c8)
-* [World Wide Analytics](https://governance.decentraland.org/proposal/?id=870755f0-2e36-11ed-b361-67b98a1da2c8)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
