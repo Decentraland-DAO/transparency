@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -79,6 +79,13 @@ Since September 1, 5 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+#### [Should there be limited time to change voting decision ?](https://governance.decentraland.org/proposal/?id=41a339b0-2ec3-11ed-b361-67b98a1da2c8)
+
+* Yes 0.00025459123467838125% 4 VP (2 votes)
+* No 86.13095154746917% 1,353,243 VP (79 votes)
+* Invalid question/options 13.86879386129615% 217,899 VP (11 votes)
+
+
 #### [Should we bring BUILDING as a type of asset just like wearable, and make it usable on Builder or other Official Editor? Securing the rights of creator.](https://governance.decentraland.org/proposal/?id=fe612aa0-2c50-11ed-ac99-5bece7edccd0)
 
 * Yes, we do need it badly 59.4108402349813% 2,012,241 VP (58 votes)
@@ -145,6 +152,7 @@ Since September 1, 5 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
-* [Should there be limited time to change voting decision ?](https://governance.decentraland.org/proposal/?id=41a339b0-2ec3-11ed-b361-67b98a1da2c8)
+* [Establish Eye Material for Further Use](https://governance.decentraland.org/proposal/?id=18873bf0-32c7-11ed-b361-67b98a1da2c8)
+* [Cooling Period for First Time Creators](https://governance.decentraland.org/proposal/?id=e71002a0-32bc-11ed-b361-67b98a1da2c8)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

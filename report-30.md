@@ -162,6 +162,7 @@ Since August 16, 5 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
-* [Should there be limited time to change voting decision ?](https://governance.decentraland.org/proposal/?id=41a339b0-2ec3-11ed-b361-67b98a1da2c8)
+* [Establish Eye Material for Further Use](https://governance.decentraland.org/proposal/?id=18873bf0-32c7-11ed-b361-67b98a1da2c8)
+* [Cooling Period for First Time Creators](https://governance.decentraland.org/proposal/?id=e71002a0-32bc-11ed-b361-67b98a1da2c8)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
