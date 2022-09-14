@@ -14,7 +14,7 @@ async function main() {
     const url = collectionsUrl(network)
     const networkWearables = await fetchGraphQLCondition<WearableParsed>(
       url, 'items', 'createdAt', 'id',
-      'id creator itemType totalSupply maxSupply rarity creationFee available price beneficiary URI image createdAt updatedAt reviewedAt soldAt sales volume metadata { wearable { name description category } }',
+      'id creator itemType totalSupply maxSupply rarity creationFee available price beneficiary URI image createdAt updatedAt reviewedAt soldAt sales volume metadata { wearable { name description category collection } }',
       1000
     )
 
@@ -23,6 +23,7 @@ async function main() {
       w.description = w.metadata.wearable?.description
       w.category = w.metadata.wearable?.category
       w.network = network
+      w.collection = w.metadata.wearable?.collection
       w.price = new BigNumber(w.price).dividedBy(10 ** 18).toNumber() || 0
       w.creationFee = new BigNumber(w.creationFee).dividedBy(10 ** 18).toNumber() || 0
 
@@ -40,6 +41,7 @@ async function main() {
   saveToCSV('wearables.csv', wearables, [
     { id: 'id', title: 'Item ID' },
     { id: 'name', title: 'Name' },
+    { id: 'collection', title: 'Collection' },
     { id: 'description', title: 'Description' },
     { id: 'category', title: 'Category' },
     { id: 'network', title: 'Network' },
