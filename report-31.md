@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -79,13 +79,6 @@ Since September 1, 5 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
-#### [Should there be limited time to change voting decision ?](https://governance.decentraland.org/proposal/?id=41a339b0-2ec3-11ed-b361-67b98a1da2c8)
-
-* Yes 0.00025459123467838125% 4 VP (2 votes)
-* No 86.13095154746917% 1,353,243 VP (79 votes)
-* Invalid question/options 13.86879386129615% 217,899 VP (11 votes)
-
-
 #### [Should we bring BUILDING as a type of asset just like wearable, and make it usable on Builder or other Official Editor? Securing the rights of creator.](https://governance.decentraland.org/proposal/?id=fe612aa0-2c50-11ed-ac99-5bece7edccd0)
 
 * Yes, we do need it badly 59.4108402349813% 2,012,241 VP (58 votes)
@@ -109,13 +102,6 @@ Since September 1, 5 grants have been approved and the vesting contract(s) will 
 * Jury 0.00013898500087769028% 10 VP (1 votes)
 * Do nothing 0% 0 VP (0 votes)
 * Invalid question/options 0% 0 VP (0 votes)
-
-
-#### [Should 1/4 of DAO balance converted to Eth and Btc before 2024 Bitcoin halving ?](https://governance.decentraland.org/proposal/?id=9d24ced0-2a0d-11ed-ac99-5bece7edccd0)
-
-* Yes 0.00108334335134712% 31 VP (22 votes)
-* No 92.36221969364448% 2,642,956 VP (34 votes)
-* Invalid question/options 7.636696963004173% 218,525 VP (4 votes)
 
 
 
@@ -142,7 +128,6 @@ Since September 1, 5 grants have been approved and the vesting contract(s) will 
 * [DCL Virtual Library - Gamifying Education](https://governance.decentraland.org/proposal/?id=c7b01920-2e0e-11ed-b361-67b98a1da2c8) (Tier 4)
 * [Dice Masters Development &amp; Expansion](https://governance.decentraland.org/proposal/?id=f67f9bc0-2dfc-11ed-b361-67b98a1da2c8) (Tier 6)
 * [Exodus: Goodbye World Development](https://governance.decentraland.org/proposal/?id=d1802450-2d90-11ed-ac99-5bece7edccd0) (Tier 6)
-* [The mobile game QUANTUMSPACE,  portal  in the NFT Galleryu QUANTUMSPACE in DCL.](https://governance.decentraland.org/proposal/?id=6f57fcd0-2877-11ed-ac99-5bece7edccd0) (Tier 6)
 
 ## Names Bans
 

@@ -152,7 +152,6 @@ Since August 16, 5 grants have been approved and the vesting contract(s) will be
 * [DCL Virtual Library - Gamifying Education](https://governance.decentraland.org/proposal/?id=c7b01920-2e0e-11ed-b361-67b98a1da2c8) (Tier 4)
 * [Dice Masters Development &amp; Expansion](https://governance.decentraland.org/proposal/?id=f67f9bc0-2dfc-11ed-b361-67b98a1da2c8) (Tier 6)
 * [Exodus: Goodbye World Development](https://governance.decentraland.org/proposal/?id=d1802450-2d90-11ed-ac99-5bece7edccd0) (Tier 6)
-* [The mobile game QUANTUMSPACE,  portal  in the NFT Galleryu QUANTUMSPACE in DCL.](https://governance.decentraland.org/proposal/?id=6f57fcd0-2877-11ed-ac99-5bece7edccd0) (Tier 6)
 
 ## Names Bans
 
