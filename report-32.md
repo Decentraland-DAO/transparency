@@ -9,12 +9,24 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+2 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 150, 65: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=74150ea0-3099-11ed-b361-67b98a1da2c8)
+
+* Yes 100% 2,486,251 VP (112 votes)
+* No 0% 0 VP (0 votes)
+
+
+#### -30, -31: [Quontic](https://governance.decentraland.org/proposal/?id=f74bbaa0-3047-11ed-b361-67b98a1da2c8)
+
+* Yes 100% 5,262,196 VP (40 votes)
+* No 0% 0 VP (0 votes)
 
 
 ## Name Bans
@@ -36,18 +48,14 @@ Since September 16, 0 grants have been approved and the vesting contract(s) will
 
 ## Points of Interest
 
-* 150, 65: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=74150ea0-3099-11ed-b361-67b98a1da2c8)
-* 21, 6: [Not Fungible Arts Complex](https://governance.decentraland.org/proposal/?id=1e6e3460-304c-11ed-b361-67b98a1da2c8)
-* -30, -31: [Quontic](https://governance.decentraland.org/proposal/?id=f74bbaa0-3047-11ed-b361-67b98a1da2c8)
 
 ## Grants
 
-* [Decentraland @ Blockchain Economy Dubai](https://governance.decentraland.org/proposal/?id=d6e206a0-357b-11ed-b361-67b98a1da2c8) (Tier 4)
+* [Gallery and events space in DCL focused on female creators](https://governance.decentraland.org/proposal/?id=32546900-3636-11ed-b361-67b98a1da2c8) (Tier 4)
 * [Deployable custom NFT shop &amp; dashboard for land owners &amp; operators](https://governance.decentraland.org/proposal/?id=67885a20-34a9-11ed-b361-67b98a1da2c8) (Tier 4)
 * [NFT World City Games and Comedy Club](https://governance.decentraland.org/proposal/?id=479bbd40-346a-11ed-b361-67b98a1da2c8) (Tier 5)
 * [Info screens, with jump to parcel function. IRL PR. 10% of revenue for DL.](https://governance.decentraland.org/proposal/?id=71b1f7f0-3273-11ed-b361-67b98a1da2c8) (Tier 2)
 * [Expanding Ethermon District RPG Play-to-Earn Gameplay [Guilds, Quests &amp; PvP]](https://governance.decentraland.org/proposal/?id=cb035b60-3146-11ed-b361-67b98a1da2c8) (Tier 6)
-* [DigifunDAO：Introduce more designers into DCL](https://governance.decentraland.org/proposal/?id=6d557e30-305b-11ed-b361-67b98a1da2c8) (Tier 2)
 * [Temple](https://governance.decentraland.org/proposal/?id=7f3dbf70-3030-11ed-b361-67b98a1da2c8) (Tier 4)
 * [Create a Phygital environment to unite artists from latam and Decentraland](https://governance.decentraland.org/proposal/?id=9a9c4f70-2e50-11ed-b361-67b98a1da2c8) (Tier 4)
 * [DCL Virtual Library - Gamifying Education](https://governance.decentraland.org/proposal/?id=c7b01920-2e0e-11ed-b361-67b98a1da2c8) (Tier 4)
