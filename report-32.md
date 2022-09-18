@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -43,6 +43,21 @@ Since September 16, 0 grants have been approved and the vesting contract(s) will
 
 ## Polls
 
+#### [Establish Eye Material for Further Use](https://governance.decentraland.org/proposal/?id=18873bf0-32c7-11ed-b361-67b98a1da2c8)
+
+* Support Implementation of Eye_Mat 99.99987652636564% 1,619,777 VP (47 votes)
+* Disagree, should stay png only 0.0001234736343661697% 2 VP (1 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
+#### [Cooling Period for First Time Creators](https://governance.decentraland.org/proposal/?id=e71002a0-32bc-11ed-b361-67b98a1da2c8)
+
+* Cooling Down period 14 Days 21.971710558604414% 371,577 VP (14 votes)
+* Cooling Down Period 30 Days 30.711268767432554% 519,377 VP (16 votes)
+* Instant Payment with No Cooldown 47.317020673963036% 800,207 VP (13 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 
 # Active Proposals
 
@@ -51,7 +66,8 @@ Since September 16, 0 grants have been approved and the vesting contract(s) will
 
 ## Grants
 
-* [Gallery and events space in DCL focused on female creators](https://governance.decentraland.org/proposal/?id=32546900-3636-11ed-b361-67b98a1da2c8) (Tier 4)
+* [Introduce New Artists into Decentraland](https://governance.decentraland.org/proposal/?id=92cb8d40-36fe-11ed-b361-67b98a1da2c8) (Tier 2)
+* [Gallery and events space in DCL focused on female creators](https://governance.decentraland.org/proposal/?id=b7cbd4d0-36b6-11ed-b361-67b98a1da2c8) (Tier 2)
 * [Deployable custom NFT shop &amp; dashboard for land owners &amp; operators](https://governance.decentraland.org/proposal/?id=67885a20-34a9-11ed-b361-67b98a1da2c8) (Tier 4)
 * [NFT World City Games and Comedy Club](https://governance.decentraland.org/proposal/?id=479bbd40-346a-11ed-b361-67b98a1da2c8) (Tier 5)
 * [Info screens, with jump to parcel function. IRL PR. 10% of revenue for DL.](https://governance.decentraland.org/proposal/?id=71b1f7f0-3273-11ed-b361-67b98a1da2c8) (Tier 2)
@@ -70,7 +86,5 @@ Since September 16, 0 grants have been approved and the vesting contract(s) will
 
 ## Polls
 
-* [Establish Eye Material for Further Use](https://governance.decentraland.org/proposal/?id=18873bf0-32c7-11ed-b361-67b98a1da2c8)
-* [Cooling Period for First Time Creators](https://governance.decentraland.org/proposal/?id=e71002a0-32bc-11ed-b361-67b98a1da2c8)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
