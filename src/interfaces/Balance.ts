@@ -1,16 +1,16 @@
-import { Token } from "./Network"
+import { TokenSymbols } from "../entities/Tokens"
 
 export interface Contract {
   contract_decimals: number
   contract_name: string
-  contract_ticker_symbol: Token
+  contract_ticker_symbol: TokenSymbols
   contract_address: string
   logo_url: string
   holdings: Holding[]
 }
 
 export interface Holding {
-  timestamp: Date
+  timestamp: string
   quote_rate: number | null
   open: Details
   high: Details
@@ -25,8 +25,8 @@ export interface Details {
 
 export interface APIBalance {
   address: string
-  updated_at: Date
-  next_update_at: Date
+  updated_at: string
+  next_update_at: string
   quote_currency: string
   chain_id: number
   items: Contract[]

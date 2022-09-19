@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
         with:
-          node-version: '12'
+          node-version: '14'
       - run: npm install && npm link typescript
 
       - name: Pull Proposals
@@ -90,7 +90,7 @@ jobs:
           SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
         run: |
           npx ts-node ./src/export-curations.ts
-          npx ts-node ./src/upload.ts Curations ./public/wearables.csv
+          npx ts-node ./src/upload.ts Curations ./public/curations.csv
 
       - name: Pull Members
         env:
@@ -101,7 +101,19 @@ jobs:
           npx ts-node ./src/export-members.ts
           npx ts-node ./src/upload.ts Members ./public/members.csv
 
+      - name: Export KPIs
+        env:
+          NODE_OPTIONS: "--max-old-space-size=4096"
+          SHEET_ID: ${{ secrets.SHEET_ID }}
+          SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
+          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
+        run: |
+          npx ts-node ./src/export-kpis.ts
+          npx ts-node ./src/upload.ts KPIs ./public/kpis.json
+
       - name: Export API
+        env:
+          NODE_OPTIONS: "--max-old-space-size=4096"
         run: npx ts-node ./src/export-api.ts
 
       - name: Export Report

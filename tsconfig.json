@@ -10,7 +10,8 @@
 
   },
   "include": [
-    "./src/**/*"
+    "./src/**/*",
+    "node_modules/bdd-lazy-var/getter.d.ts"
   ],
   "exclude": [
     "node_modules"

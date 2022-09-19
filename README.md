@@ -59,6 +59,9 @@ npx ts-node upload.ts SHEET_NAME ./public/xxxxx.csv
 
 # Add a job the the daily process that collects and publish data
 pico .github/workflows/pull-data.yml
+
+# Run tests
+npm run test
 ```
 
 ## Copyright & License

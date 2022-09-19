@@ -1,20 +1,16 @@
-import BigNumber from 'bignumber.js'
 import Web3 from 'web3'
 import { AbiItem } from 'web3-utils'
 
 import PROPOSALS from '../public/proposals.json'
-import VESTING_ABI from './abi/vesting.json'
+import VESTING_ABI from './abi/Ethereum/vesting.json'
+import { Networks } from './entities/Networks'
+import { Tokens } from './entities/Tokens'
 import { GovernanceProposalType, Status } from './interfaces/GovernanceProposal'
 import { GrantProposal } from './interfaces/Grant'
-import { getTokenByAddress, Network, NetworkID, Token, TOKENS } from './interfaces/Network'
 import { APITransactions, Decoded, DecodedName, ParamName } from './interfaces/Transactions/Transactions'
-import { COVALENT_API_KEY, fetchURL, INFURA_URL, saveToCSV, saveToJSON } from './utils'
+import { baseCovalentUrl, COVALENT_API_KEY, fetchURL, INFURA_URL, parseNumber, saveToCSV, saveToJSON } from './utils'
 
 const web3 = new Web3(INFURA_URL)
-
-function parseNumber(n: number, decimals: number) {
-  return new BigNumber(n).dividedBy(10 ** decimals).toNumber()
-}
 
 function getTxAmount(decodedLogEvent: Decoded, decimals: number) {
   for (let param of decodedLogEvent.params) {
@@ -29,8 +25,8 @@ async function getVestingContractData(proposalId: string, vestingAddress: string
   try {
     const vestingContract = new web3.eth.Contract(VESTING_ABI as AbiItem[], vestingAddress)
     const contract_token_address: string = (await vestingContract.methods.token().call()).toLowerCase()
-    const token = getTokenByAddress(contract_token_address)
-    const decimals: number = TOKENS[token].decimals
+    const token = Tokens.getEthereumToken(contract_token_address)
+    const decimals = token.decimals
 
     const raw_vesting_released = await vestingContract.methods.released().call()
     const vesting_released = parseNumber(raw_vesting_released, decimals)
@@ -44,7 +40,7 @@ async function getVestingContractData(proposalId: string, vestingAddress: string
     const vesting_start_at = new Date(contractStart * 1000)
     const vesting_finish_at = new Date(contractEndsTimestamp * 1000)
 
-    const tokenContract = new web3.eth.Contract(TOKENS[token].abi, TOKENS[token].address)
+    const tokenContract = new web3.eth.Contract(token.abi, contract_token_address)
     const raw_token_contract_balance = await tokenContract.methods.balanceOf(vestingAddress).call()
     const vesting_token_contract_balance = parseNumber(raw_token_contract_balance, decimals)
     const vesting_total_amount = vesting_token_contract_balance + vesting_released
@@ -71,7 +67,7 @@ function transferMatchesBeneficiary(decodedLogEvent: Decoded, beneficiary: strin
 }
 
 async function getTransactionItems(enactingTx: string) {
-  const url = `https://api.covalenthq.com/v1/${NetworkID[Network.ETHEREUM]}/transaction_v2/${enactingTx}/?key=${COVALENT_API_KEY}`
+  const url = `${baseCovalentUrl(Networks.getEth())}/transaction_v2/${enactingTx}/?key=${COVALENT_API_KEY}`
   const json = await fetchURL(url)
   if (json.error) {
     throw new Error(JSON.stringify(json))
@@ -86,8 +82,8 @@ async function getEnactingTxData(proposalId: string, enactingTx: string, benefic
     for (let logEvent of transactionItems.log_events) {
       const decodedLogEvent = logEvent.decoded
       if (transferMatchesBeneficiary(decodedLogEvent, beneficiary)) {
-        const token: Token = getTokenByAddress(logEvent.sender_address)
-        const decimals: number = TOKENS[token].decimals
+        const token = Tokens.getEthereumToken(logEvent.sender_address)
+        const decimals = token.decimals
         const tx_date = logEvent.block_signed_at
         const tx_amount: number = getTxAmount(decodedLogEvent, decimals)
         return { token, tx_date, tx_amount }
@@ -124,7 +120,7 @@ async function main() {
     proposal.size = proposal.configuration.size
     proposal.beneficiary = proposal.configuration.beneficiary
 
-    if(proposal.status === Status.ENACTED){
+    if (proposal.status === Status.ENACTED) {
       enactingData.push(setEnactingData(proposal))
     }
   }
