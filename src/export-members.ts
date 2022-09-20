@@ -86,7 +86,8 @@ async function getMembersInfo(addresses: string[], jobId: number) {
       hasDelegated: toYesOrNo(!!delegate),
       hasDelegators: toYesOrNo(!!delegators),
       delegate: delegate?.delegate,
-      delegators: delegators?.delegators
+      delegators: delegators?.delegators,
+      delegatorsAmount: delegators?.delegators.length || 0
     })
   }
 
@@ -117,6 +118,7 @@ async function main() {
     { id: 'hasDelegated', title: 'Has Delegated' },
     { id: 'delegate', title: 'Delegate' },
     { id: 'hasDelegators', title: 'Has Delegators' },
+    { id: 'delegatorsAmount', title: 'Delegators Amount' },
     { id: 'delegators', title: 'Delegators' },
     { id: 'avatarPreview', title: 'Avatar Preview' }
   ])

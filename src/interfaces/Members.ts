@@ -19,6 +19,7 @@ export type MemberInfo = MemberVP & {
   hasDelegators: YesNo
   delegate?: string
   delegators?: string[]
+  delegatorsAmount: number
 }
 
 export interface DCLMember {
