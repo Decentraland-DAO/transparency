@@ -121,9 +121,12 @@ Since September 1, 6 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
+* 117, -25: [8MetaBalls](https://governance.decentraland.org/proposal/?id=83b7d7d0-3831-11ed-b361-67b98a1da2c8)
 
 ## Grants
 
+* [Marketing Our Metaverse Sustainably using our Decentralized News Network](https://governance.decentraland.org/proposal/?id=73416eb0-385f-11ed-a2f4-07fa9844a05e) (Tier 6)
+* [A  Multi-disciplinary Platform to Onboard the Biggest Arts &amp; Entertainment Names](https://governance.decentraland.org/proposal/?id=52de9bf0-3816-11ed-b361-67b98a1da2c8) (Tier 5)
 * [Introduce New Artists into Decentraland](https://governance.decentraland.org/proposal/?id=92cb8d40-36fe-11ed-b361-67b98a1da2c8) (Tier 2)
 * [Gallery and events space in DCL focused on female creators](https://governance.decentraland.org/proposal/?id=b7cbd4d0-36b6-11ed-b361-67b98a1da2c8) (Tier 2)
 * [Deployable custom NFT shop &amp; dashboard for land owners &amp; operators](https://governance.decentraland.org/proposal/?id=67885a20-34a9-11ed-b361-67b98a1da2c8) (Tier 4)
@@ -133,7 +136,6 @@ Since September 1, 6 grants have been approved and the vesting contract(s) will 
 * [Create a Phygital environment to unite artists from latam and Decentraland](https://governance.decentraland.org/proposal/?id=9a9c4f70-2e50-11ed-b361-67b98a1da2c8) (Tier 4)
 * [DCL Virtual Library - Gamifying Education](https://governance.decentraland.org/proposal/?id=c7b01920-2e0e-11ed-b361-67b98a1da2c8) (Tier 4)
 * [Dice Masters Development &amp; Expansion](https://governance.decentraland.org/proposal/?id=f67f9bc0-2dfc-11ed-b361-67b98a1da2c8) (Tier 6)
-* [Exodus: Goodbye World Development](https://governance.decentraland.org/proposal/?id=d1802450-2d90-11ed-ac99-5bece7edccd0) (Tier 6)
 
 ## Names Bans
 
