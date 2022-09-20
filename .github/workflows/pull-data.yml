@@ -11,7 +11,7 @@ on:
         options:
         - reduced
         - full
-        default: reduced
+        default: full
 
 jobs:
   export:
