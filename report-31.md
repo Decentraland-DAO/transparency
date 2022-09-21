@@ -121,10 +121,12 @@ Since September 1, 6 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
+* 144, -37: [Federated Reserve Pub](https://governance.decentraland.org/proposal/?id=f1df16a0-3936-11ed-a2f4-07fa9844a05e)
 * 117, -25: [8MetaBalls](https://governance.decentraland.org/proposal/?id=83b7d7d0-3831-11ed-b361-67b98a1da2c8)
 
 ## Grants
 
+* [NFT Lands delegation in the WakeUp dApp (+ Decentraland DAO earns royalty fees)](https://governance.decentraland.org/proposal/?id=68a96ab0-3900-11ed-a2f4-07fa9844a05e) (Tier 3)
 * [Marketing Our Metaverse Sustainably using our Decentralized News Network](https://governance.decentraland.org/proposal/?id=73416eb0-385f-11ed-a2f4-07fa9844a05e) (Tier 6)
 * [A  Multi-disciplinary Platform to Onboard the Biggest Arts &amp; Entertainment Names](https://governance.decentraland.org/proposal/?id=52de9bf0-3816-11ed-b361-67b98a1da2c8) (Tier 5)
 * [Introduce New Artists into Decentraland](https://governance.decentraland.org/proposal/?id=92cb8d40-36fe-11ed-b361-67b98a1da2c8) (Tier 2)
@@ -133,9 +135,6 @@ Since September 1, 6 grants have been approved and the vesting contract(s) will 
 * [NFT World City Games and Comedy Club](https://governance.decentraland.org/proposal/?id=479bbd40-346a-11ed-b361-67b98a1da2c8) (Tier 5)
 * [Expanding Ethermon District RPG Play-to-Earn Gameplay [Guilds, Quests &amp; PvP]](https://governance.decentraland.org/proposal/?id=cb035b60-3146-11ed-b361-67b98a1da2c8) (Tier 6)
 * [Temple](https://governance.decentraland.org/proposal/?id=7f3dbf70-3030-11ed-b361-67b98a1da2c8) (Tier 4)
-* [Create a Phygital environment to unite artists from latam and Decentraland](https://governance.decentraland.org/proposal/?id=9a9c4f70-2e50-11ed-b361-67b98a1da2c8) (Tier 4)
-* [DCL Virtual Library - Gamifying Education](https://governance.decentraland.org/proposal/?id=c7b01920-2e0e-11ed-b361-67b98a1da2c8) (Tier 4)
-* [Dice Masters Development &amp; Expansion](https://governance.decentraland.org/proposal/?id=f67f9bc0-2dfc-11ed-b361-67b98a1da2c8) (Tier 6)
 
 ## Names Bans
 
