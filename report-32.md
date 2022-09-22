@@ -81,6 +81,7 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 
 ## Points of Interest
 
+* 159, 125: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=7f3d5100-3a46-11ed-a2ad-25cde07289d9)
 * 144, -37: [Federated Reserve Pub](https://governance.decentraland.org/proposal/?id=f1df16a0-3936-11ed-a2f4-07fa9844a05e)
 * 117, -25: [8MetaBalls](https://governance.decentraland.org/proposal/?id=83b7d7d0-3831-11ed-b361-67b98a1da2c8)
 
