@@ -87,8 +87,8 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 
 ## Grants
 
+* [[RESUBMISSION] EDUCATIONAL RADIO PROGRAMMES AND SEMINARS ON DECENTRALAND.](https://governance.decentraland.org/proposal/?id=2f547e70-3a73-11ed-a2ad-25cde07289d9) (Tier 1)
 * [NFT Lands delegation in the WakeUp dApp (+ Decentraland DAO earns royalty fees)](https://governance.decentraland.org/proposal/?id=68a96ab0-3900-11ed-a2f4-07fa9844a05e) (Tier 3)
-* [Marketing Our Metaverse Sustainably using our Decentralized News Network](https://governance.decentraland.org/proposal/?id=73416eb0-385f-11ed-a2f4-07fa9844a05e) (Tier 6)
 * [A  Multi-disciplinary Platform to Onboard the Biggest Arts &amp; Entertainment Names](https://governance.decentraland.org/proposal/?id=52de9bf0-3816-11ed-b361-67b98a1da2c8) (Tier 5)
 * [Introduce New Artists into Decentraland](https://governance.decentraland.org/proposal/?id=92cb8d40-36fe-11ed-b361-67b98a1da2c8) (Tier 2)
 * [Gallery and events space in DCL focused on female creators](https://governance.decentraland.org/proposal/?id=b7cbd4d0-36b6-11ed-b361-67b98a1da2c8) (Tier 2)
