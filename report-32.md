@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -38,7 +38,13 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since September 16, 3 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since September 16, 4 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Introduce New Artists into Decentraland](https://governance.decentraland.org/proposal/?id=92cb8d40-36fe-11ed-b361-67b98a1da2c8) (Tier 2)
+
+* Yes 99.89322383963442% 2,421,174 VP (66 votes)
+* No 0.10677616036558046% 2,588 VP (2 votes)
 
 
 #### [Create a Phygital environment to unite artists from latam and Decentraland](https://governance.decentraland.org/proposal/?id=9a9c4f70-2e50-11ed-b361-67b98a1da2c8) (Tier 4)
@@ -97,16 +103,14 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 
 ## Grants
 
+* [Continued Development of No-Code Creator Tool for Decentraland](https://governance.decentraland.org/proposal/?id=c9aa8040-3c09-11ed-a2ad-25cde07289d9) (Tier 6)
 * [Virtual Street Team](https://governance.decentraland.org/proposal/?id=b328a6d0-3b7d-11ed-a2ad-25cde07289d9) (Tier 4)
 * [Duel Arena P2E; Turn Based RPG | Play to Earn](https://governance.decentraland.org/proposal/?id=75401e40-3b67-11ed-a2ad-25cde07289d9) (Tier 4)
 * [[RESUBMISSION] EDUCATIONAL RADIO PROGRAMMES AND SEMINARS ON DECENTRALAND.](https://governance.decentraland.org/proposal/?id=2f547e70-3a73-11ed-a2ad-25cde07289d9) (Tier 1)
 * [NFT Lands delegation in the WakeUp dApp (+ Decentraland DAO earns royalty fees)](https://governance.decentraland.org/proposal/?id=68a96ab0-3900-11ed-a2f4-07fa9844a05e) (Tier 3)
 * [A  Multi-disciplinary Platform to Onboard the Biggest Arts &amp; Entertainment Names](https://governance.decentraland.org/proposal/?id=52de9bf0-3816-11ed-b361-67b98a1da2c8) (Tier 5)
-* [Introduce New Artists into Decentraland](https://governance.decentraland.org/proposal/?id=92cb8d40-36fe-11ed-b361-67b98a1da2c8) (Tier 2)
-* [Gallery and events space in DCL focused on female creators](https://governance.decentraland.org/proposal/?id=b7cbd4d0-36b6-11ed-b361-67b98a1da2c8) (Tier 2)
 * [Deployable custom NFT shop &amp; dashboard for land owners &amp; operators](https://governance.decentraland.org/proposal/?id=67885a20-34a9-11ed-b361-67b98a1da2c8) (Tier 4)
 * [NFT World City Games and Comedy Club](https://governance.decentraland.org/proposal/?id=479bbd40-346a-11ed-b361-67b98a1da2c8) (Tier 5)
-* [Expanding Ethermon District RPG Play-to-Earn Gameplay [Guilds, Quests &amp; PvP]](https://governance.decentraland.org/proposal/?id=cb035b60-3146-11ed-b361-67b98a1da2c8) (Tier 6)
 
 ## Names Bans
 
