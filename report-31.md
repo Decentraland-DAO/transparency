@@ -130,6 +130,7 @@ Since September 1, 6 grants have been approved and the vesting contract(s) will 
 
 ## Grants
 
+* [Dungeons and Dragons &amp; Decentraland (Demo)](https://governance.decentraland.org/proposal/?id=1117c6c0-3ced-11ed-a2ad-25cde07289d9) (Tier 3)
 * [Continued Development of No-Code Creator Tool for Decentraland](https://governance.decentraland.org/proposal/?id=c9aa8040-3c09-11ed-a2ad-25cde07289d9) (Tier 6)
 * [Virtual Street Team](https://governance.decentraland.org/proposal/?id=b328a6d0-3b7d-11ed-a2ad-25cde07289d9) (Tier 4)
 * [Duel Arena P2E; Turn Based RPG | Play to Earn](https://governance.decentraland.org/proposal/?id=75401e40-3b67-11ed-a2ad-25cde07289d9) (Tier 4)
@@ -147,5 +148,6 @@ Since September 1, 6 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Do Decentraland needs native car system ?](https://governance.decentraland.org/proposal/?id=c54320b0-3cc8-11ed-a2ad-25cde07289d9)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
