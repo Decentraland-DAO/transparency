@@ -9,12 +9,18 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-2 points of interest have been added to Decentraland’s map since the last report.
+3 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 117, -25: [8MetaBalls](https://governance.decentraland.org/proposal/?id=83b7d7d0-3831-11ed-b361-67b98a1da2c8)
+
+* Yes 99.99992474022206% 1,328,730 VP (82 votes)
+* No 0.00007525977793849922% 1 VP (2 votes)
 
 
 #### 150, 65: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=74150ea0-3099-11ed-b361-67b98a1da2c8)
@@ -94,15 +100,17 @@ Since September 16, 4 grants have been approved and the vesting contract(s) will
 
 ## Points of Interest
 
+* -75, 73: [Chateau Satoshi](https://governance.decentraland.org/proposal/?id=f8d07e30-3de2-11ed-ae53-272ba72c798d)
+* -30, -108: [No Name](https://governance.decentraland.org/proposal/?id=5bb611a0-3dbf-11ed-a2ad-25cde07289d9)
 * -25, 103: [Decentraland University](https://governance.decentraland.org/proposal/?id=28d87b70-3b4d-11ed-a2ad-25cde07289d9)
 * 16, 83: [Decentraland Museum](https://governance.decentraland.org/proposal/?id=d19f8880-3b4c-11ed-a2ad-25cde07289d9)
 * 11, 95: [Decentraland Conference Center](https://governance.decentraland.org/proposal/?id=19c7e4b0-3b4b-11ed-a2ad-25cde07289d9)
 * 159, 125: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=7f3d5100-3a46-11ed-a2ad-25cde07289d9)
 * 144, -37: [Federated Reserve Pub](https://governance.decentraland.org/proposal/?id=f1df16a0-3936-11ed-a2f4-07fa9844a05e)
-* 117, -25: [8MetaBalls](https://governance.decentraland.org/proposal/?id=83b7d7d0-3831-11ed-b361-67b98a1da2c8)
 
 ## Grants
 
+* [Communuity Card Game Module Expansion - More Games](https://governance.decentraland.org/proposal/?id=0db018f0-3e25-11ed-ae53-272ba72c798d) (Tier 2)
 * [Dungeons and Dragons &amp; Decentraland (Demo)](https://governance.decentraland.org/proposal/?id=1117c6c0-3ced-11ed-a2ad-25cde07289d9) (Tier 3)
 * [Continued Development of No-Code Creator Tool for Decentraland](https://governance.decentraland.org/proposal/?id=c9aa8040-3c09-11ed-a2ad-25cde07289d9) (Tier 6)
 * [Virtual Street Team](https://governance.decentraland.org/proposal/?id=b328a6d0-3b7d-11ed-a2ad-25cde07289d9) (Tier 4)
