@@ -10,13 +10,11 @@ export interface MemberVP {
   delegatedVP: number
 }
 
-type YesNo = 'Yes' | 'No'
-
 export type MemberInfo = MemberVP & {
   address: string
   avatarPreview: string
-  hasDelegated: YesNo
-  hasDelegators: YesNo
+  hasDelegated: boolean
+  hasDelegators: boolean
   delegate?: string
   delegators?: string[]
   delegatorsAmount: number

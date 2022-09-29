@@ -6,9 +6,9 @@ import VESTING_ABI from './abi/Ethereum/vesting.json'
 import { Networks } from './entities/Networks'
 import { Tokens } from './entities/Tokens'
 import { GovernanceProposalType, Status } from './interfaces/GovernanceProposal'
-import { GrantProposal, GrantUpdate, GrantUpdateResponse, OneTimePaymentInfo, Update, UpdateStatus, VestingInfo } from './interfaces/Grant'
+import { GrantProposal, GrantUpdate, GrantUpdateResponse, OneTimePaymentInfo, Updates, UpdateStatus, VestingInfo } from './interfaces/Grant'
 import { Decoded, DecodedName, ParamName, TransactionItem } from './interfaces/Transactions/Transactions'
-import { baseCovalentUrl, COVALENT_API_KEY, fetchCovalentURL, fetchURL, INFURA_URL, parseNumber, saveToCSV, saveToJSON } from './utils'
+import { baseCovalentUrl, COVALENT_API_KEY, fetchCovalentURL, fetchURL, getChecksumAddress, INFURA_URL, parseNumber, saveToCSV, saveToJSON, toISOString } from './utils'
 
 const web3 = new Web3(INFURA_URL)
 
@@ -37,8 +37,8 @@ async function getVestingContractData(proposalId: string, vestingAddress: string
     const contractStart: number = await vestingContract.methods.start().call()
     const contractDuration: number = await vestingContract.methods.duration().call()
     const contractEndsTimestamp = Number(contractStart) + Number(contractDuration)
-    const vesting_start_at = new Date(contractStart * 1000).toISOString()
-    const vesting_finish_at = new Date(contractEndsTimestamp * 1000).toISOString()
+    const vesting_start_at = toISOString(contractStart)
+    const vesting_finish_at = toISOString(contractEndsTimestamp)
 
     const tokenContract = new web3.eth.Contract(token.abi, contract_token_address)
     const raw_token_contract_balance = await tokenContract.methods.balanceOf(vestingAddress).call()
@@ -62,7 +62,7 @@ async function getVestingContractData(proposalId: string, vestingAddress: string
 function transferMatchesBeneficiary(decodedLogEvent: Decoded, beneficiary: string) {
   return decodedLogEvent && decodedLogEvent.name === DecodedName.Transfer &&
     decodedLogEvent.params.some(param => {
-      return param.name === ParamName.To && String(param.value).toLowerCase() === beneficiary.toLowerCase()
+      return param.name === ParamName.To && getChecksumAddress(String(param.value)) === getChecksumAddress(beneficiary)
     })
 }
 
@@ -94,7 +94,7 @@ function getUpdatesAmountByStatus(updates: GrantUpdate[], status: UpdateStatus):
   return updates.filter(update => update.status === status).length
 }
 
-function parseUpdatesInfo(updatesResponseData: GrantUpdateResponse['data']): Update {
+function parseUpdatesInfo(updatesResponseData: GrantUpdateResponse['data']): Updates {
 
   const lastUpdate = updatesResponseData.publicUpdates.filter(
     update => update.status === UpdateStatus.Done || update.status === UpdateStatus.Late
@@ -113,7 +113,7 @@ function parseUpdatesInfo(updatesResponseData: GrantUpdateResponse['data']): Upd
 
 async function setEnactingData(proposal: GrantProposal): Promise<void> {
 
-  const assignProposalData = (data: Update | VestingInfo | OneTimePaymentInfo) => { Object.assign(proposal, data) }
+  const assignProposalData = (data: Updates | VestingInfo | OneTimePaymentInfo) => { Object.assign(proposal, data) }
 
   if (proposal.vesting_address) {
     const vestingContractData = await getVestingContractData(proposal.id, proposal.vesting_address.toLowerCase())

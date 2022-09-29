@@ -1,5 +1,5 @@
 import { Curation } from './interfaces/Curation'
-import { collectionsUrl, fetchGraphQLCondition, saveToCSV, saveToJSON } from './utils'
+import { collectionsUrl, fetchGraphQLCondition, saveToCSV, saveToJSON, toISOString } from './utils'
 
 interface CurationParsed {
   timestamp: string,
@@ -31,7 +31,7 @@ async function main() {
       collectionName: c.collection.name,
       collectionItems: c.collection.itemsCount,
       collectionApproved: c.isApproved,
-      timestamp: new Date(parseInt(c.timestamp) * 1000).toISOString()
+      timestamp: toISOString(parseInt(c.timestamp))
     }
   })
 

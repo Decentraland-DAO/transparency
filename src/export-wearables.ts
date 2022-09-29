@@ -1,6 +1,6 @@
 import BigNumber from "bignumber.js"
 import { Wearable, WearableData } from "./interfaces/Wearable"
-import { collectionsUrl, fetchGraphQLCondition, saveToCSV, saveToJSON } from "./utils"
+import { collectionsUrl, fetchGraphQLCondition, parseNumber, saveToCSV, saveToJSON, toISOString } from "./utils"
 
 type WearableParsed = Wearable & WearableData
 
@@ -24,13 +24,13 @@ async function main() {
       w.category = w.metadata.wearable?.category
       w.network = network
       w.collection = w.metadata.wearable?.collection
-      w.price = new BigNumber(w.price).dividedBy(10 ** 18).toNumber() || 0
-      w.creationFee = new BigNumber(w.creationFee).dividedBy(10 ** 18).toNumber() || 0
+      w.price = parseNumber(w.price,  18) || 0
+      w.creationFee = parseNumber(w.creationFee, 18) || 0
 
-      w.createdAt = w.createdAt && new Date(parseInt(w.createdAt) * 1000).toISOString()
-      w.updatedAt = w.updatedAt && new Date(parseInt(w.updatedAt) * 1000).toISOString()
-      w.reviewedAt = w.reviewedAt && new Date(parseInt(w.reviewedAt) * 1000).toISOString()
-      w.soldAt = w.soldAt && new Date(parseInt(w.soldAt) * 1000).toISOString()
+      w.createdAt = toISOString(parseInt(w.createdAt))
+      w.updatedAt = toISOString(parseInt(w.updatedAt))
+      w.reviewedAt = toISOString(parseInt(w.reviewedAt))
+      w.soldAt = toISOString(parseInt(w.soldAt))
     }
 
     wearables.push(...networkWearables)

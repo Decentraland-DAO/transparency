@@ -1,6 +1,6 @@
 import { SnapshotSpace } from './interfaces/GovernanceProposal'
 import { Vote } from './interfaces/Vote'
-import { fetchGraphQL, parseVP, saveToCSV, saveToJSON, snapshotUrl } from './utils'
+import { fetchGraphQL, parseVP, saveToCSV, saveToJSON, snapshotUrl, toISOString } from './utils'
 
 export interface VotesParsed {
   voter: string
@@ -31,7 +31,7 @@ async function main() {
     const vpSources = parseVP(vote.vp_by_strategy)
     return {
       voter: vote.voter,
-      created: new Date(vote.created * 1000).toISOString(),
+      created: toISOString(vote.created),
       choice: vote.choice,
       vp: vote.vp,
       proposal_id: vote.proposal.id,

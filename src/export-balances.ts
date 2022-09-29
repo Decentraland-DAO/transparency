@@ -3,7 +3,7 @@ import { NetworkName } from './entities/Networks'
 import { TokenSymbols } from "./entities/Tokens"
 import { Wallet, Wallets } from "./entities/Wallets"
 import { Contract } from "./interfaces/Balance"
-import { baseCovalentUrl, COVALENT_API_KEY, fetchCovalentURL, flattenArray, saveToCSV, saveToJSON } from "./utils"
+import { baseCovalentUrl, COVALENT_API_KEY, fetchCovalentURL, flattenArray, parseNumber, saveToCSV, saveToJSON } from "./utils"
 
 const ALLOWED_SYMBOLS = new Set<string>(Object.values(TokenSymbols))
 
@@ -26,7 +26,7 @@ async function getBalance(wallet: Wallet) {
   return contracts.map<BalanceParsed>(contract => ({
     timestamp: contract.holdings[0].timestamp,
     name,
-    amount: new BigNumber(contract.holdings[0].close.balance).dividedBy(10 ** contract.contract_decimals).toNumber(),
+    amount: parseNumber(Number(contract.holdings[0].close.balance),  contract.contract_decimals),
     quote: contract.holdings[0].close.quote,
     rate: contract.holdings[0].quote_rate,
     symbol: contract.contract_ticker_symbol,

@@ -2,9 +2,9 @@ import snapshot from '@snapshot-labs/snapshot.js'
 import { Networks } from './entities/Networks'
 import { SnapshotSpace } from './interfaces/GovernanceProposal'
 import { DelegationInfo, MemberInfo, STRATEGIES, Vote } from './interfaces/Members'
-import { fetchDelegations, fetchGraphQL, flattenArray, parseVP, saveToCSV, saveToJSON, snapshotUrl, splitArray, toYesOrNo } from './utils'
+import { fetchDelegations, fetchGraphQL, flattenArray, parseVP, saveToCSV, saveToJSON, snapshotUrl, splitArray } from './utils'
 
-const MAX_RETRIES = 5
+const MAX_RETRIES = 10
 
 const space = SnapshotSpace.DCL
 const network = Networks.getEth().id.toString()
@@ -16,6 +16,7 @@ const network = Networks.getEth().id.toString()
 async function fetchSnapshotScores(addresses: string[], jobId: number) {
   const snapshotScores: Record<string, number>[] = [{}, {}, {}, {}, {}, {}]
   let addressesToRetry: string[] = []
+  let retries = MAX_RETRIES
   do {
     const list = [...(addressesToRetry.length > 0 ? addressesToRetry : addresses)]
     addressesToRetry = []
@@ -32,10 +33,15 @@ async function fetchSnapshotScores(addresses: string[], jobId: number) {
     }
 
     if (addressesToRetry.length > 0) {
-      console.log(`Job: ${jobId} - Retrying score fetch. Retries left ${addressesToRetry.length}...`)
+      console.log(`Job: ${jobId} - Retrying score fetch. ${addressesToRetry.length} addresses left...`)
+      retries--
     }
   }
-  while (addressesToRetry.length > 0)
+  while (addressesToRetry.length > 0 && retries > 0)
+
+  if (retries <= 0 && addressesToRetry.length > 0) {
+    throw new Error("Could not fetch snapshot scores")
+  }
 
   return snapshotScores
 }
@@ -83,8 +89,8 @@ async function getMembersInfo(addresses: string[], jobId: number) {
       address,
       avatarPreview: `https://wearable-preview.decentraland.org/?profile=${address}`,
       ...parseVP(scores),
-      hasDelegated: toYesOrNo(!!delegate),
-      hasDelegators: toYesOrNo(!!delegators),
+      hasDelegated: !!delegate,
+      hasDelegators: !!delegators,
       delegate: delegate?.delegate,
       delegators: delegators?.delegators,
       delegatorsAmount: delegators?.delegators.length || 0

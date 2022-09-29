@@ -13,6 +13,7 @@ import { Delegation, DelegationInfo, MemberVP, ReceivedDelegations } from './int
 import { TransactionDetails } from './interfaces/Transactions/Transactions'
 import { TransferType } from './interfaces/Transactions/Transfers'
 import { CovalentResponse } from './interfaces/Covalent'
+import { ethers } from 'ethers'
 
 require('dotenv').config()
 
@@ -41,6 +42,10 @@ export function median(array: number[]) {
   return (sortedArray[half - 1] + sortedArray[half]) / 2.0
 }
 
+export function getChecksumAddress(address: string) {
+  return ethers.utils.getAddress(address.toLowerCase())
+}
+
 export function parseNumber(n: number, decimals: number) {
   return new BigNumber(n).dividedBy(10 ** decimals).toNumber()
 }
@@ -50,7 +55,7 @@ export function dayToMillisec(dayAmount: number) {
 }
 
 export function toISOString(seconds: number) {
-  return seconds && new Date(seconds * 1000).toISOString()
+  return new Date(seconds * 1000).toISOString()
 }
 
 export function baseCovalentUrl(network: Network) {
@@ -222,10 +227,6 @@ export async function fetchDelegations(members: string[], space: string): Promis
     givenDelegations: snapshotGivenDelegations,
     receivedDelegations
   }
-}
-
-export function toYesOrNo(value: boolean) {
-  return value ? 'Yes' : 'No'
 }
 
 export function saveToFile(name: string, data: string) {

@@ -3,7 +3,7 @@ import { TokenSymbols } from '../entities/Tokens'
 import { Category } from './GovernanceProposal'
 import { ProposalParsed } from './Proposal'
 
-export interface Update {
+export interface Updates {
   done_updates: number
   late_updates: number
   missed_updates: number
@@ -30,7 +30,7 @@ export interface OneTimePaymentInfo {
   tx_amount: number
 }
 
-type Grant = Partial<Update> & Partial<VestingInfo> & Partial<OneTimePaymentInfo> & {
+type Grant = Partial<Updates> & Partial<VestingInfo> & Partial<OneTimePaymentInfo> & {
   category?: Category
   tier?: string
   size?: number

@@ -13,7 +13,7 @@ import { TransferItem, TransferType } from './interfaces/Transactions/Transfers'
 import {
   COVALENT_API_KEY, DECENTRALAND_DATA_URL, fetchCovalentURL, fetchURL,
   flattenArray, getLatestBlockByToken, LatestBlocks, printableLatestBlocks,
-  saveToCSV, saveToJSON, setTransactionTag, splitArray, baseCovalentUrl
+  saveToCSV, saveToJSON, setTransactionTag, splitArray, baseCovalentUrl, parseNumber
 } from './utils'
 
 export interface TransactionParsed {
@@ -96,7 +96,7 @@ async function getTransactions(name: string, tokenAddress: string, network: Netw
 
       const date = tx.block_signed_at.split('T')[0]
       const usdPrice = priceData[txTransfer.contract_address.toLowerCase()][date]
-      const amount = new BigNumber(txTransfer.delta).dividedBy(10 ** txTransfer.contract_decimals).toNumber()
+      const amount = parseNumber(Number(txTransfer.delta),  txTransfer.contract_decimals)
 
       let usdValue = 0
 
@@ -274,10 +274,12 @@ async function getTokenPrices(latestBlocks?: LatestBlocks) {
   const unresolvedPrices: Promise<TokenPriceAPIData[]>[] = []
   const today = new Date().toISOString().split('T')[0]
 
+  const FIRST_TX_DATE = '2020-01-24'
+
   for (const network of Networks.getAll()) {
     const tokenAddresses = Tokens.getAddresses(network.name)
     for (const address of tokenAddresses) {
-      let from = '2020-01-24'
+      let from = FIRST_TX_DATE
       if (latestBlocks) {
         const blockInfo = latestBlocks[network.name][address]
         if (blockInfo) {
