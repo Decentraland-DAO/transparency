@@ -9,12 +9,18 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
+In the two weeks since the last DAO Committee report, 5 points of interest (POI) have been added to the Decentraland map, 6 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-4 points of interest have been added to Decentraland’s map since the last report.
+5 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 159, 125: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=7f3d5100-3a46-11ed-a2ad-25cde07289d9)
+
+* Yes 99.99996227714753% 2,650,912 VP (75 votes)
+* No 0.00003772285246630123% 1 VP (2 votes)
 
 
 #### 144, -37: [Federated Reserve Pub](https://governance.decentraland.org/proposal/?id=f1df16a0-3936-11ed-a2f4-07fa9844a05e)
@@ -50,13 +56,25 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since September 16, 4 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since September 16, 6 grants have been approved and the vesting contract(s) will be established within 7-10 days.
 
 
 #### [Introduce New Artists into Decentraland](https://governance.decentraland.org/proposal/?id=92cb8d40-36fe-11ed-b361-67b98a1da2c8) (Tier 2)
 
 * Yes 99.89322383963442% 2,421,174 VP (66 votes)
 * No 0.10677616036558046% 2,588 VP (2 votes)
+
+
+#### [Deployable custom NFT shop &amp; dashboard for land owners &amp; operators](https://governance.decentraland.org/proposal/?id=67885a20-34a9-11ed-b361-67b98a1da2c8) (Tier 4)
+
+* Yes 87.58808056473625% 5,766,949 VP (88 votes)
+* No 12.411919435263757% 817,222 VP (7 votes)
+
+
+#### [NFT World City Games and Comedy Club](https://governance.decentraland.org/proposal/?id=479bbd40-346a-11ed-b361-67b98a1da2c8) (Tier 5)
+
+* Yes 93.59256109015742% 4,388,222 VP (140 votes)
+* No 6.407438909842591% 300,422 VP (4 votes)
 
 
 #### [Create a Phygital environment to unite artists from latam and Decentraland](https://governance.decentraland.org/proposal/?id=9a9c4f70-2e50-11ed-b361-67b98a1da2c8) (Tier 4)
@@ -107,13 +125,11 @@ Since September 16, 4 grants have been approved and the vesting contract(s) will
 ## Points of Interest
 
 * 129, 49: [Exodus](https://governance.decentraland.org/proposal/?id=1b168f40-3e81-11ed-ae53-272ba72c798d)
-* 129, 49: [Exodus](https://governance.decentraland.org/proposal/?id=0549a850-3e81-11ed-ae53-272ba72c798d)
 * -75, 73: [Chateau Satoshi](https://governance.decentraland.org/proposal/?id=f8d07e30-3de2-11ed-ae53-272ba72c798d)
 * -30, -108: [No Name](https://governance.decentraland.org/proposal/?id=5bb611a0-3dbf-11ed-a2ad-25cde07289d9)
 * -25, 103: [Decentraland University](https://governance.decentraland.org/proposal/?id=28d87b70-3b4d-11ed-a2ad-25cde07289d9)
 * 16, 83: [Decentraland Museum](https://governance.decentraland.org/proposal/?id=d19f8880-3b4c-11ed-a2ad-25cde07289d9)
 * 11, 95: [Decentraland Conference Center](https://governance.decentraland.org/proposal/?id=19c7e4b0-3b4b-11ed-a2ad-25cde07289d9)
-* 159, 125: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=7f3d5100-3a46-11ed-a2ad-25cde07289d9)
 
 ## Grants
 
@@ -125,8 +141,6 @@ Since September 16, 4 grants have been approved and the vesting contract(s) will
 * [Duel Arena P2E; Turn Based RPG | Play to Earn](https://governance.decentraland.org/proposal/?id=75401e40-3b67-11ed-a2ad-25cde07289d9) (Tier 4)
 * [[RESUBMISSION] EDUCATIONAL RADIO PROGRAMMES AND SEMINARS ON DECENTRALAND.](https://governance.decentraland.org/proposal/?id=2f547e70-3a73-11ed-a2ad-25cde07289d9) (Tier 1)
 * [A  Multi-disciplinary Platform to Onboard the Biggest Arts &amp; Entertainment Names](https://governance.decentraland.org/proposal/?id=52de9bf0-3816-11ed-b361-67b98a1da2c8) (Tier 5)
-* [Deployable custom NFT shop &amp; dashboard for land owners &amp; operators](https://governance.decentraland.org/proposal/?id=67885a20-34a9-11ed-b361-67b98a1da2c8) (Tier 4)
-* [NFT World City Games and Comedy Club](https://governance.decentraland.org/proposal/?id=479bbd40-346a-11ed-b361-67b98a1da2c8) (Tier 5)
 
 ## Names Bans
 
