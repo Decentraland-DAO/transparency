@@ -9,12 +9,30 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 5 points of interest (POI) have been added to the Decentraland map, 6 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
+In the two weeks since the last DAO Committee report, 8 points of interest (POI) have been added to the Decentraland map, 6 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-5 points of interest have been added to Decentraland’s map since the last report.
+8 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -25, 103: [Decentraland University](https://governance.decentraland.org/proposal/?id=28d87b70-3b4d-11ed-a2ad-25cde07289d9)
+
+* Yes 100% 2,149,906 VP (53 votes)
+* No 0% 0 VP (0 votes)
+
+
+#### 16, 83: [Decentraland Museum](https://governance.decentraland.org/proposal/?id=d19f8880-3b4c-11ed-a2ad-25cde07289d9)
+
+* Yes 99.99972084142118% 2,149,310 VP (51 votes)
+* No 0.0002791585788222858% 6 VP (3 votes)
+
+
+#### 11, 95: [Decentraland Conference Center](https://governance.decentraland.org/proposal/?id=19c7e4b0-3b4b-11ed-a2ad-25cde07289d9)
+
+* Yes 99.99974601278166% 1,968,598 VP (55 votes)
+* No 0.00025398721834722393% 5 VP (2 votes)
 
 
 #### 159, 125: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=7f3d5100-3a46-11ed-a2ad-25cde07289d9)
@@ -97,6 +115,13 @@ Since September 16, 6 grants have been approved and the vesting contract(s) will
 
 ## Polls
 
+#### [Do Decentraland needs native car system ?](https://governance.decentraland.org/proposal/?id=c54320b0-3cc8-11ed-a2ad-25cde07289d9)
+
+* Yes, research should be made 99.5596906597737% 2,596,004 VP (58 votes)
+* No, we dont need it  0.44030934022630996% 11,481 VP (4 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 #### [Increase Skin/ Full Character Category testing server upload size from 2MB to 8MB](https://governance.decentraland.org/proposal/?id=7e8c2640-37d1-11ed-b361-67b98a1da2c8)
 
 * Yes increase from 2MB to 8MB 68.19138747350233% 1,965,822 VP (108 votes)
@@ -111,14 +136,6 @@ Since September 16, 6 grants have been approved and the vesting contract(s) will
 * Invalid question/options 0% 0 VP (0 votes)
 
 
-#### [Cooling Period for First Time Creators](https://governance.decentraland.org/proposal/?id=e71002a0-32bc-11ed-b361-67b98a1da2c8)
-
-* Cooling Down period 14 Days 21.971710558604414% 371,577 VP (14 votes)
-* Cooling Down Period 30 Days 30.711268767432554% 519,377 VP (16 votes)
-* Instant Payment with No Cooldown 47.317020673963036% 800,207 VP (13 votes)
-* Invalid question/options 0% 0 VP (0 votes)
-
-
 
 # Active Proposals
 
@@ -128,12 +145,10 @@ Since September 16, 6 grants have been approved and the vesting contract(s) will
 * 129, 49: [Exodus](https://governance.decentraland.org/proposal/?id=1b168f40-3e81-11ed-ae53-272ba72c798d)
 * -75, 73: [Chateau Satoshi](https://governance.decentraland.org/proposal/?id=f8d07e30-3de2-11ed-ae53-272ba72c798d)
 * -30, -108: [No Name](https://governance.decentraland.org/proposal/?id=5bb611a0-3dbf-11ed-a2ad-25cde07289d9)
-* -25, 103: [Decentraland University](https://governance.decentraland.org/proposal/?id=28d87b70-3b4d-11ed-a2ad-25cde07289d9)
-* 16, 83: [Decentraland Museum](https://governance.decentraland.org/proposal/?id=d19f8880-3b4c-11ed-a2ad-25cde07289d9)
-* 11, 95: [Decentraland Conference Center](https://governance.decentraland.org/proposal/?id=19c7e4b0-3b4b-11ed-a2ad-25cde07289d9)
 
 ## Grants
 
+* [Make Decentraland Great Again - MDGA](https://governance.decentraland.org/proposal/?id=5c24e2b0-4125-11ed-9eb2-21be7ab68113) (Tier 4)
 * [ART or DAI Battles (Revised Submission)](https://governance.decentraland.org/proposal/?id=c00bf190-4046-11ed-9eb2-21be7ab68113) (Tier 4)
 * [Communuity Card Game Module Expansion - More Games](https://governance.decentraland.org/proposal/?id=0db018f0-3e25-11ed-ae53-272ba72c798d) (Tier 2)
 * [Dungeons and Dragons &amp; Decentraland (Demo)](https://governance.decentraland.org/proposal/?id=1117c6c0-3ced-11ed-a2ad-25cde07289d9) (Tier 3)
@@ -150,6 +165,5 @@ Since September 16, 6 grants have been approved and the vesting contract(s) will
 
 ## Polls
 
-* [Do Decentraland needs native car system ?](https://governance.decentraland.org/proposal/?id=c54320b0-3cc8-11ed-a2ad-25cde07289d9)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
