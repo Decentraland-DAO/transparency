@@ -312,7 +312,10 @@ export function parseKPIs(kpis: KPI[]) {
 
 export function parseVP(scores: number[]): MemberVP {
 
-  if (scores.length !== 4 && scores.length !== 6) {
+  if (scores.length > 6) {
+    console.warn("new score strategy detected")
+  }
+  else if (scores.length !== 4 && scores.length !== 6) {
     throw Error('Invalid VP scores length')
   }
 
