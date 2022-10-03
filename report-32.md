@@ -141,6 +141,8 @@ Since September 16, 6 grants have been approved and the vesting contract(s) will
 
 ## Points of Interest
 
+* 78, -105: [No Name](https://governance.decentraland.org/proposal/?id=e2fea0c0-426d-11ed-9eb2-21be7ab68113)
+* -71, 82: [Festival Land](https://governance.decentraland.org/proposal/?id=d2fbceb0-4253-11ed-9eb2-21be7ab68113)
 * -30, 11: [Maxis Centre Decentraland](https://governance.decentraland.org/proposal/?id=b7615330-407a-11ed-9eb2-21be7ab68113)
 * 129, 49: [Exodus](https://governance.decentraland.org/proposal/?id=1b168f40-3e81-11ed-ae53-272ba72c798d)
 * -75, 73: [Chateau Satoshi](https://governance.decentraland.org/proposal/?id=f8d07e30-3de2-11ed-ae53-272ba72c798d)
@@ -148,10 +150,10 @@ Since September 16, 6 grants have been approved and the vesting contract(s) will
 
 ## Grants
 
+* [MetaPartyHub, an immersive Devcon side event to promote Decentraland](https://governance.decentraland.org/proposal/?id=bcd48260-42b9-11ed-9eb2-21be7ab68113) (Tier 2)
 * [Make Decentraland Great Again - MDGA](https://governance.decentraland.org/proposal/?id=5c24e2b0-4125-11ed-9eb2-21be7ab68113) (Tier 4)
 * [ART or DAI Battles (Revised Submission)](https://governance.decentraland.org/proposal/?id=c00bf190-4046-11ed-9eb2-21be7ab68113) (Tier 4)
 * [Communuity Card Game Module Expansion - More Games](https://governance.decentraland.org/proposal/?id=0db018f0-3e25-11ed-ae53-272ba72c798d) (Tier 2)
-* [Dungeons and Dragons &amp; Decentraland (Demo)](https://governance.decentraland.org/proposal/?id=1117c6c0-3ced-11ed-a2ad-25cde07289d9) (Tier 3)
 * [Continued Development of No-Code Creator Tool for Decentraland](https://governance.decentraland.org/proposal/?id=c9aa8040-3c09-11ed-a2ad-25cde07289d9) (Tier 6)
 * [Virtual Street Team](https://governance.decentraland.org/proposal/?id=b328a6d0-3b7d-11ed-a2ad-25cde07289d9) (Tier 4)
 * [Duel Arena P2E; Turn Based RPG | Play to Earn](https://governance.decentraland.org/proposal/?id=75401e40-3b67-11ed-a2ad-25cde07289d9) (Tier 4)
@@ -165,5 +167,6 @@ Since September 16, 6 grants have been approved and the vesting contract(s) will
 
 ## Polls
 
+* [Restructuring the  Community Grants Program](https://governance.decentraland.org/proposal/?id=e2fbd710-426c-11ed-9eb2-21be7ab68113)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
