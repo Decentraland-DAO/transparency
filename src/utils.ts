@@ -55,7 +55,7 @@ export function dayToMillisec(dayAmount: number) {
 }
 
 export function toISOString(seconds: number) {
-  return new Date(seconds * 1000).toISOString()
+  return seconds ? new Date(seconds * 1000).toISOString() : undefined
 }
 
 export function baseCovalentUrl(network: Network) {

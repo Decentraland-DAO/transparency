@@ -42,7 +42,7 @@ export function getVPDistributionRows(members: MemberInfo[], totalVP: number) {
 }
 
 export function getDelegatedVPDistributionRows(members: MemberInfo[]) {
-  const membersWhoDelegated = members.filter(member => member.hasDelegated === 'Yes')
+  const membersWhoDelegated = members.filter(member => member.hasDelegated)
 
   const getMemberVP = (members: MemberInfo[], type: keyof MemberVP) => sum(members.map(member => member[type]))
 
