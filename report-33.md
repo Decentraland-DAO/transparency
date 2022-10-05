@@ -9,12 +9,18 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-2 points of interest have been added to Decentraland’s map since the last report.
+3 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 129, 49: [Exodus](https://governance.decentraland.org/proposal/?id=1b168f40-3e81-11ed-ae53-272ba72c798d)
+
+* Yes 99.77850084850189% 2,099,636 VP (56 votes)
+* No 0.22149915149810126% 4,661 VP (3 votes)
 
 
 #### -75, 73: [Chateau Satoshi](https://governance.decentraland.org/proposal/?id=f8d07e30-3de2-11ed-ae53-272ba72c798d)
@@ -69,7 +75,6 @@ Since October 1, 3 grants have been approved and the vesting contract(s) will be
 * 78, -105: [No Name](https://governance.decentraland.org/proposal/?id=e2fea0c0-426d-11ed-9eb2-21be7ab68113)
 * -71, 82: [Festival Land](https://governance.decentraland.org/proposal/?id=d2fbceb0-4253-11ed-9eb2-21be7ab68113)
 * -30, 11: [Maxis Centre Decentraland](https://governance.decentraland.org/proposal/?id=b7615330-407a-11ed-9eb2-21be7ab68113)
-* 129, 49: [Exodus](https://governance.decentraland.org/proposal/?id=1b168f40-3e81-11ed-ae53-272ba72c798d)
 
 ## Grants
 

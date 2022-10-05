@@ -144,7 +144,6 @@ Since September 16, 6 grants have been approved and the vesting contract(s) will
 * 78, -105: [No Name](https://governance.decentraland.org/proposal/?id=e2fea0c0-426d-11ed-9eb2-21be7ab68113)
 * -71, 82: [Festival Land](https://governance.decentraland.org/proposal/?id=d2fbceb0-4253-11ed-9eb2-21be7ab68113)
 * -30, 11: [Maxis Centre Decentraland](https://governance.decentraland.org/proposal/?id=b7615330-407a-11ed-9eb2-21be7ab68113)
-* 129, 49: [Exodus](https://governance.decentraland.org/proposal/?id=1b168f40-3e81-11ed-ae53-272ba72c798d)
 
 ## Grants
 
