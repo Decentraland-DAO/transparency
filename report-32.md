@@ -141,12 +141,14 @@ Since September 16, 6 grants have been approved and the vesting contract(s) will
 
 ## Points of Interest
 
+* -62, 128: [Hen.world  (at Voltaire Plaza)](https://governance.decentraland.org/proposal/?id=91f76730-460e-11ed-9eb2-21be7ab68113)
 * 78, -105: [No Name](https://governance.decentraland.org/proposal/?id=e2fea0c0-426d-11ed-9eb2-21be7ab68113)
 * -71, 82: [Festival Land](https://governance.decentraland.org/proposal/?id=d2fbceb0-4253-11ed-9eb2-21be7ab68113)
-* -30, 11: [Maxis Centre Decentraland](https://governance.decentraland.org/proposal/?id=b7615330-407a-11ed-9eb2-21be7ab68113)
 
 ## Grants
 
+* [A Book to introduce DCL to Chinese People, Lift DCL Fame &amp; Open the 1.4B Market](https://governance.decentraland.org/proposal/?id=847247f0-4547-11ed-9eb2-21be7ab68113) (Tier 4)
+* [Business Reviews, Scam Prevention, Security Help &amp; Registries [Trust In DCL]](https://governance.decentraland.org/proposal/?id=8f170b00-4547-11ed-9eb2-21be7ab68113) (Tier 4)
 * [Co-Design unique Phygital Fashion &amp; Accessories for Decentraland!  (Amended)](https://governance.decentraland.org/proposal/?id=43bb63a0-43b1-11ed-9eb2-21be7ab68113) (Tier 4)
 * [MetaPartyHub, an immersive Devcon side event to promote Decentraland](https://governance.decentraland.org/proposal/?id=bcd48260-42b9-11ed-9eb2-21be7ab68113) (Tier 2)
 * [Make Decentraland Great Again - MDGA](https://governance.decentraland.org/proposal/?id=5c24e2b0-4125-11ed-9eb2-21be7ab68113) (Tier 4)
@@ -163,6 +165,8 @@ Since September 16, 6 grants have been approved and the vesting contract(s) will
 
 ## Polls
 
+* [New funding tier of $500](https://governance.decentraland.org/proposal/?id=09f6a880-457a-11ed-9eb2-21be7ab68113)
+* [Zombieland Problem - Could we rent out empty/unused land automatically?](https://governance.decentraland.org/proposal/?id=e85b7b40-44cc-11ed-9eb2-21be7ab68113)
 * [Make All the Top Charted NFT collections 3D linked wearables skins and helmets in Decentraland.](https://governance.decentraland.org/proposal/?id=5a931460-4370-11ed-9eb2-21be7ab68113)
 * [Restructuring the  Community Grants Program](https://governance.decentraland.org/proposal/?id=e2fbd710-426c-11ed-9eb2-21be7ab68113)
 
