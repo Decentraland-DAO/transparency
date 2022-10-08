@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -67,6 +67,13 @@ Since October 1, 3 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+#### [Restructuring the  Community Grants Program](https://governance.decentraland.org/proposal/?id=e2fbd710-426c-11ed-9eb2-21be7ab68113)
+
+* Yes 100% 6,385,726 VP (58 votes)
+* No 0% 0 VP (0 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 
 # Active Proposals
 
@@ -80,13 +87,10 @@ Since October 1, 3 grants have been approved and the vesting contract(s) will be
 
 * [A Book to introduce DCL to Chinese People, Lift DCL Fame &amp; Open the 1.4B Market](https://governance.decentraland.org/proposal/?id=847247f0-4547-11ed-9eb2-21be7ab68113) (Tier 4)
 * [Business Reviews, Scam Prevention, Security Help &amp; Registries [Trust In DCL]](https://governance.decentraland.org/proposal/?id=8f170b00-4547-11ed-9eb2-21be7ab68113) (Tier 4)
-* [Co-Design unique Phygital Fashion &amp; Accessories for Decentraland!  (Amended)](https://governance.decentraland.org/proposal/?id=43bb63a0-43b1-11ed-9eb2-21be7ab68113) (Tier 4)
 * [MetaPartyHub, an immersive Devcon side event to promote Decentraland](https://governance.decentraland.org/proposal/?id=bcd48260-42b9-11ed-9eb2-21be7ab68113) (Tier 2)
 * [Make Decentraland Great Again - MDGA](https://governance.decentraland.org/proposal/?id=5c24e2b0-4125-11ed-9eb2-21be7ab68113) (Tier 4)
 * [ART or DAI Battles (Revised Submission)](https://governance.decentraland.org/proposal/?id=c00bf190-4046-11ed-9eb2-21be7ab68113) (Tier 4)
 * [Continued Development of No-Code Creator Tool for Decentraland](https://governance.decentraland.org/proposal/?id=c9aa8040-3c09-11ed-a2ad-25cde07289d9) (Tier 6)
-* [Virtual Street Team](https://governance.decentraland.org/proposal/?id=b328a6d0-3b7d-11ed-a2ad-25cde07289d9) (Tier 4)
-* [Duel Arena P2E; Turn Based RPG | Play to Earn](https://governance.decentraland.org/proposal/?id=75401e40-3b67-11ed-a2ad-25cde07289d9) (Tier 4)
 
 ## Names Bans
 
@@ -96,9 +100,11 @@ Since October 1, 3 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Co-Design unique Phygital Fashion &amp; Accessories for Decentraland! Mintable wearables to a linked wearble contract - 50% of sales to DAO](https://governance.decentraland.org/proposal/?id=bcb89730-46f1-11ed-9eb2-21be7ab68113)
+* [Co-Design unique Phygital Fashion &amp; Accessories for Decentraland! Mintable wearables to a linked wearble contract - 50% of sales to DAO](https://governance.decentraland.org/proposal/?id=8e86e060-46f1-11ed-9eb2-21be7ab68113)
+* [Does Decentraland need to allocate more resources to ensuring scenes can handle higher capacity of users?](https://governance.decentraland.org/proposal/?id=ee3ebee0-469e-11ed-9eb2-21be7ab68113)
 * [New funding tier of $500](https://governance.decentraland.org/proposal/?id=09f6a880-457a-11ed-9eb2-21be7ab68113)
 * [Zombieland Problem - Could we rent out empty/unused land automatically?](https://governance.decentraland.org/proposal/?id=e85b7b40-44cc-11ed-9eb2-21be7ab68113)
 * [Make All the Top Charted NFT collections 3D linked wearables skins and helmets in Decentraland.](https://governance.decentraland.org/proposal/?id=5a931460-4370-11ed-9eb2-21be7ab68113)
-* [Restructuring the  Community Grants Program](https://governance.decentraland.org/proposal/?id=e2fbd710-426c-11ed-9eb2-21be7ab68113)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
