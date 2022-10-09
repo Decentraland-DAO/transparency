@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -67,6 +67,13 @@ Since October 1, 3 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+#### [Make All the Top Charted NFT collections 3D linked wearables skins and helmets in Decentraland.](https://governance.decentraland.org/proposal/?id=5a931460-4370-11ed-9eb2-21be7ab68113)
+
+* Yes! for this budget or alternative i put in comments  7.534872984932366% 206,959 VP (75 votes)
+* No.  51.48062280234843% 1,414,009 VP (12 votes)
+* Invalid question/options 40.9845042127192% 1,125,714 VP (25 votes)
+
+
 #### [Restructuring the  Community Grants Program](https://governance.decentraland.org/proposal/?id=e2fbd710-426c-11ed-9eb2-21be7ab68113)
 
 * Yes 100% 6,385,726 VP (58 votes)
@@ -79,18 +86,20 @@ Since October 1, 3 grants have been approved and the vesting contract(s) will be
 
 ## Points of Interest
 
+* 74, -106: [2x2 Mainroad Estate](https://governance.decentraland.org/proposal/?id=ebef98f0-4705-11ed-9eb2-21be7ab68113)
+* 74, -106: [2x2 Mainroad Estate](https://governance.decentraland.org/proposal/?id=ff473a20-4705-11ed-9eb2-21be7ab68113)
 * -62, 128: [Hen.world  (at Voltaire Plaza)](https://governance.decentraland.org/proposal/?id=91f76730-460e-11ed-9eb2-21be7ab68113)
 * 78, -105: [No Name](https://governance.decentraland.org/proposal/?id=e2fea0c0-426d-11ed-9eb2-21be7ab68113)
 * -71, 82: [Festival Land](https://governance.decentraland.org/proposal/?id=d2fbceb0-4253-11ed-9eb2-21be7ab68113)
 
 ## Grants
 
+* [ART|DAI Battles (Super Reviised 3rd times a charm)](https://governance.decentraland.org/proposal/?id=8a3c6fc0-4791-11ed-9eb2-21be7ab68113) (Tier 2)
 * [A Book to introduce DCL to Chinese People, Lift DCL Fame &amp; Open the 1.4B Market](https://governance.decentraland.org/proposal/?id=847247f0-4547-11ed-9eb2-21be7ab68113) (Tier 4)
 * [Business Reviews, Scam Prevention, Security Help &amp; Registries [Trust In DCL]](https://governance.decentraland.org/proposal/?id=8f170b00-4547-11ed-9eb2-21be7ab68113) (Tier 4)
 * [MetaPartyHub, an immersive Devcon side event to promote Decentraland](https://governance.decentraland.org/proposal/?id=bcd48260-42b9-11ed-9eb2-21be7ab68113) (Tier 2)
 * [Make Decentraland Great Again - MDGA](https://governance.decentraland.org/proposal/?id=5c24e2b0-4125-11ed-9eb2-21be7ab68113) (Tier 4)
 * [ART or DAI Battles (Revised Submission)](https://governance.decentraland.org/proposal/?id=c00bf190-4046-11ed-9eb2-21be7ab68113) (Tier 4)
-* [Continued Development of No-Code Creator Tool for Decentraland](https://governance.decentraland.org/proposal/?id=c9aa8040-3c09-11ed-a2ad-25cde07289d9) (Tier 6)
 
 ## Names Bans
 
@@ -105,6 +114,5 @@ Since October 1, 3 grants have been approved and the vesting contract(s) will be
 * [Does Decentraland need to allocate more resources to ensuring scenes can handle higher capacity of users?](https://governance.decentraland.org/proposal/?id=ee3ebee0-469e-11ed-9eb2-21be7ab68113)
 * [New funding tier of $500](https://governance.decentraland.org/proposal/?id=09f6a880-457a-11ed-9eb2-21be7ab68113)
 * [Zombieland Problem - Could we rent out empty/unused land automatically?](https://governance.decentraland.org/proposal/?id=e85b7b40-44cc-11ed-9eb2-21be7ab68113)
-* [Make All the Top Charted NFT collections 3D linked wearables skins and helmets in Decentraland.](https://governance.decentraland.org/proposal/?id=5a931460-4370-11ed-9eb2-21be7ab68113)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
