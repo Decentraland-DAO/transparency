@@ -98,6 +98,8 @@ Since October 1, 4 grants have been approved and the vesting contract(s) will be
 
 ## Points of Interest
 
+* -99, -7: [AvatarLife Arcade Centre](https://governance.decentraland.org/proposal/?id=7d741f90-4935-11ed-bdf3-75f4f4d9ef2f)
+* 39, -2: [under constructions](https://governance.decentraland.org/proposal/?id=dd7a2340-48d0-11ed-bdf3-75f4f4d9ef2f)
 * 2, 2: [Genesis Plaza](https://governance.decentraland.org/proposal/?id=7b8381c0-4846-11ed-9eb2-21be7ab68113)
 * 74, -106: [2x2 Mainroad Estate](https://governance.decentraland.org/proposal/?id=ebef98f0-4705-11ed-9eb2-21be7ab68113)
 * 74, -106: [2x2 Mainroad Estate](https://governance.decentraland.org/proposal/?id=ff473a20-4705-11ed-9eb2-21be7ab68113)
@@ -105,6 +107,8 @@ Since October 1, 4 grants have been approved and the vesting contract(s) will be
 
 ## Grants
 
+* [The DCL Report Increasing Awareness and Empowering Community](https://governance.decentraland.org/proposal/?id=9575fd70-48bd-11ed-bdf3-75f4f4d9ef2f) (Tier 6)
+* [Empowerirng creators through  virtual production content for the web3 ecosystem.](https://governance.decentraland.org/proposal/?id=1d2927b0-48aa-11ed-bdf3-75f4f4d9ef2f) (Tier 2)
 * [Rarible Protocol &lt;&gt; Decentraland Integration | Stellar Gate Project](https://governance.decentraland.org/proposal/?id=334a1f50-482c-11ed-9eb2-21be7ab68113) (Tier 4)
 * [ART|DAI Battles (Super Reviised 3rd times a charm)](https://governance.decentraland.org/proposal/?id=8a3c6fc0-4791-11ed-9eb2-21be7ab68113) (Tier 2)
 * [A Book to introduce DCL to Chinese People, Lift DCL Fame &amp; Open the 1.4B Market](https://governance.decentraland.org/proposal/?id=847247f0-4547-11ed-9eb2-21be7ab68113) (Tier 4)
@@ -120,10 +124,10 @@ Since October 1, 4 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [How can a Music NFT marketplace best function for Decentraland ?](https://governance.decentraland.org/proposal/?id=a4d1c2a0-48ee-11ed-bdf3-75f4f4d9ef2f)
 * [Co-Design unique Phygital Fashion &amp; Accessories for Decentraland! Mintable wearables to a linked wearble contract - 50% of sales to DAO](https://governance.decentraland.org/proposal/?id=bcb89730-46f1-11ed-9eb2-21be7ab68113)
 * [Co-Design unique Phygital Fashion &amp; Accessories for Decentraland! Mintable wearables to a linked wearble contract - 50% of sales to DAO](https://governance.decentraland.org/proposal/?id=8e86e060-46f1-11ed-9eb2-21be7ab68113)
 * [Does Decentraland need to allocate more resources to ensuring scenes can handle higher capacity of users?](https://governance.decentraland.org/proposal/?id=ee3ebee0-469e-11ed-9eb2-21be7ab68113)
 * [New funding tier of $500](https://governance.decentraland.org/proposal/?id=09f6a880-457a-11ed-9eb2-21be7ab68113)
-* [Zombieland Problem - Could we rent out empty/unused land automatically?](https://governance.decentraland.org/proposal/?id=e85b7b40-44cc-11ed-9eb2-21be7ab68113)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
