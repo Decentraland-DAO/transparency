@@ -99,11 +99,11 @@ Since October 1, 4 grants have been approved and the vesting contract(s) will be
 ## Points of Interest
 
 * -99, -7: [AvatarLife Arcade Centre](https://governance.decentraland.org/proposal/?id=7d741f90-4935-11ed-bdf3-75f4f4d9ef2f)
-* 39, -2: [under constructions](https://governance.decentraland.org/proposal/?id=dd7a2340-48d0-11ed-bdf3-75f4f4d9ef2f)
+* 39, -2: [Metaskins  Store](https://governance.decentraland.org/proposal/?id=dd7a2340-48d0-11ed-bdf3-75f4f4d9ef2f)
 * 2, 2: [Genesis Plaza](https://governance.decentraland.org/proposal/?id=7b8381c0-4846-11ed-9eb2-21be7ab68113)
 * 74, -106: [2x2 Mainroad Estate](https://governance.decentraland.org/proposal/?id=ebef98f0-4705-11ed-9eb2-21be7ab68113)
 * 74, -106: [2x2 Mainroad Estate](https://governance.decentraland.org/proposal/?id=ff473a20-4705-11ed-9eb2-21be7ab68113)
-* -62, 128: [Hen.world  (at Voltaire Plaza)](https://governance.decentraland.org/proposal/?id=91f76730-460e-11ed-9eb2-21be7ab68113)
+* -62, 128: [Hen.world - Meta&#39;s 1st Health Infotainment](https://governance.decentraland.org/proposal/?id=91f76730-460e-11ed-9eb2-21be7ab68113)
 
 ## Grants
 
@@ -128,6 +128,5 @@ Since October 1, 4 grants have been approved and the vesting contract(s) will be
 * [Co-Design unique Phygital Fashion &amp; Accessories for Decentraland! Mintable wearables to a linked wearble contract - 50% of sales to DAO](https://governance.decentraland.org/proposal/?id=bcb89730-46f1-11ed-9eb2-21be7ab68113)
 * [Co-Design unique Phygital Fashion &amp; Accessories for Decentraland! Mintable wearables to a linked wearble contract - 50% of sales to DAO](https://governance.decentraland.org/proposal/?id=8e86e060-46f1-11ed-9eb2-21be7ab68113)
 * [Does Decentraland need to allocate more resources to ensuring scenes can handle higher capacity of users?](https://governance.decentraland.org/proposal/?id=ee3ebee0-469e-11ed-9eb2-21be7ab68113)
-* [New funding tier of $500](https://governance.decentraland.org/proposal/?id=09f6a880-457a-11ed-9eb2-21be7ab68113)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
