@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -79,6 +79,22 @@ Since October 1, 4 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+#### [Co-Design unique Phygital Fashion &amp; Accessories for Decentraland! Mintable wearables to a linked wearble contract - 50% of sales to DAO](https://governance.decentraland.org/proposal/?id=bcb89730-46f1-11ed-9eb2-21be7ab68113)
+
+* Yes 0.001654394948840269% 17 VP (9 votes)
+* No 99.99834560505117% 1,027,549 VP (43 votes)
+* Other 0% 0 VP (0 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
+#### [Co-Design unique Phygital Fashion &amp; Accessories for Decentraland! Mintable wearables to a linked wearble contract - 50% of sales to DAO](https://governance.decentraland.org/proposal/?id=8e86e060-46f1-11ed-9eb2-21be7ab68113)
+
+* Yes 0.001005268725084694% 9 VP (7 votes)
+* No 99.99899473127492% 895,274 VP (36 votes)
+* Other 0% 0 VP (0 votes)
+* Invalid question/options 0% 0 VP (1 votes)
+
+
 #### [Make All the Top Charted NFT collections 3D linked wearables skins and helmets in Decentraland.](https://governance.decentraland.org/proposal/?id=5a931460-4370-11ed-9eb2-21be7ab68113)
 
 * Yes! for this budget or alternative i put in comments  7.534872984932366% 206,959 VP (75 votes)
@@ -98,6 +114,8 @@ Since October 1, 4 grants have been approved and the vesting contract(s) will be
 
 ## Points of Interest
 
+* -103, -144: [Vroomway](https://governance.decentraland.org/proposal/?id=19ad2a50-4aad-11ed-bdf3-75f4f4d9ef2f)
+* 2, 16: [Metaparty](https://governance.decentraland.org/proposal/?id=75c43a60-4a65-11ed-bdf3-75f4f4d9ef2f)
 * -99, -7: [AvatarLife Arcade Centre](https://governance.decentraland.org/proposal/?id=7d741f90-4935-11ed-bdf3-75f4f4d9ef2f)
 * 39, -2: [Metaskins  Store](https://governance.decentraland.org/proposal/?id=dd7a2340-48d0-11ed-bdf3-75f4f4d9ef2f)
 * 2, 2: [Genesis Plaza](https://governance.decentraland.org/proposal/?id=7b8381c0-4846-11ed-9eb2-21be7ab68113)
@@ -107,10 +125,10 @@ Since October 1, 4 grants have been approved and the vesting contract(s) will be
 
 ## Grants
 
+* [ART|DAI Battles (Super Extra Revised)](https://governance.decentraland.org/proposal/?id=e2cdaad0-4a72-11ed-bdf3-75f4f4d9ef2f) (Tier 1)
 * [The DCL Report Increasing Awareness and Empowering Community](https://governance.decentraland.org/proposal/?id=9575fd70-48bd-11ed-bdf3-75f4f4d9ef2f) (Tier 6)
 * [Empowerirng creators through  virtual production content for the web3 ecosystem.](https://governance.decentraland.org/proposal/?id=1d2927b0-48aa-11ed-bdf3-75f4f4d9ef2f) (Tier 2)
 * [Rarible Protocol &lt;&gt; Decentraland Integration | Stellar Gate Project](https://governance.decentraland.org/proposal/?id=334a1f50-482c-11ed-9eb2-21be7ab68113) (Tier 4)
-* [ART|DAI Battles (Super Reviised 3rd times a charm)](https://governance.decentraland.org/proposal/?id=8a3c6fc0-4791-11ed-9eb2-21be7ab68113) (Tier 2)
 * [A Book to introduce DCL to Chinese People, Lift DCL Fame &amp; Open the 1.4B Market](https://governance.decentraland.org/proposal/?id=847247f0-4547-11ed-9eb2-21be7ab68113) (Tier 4)
 * [Business Reviews, Scam Prevention, Security Help &amp; Registries [Trust In DCL]](https://governance.decentraland.org/proposal/?id=8f170b00-4547-11ed-9eb2-21be7ab68113) (Tier 4)
 * [Make Decentraland Great Again - MDGA](https://governance.decentraland.org/proposal/?id=5c24e2b0-4125-11ed-9eb2-21be7ab68113) (Tier 4)
@@ -124,9 +142,7 @@ Since October 1, 4 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Should POI names be assigned in the POI proposal or should we continue to let land owners change their POI at will?](https://governance.decentraland.org/proposal/?id=21bcd0f0-4a68-11ed-bdf3-75f4f4d9ef2f)
 * [How can a Music NFT marketplace best function for Decentraland ?](https://governance.decentraland.org/proposal/?id=a4d1c2a0-48ee-11ed-bdf3-75f4f4d9ef2f)
-* [Co-Design unique Phygital Fashion &amp; Accessories for Decentraland! Mintable wearables to a linked wearble contract - 50% of sales to DAO](https://governance.decentraland.org/proposal/?id=bcb89730-46f1-11ed-9eb2-21be7ab68113)
-* [Co-Design unique Phygital Fashion &amp; Accessories for Decentraland! Mintable wearables to a linked wearble contract - 50% of sales to DAO](https://governance.decentraland.org/proposal/?id=8e86e060-46f1-11ed-9eb2-21be7ab68113)
-* [Does Decentraland need to allocate more resources to ensuring scenes can handle higher capacity of users?](https://governance.decentraland.org/proposal/?id=ee3ebee0-469e-11ed-9eb2-21be7ab68113)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
