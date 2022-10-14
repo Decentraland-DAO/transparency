@@ -148,10 +148,10 @@ Since September 16, 6 grants have been approved and the vesting contract(s) will
 * 2, 2: [Genesis Plaza](https://governance.decentraland.org/proposal/?id=7b8381c0-4846-11ed-9eb2-21be7ab68113)
 * 74, -106: [2x2 Mainroad Estate](https://governance.decentraland.org/proposal/?id=ebef98f0-4705-11ed-9eb2-21be7ab68113)
 * 74, -106: [2x2 Mainroad Estate](https://governance.decentraland.org/proposal/?id=ff473a20-4705-11ed-9eb2-21be7ab68113)
-* -62, 128: [Hen.world - Meta&#39;s 1st Health Infotainment](https://governance.decentraland.org/proposal/?id=91f76730-460e-11ed-9eb2-21be7ab68113)
 
 ## Grants
 
+* [Temple](https://governance.decentraland.org/proposal/?id=8f4e94e0-4b1d-11ed-a234-ef1b91ca21e2) (Tier 4)
 * [ART|DAI Battles (Super Extra Revised)](https://governance.decentraland.org/proposal/?id=e2cdaad0-4a72-11ed-bdf3-75f4f4d9ef2f) (Tier 1)
 * [The DCL Report Increasing Awareness and Empowering Community](https://governance.decentraland.org/proposal/?id=9575fd70-48bd-11ed-bdf3-75f4f4d9ef2f) (Tier 6)
 * [Empowerirng creators through  virtual production content for the web3 ecosystem.](https://governance.decentraland.org/proposal/?id=1d2927b0-48aa-11ed-bdf3-75f4f4d9ef2f) (Tier 2)
@@ -159,7 +159,6 @@ Since September 16, 6 grants have been approved and the vesting contract(s) will
 * [A Book to introduce DCL to Chinese People, Lift DCL Fame &amp; Open the 1.4B Market](https://governance.decentraland.org/proposal/?id=847247f0-4547-11ed-9eb2-21be7ab68113) (Tier 4)
 * [Business Reviews, Scam Prevention, Security Help &amp; Registries [Trust In DCL]](https://governance.decentraland.org/proposal/?id=8f170b00-4547-11ed-9eb2-21be7ab68113) (Tier 4)
 * [Make Decentraland Great Again - MDGA](https://governance.decentraland.org/proposal/?id=5c24e2b0-4125-11ed-9eb2-21be7ab68113) (Tier 4)
-* [ART or DAI Battles (Revised Submission)](https://governance.decentraland.org/proposal/?id=c00bf190-4046-11ed-9eb2-21be7ab68113) (Tier 4)
 
 ## Names Bans
 
@@ -169,6 +168,8 @@ Since September 16, 6 grants have been approved and the vesting contract(s) will
 
 ## Polls
 
+* [Can we add Point Of Interests Icons to our Decentraland Map?](https://governance.decentraland.org/proposal/?id=6fbd8ba0-4b85-11ed-a234-ef1b91ca21e2)
+* [Can we have &#34; /goto home &#34; or &#34;/goto (POI name)&#34; as a command in chat?](https://governance.decentraland.org/proposal/?id=a4788ad0-4b7a-11ed-a234-ef1b91ca21e2)
 * [Should POI names be assigned in the POI proposal or should we continue to let land owners change their POI at will?](https://governance.decentraland.org/proposal/?id=21bcd0f0-4a68-11ed-bdf3-75f4f4d9ef2f)
 * [How can a Music NFT marketplace best function for Decentraland ?](https://governance.decentraland.org/proposal/?id=a4d1c2a0-48ee-11ed-bdf3-75f4f4d9ef2f)
 
