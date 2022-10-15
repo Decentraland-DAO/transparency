@@ -141,6 +141,7 @@ Since September 16, 6 grants have been approved and the vesting contract(s) will
 
 ## Points of Interest
 
+* -140, -117: [Patio](https://governance.decentraland.org/proposal/?id=0140de10-4c26-11ed-a234-ef1b91ca21e2)
 * -103, -144: [Vroomway](https://governance.decentraland.org/proposal/?id=19ad2a50-4aad-11ed-bdf3-75f4f4d9ef2f)
 * 2, 16: [Metaparty](https://governance.decentraland.org/proposal/?id=75c43a60-4a65-11ed-bdf3-75f4f4d9ef2f)
 * -99, -7: [AvatarLife Arcade Centre](https://governance.decentraland.org/proposal/?id=7d741f90-4935-11ed-bdf3-75f4f4d9ef2f)
@@ -151,6 +152,9 @@ Since September 16, 6 grants have been approved and the vesting contract(s) will
 
 ## Grants
 
+* [Rarible Protocol &lt;&gt; Decentraland Integration | Stellar Gate Project](https://governance.decentraland.org/proposal/?id=fb94dcb0-4c38-11ed-a234-ef1b91ca21e2) (Tier 4)
+* [New type of POAP distribution called C.A.T. | Stellar Gate Project](https://governance.decentraland.org/proposal/?id=13309bc0-4c2f-11ed-a234-ef1b91ca21e2) (Tier 3)
+* [Analysing the customer base of Decentraland (Masters Thesis)](https://governance.decentraland.org/proposal/?id=3eeea430-4c13-11ed-a234-ef1b91ca21e2) (Tier 4)
 * [Temple](https://governance.decentraland.org/proposal/?id=8f4e94e0-4b1d-11ed-a234-ef1b91ca21e2) (Tier 4)
 * [ART|DAI Battles (Super Extra Revised)](https://governance.decentraland.org/proposal/?id=e2cdaad0-4a72-11ed-bdf3-75f4f4d9ef2f) (Tier 1)
 * [The DCL Report Increasing Awareness and Empowering Community](https://governance.decentraland.org/proposal/?id=9575fd70-48bd-11ed-bdf3-75f4f4d9ef2f) (Tier 6)
@@ -158,7 +162,6 @@ Since September 16, 6 grants have been approved and the vesting contract(s) will
 * [Rarible Protocol &lt;&gt; Decentraland Integration | Stellar Gate Project](https://governance.decentraland.org/proposal/?id=334a1f50-482c-11ed-9eb2-21be7ab68113) (Tier 4)
 * [A Book to introduce DCL to Chinese People, Lift DCL Fame &amp; Open the 1.4B Market](https://governance.decentraland.org/proposal/?id=847247f0-4547-11ed-9eb2-21be7ab68113) (Tier 4)
 * [Business Reviews, Scam Prevention, Security Help &amp; Registries [Trust In DCL]](https://governance.decentraland.org/proposal/?id=8f170b00-4547-11ed-9eb2-21be7ab68113) (Tier 4)
-* [Make Decentraland Great Again - MDGA](https://governance.decentraland.org/proposal/?id=5c24e2b0-4125-11ed-9eb2-21be7ab68113) (Tier 4)
 
 ## Names Bans
 
