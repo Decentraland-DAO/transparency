@@ -126,15 +126,13 @@ Since October 1, 4 grants have been approved and the vesting contract(s) will be
 * -99, -7: [AvatarLife Arcade Centre](https://governance.decentraland.org/proposal/?id=7d741f90-4935-11ed-bdf3-75f4f4d9ef2f)
 * 39, -2: [Metaskins  Store](https://governance.decentraland.org/proposal/?id=dd7a2340-48d0-11ed-bdf3-75f4f4d9ef2f)
 * 2, 2: [Genesis Plaza](https://governance.decentraland.org/proposal/?id=7b8381c0-4846-11ed-9eb2-21be7ab68113)
-* 74, -106: [2x2 Mainroad Estate](https://governance.decentraland.org/proposal/?id=ebef98f0-4705-11ed-9eb2-21be7ab68113)
-* 74, -106: [2x2 Mainroad Estate](https://governance.decentraland.org/proposal/?id=ff473a20-4705-11ed-9eb2-21be7ab68113)
 
 ## Grants
 
+* [TEMPLE  (Revised)](https://governance.decentraland.org/proposal/?id=dac5ea50-4ca2-11ed-a234-ef1b91ca21e2) (Tier 4)
 * [Rarible Protocol &lt;&gt; Decentraland Integration | Stellar Gate Project](https://governance.decentraland.org/proposal/?id=fb94dcb0-4c38-11ed-a234-ef1b91ca21e2) (Tier 4)
 * [New type of POAP distribution called C.A.T. | Stellar Gate Project](https://governance.decentraland.org/proposal/?id=13309bc0-4c2f-11ed-a234-ef1b91ca21e2) (Tier 3)
 * [Analysing the customer base of Decentraland (Masters Thesis)](https://governance.decentraland.org/proposal/?id=3eeea430-4c13-11ed-a234-ef1b91ca21e2) (Tier 4)
-* [Temple](https://governance.decentraland.org/proposal/?id=8f4e94e0-4b1d-11ed-a234-ef1b91ca21e2) (Tier 4)
 * [ART|DAI Battles (Super Extra Revised)](https://governance.decentraland.org/proposal/?id=e2cdaad0-4a72-11ed-bdf3-75f4f4d9ef2f) (Tier 1)
 * [The DCL Report Increasing Awareness and Empowering Community](https://governance.decentraland.org/proposal/?id=9575fd70-48bd-11ed-bdf3-75f4f4d9ef2f) (Tier 6)
 * [Empowerirng creators through  virtual production content for the web3 ecosystem.](https://governance.decentraland.org/proposal/?id=1d2927b0-48aa-11ed-bdf3-75f4f4d9ef2f) (Tier 2)
@@ -153,6 +151,5 @@ Since October 1, 4 grants have been approved and the vesting contract(s) will be
 * [Can we add Point Of Interests Icons to our Decentraland Map?](https://governance.decentraland.org/proposal/?id=6fbd8ba0-4b85-11ed-a234-ef1b91ca21e2)
 * [Can we have &#34; /goto home &#34; or &#34;/goto (POI name)&#34; as a command in chat?](https://governance.decentraland.org/proposal/?id=a4788ad0-4b7a-11ed-a234-ef1b91ca21e2)
 * [Should POI names be assigned in the POI proposal or should we continue to let land owners change their POI at will?](https://governance.decentraland.org/proposal/?id=21bcd0f0-4a68-11ed-bdf3-75f4f4d9ef2f)
-* [How can a Music NFT marketplace best function for Decentraland ?](https://governance.decentraland.org/proposal/?id=a4d1c2a0-48ee-11ed-bdf3-75f4f4d9ef2f)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
