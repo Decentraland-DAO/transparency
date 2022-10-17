@@ -125,7 +125,6 @@ Since October 1, 4 grants have been approved and the vesting contract(s) will be
 * 2, 16: [Metaparty](https://governance.decentraland.org/proposal/?id=75c43a60-4a65-11ed-bdf3-75f4f4d9ef2f)
 * -99, -7: [AvatarLife Arcade Centre](https://governance.decentraland.org/proposal/?id=7d741f90-4935-11ed-bdf3-75f4f4d9ef2f)
 * 39, -2: [Metaskins  Store](https://governance.decentraland.org/proposal/?id=dd7a2340-48d0-11ed-bdf3-75f4f4d9ef2f)
-* 2, 2: [Genesis Plaza](https://governance.decentraland.org/proposal/?id=7b8381c0-4846-11ed-9eb2-21be7ab68113)
 
 ## Grants
 
@@ -148,6 +147,8 @@ Since October 1, 4 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Idel mode](https://governance.decentraland.org/proposal/?id=503d05c0-4db1-11ed-a234-ef1b91ca21e2)
+* [IDLE MODE](https://governance.decentraland.org/proposal/?id=2881d1a0-4db1-11ed-a234-ef1b91ca21e2)
 * [Can we add Point Of Interests Icons to our Decentraland Map?](https://governance.decentraland.org/proposal/?id=6fbd8ba0-4b85-11ed-a234-ef1b91ca21e2)
 * [Can we have &#34; /goto home &#34; or &#34;/goto (POI name)&#34; as a command in chat?](https://governance.decentraland.org/proposal/?id=a4788ad0-4b7a-11ed-a234-ef1b91ca21e2)
 * [Should POI names be assigned in the POI proposal or should we continue to let land owners change their POI at will?](https://governance.decentraland.org/proposal/?id=21bcd0f0-4a68-11ed-bdf3-75f4f4d9ef2f)
