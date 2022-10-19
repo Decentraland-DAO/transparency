@@ -61,13 +61,14 @@ Since October 16, 1 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* 2, -18: [JBF Gallery](https://governance.decentraland.org/proposal/?id=e206beb0-4f0f-11ed-85c4-21e9782d451a)
 * -140, -117: [Patio](https://governance.decentraland.org/proposal/?id=0140de10-4c26-11ed-a234-ef1b91ca21e2)
 * -103, -144: [Vroomway](https://governance.decentraland.org/proposal/?id=19ad2a50-4aad-11ed-bdf3-75f4f4d9ef2f)
 * 2, 16: [Metaparty](https://governance.decentraland.org/proposal/?id=75c43a60-4a65-11ed-bdf3-75f4f4d9ef2f)
 
 ## Grants
 
-* [First DCL Filipino Community-Web3Ph Summit Events URL+IRL](https://governance.decentraland.org/proposal/?id=a93f9f00-4ecb-11ed-ac8f-85b3b507fed5) (Tier 2)
+* [First Filipino DCL Community-Web3PH Summit 2022 IRL+URL](https://governance.decentraland.org/proposal/?id=5d3243a0-4ed1-11ed-ac8f-85b3b507fed5) (Tier 2)
 * [TEMPLE  (Revised)](https://governance.decentraland.org/proposal/?id=dac5ea50-4ca2-11ed-a234-ef1b91ca21e2) (Tier 4)
 * [Rarible Protocol &lt;&gt; Decentraland Integration | Stellar Gate Project](https://governance.decentraland.org/proposal/?id=fb94dcb0-4c38-11ed-a234-ef1b91ca21e2) (Tier 4)
 * [New type of POAP distribution called C.A.T. | Stellar Gate Project](https://governance.decentraland.org/proposal/?id=13309bc0-4c2f-11ed-a234-ef1b91ca21e2) (Tier 3)
@@ -87,9 +88,6 @@ Since October 16, 1 grants have been approved and the vesting contract(s) will b
 ## Polls
 
 * [Tower Defence Module: Budget and Approach Polling](https://governance.decentraland.org/proposal/?id=8a23cb00-4e5d-11ed-abb3-973d82c8ef3b)
-* [Tower Defence Module: Budget and Approach Polling](https://governance.decentraland.org/proposal/?id=1caa47c0-4e5d-11ed-abb3-973d82c8ef3b)
 * [IDLE MODE](https://governance.decentraland.org/proposal/?id=2881d1a0-4db1-11ed-a234-ef1b91ca21e2)
-* [Can we add Point Of Interests Icons to our Decentraland Map?](https://governance.decentraland.org/proposal/?id=6fbd8ba0-4b85-11ed-a234-ef1b91ca21e2)
-* [Can we have &#34; /goto home &#34; or &#34;/goto (POI name)&#34; as a command in chat?](https://governance.decentraland.org/proposal/?id=a4788ad0-4b7a-11ed-a234-ef1b91ca21e2)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
