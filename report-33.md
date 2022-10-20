@@ -122,21 +122,17 @@ Since October 1, 4 grants have been approved and the vesting contract(s) will be
 
 * 2, -18: [JBF Gallery](https://governance.decentraland.org/proposal/?id=e206beb0-4f0f-11ed-85c4-21e9782d451a)
 * -140, -117: [Patio](https://governance.decentraland.org/proposal/?id=0140de10-4c26-11ed-a234-ef1b91ca21e2)
-* -103, -144: [Vroomway](https://governance.decentraland.org/proposal/?id=19ad2a50-4aad-11ed-bdf3-75f4f4d9ef2f)
-* 2, 16: [Metaparty](https://governance.decentraland.org/proposal/?id=75c43a60-4a65-11ed-bdf3-75f4f4d9ef2f)
 
 ## Grants
 
+* [Duel Arena P2E; Turn Based RPG | Play to Earn 2.0](https://governance.decentraland.org/proposal/?id=3f1607c0-5044-11ed-85c4-21e9782d451a) (Tier 4)
 * [First Filipino DCL Community-Web3PH Summit 2022 IRL+URL](https://governance.decentraland.org/proposal/?id=5d3243a0-4ed1-11ed-ac8f-85b3b507fed5) (Tier 2)
 * [TEMPLE  (Revised)](https://governance.decentraland.org/proposal/?id=dac5ea50-4ca2-11ed-a234-ef1b91ca21e2) (Tier 4)
 * [Rarible Protocol &lt;&gt; Decentraland Integration | Stellar Gate Project](https://governance.decentraland.org/proposal/?id=fb94dcb0-4c38-11ed-a234-ef1b91ca21e2) (Tier 4)
 * [New type of POAP distribution called C.A.T. | Stellar Gate Project](https://governance.decentraland.org/proposal/?id=13309bc0-4c2f-11ed-a234-ef1b91ca21e2) (Tier 3)
 * [Analysing the customer base of Decentraland (Masters Thesis)](https://governance.decentraland.org/proposal/?id=3eeea430-4c13-11ed-a234-ef1b91ca21e2) (Tier 4)
-* [ART|DAI Battles (Super Extra Revised)](https://governance.decentraland.org/proposal/?id=e2cdaad0-4a72-11ed-bdf3-75f4f4d9ef2f) (Tier 1)
 * [The DCL Report Increasing Awareness and Empowering Community](https://governance.decentraland.org/proposal/?id=9575fd70-48bd-11ed-bdf3-75f4f4d9ef2f) (Tier 6)
 * [Rarible Protocol &lt;&gt; Decentraland Integration | Stellar Gate Project](https://governance.decentraland.org/proposal/?id=334a1f50-482c-11ed-9eb2-21be7ab68113) (Tier 4)
-* [A Book to introduce DCL to Chinese People, Lift DCL Fame &amp; Open the 1.4B Market](https://governance.decentraland.org/proposal/?id=847247f0-4547-11ed-9eb2-21be7ab68113) (Tier 4)
-* [Business Reviews, Scam Prevention, Security Help &amp; Registries [Trust In DCL]](https://governance.decentraland.org/proposal/?id=8f170b00-4547-11ed-9eb2-21be7ab68113) (Tier 4)
 
 ## Names Bans
 
@@ -146,6 +142,8 @@ Since October 1, 4 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Should grantees provide their Sourcecodes / GLB files to the DAO to be shared with the Community?](https://governance.decentraland.org/proposal/?id=1812c940-5055-11ed-85c4-21e9782d451a)
+* [New tier of funding that&#39;s just up/down no V.P. influence](https://governance.decentraland.org/proposal/?id=9891d2b0-502c-11ed-85c4-21e9782d451a)
 * [Tower Defence Module: Budget and Approach Polling](https://governance.decentraland.org/proposal/?id=8a23cb00-4e5d-11ed-abb3-973d82c8ef3b)
 * [IDLE MODE](https://governance.decentraland.org/proposal/?id=2881d1a0-4db1-11ed-a234-ef1b91ca21e2)
 
