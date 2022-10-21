@@ -84,6 +84,11 @@ Since October 16, 2 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
+* [A Book to introduce DCL to Chinese People (Revised)](https://governance.decentraland.org/proposal/?id=a7b314f0-5123-11ed-85c4-21e9782d451a) (Tier 4)
+* [A Book to introduce DCL to Chinese People (Revised)](https://governance.decentraland.org/proposal/?id=8c4264a0-5123-11ed-85c4-21e9782d451a) (Tier 4)
+* [A Book to introduce DCL to Chinese People (Revised)](https://governance.decentraland.org/proposal/?id=10e7df10-5123-11ed-85c4-21e9782d451a) (Tier 4)
+* [EndoMack -  Incorporating all peoples into the metaverse](https://governance.decentraland.org/proposal/?id=37bec2f0-50fd-11ed-85c4-21e9782d451a) (Tier 4)
+* [Entertainment and Women Empowerment through Music with Education and Resources.](https://governance.decentraland.org/proposal/?id=2f3b9010-50ec-11ed-85c4-21e9782d451a) (Tier 3)
 * [Duel Arena P2E; Turn Based RPG | Play to Earn 2.0](https://governance.decentraland.org/proposal/?id=3f1607c0-5044-11ed-85c4-21e9782d451a) (Tier 4)
 * [First Filipino DCL Community-Web3PH Summit 2022 IRL+URL](https://governance.decentraland.org/proposal/?id=5d3243a0-4ed1-11ed-ac8f-85b3b507fed5) (Tier 2)
 * [TEMPLE  (Revised)](https://governance.decentraland.org/proposal/?id=dac5ea50-4ca2-11ed-a234-ef1b91ca21e2) (Tier 4)
