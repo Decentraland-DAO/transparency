@@ -79,8 +79,12 @@ Since October 16, 2 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* 82, -149: [Cheapest Roadside+Free NFT Gallery! @Phergyson#2572 on Discord PRIOR to purchase for details &amp; discounts.](https://governance.decentraland.org/proposal/?id=19cbf8d0-5143-11ed-85c4-21e9782d451a)
+* -34, -104: [TKFA CO LTD](https://governance.decentraland.org/proposal/?id=2a7d4ea0-5142-11ed-85c4-21e9782d451a)
+* -115, -26: [ MetaPals NFT Club](https://governance.decentraland.org/proposal/?id=70725aa0-5141-11ed-85c4-21e9782d451a)
+* -54, 34: [CRNFT.ART](https://governance.decentraland.org/proposal/?id=addca9f0-5140-11ed-85c4-21e9782d451a)
+* -113, -19: [Fashion Street Estate](https://governance.decentraland.org/proposal/?id=d945ab30-513d-11ed-85c4-21e9782d451a)
 * 2, -18: [JBF Gallery](https://governance.decentraland.org/proposal/?id=e206beb0-4f0f-11ed-85c4-21e9782d451a)
-* -140, -117: [Patio](https://governance.decentraland.org/proposal/?id=0140de10-4c26-11ed-a234-ef1b91ca21e2)
 
 ## Grants
 
@@ -93,7 +97,6 @@ Since October 16, 2 grants have been approved and the vesting contract(s) will b
 * [First Filipino DCL Community-Web3PH Summit 2022 IRL+URL](https://governance.decentraland.org/proposal/?id=5d3243a0-4ed1-11ed-ac8f-85b3b507fed5) (Tier 2)
 * [TEMPLE  (Revised)](https://governance.decentraland.org/proposal/?id=dac5ea50-4ca2-11ed-a234-ef1b91ca21e2) (Tier 4)
 * [Rarible Protocol &lt;&gt; Decentraland Integration | Stellar Gate Project](https://governance.decentraland.org/proposal/?id=fb94dcb0-4c38-11ed-a234-ef1b91ca21e2) (Tier 4)
-* [New type of POAP distribution called C.A.T. | Stellar Gate Project](https://governance.decentraland.org/proposal/?id=13309bc0-4c2f-11ed-a234-ef1b91ca21e2) (Tier 3)
 * [Analysing the customer base of Decentraland (Masters Thesis)](https://governance.decentraland.org/proposal/?id=3eeea430-4c13-11ed-a234-ef1b91ca21e2) (Tier 4)
 * [The DCL Report Increasing Awareness and Empowering Community](https://governance.decentraland.org/proposal/?id=9575fd70-48bd-11ed-bdf3-75f4f4d9ef2f) (Tier 6)
 * [Rarible Protocol &lt;&gt; Decentraland Integration | Stellar Gate Project](https://governance.decentraland.org/proposal/?id=334a1f50-482c-11ed-9eb2-21be7ab68113) (Tier 4)
@@ -109,6 +112,5 @@ Since October 16, 2 grants have been approved and the vesting contract(s) will b
 * [Should grantees provide their Sourcecodes / GLB files to the DAO to be shared with the Community?](https://governance.decentraland.org/proposal/?id=1812c940-5055-11ed-85c4-21e9782d451a)
 * [New tier of funding that&#39;s just up/down no V.P. influence](https://governance.decentraland.org/proposal/?id=9891d2b0-502c-11ed-85c4-21e9782d451a)
 * [Tower Defence Module: Budget and Approach Polling](https://governance.decentraland.org/proposal/?id=8a23cb00-4e5d-11ed-abb3-973d82c8ef3b)
-* [IDLE MODE](https://governance.decentraland.org/proposal/?id=2881d1a0-4db1-11ed-a234-ef1b91ca21e2)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
