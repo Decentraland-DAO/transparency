@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -67,6 +67,15 @@ Since October 16, 2 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+#### [Tower Defence Module: Budget and Approach Polling](https://governance.decentraland.org/proposal/?id=8a23cb00-4e5d-11ed-abb3-973d82c8ef3b)
+
+* Create with a low visual design budget, focusing mainly on functionality 59.024785102583934% 846,586 VP (39 votes)
+* Create with a medium visual design budget, through freelancers 0.0012549772047334951% 18 VP (4 votes)
+* Create with a high visual design budget, through a studio 20.18826052490119% 289,558 VP (24 votes)
+* We do not need a module like this right now 0.00041832573491116506% 6 VP (2 votes)
+* Invalid question/options 20.78528106957524% 298,121 VP (2 votes)
+
+
 #### [Should POI names be assigned in the POI proposal or should we continue to let land owners change their POI at will?](https://governance.decentraland.org/proposal/?id=21bcd0f0-4a68-11ed-bdf3-75f4f4d9ef2f)
 
 * Make no changes to the POI name system 100% 914,904 VP (50 votes)
@@ -111,6 +120,5 @@ Since October 16, 2 grants have been approved and the vesting contract(s) will b
 
 * [Should grantees provide their Sourcecodes / GLB files to the DAO to be shared with the Community?](https://governance.decentraland.org/proposal/?id=1812c940-5055-11ed-85c4-21e9782d451a)
 * [New tier of funding that&#39;s just up/down no V.P. influence](https://governance.decentraland.org/proposal/?id=9891d2b0-502c-11ed-85c4-21e9782d451a)
-* [Tower Defence Module: Budget and Approach Polling](https://governance.decentraland.org/proposal/?id=8a23cb00-4e5d-11ed-abb3-973d82c8ef3b)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

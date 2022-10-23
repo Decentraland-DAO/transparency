@@ -152,6 +152,5 @@ Since October 1, 4 grants have been approved and the vesting contract(s) will be
 
 * [Should grantees provide their Sourcecodes / GLB files to the DAO to be shared with the Community?](https://governance.decentraland.org/proposal/?id=1812c940-5055-11ed-85c4-21e9782d451a)
 * [New tier of funding that&#39;s just up/down no V.P. influence](https://governance.decentraland.org/proposal/?id=9891d2b0-502c-11ed-85c4-21e9782d451a)
-* [Tower Defence Module: Budget and Approach Polling](https://governance.decentraland.org/proposal/?id=8a23cb00-4e5d-11ed-abb3-973d82c8ef3b)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
