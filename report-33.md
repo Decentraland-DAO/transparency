@@ -120,6 +120,8 @@ Since October 1, 4 grants have been approved and the vesting contract(s) will be
 
 ## Points of Interest
 
+* -70, 33: [4](https://governance.decentraland.org/proposal/?id=f0a065a0-53d0-11ed-be45-c5d5549af004)
+* 149, -60: [Arboria](https://governance.decentraland.org/proposal/?id=6616d9f0-53d0-11ed-be45-c5d5549af004)
 * 82, -149: [Cheapest Roadside+Free NFT Gallery! @Phergyson#2572 on Discord PRIOR to purchase for details &amp; discounts.](https://governance.decentraland.org/proposal/?id=19cbf8d0-5143-11ed-85c4-21e9782d451a)
 * -34, -104: [TKFA CO LTD](https://governance.decentraland.org/proposal/?id=2a7d4ea0-5142-11ed-85c4-21e9782d451a)
 * -115, -26: [ MetaPals NFT Club](https://governance.decentraland.org/proposal/?id=70725aa0-5141-11ed-85c4-21e9782d451a)
@@ -129,6 +131,9 @@ Since October 1, 4 grants have been approved and the vesting contract(s) will be
 
 ## Grants
 
+* [Together We Rise. Digital Fashion for Decentraland.](https://governance.decentraland.org/proposal/?id=222bc560-53ea-11ed-be45-c5d5549af004) (Tier 6)
+* [Dollhouse](https://governance.decentraland.org/proposal/?id=c4288b70-53de-11ed-be45-c5d5549af004) (Tier 5)
+* [Competition prizes and contender shirt for Rock, Paper, Scissors](https://governance.decentraland.org/proposal/?id=cedb3ff0-53d8-11ed-be45-c5d5549af004) (Tier 2)
 * [Parkour Creation Kit Expansion](https://governance.decentraland.org/proposal/?id=b683d870-5326-11ed-be45-c5d5549af004) (Tier 2)
 * [A Book to introduce DCL to Chinese People (Revised)](https://governance.decentraland.org/proposal/?id=a7b314f0-5123-11ed-85c4-21e9782d451a) (Tier 4)
 * [A Book to introduce DCL to Chinese People (Revised)](https://governance.decentraland.org/proposal/?id=8c4264a0-5123-11ed-85c4-21e9782d451a) (Tier 4)
@@ -136,11 +141,9 @@ Since October 1, 4 grants have been approved and the vesting contract(s) will be
 * [EndoMack -  Incorporating all peoples into the metaverse](https://governance.decentraland.org/proposal/?id=37bec2f0-50fd-11ed-85c4-21e9782d451a) (Tier 4)
 * [Entertainment and Women Empowerment through Music with Education and Resources.](https://governance.decentraland.org/proposal/?id=2f3b9010-50ec-11ed-85c4-21e9782d451a) (Tier 3)
 * [Duel Arena P2E; Turn Based RPG | Play to Earn 2.0](https://governance.decentraland.org/proposal/?id=3f1607c0-5044-11ed-85c4-21e9782d451a) (Tier 4)
-* [First Filipino DCL Community-Web3PH Summit 2022 IRL+URL](https://governance.decentraland.org/proposal/?id=5d3243a0-4ed1-11ed-ac8f-85b3b507fed5) (Tier 2)
 * [TEMPLE  (Revised)](https://governance.decentraland.org/proposal/?id=dac5ea50-4ca2-11ed-a234-ef1b91ca21e2) (Tier 4)
 * [Rarible Protocol &lt;&gt; Decentraland Integration | Stellar Gate Project](https://governance.decentraland.org/proposal/?id=fb94dcb0-4c38-11ed-a234-ef1b91ca21e2) (Tier 4)
 * [Analysing the customer base of Decentraland (Masters Thesis)](https://governance.decentraland.org/proposal/?id=3eeea430-4c13-11ed-a234-ef1b91ca21e2) (Tier 4)
-* [The DCL Report Increasing Awareness and Empowering Community](https://governance.decentraland.org/proposal/?id=9575fd70-48bd-11ed-bdf3-75f4f4d9ef2f) (Tier 6)
 
 ## Names Bans
 
@@ -150,7 +153,6 @@ Since October 1, 4 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
-* [Should grantees provide their Sourcecodes / GLB files to the DAO to be shared with the Community?](https://governance.decentraland.org/proposal/?id=1812c940-5055-11ed-85c4-21e9782d451a)
-* [New tier of funding that&#39;s just up/down no V.P. influence](https://governance.decentraland.org/proposal/?id=9891d2b0-502c-11ed-85c4-21e9782d451a)
+* [Should the Decentraland Foundation hold bi-weekly AMAs for the community?](https://governance.decentraland.org/proposal/?id=8e25a520-53f8-11ed-be45-c5d5549af004)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
