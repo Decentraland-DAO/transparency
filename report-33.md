@@ -127,18 +127,13 @@ Since October 1, 4 grants have been approved and the vesting contract(s) will be
 * -115, -26: [ MetaPals NFT Club](https://governance.decentraland.org/proposal/?id=70725aa0-5141-11ed-85c4-21e9782d451a)
 * -54, 34: [CRNFT.ART](https://governance.decentraland.org/proposal/?id=addca9f0-5140-11ed-85c4-21e9782d451a)
 * -113, -19: [Fashion Street Estate](https://governance.decentraland.org/proposal/?id=d945ab30-513d-11ed-85c4-21e9782d451a)
-* 2, -18: [JBF Gallery](https://governance.decentraland.org/proposal/?id=e206beb0-4f0f-11ed-85c4-21e9782d451a)
 
 ## Grants
 
-* [Together We Rise. Digital Fashion for Decentraland.](https://governance.decentraland.org/proposal/?id=222bc560-53ea-11ed-be45-c5d5549af004) (Tier 6)
 * [Dollhouse](https://governance.decentraland.org/proposal/?id=c4288b70-53de-11ed-be45-c5d5549af004) (Tier 5)
 * [Competition prizes and contender shirt for Rock, Paper, Scissors](https://governance.decentraland.org/proposal/?id=cedb3ff0-53d8-11ed-be45-c5d5549af004) (Tier 2)
 * [Parkour Creation Kit Expansion](https://governance.decentraland.org/proposal/?id=b683d870-5326-11ed-be45-c5d5549af004) (Tier 2)
-* [A Book to introduce DCL to Chinese People (Revised)](https://governance.decentraland.org/proposal/?id=a7b314f0-5123-11ed-85c4-21e9782d451a) (Tier 4)
-* [A Book to introduce DCL to Chinese People (Revised)](https://governance.decentraland.org/proposal/?id=8c4264a0-5123-11ed-85c4-21e9782d451a) (Tier 4)
 * [A Book to introduce DCL to Chinese People (Revised)](https://governance.decentraland.org/proposal/?id=10e7df10-5123-11ed-85c4-21e9782d451a) (Tier 4)
-* [EndoMack -  Incorporating all peoples into the metaverse](https://governance.decentraland.org/proposal/?id=37bec2f0-50fd-11ed-85c4-21e9782d451a) (Tier 4)
 * [Entertainment and Women Empowerment through Music with Education and Resources.](https://governance.decentraland.org/proposal/?id=2f3b9010-50ec-11ed-85c4-21e9782d451a) (Tier 3)
 * [Duel Arena P2E; Turn Based RPG | Play to Earn 2.0](https://governance.decentraland.org/proposal/?id=3f1607c0-5044-11ed-85c4-21e9782d451a) (Tier 4)
 * [TEMPLE  (Revised)](https://governance.decentraland.org/proposal/?id=dac5ea50-4ca2-11ed-a234-ef1b91ca21e2) (Tier 4)
