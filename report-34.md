@@ -118,6 +118,7 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
+* [Into The BollyVerse event by BollyCoin, Metakey and Kamaal Khan](https://governance.decentraland.org/proposal/?id=d806c170-5541-11ed-be45-c5d5549af004) (Tier 4)
 * [Dollhouse](https://governance.decentraland.org/proposal/?id=c4288b70-53de-11ed-be45-c5d5549af004) (Tier 5)
 * [Competition prizes and contender shirt for Rock, Paper, Scissors](https://governance.decentraland.org/proposal/?id=cedb3ff0-53d8-11ed-be45-c5d5549af004) (Tier 2)
 * [Parkour Creation Kit Expansion](https://governance.decentraland.org/proposal/?id=b683d870-5326-11ed-be45-c5d5549af004) (Tier 2)
