@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
+In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -50,7 +50,13 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since October 16, 3 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since October 16, 4 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Entertainment and Women Empowerment through Music with Education and Resources.](https://governance.decentraland.org/proposal/?id=2f3b9010-50ec-11ed-85c4-21e9782d451a) (Tier 3)
+
+* Yes 99.99995267963402% 2,113,254 VP (66 votes)
+* No 0.00004732036597571046% 1 VP (1 votes)
 
 
 #### [First Filipino DCL Community-Web3PH Summit 2022 IRL+URL](https://governance.decentraland.org/proposal/?id=5d3243a0-4ed1-11ed-ac8f-85b3b507fed5) (Tier 2)
@@ -108,6 +114,7 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* -107, -94: [No Name](https://governance.decentraland.org/proposal/?id=7a4aff00-566e-11ed-be45-c5d5549af004)
 * -70, 33: [4](https://governance.decentraland.org/proposal/?id=f0a065a0-53d0-11ed-be45-c5d5549af004)
 * 149, -60: [Arboria](https://governance.decentraland.org/proposal/?id=6616d9f0-53d0-11ed-be45-c5d5549af004)
 * 82, -149: [Cheapest Roadside+Free NFT Gallery! @Phergyson#2572 on Discord PRIOR to purchase for details &amp; discounts.](https://governance.decentraland.org/proposal/?id=19cbf8d0-5143-11ed-85c4-21e9782d451a)
@@ -118,12 +125,17 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
+* [Exodus: Goodbye World](https://governance.decentraland.org/proposal/?id=b7b0f9a0-564e-11ed-be45-c5d5549af004) (Tier 6)
+* [#1 DCL Streaming Turtle Shuckle needs a Palace! Anyone who votes gets a cut!](https://governance.decentraland.org/proposal/?id=fb5a7de0-561f-11ed-be45-c5d5549af004) (Tier 6)
+* [#1 DCL Streaming Turtle Shuckle needs a Palace! Anyone who votes gets a cut!](https://governance.decentraland.org/proposal/?id=0d39afe0-5620-11ed-be45-c5d5549af004) (Tier 6)
+* [#1 DCL Streaming Turtle Shuckle needs a Palace! Anyone who votes gets a cut!](https://governance.decentraland.org/proposal/?id=bcf45ee0-561f-11ed-be45-c5d5549af004) (Tier 6)
+* [Support DCL Reporters and Improve Content Quality](https://governance.decentraland.org/proposal/?id=9d802480-561b-11ed-be45-c5d5549af004) (Tier 5)
+* [DCL Developer Symposium (Uganda)](https://governance.decentraland.org/proposal/?id=873863e0-55fd-11ed-be45-c5d5549af004) (Tier 4)
 * [Into The BollyVerse event by BollyCoin, Metakey and Kamaal Khan](https://governance.decentraland.org/proposal/?id=d806c170-5541-11ed-be45-c5d5549af004) (Tier 4)
 * [Dollhouse](https://governance.decentraland.org/proposal/?id=c4288b70-53de-11ed-be45-c5d5549af004) (Tier 5)
 * [Competition prizes and contender shirt for Rock, Paper, Scissors](https://governance.decentraland.org/proposal/?id=cedb3ff0-53d8-11ed-be45-c5d5549af004) (Tier 2)
 * [Parkour Creation Kit Expansion](https://governance.decentraland.org/proposal/?id=b683d870-5326-11ed-be45-c5d5549af004) (Tier 2)
 * [A Book to introduce DCL to Chinese People (Revised)](https://governance.decentraland.org/proposal/?id=10e7df10-5123-11ed-85c4-21e9782d451a) (Tier 4)
-* [Entertainment and Women Empowerment through Music with Education and Resources.](https://governance.decentraland.org/proposal/?id=2f3b9010-50ec-11ed-85c4-21e9782d451a) (Tier 3)
 * [Duel Arena P2E; Turn Based RPG | Play to Earn 2.0](https://governance.decentraland.org/proposal/?id=3f1607c0-5044-11ed-85c4-21e9782d451a) (Tier 4)
 * [TEMPLE  (Revised)](https://governance.decentraland.org/proposal/?id=dac5ea50-4ca2-11ed-a234-ef1b91ca21e2) (Tier 4)
 * [Rarible Protocol &lt;&gt; Decentraland Integration | Stellar Gate Project](https://governance.decentraland.org/proposal/?id=fb94dcb0-4c38-11ed-a234-ef1b91ca21e2) (Tier 4)
