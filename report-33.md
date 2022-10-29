@@ -123,11 +123,6 @@ Since October 1, 4 grants have been approved and the vesting contract(s) will be
 * -107, -94: [No Name](https://governance.decentraland.org/proposal/?id=7a4aff00-566e-11ed-be45-c5d5549af004)
 * -70, 33: [4](https://governance.decentraland.org/proposal/?id=f0a065a0-53d0-11ed-be45-c5d5549af004)
 * 149, -60: [Arboria](https://governance.decentraland.org/proposal/?id=6616d9f0-53d0-11ed-be45-c5d5549af004)
-* 82, -149: [Cheapest Roadside+Free NFT Gallery! @Phergyson#2572 on Discord PRIOR to purchase for details &amp; discounts.](https://governance.decentraland.org/proposal/?id=19cbf8d0-5143-11ed-85c4-21e9782d451a)
-* -34, -104: [TKFA CO LTD](https://governance.decentraland.org/proposal/?id=2a7d4ea0-5142-11ed-85c4-21e9782d451a)
-* -115, -26: [ MetaPals NFT Club](https://governance.decentraland.org/proposal/?id=70725aa0-5141-11ed-85c4-21e9782d451a)
-* -54, 34: [CRNFT.ART](https://governance.decentraland.org/proposal/?id=addca9f0-5140-11ed-85c4-21e9782d451a)
-* -113, -19: [Fashion Street Estate](https://governance.decentraland.org/proposal/?id=d945ab30-513d-11ed-85c4-21e9782d451a)
 
 ## Grants
 
@@ -144,8 +139,6 @@ Since October 1, 4 grants have been approved and the vesting contract(s) will be
 * [A Book to introduce DCL to Chinese People (Revised)](https://governance.decentraland.org/proposal/?id=10e7df10-5123-11ed-85c4-21e9782d451a) (Tier 4)
 * [Duel Arena P2E; Turn Based RPG | Play to Earn 2.0](https://governance.decentraland.org/proposal/?id=3f1607c0-5044-11ed-85c4-21e9782d451a) (Tier 4)
 * [TEMPLE  (Revised)](https://governance.decentraland.org/proposal/?id=dac5ea50-4ca2-11ed-a234-ef1b91ca21e2) (Tier 4)
-* [Rarible Protocol &lt;&gt; Decentraland Integration | Stellar Gate Project](https://governance.decentraland.org/proposal/?id=fb94dcb0-4c38-11ed-a234-ef1b91ca21e2) (Tier 4)
-* [Analysing the customer base of Decentraland (Masters Thesis)](https://governance.decentraland.org/proposal/?id=3eeea430-4c13-11ed-a234-ef1b91ca21e2) (Tier 4)
 
 ## Names Bans
 
