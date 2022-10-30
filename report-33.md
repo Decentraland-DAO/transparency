@@ -122,14 +122,12 @@ Since October 1, 4 grants have been approved and the vesting contract(s) will be
 
 * -107, -94: [No Name](https://governance.decentraland.org/proposal/?id=7a4aff00-566e-11ed-be45-c5d5549af004)
 * -70, 33: [4](https://governance.decentraland.org/proposal/?id=f0a065a0-53d0-11ed-be45-c5d5549af004)
-* 149, -60: [Arboria](https://governance.decentraland.org/proposal/?id=6616d9f0-53d0-11ed-be45-c5d5549af004)
+* 149, -60: [Arborial Roadside Estate](https://governance.decentraland.org/proposal/?id=6616d9f0-53d0-11ed-be45-c5d5549af004)
 
 ## Grants
 
 * [Exodus: Goodbye World](https://governance.decentraland.org/proposal/?id=b7b0f9a0-564e-11ed-be45-c5d5549af004) (Tier 6)
 * [#1 DCL Streaming Turtle Shuckle needs a Palace! Anyone who votes gets a cut!](https://governance.decentraland.org/proposal/?id=fb5a7de0-561f-11ed-be45-c5d5549af004) (Tier 6)
-* [#1 DCL Streaming Turtle Shuckle needs a Palace! Anyone who votes gets a cut!](https://governance.decentraland.org/proposal/?id=0d39afe0-5620-11ed-be45-c5d5549af004) (Tier 6)
-* [#1 DCL Streaming Turtle Shuckle needs a Palace! Anyone who votes gets a cut!](https://governance.decentraland.org/proposal/?id=bcf45ee0-561f-11ed-be45-c5d5549af004) (Tier 6)
 * [Support DCL Reporters and Improve Content Quality](https://governance.decentraland.org/proposal/?id=9d802480-561b-11ed-be45-c5d5549af004) (Tier 5)
 * [DCL Developer Symposium (Uganda)](https://governance.decentraland.org/proposal/?id=873863e0-55fd-11ed-be45-c5d5549af004) (Tier 4)
 * [Into The BollyVerse event by BollyCoin, Metakey and Kamaal Khan](https://governance.decentraland.org/proposal/?id=d806c170-5541-11ed-be45-c5d5549af004) (Tier 4)
@@ -138,7 +136,6 @@ Since October 1, 4 grants have been approved and the vesting contract(s) will be
 * [Parkour Creation Kit Expansion](https://governance.decentraland.org/proposal/?id=b683d870-5326-11ed-be45-c5d5549af004) (Tier 2)
 * [A Book to introduce DCL to Chinese People (Revised)](https://governance.decentraland.org/proposal/?id=10e7df10-5123-11ed-85c4-21e9782d451a) (Tier 4)
 * [Duel Arena P2E; Turn Based RPG | Play to Earn 2.0](https://governance.decentraland.org/proposal/?id=3f1607c0-5044-11ed-85c4-21e9782d451a) (Tier 4)
-* [TEMPLE  (Revised)](https://governance.decentraland.org/proposal/?id=dac5ea50-4ca2-11ed-a234-ef1b91ca21e2) (Tier 4)
 
 ## Names Bans
 
@@ -148,6 +145,5 @@ Since October 1, 4 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
-* [Should the Decentraland Foundation hold bi-weekly AMAs for the community?](https://governance.decentraland.org/proposal/?id=8e25a520-53f8-11ed-be45-c5d5549af004)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
