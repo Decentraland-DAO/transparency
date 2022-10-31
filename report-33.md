@@ -133,7 +133,6 @@ Since October 1, 4 grants have been approved and the vesting contract(s) will be
 * [Into The BollyVerse event by BollyCoin, Metakey and Kamaal Khan](https://governance.decentraland.org/proposal/?id=d806c170-5541-11ed-be45-c5d5549af004) (Tier 4)
 * [Dollhouse](https://governance.decentraland.org/proposal/?id=c4288b70-53de-11ed-be45-c5d5549af004) (Tier 5)
 * [Competition prizes and contender shirt for Rock, Paper, Scissors](https://governance.decentraland.org/proposal/?id=cedb3ff0-53d8-11ed-be45-c5d5549af004) (Tier 2)
-* [Parkour Creation Kit Expansion](https://governance.decentraland.org/proposal/?id=b683d870-5326-11ed-be45-c5d5549af004) (Tier 2)
 * [A Book to introduce DCL to Chinese People (Revised)](https://governance.decentraland.org/proposal/?id=10e7df10-5123-11ed-85c4-21e9782d451a) (Tier 4)
 * [Duel Arena P2E; Turn Based RPG | Play to Earn 2.0](https://governance.decentraland.org/proposal/?id=3f1607c0-5044-11ed-85c4-21e9782d451a) (Tier 4)
 
@@ -145,5 +144,6 @@ Since October 1, 4 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [New Proposal Category : &#39;Feature Request’](https://governance.decentraland.org/proposal/?id=da572560-5847-11ed-be45-c5d5549af004)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

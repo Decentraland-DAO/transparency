@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 9 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
+In the two weeks since the last DAO Committee report, 9 points of interest (POI) have been added to the Decentraland map, 6 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -80,7 +80,13 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since October 16, 5 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since October 16, 6 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Parkour Creation Kit Expansion](https://governance.decentraland.org/proposal/?id=b683d870-5326-11ed-be45-c5d5549af004) (Tier 2)
+
+* Yes 99.64301679477501% 1,876,838 VP (57 votes)
+* No 0.35698320522499394% 6,724 VP (6 votes)
 
 
 #### [Entertainment and Women Empowerment through Music with Education and Resources.](https://governance.decentraland.org/proposal/?id=2f3b9010-50ec-11ed-85c4-21e9782d451a) (Tier 3)
@@ -170,7 +176,6 @@ Since October 16, 5 grants have been approved and the vesting contract(s) will b
 * [Into The BollyVerse event by BollyCoin, Metakey and Kamaal Khan](https://governance.decentraland.org/proposal/?id=d806c170-5541-11ed-be45-c5d5549af004) (Tier 4)
 * [Dollhouse](https://governance.decentraland.org/proposal/?id=c4288b70-53de-11ed-be45-c5d5549af004) (Tier 5)
 * [Competition prizes and contender shirt for Rock, Paper, Scissors](https://governance.decentraland.org/proposal/?id=cedb3ff0-53d8-11ed-be45-c5d5549af004) (Tier 2)
-* [Parkour Creation Kit Expansion](https://governance.decentraland.org/proposal/?id=b683d870-5326-11ed-be45-c5d5549af004) (Tier 2)
 * [A Book to introduce DCL to Chinese People (Revised)](https://governance.decentraland.org/proposal/?id=10e7df10-5123-11ed-85c4-21e9782d451a) (Tier 4)
 * [Duel Arena P2E; Turn Based RPG | Play to Earn 2.0](https://governance.decentraland.org/proposal/?id=3f1607c0-5044-11ed-85c4-21e9782d451a) (Tier 4)
 
@@ -182,5 +187,6 @@ Since October 16, 5 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [New Proposal Category : &#39;Feature Request’](https://governance.decentraland.org/proposal/?id=da572560-5847-11ed-be45-c5d5549af004)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
