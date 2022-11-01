@@ -97,14 +97,10 @@ async function getTransactions(name: string, tokenAddress: string, network: Netw
       const usdPrice = priceData[txTransfer.contract_address.toLowerCase()][date]
       const amount = parseNumber(Number(txTransfer.delta),  txTransfer.contract_decimals)
 
-      let usdValue = 0
+      const usdValue = usdPrice ? usdPrice * amount : (txTransfer.delta_quote || 0)
 
       if (!usdPrice) {
-        usdValue = txTransfer.delta_quote || 0
         console.log(`No USD value for tx ${tx.tx_hash}, using ${usdValue}`)
-      }
-      else {
-        usdValue = amount * usdPrice
       }
 
       const transfer: TransactionParsed = {
@@ -288,7 +284,6 @@ async function getTokenPrices(latestBlocks?: LatestBlocks) {
           from = aWeekAgo
         }
       }
-      console.log(`${address} - from: ${from}`)
       const url = `https://api.covalenthq.com/v1/pricing/historical_by_addresses_v2/${network.id}/USD/${address}/?quote-currency=USD&format=JSON&from=${from}&to=${today}&key=${COVALENT_API_KEY}`
       unresolvedPrices.push(fetchCovalentURL<TokenPriceAPIData>(url, 10000))
     }

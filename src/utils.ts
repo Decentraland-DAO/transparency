@@ -46,6 +46,10 @@ export function getChecksumAddress(address: string) {
   return ethers.utils.getAddress(address.toLowerCase())
 }
 
+export function isSameAddress(address1: string, address2: string) {
+  return getChecksumAddress(address1) === getChecksumAddress(address2)
+}
+
 export function parseNumber(n: number, decimals: number) {
   return new BigNumber(n).dividedBy(10 ** decimals).toNumber()
 }

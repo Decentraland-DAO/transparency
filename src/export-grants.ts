@@ -8,7 +8,7 @@ import { Tokens } from './entities/Tokens'
 import { GovernanceProposalType, Status } from './interfaces/GovernanceProposal'
 import { GrantProposal, GrantUpdate, GrantUpdateResponse, OneTimePaymentInfo, Updates, UpdateStatus, VestingInfo } from './interfaces/Grant'
 import { Decoded, DecodedName, ParamName, TransactionItem } from './interfaces/Transactions/Transactions'
-import { baseCovalentUrl, COVALENT_API_KEY, fetchCovalentURL, fetchURL, getChecksumAddress, INFURA_URL, parseNumber, saveToCSV, saveToJSON, toISOString } from './utils'
+import { baseCovalentUrl, COVALENT_API_KEY, fetchCovalentURL, fetchURL, INFURA_URL, isSameAddress, parseNumber, saveToCSV, saveToJSON, toISOString } from './utils'
 
 const web3 = new Web3(INFURA_URL)
 
@@ -62,7 +62,7 @@ async function getVestingContractData(proposalId: string, vestingAddress: string
 function transferMatchesBeneficiary(decodedLogEvent: Decoded, beneficiary: string) {
   return decodedLogEvent && decodedLogEvent.name === DecodedName.Transfer &&
     decodedLogEvent.params.some(param => {
-      return param.name === ParamName.To && getChecksumAddress(String(param.value)) === getChecksumAddress(beneficiary)
+      return param.name === ParamName.To && isSameAddress(String(param.value), beneficiary)
     })
 }
 
