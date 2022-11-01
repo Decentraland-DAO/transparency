@@ -20,7 +20,7 @@ export interface VotesParsed {
 async function main() {
   // Fetch Snapshot Votes
   const url = snapshotUrl()
-  const where = `space_in: ["${SnapshotSpace.DCL}"], vp_gt: 10`
+  const where = `space_in: ["${SnapshotSpace.DCL}"], vp_gt: 1`
   const votes = await fetchGraphQL<Vote>(
     url, 'votes', where, 'created',
     'voter created choice proposal { id title choices scores_total } vp vp_by_strategy',

@@ -104,7 +104,7 @@ async function getMembersInfo(addresses: string[], jobId: number) {
 async function main() {
   // Fetch Snapshot Votes
   const url = snapshotUrl()
-  const where = `space_in: ["${space}"], vp_gt: 10`
+  const where = `space_in: ["${space}"], vp_gt: 1`
   const votes = await fetchGraphQL<Vote>(url, 'votes', where, 'created', 'voter', 20000)
 
   const members = new Set(votes.map(v => v.voter.toLowerCase())) // Unique addresses

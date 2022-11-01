@@ -1,5 +1,4 @@
 import { TokenPriceAPIData, TokenPriceData } from './interfaces/Transactions/TokenPrices'
-import BigNumber from 'bignumber.js'
 import GRANTS from '../public/grants.json'
 import { Networks, NetworkName, Network } from './entities/Networks'
 import { Tags, TagType } from './entities/Tags'

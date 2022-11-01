@@ -1,4 +1,3 @@
-import BigNumber from "bignumber.js"
 import { Wearable, WearableData } from "./interfaces/Wearable"
 import { collectionsUrl, fetchGraphQLCondition, parseNumber, saveToCSV, saveToJSON, toISOString } from "./utils"
 
