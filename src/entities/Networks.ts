@@ -8,6 +8,8 @@ export type Network = {
   id: number
 }
 
+export type DataByNetworks<T> = Record<NetworkName, T>
+
 const NETWORKS: Network[] = [
   { name: NetworkName.ETHEREUM, id: 1 },
   { name: NetworkName.POLYGON, id: 137 },

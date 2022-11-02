@@ -22,10 +22,10 @@ function getTxsDetails(txs: Record<string, TransactionDetails>): BalanceDetails[
     const tagCategory = Tags.getExportedTagCategory(tag)
 
     if (!groupedTxs[tagCategory.name]) {
-      groupedTxs[tagCategory.name] = { ...tagCategory, value: values.total }
+      groupedTxs[tagCategory.name] = { ...tagCategory, value: values.total.toNumber() }
     }
     else {
-      groupedTxs[tagCategory.name].value += values.total
+      groupedTxs[tagCategory.name].value += values.total.toNumber()
     }
   }
 

@@ -4,7 +4,7 @@ import { collectionsUrl, fetchGraphQL, saveToCSV, saveToJSON, toISOString } from
 async function main() {
   // Fetch Collections
   const url = collectionsUrl()
-  const collections: Collection[] = await fetchGraphQL(url, 'collections', '', 'createdAt',
+  const collections = await fetchGraphQL<Collection>(url, 'collections', '', 'createdAt',
     'id itemsCount creator name symbol isCompleted isApproved isEditable createdAt updatedAt reviewedAt', 1000
   )
 

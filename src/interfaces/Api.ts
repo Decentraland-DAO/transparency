@@ -3,3 +3,9 @@ export interface BalanceDetails {
   value: number
   description: string
 }
+
+export interface GovernanceApiResponse<D> {
+  ok: boolean;
+  error?: string;
+  data: D;
+};

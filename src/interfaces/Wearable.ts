@@ -34,6 +34,8 @@ export interface WearableData {
   name: string
   description: string
   category: Category
+  network: string
+  collection: string
 }
 
 export enum Category {

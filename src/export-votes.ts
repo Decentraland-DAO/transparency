@@ -1,6 +1,6 @@
 import { SnapshotSpace } from './interfaces/GovernanceProposal'
 import { Vote } from './interfaces/Vote'
-import { fetchGraphQL, saveToCSV, saveToJSON, snapshotUrl } from './utils'
+import { fetchGraphQL, parseVP, saveToCSV, saveToJSON, snapshotUrl, toISOString } from './utils'
 
 export interface VotesParsed {
   voter: string
@@ -11,26 +11,39 @@ export interface VotesParsed {
   proposal_title: string
   choice_text: string
   weight: number
+  manaVP: number
+  namesVP: number
+  landVP: number
+  delegatedVP: number
 }
 
 async function main() {
   // Fetch Snapshot Votes
   const url = snapshotUrl()
   const where = `space_in: ["${SnapshotSpace.DCL}"], vp_gt: 1`
-  const votes: Vote[] = await fetchGraphQL(url, 'votes', where, 'created',
-    'voter created choice proposal { id title choices scores_total } vp'
+  const votes = await fetchGraphQL<Vote>(
+    url, 'votes', where, 'created',
+    'voter created choice proposal { id title choices scores_total } vp vp_by_strategy',
+    20000
   )
 
-  const votesParsed: VotesParsed[] = votes.map(vote => ({
-    voter: vote.voter,
-    created: new Date(vote.created * 1000).toISOString(),
-    choice: vote.choice,
-    vp: vote.vp,
-    proposal_id: vote.proposal.id,
-    proposal_title: vote.proposal.title,
-    choice_text: vote.proposal.choices[vote.choice - 1],
-    weight: vote.proposal.scores_total ? vote.vp / vote.proposal.scores_total * 100 : 0,
-  }))
+  const votesParsed: VotesParsed[] = votes.map(vote => {
+    const vpSources = parseVP(vote.vp_by_strategy)
+    return {
+      voter: vote.voter,
+      created: toISOString(vote.created),
+      choice: vote.choice,
+      vp: vote.vp,
+      proposal_id: vote.proposal.id,
+      proposal_title: vote.proposal.title,
+      choice_text: vote.proposal.choices[vote.choice - 1],
+      weight: vote.proposal.scores_total ? vote.vp / vote.proposal.scores_total * 100 : 0,
+      manaVP: vpSources.manaVP,
+      namesVP: vpSources.namesVP,
+      landVP: vpSources.landVP,
+      delegatedVP: vpSources.delegatedVP
+    }
+  })
 
   console.log(votesParsed.length, 'votes found.')
   saveToJSON('votes.json', votesParsed)
@@ -41,8 +54,12 @@ async function main() {
     { id: 'proposal_title', title: 'Proposal Title' },
     { id: 'choice', title: 'Choice #' },
     { id: 'choice_text', title: 'Choice' },
-    { id: 'vp', title: 'VP' },
     { id: 'weight', title: 'Vote Weight' },
+    { id: 'vp', title: 'Total VP' },
+    { id: 'manaVP', title: 'MANA VP' },
+    { id: 'namesVP', title: 'Names VP' },
+    { id: 'landVP', title: 'LAND VP' },
+    { id: 'delegatedVP', title: 'Delegated VP' },
   ])
 }
 

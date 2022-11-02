@@ -1,5 +1,5 @@
 import { Curation } from './interfaces/Curation'
-import { collectionsUrl, fetchGraphQLCondition, saveToCSV, saveToJSON } from './utils'
+import { collectionsUrl, fetchGraphQLCondition, saveToCSV, saveToJSON, toISOString } from './utils'
 
 interface CurationParsed {
   timestamp: string,
@@ -14,12 +14,13 @@ interface CurationParsed {
 async function main() {
   // Fetch Curations
   const url = collectionsUrl()
-  const curations: Curation[] = await fetchGraphQLCondition(
+  const curations = await fetchGraphQLCondition<Curation>(
     url,
     'curations',
     'timestamp',
     'txHash',
-    'id txHash curator { address } collection { id name itemsCount isApproved } isApproved timestamp'
+    'id txHash curator { address } collection { id name itemsCount isApproved } isApproved timestamp',
+    1000
   )
 
   const curationsParsed: CurationParsed[] = curations.map((c) => {
@@ -29,8 +30,8 @@ async function main() {
       collectionId: c.collection.id,
       collectionName: c.collection.name,
       collectionItems: c.collection.itemsCount,
-      collectionApproved: c.collection.isApproved,
-      timestamp: new Date(parseInt(c.timestamp) * 1000).toISOString()
+      collectionApproved: c.isApproved,
+      timestamp: toISOString(parseInt(c.timestamp))
     }
   })
 

@@ -3,12 +3,9 @@ import { NetworkName } from './entities/Networks'
 import { TokenSymbols } from "./entities/Tokens"
 import { Wallet, Wallets } from "./entities/Wallets"
 import { Contract } from "./interfaces/Balance"
-import { baseCovalentUrl, fetchURL, flattenArray, saveToCSV, saveToJSON } from "./utils"
-require('dotenv').config()
+import { baseCovalentUrl, COVALENT_API_KEY, fetchCovalentURL, flattenArray, parseNumber, saveToCSV, saveToJSON } from "./utils"
 
 const ALLOWED_SYMBOLS = new Set<string>(Object.values(TokenSymbols))
-
-const API_KEY = process.env.COVALENTHQ_API_KEY
 
 export type BalanceParsed = {
   timestamp: string
@@ -24,15 +21,12 @@ export type BalanceParsed = {
 
 async function getBalance(wallet: Wallet) {
   const { name, address, network } = wallet
-  const url = `${baseCovalentUrl(network)}/address/${address}/portfolio_v2/?key=${API_KEY}`
-  const json = await fetchURL(url)
-  const contracts: Contract[] = json.data.items
-
+  const contracts = await fetchCovalentURL<Contract>(`${baseCovalentUrl(network)}/address/${address}/portfolio_v2/?key=${COVALENT_API_KEY}`, 0)
 
   return contracts.map<BalanceParsed>(contract => ({
     timestamp: contract.holdings[0].timestamp,
     name,
-    amount: new BigNumber(contract.holdings[0].close.balance).dividedBy(10 ** contract.contract_decimals).toNumber(),
+    amount: parseNumber(Number(contract.holdings[0].close.balance),  contract.contract_decimals),
     quote: contract.holdings[0].close.quote,
     rate: contract.holdings[0].quote_rate,
     symbol: contract.contract_ticker_symbol,

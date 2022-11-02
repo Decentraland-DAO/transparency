@@ -1,28 +1,38 @@
-import BigNumber from "bignumber.js"
 import { Wearable, WearableData } from "./interfaces/Wearable"
-import { collectionsUrl, fetchGraphQLCondition, saveToCSV, saveToJSON } from "./utils"
+import { collectionsUrl, fetchGraphQLCondition, parseNumber, saveToCSV, saveToJSON, toISOString } from "./utils"
 
 type WearableParsed = Wearable & WearableData
 
+const networks = ['ethereum', 'matic']
+
 async function main() {
-  // Fetch Wearables
-  const url = collectionsUrl()
-  const wearables: WearableParsed[] = await fetchGraphQLCondition(url, 'items', 'createdAt', 'id',
-    'id creator itemType totalSupply maxSupply rarity creationFee available price beneficiary URI image createdAt updatedAt reviewedAt soldAt sales volume metadata { wearable { name description category } }'
-  )
+  const wearables: WearableParsed[] = []
 
-  for (const w of wearables) {
-    w.name = w.metadata.wearable?.name
-    w.description = w.metadata.wearable?.description
-    w.category = w.metadata.wearable?.category
-    w.price = new BigNumber(w.price).dividedBy(10 ** 18).toNumber() || 0
-    w.creationFee = new BigNumber(w.creationFee).dividedBy(10 ** 18).toNumber() || 0
+  for (const network of networks) {
+    // Fetch Wearables
+    const url = collectionsUrl(network)
+    const networkWearables = await fetchGraphQLCondition<WearableParsed>(
+      url, 'items', 'createdAt', 'id',
+      'id creator itemType totalSupply maxSupply rarity creationFee available price beneficiary URI image createdAt updatedAt reviewedAt soldAt sales volume metadata { wearable { name description category collection } }',
+      1000
+    )
 
-    w.createdAt = w.createdAt && new Date(parseInt(w.createdAt) * 1000).toISOString()
-    w.updatedAt = w.updatedAt && new Date(parseInt(w.updatedAt) * 1000).toISOString()
-    w.reviewedAt = w.reviewedAt && new Date(parseInt(w.reviewedAt) * 1000).toISOString()
-    w.soldAt = w.soldAt && new Date(parseInt(w.soldAt) * 1000).toISOString()
+    for (const w of networkWearables) {
+      w.name = w.metadata.wearable?.name
+      w.description = w.metadata.wearable?.description
+      w.category = w.metadata.wearable?.category
+      w.network = network
+      w.collection = w.metadata.wearable?.collection
+      w.price = parseNumber(w.price,  18) || 0
+      w.creationFee = parseNumber(w.creationFee, 18) || 0
 
+      w.createdAt = toISOString(parseInt(w.createdAt))
+      w.updatedAt = toISOString(parseInt(w.updatedAt))
+      w.reviewedAt = toISOString(parseInt(w.reviewedAt))
+      w.soldAt = toISOString(parseInt(w.soldAt))
+    }
+
+    wearables.push(...networkWearables)
   }
 
   console.log(wearables.length, 'wearables found.')
@@ -30,8 +40,10 @@ async function main() {
   saveToCSV('wearables.csv', wearables, [
     { id: 'id', title: 'Item ID' },
     { id: 'name', title: 'Name' },
+    { id: 'collection', title: 'Collection' },
     { id: 'description', title: 'Description' },
     { id: 'category', title: 'Category' },
+    { id: 'network', title: 'Network' },
     { id: 'itemType', title: 'Type' },
     { id: 'totalSupply', title: 'Total Supply' },
     { id: 'maxSupply', title: 'Max Supply' },

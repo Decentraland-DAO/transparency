@@ -2,16 +2,50 @@ export interface Vote {
   voter: string
 }
 
+export interface MemberVP {
+  totalVP: number
+  manaVP: number
+  landVP: number
+  namesVP: number
+  delegatedVP: number
+}
+
+export type MemberInfo = MemberVP & {
+  address: string
+  avatarPreview: string
+  hasDelegated: boolean
+  hasDelegators: boolean
+  delegate?: string
+  delegators?: string[]
+  delegatorsAmount: number
+}
+
 export interface DCLMember {
   address: string
   name: string
   avatar: string
 }
 
+export interface Delegation {
+  delegator: string
+  delegate: string
+}
+
+export interface ReceivedDelegations {
+  delegators: string[]
+  delegate: string
+}
+
+export interface DelegationInfo {
+  givenDelegations: Delegation[]
+  receivedDelegations: ReceivedDelegations[]
+}
+
 export const CATALYSTS = [
   'peer-ec1.decentraland.org',
+  'peer-ec2.decentraland.org',
   'peer-wc1.decentraland.org',
-  'eer-eu1.decentraland.org',
+  'peer-eu1.decentraland.org',
   'peer-ap1.decentraland.org',
   'interconnected.online',
   'peer.decentral.io',
@@ -21,6 +55,56 @@ export const CATALYSTS = [
   'peer.dclnodes.io',
 ]
 
+export interface DCLProfile {
+  timestamp: number
+  avatars: Avatar[]
+}
+
+interface Avatar {
+  userId?: string
+  email?: string
+  name?: string
+  hasClaimedName: boolean
+  description: string
+  ethAddress?: string
+  version?: number
+  avatar: AvatarConfig
+  tutorialStep?: number
+  interests?: any[]
+  unclaimedName?: string
+  inventory?: string[]
+  snapshots?: Snapshots
+  hasConnectedWeb3?: boolean
+  muted?: string[]
+  blocked?: string[]
+}
+
+interface AvatarConfig {
+  bodyShape: string
+  snapshots: Snapshots
+  eyes: Eyes
+  hair: Eyes
+  skin: Eyes
+  wearables: string[]
+  version?: number
+}
+
+interface Eyes {
+  color: Color
+}
+
+interface Color {
+  r: number
+  g: number
+  b: number
+  a: number
+}
+
+interface Snapshots {
+  body: string
+  face256: string
+}
+
 export const STRATEGIES = [
   {
     "name": "erc20-balance-of",
@@ -28,6 +112,22 @@ export const STRATEGIES = [
       "symbol": "WMANA",
       "address": "0xfd09cf7cfffa9932e33668311c4777cb9db3c9be",
       "decimals": 18
+    }
+  },
+  {
+    "name": "erc721-with-multiplier",
+    "params": {
+      "symbol": "LAND",
+      "address": "0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d",
+      "multiplier": 2000
+    }
+  },
+  {
+    "name": "decentraland-estate-size",
+    "params": {
+      "symbol": "ESTATE",
+      "address": "0x959e104e1a4db6317fa58f8295f586e1a978c297",
+      "multiplier": 2000
     }
   },
   {
@@ -56,22 +156,6 @@ export const STRATEGIES = [
           "network": "137"
         }
       ]
-    }
-  },
-  {
-    "name": "erc721-with-multiplier",
-    "params": {
-      "symbol": "LAND",
-      "address": "0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d",
-      "multiplier": 2000
-    }
-  },
-  {
-    "name": "decentraland-estate-size",
-    "params": {
-      "symbol": "ESTATE",
-      "address": "0x959e104e1a4db6317fa58f8295f586e1a978c297",
-      "multiplier": 2000
     }
   },
   {

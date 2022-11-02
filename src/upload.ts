@@ -5,7 +5,6 @@ import { parseKPIs } from './utils'
 
 require('dotenv').config()
 
-
 async function main() {
   try {
     const doc = new GoogleSpreadsheet(process.env.SHEET_ID)

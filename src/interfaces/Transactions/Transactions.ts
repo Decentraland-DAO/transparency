@@ -1,6 +1,8 @@
+import BigNumber from "bignumber.js"
+
 export interface TransactionDetails {
   count: number
-  total: number
+  total: BigNumber
 }
 
 export interface FeeDetails {
@@ -9,12 +11,12 @@ export interface FeeDetails {
 }
 
 export interface APITransactions {
-  updated_at: Date
+  updated_at: string
   items: TransactionItem[]
 }
 
 export interface TransactionItem {
-  block_signed_at: Date
+  block_signed_at: string
   block_height: number
   tx_hash: string
   tx_offset: number
@@ -35,7 +37,7 @@ export interface TransactionItem {
 }
 
 export interface LogEvent {
-  block_signed_at: Date
+  block_signed_at: string
   block_height: number
   tx_offset: number
   log_offset: number

@@ -4,6 +4,14 @@ on:
   schedule:
     - cron: "0 10 * * *"
   workflow_dispatch:
+    inputs:
+      choice:
+        type: choice
+        description: Select fetch type
+        options:
+        - reduced
+        - full
+        default: full
 
 jobs:
   export:
@@ -58,11 +66,12 @@ jobs:
       - name: Pull Transactions
         env:
           COVALENTHQ_API_KEY: ${{ secrets.COVALENTHQ_API_KEY }}
+          DECENTRALAND_DATA_URL: https://data.decentraland.vote/
           SHEET_ID: ${{ secrets.SHEET_ID }}
           SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
           SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
         run: |
-          npx ts-node ./src/export-transactions.ts
+          npx ts-node ./src/export-transactions.ts --${{ github.event.inputs.choice }}
           npx ts-node ./src/upload.ts Transactions ./public/transactions.csv
 
       - name: Pull Collections

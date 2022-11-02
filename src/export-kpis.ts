@@ -5,17 +5,17 @@ import PROPOSALS from '../public/proposals.json'
 import TRANSACTIONS from '../public/transactions.json'
 import VOTES from '../public/votes.json'
 import { BalanceParsed } from './export-balances'
-import { MemberInfo } from './export-members'
 import { TransactionParsed } from './export-transactions'
 import { VotesParsed } from './export-votes'
 import { GovernanceProposalType, Status } from './interfaces/GovernanceProposal'
 import { GrantProposal } from './interfaces/Grant'
 import { KPI } from './interfaces/KPIs'
+import { MemberInfo, MemberVP } from './interfaces/Members'
 import { ProposalParsed } from './interfaces/Proposal'
 import { FeeDetails } from './interfaces/Transactions/Transactions'
 import { TransferType } from './interfaces/Transactions/Transfers'
 import { avg, dayToMillisec, getTransactionsPerTag, median, saveToJSON, sum } from './utils'
-import { getRatio, getVPDistributionRows } from './kpis-utils'
+import { getDelegatedVPDistributionRows, getRatio, getVPDistributionRows } from './kpis-utils'
 
 
 function main() {
@@ -26,7 +26,7 @@ function main() {
   const transactions = TRANSACTIONS as TransactionParsed[]
   const balances = BALANCES as BalanceParsed[]
 
-  const VPSources = Object.keys(members[0]).slice(1)
+  const vpSources: (keyof MemberVP)[] = ['totalVP', 'manaVP', 'landVP', 'namesVP', 'delegatedVP']
   const totalVP = sum(members.map(member => member.totalVP))
 
   const kpis: KPI[] = [
@@ -50,7 +50,7 @@ function main() {
     },
     {
       header: ['VP sources', 'Members', 'VP Amount', 'VP percentage'],
-      rows: VPSources.map(source => {
+      rows: vpSources.map(source => {
         if (source === 'totalVP') {
           return [source, '', Math.round(totalVP)]
         }
@@ -63,6 +63,10 @@ function main() {
     {
       header: ['VP Distribution', 'Members', 'Members Percentage', 'Total VP', 'VP percentage'],
       rows: getVPDistributionRows(members, totalVP)
+    },
+    {
+      header: ['Delegated VP Distribution', 'Amount', 'VP percentage'],
+      rows: getDelegatedVPDistributionRows(members)
     },
     {
       header: ['Participation'],
