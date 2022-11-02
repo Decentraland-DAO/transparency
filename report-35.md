@@ -36,6 +36,7 @@ Since November 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* -22, 37: [MagusOpus Arcanum](https://governance.decentraland.org/proposal/?id=cfe1a790-5a27-11ed-8d3a-4fd4826afe14)
 * 56, 41: [Art Angels](https://governance.decentraland.org/proposal/?id=2e5f2f60-5927-11ed-be45-c5d5549af004)
 * 56, 41: [Art Angels](https://governance.decentraland.org/proposal/?id=e84fb300-5926-11ed-be45-c5d5549af004)
 * -107, -94: [No Name](https://governance.decentraland.org/proposal/?id=7a4aff00-566e-11ed-be45-c5d5549af004)

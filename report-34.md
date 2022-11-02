@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 11 points of interest (POI) have been added to the Decentraland map, 7 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
+In the two weeks since the last DAO Committee report, 11 points of interest (POI) have been added to the Decentraland map, 7 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -31,14 +31,14 @@ In the two weeks since the last DAO Committee report, 11 points of interest (POI
 
 #### 82, -149: [Cheapest Roadside+Free NFT Gallery! @Phergyson#2572 on Discord PRIOR to purchase for details &amp; discounts.](https://governance.decentraland.org/proposal/?id=19cbf8d0-5143-11ed-85c4-21e9782d451a)
 
-* Yes 100% 2,018,675 VP (60 votes)
+* Yes 100% 2,018,679 VP (60 votes)
 * No 0% 0 VP (1 votes)
 
 
 #### -34, -104: [TKFA CO LTD](https://governance.decentraland.org/proposal/?id=2a7d4ea0-5142-11ed-85c4-21e9782d451a)
 
-* Yes 99.72738021841707% 1,614,325 VP (48 votes)
-* No 0.2726197815829368% 4,413 VP (2 votes)
+* Yes 99.72738089207544% 1,614,329 VP (48 votes)
+* No 0.2726191079245488% 4,413 VP (2 votes)
 
 
 #### -115, -26: [ MetaPals NFT Club](https://governance.decentraland.org/proposal/?id=70725aa0-5141-11ed-85c4-21e9782d451a)
@@ -103,8 +103,8 @@ Since October 16, 7 grants have been approved and the vesting contract(s) will b
 
 #### [Parkour Creation Kit Expansion](https://governance.decentraland.org/proposal/?id=b683d870-5326-11ed-be45-c5d5549af004) (Tier 2)
 
-* Yes 99.64301679477501% 1,876,838 VP (57 votes)
-* No 0.35698320522499394% 6,724 VP (6 votes)
+* Yes 99.64301736335088% 1,876,841 VP (57 votes)
+* No 0.35698263664912017% 6,724 VP (6 votes)
 
 
 #### [Entertainment and Women Empowerment through Music with Education and Resources.](https://governance.decentraland.org/proposal/?id=2f3b9010-50ec-11ed-85c4-21e9782d451a) (Tier 3)
@@ -115,14 +115,14 @@ Since October 16, 7 grants have been approved and the vesting contract(s) will b
 
 #### [First Filipino DCL Community-Web3PH Summit 2022 IRL+URL](https://governance.decentraland.org/proposal/?id=5d3243a0-4ed1-11ed-ac8f-85b3b507fed5) (Tier 2)
 
-* Yes 75.44784950956009% 928,253 VP (122 votes)
-* No 24.552150490439917% 302,071 VP (15 votes)
+* Yes 54.144314451794415% 1,285,144 VP (131 votes)
+* No 45.855685548205585% 1,088,409 VP (16 votes)
 
 
 #### [TEMPLE  (Revised)](https://governance.decentraland.org/proposal/?id=dac5ea50-4ca2-11ed-a234-ef1b91ca21e2) (Tier 4)
 
-* Yes 60.52164258591743% 2,011,461 VP (79 votes)
-* No 39.47835741408257% 1,312,079 VP (40 votes)
+* Yes 60.52167188950352% 2,011,465 VP (79 votes)
+* No 39.47832811049648% 1,312,080 VP (40 votes)
 
 
 #### [ART|DAI Battles (Super Extra Revised)](https://governance.decentraland.org/proposal/?id=e2cdaad0-4a72-11ed-bdf3-75f4f4d9ef2f) (Tier 1)
@@ -148,32 +148,18 @@ Since October 16, 7 grants have been approved and the vesting contract(s) will b
 
 #### [Should grantees provide their Sourcecodes / GLB files to the DAO to be shared with the Community?](https://governance.decentraland.org/proposal/?id=1812c940-5055-11ed-85c4-21e9782d451a)
 
-* Yes, let&#39;s find a way to Opensource grantees work 89.58439999225422% 1,156,557 VP (50 votes)
-* No, founders work should stay private 10.415600007745782% 134,468 VP (10 votes)
+* Yes, let&#39;s find a way to Opensource grantees work 89.19103584428404% 1,156,558 VP (50 votes)
+* No, founders work should stay private 10.808964155715959% 140,162 VP (11 votes)
 * Invalid question/options 0% 0 VP (0 votes)
-
-
-#### [New tier of funding that&#39;s just up/down no V.P. influence](https://governance.decentraland.org/proposal/?id=9891d2b0-502c-11ed-85c4-21e9782d451a)
-
-* YES 0.39555473695511495% 4,016 VP (8 votes)
-* NO  89.75458074251219% 911,263 VP (36 votes)
-* Invalid question/options 9.849864520532698% 100,004 VP (1 votes)
 
 
 #### [Tower Defence Module: Budget and Approach Polling](https://governance.decentraland.org/proposal/?id=8a23cb00-4e5d-11ed-abb3-973d82c8ef3b)
 
-* Create with a low visual design budget, focusing mainly on functionality 59.024785102583934% 846,586 VP (39 votes)
-* Create with a medium visual design budget, through freelancers 0.0012549772047334951% 18 VP (4 votes)
-* Create with a high visual design budget, through a studio 20.18826052490119% 289,558 VP (24 votes)
-* We do not need a module like this right now 0.00041832573491116506% 6 VP (2 votes)
-* Invalid question/options 20.78528106957524% 298,121 VP (2 votes)
-
-
-#### [Should POI names be assigned in the POI proposal or should we continue to let land owners change their POI at will?](https://governance.decentraland.org/proposal/?id=21bcd0f0-4a68-11ed-bdf3-75f4f4d9ef2f)
-
-* Make no changes to the POI name system 100% 914,904 VP (50 votes)
-* POI names should be assigned in the proposal, owners must reapply to change name 0% 0 VP (0 votes)
-* Invalid question/options 0% 0 VP (0 votes)
+* Create with a low visual design budget, focusing mainly on functionality 59.02487080733909% 846,589 VP (39 votes)
+* Create with a medium visual design budget, through freelancers 0.0012549745797926781% 18 VP (4 votes)
+* Create with a high visual design budget, through a studio 20.188218298644905% 289,558 VP (24 votes)
+* We do not need a module like this right now 0.0004183248599308927% 6 VP (2 votes)
+* Invalid question/options 20.785237594576277% 298,121 VP (2 votes)
 
 
 
@@ -181,6 +167,7 @@ Since October 16, 7 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* -22, 37: [MagusOpus Arcanum](https://governance.decentraland.org/proposal/?id=cfe1a790-5a27-11ed-8d3a-4fd4826afe14)
 * 56, 41: [Art Angels](https://governance.decentraland.org/proposal/?id=2e5f2f60-5927-11ed-be45-c5d5549af004)
 * 56, 41: [Art Angels](https://governance.decentraland.org/proposal/?id=e84fb300-5926-11ed-be45-c5d5549af004)
 * -107, -94: [No Name](https://governance.decentraland.org/proposal/?id=7a4aff00-566e-11ed-be45-c5d5549af004)
