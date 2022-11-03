@@ -184,7 +184,6 @@ Since October 16, 7 grants have been approved and the vesting contract(s) will b
 * [Into The BollyVerse event by BollyCoin, Metakey and Kamaal Khan](https://governance.decentraland.org/proposal/?id=d806c170-5541-11ed-be45-c5d5549af004) (Tier 4)
 * [Dollhouse](https://governance.decentraland.org/proposal/?id=c4288b70-53de-11ed-be45-c5d5549af004) (Tier 5)
 * [A Book to introduce DCL to Chinese People (Revised)](https://governance.decentraland.org/proposal/?id=10e7df10-5123-11ed-85c4-21e9782d451a) (Tier 4)
-* [Duel Arena P2E; Turn Based RPG | Play to Earn 2.0](https://governance.decentraland.org/proposal/?id=3f1607c0-5044-11ed-85c4-21e9782d451a) (Tier 4)
 
 ## Names Bans
 
@@ -194,6 +193,9 @@ Since October 16, 7 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Change gameplay run speed to 2.5x when running through undeveloped parcels](https://governance.decentraland.org/proposal/?id=e1512680-5b95-11ed-9128-d95e3b6d7912)
+* [Should VP be delegated in a LAND Rental transaction?](https://governance.decentraland.org/proposal/?id=b21c30c0-5af6-11ed-8d3a-4fd4826afe14)
+* [Scene Metadata vs Land Metadata](https://governance.decentraland.org/proposal/?id=e765d930-5adc-11ed-8d3a-4fd4826afe14)
 * [New Proposal Category : &#39;Feature Request’](https://governance.decentraland.org/proposal/?id=da572560-5847-11ed-be45-c5d5549af004)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
