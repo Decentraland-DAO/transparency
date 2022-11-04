@@ -9,12 +9,18 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+1 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -107, -94: [No Name](https://governance.decentraland.org/proposal/?id=7a4aff00-566e-11ed-be45-c5d5549af004)
+
+* Yes 98.78377579869519% 2,607,947 VP (105 votes)
+* No 1.2162242013048208% 32,109 VP (7 votes)
 
 
 ## Name Bans
@@ -36,13 +42,15 @@ Since November 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* 145, 60: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=1928a480-5c26-11ed-9128-d95e3b6d7912)
 * -22, 37: [MagusOpus Arcanum](https://governance.decentraland.org/proposal/?id=cfe1a790-5a27-11ed-8d3a-4fd4826afe14)
 * 56, 41: [Art Angels](https://governance.decentraland.org/proposal/?id=2e5f2f60-5927-11ed-be45-c5d5549af004)
 * 56, 41: [Art Angels](https://governance.decentraland.org/proposal/?id=e84fb300-5926-11ed-be45-c5d5549af004)
-* -107, -94: [No Name](https://governance.decentraland.org/proposal/?id=7a4aff00-566e-11ed-be45-c5d5549af004)
 
 ## Grants
 
+* [A dedicated reporter will publish 30 articles about Decentraland DAO for 90 days](https://governance.decentraland.org/proposal/?id=aaabc360-5c17-11ed-9128-d95e3b6d7912) (Tier 1)
+* [Metaverzus Season funding](https://governance.decentraland.org/proposal/?id=5c5e2220-5bb3-11ed-9128-d95e3b6d7912) (Tier 4)
 * [Escape from Highland Garden](https://governance.decentraland.org/proposal/?id=6a806e60-599e-11ed-be45-c5d5549af004) (Tier 6)
 * [Education, High Speed Internet &amp; Hardware for Marketing Campaign](https://governance.decentraland.org/proposal/?id=39940200-596a-11ed-be45-c5d5549af004) (Tier 6)
 * [Decentraland’s MENA Community Outreach Plan (DEI)](https://governance.decentraland.org/proposal/?id=bea66a80-5926-11ed-be45-c5d5549af004) (Tier 4)
@@ -52,7 +60,6 @@ Since November 1, 0 grants have been approved and the vesting contract(s) will b
 * [DCL Developer Symposium (Uganda)](https://governance.decentraland.org/proposal/?id=873863e0-55fd-11ed-be45-c5d5549af004) (Tier 4)
 * [Into The BollyVerse event by BollyCoin, Metakey and Kamaal Khan](https://governance.decentraland.org/proposal/?id=d806c170-5541-11ed-be45-c5d5549af004) (Tier 4)
 * [Dollhouse](https://governance.decentraland.org/proposal/?id=c4288b70-53de-11ed-be45-c5d5549af004) (Tier 5)
-* [A Book to introduce DCL to Chinese People (Revised)](https://governance.decentraland.org/proposal/?id=10e7df10-5123-11ed-85c4-21e9782d451a) (Tier 4)
 
 ## Names Bans
 
