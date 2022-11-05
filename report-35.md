@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -37,11 +37,19 @@ Since November 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+#### [New Proposal Category : &#39;Feature Request’](https://governance.decentraland.org/proposal/?id=da572560-5847-11ed-be45-c5d5549af004)
+
+* Add &#39;Feature Request&#39; Category 78.2759668620014% 2,786,925 VP (68 votes)
+* Do Not Add &#39;Feature Request&#39; Category 0% 0 VP (0 votes)
+* Invalid question/options 21.724033137998596% 773,459 VP (2 votes)
+
+
 
 # Active Proposals
 
 ## Points of Interest
 
+* 24, -28: [The BBA](https://governance.decentraland.org/proposal/?id=9dafcfd0-5c99-11ed-9128-d95e3b6d7912)
 * 145, 60: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=1928a480-5c26-11ed-9128-d95e3b6d7912)
 * -22, 37: [MagusOpus Arcanum](https://governance.decentraland.org/proposal/?id=cfe1a790-5a27-11ed-8d3a-4fd4826afe14)
 * 56, 41: [Art Angels](https://governance.decentraland.org/proposal/?id=2e5f2f60-5927-11ed-be45-c5d5549af004)
@@ -49,6 +57,7 @@ Since November 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
+* [Sugar Club operation costs 2023](https://governance.decentraland.org/proposal/?id=31597b30-5c6a-11ed-9128-d95e3b6d7912) (Tier 4)
 * [A dedicated reporter will publish 30 articles about Decentraland DAO for 90 days](https://governance.decentraland.org/proposal/?id=aaabc360-5c17-11ed-9128-d95e3b6d7912) (Tier 1)
 * [Metaverzus Season funding](https://governance.decentraland.org/proposal/?id=5c5e2220-5bb3-11ed-9128-d95e3b6d7912) (Tier 4)
 * [Escape from Highland Garden](https://governance.decentraland.org/proposal/?id=6a806e60-599e-11ed-be45-c5d5549af004) (Tier 6)
@@ -72,6 +81,5 @@ Since November 1, 0 grants have been approved and the vesting contract(s) will b
 * [Change gameplay run speed to 2.5x when running through undeveloped parcels](https://governance.decentraland.org/proposal/?id=e1512680-5b95-11ed-9128-d95e3b6d7912)
 * [Should VP be delegated in a LAND Rental transaction?](https://governance.decentraland.org/proposal/?id=b21c30c0-5af6-11ed-8d3a-4fd4826afe14)
 * [Scene Metadata vs Land Metadata](https://governance.decentraland.org/proposal/?id=e765d930-5adc-11ed-8d3a-4fd4826afe14)
-* [New Proposal Category : &#39;Feature Request’](https://governance.decentraland.org/proposal/?id=da572560-5847-11ed-be45-c5d5549af004)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
