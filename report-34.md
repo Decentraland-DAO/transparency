@@ -167,6 +167,8 @@ Since October 16, 7 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* 86, -33: [PARCEL PARTY](https://governance.decentraland.org/proposal/?id=bfbbfdd0-5d87-11ed-9128-d95e3b6d7912)
+* -120, -150: [PARCEL PARTY](https://governance.decentraland.org/proposal/?id=7d8e1de0-5d86-11ed-9128-d95e3b6d7912)
 * 24, -28: [The BBA](https://governance.decentraland.org/proposal/?id=9dafcfd0-5c99-11ed-9128-d95e3b6d7912)
 * 145, 60: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=1928a480-5c26-11ed-9128-d95e3b6d7912)
 * -22, 37: [MagusOpus Arcanum](https://governance.decentraland.org/proposal/?id=cfe1a790-5a27-11ed-8d3a-4fd4826afe14)
@@ -196,6 +198,8 @@ Since October 16, 7 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Does Decentraland need its own Сonstitution?](https://governance.decentraland.org/proposal/?id=c2567370-5db6-11ed-9128-d95e3b6d7912)
+* [Should every grant update require invoices, receipts or explanations of where the grant funds were sent?](https://governance.decentraland.org/proposal/?id=31172150-5d36-11ed-9128-d95e3b6d7912)
 * [Change gameplay run speed to 2.5x when running through undeveloped parcels](https://governance.decentraland.org/proposal/?id=e1512680-5b95-11ed-9128-d95e3b6d7912)
 * [Should VP be delegated in a LAND Rental transaction?](https://governance.decentraland.org/proposal/?id=b21c30c0-5af6-11ed-8d3a-4fd4826afe14)
 * [Scene Metadata vs Land Metadata](https://governance.decentraland.org/proposal/?id=e765d930-5adc-11ed-8d3a-4fd4826afe14)
