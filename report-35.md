@@ -59,13 +59,12 @@ Since November 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
+* [Exodus Development](https://governance.decentraland.org/proposal/?id=dd1c6dc0-5e17-11ed-9128-d95e3b6d7912) (Tier 2)
 * [Sugar Club operation costs 2023](https://governance.decentraland.org/proposal/?id=31597b30-5c6a-11ed-9128-d95e3b6d7912) (Tier 4)
 * [A dedicated reporter will publish 30 articles about Decentraland DAO for 90 days](https://governance.decentraland.org/proposal/?id=aaabc360-5c17-11ed-9128-d95e3b6d7912) (Tier 1)
 * [Metaverzus Season funding](https://governance.decentraland.org/proposal/?id=5c5e2220-5bb3-11ed-9128-d95e3b6d7912) (Tier 4)
 * [Escape from Highland Garden](https://governance.decentraland.org/proposal/?id=6a806e60-599e-11ed-be45-c5d5549af004) (Tier 6)
-* [Education, High Speed Internet &amp; Hardware for Marketing Campaign](https://governance.decentraland.org/proposal/?id=39940200-596a-11ed-be45-c5d5549af004) (Tier 6)
 * [Decentraland’s MENA Community Outreach Plan (DEI)](https://governance.decentraland.org/proposal/?id=bea66a80-5926-11ed-be45-c5d5549af004) (Tier 4)
-* [Exodus: Goodbye World](https://governance.decentraland.org/proposal/?id=b7b0f9a0-564e-11ed-be45-c5d5549af004) (Tier 6)
 * [#1 DCL Streaming Turtle Shuckle needs a Palace! Anyone who votes gets a cut!](https://governance.decentraland.org/proposal/?id=fb5a7de0-561f-11ed-be45-c5d5549af004) (Tier 6)
 * [Support DCL Reporters and Improve Content Quality](https://governance.decentraland.org/proposal/?id=9d802480-561b-11ed-be45-c5d5549af004) (Tier 5)
 * [DCL Developer Symposium (Uganda)](https://governance.decentraland.org/proposal/?id=873863e0-55fd-11ed-be45-c5d5549af004) (Tier 4)
@@ -80,6 +79,7 @@ Since November 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Should VP Delegation expire?](https://governance.decentraland.org/proposal/?id=21f021b0-5e0b-11ed-9128-d95e3b6d7912)
 * [Does Decentraland need its own Сonstitution?](https://governance.decentraland.org/proposal/?id=c2567370-5db6-11ed-9128-d95e3b6d7912)
 * [Should every grant update require invoices, receipts or explanations of where the grant funds were sent?](https://governance.decentraland.org/proposal/?id=31172150-5d36-11ed-9128-d95e3b6d7912)
 * [Change gameplay run speed to 2.5x when running through undeveloped parcels](https://governance.decentraland.org/proposal/?id=e1512680-5b95-11ed-9128-d95e3b6d7912)
