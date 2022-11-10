@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -32,7 +32,13 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since November 1, 1 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since November 1, 2 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Into The BollyVerse event by BollyCoin, Metakey and Kamaal Khan](https://governance.decentraland.org/proposal/?id=d806c170-5541-11ed-be45-c5d5549af004) (Tier 4)
+
+* Yes 64.7198900518642% 3,017,605 VP (45 votes)
+* No 35.28010994813581% 1,644,957 VP (20 votes)
 
 
 #### [Dollhouse](https://governance.decentraland.org/proposal/?id=c4288b70-53de-11ed-be45-c5d5549af004) (Tier 5)
@@ -70,6 +76,7 @@ Since November 1, 1 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* -62, 45: [Chobury Adjacent ](https://governance.decentraland.org/proposal/?id=f1be9880-6055-11ed-bf97-7dbf9f54c71d)
 * -14, 76: [Racing Game](https://governance.decentraland.org/proposal/?id=76ba1a20-5f00-11ed-bd2d-2549553084d0)
 * 86, -33: [PARCEL PARTY](https://governance.decentraland.org/proposal/?id=bfbbfdd0-5d87-11ed-9128-d95e3b6d7912)
 * -120, -150: [PARCEL PARTY](https://governance.decentraland.org/proposal/?id=7d8e1de0-5d86-11ed-9128-d95e3b6d7912)
@@ -90,7 +97,6 @@ Since November 1, 1 grants have been approved and the vesting contract(s) will b
 * [#1 DCL Streaming Turtle Shuckle needs a Palace! Anyone who votes gets a cut!](https://governance.decentraland.org/proposal/?id=fb5a7de0-561f-11ed-be45-c5d5549af004) (Tier 6)
 * [Support DCL Reporters and Improve Content Quality](https://governance.decentraland.org/proposal/?id=9d802480-561b-11ed-be45-c5d5549af004) (Tier 5)
 * [DCL Developer Symposium (Uganda)](https://governance.decentraland.org/proposal/?id=873863e0-55fd-11ed-be45-c5d5549af004) (Tier 4)
-* [Into The BollyVerse event by BollyCoin, Metakey and Kamaal Khan](https://governance.decentraland.org/proposal/?id=d806c170-5541-11ed-be45-c5d5549af004) (Tier 4)
 
 ## Names Bans
 
@@ -100,6 +106,9 @@ Since November 1, 1 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Creators Program (like tiktok /youtube/twitch)](https://governance.decentraland.org/proposal/?id=25984db0-6072-11ed-bf97-7dbf9f54c71d)
+* [Should any grant proposal be automatically revoked if the requestor or their personnel vote in favor on their own proposal?](https://governance.decentraland.org/proposal/?id=e5ca1a90-606e-11ed-bf97-7dbf9f54c71d)
+* [Should the DAO implement a Bidding and Tendering process to allocate resources for voted projects?](https://governance.decentraland.org/proposal/?id=ce730570-6053-11ed-bf97-7dbf9f54c71d)
 * [@Decentraland twitter account should follow @helpimstreaming twitter account.](https://governance.decentraland.org/proposal/?id=50295240-5f6e-11ed-9e27-9944727da95a)
 * [Should VP Delegation expire?](https://governance.decentraland.org/proposal/?id=21f021b0-5e0b-11ed-9128-d95e3b6d7912)
 * [Does Decentraland need its own Сonstitution?](https://governance.decentraland.org/proposal/?id=c2567370-5db6-11ed-9128-d95e3b6d7912)
