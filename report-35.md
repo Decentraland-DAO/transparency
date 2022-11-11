@@ -9,12 +9,18 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-1 points of interest have been added to Decentraland’s map since the last report.
+2 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 145, 60: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=1928a480-5c26-11ed-9128-d95e3b6d7912)
+
+* Yes 95.94565677411991% 1,210,602 VP (58 votes)
+* No 4.054343225880082% 51,156 VP (3 votes)
 
 
 #### -107, -94: [No Name](https://governance.decentraland.org/proposal/?id=7a4aff00-566e-11ed-be45-c5d5549af004)
@@ -32,7 +38,13 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since November 1, 2 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since November 1, 3 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [A dedicated reporter will publish 30 articles about Decentraland DAO for 90 days](https://governance.decentraland.org/proposal/?id=aaabc360-5c17-11ed-9128-d95e3b6d7912) (Tier 1)
+
+* Yes 75.10192652751671% 1,794,351 VP (66 votes)
+* No 24.89807347248329% 594,870 VP (9 votes)
 
 
 #### [Into The BollyVerse event by BollyCoin, Metakey and Kamaal Khan](https://governance.decentraland.org/proposal/?id=d806c170-5541-11ed-be45-c5d5549af004) (Tier 4)
@@ -48,6 +60,20 @@ Since November 1, 2 grants have been approved and the vesting contract(s) will b
 
 
 ## Polls
+
+#### [Does Decentraland need its own Сonstitution?](https://governance.decentraland.org/proposal/?id=c2567370-5db6-11ed-9128-d95e3b6d7912)
+
+* Yes 20.303620784644732% 615,072 VP (53 votes)
+* No 79.69637921535526% 2,414,299 VP (34 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
+#### [Should every grant update require invoices, receipts or explanations of where the grant funds were sent?](https://governance.decentraland.org/proposal/?id=31172150-5d36-11ed-9128-d95e3b6d7912)
+
+* Yes 8.059403537997033% 334,117 VP (30 votes)
+* No 63.089496316526194% 2,615,488 VP (40 votes)
+* Invalid question/options 28.85110014547677% 1,196,074 VP (13 votes)
+
 
 #### [Should VP be delegated in a LAND Rental transaction?](https://governance.decentraland.org/proposal/?id=b21c30c0-5af6-11ed-8d3a-4fd4826afe14)
 
@@ -76,27 +102,24 @@ Since November 1, 2 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* -54, 34: [CRNFT.ART](https://governance.decentraland.org/proposal/?id=5c8b7aa0-610c-11ed-bf97-7dbf9f54c71d)
 * -62, 45: [Chobury Adjacent ](https://governance.decentraland.org/proposal/?id=f1be9880-6055-11ed-bf97-7dbf9f54c71d)
 * -14, 76: [Racing Game](https://governance.decentraland.org/proposal/?id=76ba1a20-5f00-11ed-bd2d-2549553084d0)
 * 86, -33: [PARCEL PARTY](https://governance.decentraland.org/proposal/?id=bfbbfdd0-5d87-11ed-9128-d95e3b6d7912)
 * -120, -150: [PARCEL PARTY](https://governance.decentraland.org/proposal/?id=7d8e1de0-5d86-11ed-9128-d95e3b6d7912)
 * 24, -28: [The BBA](https://governance.decentraland.org/proposal/?id=9dafcfd0-5c99-11ed-9128-d95e3b6d7912)
-* 145, 60: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=1928a480-5c26-11ed-9128-d95e3b6d7912)
 
 ## Grants
 
+* [Scale RentParcel to support Payments, rental of other utility assets, etc.](https://governance.decentraland.org/proposal/?id=e8ec39b0-6140-11ed-bf97-7dbf9f54c71d) (Tier 4)
 * [Continued Enhancement of Decentraland VR Clients](https://governance.decentraland.org/proposal/?id=b7a5bb60-5fd8-11ed-9e27-9944727da95a) (Tier 6)
 * [Grant Support Squad Renewal](https://governance.decentraland.org/proposal/?id=c5c2f9a0-5fa7-11ed-9e27-9944727da95a) (Tier 5)
 * [Tower Defence Creation Kit](https://governance.decentraland.org/proposal/?id=f92e37a0-5ee9-11ed-9128-d95e3b6d7912) (Tier 4)
 * [Support DCL Reporters and Improve Content Quality](https://governance.decentraland.org/proposal/?id=2d49ad30-5eb8-11ed-9128-d95e3b6d7912) (Tier 4)
 * [Sugar Club operation costs 2023](https://governance.decentraland.org/proposal/?id=31597b30-5c6a-11ed-9128-d95e3b6d7912) (Tier 4)
-* [A dedicated reporter will publish 30 articles about Decentraland DAO for 90 days](https://governance.decentraland.org/proposal/?id=aaabc360-5c17-11ed-9128-d95e3b6d7912) (Tier 1)
 * [Metaverzus Season funding](https://governance.decentraland.org/proposal/?id=5c5e2220-5bb3-11ed-9128-d95e3b6d7912) (Tier 4)
 * [Escape from Highland Garden](https://governance.decentraland.org/proposal/?id=6a806e60-599e-11ed-be45-c5d5549af004) (Tier 6)
 * [Decentraland’s MENA Community Outreach Plan (DEI)](https://governance.decentraland.org/proposal/?id=bea66a80-5926-11ed-be45-c5d5549af004) (Tier 4)
-* [#1 DCL Streaming Turtle Shuckle needs a Palace! Anyone who votes gets a cut!](https://governance.decentraland.org/proposal/?id=fb5a7de0-561f-11ed-be45-c5d5549af004) (Tier 6)
-* [Support DCL Reporters and Improve Content Quality](https://governance.decentraland.org/proposal/?id=9d802480-561b-11ed-be45-c5d5549af004) (Tier 5)
-* [DCL Developer Symposium (Uganda)](https://governance.decentraland.org/proposal/?id=873863e0-55fd-11ed-be45-c5d5549af004) (Tier 4)
 
 ## Names Bans
 
@@ -111,7 +134,5 @@ Since November 1, 2 grants have been approved and the vesting contract(s) will b
 * [Should the DAO implement a Bidding and Tendering process to allocate resources for voted projects?](https://governance.decentraland.org/proposal/?id=ce730570-6053-11ed-bf97-7dbf9f54c71d)
 * [@Decentraland twitter account should follow @helpimstreaming twitter account.](https://governance.decentraland.org/proposal/?id=50295240-5f6e-11ed-9e27-9944727da95a)
 * [Should VP Delegation expire?](https://governance.decentraland.org/proposal/?id=21f021b0-5e0b-11ed-9128-d95e3b6d7912)
-* [Does Decentraland need its own Сonstitution?](https://governance.decentraland.org/proposal/?id=c2567370-5db6-11ed-9128-d95e3b6d7912)
-* [Should every grant update require invoices, receipts or explanations of where the grant funds were sent?](https://governance.decentraland.org/proposal/?id=31172150-5d36-11ed-9128-d95e3b6d7912)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
