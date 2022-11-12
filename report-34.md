@@ -172,7 +172,6 @@ Since October 16, 7 grants have been approved and the vesting contract(s) will b
 * -14, 76: [Racing Game](https://governance.decentraland.org/proposal/?id=76ba1a20-5f00-11ed-bd2d-2549553084d0)
 * 86, -33: [PARCEL PARTY](https://governance.decentraland.org/proposal/?id=bfbbfdd0-5d87-11ed-9128-d95e3b6d7912)
 * -120, -150: [PARCEL PARTY](https://governance.decentraland.org/proposal/?id=7d8e1de0-5d86-11ed-9128-d95e3b6d7912)
-* 24, -28: [The BBA](https://governance.decentraland.org/proposal/?id=9dafcfd0-5c99-11ed-9128-d95e3b6d7912)
 
 ## Grants
 
@@ -198,6 +197,5 @@ Since October 16, 7 grants have been approved and the vesting contract(s) will b
 * [Should any grant proposal be automatically revoked if the requestor or their personnel vote in favor on their own proposal?](https://governance.decentraland.org/proposal/?id=e5ca1a90-606e-11ed-bf97-7dbf9f54c71d)
 * [Should the DAO implement a Bidding and Tendering process to allocate resources for voted projects?](https://governance.decentraland.org/proposal/?id=ce730570-6053-11ed-bf97-7dbf9f54c71d)
 * [@Decentraland twitter account should follow @helpimstreaming twitter account.](https://governance.decentraland.org/proposal/?id=50295240-5f6e-11ed-9e27-9944727da95a)
-* [Should VP Delegation expire?](https://governance.decentraland.org/proposal/?id=21f021b0-5e0b-11ed-9128-d95e3b6d7912)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
