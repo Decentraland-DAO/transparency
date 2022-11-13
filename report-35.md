@@ -9,12 +9,24 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
+In the two weeks since the last DAO Committee report, 5 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-3 points of interest have been added to Decentraland’s map since the last report.
+5 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 86, -33: [PARCEL PARTY](https://governance.decentraland.org/proposal/?id=bfbbfdd0-5d87-11ed-9128-d95e3b6d7912)
+
+* Yes 96.56030905073997% 1,305,506 VP (87 votes)
+* No 3.4396909492600285% 46,505 VP (3 votes)
+
+
+#### -120, -150: [PARCEL PARTY](https://governance.decentraland.org/proposal/?id=7d8e1de0-5d86-11ed-9128-d95e3b6d7912)
+
+* Yes 99.99968225648733% 1,258,873 VP (64 votes)
+* No 0.00031774351267041973% 4 VP (1 votes)
 
 
 #### 24, -28: [The BBA](https://governance.decentraland.org/proposal/?id=9dafcfd0-5c99-11ed-9128-d95e3b6d7912)
@@ -120,8 +132,6 @@ Since November 1, 3 grants have been approved and the vesting contract(s) will b
 * -54, 34: [CRNFT.ART](https://governance.decentraland.org/proposal/?id=5c8b7aa0-610c-11ed-bf97-7dbf9f54c71d)
 * -62, 45: [Chobury Adjacent ](https://governance.decentraland.org/proposal/?id=f1be9880-6055-11ed-bf97-7dbf9f54c71d)
 * -14, 76: [Racing Game](https://governance.decentraland.org/proposal/?id=76ba1a20-5f00-11ed-bd2d-2549553084d0)
-* 86, -33: [PARCEL PARTY](https://governance.decentraland.org/proposal/?id=bfbbfdd0-5d87-11ed-9128-d95e3b6d7912)
-* -120, -150: [PARCEL PARTY](https://governance.decentraland.org/proposal/?id=7d8e1de0-5d86-11ed-9128-d95e3b6d7912)
 
 ## Grants
 

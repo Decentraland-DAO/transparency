@@ -170,8 +170,6 @@ Since October 16, 7 grants have been approved and the vesting contract(s) will b
 * -54, 34: [CRNFT.ART](https://governance.decentraland.org/proposal/?id=5c8b7aa0-610c-11ed-bf97-7dbf9f54c71d)
 * -62, 45: [Chobury Adjacent ](https://governance.decentraland.org/proposal/?id=f1be9880-6055-11ed-bf97-7dbf9f54c71d)
 * -14, 76: [Racing Game](https://governance.decentraland.org/proposal/?id=76ba1a20-5f00-11ed-bd2d-2549553084d0)
-* 86, -33: [PARCEL PARTY](https://governance.decentraland.org/proposal/?id=bfbbfdd0-5d87-11ed-9128-d95e3b6d7912)
-* -120, -150: [PARCEL PARTY](https://governance.decentraland.org/proposal/?id=7d8e1de0-5d86-11ed-9128-d95e3b6d7912)
 
 ## Grants
 
