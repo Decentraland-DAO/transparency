@@ -173,7 +173,6 @@ Since October 16, 7 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
-* [Scale RentParcel to support Payments, rental of other utility assets, etc.](https://governance.decentraland.org/proposal/?id=e8ec39b0-6140-11ed-bf97-7dbf9f54c71d) (Tier 4)
 * [Continued Enhancement of Decentraland VR Clients](https://governance.decentraland.org/proposal/?id=b7a5bb60-5fd8-11ed-9e27-9944727da95a) (Tier 6)
 * [Grant Support Squad Renewal](https://governance.decentraland.org/proposal/?id=c5c2f9a0-5fa7-11ed-9e27-9944727da95a) (Tier 5)
 * [Tower Defence Creation Kit](https://governance.decentraland.org/proposal/?id=f92e37a0-5ee9-11ed-9128-d95e3b6d7912) (Tier 4)
@@ -191,9 +190,8 @@ Since October 16, 7 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Should a grant proposal be revoked if the grant requestor or their personnel listed, vote on their own grant proposal? (Updated version)](https://governance.decentraland.org/proposal/?id=c73ae920-63c4-11ed-bf97-7dbf9f54c71d)
 * [Creators Program (like tiktok /youtube/twitch)](https://governance.decentraland.org/proposal/?id=25984db0-6072-11ed-bf97-7dbf9f54c71d)
-* [Should any grant proposal be automatically revoked if the requestor or their personnel vote in favor on their own proposal?](https://governance.decentraland.org/proposal/?id=e5ca1a90-606e-11ed-bf97-7dbf9f54c71d)
 * [Should the DAO implement a Bidding and Tendering process to allocate resources for voted projects?](https://governance.decentraland.org/proposal/?id=ce730570-6053-11ed-bf97-7dbf9f54c71d)
-* [@Decentraland twitter account should follow @helpimstreaming twitter account.](https://governance.decentraland.org/proposal/?id=50295240-5f6e-11ed-9e27-9944727da95a)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
