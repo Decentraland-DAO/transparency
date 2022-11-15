@@ -9,12 +9,18 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 5 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
+In the two weeks since the last DAO Committee report, 6 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-5 points of interest have been added to Decentraland’s map since the last report.
+6 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -14, 76: [Racing Game](https://governance.decentraland.org/proposal/?id=76ba1a20-5f00-11ed-bd2d-2549553084d0)
+
+* Yes 91.51406402870964% 1,143,956 VP (67 votes)
+* No 8.485935971290358% 106,077 VP (2 votes)
 
 
 #### 86, -33: [PARCEL PARTY](https://governance.decentraland.org/proposal/?id=bfbbfdd0-5d87-11ed-9128-d95e3b6d7912)
@@ -79,27 +85,11 @@ Since November 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
-#### [Should VP Delegation expire?](https://governance.decentraland.org/proposal/?id=21f021b0-5e0b-11ed-9128-d95e3b6d7912)
+#### [Should the DAO implement a Bidding and Tendering process to allocate resources for voted projects?](https://governance.decentraland.org/proposal/?id=ce730570-6053-11ed-bf97-7dbf9f54c71d)
 
-* Yes, expire after 6 months 7.034864502929906% 186,646 VP (17 votes)
-* Yes, expire after 1 year 0.010365010438507785% 275 VP (4 votes)
-* Yes, expire after 2 years 0.17556443135479732% 4,658 VP (2 votes)
-* No, keep delegation indefinitely 79.54908058588316% 2,110,562 VP (34 votes)
-* Invalid question/options 13.23012546939363% 351,016 VP (9 votes)
-
-
-#### [Does Decentraland need its own Сonstitution?](https://governance.decentraland.org/proposal/?id=c2567370-5db6-11ed-9128-d95e3b6d7912)
-
-* Yes 20.303620784644732% 615,072 VP (53 votes)
-* No 79.69637921535526% 2,414,299 VP (34 votes)
+* Yes, we should implement Bids &amp; Tenders. 84.42703885295488% 1,240,668 VP (50 votes)
+* No, we shouldn’t implement Bids &amp; Tenders. 15.572961147045113% 228,847 VP (6 votes)
 * Invalid question/options 0% 0 VP (0 votes)
-
-
-#### [Should every grant update require invoices, receipts or explanations of where the grant funds were sent?](https://governance.decentraland.org/proposal/?id=31172150-5d36-11ed-9128-d95e3b6d7912)
-
-* Yes 8.059403537997033% 334,117 VP (30 votes)
-* No 63.089496316526194% 2,615,488 VP (40 votes)
-* Invalid question/options 28.85110014547677% 1,196,074 VP (13 votes)
 
 
 #### [Should VP be delegated in a LAND Rental transaction?](https://governance.decentraland.org/proposal/?id=b21c30c0-5af6-11ed-8d3a-4fd4826afe14)
@@ -131,18 +121,17 @@ Since November 1, 3 grants have been approved and the vesting contract(s) will b
 
 * -54, 34: [CRNFT.ART](https://governance.decentraland.org/proposal/?id=5c8b7aa0-610c-11ed-bf97-7dbf9f54c71d)
 * -62, 45: [Chobury Adjacent ](https://governance.decentraland.org/proposal/?id=f1be9880-6055-11ed-bf97-7dbf9f54c71d)
-* -14, 76: [Racing Game](https://governance.decentraland.org/proposal/?id=76ba1a20-5f00-11ed-bd2d-2549553084d0)
 
 ## Grants
 
+* [Source for starting a career on decentraland](https://governance.decentraland.org/proposal/?id=07a6f1f0-64d0-11ed-bf97-7dbf9f54c71d) (Tier 1)
+* [Soul Magic Game Development Proposal](https://governance.decentraland.org/proposal/?id=44986990-6494-11ed-bf97-7dbf9f54c71d) (Tier 5)
 * [Continued Enhancement of Decentraland VR Clients](https://governance.decentraland.org/proposal/?id=b7a5bb60-5fd8-11ed-9e27-9944727da95a) (Tier 6)
 * [Grant Support Squad Renewal](https://governance.decentraland.org/proposal/?id=c5c2f9a0-5fa7-11ed-9e27-9944727da95a) (Tier 5)
 * [Tower Defence Creation Kit](https://governance.decentraland.org/proposal/?id=f92e37a0-5ee9-11ed-9128-d95e3b6d7912) (Tier 4)
 * [Support DCL Reporters and Improve Content Quality](https://governance.decentraland.org/proposal/?id=2d49ad30-5eb8-11ed-9128-d95e3b6d7912) (Tier 4)
 * [Sugar Club operation costs 2023](https://governance.decentraland.org/proposal/?id=31597b30-5c6a-11ed-9128-d95e3b6d7912) (Tier 4)
 * [Metaverzus Season funding](https://governance.decentraland.org/proposal/?id=5c5e2220-5bb3-11ed-9128-d95e3b6d7912) (Tier 4)
-* [Escape from Highland Garden](https://governance.decentraland.org/proposal/?id=6a806e60-599e-11ed-be45-c5d5549af004) (Tier 6)
-* [Decentraland’s MENA Community Outreach Plan (DEI)](https://governance.decentraland.org/proposal/?id=bea66a80-5926-11ed-be45-c5d5549af004) (Tier 4)
 
 ## Names Bans
 
@@ -153,7 +142,5 @@ Since November 1, 3 grants have been approved and the vesting contract(s) will b
 ## Polls
 
 * [Should a grant proposal be revoked if the grant requestor or their personnel listed, vote on their own grant proposal? (Updated version)](https://governance.decentraland.org/proposal/?id=c73ae920-63c4-11ed-bf97-7dbf9f54c71d)
-* [Creators Program (like tiktok /youtube/twitch)](https://governance.decentraland.org/proposal/?id=25984db0-6072-11ed-bf97-7dbf9f54c71d)
-* [Should the DAO implement a Bidding and Tendering process to allocate resources for voted projects?](https://governance.decentraland.org/proposal/?id=ce730570-6053-11ed-bf97-7dbf9f54c71d)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

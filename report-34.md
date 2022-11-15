@@ -169,18 +169,17 @@ Since October 16, 7 grants have been approved and the vesting contract(s) will b
 
 * -54, 34: [CRNFT.ART](https://governance.decentraland.org/proposal/?id=5c8b7aa0-610c-11ed-bf97-7dbf9f54c71d)
 * -62, 45: [Chobury Adjacent ](https://governance.decentraland.org/proposal/?id=f1be9880-6055-11ed-bf97-7dbf9f54c71d)
-* -14, 76: [Racing Game](https://governance.decentraland.org/proposal/?id=76ba1a20-5f00-11ed-bd2d-2549553084d0)
 
 ## Grants
 
+* [Source for starting a career on decentraland](https://governance.decentraland.org/proposal/?id=07a6f1f0-64d0-11ed-bf97-7dbf9f54c71d) (Tier 1)
+* [Soul Magic Game Development Proposal](https://governance.decentraland.org/proposal/?id=44986990-6494-11ed-bf97-7dbf9f54c71d) (Tier 5)
 * [Continued Enhancement of Decentraland VR Clients](https://governance.decentraland.org/proposal/?id=b7a5bb60-5fd8-11ed-9e27-9944727da95a) (Tier 6)
 * [Grant Support Squad Renewal](https://governance.decentraland.org/proposal/?id=c5c2f9a0-5fa7-11ed-9e27-9944727da95a) (Tier 5)
 * [Tower Defence Creation Kit](https://governance.decentraland.org/proposal/?id=f92e37a0-5ee9-11ed-9128-d95e3b6d7912) (Tier 4)
 * [Support DCL Reporters and Improve Content Quality](https://governance.decentraland.org/proposal/?id=2d49ad30-5eb8-11ed-9128-d95e3b6d7912) (Tier 4)
 * [Sugar Club operation costs 2023](https://governance.decentraland.org/proposal/?id=31597b30-5c6a-11ed-9128-d95e3b6d7912) (Tier 4)
 * [Metaverzus Season funding](https://governance.decentraland.org/proposal/?id=5c5e2220-5bb3-11ed-9128-d95e3b6d7912) (Tier 4)
-* [Escape from Highland Garden](https://governance.decentraland.org/proposal/?id=6a806e60-599e-11ed-be45-c5d5549af004) (Tier 6)
-* [Decentraland’s MENA Community Outreach Plan (DEI)](https://governance.decentraland.org/proposal/?id=bea66a80-5926-11ed-be45-c5d5549af004) (Tier 4)
 
 ## Names Bans
 
@@ -191,7 +190,5 @@ Since October 16, 7 grants have been approved and the vesting contract(s) will b
 ## Polls
 
 * [Should a grant proposal be revoked if the grant requestor or their personnel listed, vote on their own grant proposal? (Updated version)](https://governance.decentraland.org/proposal/?id=c73ae920-63c4-11ed-bf97-7dbf9f54c71d)
-* [Creators Program (like tiktok /youtube/twitch)](https://governance.decentraland.org/proposal/?id=25984db0-6072-11ed-bf97-7dbf9f54c71d)
-* [Should the DAO implement a Bidding and Tendering process to allocate resources for voted projects?](https://governance.decentraland.org/proposal/?id=ce730570-6053-11ed-bf97-7dbf9f54c71d)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
