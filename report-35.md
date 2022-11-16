@@ -124,6 +124,8 @@ Since November 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
+* [Use A.I. to Create Scenes in Decentraland](https://governance.decentraland.org/proposal/?id=9271a080-652c-11ed-bf97-7dbf9f54c71d) (Tier 4)
+* [Vroomway Continuation - Race and Earn](https://governance.decentraland.org/proposal/?id=d68cbd60-6520-11ed-bf97-7dbf9f54c71d) (Tier 6)
 * [Source for starting a career on decentraland](https://governance.decentraland.org/proposal/?id=07a6f1f0-64d0-11ed-bf97-7dbf9f54c71d) (Tier 1)
 * [Soul Magic Game Development Proposal](https://governance.decentraland.org/proposal/?id=44986990-6494-11ed-bf97-7dbf9f54c71d) (Tier 5)
 * [Continued Enhancement of Decentraland VR Clients](https://governance.decentraland.org/proposal/?id=b7a5bb60-5fd8-11ed-9e27-9944727da95a) (Tier 6)
@@ -141,6 +143,7 @@ Since November 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Should comments below proposals be shufled around?](https://governance.decentraland.org/proposal/?id=363df270-654d-11ed-bf97-7dbf9f54c71d)
 * [Should a grant proposal be revoked if the grant requestor or their personnel listed, vote on their own grant proposal? (Updated version)](https://governance.decentraland.org/proposal/?id=c73ae920-63c4-11ed-bf97-7dbf9f54c71d)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
