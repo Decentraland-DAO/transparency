@@ -120,10 +120,10 @@ Since November 1, 3 grants have been approved and the vesting contract(s) will b
 ## Points of Interest
 
 * -54, 34: [CRNFT.ART](https://governance.decentraland.org/proposal/?id=5c8b7aa0-610c-11ed-bf97-7dbf9f54c71d)
-* -62, 45: [Chobury Adjacent ](https://governance.decentraland.org/proposal/?id=f1be9880-6055-11ed-bf97-7dbf9f54c71d)
 
 ## Grants
 
+* [Genesis city map, 6-month renewal](https://governance.decentraland.org/proposal/?id=9d6efbe0-65d1-11ed-bf97-7dbf9f54c71d) (Tier 4)
 * [Use A.I. to Create Scenes in Decentraland](https://governance.decentraland.org/proposal/?id=9271a080-652c-11ed-bf97-7dbf9f54c71d) (Tier 4)
 * [Vroomway Continuation - Race and Earn](https://governance.decentraland.org/proposal/?id=d68cbd60-6520-11ed-bf97-7dbf9f54c71d) (Tier 6)
 * [Source for starting a career on decentraland](https://governance.decentraland.org/proposal/?id=07a6f1f0-64d0-11ed-bf97-7dbf9f54c71d) (Tier 1)
@@ -143,6 +143,7 @@ Since November 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Should we temporarily pause DCL&#39;s grants programme until Q1 2023?](https://governance.decentraland.org/proposal/?id=c8aa85b0-65e8-11ed-bf97-7dbf9f54c71d)
 * [Should comments below proposals be shufled around?](https://governance.decentraland.org/proposal/?id=363df270-654d-11ed-bf97-7dbf9f54c71d)
 * [Should a grant proposal be revoked if the grant requestor or their personnel listed, vote on their own grant proposal? (Updated version)](https://governance.decentraland.org/proposal/?id=c73ae920-63c4-11ed-bf97-7dbf9f54c71d)
 
