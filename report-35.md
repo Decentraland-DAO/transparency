@@ -122,6 +122,7 @@ Since November 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
+* [Branding project for the Decentraland DAO](https://governance.decentraland.org/proposal/?id=a42d6770-675a-11ed-a8f3-85d147463e4c) (Tier 2)
 * [$12MM Treasury Diversification](https://governance.decentraland.org/proposal/?id=ef44b230-66d4-11ed-a8f3-85d147463e4c) (Tier 5)
 * [Duel Arena P2E; 2D Battle game](https://governance.decentraland.org/proposal/?id=36ce8bd0-66d0-11ed-a8f3-85d147463e4c) (Tier 4)
 * [Genesis city map, 6-month renewal](https://governance.decentraland.org/proposal/?id=9d6efbe0-65d1-11ed-bf97-7dbf9f54c71d) (Tier 4)
@@ -133,10 +134,10 @@ Since November 1, 3 grants have been approved and the vesting contract(s) will b
 * [Grant Support Squad Renewal](https://governance.decentraland.org/proposal/?id=c5c2f9a0-5fa7-11ed-9e27-9944727da95a) (Tier 5)
 * [Tower Defence Creation Kit](https://governance.decentraland.org/proposal/?id=f92e37a0-5ee9-11ed-9128-d95e3b6d7912) (Tier 4)
 * [Support DCL Reporters and Improve Content Quality](https://governance.decentraland.org/proposal/?id=2d49ad30-5eb8-11ed-9128-d95e3b6d7912) (Tier 4)
-* [Sugar Club operation costs 2023](https://governance.decentraland.org/proposal/?id=31597b30-5c6a-11ed-9128-d95e3b6d7912) (Tier 4)
 
 ## Names Bans
 
+* [Ban the name DCLDAO](https://governance.decentraland.org/proposal/?id=1a365eb0-67d1-11ed-a69f-9d162c5cc598)
 
 ## Catalysts
 
@@ -147,6 +148,5 @@ Since November 1, 3 grants have been approved and the vesting contract(s) will b
 * [Should decentraland have its own universal time but it&#39;s based on colours?](https://governance.decentraland.org/proposal/?id=23ee1710-667b-11ed-bf97-7dbf9f54c71d)
 * [Should we temporarily pause DCL&#39;s grants programme until Q1 2023?](https://governance.decentraland.org/proposal/?id=c8aa85b0-65e8-11ed-bf97-7dbf9f54c71d)
 * [Should comments below proposals be shufled around?](https://governance.decentraland.org/proposal/?id=363df270-654d-11ed-bf97-7dbf9f54c71d)
-* [Should a grant proposal be revoked if the grant requestor or their personnel listed, vote on their own grant proposal? (Updated version)](https://governance.decentraland.org/proposal/?id=c73ae920-63c4-11ed-bf97-7dbf9f54c71d)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
