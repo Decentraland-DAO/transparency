@@ -51,7 +51,8 @@ Since November 16, 1 grants have been approved and the vesting contract(s) will 
 
 ## Grants
 
-* [Please give me $101 - can this be the dumbest proposal ever accepted](https://governance.decentraland.org/proposal/?id=febab7d0-6852-11ed-a69f-9d162c5cc598) (Tier 1)
+* [Where are the fishes](https://governance.decentraland.org/proposal/?id=2a6eae70-6945-11ed-a69f-9d162c5cc598) (Tier 2)
+* [Build an app to create wearables for decentraland without technical skills](https://governance.decentraland.org/proposal/?id=1bdb1f10-68c3-11ed-a69f-9d162c5cc598) (Tier 5)
 * [Optimize MetaParty Events &amp; CyberStrife Distributed RPG](https://governance.decentraland.org/proposal/?id=8254b150-6834-11ed-a69f-9d162c5cc598) (Tier 4)
 * [Branding project for the Decentraland DAO](https://governance.decentraland.org/proposal/?id=a42d6770-675a-11ed-a8f3-85d147463e4c) (Tier 2)
 * [$12MM Treasury Diversification](https://governance.decentraland.org/proposal/?id=ef44b230-66d4-11ed-a8f3-85d147463e4c) (Tier 5)
@@ -78,6 +79,5 @@ Since November 16, 1 grants have been approved and the vesting contract(s) will 
 * [Should we reward customer aquisition via affiliate/influencer marketing?](https://governance.decentraland.org/proposal/?id=614c6460-66ba-11ed-a8f3-85d147463e4c)
 * [Should decentraland have its own universal time but it&#39;s based on colours?](https://governance.decentraland.org/proposal/?id=23ee1710-667b-11ed-bf97-7dbf9f54c71d)
 * [Should we temporarily pause DCL&#39;s grants programme until Q1 2023?](https://governance.decentraland.org/proposal/?id=c8aa85b0-65e8-11ed-bf97-7dbf9f54c71d)
-* [Should comments below proposals be shufled around?](https://governance.decentraland.org/proposal/?id=363df270-654d-11ed-bf97-7dbf9f54c71d)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
