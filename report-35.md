@@ -119,9 +119,15 @@ Since November 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* 100, 130: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=64465b50-69ab-11ed-a69f-9d162c5cc598)
 
 ## Grants
 
+* [Service for expeditious brands transfer to Decentraland](https://governance.decentraland.org/proposal/?id=79869460-6a34-11ed-a69f-9d162c5cc598) (Tier 4)
+* [Polkadot - Substrate integration and education - BUITL](https://governance.decentraland.org/proposal/?id=1c5a5390-69a7-11ed-a69f-9d162c5cc598) (Tier 4)
+* [E-SPORTS Injuries in the Web 3.0 Environment: physical and ethical concerns](https://governance.decentraland.org/proposal/?id=0ea387d0-69a2-11ed-a69f-9d162c5cc598) (Tier 4)
+* [Decentraland’s MENA Community Outreach Plan (Revised)](https://governance.decentraland.org/proposal/?id=1092e040-6998-11ed-a69f-9d162c5cc598) (Tier 4)
+* [Instaverse – build your metaverse presence instantly](https://governance.decentraland.org/proposal/?id=e039b690-698c-11ed-a69f-9d162c5cc598) (Tier 5)
 * [Where are the fishes](https://governance.decentraland.org/proposal/?id=2a6eae70-6945-11ed-a69f-9d162c5cc598) (Tier 2)
 * [Build an app to create wearables for decentraland without technical skills](https://governance.decentraland.org/proposal/?id=1bdb1f10-68c3-11ed-a69f-9d162c5cc598) (Tier 5)
 * [Optimize MetaParty Events &amp; CyberStrife Distributed RPG](https://governance.decentraland.org/proposal/?id=8254b150-6834-11ed-a69f-9d162c5cc598) (Tier 4)
@@ -131,12 +137,9 @@ Since November 1, 3 grants have been approved and the vesting contract(s) will b
 * [Genesis city map, 6-month renewal](https://governance.decentraland.org/proposal/?id=9d6efbe0-65d1-11ed-bf97-7dbf9f54c71d) (Tier 4)
 * [Use A.I. to Create Scenes in Decentraland](https://governance.decentraland.org/proposal/?id=9271a080-652c-11ed-bf97-7dbf9f54c71d) (Tier 4)
 * [Vroomway Continuation - Race and Earn](https://governance.decentraland.org/proposal/?id=d68cbd60-6520-11ed-bf97-7dbf9f54c71d) (Tier 6)
-* [Source for starting a career on decentraland](https://governance.decentraland.org/proposal/?id=07a6f1f0-64d0-11ed-bf97-7dbf9f54c71d) (Tier 1)
 * [Soul Magic Game Development Proposal](https://governance.decentraland.org/proposal/?id=44986990-6494-11ed-bf97-7dbf9f54c71d) (Tier 5)
 * [Continued Enhancement of Decentraland VR Clients](https://governance.decentraland.org/proposal/?id=b7a5bb60-5fd8-11ed-9e27-9944727da95a) (Tier 6)
 * [Grant Support Squad Renewal](https://governance.decentraland.org/proposal/?id=c5c2f9a0-5fa7-11ed-9e27-9944727da95a) (Tier 5)
-* [Tower Defence Creation Kit](https://governance.decentraland.org/proposal/?id=f92e37a0-5ee9-11ed-9128-d95e3b6d7912) (Tier 4)
-* [Support DCL Reporters and Improve Content Quality](https://governance.decentraland.org/proposal/?id=2d49ad30-5eb8-11ed-9128-d95e3b6d7912) (Tier 4)
 
 ## Names Bans
 
@@ -149,6 +152,5 @@ Since November 1, 3 grants have been approved and the vesting contract(s) will b
 
 * [Should we reward customer aquisition via affiliate/influencer marketing?](https://governance.decentraland.org/proposal/?id=614c6460-66ba-11ed-a8f3-85d147463e4c)
 * [Should decentraland have its own universal time but it&#39;s based on colours?](https://governance.decentraland.org/proposal/?id=23ee1710-667b-11ed-bf97-7dbf9f54c71d)
-* [Should we temporarily pause DCL&#39;s grants programme until Q1 2023?](https://governance.decentraland.org/proposal/?id=c8aa85b0-65e8-11ed-bf97-7dbf9f54c71d)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
