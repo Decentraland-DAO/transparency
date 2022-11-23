@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -32,7 +32,13 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since November 16, 2 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since November 16, 3 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Grant Support Squad Renewal](https://governance.decentraland.org/proposal/?id=c5c2f9a0-5fa7-11ed-9e27-9944727da95a) (Tier 5)
+
+* Yes 99.94138600360381% 12,066,831 VP (89 votes)
+* No 0.05861399639619583% 7,077 VP (4 votes)
 
 
 #### [Tower Defence Creation Kit](https://governance.decentraland.org/proposal/?id=f92e37a0-5ee9-11ed-9128-d95e3b6d7912) (Tier 4)
@@ -49,6 +55,13 @@ Since November 16, 2 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+#### [Should decentraland have its own universal time but it&#39;s based on colours?](https://governance.decentraland.org/proposal/?id=23ee1710-667b-11ed-bf97-7dbf9f54c71d)
+
+* Yes, interesting concept.  45.42638400291355% 860,646 VP (49 votes)
+* No, kinda dumb. 20.048136936917913% 379,831 VP (11 votes)
+* Invalid question/options 34.525479060168536% 654,118 VP (13 votes)
+
+
 #### [Should we temporarily pause DCL&#39;s grants programme until Q1 2023?](https://governance.decentraland.org/proposal/?id=c8aa85b0-65e8-11ed-bf97-7dbf9f54c71d)
 
 * Yes, we should pause the grants programme 79.52208526140737% 11,646,706 VP (87 votes)
@@ -61,6 +74,8 @@ Since November 16, 2 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
+* -83, 125: [No Name](https://governance.decentraland.org/proposal/?id=2e264570-6a88-11ed-a69f-9d162c5cc598)
+* -141, 71: [No Name](https://governance.decentraland.org/proposal/?id=68a64d70-6a84-11ed-a69f-9d162c5cc598)
 * 100, 130: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=64465b50-69ab-11ed-a69f-9d162c5cc598)
 
 ## Grants
@@ -80,8 +95,6 @@ Since November 16, 2 grants have been approved and the vesting contract(s) will 
 * [Use A.I. to Create Scenes in Decentraland](https://governance.decentraland.org/proposal/?id=9271a080-652c-11ed-bf97-7dbf9f54c71d) (Tier 4)
 * [Vroomway Continuation - Race and Earn](https://governance.decentraland.org/proposal/?id=d68cbd60-6520-11ed-bf97-7dbf9f54c71d) (Tier 6)
 * [Soul Magic Game Development Proposal](https://governance.decentraland.org/proposal/?id=44986990-6494-11ed-bf97-7dbf9f54c71d) (Tier 5)
-* [Continued Enhancement of Decentraland VR Clients](https://governance.decentraland.org/proposal/?id=b7a5bb60-5fd8-11ed-9e27-9944727da95a) (Tier 6)
-* [Grant Support Squad Renewal](https://governance.decentraland.org/proposal/?id=c5c2f9a0-5fa7-11ed-9e27-9944727da95a) (Tier 5)
 
 ## Names Bans
 
@@ -92,7 +105,6 @@ Since November 16, 2 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
-* [Should we reward customer aquisition via affiliate/influencer marketing?](https://governance.decentraland.org/proposal/?id=614c6460-66ba-11ed-a8f3-85d147463e4c)
-* [Should decentraland have its own universal time but it&#39;s based on colours?](https://governance.decentraland.org/proposal/?id=23ee1710-667b-11ed-bf97-7dbf9f54c71d)
+* [(Karen Act) Make Esteban Leader or give all high VP Whales a portion of the Revenue on top of DAO... here me out lol](https://governance.decentraland.org/proposal/?id=2b1e1940-6aae-11ed-a69f-9d162c5cc598)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

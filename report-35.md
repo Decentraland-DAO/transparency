@@ -119,6 +119,8 @@ Since November 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* -83, 125: [No Name](https://governance.decentraland.org/proposal/?id=2e264570-6a88-11ed-a69f-9d162c5cc598)
+* -141, 71: [No Name](https://governance.decentraland.org/proposal/?id=68a64d70-6a84-11ed-a69f-9d162c5cc598)
 * 100, 130: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=64465b50-69ab-11ed-a69f-9d162c5cc598)
 
 ## Grants
@@ -138,8 +140,6 @@ Since November 1, 3 grants have been approved and the vesting contract(s) will b
 * [Use A.I. to Create Scenes in Decentraland](https://governance.decentraland.org/proposal/?id=9271a080-652c-11ed-bf97-7dbf9f54c71d) (Tier 4)
 * [Vroomway Continuation - Race and Earn](https://governance.decentraland.org/proposal/?id=d68cbd60-6520-11ed-bf97-7dbf9f54c71d) (Tier 6)
 * [Soul Magic Game Development Proposal](https://governance.decentraland.org/proposal/?id=44986990-6494-11ed-bf97-7dbf9f54c71d) (Tier 5)
-* [Continued Enhancement of Decentraland VR Clients](https://governance.decentraland.org/proposal/?id=b7a5bb60-5fd8-11ed-9e27-9944727da95a) (Tier 6)
-* [Grant Support Squad Renewal](https://governance.decentraland.org/proposal/?id=c5c2f9a0-5fa7-11ed-9e27-9944727da95a) (Tier 5)
 
 ## Names Bans
 
@@ -150,7 +150,6 @@ Since November 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
-* [Should we reward customer aquisition via affiliate/influencer marketing?](https://governance.decentraland.org/proposal/?id=614c6460-66ba-11ed-a8f3-85d147463e4c)
-* [Should decentraland have its own universal time but it&#39;s based on colours?](https://governance.decentraland.org/proposal/?id=23ee1710-667b-11ed-bf97-7dbf9f54c71d)
+* [(Karen Act) Make Esteban Leader or give all high VP Whales a portion of the Revenue on top of DAO... here me out lol](https://governance.decentraland.org/proposal/?id=2b1e1940-6aae-11ed-a69f-9d162c5cc598)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
