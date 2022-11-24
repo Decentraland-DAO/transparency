@@ -105,6 +105,7 @@ Since November 16, 3 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Add more Emotes on to the wheel](https://governance.decentraland.org/proposal/?id=a440cc40-6b27-11ed-a69f-9d162c5cc598)
 * [(Karen Act) Make Esteban Leader or give all high VP Whales a portion of the Revenue on top of DAO... here me out lol](https://governance.decentraland.org/proposal/?id=2b1e1940-6aae-11ed-a69f-9d162c5cc598)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
