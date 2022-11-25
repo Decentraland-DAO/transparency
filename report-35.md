@@ -143,6 +143,7 @@ Since November 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Names Bans
 
+* [Ban the name dclfoundation](https://governance.decentraland.org/proposal/?id=18f68160-6c13-11ed-a69f-9d162c5cc598)
 * [Ban the name DCLDAO](https://governance.decentraland.org/proposal/?id=1a365eb0-67d1-11ed-a69f-9d162c5cc598)
 
 ## Catalysts
@@ -150,6 +151,8 @@ Since November 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [DCLPanel: let’s take events to a next level, 100% free, Open Source ( and also *HIRING*)](https://governance.decentraland.org/proposal/?id=ac4ef4b0-6c81-11ed-a69f-9d162c5cc598)
+* [Should Decentraland have a main Discord server which belongs to the community with no censorship ?](https://governance.decentraland.org/proposal/?id=73d37840-6c22-11ed-a69f-9d162c5cc598)
 * [Add more Emotes on to the wheel](https://governance.decentraland.org/proposal/?id=a440cc40-6b27-11ed-a69f-9d162c5cc598)
 * [(Karen Act) Make Esteban Leader or give all high VP Whales a portion of the Revenue on top of DAO... here me out lol](https://governance.decentraland.org/proposal/?id=2b1e1940-6aae-11ed-a69f-9d162c5cc598)
 
