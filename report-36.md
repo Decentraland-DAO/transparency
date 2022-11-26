@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -32,7 +32,13 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since November 16, 3 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since November 16, 4 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Branding project for the Decentraland DAO](https://governance.decentraland.org/proposal/?id=a42d6770-675a-11ed-a8f3-85d147463e4c) (Tier 2)
+
+* Yes 96.05000318055022% 1,947,847 VP (92 votes)
+* No 3.9499968194497797% 80,104 VP (4 votes)
 
 
 #### [Grant Support Squad Renewal](https://governance.decentraland.org/proposal/?id=c5c2f9a0-5fa7-11ed-9e27-9944727da95a) (Tier 5)
@@ -88,7 +94,6 @@ Since November 16, 3 grants have been approved and the vesting contract(s) will 
 * [Where are the fishes](https://governance.decentraland.org/proposal/?id=2a6eae70-6945-11ed-a69f-9d162c5cc598) (Tier 2)
 * [Build an app to create wearables for decentraland without technical skills](https://governance.decentraland.org/proposal/?id=1bdb1f10-68c3-11ed-a69f-9d162c5cc598) (Tier 5)
 * [Optimize MetaParty Events &amp; CyberStrife Distributed RPG](https://governance.decentraland.org/proposal/?id=8254b150-6834-11ed-a69f-9d162c5cc598) (Tier 4)
-* [Branding project for the Decentraland DAO](https://governance.decentraland.org/proposal/?id=a42d6770-675a-11ed-a8f3-85d147463e4c) (Tier 2)
 * [$12MM Treasury Diversification](https://governance.decentraland.org/proposal/?id=ef44b230-66d4-11ed-a8f3-85d147463e4c) (Tier 5)
 * [Duel Arena P2E; 2D Battle game](https://governance.decentraland.org/proposal/?id=36ce8bd0-66d0-11ed-a8f3-85d147463e4c) (Tier 4)
 * [Genesis city map, 6-month renewal](https://governance.decentraland.org/proposal/?id=9d6efbe0-65d1-11ed-bf97-7dbf9f54c71d) (Tier 4)
@@ -99,7 +104,6 @@ Since November 16, 3 grants have been approved and the vesting contract(s) will 
 ## Names Bans
 
 * [Ban the name dclfoundation](https://governance.decentraland.org/proposal/?id=18f68160-6c13-11ed-a69f-9d162c5cc598)
-* [Ban the name DCLDAO](https://governance.decentraland.org/proposal/?id=1a365eb0-67d1-11ed-a69f-9d162c5cc598)
 
 ## Catalysts
 

@@ -133,7 +133,6 @@ Since November 1, 3 grants have been approved and the vesting contract(s) will b
 * [Where are the fishes](https://governance.decentraland.org/proposal/?id=2a6eae70-6945-11ed-a69f-9d162c5cc598) (Tier 2)
 * [Build an app to create wearables for decentraland without technical skills](https://governance.decentraland.org/proposal/?id=1bdb1f10-68c3-11ed-a69f-9d162c5cc598) (Tier 5)
 * [Optimize MetaParty Events &amp; CyberStrife Distributed RPG](https://governance.decentraland.org/proposal/?id=8254b150-6834-11ed-a69f-9d162c5cc598) (Tier 4)
-* [Branding project for the Decentraland DAO](https://governance.decentraland.org/proposal/?id=a42d6770-675a-11ed-a8f3-85d147463e4c) (Tier 2)
 * [$12MM Treasury Diversification](https://governance.decentraland.org/proposal/?id=ef44b230-66d4-11ed-a8f3-85d147463e4c) (Tier 5)
 * [Duel Arena P2E; 2D Battle game](https://governance.decentraland.org/proposal/?id=36ce8bd0-66d0-11ed-a8f3-85d147463e4c) (Tier 4)
 * [Genesis city map, 6-month renewal](https://governance.decentraland.org/proposal/?id=9d6efbe0-65d1-11ed-bf97-7dbf9f54c71d) (Tier 4)
@@ -144,7 +143,6 @@ Since November 1, 3 grants have been approved and the vesting contract(s) will b
 ## Names Bans
 
 * [Ban the name dclfoundation](https://governance.decentraland.org/proposal/?id=18f68160-6c13-11ed-a69f-9d162c5cc598)
-* [Ban the name DCLDAO](https://governance.decentraland.org/proposal/?id=1a365eb0-67d1-11ed-a69f-9d162c5cc598)
 
 ## Catalysts
 
