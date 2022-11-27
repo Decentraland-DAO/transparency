@@ -86,6 +86,7 @@ Since November 16, 4 grants have been approved and the vesting contract(s) will 
 
 ## Grants
 
+* [75+ Decentraland Builds by MrDhingia](https://governance.decentraland.org/proposal/?id=5e9028d0-6d84-11ed-a69f-9d162c5cc598) (Tier 5)
 * [Service for expeditious brands transfer to Decentraland](https://governance.decentraland.org/proposal/?id=79869460-6a34-11ed-a69f-9d162c5cc598) (Tier 4)
 * [Polkadot - Substrate integration and education - BUITL](https://governance.decentraland.org/proposal/?id=1c5a5390-69a7-11ed-a69f-9d162c5cc598) (Tier 4)
 * [E-SPORTS Injuries in the Web 3.0 Environment: physical and ethical concerns](https://governance.decentraland.org/proposal/?id=0ea387d0-69a2-11ed-a69f-9d162c5cc598) (Tier 4)
