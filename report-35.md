@@ -131,7 +131,6 @@ Since November 1, 3 grants have been approved and the vesting contract(s) will b
 * [E-SPORTS Injuries in the Web 3.0 Environment: physical and ethical concerns](https://governance.decentraland.org/proposal/?id=0ea387d0-69a2-11ed-a69f-9d162c5cc598) (Tier 4)
 * [Decentraland’s MENA Community Outreach Plan (Revised)](https://governance.decentraland.org/proposal/?id=1092e040-6998-11ed-a69f-9d162c5cc598) (Tier 4)
 * [Instaverse – build your metaverse presence instantly](https://governance.decentraland.org/proposal/?id=e039b690-698c-11ed-a69f-9d162c5cc598) (Tier 5)
-* [Where are the fishes](https://governance.decentraland.org/proposal/?id=2a6eae70-6945-11ed-a69f-9d162c5cc598) (Tier 2)
 * [Build an app to create wearables for decentraland without technical skills](https://governance.decentraland.org/proposal/?id=1bdb1f10-68c3-11ed-a69f-9d162c5cc598) (Tier 5)
 * [Optimize MetaParty Events &amp; CyberStrife Distributed RPG](https://governance.decentraland.org/proposal/?id=8254b150-6834-11ed-a69f-9d162c5cc598) (Tier 4)
 * [$12MM Treasury Diversification](https://governance.decentraland.org/proposal/?id=ef44b230-66d4-11ed-a8f3-85d147463e4c) (Tier 5)
@@ -150,9 +149,9 @@ Since November 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Allow Feedback on Votes like Snapshot](https://governance.decentraland.org/proposal/?id=831ca630-6ecc-11ed-a69f-9d162c5cc598)
 * [DCLPanel: let’s take events to a next level, 100% free, Open Source ( and also *HIRING*)](https://governance.decentraland.org/proposal/?id=ac4ef4b0-6c81-11ed-a69f-9d162c5cc598)
 * [Should Decentraland have a main Discord server which belongs to the community with no censorship ?](https://governance.decentraland.org/proposal/?id=73d37840-6c22-11ed-a69f-9d162c5cc598)
 * [Add more Emotes on to the wheel](https://governance.decentraland.org/proposal/?id=a440cc40-6b27-11ed-a69f-9d162c5cc598)
-* [(Karen Act) Make Esteban Leader or give all high VP Whales a portion of the Revenue on top of DAO... here me out lol](https://governance.decentraland.org/proposal/?id=2b1e1940-6aae-11ed-a69f-9d162c5cc598)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
