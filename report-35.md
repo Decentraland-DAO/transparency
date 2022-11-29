@@ -121,11 +121,10 @@ Since November 1, 3 grants have been approved and the vesting contract(s) will b
 
 * -83, 125: [No Name](https://governance.decentraland.org/proposal/?id=2e264570-6a88-11ed-a69f-9d162c5cc598)
 * -141, 71: [No Name](https://governance.decentraland.org/proposal/?id=68a64d70-6a84-11ed-a69f-9d162c5cc598)
-* 100, 130: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=64465b50-69ab-11ed-a69f-9d162c5cc598)
 
 ## Grants
 
-* [75+ Decentraland Builds by MrDhingia](https://governance.decentraland.org/proposal/?id=5e9028d0-6d84-11ed-a69f-9d162c5cc598) (Tier 5)
+* [Hype Squad | The First Polish DAO Community](https://governance.decentraland.org/proposal/?id=df610bc0-6f1c-11ed-a69f-9d162c5cc598) (Tier 4)
 * [Service for expeditious brands transfer to Decentraland](https://governance.decentraland.org/proposal/?id=79869460-6a34-11ed-a69f-9d162c5cc598) (Tier 4)
 * [Polkadot - Substrate integration and education - BUITL](https://governance.decentraland.org/proposal/?id=1c5a5390-69a7-11ed-a69f-9d162c5cc598) (Tier 4)
 * [E-SPORTS Injuries in the Web 3.0 Environment: physical and ethical concerns](https://governance.decentraland.org/proposal/?id=0ea387d0-69a2-11ed-a69f-9d162c5cc598) (Tier 4)
@@ -138,7 +137,6 @@ Since November 1, 3 grants have been approved and the vesting contract(s) will b
 * [Genesis city map, 6-month renewal](https://governance.decentraland.org/proposal/?id=9d6efbe0-65d1-11ed-bf97-7dbf9f54c71d) (Tier 4)
 * [Use A.I. to Create Scenes in Decentraland](https://governance.decentraland.org/proposal/?id=9271a080-652c-11ed-bf97-7dbf9f54c71d) (Tier 4)
 * [Vroomway Continuation - Race and Earn](https://governance.decentraland.org/proposal/?id=d68cbd60-6520-11ed-bf97-7dbf9f54c71d) (Tier 6)
-* [Soul Magic Game Development Proposal](https://governance.decentraland.org/proposal/?id=44986990-6494-11ed-bf97-7dbf9f54c71d) (Tier 5)
 
 ## Names Bans
 
@@ -149,9 +147,11 @@ Since November 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Allow Previous Voters to give 1-5 star ratings on previous grants they voted](https://governance.decentraland.org/proposal/?id=3df43390-6f7e-11ed-a69f-9d162c5cc598)
+* [Should we denominate the fee to mint a NAME in USD?](https://governance.decentraland.org/proposal/?id=2ad02720-6f1e-11ed-a69f-9d162c5cc598)
+* [Should we stop burning MANA when a NAME is minted?](https://governance.decentraland.org/proposal/?id=1a067940-6f1d-11ed-a69f-9d162c5cc598)
 * [Allow Feedback on Votes like Snapshot](https://governance.decentraland.org/proposal/?id=831ca630-6ecc-11ed-a69f-9d162c5cc598)
 * [DCLPanel: let’s take events to a next level, 100% free, Open Source ( and also *HIRING*)](https://governance.decentraland.org/proposal/?id=ac4ef4b0-6c81-11ed-a69f-9d162c5cc598)
 * [Should Decentraland have a main Discord server which belongs to the community with no censorship ?](https://governance.decentraland.org/proposal/?id=73d37840-6c22-11ed-a69f-9d162c5cc598)
-* [Add more Emotes on to the wheel](https://governance.decentraland.org/proposal/?id=a440cc40-6b27-11ed-a69f-9d162c5cc598)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
