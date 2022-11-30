@@ -119,8 +119,6 @@ Since November 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
-* -83, 125: [No Name](https://governance.decentraland.org/proposal/?id=2e264570-6a88-11ed-a69f-9d162c5cc598)
-* -141, 71: [No Name](https://governance.decentraland.org/proposal/?id=68a64d70-6a84-11ed-a69f-9d162c5cc598)
 
 ## Grants
 
@@ -135,8 +133,6 @@ Since November 1, 3 grants have been approved and the vesting contract(s) will b
 * [$12MM Treasury Diversification](https://governance.decentraland.org/proposal/?id=ef44b230-66d4-11ed-a8f3-85d147463e4c) (Tier 5)
 * [Duel Arena P2E; 2D Battle game](https://governance.decentraland.org/proposal/?id=36ce8bd0-66d0-11ed-a8f3-85d147463e4c) (Tier 4)
 * [Genesis city map, 6-month renewal](https://governance.decentraland.org/proposal/?id=9d6efbe0-65d1-11ed-bf97-7dbf9f54c71d) (Tier 4)
-* [Use A.I. to Create Scenes in Decentraland](https://governance.decentraland.org/proposal/?id=9271a080-652c-11ed-bf97-7dbf9f54c71d) (Tier 4)
-* [Vroomway Continuation - Race and Earn](https://governance.decentraland.org/proposal/?id=d68cbd60-6520-11ed-bf97-7dbf9f54c71d) (Tier 6)
 
 ## Names Bans
 
@@ -151,7 +147,5 @@ Since November 1, 3 grants have been approved and the vesting contract(s) will b
 * [Should we denominate the fee to mint a NAME in USD?](https://governance.decentraland.org/proposal/?id=2ad02720-6f1e-11ed-a69f-9d162c5cc598)
 * [Should we stop burning MANA when a NAME is minted?](https://governance.decentraland.org/proposal/?id=1a067940-6f1d-11ed-a69f-9d162c5cc598)
 * [Allow Feedback on Votes like Snapshot](https://governance.decentraland.org/proposal/?id=831ca630-6ecc-11ed-a69f-9d162c5cc598)
-* [DCLPanel: let’s take events to a next level, 100% free, Open Source ( and also *HIRING*)](https://governance.decentraland.org/proposal/?id=ac4ef4b0-6c81-11ed-a69f-9d162c5cc598)
-* [Should Decentraland have a main Discord server which belongs to the community with no censorship ?](https://governance.decentraland.org/proposal/?id=73d37840-6c22-11ed-a69f-9d162c5cc598)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

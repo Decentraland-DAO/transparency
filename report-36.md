@@ -9,12 +9,24 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
+In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-2 points of interest have been added to Decentraland’s map since the last report.
+4 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -83, 125: [No Name](https://governance.decentraland.org/proposal/?id=2e264570-6a88-11ed-a69f-9d162c5cc598)
+
+* Yes 64.74104645890557% 960,952 VP (52 votes)
+* No 35.25895354109443% 523,349 VP (10 votes)
+
+
+#### -141, 71: [No Name](https://governance.decentraland.org/proposal/?id=68a64d70-6a84-11ed-a69f-9d162c5cc598)
+
+* Yes 71.09287587318181% 987,399 VP (53 votes)
+* No 28.907124126818186% 401,487 VP (10 votes)
 
 
 #### 100, 130: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=64465b50-69ab-11ed-a69f-9d162c5cc598)
@@ -38,13 +50,19 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since November 16, 4 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since November 16, 5 grants have been approved and the vesting contract(s) will be established within 7-10 days.
 
 
 #### [Branding project for the Decentraland DAO](https://governance.decentraland.org/proposal/?id=a42d6770-675a-11ed-a8f3-85d147463e4c) (Tier 2)
 
 * Yes 96.05000318055022% 1,947,847 VP (92 votes)
 * No 3.9499968194497797% 80,104 VP (4 votes)
+
+
+#### [Use A.I. to Create Scenes in Decentraland](https://governance.decentraland.org/proposal/?id=9271a080-652c-11ed-bf97-7dbf9f54c71d) (Tier 4)
+
+* Yes 86.34164086338826% 3,375,150 VP (97 votes)
+* No 13.65835913661173% 533,914 VP (8 votes)
 
 
 #### [Grant Support Squad Renewal](https://governance.decentraland.org/proposal/?id=c5c2f9a0-5fa7-11ed-9e27-9944727da95a) (Tier 5)
@@ -66,6 +84,13 @@ Since November 16, 4 grants have been approved and the vesting contract(s) will 
 
 
 ## Polls
+
+#### [DCLPanel: let’s take events to a next level, 100% free, Open Source ( and also *HIRING*)](https://governance.decentraland.org/proposal/?id=ac4ef4b0-6c81-11ed-a69f-9d162c5cc598)
+
+* Cool idea, I support it 😎 50.633773731271404% 664,466 VP (48 votes)
+* This is crap 😂 0% 0 VP (0 votes)
+* Invalid question/options 49.366226268728596% 647,832 VP (23 votes)
+
 
 #### [Add more Emotes on to the wheel](https://governance.decentraland.org/proposal/?id=a440cc40-6b27-11ed-a69f-9d162c5cc598)
 
@@ -93,8 +118,6 @@ Since November 16, 4 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
-* -83, 125: [No Name](https://governance.decentraland.org/proposal/?id=2e264570-6a88-11ed-a69f-9d162c5cc598)
-* -141, 71: [No Name](https://governance.decentraland.org/proposal/?id=68a64d70-6a84-11ed-a69f-9d162c5cc598)
 
 ## Grants
 
@@ -109,8 +132,6 @@ Since November 16, 4 grants have been approved and the vesting contract(s) will 
 * [$12MM Treasury Diversification](https://governance.decentraland.org/proposal/?id=ef44b230-66d4-11ed-a8f3-85d147463e4c) (Tier 5)
 * [Duel Arena P2E; 2D Battle game](https://governance.decentraland.org/proposal/?id=36ce8bd0-66d0-11ed-a8f3-85d147463e4c) (Tier 4)
 * [Genesis city map, 6-month renewal](https://governance.decentraland.org/proposal/?id=9d6efbe0-65d1-11ed-bf97-7dbf9f54c71d) (Tier 4)
-* [Use A.I. to Create Scenes in Decentraland](https://governance.decentraland.org/proposal/?id=9271a080-652c-11ed-bf97-7dbf9f54c71d) (Tier 4)
-* [Vroomway Continuation - Race and Earn](https://governance.decentraland.org/proposal/?id=d68cbd60-6520-11ed-bf97-7dbf9f54c71d) (Tier 6)
 
 ## Names Bans
 
@@ -125,7 +146,5 @@ Since November 16, 4 grants have been approved and the vesting contract(s) will 
 * [Should we denominate the fee to mint a NAME in USD?](https://governance.decentraland.org/proposal/?id=2ad02720-6f1e-11ed-a69f-9d162c5cc598)
 * [Should we stop burning MANA when a NAME is minted?](https://governance.decentraland.org/proposal/?id=1a067940-6f1d-11ed-a69f-9d162c5cc598)
 * [Allow Feedback on Votes like Snapshot](https://governance.decentraland.org/proposal/?id=831ca630-6ecc-11ed-a69f-9d162c5cc598)
-* [DCLPanel: let’s take events to a next level, 100% free, Open Source ( and also *HIRING*)](https://governance.decentraland.org/proposal/?id=ac4ef4b0-6c81-11ed-a69f-9d162c5cc598)
-* [Should Decentraland have a main Discord server which belongs to the community with no censorship ?](https://governance.decentraland.org/proposal/?id=73d37840-6c22-11ed-a69f-9d162c5cc598)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
