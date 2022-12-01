@@ -24,7 +24,7 @@ async function main() {
   const votes = await fetchGraphQL<Vote>(
     url, 'votes', where, 'created',
     'voter created choice proposal { id title choices scores_total } vp vp_by_strategy',
-    20000
+    1000
   )
 
   const votesParsed: VotesParsed[] = votes.map(vote => {
