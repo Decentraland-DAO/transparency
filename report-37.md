@@ -36,9 +36,12 @@ Since December 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* 142, -146: [VoxBoards HQ](https://governance.decentraland.org/proposal/?id=cdb9eba0-718b-11ed-beaf-a14520403f7b)
 
 ## Grants
 
+* [An Education Platform to Link Real-life Value to Metaverse Experiences](https://governance.decentraland.org/proposal/?id=30ddb960-7190-11ed-beaf-a14520403f7b) (Tier 6)
+* [[Updated] Soul Magic Game Development Proposal](https://governance.decentraland.org/proposal/?id=ee288400-716d-11ed-beaf-a14520403f7b) (Tier 4)
 * [35+ Opensource Scenes and Assets for the Community by MrDhingia (Revised)](https://governance.decentraland.org/proposal/?id=7ad38d60-70f0-11ed-beaf-a14520403f7b) (Tier 4)
 * [Hype Squad | The First Polish DAO Community](https://governance.decentraland.org/proposal/?id=df610bc0-6f1c-11ed-a69f-9d162c5cc598) (Tier 4)
 * [Service for expeditious brands transfer to Decentraland](https://governance.decentraland.org/proposal/?id=79869460-6a34-11ed-a69f-9d162c5cc598) (Tier 4)
@@ -53,7 +56,6 @@ Since December 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Names Bans
 
-* [Ban the name dclfoundation](https://governance.decentraland.org/proposal/?id=18f68160-6c13-11ed-a69f-9d162c5cc598)
 
 ## Catalysts
 
