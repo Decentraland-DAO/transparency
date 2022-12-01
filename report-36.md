@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
+In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 6 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -50,13 +50,19 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since November 16, 5 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since November 16, 6 grants have been approved and the vesting contract(s) will be established within 7-10 days.
 
 
 #### [Branding project for the Decentraland DAO](https://governance.decentraland.org/proposal/?id=a42d6770-675a-11ed-a8f3-85d147463e4c) (Tier 2)
 
 * Yes 96.05000318055022% 1,947,847 VP (92 votes)
 * No 3.9499968194497797% 80,104 VP (4 votes)
+
+
+#### [Genesis city map, 6-month renewal](https://governance.decentraland.org/proposal/?id=9d6efbe0-65d1-11ed-bf97-7dbf9f54c71d) (Tier 4)
+
+* Yes 96.72969036325821% 3,159,774 VP (85 votes)
+* No 3.2703096367417888% 106,828 VP (3 votes)
 
 
 #### [Use A.I. to Create Scenes in Decentraland](https://governance.decentraland.org/proposal/?id=9271a080-652c-11ed-bf97-7dbf9f54c71d) (Tier 4)
@@ -121,6 +127,7 @@ Since November 16, 5 grants have been approved and the vesting contract(s) will 
 
 ## Grants
 
+* [35+ Opensource Scenes and Assets for the Community by MrDhingia (Revised)](https://governance.decentraland.org/proposal/?id=7ad38d60-70f0-11ed-beaf-a14520403f7b) (Tier 4)
 * [Hype Squad | The First Polish DAO Community](https://governance.decentraland.org/proposal/?id=df610bc0-6f1c-11ed-a69f-9d162c5cc598) (Tier 4)
 * [Service for expeditious brands transfer to Decentraland](https://governance.decentraland.org/proposal/?id=79869460-6a34-11ed-a69f-9d162c5cc598) (Tier 4)
 * [Polkadot - Substrate integration and education - BUITL](https://governance.decentraland.org/proposal/?id=1c5a5390-69a7-11ed-a69f-9d162c5cc598) (Tier 4)
@@ -131,7 +138,6 @@ Since November 16, 5 grants have been approved and the vesting contract(s) will 
 * [Optimize MetaParty Events &amp; CyberStrife Distributed RPG](https://governance.decentraland.org/proposal/?id=8254b150-6834-11ed-a69f-9d162c5cc598) (Tier 4)
 * [$12MM Treasury Diversification](https://governance.decentraland.org/proposal/?id=ef44b230-66d4-11ed-a8f3-85d147463e4c) (Tier 5)
 * [Duel Arena P2E; 2D Battle game](https://governance.decentraland.org/proposal/?id=36ce8bd0-66d0-11ed-a8f3-85d147463e4c) (Tier 4)
-* [Genesis city map, 6-month renewal](https://governance.decentraland.org/proposal/?id=9d6efbe0-65d1-11ed-bf97-7dbf9f54c71d) (Tier 4)
 
 ## Names Bans
 
