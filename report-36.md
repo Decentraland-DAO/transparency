@@ -139,8 +139,6 @@ Since November 16, 6 grants have been approved and the vesting contract(s) will 
 * [Instaverse – build your metaverse presence instantly](https://governance.decentraland.org/proposal/?id=e039b690-698c-11ed-a69f-9d162c5cc598) (Tier 5)
 * [Build an app to create wearables for decentraland without technical skills](https://governance.decentraland.org/proposal/?id=1bdb1f10-68c3-11ed-a69f-9d162c5cc598) (Tier 5)
 * [Optimize MetaParty Events &amp; CyberStrife Distributed RPG](https://governance.decentraland.org/proposal/?id=8254b150-6834-11ed-a69f-9d162c5cc598) (Tier 4)
-* [$12MM Treasury Diversification](https://governance.decentraland.org/proposal/?id=ef44b230-66d4-11ed-a8f3-85d147463e4c) (Tier 5)
-* [Duel Arena P2E; 2D Battle game](https://governance.decentraland.org/proposal/?id=36ce8bd0-66d0-11ed-a8f3-85d147463e4c) (Tier 4)
 
 ## Names Bans
 
