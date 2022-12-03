@@ -36,6 +36,7 @@ Since December 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* 52, 26: [No Name](https://governance.decentraland.org/proposal/?id=edc878e0-724d-11ed-a9bf-f772a12a0556)
 * 142, -146: [VoxBoards HQ](https://governance.decentraland.org/proposal/?id=cdb9eba0-718b-11ed-beaf-a14520403f7b)
 
 ## Grants
@@ -63,6 +64,5 @@ Since December 1, 0 grants have been approved and the vesting contract(s) will b
 * [Allow Previous Voters to give 1-5 star ratings on previous grants they voted](https://governance.decentraland.org/proposal/?id=3df43390-6f7e-11ed-a69f-9d162c5cc598)
 * [Should we denominate the fee to mint a NAME in USD?](https://governance.decentraland.org/proposal/?id=2ad02720-6f1e-11ed-a69f-9d162c5cc598)
 * [Should we stop burning MANA when a NAME is minted?](https://governance.decentraland.org/proposal/?id=1a067940-6f1d-11ed-a69f-9d162c5cc598)
-* [Allow Feedback on Votes like Snapshot](https://governance.decentraland.org/proposal/?id=831ca630-6ecc-11ed-a69f-9d162c5cc598)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
