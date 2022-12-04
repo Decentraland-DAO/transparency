@@ -129,6 +129,7 @@ Since November 16, 6 grants have been approved and the vesting contract(s) will 
 
 ## Grants
 
+* [Cromuland P2E Game Development](https://governance.decentraland.org/proposal/?id=1a5df940-7369-11ed-a9bf-f772a12a0556) (Tier 5)
 * [An Education Platform to Link Real-life Value to Metaverse Experiences](https://governance.decentraland.org/proposal/?id=30ddb960-7190-11ed-beaf-a14520403f7b) (Tier 6)
 * [[Updated] Soul Magic Game Development Proposal](https://governance.decentraland.org/proposal/?id=ee288400-716d-11ed-beaf-a14520403f7b) (Tier 4)
 * [35+ Opensource Scenes and Assets for the Community by MrDhingia (Revised)](https://governance.decentraland.org/proposal/?id=7ad38d60-70f0-11ed-beaf-a14520403f7b) (Tier 4)
@@ -139,7 +140,6 @@ Since November 16, 6 grants have been approved and the vesting contract(s) will 
 * [Decentraland’s MENA Community Outreach Plan (Revised)](https://governance.decentraland.org/proposal/?id=1092e040-6998-11ed-a69f-9d162c5cc598) (Tier 4)
 * [Instaverse – build your metaverse presence instantly](https://governance.decentraland.org/proposal/?id=e039b690-698c-11ed-a69f-9d162c5cc598) (Tier 5)
 * [Build an app to create wearables for decentraland without technical skills](https://governance.decentraland.org/proposal/?id=1bdb1f10-68c3-11ed-a69f-9d162c5cc598) (Tier 5)
-* [Optimize MetaParty Events &amp; CyberStrife Distributed RPG](https://governance.decentraland.org/proposal/?id=8254b150-6834-11ed-a69f-9d162c5cc598) (Tier 4)
 
 ## Names Bans
 
@@ -149,8 +149,5 @@ Since November 16, 6 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
-* [Allow Previous Voters to give 1-5 star ratings on previous grants they voted](https://governance.decentraland.org/proposal/?id=3df43390-6f7e-11ed-a69f-9d162c5cc598)
-* [Should we denominate the fee to mint a NAME in USD?](https://governance.decentraland.org/proposal/?id=2ad02720-6f1e-11ed-a69f-9d162c5cc598)
-* [Should we stop burning MANA when a NAME is minted?](https://governance.decentraland.org/proposal/?id=1a067940-6f1d-11ed-a69f-9d162c5cc598)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
