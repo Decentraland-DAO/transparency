@@ -99,6 +99,7 @@ Since December 1, 4 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Delegate the Reference Client roadmap to the Decentraland Foundation](https://governance.decentraland.org/proposal/?id=2c061ab0-75a3-11ed-bc92-ef497b387215)
 * [Should DAO create basic rules for future and current  clients that use DCL protocol ?](https://governance.decentraland.org/proposal/?id=8d1064e0-74c3-11ed-a9bf-f772a12a0556)
 * [Restricting DAO Grant Money to active NFT projects](https://governance.decentraland.org/proposal/?id=fa8ea3e0-7493-11ed-a9bf-f772a12a0556)
 * [Community Social Media Manager](https://governance.decentraland.org/proposal/?id=13dfafe0-7491-11ed-a9bf-f772a12a0556)
