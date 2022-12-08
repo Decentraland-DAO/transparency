@@ -74,6 +74,7 @@ Since December 1, 4 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* -14, 30: [No Name](https://governance.decentraland.org/proposal/?id=8b100a70-7657-11ed-bc92-ef497b387215)
 * -116, -19: [Metayachts](https://governance.decentraland.org/proposal/?id=af7d1b00-7454-11ed-a9bf-f772a12a0556)
 * -23, 69: [Rare Pepe Gallery](https://governance.decentraland.org/proposal/?id=1aaabe00-744b-11ed-a9bf-f772a12a0556)
 * -143, -125: [No Name](https://governance.decentraland.org/proposal/?id=972fd650-744a-11ed-a9bf-f772a12a0556)
@@ -82,6 +83,9 @@ Since December 1, 4 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
+* [Building Metaverse Vogue aka Abstract Stylist](https://governance.decentraland.org/proposal/?id=bf022800-76d3-11ed-bc92-ef497b387215) (Tier 4)
+* [Decentraland DAO Facilitation Squad Grant Proposal [RENEWAL]](https://governance.decentraland.org/proposal/?id=89a33730-765b-11ed-bc92-ef497b387215) (Tier 5)
+* [FIRST METAVERSE ARCHITECTURE &amp; DESIGN BIENNALE](https://governance.decentraland.org/proposal/?id=71a6d070-7637-11ed-bc92-ef497b387215) (Tier 4)
 * [Vroomway Continuation - Revised](https://governance.decentraland.org/proposal/?id=29b3a3a0-74fd-11ed-a9bf-f772a12a0556) (Tier 5)
 * [Governance Squad 1H2023 Renewal](https://governance.decentraland.org/proposal/?id=4772fdb0-74e3-11ed-a9bf-f772a12a0556) (Tier 6)
 * [Duel Arena P2E; 2D Battle game](https://governance.decentraland.org/proposal/?id=aeef5550-74d5-11ed-a9bf-f772a12a0556) (Tier 4)
@@ -99,8 +103,8 @@ Since December 1, 4 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Should The Previously Passed Proposal Topics Be Banned From Resurfacing As Another Proposal](https://governance.decentraland.org/proposal/?id=4fdd57a0-7684-11ed-bc92-ef497b387215)
 * [Delegate the Reference Client roadmap to the Decentraland Foundation](https://governance.decentraland.org/proposal/?id=2c061ab0-75a3-11ed-bc92-ef497b387215)
-* [Should DAO create basic rules for future and current  clients that use DCL protocol ?](https://governance.decentraland.org/proposal/?id=8d1064e0-74c3-11ed-a9bf-f772a12a0556)
 * [Restricting DAO Grant Money to active NFT projects](https://governance.decentraland.org/proposal/?id=fa8ea3e0-7493-11ed-a9bf-f772a12a0556)
 * [Community Social Media Manager](https://governance.decentraland.org/proposal/?id=13dfafe0-7491-11ed-a9bf-f772a12a0556)
 * [Can DCL DAO ask DG DAO for $1Million back?](https://governance.decentraland.org/proposal/?id=b7638260-7449-11ed-a9bf-f772a12a0556)
