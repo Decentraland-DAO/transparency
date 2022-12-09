@@ -124,12 +124,12 @@ Since November 16, 6 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
+* 1, 5: [Genesis Plaza](https://governance.decentraland.org/proposal/?id=e92e8db0-7798-11ed-bc92-ef497b387215)
 * -14, 30: [No Name](https://governance.decentraland.org/proposal/?id=8b100a70-7657-11ed-bc92-ef497b387215)
 * -116, -19: [Metayachts](https://governance.decentraland.org/proposal/?id=af7d1b00-7454-11ed-a9bf-f772a12a0556)
 * -23, 69: [Rare Pepe Gallery](https://governance.decentraland.org/proposal/?id=1aaabe00-744b-11ed-a9bf-f772a12a0556)
 * -143, -125: [No Name](https://governance.decentraland.org/proposal/?id=972fd650-744a-11ed-a9bf-f772a12a0556)
 * 52, 26: [No Name](https://governance.decentraland.org/proposal/?id=edc878e0-724d-11ed-a9bf-f772a12a0556)
-* 142, -146: [VoxBoards HQ](https://governance.decentraland.org/proposal/?id=cdb9eba0-718b-11ed-beaf-a14520403f7b)
 
 ## Grants
 
@@ -153,6 +153,8 @@ Since November 16, 6 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Verification Badges for Proposals](https://governance.decentraland.org/proposal/?id=876e2ee0-7744-11ed-bc92-ef497b387215)
+* [Removing confusion from the DAO proposals](https://governance.decentraland.org/proposal/?id=7072f360-773f-11ed-bc92-ef497b387215)
 * [Should The Previously Passed Proposal Topics Be Banned From Resurfacing As Another Proposal](https://governance.decentraland.org/proposal/?id=4fdd57a0-7684-11ed-bc92-ef497b387215)
 * [Delegate the Reference Client roadmap to the Decentraland Foundation](https://governance.decentraland.org/proposal/?id=2c061ab0-75a3-11ed-bc92-ef497b387215)
 * [Restricting DAO Grant Money to active NFT projects](https://governance.decentraland.org/proposal/?id=fa8ea3e0-7493-11ed-a9bf-f772a12a0556)
