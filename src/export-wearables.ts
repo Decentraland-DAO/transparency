@@ -14,7 +14,6 @@ async function main() {
     const networkWearables = await fetchGraphQLCondition<WearableParsed>(
       url, 'items', 'createdAt', 'id',
       'id creator itemType totalSupply maxSupply rarity creationFee available price beneficiary URI image createdAt updatedAt reviewedAt soldAt sales volume metadata { wearable { name description category collection } }',
-      1000
     )
 
     for (const w of networkWearables) {

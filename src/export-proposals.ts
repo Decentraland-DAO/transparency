@@ -1,14 +1,12 @@
 import { GovernanceProposal, SnapshotSpace, Symbol } from './interfaces/GovernanceProposal'
 import { Proposal, ProposalParsed, ProposalVotes } from './interfaces/Proposal'
-import { fetchGraphQL, fetchURL, governanceUrl, saveToCSV, saveToJSON, snapshotUrl } from './utils'
+import { fetchGraphQLCondition, fetchURL, governanceUrl, saveToCSV, saveToJSON, snapshotUrl } from './utils'
 
 async function main() {
   // Fetch Snapshot Proposals
   const url = snapshotUrl()
   const where = `space_in: ["${SnapshotSpace.DCL}"]`
-  const proposals = await fetchGraphQL<Proposal>(url, 'proposals', where, 'created',
-    'id scores_total strategies { params } scores_by_strategy votes', 1000
-  )
+  const proposals = await fetchGraphQLCondition<Proposal>(url, 'proposals', 'created', 'id', 'id scores_total strategies { params } scores_by_strategy votes created', where)
 
   const proposalVotes: ProposalVotes = {}
   proposals.forEach(p => proposalVotes[p.id] = p)

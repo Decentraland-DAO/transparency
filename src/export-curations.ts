@@ -19,8 +19,7 @@ async function main() {
     'curations',
     'timestamp',
     'txHash',
-    'id txHash curator { address } collection { id name itemsCount isApproved } isApproved timestamp',
-    1000
+    'id txHash curator { address } collection { id name itemsCount isApproved } isApproved timestamp'
   )
 
   const curationsParsed: CurationParsed[] = curations.map((c) => {
