@@ -108,6 +108,7 @@ export async function fetchCovalentURL<T>(url: string, pageSize = 10000) {
       if (retries > 0) {
         retries--
         console.log(`Retrying ${url}`)
+        await delay(2000)
         continue
       }
       throw Error(`Failed to fetch ${url} - message: ${response.error_message} - code: ${response.error_code}`)
