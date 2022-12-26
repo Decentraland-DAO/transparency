@@ -108,6 +108,7 @@ export async function fetchCovalentURL<T>(url: string, pageSize = 10000) {
       if (retries > 0) {
         retries--
         console.log(`Retrying ${url}`)
+        await delay(2000)
         continue
       }
       throw Error(`Failed to fetch ${url} - message: ${response.error_message} - code: ${response.error_code}`)
@@ -121,43 +122,6 @@ export async function fetchCovalentURL<T>(url: string, pageSize = 10000) {
   return result
 }
 
-export async function fetchGraphQL<T>(url: string, collection: string, where: string, orderBy: string, fields: string, first?: number): Promise<T[]> {
-  let hasNext = true
-  first = first || 1000
-  let skip = 0
-  const query = `
-  query get($first: Int!, $skip: Int!) {
-    ${collection} (first: $first, skip: $skip, where: { ${where} }, orderBy: "${orderBy}", orderDirection: desc) {
-      ${fields}
-    }
-  }
-  `
-
-  const elements: T[] = []
-  while (hasNext) {
-    const json = await fetchURL(url, {
-      headers: { 'content-type': 'application/json' },
-      body: JSON.stringify({ 'query': query, 'variables': { first, skip } }),
-      method: 'POST'
-    }, 5)
-
-    if (json.errors) {
-      throw Error('GraphQL Fetch Error ' + JSON.stringify(json.errors))
-    }
-
-    const currentElements = (json?.data?.[collection] || []) as T[]
-    elements.push(...currentElements)
-
-    if (currentElements.length < first) {
-      hasNext = false
-    } else {
-      skip = elements.length
-    }
-  }
-
-  return elements
-}
-
 function removeDuplicates<T>(data: T[], dataKey: string) {
   const dataMap: Record<string, T> = {}
   for (const item of data) {
@@ -167,14 +131,13 @@ function removeDuplicates<T>(data: T[], dataKey: string) {
   return Object.values(dataMap)
 }
 
-export async function fetchGraphQLCondition<T>(url: string, collection: string, fieldNameCondition: string, dataKey: string, fields: string, first?: number): Promise<T[]> {
+export async function fetchGraphQLCondition<T>(url: string, collection: string, fieldNameCondition: string, dataKey: string, fields: string, where?: string): Promise<T[]> {
   let hasNext = true
-  first = first || 1000
-  let skip = 0
   let lastField = 0
+  const FIRST = 1000
   const query = `
-    query get($first: Int!, $skip: Int!, $lastField: Int!) {
-      ${collection} (first: $first, where: { ${fieldNameCondition}_gt: $lastField }, orderBy: "${fieldNameCondition}", orderDirection: asc) {
+    query get($lastField: Int!) {
+      ${collection} (first: ${FIRST}, where: { ${fieldNameCondition}_gt: $lastField${!!where ? `, ${where}` : ''} }, orderBy: "${fieldNameCondition}", orderDirection: asc) {
         ${fields}
       }
     }
@@ -184,7 +147,7 @@ export async function fetchGraphQLCondition<T>(url: string, collection: string, 
   while (hasNext) {
     const json = await fetchURL(url, {
       headers: { 'content-type': 'application/json' },
-      body: JSON.stringify({ 'query': query, 'variables': { first, skip, lastField } }),
+      body: JSON.stringify({ 'query': query, 'variables': { lastField } }),
       method: 'POST'
     }, 5)
 
@@ -195,10 +158,9 @@ export async function fetchGraphQLCondition<T>(url: string, collection: string, 
     const currentElements = (json?.data?.[collection] || []) as T[]
     elements.push(...currentElements)
 
-    if (currentElements.length < first) {
+    if (currentElements.length < FIRST) {
       hasNext = false
     } else {
-      skip = elements.length
       lastField = Number(elements[elements.length - 1][fieldNameCondition])
     }
   }
@@ -211,8 +173,8 @@ export async function fetchDelegations(members: string[], space: string): Promis
 
   const where = (members: string[], memberIn: 'delegator' | 'delegate') => `space_in: ["", "${space}"], ${memberIn}_in: ${JSON.stringify(members)}`
 
-  const unresolvedGivenDelegations = fetchGraphQL<Delegation>(snapshotQueryUrl, 'delegations', where(members, 'delegator'), 'timestamp', 'delegator delegate')
-  const unresolvedReceivedDelegations = fetchGraphQL<Delegation>(snapshotQueryUrl, 'delegations', where(members, 'delegate'), 'timestamp', 'delegator delegate')
+  const unresolvedGivenDelegations = fetchGraphQLCondition<Delegation>(snapshotQueryUrl, 'delegations', 'timestamp', 'id', 'id delegator delegate', where(members, 'delegator'))
+  const unresolvedReceivedDelegations = fetchGraphQLCondition<Delegation>(snapshotQueryUrl, 'delegations', 'timestamp', 'id', 'id delegator delegate', where(members, 'delegate'))
 
   const [snapshotGivenDelegations, snapshotReceivedDelegations] = await Promise.all([unresolvedGivenDelegations, unresolvedReceivedDelegations])
 

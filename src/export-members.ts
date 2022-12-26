@@ -2,7 +2,7 @@ import snapshot from '@snapshot-labs/snapshot.js'
 import { Networks } from './entities/Networks'
 import { SnapshotSpace } from './interfaces/GovernanceProposal'
 import { DelegationInfo, MemberInfo, STRATEGIES, Vote } from './interfaces/Members'
-import { fetchDelegations, fetchGraphQL, flattenArray, parseVP, saveToCSV, saveToJSON, snapshotUrl, splitArray } from './utils'
+import { fetchDelegations, fetchGraphQLCondition, flattenArray, parseVP, saveToCSV, saveToJSON, snapshotUrl, splitArray } from './utils'
 
 const MAX_RETRIES = 10
 
@@ -105,7 +105,7 @@ async function main() {
   // Fetch Snapshot Votes
   const url = snapshotUrl()
   const where = `space_in: ["${space}"], vp_gt: 1`
-  const votes = await fetchGraphQL<Vote>(url, 'votes', where, 'created', 'voter', 1000)
+  const votes = await fetchGraphQLCondition<Vote>(url, 'votes', 'created', 'voter', 'voter created', where)
 
   const members = new Set(votes.map(v => v.voter.toLowerCase())) // Unique addresses
   console.log('Total Members:', members.size)
