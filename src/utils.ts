@@ -20,7 +20,7 @@ require('dotenv').config()
 export const COVALENT_API_KEY = process.env.COVALENTHQ_API_KEY
 export const INFURA_URL = process.env.INFURA_URL
 export const DECENTRALAND_DATA_URL = process.env.DECENTRALAND_DATA_URL
-const COVALENT_RATE_LIMIT = 6000
+const COVALENT_RATE_LIMIT = 12000
 
 export function sum(array: number[]) {
   return array.reduce((prev, curr) => prev + curr, 0)
