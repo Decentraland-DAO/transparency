@@ -107,6 +107,7 @@ Since December 16, 3 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Asking Community for funding a &#34;Beer Pong Game&#34;](https://governance.decentraland.org/proposal/?id=de12ad80-86fc-11ed-b125-310d98b69cd1)
 * [Should we extend the DAO Committee to more than 3 members?](https://governance.decentraland.org/proposal/?id=9dbbe6e0-86a0-11ed-b125-310d98b69cd1)
 * [Oasis Arcade Pre-Grant Request proposal resubmission (Should the following Tier 5 grant be approved for Oasis Arcade?)](https://governance.decentraland.org/proposal/?id=fdfebfc0-862b-11ed-b125-310d98b69cd1)
 * [Does the DCL Foundation&#39;s launch worlds seriously violate the rights and interests of existing landholders?](https://governance.decentraland.org/proposal/?id=5994d540-85be-11ed-b125-310d98b69cd1)
