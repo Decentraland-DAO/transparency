@@ -9,12 +9,30 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 6 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-1 points of interest have been added to Decentraland’s map since the last report.
+4 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -116, -19: [Metayachts](https://governance.decentraland.org/proposal/?id=af7d1b00-7454-11ed-a9bf-f772a12a0556)
+
+* Yes 99.94186175652824% 2,069,722 VP (55 votes)
+* No 0.05813824347176094% 1,204 VP (2 votes)
+
+
+#### -23, 69: [Rare Pepe Gallery](https://governance.decentraland.org/proposal/?id=1aaabe00-744b-11ed-a9bf-f772a12a0556)
+
+* Yes 85.36526552309968% 623,064 VP (45 votes)
+* No 14.634734476900313% 106,816 VP (4 votes)
+
+
+#### -143, -125: [No Name](https://governance.decentraland.org/proposal/?id=972fd650-744a-11ed-a9bf-f772a12a0556)
+
+* Yes 81.43550968101032% 725,693 VP (39 votes)
+* No 18.564490318989684% 165,433 VP (7 votes)
 
 
 #### 142, -146: [VoxBoards HQ](https://governance.decentraland.org/proposal/?id=cdb9eba0-718b-11ed-beaf-a14520403f7b)
@@ -32,7 +50,19 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since December 1, 4 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since December 1, 6 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [[Updated] Soul Magic Game Development Proposal](https://governance.decentraland.org/proposal/?id=ee288400-716d-11ed-beaf-a14520403f7b) (Tier 4)
+
+* Yes 59.27264592086083% 3,293,254 VP (102 votes)
+* No 40.72735407913917% 2,262,857 VP (35 votes)
+
+
+#### [35+ Opensource Scenes and Assets for the Community by MrDhingia (Revised)](https://governance.decentraland.org/proposal/?id=7ad38d60-70f0-11ed-beaf-a14520403f7b) (Tier 4)
+
+* Yes 84.3696793450739% 6,569,262 VP (151 votes)
+* No 15.630320654926106% 1,217,021 VP (10 votes)
 
 
 #### [Polkadot - Substrate integration and education - BUITL](https://governance.decentraland.org/proposal/?id=1c5a5390-69a7-11ed-a69f-9d162c5cc598) (Tier 4)
@@ -61,6 +91,20 @@ Since December 1, 4 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+#### [Should The Previously Passed Proposal Topics Be Banned From Resurfacing As Another Proposal](https://governance.decentraland.org/proposal/?id=4fdd57a0-7684-11ed-bc92-ef497b387215)
+
+* Yes 79.52581627078581% 819,570 VP (72 votes)
+* No 20.464480370590675% 210,901 VP (4 votes)
+* Invalid question/options 0.009703358623520359% 100 VP (1 votes)
+
+
+#### [Delegate the Reference Client roadmap to the Decentraland Foundation](https://governance.decentraland.org/proposal/?id=2c061ab0-75a3-11ed-bc92-ef497b387215)
+
+* For 69.35877130294975% 1,216,093 VP (25 votes)
+* Against 12.492806573978648% 219,041 VP (1 votes)
+* Invalid question/options 18.148422123071605% 318,203 VP (5 votes)
+
+
 #### [Should we denominate the fee to mint a NAME in USD?](https://governance.decentraland.org/proposal/?id=2ad02720-6f1e-11ed-a69f-9d162c5cc598)
 
 * Yes, the price must be set in USD. 57.39428345405992% 5,165,695 VP (22 votes)
@@ -80,26 +124,24 @@ Since December 1, 4 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
-* 1, 5: [Genesis Plaza](https://governance.decentraland.org/proposal/?id=e92e8db0-7798-11ed-bc92-ef497b387215)
-* -14, 30: [No Name](https://governance.decentraland.org/proposal/?id=8b100a70-7657-11ed-bc92-ef497b387215)
-* -116, -19: [Metayachts](https://governance.decentraland.org/proposal/?id=af7d1b00-7454-11ed-a9bf-f772a12a0556)
-* -23, 69: [Rare Pepe Gallery](https://governance.decentraland.org/proposal/?id=1aaabe00-744b-11ed-a9bf-f772a12a0556)
-* -143, -125: [No Name](https://governance.decentraland.org/proposal/?id=972fd650-744a-11ed-a9bf-f772a12a0556)
-* 52, 26: [No Name](https://governance.decentraland.org/proposal/?id=edc878e0-724d-11ed-a9bf-f772a12a0556)
 
 ## Grants
 
-* [Building Metaverse Vogue aka Abstract Stylist](https://governance.decentraland.org/proposal/?id=bf022800-76d3-11ed-bc92-ef497b387215) (Tier 4)
-* [Decentraland DAO Facilitation Squad Grant Proposal [RENEWAL]](https://governance.decentraland.org/proposal/?id=89a33730-765b-11ed-bc92-ef497b387215) (Tier 5)
-* [FIRST METAVERSE ARCHITECTURE &amp; DESIGN BIENNALE](https://governance.decentraland.org/proposal/?id=71a6d070-7637-11ed-bc92-ef497b387215) (Tier 4)
-* [Vroomway Continuation - Revised](https://governance.decentraland.org/proposal/?id=29b3a3a0-74fd-11ed-a9bf-f772a12a0556) (Tier 5)
-* [Governance Squad 1H2023 Renewal](https://governance.decentraland.org/proposal/?id=4772fdb0-74e3-11ed-a9bf-f772a12a0556) (Tier 6)
-* [Duel Arena P2E; 2D Battle game](https://governance.decentraland.org/proposal/?id=aeef5550-74d5-11ed-a9bf-f772a12a0556) (Tier 4)
-* [DCL HUB a sorted library of projects.](https://governance.decentraland.org/proposal/?id=4a3e37a0-745f-11ed-a9bf-f772a12a0556) (Tier 2)
-* [An Education Platform to Link Real-life Value to Metaverse Experiences](https://governance.decentraland.org/proposal/?id=30ddb960-7190-11ed-beaf-a14520403f7b) (Tier 6)
-* [[Updated] Soul Magic Game Development Proposal](https://governance.decentraland.org/proposal/?id=ee288400-716d-11ed-beaf-a14520403f7b) (Tier 4)
-* [35+ Opensource Scenes and Assets for the Community by MrDhingia (Revised)](https://governance.decentraland.org/proposal/?id=7ad38d60-70f0-11ed-beaf-a14520403f7b) (Tier 4)
-* [Hype Squad | The First Polish DAO Community](https://governance.decentraland.org/proposal/?id=df610bc0-6f1c-11ed-a69f-9d162c5cc598) (Tier 4)
+* [Fashion Game  “AI Fashion Expert and Stylist”](https://governance.decentraland.org/proposal/?id=95f61390-83fd-11ed-b125-310d98b69cd1) (Tier 4)
+* [Blender addon: save time in wearable design.](https://governance.decentraland.org/proposal/?id=cd2b2aa0-831a-11ed-b125-310d98b69cd1) (Tier 1)
+* [Intensive course for Decentraland in Spanish, teaching 3D and TypeScript.](https://governance.decentraland.org/proposal/?id=004825b0-831a-11ed-b125-310d98b69cd1) (Tier 1)
+* [Vtubing app with Decentraland Avatars.](https://governance.decentraland.org/proposal/?id=ca629c20-8317-11ed-b125-310d98b69cd1) (Tier 4)
+* [Development of Voice AI Gateway for Google, Microsoft, and Amazon Engines](https://governance.decentraland.org/proposal/?id=7fdc3f50-81f3-11ed-8fa2-17dd3f32db26) (Tier 4)
+* [MetaVS – (PVP))(PVE)(MVAC)(MVPC) Revised pt 2 through 7 combined as requested](https://governance.decentraland.org/proposal/?id=9cd11580-816d-11ed-8fa2-17dd3f32db26) (Tier 5)
+* [Clipper DEX Scavenger Hunt in Decentraland!](https://governance.decentraland.org/proposal/?id=f624be20-7fd8-11ed-8fa2-17dd3f32db26) (Tier 4)
+* [Meta GamiMall Expansion &amp; Empowerment (Traffic Generation ToolKit)](https://governance.decentraland.org/proposal/?id=33ef4090-7fb1-11ed-8a61-75966587ad4f) (Tier 4)
+* [Productions Company MultiNFT Seeks Grant from DCL](https://governance.decentraland.org/proposal/?id=8813d200-7ec9-11ed-9555-b343fc4c7694) (Tier 5)
+* [Metaskins Gaming and Entertainment Development Roll Out](https://governance.decentraland.org/proposal/?id=093cb1d0-7e66-11ed-a46a-03b8ef366dbb) (Tier 6)
+* [WonderMine Multiplayer and Feature Enhancements](https://governance.decentraland.org/proposal/?id=41414f10-7d9d-11ed-8277-090458848306) (Tier 5)
+* [Cooky Cafe Simulator - Development and Expansion](https://governance.decentraland.org/proposal/?id=16febd50-7d5c-11ed-b135-498029192bca) (Tier 4)
+* [AsiaVerse: Unlocking the Asia Market through Film and Education](https://governance.decentraland.org/proposal/?id=d6d454b0-7d3d-11ed-b135-498029192bca) (Tier 4)
+* [Build a new DAO Squad to work on Decentraland&#39;s Protocol](https://governance.decentraland.org/proposal/?id=9303c5e0-7cbb-11ed-b135-498029192bca) (Tier 6)
+* [Revised: Web3 Training and Recruitment Center in Decentraland](https://governance.decentraland.org/proposal/?id=85b77c60-7c61-11ed-ad27-015f26e7c35c) (Tier 4)
 
 ## Names Bans
 
@@ -109,12 +151,8 @@ Since December 1, 4 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
-* [Verification Badges for Proposals](https://governance.decentraland.org/proposal/?id=876e2ee0-7744-11ed-bc92-ef497b387215)
-* [Removing confusion from the DAO proposals](https://governance.decentraland.org/proposal/?id=7072f360-773f-11ed-bc92-ef497b387215)
-* [Should The Previously Passed Proposal Topics Be Banned From Resurfacing As Another Proposal](https://governance.decentraland.org/proposal/?id=4fdd57a0-7684-11ed-bc92-ef497b387215)
-* [Delegate the Reference Client roadmap to the Decentraland Foundation](https://governance.decentraland.org/proposal/?id=2c061ab0-75a3-11ed-bc92-ef497b387215)
-* [Restricting DAO Grant Money to active NFT projects](https://governance.decentraland.org/proposal/?id=fa8ea3e0-7493-11ed-a9bf-f772a12a0556)
-* [Community Social Media Manager](https://governance.decentraland.org/proposal/?id=13dfafe0-7491-11ed-a9bf-f772a12a0556)
-* [Can DCL DAO ask DG DAO for $1Million back?](https://governance.decentraland.org/proposal/?id=b7638260-7449-11ed-a9bf-f772a12a0556)
+* [Should we extend the DAO Committee to more than 3 members?](https://governance.decentraland.org/proposal/?id=9dbbe6e0-86a0-11ed-b125-310d98b69cd1)
+* [Oasis Arcade Pre-Grant Request proposal resubmission (Should the following Tier 5 grant be approved for Oasis Arcade?)](https://governance.decentraland.org/proposal/?id=fdfebfc0-862b-11ed-b125-310d98b69cd1)
+* [Does the DCL Foundation&#39;s launch worlds seriously violate the rights and interests of existing landholders?](https://governance.decentraland.org/proposal/?id=5994d540-85be-11ed-b125-310d98b69cd1)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
