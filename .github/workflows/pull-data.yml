@@ -40,6 +40,17 @@ jobs:
         run: |
           npx ts-node ./src/export-votes.ts
           npx ts-node ./src/upload.ts Votes ./public/votes.csv
+          
+      - name: Pull Balances
+        env:
+          COVALENTHQ_API_KEY: ${{ secrets.COVALENTHQ_API_KEY }}
+          SHEET_ID: ${{ secrets.SHEET_ID }}
+          SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
+          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
+        run: |
+          npx ts-node ./src/export-balances.ts
+          npx ts-node ./src/upload.ts Balances ./public/balances.csv
+          npx ts-node ./src/upload.ts BalanceHistory ./public/balances.csv --append
 
       - name: Pull Grants
         env:
@@ -51,17 +62,6 @@ jobs:
         run: |
           npx ts-node ./src/export-grants.ts
           npx ts-node ./src/upload.ts Grants ./public/grants.csv
-
-      - name: Pull Balances
-        env:
-          COVALENTHQ_API_KEY: ${{ secrets.COVALENTHQ_API_KEY }}
-          SHEET_ID: ${{ secrets.SHEET_ID }}
-          SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
-          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
-        run: |
-          npx ts-node ./src/export-balances.ts
-          npx ts-node ./src/upload.ts Balances ./public/balances.csv
-          npx ts-node ./src/upload.ts BalanceHistory ./public/balances.csv --append
 
       - name: Pull Transactions
         env:
