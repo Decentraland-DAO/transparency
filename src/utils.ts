@@ -100,7 +100,7 @@ export async function fetchCovalentURL<T>(url: string, pageSize = 10000) {
   let hasNext = true
   const result: T[] = []
   let page = 0
-  let retries = 3
+  let retries = 15
 
   while (hasNext) {
     const response: CovalentResponse<T> = await fetchURL(url + (pageSize === 0 ? '' : `&page-size=${pageSize}&page-number=${page}`))
