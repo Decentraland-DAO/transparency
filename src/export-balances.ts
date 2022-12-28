@@ -37,13 +37,13 @@ async function getBalance(wallet: Wallet) {
 }
 
 async function main() {
-  const unresolvedBalances: Promise<BalanceParsed[]>[] = []
+  const rawBalances: BalanceParsed[][] = []
 
   for (const wallet of Wallets.getAll()) {
-    unresolvedBalances.push(getBalance(wallet))
+    rawBalances.push(await getBalance(wallet))
   }
 
-  const balances = flattenArray(await Promise.all(unresolvedBalances)).filter(
+  const balances = flattenArray(rawBalances).filter(
     (balance) => ALLOWED_SYMBOLS.has(balance.symbol) && balance.amount > 0
   )
 
