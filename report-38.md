@@ -83,6 +83,7 @@ Since December 16, 3 grants have been approved and the vesting contract(s) will 
 
 ## Grants
 
+* [Development of Exodus: Goodbye World](https://governance.decentraland.org/proposal/?id=78abd320-8730-11ed-b125-310d98b69cd1) (Tier 5)
 * [Fashion Game  “AI Fashion Expert and Stylist”](https://governance.decentraland.org/proposal/?id=95f61390-83fd-11ed-b125-310d98b69cd1) (Tier 4)
 * [Blender addon: save time in wearable design.](https://governance.decentraland.org/proposal/?id=cd2b2aa0-831a-11ed-b125-310d98b69cd1) (Tier 1)
 * [Intensive course for Decentraland in Spanish, teaching 3D and TypeScript.](https://governance.decentraland.org/proposal/?id=004825b0-831a-11ed-b125-310d98b69cd1) (Tier 1)
@@ -97,7 +98,6 @@ Since December 16, 3 grants have been approved and the vesting contract(s) will 
 * [Cooky Cafe Simulator - Development and Expansion](https://governance.decentraland.org/proposal/?id=16febd50-7d5c-11ed-b135-498029192bca) (Tier 4)
 * [AsiaVerse: Unlocking the Asia Market through Film and Education](https://governance.decentraland.org/proposal/?id=d6d454b0-7d3d-11ed-b135-498029192bca) (Tier 4)
 * [Build a new DAO Squad to work on Decentraland&#39;s Protocol](https://governance.decentraland.org/proposal/?id=9303c5e0-7cbb-11ed-b135-498029192bca) (Tier 6)
-* [Revised: Web3 Training and Recruitment Center in Decentraland](https://governance.decentraland.org/proposal/?id=85b77c60-7c61-11ed-ad27-015f26e7c35c) (Tier 4)
 
 ## Names Bans
 
