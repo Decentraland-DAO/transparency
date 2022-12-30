@@ -124,9 +124,14 @@ Since December 1, 6 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* 30, -112: [The FMF365 HQ](https://governance.decentraland.org/proposal/?id=cd433630-879e-11ed-b125-310d98b69cd1)
 
 ## Grants
 
+* [re: FIRST METAVERSE ARCHITECTURE &amp; DESIGN BIENNALE (updates, event announce)](https://governance.decentraland.org/proposal/?id=c28e0b10-8830-11ed-bd37-2b7f3eae6b63) (Tier 4)
+* [PANGEA PLAZA (Heart of the Fashion District)](https://governance.decentraland.org/proposal/?id=402420d0-87c5-11ed-bd37-2b7f3eae6b63) (Tier 5)
+* [The Raverse 2023: DJ Events, Wearables, Roland Lifestyle Collab &amp; More.](https://governance.decentraland.org/proposal/?id=a1ab1c60-87a6-11ed-b125-310d98b69cd1) (Tier 4)
+* [Meta Residence Tower by 8Meta](https://governance.decentraland.org/proposal/?id=fcca1b90-8784-11ed-b125-310d98b69cd1) (Tier 5)
 * [Development of Exodus: Goodbye World](https://governance.decentraland.org/proposal/?id=78abd320-8730-11ed-b125-310d98b69cd1) (Tier 5)
 * [Fashion Game  “AI Fashion Expert and Stylist”](https://governance.decentraland.org/proposal/?id=95f61390-83fd-11ed-b125-310d98b69cd1) (Tier 4)
 * [Blender addon: save time in wearable design.](https://governance.decentraland.org/proposal/?id=cd2b2aa0-831a-11ed-b125-310d98b69cd1) (Tier 1)
@@ -141,7 +146,6 @@ Since December 1, 6 grants have been approved and the vesting contract(s) will b
 * [WonderMine Multiplayer and Feature Enhancements](https://governance.decentraland.org/proposal/?id=41414f10-7d9d-11ed-8277-090458848306) (Tier 5)
 * [Cooky Cafe Simulator - Development and Expansion](https://governance.decentraland.org/proposal/?id=16febd50-7d5c-11ed-b135-498029192bca) (Tier 4)
 * [AsiaVerse: Unlocking the Asia Market through Film and Education](https://governance.decentraland.org/proposal/?id=d6d454b0-7d3d-11ed-b135-498029192bca) (Tier 4)
-* [Build a new DAO Squad to work on Decentraland&#39;s Protocol](https://governance.decentraland.org/proposal/?id=9303c5e0-7cbb-11ed-b135-498029192bca) (Tier 6)
 
 ## Names Bans
 
@@ -151,6 +155,8 @@ Since December 1, 6 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [New Wearable Rarity Tier: Exotic (50 mint/supply)](https://governance.decentraland.org/proposal/?id=f85772a0-8799-11ed-b125-310d98b69cd1)
+* [New Wearable Category: Hands (Resubmission)](https://governance.decentraland.org/proposal/?id=04191430-8796-11ed-b125-310d98b69cd1)
 * [Asking Community for funding a &#34;Beer Pong Game&#34;](https://governance.decentraland.org/proposal/?id=de12ad80-86fc-11ed-b125-310d98b69cd1)
 * [Should we extend the DAO Committee to more than 3 members?](https://governance.decentraland.org/proposal/?id=9dbbe6e0-86a0-11ed-b125-310d98b69cd1)
 * [Oasis Arcade Pre-Grant Request proposal resubmission (Should the following Tier 5 grant be approved for Oasis Arcade?)](https://governance.decentraland.org/proposal/?id=fdfebfc0-862b-11ed-b125-310d98b69cd1)
