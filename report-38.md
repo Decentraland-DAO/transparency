@@ -92,6 +92,9 @@ Since December 16, 5 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
+* -147, 23: [The FMF365 Office Building](https://governance.decentraland.org/proposal/?id=1c5fe610-8a5a-11ed-bd37-2b7f3eae6b63)
+* 96, -132: [Butterfly Prawn Farm](https://governance.decentraland.org/proposal/?id=485ac750-89b8-11ed-bd37-2b7f3eae6b63)
+* 120, -12: [No Name](https://governance.decentraland.org/proposal/?id=99efb4b0-89b6-11ed-bd37-2b7f3eae6b63)
 * 30, -112: [The FMF365 HQ](https://governance.decentraland.org/proposal/?id=cd433630-879e-11ed-b125-310d98b69cd1)
 
 ## Grants
@@ -107,7 +110,6 @@ Since December 16, 5 grants have been approved and the vesting contract(s) will 
 * [MetaVS – (PVP))(PVE)(MVAC)(MVPC) Revised pt 2 through 7 combined as requested](https://governance.decentraland.org/proposal/?id=9cd11580-816d-11ed-8fa2-17dd3f32db26) (Tier 5)
 * [Clipper DEX Scavenger Hunt in Decentraland!](https://governance.decentraland.org/proposal/?id=f624be20-7fd8-11ed-8fa2-17dd3f32db26) (Tier 4)
 * [Meta GamiMall Expansion &amp; Empowerment (Traffic Generation ToolKit)](https://governance.decentraland.org/proposal/?id=33ef4090-7fb1-11ed-8a61-75966587ad4f) (Tier 4)
-* [Productions Company MultiNFT Seeks Grant from DCL](https://governance.decentraland.org/proposal/?id=8813d200-7ec9-11ed-9555-b343fc4c7694) (Tier 5)
 
 ## Names Bans
 
@@ -122,7 +124,5 @@ Since December 16, 5 grants have been approved and the vesting contract(s) will 
 * [New Wearable Category: Hands (Resubmission)](https://governance.decentraland.org/proposal/?id=04191430-8796-11ed-b125-310d98b69cd1)
 * [Asking Community for funding a &#34;Beer Pong Game&#34;](https://governance.decentraland.org/proposal/?id=de12ad80-86fc-11ed-b125-310d98b69cd1)
 * [Should we extend the DAO Committee to more than 3 members?](https://governance.decentraland.org/proposal/?id=9dbbe6e0-86a0-11ed-b125-310d98b69cd1)
-* [Oasis Arcade Pre-Grant Request proposal resubmission (Should the following Tier 5 grant be approved for Oasis Arcade?)](https://governance.decentraland.org/proposal/?id=fdfebfc0-862b-11ed-b125-310d98b69cd1)
-* [Does the DCL Foundation&#39;s launch worlds seriously violate the rights and interests of existing landholders?](https://governance.decentraland.org/proposal/?id=5994d540-85be-11ed-b125-310d98b69cd1)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
