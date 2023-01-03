@@ -108,8 +108,6 @@ Since December 16, 5 grants have been approved and the vesting contract(s) will 
 * [Vtubing app with Decentraland Avatars.](https://governance.decentraland.org/proposal/?id=ca629c20-8317-11ed-b125-310d98b69cd1) (Tier 4)
 * [Development of Voice AI Gateway for Google, Microsoft, and Amazon Engines](https://governance.decentraland.org/proposal/?id=7fdc3f50-81f3-11ed-8fa2-17dd3f32db26) (Tier 4)
 * [MetaVS – (PVP))(PVE)(MVAC)(MVPC) Revised pt 2 through 7 combined as requested](https://governance.decentraland.org/proposal/?id=9cd11580-816d-11ed-8fa2-17dd3f32db26) (Tier 5)
-* [Clipper DEX Scavenger Hunt in Decentraland!](https://governance.decentraland.org/proposal/?id=f624be20-7fd8-11ed-8fa2-17dd3f32db26) (Tier 4)
-* [Meta GamiMall Expansion &amp; Empowerment (Traffic Generation ToolKit)](https://governance.decentraland.org/proposal/?id=33ef4090-7fb1-11ed-8a61-75966587ad4f) (Tier 4)
 
 ## Names Bans
 
@@ -122,7 +120,5 @@ Since December 16, 5 grants have been approved and the vesting contract(s) will 
 * [Creating Monetization Functions for Scenes Allowing Content Creators to Generate Income using DCL as a Business-enabled Platform](https://governance.decentraland.org/proposal/?id=b7e74d20-88e9-11ed-bd37-2b7f3eae6b63)
 * [New Wearable Rarity Tier: Exotic (50 mint/supply)](https://governance.decentraland.org/proposal/?id=f85772a0-8799-11ed-b125-310d98b69cd1)
 * [New Wearable Category: Hands (Resubmission)](https://governance.decentraland.org/proposal/?id=04191430-8796-11ed-b125-310d98b69cd1)
-* [Asking Community for funding a &#34;Beer Pong Game&#34;](https://governance.decentraland.org/proposal/?id=de12ad80-86fc-11ed-b125-310d98b69cd1)
-* [Should we extend the DAO Committee to more than 3 members?](https://governance.decentraland.org/proposal/?id=9dbbe6e0-86a0-11ed-b125-310d98b69cd1)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
