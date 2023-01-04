@@ -117,8 +117,7 @@ Since December 16, 5 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Add Social Media to Account Page](https://governance.decentraland.org/proposal/?id=337f1a10-8b6c-11ed-bd37-2b7f3eae6b63)
 * [Creating Monetization Functions for Scenes Allowing Content Creators to Generate Income using DCL as a Business-enabled Platform](https://governance.decentraland.org/proposal/?id=b7e74d20-88e9-11ed-bd37-2b7f3eae6b63)
-* [New Wearable Rarity Tier: Exotic (50 mint/supply)](https://governance.decentraland.org/proposal/?id=f85772a0-8799-11ed-b125-310d98b69cd1)
-* [New Wearable Category: Hands (Resubmission)](https://governance.decentraland.org/proposal/?id=04191430-8796-11ed-b125-310d98b69cd1)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

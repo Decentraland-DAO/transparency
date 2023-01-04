@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -31,6 +31,20 @@ Since January 1, 0 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+#### [New Wearable Rarity Tier: Exotic (50 mint/supply)](https://governance.decentraland.org/proposal/?id=f85772a0-8799-11ed-b125-310d98b69cd1)
+
+* Yes, Add Exotic (50) Rarity Tier 99.99944870642025% 1,632,515 VP (189 votes)
+* No, Do Not Add a New Rarity Tier 0.0005512935797574799% 9 VP (4 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
+#### [New Wearable Category: Hands (Resubmission)](https://governance.decentraland.org/proposal/?id=04191430-8796-11ed-b125-310d98b69cd1)
+
+* Yes, Add Hands Category! 99.9992545829174% 1,609,825 VP (192 votes)
+* No, Do Not Add Hands Category. 0.0007454170825990457% 12 VP (2 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 #### [Asking Community for funding a &#34;Beer Pong Game&#34;](https://governance.decentraland.org/proposal/?id=de12ad80-86fc-11ed-b125-310d98b69cd1)
 
 * YES 97.54708298897134% 644,437 VP (163 votes)
@@ -43,14 +57,6 @@ Since January 1, 0 grants have been approved and the vesting contract(s) will be
 * Yes: add 3 new DAO Committee members 91.8892583628585% 1,839,849 VP (168 votes)
 * No: add only 1 new DAO Committee Member 6.361506028729737% 127,373 VP (12 votes)
 * Invalid question/options 1.7492356084117537% 35,024 VP (3 votes)
-
-
-#### [Does the DCL Foundation&#39;s launch worlds seriously violate the rights and interests of existing landholders?](https://governance.decentraland.org/proposal/?id=5994d540-85be-11ed-b125-310d98b69cd1)
-
-* Landholders&#39; rights shall be compensated 8.197376437118887% 234,664 VP (101 votes)
-* Landholders&#39; rights need not be compensated 0.00041918878586160065% 12 VP (17 votes)
-* Landholders&#39; rights have not been violated 91.80220437409525% 2,627,996 VP (72 votes)
-* Invalid question/options 0% 0 VP (3 votes)
 
 
 
@@ -83,8 +89,7 @@ Since January 1, 0 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Add Social Media to Account Page](https://governance.decentraland.org/proposal/?id=337f1a10-8b6c-11ed-bd37-2b7f3eae6b63)
 * [Creating Monetization Functions for Scenes Allowing Content Creators to Generate Income using DCL as a Business-enabled Platform](https://governance.decentraland.org/proposal/?id=b7e74d20-88e9-11ed-bd37-2b7f3eae6b63)
-* [New Wearable Rarity Tier: Exotic (50 mint/supply)](https://governance.decentraland.org/proposal/?id=f85772a0-8799-11ed-b125-310d98b69cd1)
-* [New Wearable Category: Hands (Resubmission)](https://governance.decentraland.org/proposal/?id=04191430-8796-11ed-b125-310d98b69cd1)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
