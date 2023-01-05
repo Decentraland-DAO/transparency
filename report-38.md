@@ -107,7 +107,6 @@ Since December 16, 5 grants have been approved and the vesting contract(s) will 
 * [Fashion Game  “AI Fashion Expert and Stylist”](https://governance.decentraland.org/proposal/?id=95f61390-83fd-11ed-b125-310d98b69cd1) (Tier 4)
 * [Vtubing app with Decentraland Avatars.](https://governance.decentraland.org/proposal/?id=ca629c20-8317-11ed-b125-310d98b69cd1) (Tier 4)
 * [Development of Voice AI Gateway for Google, Microsoft, and Amazon Engines](https://governance.decentraland.org/proposal/?id=7fdc3f50-81f3-11ed-8fa2-17dd3f32db26) (Tier 4)
-* [MetaVS – (PVP))(PVE)(MVAC)(MVPC) Revised pt 2 through 7 combined as requested](https://governance.decentraland.org/proposal/?id=9cd11580-816d-11ed-8fa2-17dd3f32db26) (Tier 5)
 
 ## Names Bans
 
@@ -118,6 +117,5 @@ Since December 16, 5 grants have been approved and the vesting contract(s) will 
 ## Polls
 
 * [Add Social Media to Account Page](https://governance.decentraland.org/proposal/?id=337f1a10-8b6c-11ed-bd37-2b7f3eae6b63)
-* [Creating Monetization Functions for Scenes Allowing Content Creators to Generate Income using DCL as a Business-enabled Platform](https://governance.decentraland.org/proposal/?id=b7e74d20-88e9-11ed-bd37-2b7f3eae6b63)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
