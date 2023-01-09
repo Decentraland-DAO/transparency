@@ -1,22 +1,12 @@
-import { TokenSymbols } from '../entities/Tokens'
+import { TokenSymbols } from "../entities/Tokens"
 
 export interface Contract {
-  contract_decimals: number | null
-  contract_name: string | null
+  contract_decimals: number
+  contract_name: string
   contract_ticker_symbol: TokenSymbols
   contract_address: string
-  supports_erc: string[] | null
   logo_url: string
-  last_transferred_at: string
-  native_token: boolean
-  type: string
-  balance: string
-  balance_24h: string
-  quote_rate: number | null
-  quote_rate_24h: number | null
-  quote: number
-  quote_24h: number | null
-  nft_data: null
+  holdings: Holding[]
 }
 
 export interface Holding {
