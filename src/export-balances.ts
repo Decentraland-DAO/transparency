@@ -3,6 +3,7 @@ import { TokenSymbols } from "./entities/Tokens"
 import { Wallet, Wallets } from "./entities/Wallets"
 import { Contract } from "./interfaces/Balance"
 import { baseCovalentUrl, COVALENT_API_KEY, fetchCovalentURL, flattenArray, parseNumber, saveToCSV, saveToJSON } from "./utils"
+import { rollbar } from './rollbar'
 
 const ALLOWED_SYMBOLS = new Set<string>(Object.values(TokenSymbols))
 
@@ -20,19 +21,24 @@ export type BalanceParsed = {
 
 async function getBalance(wallet: Wallet) {
   const { name, address, network } = wallet
-  const contracts = await fetchCovalentURL<Contract>(`${baseCovalentUrl(network)}/address/${address}/balances_v2/?quote-currency=USD&format=JSON&nft=false&no-nft-fetch=true&key=${COVALENT_API_KEY}`, 0)
+  try {
+    const contracts = await fetchCovalentURL<Contract>(`${baseCovalentUrl(network)}/address/${address}/balances_v2/?quote-currency=USD&format=JSON&nft=false&no-nft-fetch=true&key=${COVALENT_API_KEY}`, 0)
 
-  return contracts.map<BalanceParsed>(contract => ({
-    timestamp: contract.last_transferred_at,
-    name,
-    amount: parseNumber(Number(contract.balance),  contract.contract_decimals),
-    quote: contract.quote,
-    rate: contract.quote_rate || 0,
-    symbol: contract.contract_ticker_symbol,
-    network: network.name,
-    address,
-    contractAddress: contract.contract_address
-  }))
+    return contracts.filter(contract => contract.contract_decimals !== null).map<BalanceParsed>(contract => ({
+      timestamp: contract.last_transferred_at,
+      name,
+      amount: parseNumber(Number(contract.balance),  contract.contract_decimals),
+      quote: contract.quote,
+      rate: contract.quote_rate || 0,
+      symbol: contract.contract_ticker_symbol,
+      network: network.name,
+      address,
+      contractAddress: contract.contract_address
+    }))
+  } catch (e){
+    rollbar.log(`Unable to fetch balance for wallet ${address}`, e);
+    return []
+  }
 }
 
 async function main() {
