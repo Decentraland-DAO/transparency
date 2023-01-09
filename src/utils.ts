@@ -20,7 +20,7 @@ require('dotenv').config()
 export const COVALENT_API_KEY = process.env.COVALENTHQ_API_KEY
 export const INFURA_URL = process.env.INFURA_URL
 export const DECENTRALAND_DATA_URL = process.env.DECENTRALAND_DATA_URL
-const COVALENT_RATE_LIMIT = 60000
+const COVALENT_RATE_LIMIT = 12000
 
 export function sum(array: number[]) {
   return array.reduce((prev, curr) => prev + curr, 0)
@@ -100,7 +100,7 @@ export async function fetchCovalentURL<T>(url: string, pageSize = 10000) {
   let hasNext = true
   const result: T[] = []
   let page = 0
-  let retries = 5
+  let retries = 15
 
   while (hasNext) {
     const response: CovalentResponse<T> = await fetchURL(url + (pageSize === 0 ? '' : `&page-size=${pageSize}&page-number=${page}`))
