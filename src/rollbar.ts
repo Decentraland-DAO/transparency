@@ -1,6 +1,8 @@
+import { ROLLBAR_ACCESS_TOKEN } from './utils'
+
 const Rollbar = require('rollbar')
 export const rollbar = new Rollbar({
-  accessToken: '73498737ed9b4205bf06c7a70911c833',
+  accessToken: ROLLBAR_ACCESS_TOKEN,
   captureUncaught: true,
   captureUnhandledRejections: true
 })

@@ -17,6 +17,7 @@ import { ethers } from 'ethers'
 
 require('dotenv').config()
 
+export const ROLLBAR_ACCESS_TOKEN = process.env.ROLLBAR_ACCESS_TOKEN
 export const COVALENT_API_KEY = process.env.COVALENTHQ_API_KEY
 export const INFURA_URL = process.env.INFURA_URL
 export const DECENTRALAND_DATA_URL = process.env.DECENTRALAND_DATA_URL
