@@ -1,4 +1,3 @@
-import BigNumber from "bignumber.js"
 import { NetworkName } from './entities/Networks'
 import { TokenSymbols } from "./entities/Tokens"
 import { Wallet, Wallets } from "./entities/Wallets"
@@ -21,14 +20,14 @@ export type BalanceParsed = {
 
 async function getBalance(wallet: Wallet) {
   const { name, address, network } = wallet
-  const contracts = await fetchCovalentURL<Contract>(`${baseCovalentUrl(network)}/address/${address}/portfolio_v2/?key=${COVALENT_API_KEY}`, 0)
+  const contracts = await fetchCovalentURL<Contract>(`${baseCovalentUrl(network)}/address/${address}/balances_v2/?quote-currency=USD&format=JSON&nft=false&no-nft-fetch=true&key=${COVALENT_API_KEY}`, 0)
 
   return contracts.map<BalanceParsed>(contract => ({
-    timestamp: contract.holdings[0].timestamp,
+    timestamp: contract.last_transferred_at,
     name,
-    amount: parseNumber(Number(contract.holdings[0].close.balance),  contract.contract_decimals),
-    quote: contract.holdings[0].close.quote,
-    rate: contract.holdings[0].quote_rate,
+    amount: parseNumber(Number(contract.balance),  contract.contract_decimals),
+    quote: contract.quote,
+    rate: contract.quote_rate || 0,
     symbol: contract.contract_ticker_symbol,
     network: network.name,
     address,
