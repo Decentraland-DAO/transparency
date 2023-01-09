@@ -2,7 +2,7 @@ import { TokenSymbols } from '../entities/Tokens'
 
 export interface Contract {
   contract_decimals: number | null
-  contract_name: null | string
+  contract_name: string | null
   contract_ticker_symbol: TokenSymbols
   contract_address: string
   supports_erc: string[] | null
