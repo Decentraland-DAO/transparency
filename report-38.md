@@ -92,10 +92,7 @@ Since December 16, 5 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
-* -147, 23: [The FMF365 Office Building](https://governance.decentraland.org/proposal/?id=1c5fe610-8a5a-11ed-bd37-2b7f3eae6b63)
-* 96, -132: [Butterfly Prawn Farm](https://governance.decentraland.org/proposal/?id=485ac750-89b8-11ed-bd37-2b7f3eae6b63)
-* 120, -12: [No Name](https://governance.decentraland.org/proposal/?id=99efb4b0-89b6-11ed-bd37-2b7f3eae6b63)
-* 30, -112: [The FMF365 HQ](https://governance.decentraland.org/proposal/?id=cd433630-879e-11ed-b125-310d98b69cd1)
+* 83, 74: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=896c4240-8d10-11ed-bd37-2b7f3eae6b63)
 
 ## Grants
 
@@ -104,9 +101,6 @@ Since December 16, 5 grants have been approved and the vesting contract(s) will 
 * [The Raverse 2023: DJ Events, Wearables, Roland Lifestyle Collab &amp; More.](https://governance.decentraland.org/proposal/?id=a1ab1c60-87a6-11ed-b125-310d98b69cd1) (Tier 4)
 * [Meta Residence Tower by 8Meta](https://governance.decentraland.org/proposal/?id=fcca1b90-8784-11ed-b125-310d98b69cd1) (Tier 5)
 * [Development of Exodus: Goodbye World](https://governance.decentraland.org/proposal/?id=78abd320-8730-11ed-b125-310d98b69cd1) (Tier 5)
-* [Fashion Game  “AI Fashion Expert and Stylist”](https://governance.decentraland.org/proposal/?id=95f61390-83fd-11ed-b125-310d98b69cd1) (Tier 4)
-* [Vtubing app with Decentraland Avatars.](https://governance.decentraland.org/proposal/?id=ca629c20-8317-11ed-b125-310d98b69cd1) (Tier 4)
-* [Development of Voice AI Gateway for Google, Microsoft, and Amazon Engines](https://governance.decentraland.org/proposal/?id=7fdc3f50-81f3-11ed-8fa2-17dd3f32db26) (Tier 4)
 
 ## Names Bans
 
@@ -116,6 +110,9 @@ Since December 16, 5 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
-* [Add Social Media to Account Page](https://governance.decentraland.org/proposal/?id=337f1a10-8b6c-11ed-bd37-2b7f3eae6b63)
+* [Should we address the Voting Power Distribution in the DAO?](https://governance.decentraland.org/proposal/?id=8192a5f0-8fa9-11ed-aae5-394e6c1c2226)
+* [Should DAO proposals have a pre-defined &#39;Abstain&#39; voting option?](https://governance.decentraland.org/proposal/?id=2f752230-8deb-11ed-aae5-394e6c1c2226)
+* [Enable 256-bit color picker for avatar skin](https://governance.decentraland.org/proposal/?id=c921caf0-8ddc-11ed-aae5-394e6c1c2226)
+* [Should we restructure the Linked Wearables Category?](https://governance.decentraland.org/proposal/?id=fba5d070-8dd2-11ed-aae5-394e6c1c2226)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

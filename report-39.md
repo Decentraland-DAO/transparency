@@ -9,12 +9,36 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
+In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+4 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -147, 23: [The FMF365 Office Building](https://governance.decentraland.org/proposal/?id=1c5fe610-8a5a-11ed-bd37-2b7f3eae6b63)
+
+* Yes 99.99986152902422% 2,888,688 VP (201 votes)
+* No 0.0001384709757911193% 4 VP (3 votes)
+
+
+#### 96, -132: [Butterfly Prawn Farm](https://governance.decentraland.org/proposal/?id=485ac750-89b8-11ed-bd37-2b7f3eae6b63)
+
+* Yes 100% 2,021,798 VP (183 votes)
+* No 0% 0 VP (6 votes)
+
+
+#### 120, -12: [No Name](https://governance.decentraland.org/proposal/?id=99efb4b0-89b6-11ed-bd37-2b7f3eae6b63)
+
+* Yes 99.99985878000042% 2,832,456 VP (173 votes)
+* No 0.00014121999957633998% 4 VP (6 votes)
+
+
+#### 30, -112: [The FMF365 HQ](https://governance.decentraland.org/proposal/?id=cd433630-879e-11ed-b125-310d98b69cd1)
+
+* Yes 100% 2,097,599 VP (185 votes)
+* No 0% 0 VP (2 votes)
 
 
 ## Name Bans
@@ -30,13 +54,6 @@ Since January 1, 0 grants have been approved and the vesting contract(s) will be
 
 
 ## Polls
-
-#### [Creating Monetization Functions for Scenes Allowing Content Creators to Generate Income using DCL as a Business-enabled Platform](https://governance.decentraland.org/proposal/?id=b7e74d20-88e9-11ed-bd37-2b7f3eae6b63)
-
-* Yes. I support this idea that benefits both DCL and content creators. 39.94588448789293% 1,005,521 VP (131 votes)
-* No. I dont support this idea.  60.05411551210707% 1,511,687 VP (37 votes)
-* Invalid question/options 0% 0 VP (1 votes)
-
 
 #### [New Wearable Rarity Tier: Exotic (50 mint/supply)](https://governance.decentraland.org/proposal/?id=f85772a0-8799-11ed-b125-310d98b69cd1)
 
@@ -71,10 +88,7 @@ Since January 1, 0 grants have been approved and the vesting contract(s) will be
 
 ## Points of Interest
 
-* -147, 23: [The FMF365 Office Building](https://governance.decentraland.org/proposal/?id=1c5fe610-8a5a-11ed-bd37-2b7f3eae6b63)
-* 96, -132: [Butterfly Prawn Farm](https://governance.decentraland.org/proposal/?id=485ac750-89b8-11ed-bd37-2b7f3eae6b63)
-* 120, -12: [No Name](https://governance.decentraland.org/proposal/?id=99efb4b0-89b6-11ed-bd37-2b7f3eae6b63)
-* 30, -112: [The FMF365 HQ](https://governance.decentraland.org/proposal/?id=cd433630-879e-11ed-b125-310d98b69cd1)
+* 83, 74: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=896c4240-8d10-11ed-bd37-2b7f3eae6b63)
 
 ## Grants
 
@@ -83,9 +97,6 @@ Since January 1, 0 grants have been approved and the vesting contract(s) will be
 * [The Raverse 2023: DJ Events, Wearables, Roland Lifestyle Collab &amp; More.](https://governance.decentraland.org/proposal/?id=a1ab1c60-87a6-11ed-b125-310d98b69cd1) (Tier 4)
 * [Meta Residence Tower by 8Meta](https://governance.decentraland.org/proposal/?id=fcca1b90-8784-11ed-b125-310d98b69cd1) (Tier 5)
 * [Development of Exodus: Goodbye World](https://governance.decentraland.org/proposal/?id=78abd320-8730-11ed-b125-310d98b69cd1) (Tier 5)
-* [Fashion Game  “AI Fashion Expert and Stylist”](https://governance.decentraland.org/proposal/?id=95f61390-83fd-11ed-b125-310d98b69cd1) (Tier 4)
-* [Vtubing app with Decentraland Avatars.](https://governance.decentraland.org/proposal/?id=ca629c20-8317-11ed-b125-310d98b69cd1) (Tier 4)
-* [Development of Voice AI Gateway for Google, Microsoft, and Amazon Engines](https://governance.decentraland.org/proposal/?id=7fdc3f50-81f3-11ed-8fa2-17dd3f32db26) (Tier 4)
 
 ## Names Bans
 
@@ -95,6 +106,9 @@ Since January 1, 0 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
-* [Add Social Media to Account Page](https://governance.decentraland.org/proposal/?id=337f1a10-8b6c-11ed-bd37-2b7f3eae6b63)
+* [Should we address the Voting Power Distribution in the DAO?](https://governance.decentraland.org/proposal/?id=8192a5f0-8fa9-11ed-aae5-394e6c1c2226)
+* [Should DAO proposals have a pre-defined &#39;Abstain&#39; voting option?](https://governance.decentraland.org/proposal/?id=2f752230-8deb-11ed-aae5-394e6c1c2226)
+* [Enable 256-bit color picker for avatar skin](https://governance.decentraland.org/proposal/?id=c921caf0-8ddc-11ed-aae5-394e6c1c2226)
+* [Should we restructure the Linked Wearables Category?](https://governance.decentraland.org/proposal/?id=fba5d070-8dd2-11ed-aae5-394e6c1c2226)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
