@@ -9,8 +9,8 @@ on:
         type: choice
         description: Select fetch type
         options:
-        - reduced
-        - full
+          - reduced
+          - full
         default: full
 
 jobs:
@@ -40,10 +40,11 @@ jobs:
         run: |
           npx ts-node ./src/export-votes.ts
           npx ts-node ./src/upload.ts Votes ./public/votes.csv
-          
+
       - name: Pull Balances
         env:
           COVALENTHQ_API_KEY: ${{ secrets.COVALENTHQ_API_KEY }}
+          ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
           SHEET_ID: ${{ secrets.SHEET_ID }}
           SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
           SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}

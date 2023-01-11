@@ -19,7 +19,7 @@
 * Catalyst's API: POIs and members Names.
 * CovalentHQ: Transfers and balances.
 
-### Data Soruces
+### Data Sources
 - Proposals
 - Members
 - Votes
