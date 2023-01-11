@@ -88,6 +88,7 @@ Since January 1, 0 grants have been approved and the vesting contract(s) will be
 
 ## Points of Interest
 
+* -104, -95: [No Name](https://governance.decentraland.org/proposal/?id=ab13b790-910a-11ed-aae5-394e6c1c2226)
 * 83, 74: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=896c4240-8d10-11ed-bd37-2b7f3eae6b63)
 
 ## Grants
@@ -106,6 +107,8 @@ Since January 1, 0 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Should the DAO restrict the ability for members with less than a certain amount of VP to vote on proposals?](https://governance.decentraland.org/proposal/?id=0952c630-910f-11ed-aae5-394e6c1c2226)
+* [Should the DAO implement a mechanism to delegate VP to multiple wallets?](https://governance.decentraland.org/proposal/?id=9d698ea0-9108-11ed-aae5-394e6c1c2226)
 * [Should we address the Voting Power Distribution in the DAO?](https://governance.decentraland.org/proposal/?id=8192a5f0-8fa9-11ed-aae5-394e6c1c2226)
 * [Should DAO proposals have a pre-defined &#39;Abstain&#39; voting option?](https://governance.decentraland.org/proposal/?id=2f752230-8deb-11ed-aae5-394e6c1c2226)
 * [Enable 256-bit color picker for avatar skin](https://governance.decentraland.org/proposal/?id=c921caf0-8ddc-11ed-aae5-394e6c1c2226)
