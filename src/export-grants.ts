@@ -1,3 +1,4 @@
+import { rollbar } from './rollbar'
 import Web3 from 'web3'
 import { AbiItem } from 'web3-utils'
 
@@ -93,15 +94,12 @@ async function _getVestingContractDataV2(vestingAddress: string): Promise<Vestin
 async function getVestingContractData(proposalId: string, vestingAddress: string): Promise<VestingInfo> {
   try {
     return await _getVestingContractDataV1(vestingAddress)
-  } catch (e) {
-    // do nothing
-  }
-
-  try {
-    return await _getVestingContractDataV2(vestingAddress)
-  }
-  catch (e) {
-    console.log(`Error trying to get vesting data for proposal ${proposalId}, vesting address ${vestingAddress}`, e)
+  } catch (errorV1) {
+    try {
+      return await _getVestingContractDataV2(vestingAddress)
+    } catch (errorV2) {
+      rollbar.log(`Error trying to get vesting data for proposal ${proposalId}, vesting address ${vestingAddress}`, `Error V1: ${errorV1}, Error V2: ${errorV2}`)
+    }
   }
 }
 
