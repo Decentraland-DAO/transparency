@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
+In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 7 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -50,10 +50,38 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since January 1, 0 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since January 1, 1 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Development of Exodus: Goodbye World](https://governance.decentraland.org/proposal/?id=78abd320-8730-11ed-b125-310d98b69cd1) (Tier 5)
+
+* Yes 84.23729393740213% 9,745,052 VP (270 votes)
+* No 15.762706062597873% 1,823,520 VP (46 votes)
 
 
 ## Polls
+
+#### [Should DAO proposals have a pre-defined &#39;Abstain&#39; voting option?](https://governance.decentraland.org/proposal/?id=2f752230-8deb-11ed-aae5-394e6c1c2226)
+
+* Yes 76.65615699427431% 2,515,898 VP (177 votes)
+* No 23.343843005725677% 766,158 VP (22 votes)
+* Invalid question/options 0% 0 VP (2 votes)
+
+
+#### [Enable 256-bit color picker for avatar skin](https://governance.decentraland.org/proposal/?id=c921caf0-8ddc-11ed-aae5-394e6c1c2226)
+
+* Add color picker for Avatar skin 99.9996802950493% 1,563,937 VP (177 votes)
+* Keep current system 0.00031970495069510253% 5 VP (8 votes)
+* Add more colors (limited) 0% 0 VP (3 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
+#### [Should we restructure the Linked Wearables Category?](https://governance.decentraland.org/proposal/?id=fba5d070-8dd2-11ed-aae5-394e6c1c2226)
+
+* Yes 99.98653190324134% 2,910,190 VP (171 votes)
+* No 0.013468096758655141% 392 VP (8 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
 
 #### [New Wearable Rarity Tier: Exotic (50 mint/supply)](https://governance.decentraland.org/proposal/?id=f85772a0-8799-11ed-b125-310d98b69cd1)
 
@@ -88,6 +116,7 @@ Since January 1, 0 grants have been approved and the vesting contract(s) will be
 
 ## Points of Interest
 
+* 29, -32: [No Name](https://governance.decentraland.org/proposal/?id=17bf15e0-923e-11ed-aae5-394e6c1c2226)
 * -104, -95: [No Name](https://governance.decentraland.org/proposal/?id=ab13b790-910a-11ed-aae5-394e6c1c2226)
 * 83, 74: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=896c4240-8d10-11ed-bd37-2b7f3eae6b63)
 
@@ -97,7 +126,6 @@ Since January 1, 0 grants have been approved and the vesting contract(s) will be
 * [PANGEA PLAZA (Heart of the Fashion District)](https://governance.decentraland.org/proposal/?id=402420d0-87c5-11ed-bd37-2b7f3eae6b63) (Tier 5)
 * [The Raverse 2023: DJ Events, Wearables, Roland Lifestyle Collab &amp; More.](https://governance.decentraland.org/proposal/?id=a1ab1c60-87a6-11ed-b125-310d98b69cd1) (Tier 4)
 * [Meta Residence Tower by 8Meta](https://governance.decentraland.org/proposal/?id=fcca1b90-8784-11ed-b125-310d98b69cd1) (Tier 5)
-* [Development of Exodus: Goodbye World](https://governance.decentraland.org/proposal/?id=78abd320-8730-11ed-b125-310d98b69cd1) (Tier 5)
 
 ## Names Bans
 
@@ -107,11 +135,9 @@ Since January 1, 0 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Removal of Committee Member for Acting Outside of Scope of Authority and Bias Agenda](https://governance.decentraland.org/proposal/?id=dc038240-91e1-11ed-aae5-394e6c1c2226)
 * [Should the DAO restrict the ability for members with less than a certain amount of VP to vote on proposals?](https://governance.decentraland.org/proposal/?id=0952c630-910f-11ed-aae5-394e6c1c2226)
 * [Should the DAO implement a mechanism to delegate VP to multiple wallets?](https://governance.decentraland.org/proposal/?id=9d698ea0-9108-11ed-aae5-394e6c1c2226)
 * [Should we address the Voting Power Distribution in the DAO?](https://governance.decentraland.org/proposal/?id=8192a5f0-8fa9-11ed-aae5-394e6c1c2226)
-* [Should DAO proposals have a pre-defined &#39;Abstain&#39; voting option?](https://governance.decentraland.org/proposal/?id=2f752230-8deb-11ed-aae5-394e6c1c2226)
-* [Enable 256-bit color picker for avatar skin](https://governance.decentraland.org/proposal/?id=c921caf0-8ddc-11ed-aae5-394e6c1c2226)
-* [Should we restructure the Linked Wearables Category?](https://governance.decentraland.org/proposal/?id=fba5d070-8dd2-11ed-aae5-394e6c1c2226)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
