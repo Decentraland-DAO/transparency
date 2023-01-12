@@ -101,7 +101,6 @@ Since December 16, 5 grants have been approved and the vesting contract(s) will 
 * [re: FIRST METAVERSE ARCHITECTURE &amp; DESIGN BIENNALE (updates, event announce)](https://governance.decentraland.org/proposal/?id=c28e0b10-8830-11ed-bd37-2b7f3eae6b63) (Tier 4)
 * [PANGEA PLAZA (Heart of the Fashion District)](https://governance.decentraland.org/proposal/?id=402420d0-87c5-11ed-bd37-2b7f3eae6b63) (Tier 5)
 * [The Raverse 2023: DJ Events, Wearables, Roland Lifestyle Collab &amp; More.](https://governance.decentraland.org/proposal/?id=a1ab1c60-87a6-11ed-b125-310d98b69cd1) (Tier 4)
-* [Meta Residence Tower by 8Meta](https://governance.decentraland.org/proposal/?id=fcca1b90-8784-11ed-b125-310d98b69cd1) (Tier 5)
 
 ## Names Bans
 
