@@ -12,7 +12,7 @@ import { TransferItem, TransferType } from './interfaces/Transactions/Transfers'
 import {
   COVALENT_API_KEY, DECENTRALAND_DATA_URL, fetchCovalentURL, fetchURL,
   flattenArray, getLatestBlockByToken, LatestBlocks, printableLatestBlocks,
-  saveToCSV, saveToJSON, setTransactionTag, splitArray, baseCovalentUrl, parseNumber, getTokenPriceInfo
+  saveToCSV, saveToJSON, setTransactionTag, splitArray, baseCovalentUrl, parseNumber, getTokenPriceInfo, getPreviousDate
 } from './utils'
 
 export interface TransactionParsed {
@@ -280,7 +280,7 @@ async function getTokenPrices(latestBlocks?: LatestBlocks) {
         if (blockInfo) {
           from = new Date(blockInfo.date)
         } else {
-          const aWeekAgo = new Date(new Date().setDate(new Date().getDate() - 7))
+          const aWeekAgo = getPreviousDate(today, 7)
           from = aWeekAgo
         }
       }

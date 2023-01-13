@@ -7,6 +7,7 @@ import {
   COVALENT_API_KEY,
   fetchCovalentURL,
   flattenArray,
+  getPreviousDate,
   getTokenPriceInfo,
   parseNumber,
   saveToCSV,
@@ -29,6 +30,8 @@ export type BalanceParsed = {
   contractAddress: string
 }
 
+type PricesMap = Record<string, number>
+
 function filterContractByToken(contract: Contract, wallet: Wallet) {
   if (ALLOWED_SYMBOLS.has(contract.contract_ticker_symbol)) {
     if (contract.contract_decimals === null) {
@@ -41,11 +44,27 @@ function filterContractByToken(contract: Contract, wallet: Wallet) {
   return false
 }
 
+function getBalanceParsed(contract: Contract, walletName: string, walletAddress: string, network: Network, prices: PricesMap): BalanceParsed {
+  const amount = parseNumber(Number(contract.balance), contract.contract_decimals)
+  const rate = prices[contract.contract_address.toLowerCase()] || 0
+  return {
+    timestamp: contract.last_transferred_at,
+    name: walletName,
+    amount,
+    quote: amount * rate,
+    rate,
+    symbol: contract.contract_ticker_symbol,
+    network: network.name,
+    address: walletAddress,
+    contractAddress: contract.contract_address
+  }
+}
+
 async function getBalance(wallet: Wallet) {
   const { name, address, network } = wallet
   const unresolvedPrices: Promise<TokenPriceAPIData[]>[] = []
   const today = new Date()
-  const aWeekAgo = new Date(new Date().setDate(today.getDate() - 7))
+  const aWeekAgo = getPreviousDate(today, 7)
   try {
     const contracts = await fetchCovalentURL<Contract>(`${baseCovalentUrl(network)}/address/${address}/balances_v2/?quote-currency=USD&format=JSON&nft=false&no-nft-fetch=true&key=${COVALENT_API_KEY}`, 0)
     const contractsFiltered = contracts.filter(contract => filterContractByToken(contract, wallet))
@@ -58,22 +77,9 @@ async function getBalance(wallet: Wallet) {
     const prices = rawPrices.reduce((accumulator, priceData) => {
       accumulator[priceData.contract_address.toLowerCase()] = priceData.prices.length > 0 ? priceData.prices[0].price : 0
       return accumulator
-    }, {} as Record<string, number>)
+    }, {} as PricesMap)
 
-    return contractsFiltered.map<BalanceParsed>((contract) => {
-      const amount = parseNumber(Number(contract.balance), contract.contract_decimals)
-      const rate = prices[contract.contract_address.toLowerCase()]
-      return {
-      timestamp: contract.last_transferred_at,
-      name,
-      amount,
-      quote: amount * rate,
-      rate,
-      symbol: contract.contract_ticker_symbol,
-      network: network.name,
-      address,
-      contractAddress: contract.contract_address
-    }})
+    return contractsFiltered.map<BalanceParsed>((contract) => getBalanceParsed(contract, name, address, network, prices))
   } catch (e) {
     rollbar.log(`Unable to fetch balance for wallet ${address}`, e)
     return []

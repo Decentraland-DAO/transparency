@@ -350,3 +350,7 @@ export async function getTokenPriceInfo(tokenAddress: string, network: Network, 
   const url = `https://api.covalenthq.com/v1/pricing/historical_by_addresses_v2/${network.id}/USD/${tokenAddress}/?quote-currency=USD&format=JSON&from=${fromString}&to=${toString}&key=${COVALENT_API_KEY}`
   return fetchCovalentURL<TokenPriceAPIData>(url, 10000)
 }
+
+export function getPreviousDate(base: Date, daysAmount: number) {
+  return new Date(new Date().setDate(base.getDate() - daysAmount))
+}
