@@ -14,6 +14,7 @@ import { TransactionDetails } from './interfaces/Transactions/Transactions'
 import { TransferType } from './interfaces/Transactions/Transfers'
 import { CovalentResponse } from './interfaces/Covalent'
 import { ethers } from 'ethers'
+import { TokenPriceAPIData } from './interfaces/Transactions/TokenPrices'
 
 require('dotenv').config()
 
@@ -341,4 +342,11 @@ export function printableLatestBlocks(latestBlocks: LatestBlocks) {
     }
     return acc
   }, {} as LatestBlocks)
+}
+
+export async function getTokenPriceInfo(tokenAddress: string, network: Network, from: Date, to: Date) {
+  const fromString = from.toISOString().split('T')[0]
+  const toString = to.toISOString().split('T')[0]
+  const url = `https://api.covalenthq.com/v1/pricing/historical_by_addresses_v2/${network.id}/USD/${tokenAddress}/?quote-currency=USD&format=JSON&from=${fromString}&to=${toString}&key=${COVALENT_API_KEY}`
+  return fetchCovalentURL<TokenPriceAPIData>(url, 10000)
 }
