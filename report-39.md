@@ -9,12 +9,18 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 7 community polls have passed.
+In the two weeks since the last DAO Committee report, 5 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 7 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-4 points of interest have been added to Decentraland’s map since the last report.
+5 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 83, 74: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=896c4240-8d10-11ed-bd37-2b7f3eae6b63)
+
+* Yes 100% 2,069,297 VP (199 votes)
+* No 0% 0 VP (3 votes)
 
 
 #### -147, 23: [The FMF365 Office Building](https://governance.decentraland.org/proposal/?id=1c5fe610-8a5a-11ed-bd37-2b7f3eae6b63)
@@ -118,13 +124,10 @@ Since January 1, 1 grants have been approved and the vesting contract(s) will be
 
 * 29, -32: [No Name](https://governance.decentraland.org/proposal/?id=17bf15e0-923e-11ed-aae5-394e6c1c2226)
 * -104, -95: [No Name](https://governance.decentraland.org/proposal/?id=ab13b790-910a-11ed-aae5-394e6c1c2226)
-* 83, 74: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=896c4240-8d10-11ed-bd37-2b7f3eae6b63)
 
 ## Grants
 
 * [re: FIRST METAVERSE ARCHITECTURE &amp; DESIGN BIENNALE (updates, event announce)](https://governance.decentraland.org/proposal/?id=c28e0b10-8830-11ed-bd37-2b7f3eae6b63) (Tier 4)
-* [PANGEA PLAZA (Heart of the Fashion District)](https://governance.decentraland.org/proposal/?id=402420d0-87c5-11ed-bd37-2b7f3eae6b63) (Tier 5)
-* [The Raverse 2023: DJ Events, Wearables, Roland Lifestyle Collab &amp; More.](https://governance.decentraland.org/proposal/?id=a1ab1c60-87a6-11ed-b125-310d98b69cd1) (Tier 4)
 
 ## Names Bans
 
@@ -134,6 +137,7 @@ Since January 1, 1 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Would you like to mint a wearable without knowing the exact item traits being minted?](https://governance.decentraland.org/proposal/?id=deb6e260-92a5-11ed-ae61-5f6dd0bf8358)
 * [Removal of Committee Member for Acting Outside of Scope of Authority and Bias Agenda](https://governance.decentraland.org/proposal/?id=dc038240-91e1-11ed-aae5-394e6c1c2226)
 * [Should the DAO restrict the ability for members with less than a certain amount of VP to vote on proposals?](https://governance.decentraland.org/proposal/?id=0952c630-910f-11ed-aae5-394e6c1c2226)
 * [Should the DAO implement a mechanism to delegate VP to multiple wallets?](https://governance.decentraland.org/proposal/?id=9d698ea0-9108-11ed-aae5-394e6c1c2226)
