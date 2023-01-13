@@ -12,7 +12,7 @@ import { TransferItem, TransferType } from './interfaces/Transactions/Transfers'
 import {
   COVALENT_API_KEY, DECENTRALAND_DATA_URL, fetchCovalentURL, fetchURL,
   flattenArray, getLatestBlockByToken, LatestBlocks, printableLatestBlocks,
-  saveToCSV, saveToJSON, setTransactionTag, splitArray, baseCovalentUrl, parseNumber
+  saveToCSV, saveToJSON, setTransactionTag, splitArray, baseCovalentUrl, parseNumber, getTokenPriceInfo, getPreviousDate
 } from './utils'
 
 export interface TransactionParsed {
@@ -267,9 +267,9 @@ async function tagging(txs: TransactionParsed[]) {
 async function getTokenPrices(latestBlocks?: LatestBlocks) {
   console.log('Getting token prices...')
   const unresolvedPrices: Promise<TokenPriceAPIData[]>[] = []
-  const today = new Date().toISOString().split('T')[0]
+  const today = new Date()
 
-  const FIRST_TX_DATE = '2020-01-24'
+  const FIRST_TX_DATE = new Date('2020-01-24')
 
   for (const network of Networks.getAll()) {
     const tokenAddresses = Tokens.getAddresses(network.name)
@@ -278,14 +278,13 @@ async function getTokenPrices(latestBlocks?: LatestBlocks) {
       if (latestBlocks) {
         const blockInfo = latestBlocks[network.name][address]
         if (blockInfo) {
-          from = blockInfo.date
+          from = new Date(blockInfo.date)
         } else {
-          const aWeekAgo = new Date(new Date().setDate(new Date().getDate() - 7)).toISOString().split('T')[0]
+          const aWeekAgo = getPreviousDate(today, 7)
           from = aWeekAgo
         }
       }
-      const url = `https://api.covalenthq.com/v1/pricing/historical_by_addresses_v2/${network.id}/USD/${address}/?quote-currency=USD&format=JSON&from=${from}&to=${today}&key=${COVALENT_API_KEY}`
-      unresolvedPrices.push(fetchCovalentURL<TokenPriceAPIData>(url, 10000))
+      unresolvedPrices.push(getTokenPriceInfo(address, network, from, today))
     }
   }
 
