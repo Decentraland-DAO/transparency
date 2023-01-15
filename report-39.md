@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 5 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 7 community polls have passed.
+In the two weeks since the last DAO Committee report, 5 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 8 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -67,6 +67,13 @@ Since January 1, 1 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+#### [Should we address the Voting Power Distribution in the DAO?](https://governance.decentraland.org/proposal/?id=8192a5f0-8fa9-11ed-aae5-394e6c1c2226)
+
+* Yes 26.71300126977761% 1,888,961 VP (163 votes)
+* No 73.28698458858513% 5,182,355 VP (45 votes)
+* Invalid question/options 0.000014141637265024324% 1 VP (1 votes)
+
+
 #### [Should DAO proposals have a pre-defined &#39;Abstain&#39; voting option?](https://governance.decentraland.org/proposal/?id=2f752230-8deb-11ed-aae5-394e6c1c2226)
 
 * Yes 76.65615699427431% 2,515,898 VP (177 votes)
@@ -122,12 +129,12 @@ Since January 1, 1 grants have been approved and the vesting contract(s) will be
 
 ## Points of Interest
 
+* 96, 99: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=9d23f2b0-9440-11ed-ae61-5f6dd0bf8358)
 * 29, -32: [No Name](https://governance.decentraland.org/proposal/?id=17bf15e0-923e-11ed-aae5-394e6c1c2226)
 * -104, -95: [No Name](https://governance.decentraland.org/proposal/?id=ab13b790-910a-11ed-aae5-394e6c1c2226)
 
 ## Grants
 
-* [re: FIRST METAVERSE ARCHITECTURE &amp; DESIGN BIENNALE (updates, event announce)](https://governance.decentraland.org/proposal/?id=c28e0b10-8830-11ed-bd37-2b7f3eae6b63) (Tier 4)
 
 ## Names Bans
 
@@ -137,10 +144,11 @@ Since January 1, 1 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Should the DAO fund marketing material to boost Decentraland users?](https://governance.decentraland.org/proposal/?id=e8280260-93a0-11ed-ae61-5f6dd0bf8358)
+* [What is the best name for the Accountability Commitee?](https://governance.decentraland.org/proposal/?id=d76b8270-9374-11ed-ae61-5f6dd0bf8358)
 * [Would you like to mint a wearable without knowing the exact item traits being minted?](https://governance.decentraland.org/proposal/?id=deb6e260-92a5-11ed-ae61-5f6dd0bf8358)
 * [Removal of Committee Member for Acting Outside of Scope of Authority and Bias Agenda](https://governance.decentraland.org/proposal/?id=dc038240-91e1-11ed-aae5-394e6c1c2226)
 * [Should the DAO restrict the ability for members with less than a certain amount of VP to vote on proposals?](https://governance.decentraland.org/proposal/?id=0952c630-910f-11ed-aae5-394e6c1c2226)
 * [Should the DAO implement a mechanism to delegate VP to multiple wallets?](https://governance.decentraland.org/proposal/?id=9d698ea0-9108-11ed-aae5-394e6c1c2226)
-* [Should we address the Voting Power Distribution in the DAO?](https://governance.decentraland.org/proposal/?id=8192a5f0-8fa9-11ed-aae5-394e6c1c2226)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
