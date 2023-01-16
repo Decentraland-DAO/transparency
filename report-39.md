@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 5 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 8 community polls have passed.
+In the two weeks since the last DAO Committee report, 5 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 10 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -66,6 +66,20 @@ Since January 1, 1 grants have been approved and the vesting contract(s) will be
 
 
 ## Polls
+
+#### [Should the DAO restrict the ability for members with less than a certain amount of VP to vote on proposals?](https://governance.decentraland.org/proposal/?id=0952c630-910f-11ed-aae5-394e6c1c2226)
+
+* Yes 7.074331881349831% 238,396 VP (66 votes)
+* No 64.33690527803273% 2,168,072 VP (63 votes)
+* Invalid question/options 28.588762840617438% 963,405 VP (61 votes)
+
+
+#### [Should the DAO implement a mechanism to delegate VP to multiple wallets?](https://governance.decentraland.org/proposal/?id=9d698ea0-9108-11ed-aae5-394e6c1c2226)
+
+* Yes 100% 6,937,587 VP (161 votes)
+* No 0% 0 VP (1 votes)
+* Invalid question/options 0% 0 VP (2 votes)
+
 
 #### [Should we address the Voting Power Distribution in the DAO?](https://governance.decentraland.org/proposal/?id=8192a5f0-8fa9-11ed-aae5-394e6c1c2226)
 
@@ -148,7 +162,5 @@ Since January 1, 1 grants have been approved and the vesting contract(s) will be
 * [What is the best name for the Accountability Commitee?](https://governance.decentraland.org/proposal/?id=d76b8270-9374-11ed-ae61-5f6dd0bf8358)
 * [Would you like to mint a wearable without knowing the exact item traits being minted?](https://governance.decentraland.org/proposal/?id=deb6e260-92a5-11ed-ae61-5f6dd0bf8358)
 * [Removal of Committee Member for Acting Outside of Scope of Authority and Bias Agenda](https://governance.decentraland.org/proposal/?id=dc038240-91e1-11ed-aae5-394e6c1c2226)
-* [Should the DAO restrict the ability for members with less than a certain amount of VP to vote on proposals?](https://governance.decentraland.org/proposal/?id=0952c630-910f-11ed-aae5-394e6c1c2226)
-* [Should the DAO implement a mechanism to delegate VP to multiple wallets?](https://governance.decentraland.org/proposal/?id=9d698ea0-9108-11ed-aae5-394e6c1c2226)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
