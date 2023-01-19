@@ -22,6 +22,7 @@ export interface VestingInfo {
   vesting_finish_at: string
   vesting_token_contract_balance: number
   vesting_total_amount: number
+  vesting_status: VestingStatus
 }
 
 export interface OneTimePaymentInfo {
@@ -65,6 +66,13 @@ export enum ProjectHealth {
   OnTrack = 'onTrack',
   AtRisk = 'atRisk',
   OffTrack = 'offTrack',
+}
+
+export enum VestingStatus {
+  InProgress = 'In Progress',
+  Finished = 'Finished',
+  Paused = 'Paused',
+  Revoked = 'Revoked',
 }
 
 export type GrantUpdateResponse = GovernanceApiResponse<{

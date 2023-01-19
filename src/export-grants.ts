@@ -8,7 +8,7 @@ import VESTING_V2_ABI from './abi/Ethereum/vesting_v2.json'
 import { Networks } from './entities/Networks'
 import { Tokens } from './entities/Tokens'
 import { GovernanceProposalType, Status } from './interfaces/GovernanceProposal'
-import { GrantProposal, GrantUpdate, GrantUpdateResponse, OneTimePaymentInfo, Updates, UpdateStatus, VestingInfo } from './interfaces/Grant'
+import { GrantProposal, GrantUpdate, GrantUpdateResponse, OneTimePaymentInfo, Updates, UpdateStatus, VestingInfo, VestingStatus } from './interfaces/Grant'
 import { Decoded, DecodedName, ParamName, TransactionItem } from './interfaces/Transactions/Transactions'
 import { baseCovalentUrl, COVALENT_API_KEY, errorToRollbar, fetchCovalentURL, fetchURL, INFURA_URL, isSameAddress, parseNumber, saveToCSV, saveToJSON, toISOString } from './utils'
 
@@ -46,6 +46,14 @@ async function _getVestingContractDataV1(vestingAddress: string): Promise<Vestin
   const vesting_token_contract_balance = parseNumber(raw_token_contract_balance, decimals)
   const vesting_total_amount = vesting_token_contract_balance + vesting_released
 
+  let vesting_status = new Date() < new Date(vesting_finish_at) ? VestingStatus.InProgress : VestingStatus.Finished
+
+  const isrevoked = await vestingContract.methods.revoked().call()
+
+  if (isrevoked) {
+    vesting_status = VestingStatus.Revoked
+  }
+
   return {
     token: token.symbol,
     vesting_released,
@@ -53,7 +61,8 @@ async function _getVestingContractDataV1(vestingAddress: string): Promise<Vestin
     vesting_start_at,
     vesting_finish_at,
     vesting_token_contract_balance,
-    vesting_total_amount
+    vesting_total_amount,
+    vesting_status
   }
 }
 
@@ -80,6 +89,20 @@ async function _getVestingContractDataV2(vestingAddress: string): Promise<Vestin
   const vesting_token_contract_balance = parseNumber(raw_token_contract_balance, decimals)
   const vesting_total_amount = vesting_token_contract_balance + vesting_released
 
+  let vesting_status = new Date() < new Date(vesting_finish_at) ? VestingStatus.InProgress : VestingStatus.Finished
+
+  const isrevoked = await vestingContract.methods.getIsRevoked().call()
+
+  if (isrevoked) {
+    vesting_status = VestingStatus.Revoked
+  }
+  else {
+    const isPaused = await vestingContract.methods.paused().call()
+    if (isPaused) {
+      vesting_status = VestingStatus.Paused
+    }
+  }
+
   return {
     token: token.symbol,
     vesting_released,
@@ -87,7 +110,8 @@ async function _getVestingContractDataV2(vestingAddress: string): Promise<Vestin
     vesting_start_at,
     vesting_finish_at,
     vesting_token_contract_balance,
-    vesting_total_amount
+    vesting_total_amount,
+    vesting_status
   }
 }
 
@@ -220,6 +244,7 @@ async function main() {
     { id: 'beneficiary', title: 'Beneficiary' },
     { id: 'token', title: 'Token' },
 
+    { id: 'vesting_status', title: 'Vesting Status' },
     { id: 'vesting_address', title: 'Vesting Contract' },
     { id: 'vesting_released', title: 'Vesting Released Amount' },
     { id: 'vesting_releasable', title: 'Vesting Releasable Amount' },
