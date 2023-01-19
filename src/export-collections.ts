@@ -1,5 +1,5 @@
 import { Collection } from "./interfaces/Collection"
-import { collectionsUrl, fetchGraphQLCondition, saveToCSV, saveToJSON, toISOString } from "./utils"
+import { collectionsUrl, errorToRollbar, fetchGraphQLCondition, saveToCSV, saveToJSON, toISOString } from "./utils"
 
 async function main() {
   // Fetch Collections
@@ -30,4 +30,9 @@ async function main() {
   ])
 }
 
-main()
+try {
+  main()
+} catch (error) {
+  errorToRollbar(__filename, error)
+}
+

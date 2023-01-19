@@ -5,6 +5,7 @@ import { Contract } from './interfaces/Balance'
 import {
   baseCovalentUrl,
   COVALENT_API_KEY,
+  errorToRollbar,
   fetchCovalentURL,
   flattenArray,
   getPreviousDate,
@@ -113,4 +114,8 @@ async function main() {
   ])
 }
 
-main()
+try {
+  main()
+} catch (error) {
+  errorToRollbar(__filename, error)
+}

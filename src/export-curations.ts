@@ -1,5 +1,5 @@
 import { Curation } from './interfaces/Curation'
-import { collectionsUrl, fetchGraphQLCondition, saveToCSV, saveToJSON, toISOString } from './utils'
+import { collectionsUrl, errorToRollbar, fetchGraphQLCondition, saveToCSV, saveToJSON, toISOString } from './utils'
 
 interface CurationParsed {
   timestamp: string,
@@ -48,4 +48,9 @@ async function main() {
   ])
 }
 
-main()
+try {
+  main()
+} catch (error) {
+  errorToRollbar(__filename, error)
+}
+

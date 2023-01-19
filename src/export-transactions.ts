@@ -12,7 +12,7 @@ import { TransferItem, TransferType } from './interfaces/Transactions/Transfers'
 import {
   COVALENT_API_KEY, DECENTRALAND_DATA_URL, fetchCovalentURL, fetchURL,
   flattenArray, getLatestBlockByToken, LatestBlocks, printableLatestBlocks,
-  saveToCSV, saveToJSON, setTransactionTag, splitArray, baseCovalentUrl, parseNumber, getTokenPriceInfo, getPreviousDate
+  saveToCSV, saveToJSON, setTransactionTag, splitArray, baseCovalentUrl, parseNumber, getTokenPriceInfo, getPreviousDate, errorToRollbar
 } from './utils'
 
 export interface TransactionParsed {
@@ -339,4 +339,8 @@ async function main() {
   saveTransactions(transactions, true)
 }
 
-main()
+try {
+  main()
+} catch (error) {
+  errorToRollbar(__filename, error)
+}

@@ -1,6 +1,6 @@
 import { renderFile } from "ejs"
 import { GovernanceProposal, GovernanceProposalType, Status } from "./interfaces/GovernanceProposal"
-import { fetchURL, governanceUrl, saveToFile } from "./utils"
+import { errorToRollbar, fetchURL, governanceUrl, saveToFile } from "./utils"
 
 type Votes = {
   choice: number
@@ -129,4 +129,9 @@ async function generateReport(currentReport: number, startDate: Date, endDate: D
   console.log("✅ The markdown file has been saved.")
 }
 
-main()
+try {
+  main()
+} catch (error) {
+  errorToRollbar(__filename, error)
+}
+

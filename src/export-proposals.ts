@@ -1,6 +1,6 @@
 import { GovernanceProposal, SnapshotSpace, Symbol } from './interfaces/GovernanceProposal'
 import { Proposal, ProposalParsed, ProposalVotes } from './interfaces/Proposal'
-import { fetchGraphQLCondition, fetchURL, governanceUrl, saveToCSV, saveToJSON, snapshotUrl } from './utils'
+import { errorToRollbar, fetchGraphQLCondition, fetchURL, governanceUrl, saveToCSV, saveToJSON, snapshotUrl } from './utils'
 
 async function main() {
   // Fetch Snapshot Proposals
@@ -81,4 +81,9 @@ async function main() {
   ])
 }
 
-main()
+try {
+  main()
+} catch (error) {
+  errorToRollbar(__filename, error)
+}
+
