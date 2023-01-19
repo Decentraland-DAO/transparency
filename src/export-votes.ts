@@ -1,6 +1,6 @@
 import { SnapshotSpace } from './interfaces/GovernanceProposal'
 import { Vote } from './interfaces/Vote'
-import { fetchGraphQLCondition, parseVP, saveToCSV, saveToJSON, snapshotUrl, toISOString } from './utils'
+import { errorToRollbar, fetchGraphQLCondition, parseVP, saveToCSV, saveToJSON, snapshotUrl, toISOString } from './utils'
 
 export interface VotesParsed {
   voter: string
@@ -59,4 +59,9 @@ async function main() {
   ])
 }
 
-main()
+try {
+  main()
+} catch (error) {
+  errorToRollbar(__filename, error)
+}
+

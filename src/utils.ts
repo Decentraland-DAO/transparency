@@ -15,6 +15,8 @@ import { TransferType } from './interfaces/Transactions/Transfers'
 import { CovalentResponse } from './interfaces/Covalent'
 import { ethers } from 'ethers'
 import { TokenPriceAPIData } from './interfaces/Transactions/TokenPrices'
+import Path from 'path'
+import { rollbar } from './rollbar'
 
 require('dotenv').config()
 
@@ -353,4 +355,21 @@ export async function getTokenPriceInfo(tokenAddress: string, network: Network, 
 
 export function getPreviousDate(base: Date, daysAmount: number) {
   return new Date(new Date().setDate(base.getDate() - daysAmount))
+}
+
+export function getFileName(filename: string) {
+  return Path.basename(filename)
+}
+
+export function errorToRollbar(filename: string, error: any) {
+  const errorMsg = `Error running the script ${getFileName(filename)}`
+  if (ROLLBAR_ACCESS_TOKEN) {
+    rollbar.error(errorMsg, error)
+  }
+  else {
+    console.log('Rollbar access token not found.')
+    console.error(errorMsg, error)
+  }
+
+  throw new Error(error)
 }

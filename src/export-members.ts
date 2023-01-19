@@ -2,7 +2,7 @@ import snapshot from '@snapshot-labs/snapshot.js'
 import { Networks } from './entities/Networks'
 import { SnapshotSpace } from './interfaces/GovernanceProposal'
 import { DelegationInfo, MemberInfo, STRATEGIES, Vote } from './interfaces/Members'
-import { fetchDelegations, fetchGraphQLCondition, flattenArray, parseVP, saveToCSV, saveToJSON, snapshotUrl, splitArray } from './utils'
+import { errorToRollbar, fetchDelegations, fetchGraphQLCondition, flattenArray, parseVP, saveToCSV, saveToJSON, snapshotUrl, splitArray } from './utils'
 
 const MAX_RETRIES = 10
 
@@ -130,4 +130,8 @@ async function main() {
   ])
 }
 
-main()
+try {
+  main()
+} catch (error) {
+  errorToRollbar(__filename, error)
+}

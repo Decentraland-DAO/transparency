@@ -1,5 +1,5 @@
 import { Wearable, WearableData } from "./interfaces/Wearable"
-import { collectionsUrl, fetchGraphQLCondition, parseNumber, saveToCSV, saveToJSON, toISOString } from "./utils"
+import { collectionsUrl, errorToRollbar, fetchGraphQLCondition, parseNumber, saveToCSV, saveToJSON, toISOString } from "./utils"
 
 type WearableParsed = Wearable & WearableData
 
@@ -63,4 +63,9 @@ async function main() {
   ])
 }
 
-main()
+try {
+  main()
+} catch (error) {
+  errorToRollbar(__filename, error)
+}
+

@@ -9,7 +9,7 @@ import { Status } from './interfaces/GovernanceProposal'
 import { GrantProposal } from './interfaces/Grant'
 import { TransactionDetails } from './interfaces/Transactions/Transactions'
 import { TransferType } from './interfaces/Transactions/Transfers'
-import { dayToMillisec, getTransactionsPerTag, saveToJSON } from './utils'
+import { dayToMillisec, errorToRollbar, getTransactionsPerTag, saveToJSON } from './utils'
 
 function getTxsDetails(txs: Record<string, TransactionDetails>): BalanceDetails[] {
   const groupedTxs: Record<string, BalanceDetails> = {}
@@ -98,4 +98,8 @@ async function main() {
   saveToJSON('api.json', data)
 }
 
-main()
+try {
+  main()
+} catch (error) {
+  errorToRollbar(__filename, error)
+}

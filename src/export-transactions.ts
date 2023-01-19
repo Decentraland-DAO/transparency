@@ -12,7 +12,7 @@ import { TransferItem, TransferType } from './interfaces/Transactions/Transfers'
 import {
   COVALENT_API_KEY, DECENTRALAND_DATA_URL, fetchCovalentURL, fetchURL,
   flattenArray, getLatestBlockByToken, LatestBlocks, printableLatestBlocks,
-  saveToCSV, saveToJSON, setTransactionTag, splitArray, baseCovalentUrl, parseNumber, getTokenPriceInfo, getPreviousDate
+  saveToCSV, saveToJSON, setTransactionTag, splitArray, baseCovalentUrl, parseNumber, getTokenPriceInfo, getPreviousDate, errorToRollbar
 } from './utils'
 
 export interface TransactionParsed {
@@ -60,22 +60,15 @@ const OPENSEA_ADDRESSES = new Set([
 ])
 
 async function getTopicTxs(network: Network, startblock: number, topic: Topic) {
-  const eventHashes: string[] = []
   let block = startblock
   const response = await fetchCovalentURL<{ height: number }>(`${baseCovalentUrl(network)}/block_v2/latest/?key=${COVALENT_API_KEY}`, 0)
   const latestBlock = response[0].height
-  console.log(`Latest ${JSON.stringify(network)} - start block: ${block} - latest block: ${latestBlock} - ${(latestBlock - block) / 1000000}`)
+  console.log(`Latest ${JSON.stringify(network)} - start block: ${block} - latest block: ${latestBlock}`)
 
-  while (block < latestBlock) {
-    const url = `${baseCovalentUrl(network)}/events/topics/${topic}/?key=${COVALENT_API_KEY}&starting-block=${block}&ending-block=${block + 1000000}`
-    console.log('fetch', url)
-    const events = await fetchCovalentURL<EventItem>(url, 1000000)
-    const txHashes = events.map(e => e.tx_hash)
-    eventHashes.push(...txHashes)
-    block += 1000000
-  }
-
-  return eventHashes
+  const url = `${baseCovalentUrl(network)}/events/topics/${topic}/?key=${COVALENT_API_KEY}&starting-block=${block}&ending-block=latest`
+  console.log('fetch', url)
+  const events = await fetchCovalentURL<EventItem>(url)
+  return events.map(e => e.tx_hash)
 }
 
 async function getTransactions(name: string, tokenAddress: string, network: Network, address: string, startBlock?: number) {
@@ -346,4 +339,8 @@ async function main() {
   saveTransactions(transactions, true)
 }
 
-main()
+try {
+  main()
+} catch (error) {
+  errorToRollbar(__filename, error)
+}

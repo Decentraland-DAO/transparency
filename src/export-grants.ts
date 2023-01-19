@@ -10,7 +10,7 @@ import { Tokens } from './entities/Tokens'
 import { GovernanceProposalType, Status } from './interfaces/GovernanceProposal'
 import { GrantProposal, GrantUpdate, GrantUpdateResponse, OneTimePaymentInfo, Updates, UpdateStatus, VestingInfo } from './interfaces/Grant'
 import { Decoded, DecodedName, ParamName, TransactionItem } from './interfaces/Transactions/Transactions'
-import { baseCovalentUrl, COVALENT_API_KEY, fetchCovalentURL, fetchURL, INFURA_URL, isSameAddress, parseNumber, saveToCSV, saveToJSON, toISOString } from './utils'
+import { baseCovalentUrl, COVALENT_API_KEY, errorToRollbar, fetchCovalentURL, fetchURL, INFURA_URL, isSameAddress, parseNumber, saveToCSV, saveToJSON, toISOString } from './utils'
 
 const web3 = new Web3(INFURA_URL)
 
@@ -243,4 +243,9 @@ async function main() {
   ])
 }
 
-main()
+try {
+  main()
+} catch (error) {
+  errorToRollbar(__filename, error)
+}
+
