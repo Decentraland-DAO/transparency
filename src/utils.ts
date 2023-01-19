@@ -370,4 +370,6 @@ export function errorToRollbar(filename: string, error: any) {
     console.log('Rollbar access token not found.')
     console.error(errorMsg, error)
   }
+
+  throw new Error(error)
 }
