@@ -156,6 +156,7 @@ Since January 1, 1 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Should the DAO assign VP to Decentraland&#39;s Content Creators?](https://governance.decentraland.org/proposal/?id=17f5b550-98d8-11ed-ae61-5f6dd0bf8358)
 * [Should VP Delegation have time limits?](https://governance.decentraland.org/proposal/?id=a76304f0-9747-11ed-ae61-5f6dd0bf8358)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
