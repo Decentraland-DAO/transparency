@@ -143,7 +143,6 @@ Since January 1, 1 grants have been approved and the vesting contract(s) will be
 
 ## Points of Interest
 
-* 96, 99: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=9d23f2b0-9440-11ed-ae61-5f6dd0bf8358)
 
 ## Grants
 
