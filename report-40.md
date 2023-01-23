@@ -56,6 +56,7 @@ Since January 16, 0 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* 2, 55: [Filmrare](https://governance.decentraland.org/proposal/?id=f902c5b0-9a90-11ed-ae61-5f6dd0bf8358)
 
 ## Grants
 
