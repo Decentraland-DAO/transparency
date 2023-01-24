@@ -48,9 +48,9 @@ async function _getVestingContractDataV1(vestingAddress: string): Promise<Vestin
 
   let vesting_status = new Date() < new Date(vesting_finish_at) ? VestingStatus.InProgress : VestingStatus.Finished
 
-  const isrevoked = await vestingContract.methods.revoked().call()
+  const isRevoked = await vestingContract.methods.revoked().call()
 
-  if (isrevoked) {
+  if (isRevoked) {
     vesting_status = VestingStatus.Revoked
   }
 
@@ -91,9 +91,9 @@ async function _getVestingContractDataV2(vestingAddress: string): Promise<Vestin
 
   let vesting_status = new Date() < new Date(vesting_finish_at) ? VestingStatus.InProgress : VestingStatus.Finished
 
-  const isrevoked = await vestingContract.methods.getIsRevoked().call()
+  const isRevoked = await vestingContract.methods.getIsRevoked().call()
 
-  if (isrevoked) {
+  if (isRevoked) {
     vesting_status = VestingStatus.Revoked
   }
   else {
