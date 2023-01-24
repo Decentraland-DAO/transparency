@@ -40,7 +40,7 @@
 
 Feel free to create a Github issue with your suggestions or find us at [the DAO's Discord Server](https://discord.gg/TKXwhNkY) on the #general channel.
 
-The commands you need to setup and use the enviroment are:
+The commands you need to setup and use the environment are:
 
 ```
 # Install dependencies
@@ -54,10 +54,10 @@ pico .env
 # Run script that exports files to ./public/
 npx ts-node export-xxxxx.ts
 
-# Upload CSV to shpreadsheet
+# Upload CSV to spreadsheet
 npx ts-node upload.ts SHEET_NAME ./public/xxxxx.csv
 
-# Add a job the the daily process that collects and publish data
+# Add a job the daily process that collects and publishes data
 pico .github/workflows/pull-data.yml
 
 # Run tests
