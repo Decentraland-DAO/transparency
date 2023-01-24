@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 5 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 10 community polls have passed.
+In the two weeks since the last DAO Committee report, 5 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 8 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -67,25 +67,11 @@ Since January 1, 1 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
-#### [Should the DAO restrict the ability for members with less than a certain amount of VP to vote on proposals?](https://governance.decentraland.org/proposal/?id=0952c630-910f-11ed-aae5-394e6c1c2226)
-
-* Yes 7.074331881349831% 238,396 VP (66 votes)
-* No 64.33690527803273% 2,168,072 VP (63 votes)
-* Invalid question/options 28.588762840617438% 963,405 VP (61 votes)
-
-
 #### [Should the DAO implement a mechanism to delegate VP to multiple wallets?](https://governance.decentraland.org/proposal/?id=9d698ea0-9108-11ed-aae5-394e6c1c2226)
 
 * Yes 100% 6,937,587 VP (161 votes)
 * No 0% 0 VP (1 votes)
 * Invalid question/options 0% 0 VP (2 votes)
-
-
-#### [Should we address the Voting Power Distribution in the DAO?](https://governance.decentraland.org/proposal/?id=8192a5f0-8fa9-11ed-aae5-394e6c1c2226)
-
-* Yes 26.71300126977761% 1,888,961 VP (163 votes)
-* No 73.28698458858513% 5,182,355 VP (45 votes)
-* Invalid question/options 0.000014141637265024324% 1 VP (1 votes)
 
 
 #### [Should DAO proposals have a pre-defined &#39;Abstain&#39; voting option?](https://governance.decentraland.org/proposal/?id=2f752230-8deb-11ed-aae5-394e6c1c2226)
@@ -157,6 +143,5 @@ Since January 1, 1 grants have been approved and the vesting contract(s) will be
 ## Polls
 
 * [Should the DAO assign VP to Decentraland&#39;s Content Creators?](https://governance.decentraland.org/proposal/?id=17f5b550-98d8-11ed-ae61-5f6dd0bf8358)
-* [Should VP Delegation have time limits?](https://governance.decentraland.org/proposal/?id=a76304f0-9747-11ed-ae61-5f6dd0bf8358)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
