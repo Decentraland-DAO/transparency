@@ -114,7 +114,7 @@ async function main() {
   const info = flattenArray(await Promise.all(dividedAddresses.map(getMembersInfo)))
 
   saveToJSON('members.json', info)
-  saveToCSV('members.csv', info, [
+  await saveToCSV('members.csv', info, [
     { id: 'address', title: 'Member' },
     { id: 'totalVP', title: 'Total VP' },
     { id: 'manaVP', title: 'MANA VP' },
@@ -130,8 +130,4 @@ async function main() {
   ])
 }
 
-try {
-  main()
-} catch (error) {
-  errorToRollbar(__filename, error)
-}
+main().catch((error) => errorToRollbar(__filename, error))

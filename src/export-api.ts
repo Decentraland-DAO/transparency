@@ -98,8 +98,4 @@ async function main() {
   saveToJSON('api.json', data)
 }
 
-try {
-  main()
-} catch (error) {
-  errorToRollbar(__filename, error)
-}
+main().catch((error) => errorToRollbar(__filename, error))

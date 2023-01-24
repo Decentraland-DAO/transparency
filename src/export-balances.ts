@@ -101,7 +101,7 @@ async function main() {
   console.log(balances.length, 'balances found.')
 
   saveToJSON('balances.json', balances)
-  saveToCSV('balances.csv', balances, [
+  await saveToCSV('balances.csv', balances, [
     { id: 'timestamp', title: 'Timestamp' },
     { id: 'name', title: 'Wallet' },
     { id: 'amount', title: 'Balance' },
@@ -114,8 +114,4 @@ async function main() {
   ])
 }
 
-try {
-  main()
-} catch (error) {
-  errorToRollbar(__filename, error)
-}
+main().catch((error) => errorToRollbar(__filename, error))

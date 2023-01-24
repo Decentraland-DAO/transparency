@@ -155,7 +155,7 @@ async function findSecondarySalesTag(txs: TransactionParsed[], chunk: number) {
 
 function saveTransactions(txs: TransactionParsed[], tagged = false) {
   saveToJSON('transactions.json', txs)
-  saveToCSV('transactions.csv', txs, [
+  await saveToCSV('transactions.csv', txs, [
     { id: 'date', title: 'Date' },
     { id: 'wallet', title: 'Wallet' },
     { id: 'network', title: 'Network' },
@@ -339,8 +339,4 @@ async function main() {
   saveTransactions(transactions, true)
 }
 
-try {
-  main()
-} catch (error) {
-  errorToRollbar(__filename, error)
-}
+main().catch((error) => errorToRollbar(__filename, error))

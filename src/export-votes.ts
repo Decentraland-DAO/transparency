@@ -43,7 +43,7 @@ async function main() {
 
   console.log(votesParsed.length, 'votes found.')
   saveToJSON('votes.json', votesParsed)
-  saveToCSV('votes.csv', votesParsed, [
+  await saveToCSV('votes.csv', votesParsed, [
     { id: 'voter', title: 'Member' },
     { id: 'proposal_id', title: 'Proposal ID' },
     { id: 'created', title: 'Created' },
@@ -59,9 +59,4 @@ async function main() {
   ])
 }
 
-try {
-  main()
-} catch (error) {
-  errorToRollbar(__filename, error)
-}
-
+main().catch((error) => errorToRollbar(__filename, error))
