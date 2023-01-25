@@ -1,4 +1,4 @@
-import { MemberInfo } from './export-members'
+import { MemberVP } from './interfaces/Members'
 import { def, get } from 'bdd-lazy-var/getter'
 import { getVPDistributionRows, isWithinDistributionLimits, VP_DISTRIBUTION_LIMITS } from './kpis-utils'
 
@@ -40,8 +40,7 @@ describe('isWithinDistributionLimits', () => {
 })
 
 describe('getVPDistributionRows', () => {
-  const MEMBER_1: MemberInfo = {
-    address: '',
+  const MEMBER_1: MemberVP = {
     totalVP: 100,
     manaVP: 1,
     landVP: 1,

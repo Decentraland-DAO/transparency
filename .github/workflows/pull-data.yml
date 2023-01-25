@@ -141,6 +141,11 @@ jobs:
           ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
         run: npx ts-node ./src/export-report.ts
 
+      - name: Export Budgets
+          env:
+            ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
+          run: npx ts-node ./src/export-budgets.ts
+
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.2.2
         with:
