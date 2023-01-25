@@ -133,7 +133,6 @@ jobs:
       - name: Export Budgets
           env:
             ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
-            NODE_OPTIONS: "--max-old-space-size=4096"
           run: npx ts-node ./src/export-budgets.ts
 
       - name: Deploy 🚀
