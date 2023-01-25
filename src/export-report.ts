@@ -129,9 +129,4 @@ async function generateReport(currentReport: number, startDate: Date, endDate: D
   console.log("✅ The markdown file has been saved.")
 }
 
-try {
-  main()
-} catch (error) {
-  errorToRollbar(__filename, error)
-}
-
+main().catch((error) => errorToRollbar(__filename, error))

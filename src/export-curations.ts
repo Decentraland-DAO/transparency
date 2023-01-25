@@ -37,7 +37,7 @@ async function main() {
   console.log(curationsParsed.length, 'curations found.')
 
   saveToJSON('curations.json', curationsParsed)
-  saveToCSV('curations.csv', curationsParsed, [
+  await saveToCSV('curations.csv', curationsParsed, [
     { id: 'timestamp', title: 'Date' },
     { id: 'txHash', title: 'Tx Hash' },
     { id: 'curator', title: 'Curator' },
@@ -48,9 +48,4 @@ async function main() {
   ])
 }
 
-try {
-  main()
-} catch (error) {
-  errorToRollbar(__filename, error)
-}
-
+main().catch((error) => errorToRollbar(__filename, error))

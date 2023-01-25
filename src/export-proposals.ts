@@ -58,7 +58,7 @@ async function main() {
   console.log(data.length, 'proposals found.')
 
   saveToJSON('proposals.json', data)
-  saveToCSV('proposals.csv', data, [
+  await saveToCSV('proposals.csv', data, [
     { id: 'id', title: 'Proposal ID' },
     { id: 'snapshot_id', title: 'Snapshot ID' },
     { id: 'user', title: 'Author' },
@@ -81,9 +81,4 @@ async function main() {
   ])
 }
 
-try {
-  main()
-} catch (error) {
-  errorToRollbar(__filename, error)
-}
-
+main().catch((error) => errorToRollbar(__filename, error))

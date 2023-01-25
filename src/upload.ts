@@ -44,10 +44,4 @@ async function main() {
   }
 }
 
-try {
-  main()
-} catch (error) {
-  errorToRollbar(__filename, error)
-}
-
-
+main().catch((error) => errorToRollbar(__filename, error))

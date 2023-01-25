@@ -36,7 +36,7 @@ async function main() {
 
   console.log(wearables.length, 'wearables found.')
   saveToJSON('wearables.json', wearables)
-  saveToCSV('wearables.csv', wearables, [
+  await saveToCSV('wearables.csv', wearables, [
     { id: 'id', title: 'Item ID' },
     { id: 'name', title: 'Name' },
     { id: 'collection', title: 'Collection' },
@@ -63,9 +63,4 @@ async function main() {
   ])
 }
 
-try {
-  main()
-} catch (error) {
-  errorToRollbar(__filename, error)
-}
-
+main().catch((error) => errorToRollbar(__filename, error))

@@ -15,7 +15,7 @@ async function main() {
   console.log(collections.length, 'collections found.')
 
   saveToJSON('collections.json', collections)
-  saveToCSV('collections.csv', collections, [
+  await saveToCSV('collections.csv', collections, [
     { id: 'id', title: 'Collection ID' },
     { id: 'name', title: 'Name' },
     { id: 'symbol', title: 'Symbol' },
@@ -30,9 +30,4 @@ async function main() {
   ])
 }
 
-try {
-  main()
-} catch (error) {
-  errorToRollbar(__filename, error)
-}
-
+main().catch((error) => errorToRollbar(__filename, error))
