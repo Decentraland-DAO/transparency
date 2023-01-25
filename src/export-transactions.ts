@@ -153,7 +153,7 @@ async function findSecondarySalesTag(txs: TransactionParsed[], chunk: number) {
   console.log(`Secondary sales tagged: ${txs.length} - Chunk = ${chunk}`)
 }
 
-function saveTransactions(txs: TransactionParsed[], tagged = false) {
+async function saveTransactions(txs: TransactionParsed[], tagged = false) {
   saveToJSON('transactions.json', txs)
   await saveToCSV('transactions.csv', txs, [
     { id: 'date', title: 'Date' },
@@ -336,7 +336,7 @@ async function main() {
   transactions = !fullFetch ? [...taggedTxns, ...lastTransactions] : taggedTxns
 
   console.log('Saving with tags...')
-  saveTransactions(transactions, true)
+  await saveTransactions(transactions, true)
 }
 
 main().catch((error) => errorToRollbar(__filename, error))

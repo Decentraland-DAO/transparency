@@ -226,7 +226,7 @@ async function main() {
   console.log(proposals.length, 'grants found.')
 
   saveToJSON('grants.json', proposals)
-  await await saveToCSV('grants.csv', proposals, [
+  await saveToCSV('grants.csv', proposals, [
     { id: 'id', title: 'Proposal ID' },
     { id: 'snapshot_id', title: 'Snapshot ID' },
     { id: 'user', title: 'Author' },
