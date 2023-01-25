@@ -1,4 +1,4 @@
-import { DCLMember } from "../interfaces/Members"
+import { DCLMember } from '../interfaces/Members'
 
 class Team {
   private readonly name: string
@@ -61,7 +61,7 @@ export const DAOCommitteeTeam = new Team(
   'Their principal responsibility is to enact binding proposals on-chain like listing Point of Interests, sending Grants, and any other operations involving the DAO\'s smart contracts.',
   [
     {
-      address: '0xfe91c0c482e09600f2d1dbca10fd705bc6de60bc',
+      address: '0xbfa6d24e6a061e9aea3447163fdfe045177dd40e',
       name: 'Yemel',
       avatar: 'https://peer.decentraland.org/content/contents/QmUvDC3wSSTg7Hnej2A6sp3KZPqSULtvkJfvMBJBrLSb8p'
     },
@@ -151,6 +151,6 @@ export const CurationTeam = new Team(
       address: '0x967fb0c36e4f5288f30fb05f8b2a4d7b77eaca4b',
       name: 'KJWalker',
       avatar: 'https://peer.decentraland.org/content/contents/bafkreidrquum4l7dymzhodvzctjaj2odhtp6lxjjn6rkoefy5jr6qycsey'
-    },
+    }
   ]
 )
