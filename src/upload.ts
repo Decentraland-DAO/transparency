@@ -1,7 +1,7 @@
 import { parse } from 'csv-parse/sync'
 import { readFileSync } from 'fs'
 import { GoogleSpreadsheet } from 'google-spreadsheet'
-import { errorToRollbar, parseKPIs } from './utils'
+import { parseKPIs, reportToRollbarAndThrow } from './utils'
 
 require('dotenv').config()
 
@@ -44,4 +44,4 @@ async function main() {
   }
 }
 
-main().catch((error) => errorToRollbar(__filename, error))
+main().catch((error) => reportToRollbarAndThrow(__filename, error))

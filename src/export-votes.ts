@@ -1,6 +1,14 @@
 import { SnapshotSpace } from './interfaces/GovernanceProposal'
 import { Vote } from './interfaces/Vote'
-import { errorToRollbar, fetchGraphQLCondition, parseVP, saveToCSV, saveToJSON, snapshotUrl, toISOString } from './utils'
+import {
+  fetchGraphQLCondition,
+  reportToRollbarAndThrow,
+  saveToCSV,
+  saveToJSON,
+  snapshotUrl,
+  toISOString
+} from './utils'
+import { parseVP } from './vp-utils'
 
 export interface VotesParsed {
   voter: string
@@ -55,8 +63,8 @@ async function main() {
     { id: 'manaVP', title: 'MANA VP' },
     { id: 'namesVP', title: 'Names VP' },
     { id: 'landVP', title: 'LAND VP' },
-    { id: 'delegatedVP', title: 'Delegated VP' },
+    { id: 'delegatedVP', title: 'Delegated VP' }
   ])
 }
 
-main().catch((error) => errorToRollbar(__filename, error))
+main().catch((error) => reportToRollbarAndThrow(__filename, error))

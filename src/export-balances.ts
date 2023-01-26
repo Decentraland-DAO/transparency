@@ -5,12 +5,12 @@ import { Contract } from './interfaces/Balance'
 import {
   baseCovalentUrl,
   COVALENT_API_KEY,
-  errorToRollbar,
   fetchCovalentURL,
   flattenArray,
   getPreviousDate,
   getTokenPriceInfo,
   parseNumber,
+  reportToRollbarAndThrow,
   saveToCSV,
   saveToJSON
 } from './utils'
@@ -69,8 +69,8 @@ async function getBalance(wallet: Wallet) {
   try {
     const contracts = await fetchCovalentURL<Contract>(`${baseCovalentUrl(network)}/address/${address}/balances_v2/?quote-currency=USD&format=JSON&nft=false&no-nft-fetch=true&key=${COVALENT_API_KEY}`, 0)
     const contractsFiltered = contracts.filter(contract => filterContractByToken(contract, wallet))
-    
-    for(const contract of contractsFiltered) {
+
+    for (const contract of contractsFiltered) {
       unresolvedPrices.push(getTokenPriceInfo(contract.contract_address, network, aWeekAgo, today))
     }
 
@@ -114,4 +114,4 @@ async function main() {
   ])
 }
 
-main().catch((error) => errorToRollbar(__filename, error))
+main().catch((error) => reportToRollbarAndThrow(__filename, error))

@@ -1,6 +1,6 @@
-import { renderFile } from "ejs"
-import { GovernanceProposal, GovernanceProposalType, Status } from "./interfaces/GovernanceProposal"
-import { errorToRollbar, fetchURL, governanceUrl, saveToFile } from "./utils"
+import { renderFile } from 'ejs'
+import { GovernanceProposal, GovernanceProposalType, Status } from './interfaces/GovernanceProposal'
+import { fetchURL, governanceUrl, reportToRollbarAndThrow, saveToFile } from './utils'
 
 type Votes = {
   choice: number
@@ -21,7 +21,7 @@ function lastReport(now: Date) {
 }
 
 function nextReport(now: Date) {
-  return lastReport(new Date(now.getTime() - 0 + 3600 * 1000 * 24 * 17))
+  return lastReport(new Date(now.getTime() + 3600 * 1000 * 24 * 17))
 }
 
 function yesterday(now: Date) {
@@ -122,11 +122,11 @@ async function generateReport(currentReport: number, startDate: Date, endDate: D
     'activePois': activePois,
     'activeGrants': activeGrants,
     'activeBans': activeBans,
-    'activeCatalysts': activeCatalysts,
+    'activeCatalysts': activeCatalysts
   }, {})
 
   saveToFile(`report-${currentReport}.md`, report)
-  console.log("✅ The markdown file has been saved.")
+  console.log('✅ The markdown file has been saved.')
 }
 
-main().catch((error) => errorToRollbar(__filename, error))
+main().catch((error) => reportToRollbarAndThrow(__filename, error))

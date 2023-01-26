@@ -2,7 +2,17 @@ import snapshot from '@snapshot-labs/snapshot.js'
 import { Networks } from './entities/Networks'
 import { SnapshotSpace } from './interfaces/GovernanceProposal'
 import { DelegationInfo, MemberInfo, STRATEGIES, Vote } from './interfaces/Members'
-import { errorToRollbar, fetchDelegations, fetchGraphQLCondition, flattenArray, parseVP, saveToCSV, saveToJSON, snapshotUrl, splitArray } from './utils'
+import {
+  fetchDelegations,
+  fetchGraphQLCondition,
+  flattenArray,
+  reportToRollbarAndThrow,
+  saveToCSV,
+  saveToJSON,
+  snapshotUrl,
+  splitArray
+} from './utils'
+import { parseVP } from './vp-utils'
 
 const MAX_RETRIES = 10
 
@@ -40,7 +50,7 @@ async function fetchSnapshotScores(addresses: string[], jobId: number) {
   while (addressesToRetry.length > 0 && retries > 0)
 
   if (retries <= 0 && addressesToRetry.length > 0) {
-    throw new Error("Could not fetch snapshot scores")
+    throw new Error('Could not fetch snapshot scores')
   }
 
   return snapshotScores
@@ -70,7 +80,7 @@ async function getMembersInfo(addresses: string[], jobId: number) {
   } while (snapshotScores.length === 0 && retries > 0)
 
   if (retries <= 0) {
-    throw new Error("Could not fetch scores")
+    throw new Error('Could not fetch scores')
   }
 
   const info: MemberInfo[] = []
@@ -130,4 +140,4 @@ async function main() {
   ])
 }
 
-main().catch((error) => errorToRollbar(__filename, error))
+main().catch((error) => reportToRollbarAndThrow(__filename, error))

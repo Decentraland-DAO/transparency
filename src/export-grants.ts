@@ -8,9 +8,30 @@ import VESTING_V2_ABI from './abi/Ethereum/vesting_v2.json'
 import { Networks } from './entities/Networks'
 import { Tokens } from './entities/Tokens'
 import { GovernanceProposalType, Status } from './interfaces/GovernanceProposal'
-import { GrantProposal, GrantUpdate, GrantUpdateResponse, OneTimePaymentInfo, Updates, UpdateStatus, VestingInfo, VestingStatus } from './interfaces/Grant'
+import {
+  GrantProposal,
+  GrantUpdate,
+  GrantUpdateResponse,
+  OneTimePaymentInfo,
+  Updates,
+  UpdateStatus,
+  VestingInfo,
+  VestingStatus
+} from './interfaces/Grant'
 import { Decoded, DecodedName, ParamName, TransactionItem } from './interfaces/Transactions/Transactions'
-import { baseCovalentUrl, COVALENT_API_KEY, errorToRollbar, fetchCovalentURL, fetchURL, INFURA_URL, isSameAddress, parseNumber, saveToCSV, saveToJSON, toISOString } from './utils'
+import {
+  baseCovalentUrl,
+  COVALENT_API_KEY,
+  fetchCovalentURL,
+  fetchURL,
+  INFURA_URL,
+  isSameAddress,
+  parseNumber,
+  reportToRollbarAndThrow,
+  saveToCSV,
+  saveToJSON,
+  toISOString
+} from './utils'
 
 const web3 = new Web3(INFURA_URL)
 
@@ -95,8 +116,7 @@ async function _getVestingContractDataV2(vestingAddress: string): Promise<Vestin
 
   if (isRevoked) {
     vesting_status = VestingStatus.Revoked
-  }
-  else {
+  } else {
     const isPaused = await vestingContract.methods.paused().call()
     if (isPaused) {
       vesting_status = VestingStatus.Paused
@@ -166,7 +186,7 @@ function parseUpdatesInfo(updatesResponseData: GrantUpdateResponse['data']): Upd
 
   const lastUpdate = updatesResponseData.publicUpdates.filter(
     update => update.status === UpdateStatus.Done || update.status === UpdateStatus.Late
-    ).sort((a, b) => new Date(b.completion_date).getTime() - new Date(a.completion_date).getTime())[0]
+  ).sort((a, b) => new Date(b.completion_date).getTime() - new Date(a.completion_date).getTime())[0]
   return {
     done_updates: getUpdatesAmountByStatus(updatesResponseData.publicUpdates, UpdateStatus.Done),
     late_updates: getUpdatesAmountByStatus(updatesResponseData.publicUpdates, UpdateStatus.Late),
@@ -175,13 +195,15 @@ function parseUpdatesInfo(updatesResponseData: GrantUpdateResponse['data']): Upd
     health: lastUpdate?.health,
     last_update: lastUpdate?.completion_date,
     next_update: updatesResponseData.nextUpdate?.due_date,
-    pending_updates: updatesResponseData.pendingUpdates.length,
+    pending_updates: updatesResponseData.pendingUpdates.length
   }
 }
 
 async function setEnactingData(proposal: GrantProposal): Promise<void> {
 
-  const assignProposalData = (data: Updates | VestingInfo | OneTimePaymentInfo) => { Object.assign(proposal, data) }
+  const assignProposalData = (data: Updates | VestingInfo | OneTimePaymentInfo) => {
+    Object.assign(proposal, data)
+  }
 
   if (proposal.vesting_address) {
     const vestingContractData = await getVestingContractData(proposal.id, proposal.vesting_address.toLowerCase())
@@ -264,8 +286,8 @@ async function main() {
     { id: 'health', title: 'Project Health' },
     { id: 'last_update', title: 'Last Update' },
     { id: 'next_update', title: 'Next Update' },
-    { id: 'pending_updates', title: 'Pending Updates' },
+    { id: 'pending_updates', title: 'Pending Updates' }
   ])
 }
 
-main().catch((error) => errorToRollbar(__filename, error))
+main().catch((error) => reportToRollbarAndThrow(__filename, error))

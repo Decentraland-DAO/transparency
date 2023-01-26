@@ -1,5 +1,5 @@
 import BUDGETS from './budgets.json'
-import { errorToRollbar, saveToJSON } from './utils'
+import { reportToRollbarAndThrow, saveToJSON } from './utils'
 import Time from 'dayjs'
 
 export interface Budget {
@@ -67,4 +67,4 @@ async function main() {
   saveToJSON('budgets.json', validateBudgets(budgets))
 }
 
-main().catch((error) => errorToRollbar(__filename, error))
+main().catch((error) => reportToRollbarAndThrow(__filename, error))
