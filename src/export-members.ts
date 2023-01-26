@@ -131,6 +131,8 @@ async function main() {
     { id: 'landVP', title: 'LAND VP' },
     { id: 'namesVP', title: 'NAMES VP' },
     { id: 'delegatedVP', title: 'Delegated VP' },
+    { id: 'l1WearablesVP', title: 'L1 Wearables VP' },
+    { id: 'rentalVP', title: 'Rental VP' },
     { id: 'hasDelegated', title: 'Has Delegated' },
     { id: 'delegate', title: 'Delegate' },
     { id: 'hasDelegators', title: 'Has Delegators' },

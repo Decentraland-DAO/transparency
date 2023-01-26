@@ -8,8 +8,8 @@ export interface MemberVP {
   landVP: number
   namesVP: number
   delegatedVP: number
-  L1WearablesVp: number
-  rentalVp: number
+  l1WearablesVP: number
+  rentalVP: number
 }
 
 export type MemberInfo = MemberVP & {

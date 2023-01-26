@@ -26,7 +26,7 @@ function main() {
   const transactions = TRANSACTIONS as TransactionParsed[]
   const balances = BALANCES as BalanceParsed[]
 
-  const vpSources: (keyof MemberVP)[] = ['totalVP', 'manaVP', 'landVP', 'namesVP', 'delegatedVP']
+  const vpSources: (keyof MemberVP)[] = ['totalVP', 'manaVP', 'landVP', 'namesVP', 'delegatedVP', 'l1WearablesVP', 'rentalVP']
   const totalVP = sum(members.map(member => member.totalVP))
 
   const kpis: KPI[] = [

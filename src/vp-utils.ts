@@ -40,7 +40,7 @@ export function parseVP(scores: number[]): MemberVP {
     landVP: getScore(scores, StrategyOrder.Land) + getScore(scores, StrategyOrder.Estate),
     namesVP: getScore(scores, StrategyOrder.Names),
     delegatedVP: getScore(scores, StrategyOrder.Delegation),
-    L1WearablesVp: getScore(scores, StrategyOrder.L1Wearables),
-    rentalVp: getScore(scores, StrategyOrder.Rental)
+    l1WearablesVP: getScore(scores, StrategyOrder.L1Wearables),
+    rentalVP: getScore(scores, StrategyOrder.Rental)
   }
 }
