@@ -13,7 +13,7 @@ describe('parseVP', () => {
         namesVP: 66,
         delegatedVP: 77,
         l1WearablesVP: 81,
-        rentalVp: 99,
+        rentalVP: 99,
         totalVP: 474
       })
     })
@@ -34,7 +34,7 @@ describe('parseVP', () => {
         manaVP: 77,
         namesVP: 0,
         delegatedVP: 0,
-        rentalVp: 0,
+        rentalVP: 0,
         l1WearablesVP: 0,
         totalVP: 151
       })
@@ -50,7 +50,7 @@ describe('parseVP', () => {
         manaVP: 77,
         namesVP: 66,
         delegatedVP: 77,
-        rentalVp: 0,
+        rentalVP: 0,
         l1WearablesVP: 0,
         totalVP: 294
       })
@@ -66,7 +66,7 @@ describe('parseVP', () => {
         manaVP: 77,
         namesVP: 66,
         delegatedVP: 77,
-        rentalVp: 99,
+        rentalVP: 99,
         l1WearablesVP: 88,
         totalVP: 581
       })
@@ -88,7 +88,7 @@ describe('parseVP', () => {
         manaVP: 77,
         namesVP: 66,
         delegatedVP: 0,
-        rentalVp: 0,
+        rentalVP: 0,
         l1WearablesVP: 0,
         totalVP: 217
       })

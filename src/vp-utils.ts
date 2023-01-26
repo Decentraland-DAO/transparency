@@ -30,7 +30,7 @@ const AVAILABLE_STRATEGIES_COUNT = enumElementCount(StrategyOrder)
 export function parseVP(scores: number[]): MemberVP {
   if (scores.length > AVAILABLE_STRATEGIES_COUNT) {
     reportToRollbar(`New score strategy detected ${scores}`)
-  } else if (scores.length !== 4 && scores.length !== 6 && scores.length !== AVAILABLE_STRATEGIES_COUNT) {
+  } else if (scores.length !== 4 && scores.length !== 6 && scores.length !== 7 && scores.length !== AVAILABLE_STRATEGIES_COUNT) {
     reportToRollbar(`Invalid VP scores length ${scores}`)
   }
 
