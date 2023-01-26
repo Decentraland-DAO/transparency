@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -43,6 +43,13 @@ Since January 16, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+#### [Should the DAO assign VP to Decentraland&#39;s Content Creators?](https://governance.decentraland.org/proposal/?id=17f5b550-98d8-11ed-ae61-5f6dd0bf8358)
+
+* Yes 50.1525492936853% 983,823 VP (196 votes)
+* No 49.8474507063147% 977,838 VP (119 votes)
+* Invalid question/options 0% 0 VP (6 votes)
+
+
 #### [What is the best name for the Accountability Commitee?](https://governance.decentraland.org/proposal/?id=d76b8270-9374-11ed-ae61-5f6dd0bf8358)
 
 * Grant Accountability Committee 25.060317068477932% 345,157 VP (44 votes)
@@ -56,6 +63,7 @@ Since January 16, 0 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* -111, -19: [Fashion Street Estate](https://governance.decentraland.org/proposal/?id=25198fc0-9cd6-11ed-ae61-5f6dd0bf8358)
 * 2, 55: [Filmrare](https://governance.decentraland.org/proposal/?id=f902c5b0-9a90-11ed-ae61-5f6dd0bf8358)
 
 ## Grants
@@ -69,6 +77,5 @@ Since January 16, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
-* [Should the DAO assign VP to Decentraland&#39;s Content Creators?](https://governance.decentraland.org/proposal/?id=17f5b550-98d8-11ed-ae61-5f6dd0bf8358)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
