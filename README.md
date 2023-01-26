@@ -38,7 +38,7 @@
 
 ## Contributing
 
-Feel free to create a Github issue with your suggestions or find us at [the DAO's Discord Server](https://discord.gg/TKXwhNkY) on the #general channel.
+Feel free to create a Github issue with your suggestions or find us at [the DAO's Discord Server](https://discord.gg/amkcFrqPBh)
 
 The commands you need to setup and use the enviroment are:
 
