@@ -143,5 +143,6 @@ Since January 1, 1 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Should Tudamoon be Unbanned from the DAO Discord](https://governance.decentraland.org/proposal/?id=ec2437f0-9eb1-11ed-868f-0d503a0e5b7e)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
