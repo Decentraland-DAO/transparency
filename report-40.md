@@ -63,6 +63,7 @@ Since January 16, 0 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* 7, -35: [Edifice Metaversal PH2](https://governance.decentraland.org/proposal/?id=0df33ae0-9f69-11ed-868f-0d503a0e5b7e)
 * -111, -19: [Fashion Street Estate](https://governance.decentraland.org/proposal/?id=25198fc0-9cd6-11ed-ae61-5f6dd0bf8358)
 * 2, 55: [Filmrare](https://governance.decentraland.org/proposal/?id=f902c5b0-9a90-11ed-ae61-5f6dd0bf8358)
 
@@ -77,6 +78,7 @@ Since January 16, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Should Tudamoon be unbanned from the Official Decentraland Discord?](https://governance.decentraland.org/proposal/?id=3b601ae0-9f44-11ed-868f-0d503a0e5b7e)
 * [Should Tudamoon be Unbanned from the DAO Discord](https://governance.decentraland.org/proposal/?id=ec2437f0-9eb1-11ed-868f-0d503a0e5b7e)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
