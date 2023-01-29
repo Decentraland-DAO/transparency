@@ -1,7 +1,7 @@
 import snapshot from '@snapshot-labs/snapshot.js'
 import { Networks } from './entities/Networks'
 import { SnapshotSpace } from './interfaces/GovernanceProposal'
-import { DelegationInfo, MemberInfo, STRATEGIES, Vote } from './interfaces/Members'
+import { DelegationInfo, MemberInfo, Vote } from './interfaces/Members'
 import {
   fetchDelegations,
   fetchGraphQLCondition,
@@ -12,7 +12,7 @@ import {
   snapshotUrl,
   splitArray
 } from './utils'
-import { parseVP } from './vp-utils'
+import { getScoresForAddress, parseVP, STRATEGIES } from './vp-utils'
 
 const MAX_RETRIES = 10
 
@@ -24,7 +24,8 @@ const network = Networks.getEth().id.toString()
 * the requests has to be done one at a time.
 */
 async function fetchSnapshotScores(addresses: string[], jobId: number) {
-  const snapshotScores: Record<string, number>[] = [{}, {}, {}, {}, {}, {}]
+  const snapshotScores: Record<string, number>[] = STRATEGIES.map<Record<string, number>>(() => ({}))
+
   let addressesToRetry: string[] = []
   let retries = MAX_RETRIES
   do {
@@ -86,12 +87,7 @@ async function getMembersInfo(addresses: string[], jobId: number) {
   const info: MemberInfo[] = []
 
   for (const address of addresses) {
-    const scores = [0, 0, 0, 0, 0, 0]
-
-    for (const idx in snapshotScores) {
-      scores[idx] = snapshotScores[idx][address] || 0
-    }
-
+    const scores = getScoresForAddress(snapshotScores, address)
     const delegate = delegations.givenDelegations.find(delegation => delegation.delegator.toLowerCase() === address.toLowerCase())
     const delegators = delegations.receivedDelegations.find(delegation => delegation.delegate.toLowerCase() === address.toLowerCase())
 

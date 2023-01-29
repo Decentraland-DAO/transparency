@@ -335,8 +335,8 @@ export function reportToRollbar(errorMsg: string, error?: any) {
     rollbar.error(errorMsg, error)
   } else {
     console.log('Rollbar access token not found.')
-    console.error(errorMsg, error)
   }
+  console.error(errorMsg, error)
 }
 
 export function reportToRollbarAndThrow(filename: string, error: any) {
