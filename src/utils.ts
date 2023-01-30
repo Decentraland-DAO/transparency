@@ -1,6 +1,5 @@
 import { Tokens } from './entities/Tokens'
-import { DataByNetworks, NetworkName } from './entities/Networks'
-import { Network } from './entities/Networks'
+import { DataByNetworks, Network, NetworkName } from './entities/Networks'
 import BigNumber from 'bignumber.js'
 import { createObjectCsvWriter } from 'csv-writer'
 import { ObjectStringifierHeader } from 'csv-writer/src/lib/record'
@@ -9,7 +8,7 @@ import 'isomorphic-fetch'
 import { Tags } from './entities/Tags'
 import { TransactionParsed } from './export-transactions'
 import { KPI } from './interfaces/KPIs'
-import { Delegation, DelegationInfo, MemberVP, ReceivedDelegations } from './interfaces/Members'
+import { Delegation, DelegationInfo, ReceivedDelegations } from './interfaces/Members'
 import { TransactionDetails } from './interfaces/Transactions/Transactions'
 import { TransferType } from './interfaces/Transactions/Transfers'
 import { CovalentResponse } from './interfaces/Covalent'
@@ -35,7 +34,7 @@ export function avg(array: number[]) {
 }
 
 export function median(array: number[]) {
-  if (array.length === 0) throw new Error("Median: no inputs")
+  if (array.length === 0) throw new Error('Median: no inputs')
 
   const sortedArray = [...array].sort((a, b) => a - b)
   const half = Math.floor(sortedArray.length / 2)
@@ -109,7 +108,7 @@ export async function fetchCovalentURL<T>(url: string, pageSize = 10000) {
   while (hasNext) {
     const response: CovalentResponse<T> = await fetchURL(url + (pageSize === 0 ? '' : `&page-size=${pageSize}&page-number=${page}`))
 
-    if(response.error) {
+    if (response.error) {
       if (retries > 0) {
         retries--
         console.log(`Retrying ${url}`)
@@ -192,7 +191,10 @@ export async function fetchDelegations(members: string[], space: string): Promis
     return accumulator
   }, {} as Record<string, string[]>)
 
-  const receivedDelegations: ReceivedDelegations[] = Object.entries(receivedDelegationsMap).map(([delegate, delegators]) => ({ delegate, delegators }))
+  const receivedDelegations: ReceivedDelegations[] = Object.entries(receivedDelegationsMap).map(([delegate, delegators]) => ({
+    delegate,
+    delegators
+  }))
 
   return {
     givenDelegations: snapshotGivenDelegations,
@@ -224,7 +226,7 @@ export function flattenArray<Type>(arr: Type[][]): Type[] {
 }
 
 export function splitArray<Type>(array: Type[], chunkSize: number) {
-  return Array(Math.ceil(array.length / chunkSize)).fill(null).map(function (_, i) {
+  return Array(Math.ceil(array.length / chunkSize)).fill(null).map(function(_, i) {
     return array.slice(i * chunkSize, i * chunkSize + chunkSize)
   })
 }
@@ -235,8 +237,7 @@ export function setTransactionTag(tx: TransactionParsed) {
 
   if (tx.type === TransferType.IN) {
     tag = Tags.get(tx.from) || tag
-  }
-  else if (tx.type === TransferType.OUT) {
+  } else if (tx.type === TransferType.OUT) {
     tag = Tags.getCurator(tx.to) || Tags.get(tx.to) || tag
   }
 
@@ -255,8 +256,7 @@ export function getTransactionsPerTag(transactions: TransactionParsed[]) {
         count: result.count + 1,
         total: result.total.plus(tx.quote)
       }
-    }
-    else {
+    } else {
       group[tx.tag] = {
         count: 1,
         total: new BigNumber(tx.quote)
@@ -281,39 +281,8 @@ export function parseKPIs(kpis: KPI[]) {
   return result
 }
 
-export function parseVP(scores: number[]): MemberVP {
-
-  if (scores.length > 6) {
-    console.warn("new score strategy detected")
-  }
-  else if (scores.length !== 4 && scores.length !== 6) {
-    throw Error('Invalid VP scores length')
-  }
-
-  const totalVP = scores.reduce((acc, val) => acc + val, 0)
-  const manaVP = scores[0] + scores[3]
-  const landVP = scores[1] + scores[2]
-
-  if (scores.length === 4) {
-    return {
-      totalVP,
-      manaVP,
-      landVP,
-      namesVP: 0,
-      delegatedVP: 0
-    }
-  }
-
-  return {
-    totalVP,
-    manaVP,
-    landVP,
-    namesVP: scores[4],
-    delegatedVP: scores[5]
-  }
-}
-
 export type LatestBlocks = DataByNetworks<Record<string, { block: number, date: string }>>
+
 export function getLatestBlockByToken(txs: TransactionParsed[]): LatestBlocks {
   const latestBlocks: LatestBlocks = {
     [NetworkName.ETHEREUM]: {},
@@ -361,15 +330,17 @@ export function getFileName(filename: string) {
   return Path.basename(filename)
 }
 
-export function errorToRollbar(filename: string, error: any) {
-  const errorMsg = `Error running the script ${getFileName(filename)}`
+export function reportToRollbar(errorMsg: string, error?: any) {
   if (ROLLBAR_ACCESS_TOKEN) {
     rollbar.error(errorMsg, error)
-  }
-  else {
+  } else {
     console.log('Rollbar access token not found.')
-    console.error(errorMsg, error)
   }
+  console.error(errorMsg, error)
+}
 
+export function reportToRollbarAndThrow(filename: string, error: any) {
+  const errorMsg = `Error running the script ${getFileName(filename)}`
+  reportToRollbar(errorMsg, error)
   throw new Error(error)
 }

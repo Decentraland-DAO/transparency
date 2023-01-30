@@ -1,6 +1,6 @@
 import { TokenPriceAPIData, TokenPriceData } from './interfaces/Transactions/TokenPrices'
 import GRANTS from '../public/grants.json'
-import { Networks, NetworkName, Network } from './entities/Networks'
+import { Network, NetworkName, Networks } from './entities/Networks'
 import { Tags, TagType } from './entities/Tags'
 import { Tokens, TokenSymbols } from './entities/Tokens'
 import { Wallets } from './entities/Wallets'
@@ -10,9 +10,23 @@ import { EventItem } from './interfaces/Transactions/Events'
 import { TransactionItem } from './interfaces/Transactions/Transactions'
 import { TransferItem, TransferType } from './interfaces/Transactions/Transfers'
 import {
-  COVALENT_API_KEY, DECENTRALAND_DATA_URL, fetchCovalentURL, fetchURL,
-  flattenArray, getLatestBlockByToken, LatestBlocks, printableLatestBlocks,
-  saveToCSV, saveToJSON, setTransactionTag, splitArray, baseCovalentUrl, parseNumber, getTokenPriceInfo, getPreviousDate, errorToRollbar
+  baseCovalentUrl,
+  COVALENT_API_KEY,
+  DECENTRALAND_DATA_URL,
+  fetchCovalentURL,
+  fetchURL,
+  flattenArray,
+  getLatestBlockByToken,
+  getPreviousDate,
+  getTokenPriceInfo,
+  LatestBlocks,
+  parseNumber,
+  printableLatestBlocks,
+  reportToRollbarAndThrow,
+  saveToCSV,
+  saveToJSON,
+  setTransactionTag,
+  splitArray
 } from './utils'
 
 export interface TransactionParsed {
@@ -56,7 +70,7 @@ const OPENSEA_ADDRESSES = new Set([
   '0xf715beb51ec8f63317d66f491e37e7bb048fcc2d',
   '0x000000004b5ad44f70781462233d177d32d993f1',
   '0x13c10925bf130e4a9631900d89475d2155b5f9c0',
-  '0x0000000000e9c0809c14f4dc1e48f97abd9317f6',
+  '0x0000000000e9c0809c14f4dc1e48f97abd9317f6'
 ])
 
 async function getTopicTxs(network: Network, startblock: number, topic: Topic) {
@@ -88,7 +102,7 @@ async function getTransactions(name: string, tokenAddress: string, network: Netw
 
       const date = tx.block_signed_at.split('T')[0]
       const usdPrice = priceData[txTransfer.contract_address.toLowerCase()][date]
-      const amount = parseNumber(Number(txTransfer.delta),  txTransfer.contract_decimals)
+      const amount = parseNumber(Number(txTransfer.delta), txTransfer.contract_decimals)
 
       const usdValue = usdPrice ? usdPrice * amount : (txTransfer.delta_quote || 0)
 
@@ -140,13 +154,13 @@ async function findSecondarySalesTag(txs: TransactionParsed[], chunk: number) {
         }
 
       } catch (error) {
-        console.log("retrying...")
+        console.log('retrying...')
         maxRetries--
       }
     } while (!fetched && maxRetries > 0)
 
     if (maxRetries <= 0) {
-      console.log("Failed to fetch secondary sale tag, tx:", tx.hash)
+      console.log('Failed to fetch secondary sale tag, tx:', tx.hash)
     }
   }
 
@@ -212,7 +226,7 @@ async function tagging(txs: TransactionParsed[]) {
         tx.tag = TagType.GRANT
         continue
       }
-      
+
       if (tx.type === TransferType.IN && GRANTS_VESTING_ADDRESSES.has(tx.from)) {
         tx.tag = TagType.GRANT_REFUND
         continue
@@ -308,8 +322,7 @@ async function main() {
     lastTransactions = await fetchURL(`${DECENTRALAND_DATA_URL}/transactions.json`)
     latestBlocks = await getLatestBlockByToken(lastTransactions)
     console.log('Latest Blocks:', printableLatestBlocks(latestBlocks))
-  }
-  else {
+  } else {
     console.log('\n\n###################### WARNING: fetching all transactions ######################\n\n')
   }
 
@@ -339,4 +352,4 @@ async function main() {
   await saveTransactions(transactions, true)
 }
 
-main().catch((error) => errorToRollbar(__filename, error))
+main().catch((error) => reportToRollbarAndThrow(__filename, error))

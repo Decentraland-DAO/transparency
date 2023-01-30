@@ -1,8 +1,17 @@
 import { SnapshotSpace } from './interfaces/GovernanceProposal'
 import { Vote } from './interfaces/Vote'
-import { errorToRollbar, fetchGraphQLCondition, parseVP, saveToCSV, saveToJSON, snapshotUrl, toISOString } from './utils'
+import {
+  fetchGraphQLCondition,
+  reportToRollbarAndThrow,
+  saveToCSV,
+  saveToJSON,
+  snapshotUrl,
+  toISOString
+} from './utils'
+import { parseVP } from './vp-utils'
+import { MemberVP } from './interfaces/Members'
 
-export interface VotesParsed {
+export type VotesParsed = {
   voter: string
   created: string
   choice: number
@@ -11,11 +20,7 @@ export interface VotesParsed {
   proposal_title: string
   choice_text: string
   weight: number
-  manaVP: number
-  namesVP: number
-  landVP: number
-  delegatedVP: number
-}
+} & Pick<MemberVP, 'manaVP' | 'namesVP' | 'landVP' | 'delegatedVP' | 'l1WearablesVP' | 'rentalVP'>
 
 async function main() {
   // Fetch Snapshot Votes
@@ -37,7 +42,9 @@ async function main() {
       manaVP: vpSources.manaVP,
       namesVP: vpSources.namesVP,
       landVP: vpSources.landVP,
-      delegatedVP: vpSources.delegatedVP
+      delegatedVP: vpSources.delegatedVP,
+      l1WearablesVP: vpSources.l1WearablesVP,
+      rentalVP: vpSources.rentalVP
     }
   })
 
@@ -56,7 +63,9 @@ async function main() {
     { id: 'namesVP', title: 'Names VP' },
     { id: 'landVP', title: 'LAND VP' },
     { id: 'delegatedVP', title: 'Delegated VP' },
+    { id: 'l1WearablesVP', title: 'L1 Wearables VP' },
+    { id: 'rentalVP', title: 'Rental VP' }
   ])
 }
 
-main().catch((error) => errorToRollbar(__filename, error))
+main().catch((error) => reportToRollbarAndThrow(__filename, error))

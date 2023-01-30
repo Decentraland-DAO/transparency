@@ -49,8 +49,10 @@ export function getDelegatedVPDistributionRows(members: MemberInfo[]) {
   const landVP = getMemberVP(membersWhoDelegated, 'landVP')
   const namesVP = getMemberVP(membersWhoDelegated, 'namesVP')
   const manaVP = getMemberVP(membersWhoDelegated, 'manaVP')
+  const l1WearablesVP = getMemberVP(membersWhoDelegated, 'l1WearablesVP')
+  const rentalVP = getMemberVP(membersWhoDelegated, 'rentalVP')
 
-  const totalDelegatedVP = landVP + namesVP + manaVP
+  const totalDelegatedVP = landVP + namesVP + manaVP + l1WearablesVP + rentalVP
 
   const getRow = (type: keyof MemberVP, value: number) => [type, Math.round(value), getRatio(value, totalDelegatedVP)]
 
@@ -58,6 +60,8 @@ export function getDelegatedVPDistributionRows(members: MemberInfo[]) {
     getRow('manaVP', manaVP),
     getRow('landVP', landVP),
     getRow('namesVP', namesVP),
+    getRow('l1WearablesVP', l1WearablesVP),
+    getRow('rentalVP', rentalVP),
     ['Total Delegated VP', Math.round(totalDelegatedVP)]
   ]
 }

@@ -14,7 +14,7 @@ import { MemberInfo, MemberVP } from './interfaces/Members'
 import { ProposalParsed } from './interfaces/Proposal'
 import { FeeDetails } from './interfaces/Transactions/Transactions'
 import { TransferType } from './interfaces/Transactions/Transfers'
-import { avg, dayToMillisec, errorToRollbar, getTransactionsPerTag, median, saveToJSON, sum } from './utils'
+import { avg, dayToMillisec, getTransactionsPerTag, median, reportToRollbarAndThrow, saveToJSON, sum } from './utils'
 import { getDelegatedVPDistributionRows, getRatio, getVPDistributionRows } from './kpis-utils'
 
 
@@ -26,7 +26,7 @@ function main() {
   const transactions = TRANSACTIONS as TransactionParsed[]
   const balances = BALANCES as BalanceParsed[]
 
-  const vpSources: (keyof MemberVP)[] = ['totalVP', 'manaVP', 'landVP', 'namesVP', 'delegatedVP']
+  const vpSources: (keyof MemberVP)[] = ['totalVP', 'manaVP', 'landVP', 'namesVP', 'delegatedVP', 'l1WearablesVP', 'rentalVP']
   const totalVP = sum(members.map(member => member.totalVP))
 
   const kpis: KPI[] = [
@@ -104,7 +104,7 @@ function main() {
 try {
   main()
 } catch (error) {
-  errorToRollbar(__filename, error)
+  reportToRollbarAndThrow(__filename, error)
 }
 
 

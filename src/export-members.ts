@@ -1,8 +1,18 @@
 import snapshot from '@snapshot-labs/snapshot.js'
 import { Networks } from './entities/Networks'
 import { SnapshotSpace } from './interfaces/GovernanceProposal'
-import { DelegationInfo, MemberInfo, STRATEGIES, Vote } from './interfaces/Members'
-import { errorToRollbar, fetchDelegations, fetchGraphQLCondition, flattenArray, parseVP, saveToCSV, saveToJSON, snapshotUrl, splitArray } from './utils'
+import { DelegationInfo, MemberInfo, Vote } from './interfaces/Members'
+import {
+  fetchDelegations,
+  fetchGraphQLCondition,
+  flattenArray,
+  reportToRollbarAndThrow,
+  saveToCSV,
+  saveToJSON,
+  snapshotUrl,
+  splitArray
+} from './utils'
+import { getScoresForAddress, parseVP, STRATEGIES } from './vp-utils'
 
 const MAX_RETRIES = 10
 
@@ -14,7 +24,8 @@ const network = Networks.getEth().id.toString()
 * the requests has to be done one at a time.
 */
 async function fetchSnapshotScores(addresses: string[], jobId: number) {
-  const snapshotScores: Record<string, number>[] = [{}, {}, {}, {}, {}, {}]
+  const snapshotScores: Record<string, number>[] = STRATEGIES.map<Record<string, number>>(() => ({}))
+
   let addressesToRetry: string[] = []
   let retries = MAX_RETRIES
   do {
@@ -40,7 +51,7 @@ async function fetchSnapshotScores(addresses: string[], jobId: number) {
   while (addressesToRetry.length > 0 && retries > 0)
 
   if (retries <= 0 && addressesToRetry.length > 0) {
-    throw new Error("Could not fetch snapshot scores")
+    throw new Error('Could not fetch snapshot scores')
   }
 
   return snapshotScores
@@ -70,18 +81,13 @@ async function getMembersInfo(addresses: string[], jobId: number) {
   } while (snapshotScores.length === 0 && retries > 0)
 
   if (retries <= 0) {
-    throw new Error("Could not fetch scores")
+    throw new Error('Could not fetch scores')
   }
 
   const info: MemberInfo[] = []
 
   for (const address of addresses) {
-    const scores = [0, 0, 0, 0, 0, 0]
-
-    for (const idx in snapshotScores) {
-      scores[idx] = snapshotScores[idx][address] || 0
-    }
-
+    const scores = getScoresForAddress(snapshotScores, address)
     const delegate = delegations.givenDelegations.find(delegation => delegation.delegator.toLowerCase() === address.toLowerCase())
     const delegators = delegations.receivedDelegations.find(delegation => delegation.delegate.toLowerCase() === address.toLowerCase())
 
@@ -121,6 +127,8 @@ async function main() {
     { id: 'landVP', title: 'LAND VP' },
     { id: 'namesVP', title: 'NAMES VP' },
     { id: 'delegatedVP', title: 'Delegated VP' },
+    { id: 'l1WearablesVP', title: 'L1 Wearables VP' },
+    { id: 'rentalVP', title: 'Rental VP' },
     { id: 'hasDelegated', title: 'Has Delegated' },
     { id: 'delegate', title: 'Delegate' },
     { id: 'hasDelegators', title: 'Has Delegators' },
@@ -130,4 +138,4 @@ async function main() {
   ])
 }
 
-main().catch((error) => errorToRollbar(__filename, error))
+main().catch((error) => reportToRollbarAndThrow(__filename, error))

@@ -100,6 +100,8 @@ export enum Name {
   Erc20BalanceOf = 'erc20-balance-of',
   Erc721WithMultiplier = 'erc721-with-multiplier',
   Multichain = 'multichain',
+  DecentralandWearableRarity = 'decentraland-wearable-rarity',
+  DecentralandRentalLessors = 'decentraland-rental-lessors'
 }
 
 export interface MetadataStrategyParams {

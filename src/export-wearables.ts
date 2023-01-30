@@ -1,5 +1,13 @@
-import { Wearable, WearableData } from "./interfaces/Wearable"
-import { collectionsUrl, errorToRollbar, fetchGraphQLCondition, parseNumber, saveToCSV, saveToJSON, toISOString } from "./utils"
+import { Wearable, WearableData } from './interfaces/Wearable'
+import {
+  collectionsUrl,
+  fetchGraphQLCondition,
+  parseNumber,
+  reportToRollbarAndThrow,
+  saveToCSV,
+  saveToJSON,
+  toISOString
+} from './utils'
 
 type WearableParsed = Wearable & WearableData
 
@@ -13,7 +21,7 @@ async function main() {
     const url = collectionsUrl(network)
     const networkWearables = await fetchGraphQLCondition<WearableParsed>(
       url, 'items', 'createdAt', 'id',
-      'id creator itemType totalSupply maxSupply rarity creationFee available price beneficiary URI image createdAt updatedAt reviewedAt soldAt sales volume metadata { wearable { name description category collection } }',
+      'id creator itemType totalSupply maxSupply rarity creationFee available price beneficiary URI image createdAt updatedAt reviewedAt soldAt sales volume metadata { wearable { name description category collection } }'
     )
 
     for (const w of networkWearables) {
@@ -22,7 +30,7 @@ async function main() {
       w.category = w.metadata.wearable?.category
       w.network = network
       w.collection = w.metadata.wearable?.collection
-      w.price = parseNumber(w.price,  18) || 0
+      w.price = parseNumber(w.price, 18) || 0
       w.creationFee = parseNumber(w.creationFee, 18) || 0
 
       w.createdAt = toISOString(parseInt(w.createdAt))
@@ -59,8 +67,8 @@ async function main() {
     { id: 'creator', title: 'Creator' },
     { id: 'beneficiary', title: 'Beneficiary' },
     { id: 'URI', title: 'URI' },
-    { id: 'urn', title: 'URN' },
+    { id: 'urn', title: 'URN' }
   ])
 }
 
-main().catch((error) => errorToRollbar(__filename, error))
+main().catch((error) => reportToRollbarAndThrow(__filename, error))
