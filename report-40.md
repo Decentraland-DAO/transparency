@@ -9,12 +9,18 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-2 points of interest have been added to Decentraland’s map since the last report.
+3 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 2, 55: [Filmrare](https://governance.decentraland.org/proposal/?id=f902c5b0-9a90-11ed-ae61-5f6dd0bf8358)
+
+* Yes 99.98430724535822% 745,450 VP (266 votes)
+* No 0.015692754641769283% 117 VP (4 votes)
 
 
 #### 96, 99: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=9d23f2b0-9440-11ed-ae61-5f6dd0bf8358)
@@ -65,7 +71,6 @@ Since January 16, 0 grants have been approved and the vesting contract(s) will b
 
 * 7, -35: [Edifice Metaversal PH2](https://governance.decentraland.org/proposal/?id=0df33ae0-9f69-11ed-868f-0d503a0e5b7e)
 * -111, -19: [Fashion Street Estate](https://governance.decentraland.org/proposal/?id=25198fc0-9cd6-11ed-ae61-5f6dd0bf8358)
-* 2, 55: [Filmrare](https://governance.decentraland.org/proposal/?id=f902c5b0-9a90-11ed-ae61-5f6dd0bf8358)
 
 ## Grants
 
@@ -78,6 +83,7 @@ Since January 16, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Set duration period for DAO Committee members](https://governance.decentraland.org/proposal/?id=7d7c3fb0-a086-11ed-868f-0d503a0e5b7e)
 * [Should Tudamoon be unbanned from the Official Decentraland Discord?](https://governance.decentraland.org/proposal/?id=3b601ae0-9f44-11ed-868f-0d503a0e5b7e)
 * [Should Tudamoon be Unbanned from the DAO Discord](https://governance.decentraland.org/proposal/?id=ec2437f0-9eb1-11ed-868f-0d503a0e5b7e)
 
