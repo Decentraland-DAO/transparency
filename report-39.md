@@ -35,7 +35,7 @@ In the two weeks since the last DAO Committee report, 5 points of interest (POI)
 * No 0% 0 VP (6 votes)
 
 
-#### 120, -12: [No Name](https://governance.decentraland.org/proposal/?id=99efb4b0-89b6-11ed-bd37-2b7f3eae6b63)
+#### 120, -12: [Ex-Butterfly Prawn Farm](https://governance.decentraland.org/proposal/?id=99efb4b0-89b6-11ed-bd37-2b7f3eae6b63)
 
 * Yes 99.99985878000042% 2,832,456 VP (173 votes)
 * No 0.00014121999957633998% 4 VP (6 votes)
