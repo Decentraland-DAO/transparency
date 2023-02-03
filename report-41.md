@@ -58,6 +58,5 @@ Since February 1, 0 grants have been approved and the vesting contract(s) will b
 ## Polls
 
 * [Set duration period for DAO Committee members](https://governance.decentraland.org/proposal/?id=7d7c3fb0-a086-11ed-868f-0d503a0e5b7e)
-* [Should Tudamoon be unbanned from the Official Decentraland Discord?](https://governance.decentraland.org/proposal/?id=3b601ae0-9f44-11ed-868f-0d503a0e5b7e)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
