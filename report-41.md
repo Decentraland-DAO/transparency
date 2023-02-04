@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -30,6 +30,13 @@ Since February 1, 0 grants have been approved and the vesting contract(s) will b
 
 
 ## Polls
+
+#### [Set duration period for DAO Committee members](https://governance.decentraland.org/proposal/?id=7d7c3fb0-a086-11ed-868f-0d503a0e5b7e)
+
+* Yes 10.769233722309595% 168,313 VP (183 votes)
+* No 89.2307662776904% 1,394,593 VP (89 votes)
+* Invalid question/options 0% 0 VP (1 votes)
+
 
 #### [Should Tudamoon be Unbanned from the DAO Discord](https://governance.decentraland.org/proposal/?id=ec2437f0-9eb1-11ed-868f-0d503a0e5b7e)
 
@@ -57,6 +64,6 @@ Since February 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
-* [Set duration period for DAO Committee members](https://governance.decentraland.org/proposal/?id=7d7c3fb0-a086-11ed-868f-0d503a0e5b7e)
+* [Please review the following proposal to create the position of Chief Land Officer coupled with a Land Advisory Board](https://governance.decentraland.org/proposal/?id=3b660f50-a41b-11ed-a669-05ba4b332980)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

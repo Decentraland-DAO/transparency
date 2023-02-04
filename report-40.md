@@ -82,6 +82,6 @@ Since January 16, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
-* [Set duration period for DAO Committee members](https://governance.decentraland.org/proposal/?id=7d7c3fb0-a086-11ed-868f-0d503a0e5b7e)
+* [Please review the following proposal to create the position of Chief Land Officer coupled with a Land Advisory Board](https://governance.decentraland.org/proposal/?id=3b660f50-a41b-11ed-a669-05ba4b332980)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
