@@ -9,12 +9,18 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+1 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 7, -35: [Edifice Metaversal PH2](https://governance.decentraland.org/proposal/?id=0df33ae0-9f69-11ed-868f-0d503a0e5b7e)
+
+* Yes 99.99948407922805% 3,682,717 VP (304 votes)
+* No 0.0005159207719478128% 19 VP (6 votes)
 
 
 ## Name Bans
@@ -51,7 +57,6 @@ Since February 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
-* 7, -35: [Edifice Metaversal PH2](https://governance.decentraland.org/proposal/?id=0df33ae0-9f69-11ed-868f-0d503a0e5b7e)
 
 ## Grants
 

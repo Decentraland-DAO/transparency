@@ -69,7 +69,6 @@ Since January 16, 0 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
-* 7, -35: [Edifice Metaversal PH2](https://governance.decentraland.org/proposal/?id=0df33ae0-9f69-11ed-868f-0d503a0e5b7e)
 
 ## Grants
 
