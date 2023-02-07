@@ -17,7 +17,7 @@ In the two weeks since the last DAO Committee report, 1 points of interest (POI)
 1 points of interest have been added to Decentraland’s map since the last report.
 
 
-#### 7, -35: [Edifice Metaversal PH2](https://governance.decentraland.org/proposal/?id=0df33ae0-9f69-11ed-868f-0d503a0e5b7e)
+#### 7, -35: [Edifice Metaversal](https://governance.decentraland.org/proposal/?id=0df33ae0-9f69-11ed-868f-0d503a0e5b7e)
 
 * Yes 99.99948407922805% 3,682,717 VP (304 votes)
 * No 0.0005159207719478128% 19 VP (6 votes)
@@ -69,6 +69,7 @@ Since February 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Which candidate should be added to the DAO Committee?](https://governance.decentraland.org/proposal/?id=93f5cb90-a67f-11ed-a669-05ba4b332980)
 * [Please review the following proposal to create the position of Chief Land Officer coupled with a Land Advisory Board](https://governance.decentraland.org/proposal/?id=3b660f50-a41b-11ed-a669-05ba4b332980)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
