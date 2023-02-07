@@ -1,6 +1,9 @@
 import BUDGETS from './budgets.json'
 import { reportToRollbarAndThrow, saveToJSON } from './utils'
-import Time from 'dayjs'
+import utc from 'dayjs/plugin/utc'
+import dayjs from 'dayjs'
+
+dayjs.extend(utc)
 
 export interface Budget {
   start_date: string
@@ -33,8 +36,13 @@ export function validateCategoryPercentages(categoryPercentages: Record<string, 
   }
 }
 
+export function getQuarterEndDate(quarterStartDate: Date) {
+  const startDate = new Date(quarterStartDate)
+  return new Date(dayjs.utc(startDate.toISOString()).add(3, 'months').toISOString())
+}
+
 function validateThereIsNoOverlapping(currentDate: Date, nextStartDate) {
-  const endDate = Time(currentDate).add(4, 'months')
+  const endDate = getQuarterEndDate(currentDate)
   if (endDate > nextStartDate) {
     throw new Error(`Budgets can't overlap`)
   }
