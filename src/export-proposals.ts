@@ -29,7 +29,7 @@ async function main() {
   const governanceProposals: GovernanceProposal[] = []
   while (true) {
     const skip = governanceProposals.length
-    const url = `${governanceUrl()}/proposals?limit=100000&offset=${skip}`
+    const url = `${governanceUrl()}/proposals?limit=100&offset=${skip}`
     const json = await fetchURL(url)
 
     if (!json.data.length) break

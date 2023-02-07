@@ -62,6 +62,12 @@ export function dayToMillisec(dayAmount: number) {
   return dayAmount * 24 * 60 * 60 * 1000
 }
 
+export function getMonthsBetweenDates(startDate: Date, endDate: Date) {
+  const yearDiff = endDate.getFullYear() - startDate.getFullYear()
+  const monthDiff = endDate.getMonth() - startDate.getMonth()
+  return yearDiff * 12 + monthDiff;
+}
+
 export function toISOString(seconds: number) {
   return seconds ? new Date(seconds * 1000).toISOString() : undefined
 }
