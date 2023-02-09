@@ -17,7 +17,7 @@ In the two weeks since the last DAO Committee report, 3 points of interest (POI)
 3 points of interest have been added to Decentraland’s map since the last report.
 
 
-#### 2, 55: [Filmrare](https://governance.decentraland.org/proposal/?id=f902c5b0-9a90-11ed-ae61-5f6dd0bf8358)
+#### 2, 55: [No Name](https://governance.decentraland.org/proposal/?id=f902c5b0-9a90-11ed-ae61-5f6dd0bf8358)
 
 * Yes 99.98430724535822% 745,450 VP (266 votes)
 * No 0.015692754641769283% 117 VP (4 votes)
@@ -81,8 +81,8 @@ Since January 16, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Only vote on this if you are a bot](https://governance.decentraland.org/proposal/?id=3c684ae0-a83e-11ed-8dfe-4ff0ad4dfd32)
 * [Rebuttal Voting Period for Whale Votes in final 24 hours](https://governance.decentraland.org/proposal/?id=f61af720-a709-11ed-a669-05ba4b332980)
 * [Which candidate should be added to the DAO Committee?](https://governance.decentraland.org/proposal/?id=93f5cb90-a67f-11ed-a669-05ba4b332980)
-* [Please review the following proposal to create the position of Chief Land Officer coupled with a Land Advisory Board](https://governance.decentraland.org/proposal/?id=3b660f50-a41b-11ed-a669-05ba4b332980)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

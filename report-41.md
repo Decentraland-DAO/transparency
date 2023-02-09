@@ -69,8 +69,8 @@ Since February 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Only vote on this if you are a bot](https://governance.decentraland.org/proposal/?id=3c684ae0-a83e-11ed-8dfe-4ff0ad4dfd32)
 * [Rebuttal Voting Period for Whale Votes in final 24 hours](https://governance.decentraland.org/proposal/?id=f61af720-a709-11ed-a669-05ba4b332980)
 * [Which candidate should be added to the DAO Committee?](https://governance.decentraland.org/proposal/?id=93f5cb90-a67f-11ed-a669-05ba4b332980)
-* [Please review the following proposal to create the position of Chief Land Officer coupled with a Land Advisory Board](https://governance.decentraland.org/proposal/?id=3b660f50-a41b-11ed-a669-05ba4b332980)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
