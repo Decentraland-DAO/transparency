@@ -69,6 +69,7 @@ Since January 16, 0 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* -150, 75: [No Name](https://governance.decentraland.org/proposal/?id=3f8f3fc0-aa33-11ed-8dfe-4ff0ad4dfd32)
 * 130, 130: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=3b528290-a895-11ed-8dfe-4ff0ad4dfd32)
 
 ## Grants
@@ -91,6 +92,5 @@ Since January 16, 0 grants have been approved and the vesting contract(s) will b
 * [Should DAO limit ability to self-vote on certain proposals?](https://governance.decentraland.org/proposal/?id=7b3ee6e0-a8aa-11ed-8dfe-4ff0ad4dfd32)
 * [Only vote on this if you are a bot](https://governance.decentraland.org/proposal/?id=3c684ae0-a83e-11ed-8dfe-4ff0ad4dfd32)
 * [Rebuttal Voting Period for Whale Votes in final 24 hours](https://governance.decentraland.org/proposal/?id=f61af720-a709-11ed-a669-05ba4b332980)
-* [Which candidate should be added to the DAO Committee?](https://governance.decentraland.org/proposal/?id=93f5cb90-a67f-11ed-a669-05ba4b332980)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

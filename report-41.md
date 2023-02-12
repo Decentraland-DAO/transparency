@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -37,6 +37,16 @@ Since February 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+#### [Which candidate should be added to the DAO Committee?](https://governance.decentraland.org/proposal/?id=93f5cb90-a67f-11ed-a669-05ba4b332980)
+
+* AwedJob 2.349736498959517% 233,216 VP (34 votes)
+* Champ 1.8392076409961797% 182,545 VP (24 votes)
+* Martriay 7.831108255976354% 777,253 VP (8 votes)
+* Szjanko 29.381962959328366% 2,916,218 VP (108 votes)
+* Tobik 58.551053591071934% 5,811,308 VP (76 votes)
+* Invalid question/options 0.04693105366764472% 4,658 VP (5 votes)
+
+
 #### [Set duration period for DAO Committee members](https://governance.decentraland.org/proposal/?id=7d7c3fb0-a086-11ed-868f-0d503a0e5b7e)
 
 * Yes 10.769233722309595% 168,313 VP (183 votes)
@@ -57,6 +67,7 @@ Since February 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* -150, 75: [No Name](https://governance.decentraland.org/proposal/?id=3f8f3fc0-aa33-11ed-8dfe-4ff0ad4dfd32)
 * 130, 130: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=3b528290-a895-11ed-8dfe-4ff0ad4dfd32)
 
 ## Grants
@@ -79,6 +90,5 @@ Since February 1, 0 grants have been approved and the vesting contract(s) will b
 * [Should DAO limit ability to self-vote on certain proposals?](https://governance.decentraland.org/proposal/?id=7b3ee6e0-a8aa-11ed-8dfe-4ff0ad4dfd32)
 * [Only vote on this if you are a bot](https://governance.decentraland.org/proposal/?id=3c684ae0-a83e-11ed-8dfe-4ff0ad4dfd32)
 * [Rebuttal Voting Period for Whale Votes in final 24 hours](https://governance.decentraland.org/proposal/?id=f61af720-a709-11ed-a669-05ba4b332980)
-* [Which candidate should be added to the DAO Committee?](https://governance.decentraland.org/proposal/?id=93f5cb90-a67f-11ed-a669-05ba4b332980)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
