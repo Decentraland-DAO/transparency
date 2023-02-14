@@ -95,6 +95,5 @@ Since February 1, 0 grants have been approved and the vesting contract(s) will b
 * [Proposal for a Finance Committee](https://governance.decentraland.org/proposal/?id=84bd3940-a8d4-11ed-8dfe-4ff0ad4dfd32)
 * [Set duration period for Wearables Curation Committee members](https://governance.decentraland.org/proposal/?id=0b577640-a8bd-11ed-8dfe-4ff0ad4dfd32)
 * [Should DAO limit ability to self-vote on certain proposals?](https://governance.decentraland.org/proposal/?id=7b3ee6e0-a8aa-11ed-8dfe-4ff0ad4dfd32)
-* [Only vote on this if you are a bot](https://governance.decentraland.org/proposal/?id=3c684ae0-a83e-11ed-8dfe-4ff0ad4dfd32)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
