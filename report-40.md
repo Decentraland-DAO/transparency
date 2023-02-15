@@ -87,8 +87,5 @@ Since January 16, 0 grants have been approved and the vesting contract(s) will b
 * [UPDATE: LAND INTEGRITY ADVISORY BOARD + &#34;LIAB&#34; LEAD](https://governance.decentraland.org/proposal/?id=80061690-a994-11ed-8dfe-4ff0ad4dfd32)
 * [Should we diversify the DAO&#39;s treasury exposure to $MANA?](https://governance.decentraland.org/proposal/?id=fe5948e0-a977-11ed-8dfe-4ff0ad4dfd32)
 * [Reduce the Cost of Publishing Wearables on Decentraland](https://governance.decentraland.org/proposal/?id=33556c90-a969-11ed-8dfe-4ff0ad4dfd32)
-* [Proposal for a Finance Committee](https://governance.decentraland.org/proposal/?id=84bd3940-a8d4-11ed-8dfe-4ff0ad4dfd32)
-* [Set duration period for Wearables Curation Committee members](https://governance.decentraland.org/proposal/?id=0b577640-a8bd-11ed-8dfe-4ff0ad4dfd32)
-* [Should DAO limit ability to self-vote on certain proposals?](https://governance.decentraland.org/proposal/?id=7b3ee6e0-a8aa-11ed-8dfe-4ff0ad4dfd32)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
