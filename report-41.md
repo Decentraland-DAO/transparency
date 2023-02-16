@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 7 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -37,32 +37,19 @@ Since February 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
-#### [Proposal for a Finance Committee](https://governance.decentraland.org/proposal/?id=84bd3940-a8d4-11ed-8dfe-4ff0ad4dfd32)
+#### [UPDATE: LAND INTEGRITY ADVISORY BOARD + &#34;LIAB&#34; LEAD](https://governance.decentraland.org/proposal/?id=80061690-a994-11ed-8dfe-4ff0ad4dfd32)
 
-* Yes 1.1089883558750753% 57,026 VP (85 votes)
-* No 94.32256536353178% 4,850,221 VP (160 votes)
-* Invalid question/options 4.568446280593151% 234,917 VP (4 votes)
-
-
-#### [Set duration period for Wearables Curation Committee members](https://governance.decentraland.org/proposal/?id=0b577640-a8bd-11ed-8dfe-4ff0ad4dfd32)
-
-* Yes 22.358195356359772% 1,475,293 VP (122 votes)
-* No 77.64180464364023% 5,123,151 VP (102 votes)
-* Invalid question/options 0% 0 VP (1 votes)
+* This is a good idea 89.03110609687525% 6,922,343 VP (254 votes)
+* This is a bad idea  0.14530823403037044% 11,298 VP (7 votes)
+* I have questions (please ask in comments) 0.0838821297881108% 6,522 VP (19 votes)
+* Invalid question/options 10.739703539306277% 835,033 VP (13 votes)
 
 
-#### [Should DAO limit ability to self-vote on certain proposals?](https://governance.decentraland.org/proposal/?id=7b3ee6e0-a8aa-11ed-8dfe-4ff0ad4dfd32)
+#### [Reduce the Cost of Publishing Wearables on Decentraland](https://governance.decentraland.org/proposal/?id=33556c90-a969-11ed-8dfe-4ff0ad4dfd32)
 
-* Yes 0.9492030749481364% 60,529 VP (48 votes)
-* No 93.61796618786502% 5,969,852 VP (161 votes)
-* Invalid question/options 5.4328307371868405% 346,442 VP (12 votes)
-
-
-#### [Rebuttal Voting Period for Whale Votes in final 24 hours](https://governance.decentraland.org/proposal/?id=f61af720-a709-11ed-a669-05ba4b332980)
-
-* Yes 1.2710279805248719% 66,854 VP (62 votes)
-* No 97.97208544675435% 5,153,172 VP (142 votes)
-* Invalid question/options 0.7568865727207896% 39,811 VP (4 votes)
+* Yes 0.04644185444950505% 2,264 VP (43 votes)
+* No 99.95355814555049% 4,872,649 VP (182 votes)
+* Invalid question/options 0% 0 VP (0 votes)
 
 
 #### [Which candidate should be added to the DAO Committee?](https://governance.decentraland.org/proposal/?id=93f5cb90-a67f-11ed-a669-05ba4b332980)
@@ -73,13 +60,6 @@ Since February 1, 0 grants have been approved and the vesting contract(s) will b
 * Szjanko 29.381962959328366% 2,916,218 VP (108 votes)
 * Tobik 58.551053591071934% 5,811,308 VP (76 votes)
 * Invalid question/options 0.04693105366764472% 4,658 VP (5 votes)
-
-
-#### [Set duration period for DAO Committee members](https://governance.decentraland.org/proposal/?id=7d7c3fb0-a086-11ed-868f-0d503a0e5b7e)
-
-* Yes 10.769233722309595% 168,313 VP (183 votes)
-* No 89.2307662776904% 1,394,593 VP (89 votes)
-* Invalid question/options 0% 0 VP (1 votes)
 
 
 #### [Should Tudamoon be Unbanned from the DAO Discord](https://governance.decentraland.org/proposal/?id=ec2437f0-9eb1-11ed-868f-0d503a0e5b7e)
@@ -109,9 +89,5 @@ Since February 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
-* [Logarithmic VP conversion after a certain amount accumulated.](https://governance.decentraland.org/proposal/?id=4fa50100-a9b2-11ed-8dfe-4ff0ad4dfd32)
-* [UPDATE: LAND INTEGRITY ADVISORY BOARD + &#34;LIAB&#34; LEAD](https://governance.decentraland.org/proposal/?id=80061690-a994-11ed-8dfe-4ff0ad4dfd32)
-* [Should we diversify the DAO&#39;s treasury exposure to $MANA?](https://governance.decentraland.org/proposal/?id=fe5948e0-a977-11ed-8dfe-4ff0ad4dfd32)
-* [Reduce the Cost of Publishing Wearables on Decentraland](https://governance.decentraland.org/proposal/?id=33556c90-a969-11ed-8dfe-4ff0ad4dfd32)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
