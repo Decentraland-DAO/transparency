@@ -9,12 +9,18 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+1 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 130, 130: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=3b528290-a895-11ed-8dfe-4ff0ad4dfd32)
+
+* Yes 99.9999599271877% 4,990,913 VP (242 votes)
+* No 0.00004007281229994901% 2 VP (2 votes)
 
 
 ## Name Bans
@@ -45,7 +51,6 @@ Since February 16, 0 grants have been approved and the vesting contract(s) will 
 ## Points of Interest
 
 * -150, 75: [No Name](https://governance.decentraland.org/proposal/?id=3f8f3fc0-aa33-11ed-8dfe-4ff0ad4dfd32)
-* 130, 130: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=3b528290-a895-11ed-8dfe-4ff0ad4dfd32)
 
 ## Grants
 
