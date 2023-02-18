@@ -75,6 +75,7 @@ Since February 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* 49, -45: [GOLFCRAFT GAME](https://governance.decentraland.org/proposal/?id=0a44cb10-aece-11ed-9b79-794d7657c819)
 * -150, 75: [No Name](https://governance.decentraland.org/proposal/?id=3f8f3fc0-aa33-11ed-8dfe-4ff0ad4dfd32)
 
 ## Grants
@@ -88,5 +89,7 @@ Since February 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Duel Arena Pre Proposal, We would love to hear your opinion](https://governance.decentraland.org/proposal/?id=41c6df70-af45-11ed-9b79-794d7657c819)
+* [How about &#34;Introducing Sub-POIs: Enhancing Detail and Information on Our Map&#34;?](https://governance.decentraland.org/proposal/?id=3da4fcc0-aee5-11ed-9b79-794d7657c819)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
