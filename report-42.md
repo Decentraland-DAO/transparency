@@ -9,12 +9,18 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-1 points of interest have been added to Decentraland’s map since the last report.
+2 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -150, 75: [No Name](https://governance.decentraland.org/proposal/?id=3f8f3fc0-aa33-11ed-8dfe-4ff0ad4dfd32)
+
+* Yes 88.79965190343032% 4,583,648 VP (222 votes)
+* No 11.200348096569677% 578,138 VP (59 votes)
 
 
 #### 130, 130: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=3b528290-a895-11ed-8dfe-4ff0ad4dfd32)
@@ -51,7 +57,6 @@ Since February 16, 0 grants have been approved and the vesting contract(s) will 
 ## Points of Interest
 
 * 49, -45: [GOLFCRAFT GAME](https://governance.decentraland.org/proposal/?id=0a44cb10-aece-11ed-9b79-794d7657c819)
-* -150, 75: [No Name](https://governance.decentraland.org/proposal/?id=3f8f3fc0-aa33-11ed-8dfe-4ff0ad4dfd32)
 
 ## Grants
 
