@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -43,13 +43,6 @@ Since February 1, 0 grants have been approved and the vesting contract(s) will b
 * This is a bad idea  0.14530823403037044% 11,298 VP (7 votes)
 * I have questions (please ask in comments) 0.0838821297881108% 6,522 VP (19 votes)
 * Invalid question/options 10.739703539306277% 835,033 VP (13 votes)
-
-
-#### [Reduce the Cost of Publishing Wearables on Decentraland](https://governance.decentraland.org/proposal/?id=33556c90-a969-11ed-8dfe-4ff0ad4dfd32)
-
-* Yes 0.04644185444950505% 2,264 VP (43 votes)
-* No 99.95355814555049% 4,872,649 VP (182 votes)
-* Invalid question/options 0% 0 VP (0 votes)
 
 
 #### [Which candidate should be added to the DAO Committee?](https://governance.decentraland.org/proposal/?id=93f5cb90-a67f-11ed-a669-05ba4b332980)

@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -42,21 +42,6 @@ Since February 16, 0 grants have been approved and the vesting contract(s) will 
 
 
 ## Polls
-
-#### [How about &#34;Introducing Sub-POIs: Enhancing Detail and Information on Our Map&#34;?](https://governance.decentraland.org/proposal/?id=3da4fcc0-aee5-11ed-9b79-794d7657c819)
-
-* Yes 32.49270871757039% 330,329 VP (238 votes)
-* No 66.5862043526374% 676,932 VP (9 votes)
-* Invalid question/options 0.9210869297922046% 9,364 VP (2 votes)
-
-
-#### [Logarithmic VP conversion after a certain amount accumulated.](https://governance.decentraland.org/proposal/?id=4fa50100-a9b2-11ed-8dfe-4ff0ad4dfd32)
-
-* Yes I want someone to pick this up down the line 0.053686438031783926% 2,622 VP (124 votes)
-* No you can forget about it matey 82.00765164831903% 4,005,184 VP (61 votes)
-* Maybe  6.497901785759989% 317,352 VP (54 votes)
-* Invalid question/options 11.440760127889202% 558,757 VP (78 votes)
-
 
 
 # Active Proposals
