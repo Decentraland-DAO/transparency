@@ -9,12 +9,18 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-2 points of interest have been added to Decentraland’s map since the last report.
+3 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 49, -45: [GOLFCRAFT GAME](https://governance.decentraland.org/proposal/?id=0a44cb10-aece-11ed-9b79-794d7657c819)
+
+* Yes 97.22611184349834% 854,040 VP (278 votes)
+* No 2.7738881565016635% 24,366 VP (9 votes)
 
 
 #### -150, 75: [No Name](https://governance.decentraland.org/proposal/?id=3f8f3fc0-aa33-11ed-8dfe-4ff0ad4dfd32)
@@ -48,7 +54,7 @@ Since February 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
-* 49, -45: [GOLFCRAFT GAME](https://governance.decentraland.org/proposal/?id=0a44cb10-aece-11ed-9b79-794d7657c819)
+* -49, 73: [Metancy Pool](https://governance.decentraland.org/proposal/?id=39088e90-b4f6-11ed-99e0-b5bb1e9f1959)
 
 ## Grants
 

@@ -68,7 +68,7 @@ Since February 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
-* 49, -45: [GOLFCRAFT GAME](https://governance.decentraland.org/proposal/?id=0a44cb10-aece-11ed-9b79-794d7657c819)
+* -49, 73: [Metancy Pool](https://governance.decentraland.org/proposal/?id=39088e90-b4f6-11ed-99e0-b5bb1e9f1959)
 
 ## Grants
 
