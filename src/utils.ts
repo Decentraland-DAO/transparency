@@ -63,9 +63,13 @@ export function dayToMillisec(dayAmount: number) {
 }
 
 export function getMonthsBetweenDates(startDate: Date, endDate: Date) {
-  const yearDiff = endDate.getFullYear() - startDate.getFullYear()
-  const monthDiff = endDate.getMonth() - startDate.getMonth()
-  return yearDiff * 12 + monthDiff;
+  try {
+    const yearDiff = endDate.getFullYear() - startDate.getFullYear()
+    const monthDiff = endDate.getMonth() - startDate.getMonth()
+    return yearDiff * 12 + monthDiff;
+  } catch (error) {
+    throw new Error(`startDate: ${startDate}, endDate: ${endDate}. ${error}`)
+  }
 }
 
 export function toISOString(seconds: number) {
