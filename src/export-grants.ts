@@ -85,7 +85,7 @@ async function _getVestingContractDataV1(vestingAddress: string): Promise<Vestin
     vesting_token_contract_balance,
     vesting_total_amount,
     vesting_status,
-    duration: getMonthsBetweenDates(new Date(vesting_start_at), new Date(vesting_finish_at))
+    duration_in_months: getMonthsBetweenDates(new Date(vesting_start_at), new Date(vesting_finish_at))
   }
 }
 
@@ -134,7 +134,7 @@ async function _getVestingContractDataV2(vestingAddress: string): Promise<Vestin
     vesting_token_contract_balance,
     vesting_total_amount,
     vesting_status,
-    duration: getMonthsBetweenDates(new Date(vesting_start_at), new Date(vesting_finish_at))
+    duration_in_months: getMonthsBetweenDates(new Date(vesting_start_at), new Date(vesting_finish_at))
   }
 }
 
@@ -277,7 +277,7 @@ async function main() {
     { id: 'vesting_total_amount', title: 'Vesting Total Amount' },
     { id: 'vesting_start_at', title: 'Vesting Start At' },
     { id: 'vesting_finish_at', title: 'Vesting Finish At' },
-    { id: 'duration', title: 'Duration (Months)' },
+    { id: 'duration_in_months', title: 'Duration (Months)' },
 
     { id: `enacting_tx`, title: 'Enacting Transaction' },
     { id: 'tx_date', title: 'Transaction Date' },
