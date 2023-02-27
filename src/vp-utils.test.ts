@@ -19,7 +19,8 @@ describe('parseVP', () => {
     })
 
     it('does not report an error', () => {
-      const reportToRollbar = jest.spyOn(utils, 'reportToRollbar')
+      const reportToRollbar = jest.spyOn(utils, 'reportToRollbar').mockImplementation(() => {
+      })
       parseVP(get.scores)
       expect(reportToRollbar).not.toHaveBeenCalled()
     })
@@ -73,7 +74,8 @@ describe('parseVP', () => {
     })
 
     it('reports the error to rollbar', () => {
-      const reportToRollbar = jest.spyOn(utils, 'reportToRollbar')
+      const reportToRollbar = jest.spyOn(utils, 'reportToRollbar').mockImplementation(() => {
+      })
       parseVP(get.scores)
       expect(reportToRollbar).toHaveBeenCalled()
     })
@@ -95,7 +97,8 @@ describe('parseVP', () => {
     })
 
     it('reports the error to rollbar', () => {
-      const reportToRollbar = jest.spyOn(utils, 'reportToRollbar')
+      const reportToRollbar = jest.spyOn(utils, 'reportToRollbar').mockImplementation(() => {
+      })
       parseVP(get.scores)
       expect(reportToRollbar).toHaveBeenCalled()
     })

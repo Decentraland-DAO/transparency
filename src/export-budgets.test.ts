@@ -1,4 +1,4 @@
-import { validateBudgets, validateCategoryPercentages, validateDate } from './export-budgets'
+import { getQuarterEndDate, validateBudgets, validateCategoryPercentages, validateDate } from './export-budgets'
 
 
 const BUDGET_1 = {
@@ -16,7 +16,7 @@ const BUDGET_1 = {
 }
 
 const BUDGET_2 = {
-  'start_date': '2023-05-01T00:00:00Z',
+  'start_date': '2023-04-01T00:00:00Z',
   'total': 1501500,
   'category_percentages': {
     'accelerator': 7,
@@ -31,7 +31,7 @@ const BUDGET_2 = {
 
 
 const BUDGET_3 = {
-  'start_date': '2023-09-01T00:00:00Z',
+  'start_date': '2023-07-01T00:00:00Z',
   'total': 1501500,
   'category_percentages': {
     'accelerator': 7,
@@ -45,7 +45,7 @@ const BUDGET_3 = {
 }
 
 const BUDGET_OVERLAPPED = {
-  'start_date': '2023-08-31T00:00:00Z',
+  'start_date': '2023-06-30T00:00:00Z',
   'total': 1501500,
   'category_percentages': {
     'accelerator': 7,
@@ -114,5 +114,19 @@ describe('validateBudgets', () => {
       const validBudgets = [BUDGET_1, BUDGET_2, BUDGET_3]
       expect(validateBudgets(validBudgets)).toBe(validBudgets)
     })
+  })
+})
+
+describe('getQuarterEndDate', () => {
+  it('gets the same day of the month, three months later', () => {
+    expect(getQuarterEndDate(new Date('2023-01-01T00:00:00Z'))).toEqual(new Date('2023-04-01T00:00:00Z'))
+    expect(getQuarterEndDate(new Date('2023-04-01T00:00:00Z'))).toEqual(new Date('2023-07-01T00:00:00Z'))
+    expect(getQuarterEndDate(new Date('2023-07-01T00:00:00Z'))).toEqual(new Date('2023-10-01T00:00:00Z'))
+    expect(getQuarterEndDate(new Date('2023-10-01T00:00:00Z'))).toEqual(new Date('2024-01-01T00:00:00Z'))
+
+    expect(getQuarterEndDate(new Date('2023-01-02T00:00:00Z'))).toEqual(new Date('2023-04-02T00:00:00Z'))
+    expect(getQuarterEndDate(new Date('2023-04-03T00:00:00Z'))).toEqual(new Date('2023-07-03T00:00:00Z'))
+    expect(getQuarterEndDate(new Date('2023-07-04T00:00:00Z'))).toEqual(new Date('2023-10-04T00:00:00Z'))
+    expect(getQuarterEndDate(new Date('2023-10-05T00:00:00Z'))).toEqual(new Date('2024-01-05T00:00:00Z'))
   })
 })
