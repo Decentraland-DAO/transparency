@@ -67,5 +67,6 @@ Since February 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Should these selected community members be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=bcec8570-b6b0-11ed-99e0-b5bb1e9f1959)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
