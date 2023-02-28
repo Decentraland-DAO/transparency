@@ -54,6 +54,7 @@ Since February 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
+* 49, -45: [GOLFCRAFT GAME](https://governance.decentraland.org/proposal/?id=d7c04bb0-b76f-11ed-99e0-b5bb1e9f1959)
 * -49, 73: [Metancy Pool](https://governance.decentraland.org/proposal/?id=39088e90-b4f6-11ed-99e0-b5bb1e9f1959)
 
 ## Grants
@@ -67,6 +68,8 @@ Since February 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Should We Set Term Limits for Grant Support Squad?](https://governance.decentraland.org/proposal/?id=a9b5d280-b79c-11ed-99e0-b5bb1e9f1959)
+* [Should we diversify the DAO&#39;s treasury exposure to $MANA? V2](https://governance.decentraland.org/proposal/?id=d5bcb050-b76b-11ed-99e0-b5bb1e9f1959)
 * [Should these selected community members be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=bcec8570-b6b0-11ed-99e0-b5bb1e9f1959)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
