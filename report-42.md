@@ -68,7 +68,7 @@ Since February 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
-* [Should We Set Term Limits for Grant Support Squad?](https://governance.decentraland.org/proposal/?id=a9b5d280-b79c-11ed-99e0-b5bb1e9f1959)
+* [Should We Set Term Limits for Grant Support Squad?](https://governance.decentraland.org/proposal/?id=858970d0-b7a4-11ed-9cbc-e93d98a2df52)
 * [Should we diversify the DAO&#39;s treasury exposure to $MANA? V2](https://governance.decentraland.org/proposal/?id=d5bcb050-b76b-11ed-99e0-b5bb1e9f1959)
 * [Should these selected community members be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=bcec8570-b6b0-11ed-99e0-b5bb1e9f1959)
 
