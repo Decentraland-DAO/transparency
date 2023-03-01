@@ -23,6 +23,7 @@ export interface VestingInfo {
   vesting_token_contract_balance: number
   vesting_total_amount: number
   vesting_status: VestingStatus
+  duration_in_months: number
 }
 
 export interface OneTimePaymentInfo {
