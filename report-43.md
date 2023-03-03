@@ -41,9 +41,11 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [Meeple Madness MVFW: Tier One Request for 1,500USD](https://governance.decentraland.org/proposal/?id=d1c4d160-b95c-11ed-95dc-afd12ca00986) (Lower Tier)
+* [ShelleyVan x TRU Band Room](https://governance.decentraland.org/proposal/?id=8a26c5c0-b95c-11ed-95dc-afd12ca00986) (Higher Tier)
+* [Decentraland Studios (aka Verified Partners Registry) — Grant Renewal](https://governance.decentraland.org/proposal/?id=81283aa0-b946-11ed-95dc-afd12ca00986) (Higher Tier)
 * [A continuum of Entertainment &amp; Education for Women &amp; Minorities (1 year)](https://governance.decentraland.org/proposal/?id=847303a0-b8a8-11ed-95dc-afd12ca00986) (Higher Tier)
 * [Revolutionizing the Gaming Experience: Duel Arena P2E with Decentraland](https://governance.decentraland.org/proposal/?id=85312780-b87c-11ed-95dc-afd12ca00986) (Higher Tier)
-* [Create a 3 Minute “Pilot Episode” for an DCL Animated Series](https://governance.decentraland.org/proposal/?id=70ef35e0-b846-11ed-86c3-af6b3159c225) (Higher Tier)
 * [PLAYVERSE CONTINUATION - ARCADE GAMES &amp; EARN NFT&#39;s](https://governance.decentraland.org/proposal/?id=ebdb8d20-b842-11ed-86c3-af6b3159c225) (Higher Tier)
 * [Dark Dungeons game](https://governance.decentraland.org/proposal/?id=b08f4630-b81f-11ed-86c3-af6b3159c225) (Higher Tier)
 
@@ -55,6 +57,8 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Code of Ethics (conduct)](https://governance.decentraland.org/proposal/?id=fb54ea30-b928-11ed-95dc-afd12ca00986)
+* [Fair Grant Distribution](https://governance.decentraland.org/proposal/?id=99adb4e0-b925-11ed-95dc-afd12ca00986)
 * [make it a dubble click or get ride of it, its so anouing when u try to click and some one thing and someones invintory pops up, who appprovedclick inventory sh.it????](https://governance.decentraland.org/proposal/?id=4bc80d20-b8d5-11ed-95dc-afd12ca00986)
 * [Should We Set Term Limits for Grant Support Squad?](https://governance.decentraland.org/proposal/?id=858970d0-b7a4-11ed-9cbc-e93d98a2df52)
 * [Should we diversify the DAO&#39;s treasury exposure to $MANA? V2](https://governance.decentraland.org/proposal/?id=d5bcb050-b76b-11ed-99e0-b5bb1e9f1959)
