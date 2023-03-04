@@ -55,7 +55,6 @@ Since February 16, 0 grants have been approved and the vesting contract(s) will 
 ## Points of Interest
 
 * 49, -45: [GOLFCRAFT GAME](https://governance.decentraland.org/proposal/?id=d7c04bb0-b76f-11ed-99e0-b5bb1e9f1959)
-* -49, 73: [Metancy Pool](https://governance.decentraland.org/proposal/?id=39088e90-b4f6-11ed-99e0-b5bb1e9f1959)
 
 ## Grants
 
@@ -75,6 +74,8 @@ Since February 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Should Decentraland Worlds be integrated with Events and Places?](https://governance.decentraland.org/proposal/?id=4fcffbc0-b9d0-11ed-8c13-518b5c1940be)
+* [Should videos be played fluently from the distance too, to enhance the quality of the user experience and to attract new users?](https://governance.decentraland.org/proposal/?id=ff8e0c50-b9b2-11ed-95dc-afd12ca00986)
 * [Code of Ethics (conduct)](https://governance.decentraland.org/proposal/?id=fb54ea30-b928-11ed-95dc-afd12ca00986)
 * [Fair Grant Distribution](https://governance.decentraland.org/proposal/?id=99adb4e0-b925-11ed-95dc-afd12ca00986)
 * [make it a dubble click or get ride of it, its so anouing when u try to click and some one thing and someones invintory pops up, who appprovedclick inventory sh.it????](https://governance.decentraland.org/proposal/?id=4bc80d20-b8d5-11ed-95dc-afd12ca00986)
