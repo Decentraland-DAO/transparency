@@ -58,6 +58,10 @@ Since February 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Grants
 
+* [Boosting Decentraland Governance Participation](https://governance.decentraland.org/proposal/?id=1566b040-bc6a-11ed-8c13-518b5c1940be) (Lower Tier)
+* [BLOCKCHAIN SCHOLARSHIP](https://governance.decentraland.org/proposal/?id=e9ea13e0-bc54-11ed-8c13-518b5c1940be) (Lower Tier)
+* [Creation of DAO-Owned Catalyst Archival Node for Decentraland Core](https://governance.decentraland.org/proposal/?id=21db21b0-bc53-11ed-8c13-518b5c1940be) (Lower Tier)
+* [Decentraland Documentation Guidelines](https://governance.decentraland.org/proposal/?id=e1626140-bc50-11ed-8c13-518b5c1940be) (Lower Tier)
 * [Meeple Madness MVFW: Tier One Request for 1,500USD](https://governance.decentraland.org/proposal/?id=d1c4d160-b95c-11ed-95dc-afd12ca00986) (Lower Tier)
 * [ShelleyVan x TRU Band Room](https://governance.decentraland.org/proposal/?id=8a26c5c0-b95c-11ed-95dc-afd12ca00986) (Higher Tier)
 * [Decentraland Studios (aka Verified Partners Registry) — Grant Renewal](https://governance.decentraland.org/proposal/?id=81283aa0-b946-11ed-95dc-afd12ca00986) (Higher Tier)
@@ -74,11 +78,12 @@ Since February 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Community support for a paid pre-check on linked wearable proposals](https://governance.decentraland.org/proposal/?id=6e426cd0-bc61-11ed-8c13-518b5c1940be)
+* [Define a way to vote for Revocations Committee Members](https://governance.decentraland.org/proposal/?id=19c0e070-bc5b-11ed-8c13-518b5c1940be)
 * [Increase DAO Security: SAB Upgrade](https://governance.decentraland.org/proposal/?id=da7d4290-bac1-11ed-8c13-518b5c1940be)
 * [Should Decentraland Worlds be integrated with Events and Places?](https://governance.decentraland.org/proposal/?id=4fcffbc0-b9d0-11ed-8c13-518b5c1940be)
 * [Should videos be played fluently from the distance too, to enhance the quality of the user experience and to attract new users?](https://governance.decentraland.org/proposal/?id=ff8e0c50-b9b2-11ed-95dc-afd12ca00986)
 * [Code of Ethics (conduct)](https://governance.decentraland.org/proposal/?id=fb54ea30-b928-11ed-95dc-afd12ca00986)
 * [Fair Grant Distribution](https://governance.decentraland.org/proposal/?id=99adb4e0-b925-11ed-95dc-afd12ca00986)
-* [make it a dubble click or get ride of it, its so anouing when u try to click and some one thing and someones invintory pops up, who appprovedclick inventory sh.it????](https://governance.decentraland.org/proposal/?id=4bc80d20-b8d5-11ed-95dc-afd12ca00986)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
