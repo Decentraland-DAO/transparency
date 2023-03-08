@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -31,6 +31,20 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+#### [Code of Ethics (conduct)](https://governance.decentraland.org/proposal/?id=fb54ea30-b928-11ed-95dc-afd12ca00986)
+
+* Yes  52.359368575593294% 5,493,657 VP (51 votes)
+* No 47.54483658072548% 4,988,506 VP (69 votes)
+* Invalid question/options 0.09579484368122876% 10,051 VP (6 votes)
+
+
+#### [Fair Grant Distribution](https://governance.decentraland.org/proposal/?id=99adb4e0-b925-11ed-95dc-afd12ca00986)
+
+* Yes 72.40193113732349% 5,080,597 VP (120 votes)
+* No 27.598068862676516% 1,936,615 VP (11 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 #### [Should We Set Term Limits for Grant Support Squad?](https://governance.decentraland.org/proposal/?id=858970d0-b7a4-11ed-9cbc-e93d98a2df52)
 
 * Yes, implement term limits  63.79243472831029% 5,355,269 VP (85 votes)
@@ -43,7 +57,7 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
-* 49, -45: [GOLFCRAFT GAME](https://governance.decentraland.org/proposal/?id=d7c04bb0-b76f-11ed-99e0-b5bb1e9f1959)
+* 49, -45: [GOLFCRAFT GAME](https://governance.decentraland.org/proposal/?id=40d3d1f0-bcf0-11ed-8c13-518b5c1940be)
 
 ## Grants
 
@@ -67,12 +81,13 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Should the DAO limit the max VP accounted in a vote from an address?](https://governance.decentraland.org/proposal/?id=561c24f0-bd03-11ed-8c13-518b5c1940be)
+* [Limit votes to a percentage of the threshold](https://governance.decentraland.org/proposal/?id=70d283c0-bcf4-11ed-8c13-518b5c1940be)
+* [Should Grant Request Proposals require at least 100 VP to submit?](https://governance.decentraland.org/proposal/?id=b182b570-bcd6-11ed-8c13-518b5c1940be)
 * [Community support for a paid pre-check on linked wearable proposals](https://governance.decentraland.org/proposal/?id=6e426cd0-bc61-11ed-8c13-518b5c1940be)
 * [Define a way to vote for Revocations Committee Members](https://governance.decentraland.org/proposal/?id=19c0e070-bc5b-11ed-8c13-518b5c1940be)
 * [Increase DAO Security: SAB Upgrade](https://governance.decentraland.org/proposal/?id=da7d4290-bac1-11ed-8c13-518b5c1940be)
 * [Should Decentraland Worlds be integrated with Events and Places?](https://governance.decentraland.org/proposal/?id=4fcffbc0-b9d0-11ed-8c13-518b5c1940be)
 * [Should videos be played fluently from the distance too, to enhance the quality of the user experience and to attract new users?](https://governance.decentraland.org/proposal/?id=ff8e0c50-b9b2-11ed-95dc-afd12ca00986)
-* [Code of Ethics (conduct)](https://governance.decentraland.org/proposal/?id=fb54ea30-b928-11ed-95dc-afd12ca00986)
-* [Fair Grant Distribution](https://governance.decentraland.org/proposal/?id=99adb4e0-b925-11ed-95dc-afd12ca00986)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
