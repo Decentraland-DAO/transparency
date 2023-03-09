@@ -81,13 +81,13 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Formal Pathway for DAO Request for Information (RFI) from the Decentraland Foundation](https://governance.decentraland.org/proposal/?id=57d7a630-be38-11ed-8c13-518b5c1940be)
+* [Should the DAO Buy Back LAND?](https://governance.decentraland.org/proposal/?id=e62c2260-bdd1-11ed-8c13-518b5c1940be)
 * [Should the DAO limit the max VP accounted in a vote from an address?](https://governance.decentraland.org/proposal/?id=561c24f0-bd03-11ed-8c13-518b5c1940be)
 * [Limit votes to a percentage of the threshold](https://governance.decentraland.org/proposal/?id=70d283c0-bcf4-11ed-8c13-518b5c1940be)
 * [Should Grant Request Proposals require at least 100 VP to submit?](https://governance.decentraland.org/proposal/?id=b182b570-bcd6-11ed-8c13-518b5c1940be)
 * [Community support for a paid pre-check on linked wearable proposals](https://governance.decentraland.org/proposal/?id=6e426cd0-bc61-11ed-8c13-518b5c1940be)
 * [Define a way to vote for Revocations Committee Members](https://governance.decentraland.org/proposal/?id=19c0e070-bc5b-11ed-8c13-518b5c1940be)
 * [Increase DAO Security: SAB Upgrade](https://governance.decentraland.org/proposal/?id=da7d4290-bac1-11ed-8c13-518b5c1940be)
-* [Should Decentraland Worlds be integrated with Events and Places?](https://governance.decentraland.org/proposal/?id=4fcffbc0-b9d0-11ed-8c13-518b5c1940be)
-* [Should videos be played fluently from the distance too, to enhance the quality of the user experience and to attract new users?](https://governance.decentraland.org/proposal/?id=ff8e0c50-b9b2-11ed-95dc-afd12ca00986)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
