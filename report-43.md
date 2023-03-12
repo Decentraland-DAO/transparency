@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -30,6 +30,13 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 
 ## Polls
+
+#### [Define a way to vote for Revocations Committee Members](https://governance.decentraland.org/proposal/?id=19c0e070-bc5b-11ed-8c13-518b5c1940be)
+
+* Meet the candidates 0.0191246332262121% 219 VP (8 votes)
+* Meet and vote for the candidates: 96.23314587117507% 1,101,985 VP (47 votes)
+* Invalid question/options 3.7477294955987146% 42,916 VP (40 votes)
+
 
 #### [Code of Ethics (conduct)](https://governance.decentraland.org/proposal/?id=fb54ea30-b928-11ed-95dc-afd12ca00986)
 
@@ -87,7 +94,5 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 * [Should the DAO limit the max VP accounted in a vote from an address?](https://governance.decentraland.org/proposal/?id=561c24f0-bd03-11ed-8c13-518b5c1940be)
 * [Limit votes to a percentage of the threshold](https://governance.decentraland.org/proposal/?id=70d283c0-bcf4-11ed-8c13-518b5c1940be)
 * [Should Grant Request Proposals require at least 100 VP to submit?](https://governance.decentraland.org/proposal/?id=b182b570-bcd6-11ed-8c13-518b5c1940be)
-* [Community support for a paid pre-check on linked wearable proposals](https://governance.decentraland.org/proposal/?id=6e426cd0-bc61-11ed-8c13-518b5c1940be)
-* [Define a way to vote for Revocations Committee Members](https://governance.decentraland.org/proposal/?id=19c0e070-bc5b-11ed-8c13-518b5c1940be)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
