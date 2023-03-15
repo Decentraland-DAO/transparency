@@ -69,6 +69,11 @@ export const DAOCommitteeTeam = new Team(
       address: '0xbef99f5f55cf7cdb3a70998c57061b7e1386a9b0',
       name: 'Kyllian',
       avatar: 'https://decentraland.org/images/male.png'
+    },
+    {
+      address: '0x88013D7eD946dD8292268a6FF69165a97A89a639',
+      name: 'Tobik',
+      avatar: 'https://peer.decentraland.org/content/contents/bafkreif25t6mav5bgkajwr6l6wptzh5lkmonuw7pzricrin6fyhoazfruu'
     }
   ]
 )
