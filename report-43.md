@@ -9,12 +9,18 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 8 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+1 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 49, -45: [GOLFCRAFT GAME](https://governance.decentraland.org/proposal/?id=40d3d1f0-bcf0-11ed-8c13-518b5c1940be)
+
+* Yes 99.70919978191222% 6,040,494 VP (151 votes)
+* No 0.29080021808778345% 17,617 VP (3 votes)
 
 
 ## Name Bans
@@ -30,6 +36,23 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 
 ## Polls
+
+#### [Formal Pathway for DAO Request for Information (RFI) from the Decentraland Foundation](https://governance.decentraland.org/proposal/?id=57d7a630-be38-11ed-8c13-518b5c1940be)
+
+* Yes, Vote in Favor of RFI Pathway (only) 0.2962649455084118% 2,576 VP (104 votes)
+* Yes, Vote in Favor of Interim Feature Request Response Pathway Only 0.00011500968381537724% 1 VP (8 votes)
+* Yes, Vote in Favor of Both RFI &amp; Feature Request Response Pathways 68.64997032750158% 596,906 VP (58 votes)
+* No, Vote against Promoting to Draft Proposal 31.053649717306197% 270,009 VP (18 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
+#### [Should the DAO Buy Back LAND?](https://governance.decentraland.org/proposal/?id=e62c2260-bdd1-11ed-8c13-518b5c1940be)
+
+* Buy cheapest at marketplace 60.009915316449394% 8,643,815 VP (123 votes)
+* Buy back price formula 34.15936902986106% 4,920,308 VP (48 votes)
+* Do not buy LAND 5.830715653689557% 839,855 VP (25 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
 
 #### [Should the DAO limit the max VP accounted in a vote from an address?](https://governance.decentraland.org/proposal/?id=561c24f0-bd03-11ed-8c13-518b5c1940be)
 
@@ -78,11 +101,11 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
-* 49, -45: [GOLFCRAFT GAME](https://governance.decentraland.org/proposal/?id=40d3d1f0-bcf0-11ed-8c13-518b5c1940be)
 
 ## Grants
 
-* [Phase 1 Proposal: Integrating Duel Arena into Decentraland. First Half!](https://governance.decentraland.org/proposal/?id=22c97580-c186-11ed-95a1-11f47a37eb17) (Higher Tier)
+* [Awesome 3D animated creative framework to educate and excite new users](https://governance.decentraland.org/proposal/?id=af7f5d50-c316-11ed-931d-5b5c5c595273) (Lower Tier)
+* [PLAYVERSE SEASON 2 - ARCADE GAMES &amp; EARN NFT&#39;s](https://governance.decentraland.org/proposal/?id=644abde0-c29c-11ed-931d-5b5c5c595273) (Higher Tier)
 * [Dragon City’s MVFW Asia District development](https://governance.decentraland.org/proposal/?id=099d0f80-c13c-11ed-95a1-11f47a37eb17) (Higher Tier)
 * [Empowering African Communities through DCL: Adoption &amp; Inclusion Via Education](https://governance.decentraland.org/proposal/?id=b8df8fd0-be9f-11ed-8c13-518b5c1940be) (Lower Tier)
 * [Boosting Decentraland Governance Participation](https://governance.decentraland.org/proposal/?id=1566b040-bc6a-11ed-8c13-518b5c1940be) (Lower Tier)
@@ -104,8 +127,7 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Should the DAO limit the request of Grants to refund projects previously developed?](https://governance.decentraland.org/proposal/?id=c3ca13b0-c2ab-11ed-931d-5b5c5c595273)
 * [Increase Voting Threshold for Modifying LAND or Estate Smart Contracts](https://governance.decentraland.org/proposal/?id=963864d0-c0e7-11ed-95a1-11f47a37eb17)
-* [Formal Pathway for DAO Request for Information (RFI) from the Decentraland Foundation](https://governance.decentraland.org/proposal/?id=57d7a630-be38-11ed-8c13-518b5c1940be)
-* [Should the DAO Buy Back LAND?](https://governance.decentraland.org/proposal/?id=e62c2260-bdd1-11ed-8c13-518b5c1940be)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
