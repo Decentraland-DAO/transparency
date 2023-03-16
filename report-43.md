@@ -104,6 +104,7 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [A Course on &#39;Business Opportunities in DecentraLand&#39; at Harvard, Stanford &amp; Hult](https://governance.decentraland.org/proposal/?id=ade957c0-c389-11ed-b5a4-290560b83eb7) (Lower Tier)
 * [Awesome 3D animated creative framework to educate and excite new users](https://governance.decentraland.org/proposal/?id=af7f5d50-c316-11ed-931d-5b5c5c595273) (Lower Tier)
 * [PLAYVERSE SEASON 2 - ARCADE GAMES &amp; EARN NFT&#39;s](https://governance.decentraland.org/proposal/?id=644abde0-c29c-11ed-931d-5b5c5c595273) (Higher Tier)
 * [Dragon City’s MVFW Asia District development](https://governance.decentraland.org/proposal/?id=099d0f80-c13c-11ed-95a1-11f47a37eb17) (Higher Tier)
@@ -115,9 +116,6 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 * [Meeple Madness MVFW: Tier One Request for 1,500USD](https://governance.decentraland.org/proposal/?id=d1c4d160-b95c-11ed-95dc-afd12ca00986) (Lower Tier)
 * [ShelleyVan x TRU Band Room](https://governance.decentraland.org/proposal/?id=8a26c5c0-b95c-11ed-95dc-afd12ca00986) (Higher Tier)
 * [Decentraland Studios (aka Verified Partners Registry) — Grant Renewal](https://governance.decentraland.org/proposal/?id=81283aa0-b946-11ed-95dc-afd12ca00986) (Higher Tier)
-* [A continuum of Entertainment &amp; Education for Women &amp; Minorities (1 year)](https://governance.decentraland.org/proposal/?id=847303a0-b8a8-11ed-95dc-afd12ca00986) (Higher Tier)
-* [PLAYVERSE CONTINUATION - ARCADE GAMES &amp; EARN NFT&#39;s](https://governance.decentraland.org/proposal/?id=ebdb8d20-b842-11ed-86c3-af6b3159c225) (Higher Tier)
-* [Dark Dungeons game](https://governance.decentraland.org/proposal/?id=b08f4630-b81f-11ed-86c3-af6b3159c225) (Higher Tier)
 
 ## Names Bans
 
