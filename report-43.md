@@ -104,6 +104,7 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [Virtual University Campus in Decentraland - Bridg3 Metaverse Hackathon](https://governance.decentraland.org/proposal/?id=4c8e0590-c4a4-11ed-b5a4-290560b83eb7) (Lower Tier)
 * [A Course on &#39;Business Opportunities in DecentraLand&#39; at Harvard, Stanford &amp; Hult](https://governance.decentraland.org/proposal/?id=ade957c0-c389-11ed-b5a4-290560b83eb7) (Lower Tier)
 * [Awesome 3D animated creative framework to educate and excite new users](https://governance.decentraland.org/proposal/?id=af7f5d50-c316-11ed-931d-5b5c5c595273) (Lower Tier)
 * [PLAYVERSE SEASON 2 - ARCADE GAMES &amp; EARN NFT&#39;s](https://governance.decentraland.org/proposal/?id=644abde0-c29c-11ed-931d-5b5c5c595273) (Higher Tier)
@@ -113,9 +114,6 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 * [BLOCKCHAIN SCHOLARSHIP](https://governance.decentraland.org/proposal/?id=e9ea13e0-bc54-11ed-8c13-518b5c1940be) (Lower Tier)
 * [Creation of DAO-Owned Catalyst Archival Node for Decentraland Core](https://governance.decentraland.org/proposal/?id=21db21b0-bc53-11ed-8c13-518b5c1940be) (Lower Tier)
 * [Decentraland Documentation Guidelines](https://governance.decentraland.org/proposal/?id=e1626140-bc50-11ed-8c13-518b5c1940be) (Lower Tier)
-* [Meeple Madness MVFW: Tier One Request for 1,500USD](https://governance.decentraland.org/proposal/?id=d1c4d160-b95c-11ed-95dc-afd12ca00986) (Lower Tier)
-* [ShelleyVan x TRU Band Room](https://governance.decentraland.org/proposal/?id=8a26c5c0-b95c-11ed-95dc-afd12ca00986) (Higher Tier)
-* [Decentraland Studios (aka Verified Partners Registry) — Grant Renewal](https://governance.decentraland.org/proposal/?id=81283aa0-b946-11ed-95dc-afd12ca00986) (Higher Tier)
 
 ## Names Bans
 
