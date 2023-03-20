@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -55,14 +55,31 @@ Since March 16, 4 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+#### [Should the DAO limit the request of Grants to refund projects previously developed?](https://governance.decentraland.org/proposal/?id=c3ca13b0-c2ab-11ed-931d-5b5c5c595273)
+
+* Do not allow grant requests to refund projects previously made 0.00009000747512080878% 6 VP (7 votes)
+* Allow grant requests to refund projects previously made 51.649499490932726% 3,443,014 VP (22 votes)
+* Limit the amount of refunds inside a broader grant request 48.18167648823235% 3,211,845 VP (77 votes)
+* Invalid question/options 0.16873401335980953% 11,248 VP (3 votes)
+
+
+#### [Increase Voting Threshold for Modifying LAND or Estate Smart Contracts](https://governance.decentraland.org/proposal/?id=963864d0-c0e7-11ed-95a1-11f47a37eb17)
+
+* YES 99.99994671804468% 1,876,807 VP (124 votes)
+* NO 0.00005328195531988355% 1 VP (1 votes)
+* Invalid question/options 0% 0 VP (1 votes)
+
+
 
 # Active Proposals
 
 ## Points of Interest
 
+* 5, -18: [VVAMP Footwear](https://governance.decentraland.org/proposal/?id=491ec560-c5d6-11ed-a85e-7ddcee7c678f)
 
 ## Grants
 
+* [Landindex Metaverse Analytics - Free for Decentraland!](https://governance.decentraland.org/proposal/?id=b20461d0-c648-11ed-a85e-7ddcee7c678f) (Higher Tier)
 * [Virtual University Campus in Decentraland - Bridg3 Metaverse Hackathon](https://governance.decentraland.org/proposal/?id=4c8e0590-c4a4-11ed-b5a4-290560b83eb7) (Lower Tier)
 * [A Course on &#39;Business Opportunities in DecentraLand&#39; at Harvard, Stanford &amp; Hult](https://governance.decentraland.org/proposal/?id=ade957c0-c389-11ed-b5a4-290560b83eb7) (Lower Tier)
 * [Awesome 3D animated creative framework to educate and excite new users](https://governance.decentraland.org/proposal/?id=af7f5d50-c316-11ed-931d-5b5c5c595273) (Lower Tier)
@@ -82,7 +99,6 @@ Since March 16, 4 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
-* [Should the DAO limit the request of Grants to refund projects previously developed?](https://governance.decentraland.org/proposal/?id=c3ca13b0-c2ab-11ed-931d-5b5c5c595273)
-* [Increase Voting Threshold for Modifying LAND or Estate Smart Contracts](https://governance.decentraland.org/proposal/?id=963864d0-c0e7-11ed-95a1-11f47a37eb17)
+* [Tender Support Squad](https://governance.decentraland.org/proposal/?id=2b62be00-c4f0-11ed-a85e-7ddcee7c678f)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

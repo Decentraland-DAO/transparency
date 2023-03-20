@@ -101,9 +101,11 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
+* 5, -18: [VVAMP Footwear](https://governance.decentraland.org/proposal/?id=491ec560-c5d6-11ed-a85e-7ddcee7c678f)
 
 ## Grants
 
+* [Landindex Metaverse Analytics - Free for Decentraland!](https://governance.decentraland.org/proposal/?id=b20461d0-c648-11ed-a85e-7ddcee7c678f) (Higher Tier)
 * [Virtual University Campus in Decentraland - Bridg3 Metaverse Hackathon](https://governance.decentraland.org/proposal/?id=4c8e0590-c4a4-11ed-b5a4-290560b83eb7) (Lower Tier)
 * [A Course on &#39;Business Opportunities in DecentraLand&#39; at Harvard, Stanford &amp; Hult](https://governance.decentraland.org/proposal/?id=ade957c0-c389-11ed-b5a4-290560b83eb7) (Lower Tier)
 * [Awesome 3D animated creative framework to educate and excite new users](https://governance.decentraland.org/proposal/?id=af7f5d50-c316-11ed-931d-5b5c5c595273) (Lower Tier)
@@ -123,7 +125,6 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
-* [Should the DAO limit the request of Grants to refund projects previously developed?](https://governance.decentraland.org/proposal/?id=c3ca13b0-c2ab-11ed-931d-5b5c5c595273)
-* [Increase Voting Threshold for Modifying LAND or Estate Smart Contracts](https://governance.decentraland.org/proposal/?id=963864d0-c0e7-11ed-95a1-11f47a37eb17)
+* [Tender Support Squad](https://governance.decentraland.org/proposal/?id=2b62be00-c4f0-11ed-a85e-7ddcee7c678f)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
