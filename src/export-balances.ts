@@ -29,6 +29,7 @@ export type BalanceParsed = {
   network: `${NetworkName}`
   address: string
   contractAddress: string
+  decimals: number
 }
 
 type PricesMap = Record<string, number>
@@ -57,7 +58,8 @@ function getBalanceParsed(contract: Contract, walletName: string, walletAddress:
     symbol: contract.contract_ticker_symbol,
     network: network.name,
     address: walletAddress,
-    contractAddress: contract.contract_address
+    contractAddress: contract.contract_address,
+    decimals: contract.contract_decimals
   }
 }
 
