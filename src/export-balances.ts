@@ -47,7 +47,7 @@ function filterContractByToken(contract: Contract, wallet: Wallet) {
 
 function getBalanceParsed(contract: Contract, walletName: string, walletAddress: string, network: Network, prices: PricesMap): BalanceParsed {
   const amount = parseNumber(Number(contract.balance), contract.contract_decimals)
-  const rate = prices[contract.contract_address.toLowerCase()] || 0
+  const rate = contract.quote_rate || prices[contract.contract_address.toLowerCase()] || 0
   return {
     timestamp: contract.last_transferred_at,
     name: walletName,
@@ -71,7 +71,9 @@ async function getBalance(wallet: Wallet) {
     const contractsFiltered = contracts.filter(contract => filterContractByToken(contract, wallet))
 
     for (const contract of contractsFiltered) {
-      unresolvedPrices.push(getTokenPriceInfo(contract.contract_address, network, aWeekAgo, today))
+      if(!contract.quote_rate || contract.quote_rate === 0) {
+        unresolvedPrices.push(getTokenPriceInfo(contract.contract_address, network, aWeekAgo, today))
+      }
     }
 
     const rawPrices = flattenArray(await Promise.all(unresolvedPrices))
