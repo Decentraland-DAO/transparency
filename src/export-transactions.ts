@@ -1,5 +1,6 @@
 import { TokenPriceAPIData, TokenPriceData } from './interfaces/Transactions/TokenPrices'
-import GRANTS from '../public/grants.json'
+import RAW_GRANTS from '../public/grants.json'
+import RAW_BALANCES from '../public/balances.json'
 import { Network, NetworkName, Networks } from './entities/Networks'
 import { Tags, TagType } from './entities/Tags'
 import { Tokens, TokenSymbols } from './entities/Tokens'
@@ -9,6 +10,7 @@ import { GrantProposal } from './interfaces/Grant'
 import { EventItem } from './interfaces/Transactions/Events'
 import { TransactionItem } from './interfaces/Transactions/Transactions'
 import { TransferItem, TransferType } from './interfaces/Transactions/Transfers'
+import { BalanceParsed } from './export-balances'
 import {
   baseCovalentUrl,
   COVALENT_API_KEY,
@@ -58,9 +60,9 @@ let priceData: TokenPriceData = {}
 
 const WALLET_ADDRESSES = new Set(Wallets.getAddresses())
 
-const grants: GrantProposal[] = GRANTS
-const GRANTS_VESTING_ADDRESSES = new Set(grants.filter(g => g.status === Status.ENACTED && g.vesting_address).map(g => g.vesting_address.toLowerCase()))
-const GRANTS_ENACTING_TXS = new Set(grants.filter(g => g.status === Status.ENACTED && g.enacting_tx).map(g => g.enacting_tx.toLowerCase()))
+const GRANTS: GrantProposal[] = RAW_GRANTS
+const GRANTS_VESTING_ADDRESSES = new Set(GRANTS.filter(g => g.status === Status.ENACTED && g.vesting_address).map(g => g.vesting_address.toLowerCase()))
+const GRANTS_ENACTING_TXS = new Set(GRANTS.filter(g => g.status === Status.ENACTED && g.enacting_tx).map(g => g.enacting_tx.toLowerCase()))
 const SAB_ADDRESS = '0x0e659a116e161d8e502f9036babda51334f2667e' // Sec Advisory Board
 const FACILITATOR_ADDRESS = '0x76fb13f00cdbdd5eac8e2664cf14be791af87cb0'
 const OPENSEA_ADDRESSES = new Set([
@@ -72,6 +74,11 @@ const OPENSEA_ADDRESSES = new Set([
   '0x13c10925bf130e4a9631900d89475d2155b5f9c0',
   '0x0000000000e9c0809c14f4dc1e48f97abd9317f6'
 ])
+
+const BALANCES = (RAW_BALANCES as BalanceParsed[]).reduce((accum, balance) => {
+  accum[balance.contractAddress] = balance
+  return accum
+}, {} as { [address: string]: BalanceParsed })
 
 async function getTopicTxs(network: Network, startblock: number, topic: Topic) {
   let block = startblock
@@ -85,7 +92,7 @@ async function getTopicTxs(network: Network, startblock: number, topic: Topic) {
   return events.map(e => e.tx_hash)
 }
 
-async function getTransactions(name: string, tokenAddress: string, network: Network, address: string, startBlock?: number) {
+async function getTransactions(name: string, tokenAddress: string, network: Network, address: string, fullFetch: boolean, startBlock?: number) {
   const url = `${baseCovalentUrl(network)}/address/${address}/transfers_v2/?key=${COVALENT_API_KEY}&contract-address=${tokenAddress}${startBlock >= 0 ? `&starting-block=${startBlock + 1}` : ''}`
   const items = await fetchCovalentURL<TransferItem>(url, 100000)
 
@@ -101,8 +108,9 @@ async function getTransactions(name: string, tokenAddress: string, network: Netw
       ) ? TransferType.INTERNAL : txTransfer.transfer_type
 
       const date = tx.block_signed_at.split('T')[0]
-      const usdPrice = priceData[txTransfer.contract_address.toLowerCase()][date]
-      const amount = parseNumber(Number(txTransfer.delta), txTransfer.contract_decimals)
+      const contractAddress = txTransfer.contract_address.toLowerCase()
+      const usdPrice = fullFetch ? priceData[contractAddress][date] : BALANCES[contractAddress]?.rate
+      const amount = parseNumber(Number(txTransfer.delta), BALANCES[contractAddress]?.decimals || txTransfer.contract_decimals)
 
       const usdValue = usdPrice ? usdPrice * amount : (txTransfer.delta_quote || 0)
 
@@ -194,13 +202,13 @@ async function tagging(txs: TransactionParsed[]) {
   const polygonNetwork = Networks.getPolygon()
 
   const ethTxs = txs.filter(t => t.network === ethNetwork.name)
-  const ethStartblock = ethTxs[ethTxs.length - 1].block
-  const marketOrdersTxs = new Set(await getTopicTxs(ethNetwork, ethStartblock, Topic.ETH_ORDER_TOPIC))
+  const ethStartblock = ethTxs[ethTxs.length - 1]?.block
+  const marketOrdersTxs = new Set(ethStartblock ? await getTopicTxs(ethNetwork, ethStartblock, Topic.ETH_ORDER_TOPIC) : [])
   console.log('Ethereum Orders:', marketOrdersTxs.size)
 
   const maticTxs = txs.filter(t => t.network === polygonNetwork.name)
-  const maticStartblock = maticTxs[maticTxs.length - 1].block
-  const maticOrdersTxs = new Set(await getTopicTxs(polygonNetwork, maticStartblock, Topic.MATIC_ORDER_TOPIC))
+  const maticStartblock = maticTxs[maticTxs.length - 1]?.block
+  const maticOrdersTxs = new Set(maticStartblock ? await getTopicTxs(polygonNetwork, maticStartblock, Topic.MATIC_ORDER_TOPIC) : [])
   console.log('Matic Orders:', maticOrdersTxs.size)
 
   const tagger = async (transactions: TransactionParsed[], chunk: number) => {
@@ -324,17 +332,16 @@ async function main() {
     console.log('Latest Blocks:', printableLatestBlocks(latestBlocks))
   } else {
     console.log('\n\n###################### WARNING: fetching all transactions ######################\n\n')
+    priceData = await getTokenPrices(!fullFetch ? latestBlocks : undefined)
+    console.log('Fetched price data...')
   }
-
-  priceData = await getTokenPrices(!fullFetch ? latestBlocks : undefined)
-  console.log('Fetched price data...')
 
   for (const wallet of Wallets.getAll()) {
     const { name, address, network } = wallet
     const tokenAddresses = Tokens.getAddresses(network.name)
 
     for (const tokenAddress of tokenAddresses) {
-      unresolvedTransactions.push(getTransactions(name, tokenAddress, network, address, latestBlocks[network.name][tokenAddress]?.block))
+      unresolvedTransactions.push(getTransactions(name, tokenAddress, network, address, fullFetch, latestBlocks[network.name][tokenAddress]?.block))
     }
   }
 
