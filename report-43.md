@@ -105,6 +105,8 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [Continued Maintenance of Decentraland VR Cleint](https://governance.decentraland.org/proposal/?id=47aac310-c783-11ed-a85e-7ddcee7c678f) (Higher Tier)
+* [Advice from experts to prevent false urban sprawl.](https://governance.decentraland.org/proposal/?id=69e7e570-c75b-11ed-a85e-7ddcee7c678f) (Higher Tier)
 * [Landindex Metaverse Analytics - Free for Decentraland!](https://governance.decentraland.org/proposal/?id=b20461d0-c648-11ed-a85e-7ddcee7c678f) (Higher Tier)
 * [Virtual University Campus in Decentraland - Bridg3 Metaverse Hackathon](https://governance.decentraland.org/proposal/?id=4c8e0590-c4a4-11ed-b5a4-290560b83eb7) (Lower Tier)
 * [A Course on &#39;Business Opportunities in DecentraLand&#39; at Harvard, Stanford &amp; Hult](https://governance.decentraland.org/proposal/?id=ade957c0-c389-11ed-b5a4-290560b83eb7) (Lower Tier)
@@ -112,10 +114,6 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 * [PLAYVERSE SEASON 2 - ARCADE GAMES &amp; EARN NFT&#39;s](https://governance.decentraland.org/proposal/?id=644abde0-c29c-11ed-931d-5b5c5c595273) (Higher Tier)
 * [Dragon City’s MVFW Asia District development](https://governance.decentraland.org/proposal/?id=099d0f80-c13c-11ed-95a1-11f47a37eb17) (Higher Tier)
 * [Empowering African Communities through DCL: Adoption &amp; Inclusion Via Education](https://governance.decentraland.org/proposal/?id=b8df8fd0-be9f-11ed-8c13-518b5c1940be) (Lower Tier)
-* [Boosting Decentraland Governance Participation](https://governance.decentraland.org/proposal/?id=1566b040-bc6a-11ed-8c13-518b5c1940be) (Lower Tier)
-* [BLOCKCHAIN SCHOLARSHIP](https://governance.decentraland.org/proposal/?id=e9ea13e0-bc54-11ed-8c13-518b5c1940be) (Lower Tier)
-* [Creation of DAO-Owned Catalyst Archival Node for Decentraland Core](https://governance.decentraland.org/proposal/?id=21db21b0-bc53-11ed-8c13-518b5c1940be) (Lower Tier)
-* [Decentraland Documentation Guidelines](https://governance.decentraland.org/proposal/?id=e1626140-bc50-11ed-8c13-518b5c1940be) (Lower Tier)
 
 ## Names Bans
 
