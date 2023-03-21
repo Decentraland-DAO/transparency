@@ -16,7 +16,7 @@ export type VotesParsed = {
   created: string
   choice: number
   vp: number
-  proposal_id: string
+  snapshot_id: string
   proposal_title: string
   choice_text: string
   weight: number
@@ -35,7 +35,7 @@ async function main() {
       created: toISOString(vote.created),
       choice: vote.choice,
       vp: vote.vp,
-      proposal_id: vote.proposal.id,
+      snapshot_id: vote.proposal.id,
       proposal_title: vote.proposal.title,
       choice_text: vote.proposal.choices[vote.choice - 1],
       weight: vote.proposal.scores_total ? vote.vp / vote.proposal.scores_total * 100 : 0,
@@ -52,7 +52,7 @@ async function main() {
   saveToJSON('votes.json', votesParsed)
   await saveToCSV('votes.csv', votesParsed, [
     { id: 'voter', title: 'Member' },
-    { id: 'proposal_id', title: 'Proposal ID' },
+    { id: 'snapshot_id', title: 'Snapshot ID' },
     { id: 'created', title: 'Created' },
     { id: 'proposal_title', title: 'Proposal Title' },
     { id: 'choice', title: 'Choice #' },
