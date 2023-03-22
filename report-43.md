@@ -123,6 +123,8 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Add a search bar tool to find places.](https://governance.decentraland.org/proposal/?id=1e058810-c819-11ed-a454-057e86adfb11)
+* [DAO Strategy and Roadmap](https://governance.decentraland.org/proposal/?id=8f846090-c811-11ed-a454-057e86adfb11)
 * [Tender Support Squad](https://governance.decentraland.org/proposal/?id=2b62be00-c4f0-11ed-a85e-7ddcee7c678f)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

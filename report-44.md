@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -61,14 +61,6 @@ Since March 16, 5 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
-#### [Should the DAO limit the request of Grants to refund projects previously developed?](https://governance.decentraland.org/proposal/?id=c3ca13b0-c2ab-11ed-931d-5b5c5c595273)
-
-* Do not allow grant requests to refund projects previously made 0.00009000747512080878% 6 VP (7 votes)
-* Allow grant requests to refund projects previously made 51.649499490932726% 3,443,014 VP (22 votes)
-* Limit the amount of refunds inside a broader grant request 48.18167648823235% 3,211,845 VP (77 votes)
-* Invalid question/options 0.16873401335980953% 11,248 VP (3 votes)
-
-
 #### [Increase Voting Threshold for Modifying LAND or Estate Smart Contracts](https://governance.decentraland.org/proposal/?id=963864d0-c0e7-11ed-95a1-11f47a37eb17)
 
 * YES 99.99994671804468% 1,876,807 VP (124 votes)
@@ -103,6 +95,8 @@ Since March 16, 5 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+* [Add a search bar tool to find places.](https://governance.decentraland.org/proposal/?id=1e058810-c819-11ed-a454-057e86adfb11)
+* [DAO Strategy and Roadmap](https://governance.decentraland.org/proposal/?id=8f846090-c811-11ed-a454-057e86adfb11)
 * [Tender Support Squad](https://governance.decentraland.org/proposal/?id=2b62be00-c4f0-11ed-a85e-7ddcee7c678f)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
