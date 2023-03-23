@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -61,6 +61,13 @@ Since March 16, 5 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+#### [Tender Support Squad](https://governance.decentraland.org/proposal/?id=2b62be00-c4f0-11ed-a85e-7ddcee7c678f)
+
+* Yes 12.51890712166025% 328,332 VP (56 votes)
+* No 87.30360328655055% 2,289,702 VP (78 votes)
+* Invalid question/options 0.1774895917891904% 4,655 VP (1 votes)
+
+
 #### [Increase Voting Threshold for Modifying LAND or Estate Smart Contracts](https://governance.decentraland.org/proposal/?id=963864d0-c0e7-11ed-95a1-11f47a37eb17)
 
 * YES 99.99994671804468% 1,876,807 VP (124 votes)
@@ -77,6 +84,7 @@ Since March 16, 5 grants have been approved and the vesting contract(s) will be 
 
 ## Grants
 
+* [[Resubmission] Dark Dungeons](https://governance.decentraland.org/proposal/?id=639b31c0-c8e3-11ed-a454-057e86adfb11) (Higher Tier)
 * [Continued Maintenance of Decentraland VR Cleint](https://governance.decentraland.org/proposal/?id=47aac310-c783-11ed-a85e-7ddcee7c678f) (Higher Tier)
 * [Advice from experts to prevent false urban sprawl.](https://governance.decentraland.org/proposal/?id=69e7e570-c75b-11ed-a85e-7ddcee7c678f) (Higher Tier)
 * [Landindex Metaverse Analytics - Free for Decentraland!](https://governance.decentraland.org/proposal/?id=b20461d0-c648-11ed-a85e-7ddcee7c678f) (Higher Tier)
@@ -85,7 +93,6 @@ Since March 16, 5 grants have been approved and the vesting contract(s) will be 
 * [Awesome 3D animated creative framework to educate and excite new users](https://governance.decentraland.org/proposal/?id=af7f5d50-c316-11ed-931d-5b5c5c595273) (Lower Tier)
 * [PLAYVERSE SEASON 2 - ARCADE GAMES &amp; EARN NFT&#39;s](https://governance.decentraland.org/proposal/?id=644abde0-c29c-11ed-931d-5b5c5c595273) (Higher Tier)
 * [Dragon City’s MVFW Asia District development](https://governance.decentraland.org/proposal/?id=099d0f80-c13c-11ed-95a1-11f47a37eb17) (Higher Tier)
-* [Empowering African Communities through DCL: Adoption &amp; Inclusion Via Education](https://governance.decentraland.org/proposal/?id=b8df8fd0-be9f-11ed-8c13-518b5c1940be) (Lower Tier)
 
 ## Names Bans
 
@@ -97,6 +104,5 @@ Since March 16, 5 grants have been approved and the vesting contract(s) will be 
 
 * [Add a search bar tool to find places.](https://governance.decentraland.org/proposal/?id=1e058810-c819-11ed-a454-057e86adfb11)
 * [DAO Strategy and Roadmap](https://governance.decentraland.org/proposal/?id=8f846090-c811-11ed-a454-057e86adfb11)
-* [Tender Support Squad](https://governance.decentraland.org/proposal/?id=2b62be00-c4f0-11ed-a85e-7ddcee7c678f)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
