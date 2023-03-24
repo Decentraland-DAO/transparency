@@ -84,6 +84,7 @@ Since March 16, 5 grants have been approved and the vesting contract(s) will be 
 
 ## Grants
 
+* [DCL Gaming-focused Twitter and Blog Content](https://governance.decentraland.org/proposal/?id=6545d170-c9c8-11ed-a090-d91bdcb2a791) (Lower Tier)
 * [[Resubmission] Dark Dungeons](https://governance.decentraland.org/proposal/?id=639b31c0-c8e3-11ed-a454-057e86adfb11) (Higher Tier)
 * [Continued Maintenance of Decentraland VR Cleint](https://governance.decentraland.org/proposal/?id=47aac310-c783-11ed-a85e-7ddcee7c678f) (Higher Tier)
 * [Advice from experts to prevent false urban sprawl.](https://governance.decentraland.org/proposal/?id=69e7e570-c75b-11ed-a85e-7ddcee7c678f) (Higher Tier)
