@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -61,13 +61,6 @@ Since March 16, 5 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
-#### [Tender Support Squad](https://governance.decentraland.org/proposal/?id=2b62be00-c4f0-11ed-a85e-7ddcee7c678f)
-
-* Yes 12.51890712166025% 328,332 VP (56 votes)
-* No 87.30360328655055% 2,289,702 VP (78 votes)
-* Invalid question/options 0.1774895917891904% 4,655 VP (1 votes)
-
-
 #### [Increase Voting Threshold for Modifying LAND or Estate Smart Contracts](https://governance.decentraland.org/proposal/?id=963864d0-c0e7-11ed-95a1-11f47a37eb17)
 
 * YES 99.99994671804468% 1,876,807 VP (124 votes)
@@ -84,6 +77,7 @@ Since March 16, 5 grants have been approved and the vesting contract(s) will be 
 
 ## Grants
 
+* [Telegram Group exclusively for landowners](https://governance.decentraland.org/proposal/?id=de273c70-ca93-11ed-8b08-0d4504ab75fe) (Higher Tier)
 * [DCL Gaming-focused Twitter and Blog Content](https://governance.decentraland.org/proposal/?id=6545d170-c9c8-11ed-a090-d91bdcb2a791) (Lower Tier)
 * [[Resubmission] Dark Dungeons](https://governance.decentraland.org/proposal/?id=639b31c0-c8e3-11ed-a454-057e86adfb11) (Higher Tier)
 * [Continued Maintenance of Decentraland VR Cleint](https://governance.decentraland.org/proposal/?id=47aac310-c783-11ed-a85e-7ddcee7c678f) (Higher Tier)
@@ -103,6 +97,8 @@ Since March 16, 5 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+* [Telegram Group exclusively for landowners](https://governance.decentraland.org/proposal/?id=cf1364a0-ca81-11ed-8b08-0d4504ab75fe)
+* [Add multiple languages to Decentraland Documentation (docs.decentraland.org)](https://governance.decentraland.org/proposal/?id=e7b56cf0-ca73-11ed-8b08-0d4504ab75fe)
 * [Add a search bar tool to find places.](https://governance.decentraland.org/proposal/?id=1e058810-c819-11ed-a454-057e86adfb11)
 * [DAO Strategy and Roadmap](https://governance.decentraland.org/proposal/?id=8f846090-c811-11ed-a454-057e86adfb11)
 
