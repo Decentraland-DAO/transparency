@@ -101,11 +101,13 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
-* 5, -18: [VVAMP Footwear](https://governance.decentraland.org/proposal/?id=491ec560-c5d6-11ed-a85e-7ddcee7c678f)
+* 10, 52: [SciArt Lab](https://governance.decentraland.org/proposal/?id=85caa610-cb0c-11ed-8b08-0d4504ab75fe)
+* -4, 37: [Hinata.io ( Anime NFT Metaverse )](https://governance.decentraland.org/proposal/?id=aa7ad990-cb0b-11ed-8b08-0d4504ab75fe)
+* 26, 9: [The Key ](https://governance.decentraland.org/proposal/?id=1cdb06d0-cb03-11ed-8b08-0d4504ab75fe)
 
 ## Grants
 
-* [Telegram Group exclusively for landowners](https://governance.decentraland.org/proposal/?id=de273c70-ca93-11ed-8b08-0d4504ab75fe) (Higher Tier)
+* [Scalability Upgrade for Decentraland: Implementing Rollup Solutions](https://governance.decentraland.org/proposal/?id=a0ab8b20-cb5c-11ed-8b08-0d4504ab75fe) (Higher Tier)
 * [DCL Gaming-focused Twitter and Blog Content](https://governance.decentraland.org/proposal/?id=6545d170-c9c8-11ed-a090-d91bdcb2a791) (Lower Tier)
 * [[Resubmission] Dark Dungeons](https://governance.decentraland.org/proposal/?id=639b31c0-c8e3-11ed-a454-057e86adfb11) (Higher Tier)
 * [Continued Maintenance of Decentraland VR Cleint](https://governance.decentraland.org/proposal/?id=47aac310-c783-11ed-a85e-7ddcee7c678f) (Higher Tier)
@@ -125,7 +127,6 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
-* [Telegram Group exclusively for landowners](https://governance.decentraland.org/proposal/?id=cf1364a0-ca81-11ed-8b08-0d4504ab75fe)
 * [Add multiple languages to Decentraland Documentation (docs.decentraland.org)](https://governance.decentraland.org/proposal/?id=e7b56cf0-ca73-11ed-8b08-0d4504ab75fe)
 * [Add a search bar tool to find places.](https://governance.decentraland.org/proposal/?id=1e058810-c819-11ed-a454-057e86adfb11)
 * [DAO Strategy and Roadmap](https://governance.decentraland.org/proposal/?id=8f846090-c811-11ed-a454-057e86adfb11)
