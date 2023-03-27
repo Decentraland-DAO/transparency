@@ -117,7 +117,6 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 * [A Course on &#39;Business Opportunities in DecentraLand&#39; at Harvard, Stanford &amp; Hult](https://governance.decentraland.org/proposal/?id=ade957c0-c389-11ed-b5a4-290560b83eb7) (Lower Tier)
 * [Awesome 3D animated creative framework to educate and excite new users](https://governance.decentraland.org/proposal/?id=af7f5d50-c316-11ed-931d-5b5c5c595273) (Lower Tier)
 * [PLAYVERSE SEASON 2 - ARCADE GAMES &amp; EARN NFT&#39;s](https://governance.decentraland.org/proposal/?id=644abde0-c29c-11ed-931d-5b5c5c595273) (Higher Tier)
-* [Dragon City’s MVFW Asia District development](https://governance.decentraland.org/proposal/?id=099d0f80-c13c-11ed-95a1-11f47a37eb17) (Higher Tier)
 
 ## Names Bans
 
@@ -128,7 +127,5 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 ## Polls
 
 * [Add multiple languages to Decentraland Documentation (docs.decentraland.org)](https://governance.decentraland.org/proposal/?id=e7b56cf0-ca73-11ed-8b08-0d4504ab75fe)
-* [Add a search bar tool to find places.](https://governance.decentraland.org/proposal/?id=1e058810-c819-11ed-a454-057e86adfb11)
-* [DAO Strategy and Roadmap](https://governance.decentraland.org/proposal/?id=8f846090-c811-11ed-a454-057e86adfb11)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
