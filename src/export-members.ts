@@ -6,6 +6,7 @@ import {
   fetchDelegations,
   fetchGraphQLCondition,
   flattenArray,
+  MEMBER_VOTE_VP_THRESHOLD,
   reportToRollbarAndThrow,
   saveToCSV,
   saveToJSON,
@@ -110,7 +111,7 @@ async function getMembersInfo(addresses: string[], jobId: number) {
 async function main() {
   // Fetch Snapshot Votes
   const url = snapshotUrl()
-  const where = `space_in: ["${space}"], vp_gt: 1`
+  const where = `space_in: ["${space}"], vp_gt: ${MEMBER_VOTE_VP_THRESHOLD}`
   const votes = await fetchGraphQLCondition<Vote>(url, 'votes', 'created', 'voter', 'voter created', where)
 
   const members = new Set(votes.map(v => v.voter.toLowerCase())) // Unique addresses
