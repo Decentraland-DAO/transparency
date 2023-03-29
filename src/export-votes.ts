@@ -2,6 +2,7 @@ import { SnapshotSpace } from './interfaces/GovernanceProposal'
 import { Vote } from './interfaces/Vote'
 import {
   fetchGraphQLCondition,
+  MEMBER_VOTE_VP_THRESHOLD,
   reportToRollbarAndThrow,
   saveToCSV,
   saveToJSON,
@@ -25,7 +26,7 @@ export type VotesParsed = {
 async function main() {
   // Fetch Snapshot Votes
   const url = snapshotUrl()
-  const where = `space_in: ["${SnapshotSpace.DCL}"], vp_gt: 1`
+  const where = `space_in: ["${SnapshotSpace.DCL}"], vp_gt: ${MEMBER_VOTE_VP_THRESHOLD}`
   const votes = await fetchGraphQLCondition<Vote>(url, 'votes', 'created', 'id', 'id voter created choice proposal { id title choices scores_total } vp vp_by_strategy', where)
 
   const votesParsed: VotesParsed[] = votes.map(vote => {
