@@ -115,8 +115,6 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 * [Landindex Metaverse Analytics - Free for Decentraland!](https://governance.decentraland.org/proposal/?id=b20461d0-c648-11ed-a85e-7ddcee7c678f) (Higher Tier)
 * [Virtual University Campus in Decentraland - Bridg3 Metaverse Hackathon](https://governance.decentraland.org/proposal/?id=4c8e0590-c4a4-11ed-b5a4-290560b83eb7) (Lower Tier)
 * [A Course on &#39;Business Opportunities in DecentraLand&#39; at Harvard, Stanford &amp; Hult](https://governance.decentraland.org/proposal/?id=ade957c0-c389-11ed-b5a4-290560b83eb7) (Lower Tier)
-* [Awesome 3D animated creative framework to educate and excite new users](https://governance.decentraland.org/proposal/?id=af7f5d50-c316-11ed-931d-5b5c5c595273) (Lower Tier)
-* [PLAYVERSE SEASON 2 - ARCADE GAMES &amp; EARN NFT&#39;s](https://governance.decentraland.org/proposal/?id=644abde0-c29c-11ed-931d-5b5c5c595273) (Higher Tier)
 
 ## Names Bans
 
@@ -126,6 +124,11 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Should Maryana be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=e325d370-cd78-11ed-8b08-0d4504ab75fe)
+* [Should DeadHeadJ  be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=954ec350-cd78-11ed-8b08-0d4504ab75fe)
+* [Should Bay be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=3a2890a0-cd78-11ed-8b08-0d4504ab75fe)
+* [Should MetaDoge be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=c15eef20-cd77-11ed-8b08-0d4504ab75fe)
+* [Should DAX be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=63f77470-cd76-11ed-8b08-0d4504ab75fe)
 * [Creating an Organizational Chart for Decentraland](https://governance.decentraland.org/proposal/?id=9c6e3670-cc97-11ed-8b08-0d4504ab75fe)
 * [Add multiple languages to Decentraland Documentation (docs.decentraland.org)](https://governance.decentraland.org/proposal/?id=e7b56cf0-ca73-11ed-8b08-0d4504ab75fe)
 
