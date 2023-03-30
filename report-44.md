@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -61,6 +61,13 @@ Since March 16, 5 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+#### [Add multiple languages to Decentraland Documentation (docs.decentraland.org)](https://governance.decentraland.org/proposal/?id=e7b56cf0-ca73-11ed-8b08-0d4504ab75fe)
+
+* Yes 100% 4,289,657 VP (133 votes)
+* No 0% 0 VP (0 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 #### [Add a search bar tool to find places.](https://governance.decentraland.org/proposal/?id=1e058810-c819-11ed-a454-057e86adfb11)
 
 * Yes 100% 3,752,202 VP (109 votes)
@@ -93,6 +100,7 @@ Since March 16, 5 grants have been approved and the vesting contract(s) will be 
 
 ## Grants
 
+* [Long-Term Standard Wearables Production](https://governance.decentraland.org/proposal/?id=a87fce90-cec9-11ed-8b08-0d4504ab75fe) (Higher Tier)
 * [Scalability Upgrade for Decentraland: Implementing Rollup Solutions](https://governance.decentraland.org/proposal/?id=a0ab8b20-cb5c-11ed-8b08-0d4504ab75fe) (Higher Tier)
 * [DCL Gaming-focused Twitter and Blog Content](https://governance.decentraland.org/proposal/?id=6545d170-c9c8-11ed-a090-d91bdcb2a791) (Lower Tier)
 * [[Resubmission] Dark Dungeons](https://governance.decentraland.org/proposal/?id=639b31c0-c8e3-11ed-a454-057e86adfb11) (Higher Tier)
@@ -100,7 +108,6 @@ Since March 16, 5 grants have been approved and the vesting contract(s) will be 
 * [Advice from experts to prevent false urban sprawl.](https://governance.decentraland.org/proposal/?id=69e7e570-c75b-11ed-a85e-7ddcee7c678f) (Higher Tier)
 * [Landindex Metaverse Analytics - Free for Decentraland!](https://governance.decentraland.org/proposal/?id=b20461d0-c648-11ed-a85e-7ddcee7c678f) (Higher Tier)
 * [Virtual University Campus in Decentraland - Bridg3 Metaverse Hackathon](https://governance.decentraland.org/proposal/?id=4c8e0590-c4a4-11ed-b5a4-290560b83eb7) (Lower Tier)
-* [A Course on &#39;Business Opportunities in DecentraLand&#39; at Harvard, Stanford &amp; Hult](https://governance.decentraland.org/proposal/?id=ade957c0-c389-11ed-b5a4-290560b83eb7) (Lower Tier)
 
 ## Names Bans
 
@@ -110,12 +117,14 @@ Since March 16, 5 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+* [New Emotes Feature](https://governance.decentraland.org/proposal/?id=3e4bd900-ce7f-11ed-8b08-0d4504ab75fe)
+* [Should Maserphaz be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=c6768330-ce29-11ed-8b08-0d4504ab75fe)
+* [Should Serena Elis be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=7dad6510-ce29-11ed-8b08-0d4504ab75fe)
 * [Should Maryana be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=e325d370-cd78-11ed-8b08-0d4504ab75fe)
 * [Should DeadHeadJ  be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=954ec350-cd78-11ed-8b08-0d4504ab75fe)
 * [Should Bay be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=3a2890a0-cd78-11ed-8b08-0d4504ab75fe)
 * [Should MetaDoge be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=c15eef20-cd77-11ed-8b08-0d4504ab75fe)
 * [Should DAX be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=63f77470-cd76-11ed-8b08-0d4504ab75fe)
 * [Creating an Organizational Chart for Decentraland](https://governance.decentraland.org/proposal/?id=9c6e3670-cc97-11ed-8b08-0d4504ab75fe)
-* [Add multiple languages to Decentraland Documentation (docs.decentraland.org)](https://governance.decentraland.org/proposal/?id=e7b56cf0-ca73-11ed-8b08-0d4504ab75fe)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
