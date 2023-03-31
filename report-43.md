@@ -107,6 +107,7 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [MetaFiends – viral attraction of new users to Decentraland.](https://governance.decentraland.org/proposal/?id=79bb8700-cf11-11ed-8b08-0d4504ab75fe) (Higher Tier)
 * [Long-Term Standard Wearables Production](https://governance.decentraland.org/proposal/?id=a87fce90-cec9-11ed-8b08-0d4504ab75fe) (Higher Tier)
 * [Scalability Upgrade for Decentraland: Implementing Rollup Solutions](https://governance.decentraland.org/proposal/?id=a0ab8b20-cb5c-11ed-8b08-0d4504ab75fe) (Higher Tier)
 * [DCL Gaming-focused Twitter and Blog Content](https://governance.decentraland.org/proposal/?id=6545d170-c9c8-11ed-a090-d91bdcb2a791) (Lower Tier)
@@ -114,7 +115,6 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 * [Continued Maintenance of Decentraland VR Cleint](https://governance.decentraland.org/proposal/?id=47aac310-c783-11ed-a85e-7ddcee7c678f) (Higher Tier)
 * [Advice from experts to prevent false urban sprawl.](https://governance.decentraland.org/proposal/?id=69e7e570-c75b-11ed-a85e-7ddcee7c678f) (Higher Tier)
 * [Landindex Metaverse Analytics - Free for Decentraland!](https://governance.decentraland.org/proposal/?id=b20461d0-c648-11ed-a85e-7ddcee7c678f) (Higher Tier)
-* [Virtual University Campus in Decentraland - Bridg3 Metaverse Hackathon](https://governance.decentraland.org/proposal/?id=4c8e0590-c4a4-11ed-b5a4-290560b83eb7) (Lower Tier)
 
 ## Names Bans
 
