@@ -11,5 +11,18 @@
       "social_media_content": 5,
       "sponsorship": 10
     }
+  },
+  {
+    "start_date": "2023-04-01T00:00:00Z",
+    "total": 2233000,
+    "category_percentages": {
+      "accelerator": 7,
+      "core_unit": 15,
+      "documentation": 3,
+      "in_world_content": 20,
+      "platform": 40,
+      "social_media_content": 5,
+      "sponsorship": 10
+    }
   }
 ]
