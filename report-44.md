@@ -94,9 +94,6 @@ Since March 16, 5 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
-* 10, 52: [SciArt Lab](https://governance.decentraland.org/proposal/?id=85caa610-cb0c-11ed-8b08-0d4504ab75fe)
-* -4, 37: [Hinata.io ( Anime NFT Metaverse )](https://governance.decentraland.org/proposal/?id=aa7ad990-cb0b-11ed-8b08-0d4504ab75fe)
-* 26, 9: [The Key ](https://governance.decentraland.org/proposal/?id=1cdb06d0-cb03-11ed-8b08-0d4504ab75fe)
 
 ## Grants
 
@@ -127,6 +124,5 @@ Since March 16, 5 grants have been approved and the vesting contract(s) will be 
 * [Should Bay be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=3a2890a0-cd78-11ed-8b08-0d4504ab75fe)
 * [Should MetaDoge be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=c15eef20-cd77-11ed-8b08-0d4504ab75fe)
 * [Should DAX be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=63f77470-cd76-11ed-8b08-0d4504ab75fe)
-* [Creating an Organizational Chart for Decentraland](https://governance.decentraland.org/proposal/?id=9c6e3670-cc97-11ed-8b08-0d4504ab75fe)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
