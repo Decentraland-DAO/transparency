@@ -3,13 +3,13 @@ import { DCLMember } from '../interfaces/Members'
 class Team {
   private readonly name: string
   private readonly description: string
-  private readonly membersAmount: number
+  private readonly size: number
   private readonly members: DCLMember[]
 
-  constructor(name: string, description: string, membersAmount: number, members: DCLMember[]) {
+  constructor(name: string, description: string, size: number, members: DCLMember[]) {
     this.name = name
     this.description = description
-    this.membersAmount = membersAmount
+    this.size = size
     this.members = members
   }
 
@@ -17,7 +17,7 @@ class Team {
     return {
       name: this.name,
       description: this.description,
-      membersAmount: this.membersAmount,
+      size: this.size,
       members: this.members
     }
   }
