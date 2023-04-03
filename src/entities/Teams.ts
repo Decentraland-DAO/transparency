@@ -3,11 +3,13 @@ import { DCLMember } from '../interfaces/Members'
 class Team {
   private readonly name: string
   private readonly description: string
+  private readonly membersAmount: number
   private readonly members: DCLMember[]
 
-  constructor(name: string, description: string, members: DCLMember[]) {
+  constructor(name: string, description: string, membersAmount: number, members: DCLMember[]) {
     this.name = name
     this.description = description
+    this.membersAmount = membersAmount
     this.members = members
   }
 
@@ -15,6 +17,7 @@ class Team {
     return {
       name: this.name,
       description: this.description,
+      membersAmount: this.membersAmount,
       members: this.members
     }
   }
@@ -27,6 +30,7 @@ class Team {
 export const SABTeam = new Team(
   'Security Advisory Board',
   'Responsable to overview the sensible operations of the DAO, with the power to halt operations initiated by the DAO Committee or the Community. They advise in the best course of action for technical operations involving the DAO\'s smart contracts.',
+  5,
   [
     {
       address: '0xbcac4dafb7e215f2f6cb3312af6d5e4f9d9e7eda',
@@ -59,6 +63,7 @@ export const SABTeam = new Team(
 export const DAOCommitteeTeam = new Team(
   'DAO Committee',
   'Their principal responsibility is to enact binding proposals on-chain like listing Point of Interests, sending Grants, and any other operations involving the DAO\'s smart contracts.',
+  3,
   [
     {
       address: '0xbfa6d24e6a061e9aea3447163fdfe045177dd40e',
@@ -79,8 +84,9 @@ export const DAOCommitteeTeam = new Team(
 )
 
 export const CurationTeam = new Team(
-  'Wearable Curation Team',
+  'Wearable Curation Committee',
   'Responsible for reviewing new wearable submissions ensuring they are glitch-free and compliant with the design guidelines. They also rise warnings about IP infringement and violent content.',
+  15,
   [
     {
       address: '0x8938d1f65abe7750b0777206ee26c974a6721194',
