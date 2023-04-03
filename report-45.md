@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -52,14 +52,51 @@ Since April 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+#### [Should Maryana be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=e325d370-cd78-11ed-8b08-0d4504ab75fe)
+
+* YES 100% 5,122,185 VP (143 votes)
+* NO 0% 0 VP (1 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
+#### [Should DeadHeadJ  be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=954ec350-cd78-11ed-8b08-0d4504ab75fe)
+
+* YES 100% 4,395,520 VP (125 votes)
+* NO 0% 0 VP (0 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
+#### [Should Bay be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=3a2890a0-cd78-11ed-8b08-0d4504ab75fe)
+
+* YES 100% 1,965,362 VP (109 votes)
+* NO 0% 0 VP (1 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
+#### [Should MetaDoge be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=c15eef20-cd77-11ed-8b08-0d4504ab75fe)
+
+* YES 99.64915213324859% 3,195,268 VP (102 votes)
+* NO 0.3508478667514107% 11,250 VP (4 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
+#### [Should DAX be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=63f77470-cd76-11ed-8b08-0d4504ab75fe)
+
+* YES 99.99993013147626% 4,293,776 VP (100 votes)
+* NO 0.00006986852374097503% 3 VP (1 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 
 # Active Proposals
 
 ## Points of Interest
 
+* 23, 79: [Decentraland Museum](https://governance.decentraland.org/proposal/?id=68cec520-d19f-11ed-9cb9-2563bc989482)
 
 ## Grants
 
+* [Duel Arena Game Development -  2D &amp; 3D Game with Crossover Data -86,47](https://governance.decentraland.org/proposal/?id=0414e9e0-d1a2-11ed-9cb9-2563bc989482) (Higher Tier)
 * [A Multi-Platform Entertainment Series Designed to Boost DCL Brand Awareness](https://governance.decentraland.org/proposal/?id=9b270cc0-d042-11ed-9cb9-2563bc989482) (Higher Tier)
 * [MetaFiends – viral attraction of new users to Decentraland.](https://governance.decentraland.org/proposal/?id=79bb8700-cf11-11ed-8b08-0d4504ab75fe) (Higher Tier)
 * [Long-Term Standard Wearables Production](https://governance.decentraland.org/proposal/?id=a87fce90-cec9-11ed-8b08-0d4504ab75fe) (Higher Tier)
@@ -68,7 +105,6 @@ Since April 1, 0 grants have been approved and the vesting contract(s) will be e
 * [[Resubmission] Dark Dungeons](https://governance.decentraland.org/proposal/?id=639b31c0-c8e3-11ed-a454-057e86adfb11) (Higher Tier)
 * [Continued Maintenance of Decentraland VR Cleint](https://governance.decentraland.org/proposal/?id=47aac310-c783-11ed-a85e-7ddcee7c678f) (Higher Tier)
 * [Advice from experts to prevent false urban sprawl.](https://governance.decentraland.org/proposal/?id=69e7e570-c75b-11ed-a85e-7ddcee7c678f) (Higher Tier)
-* [Landindex Metaverse Analytics - Free for Decentraland!](https://governance.decentraland.org/proposal/?id=b20461d0-c648-11ed-a85e-7ddcee7c678f) (Higher Tier)
 
 ## Names Bans
 
@@ -82,10 +118,5 @@ Since April 1, 0 grants have been approved and the vesting contract(s) will be e
 * [New Emotes Feature](https://governance.decentraland.org/proposal/?id=3e4bd900-ce7f-11ed-8b08-0d4504ab75fe)
 * [Should Maserphaz be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=c6768330-ce29-11ed-8b08-0d4504ab75fe)
 * [Should Serena Elis be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=7dad6510-ce29-11ed-8b08-0d4504ab75fe)
-* [Should Maryana be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=e325d370-cd78-11ed-8b08-0d4504ab75fe)
-* [Should DeadHeadJ  be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=954ec350-cd78-11ed-8b08-0d4504ab75fe)
-* [Should Bay be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=3a2890a0-cd78-11ed-8b08-0d4504ab75fe)
-* [Should MetaDoge be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=c15eef20-cd77-11ed-8b08-0d4504ab75fe)
-* [Should DAX be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=63f77470-cd76-11ed-8b08-0d4504ab75fe)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
