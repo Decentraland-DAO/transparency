@@ -70,6 +70,7 @@ export enum ProjectHealth {
 }
 
 export enum VestingStatus {
+  Pending = 'Pending',
   InProgress = 'In Progress',
   Finished = 'Finished',
   Paused = 'Paused',

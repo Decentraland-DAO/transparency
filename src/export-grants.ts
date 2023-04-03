@@ -45,6 +45,20 @@ function getTxAmount(decodedLogEvent: Decoded, decimals: number) {
   return null
 }
 
+function getInitialVestingStatus(startAt: string, finishAt: string) {
+  const now = new Date()
+
+  if (now < new Date(startAt)) {
+    return VestingStatus.Pending
+  }
+
+  if (now < new Date(finishAt)) {
+    return VestingStatus.InProgress
+  }
+
+  return VestingStatus.Finished
+}
+
 async function _getVestingContractDataV1(vestingAddress: string): Promise<VestingInfo> {
   const vestingContract = new web3.eth.Contract(VESTING_ABI as AbiItem[], vestingAddress)
   const contract_token_address: string = (await vestingContract.methods.token().call()).toLowerCase()
@@ -68,7 +82,7 @@ async function _getVestingContractDataV1(vestingAddress: string): Promise<Vestin
   const vesting_token_contract_balance = parseNumber(raw_token_contract_balance, decimals)
   const vesting_total_amount = vesting_token_contract_balance + vesting_released
 
-  let vesting_status = new Date() < new Date(vesting_finish_at) ? VestingStatus.InProgress : VestingStatus.Finished
+  let vesting_status = getInitialVestingStatus(vesting_start_at, vesting_finish_at)
 
   const isRevoked = await vestingContract.methods.revoked().call()
 
@@ -112,7 +126,7 @@ async function _getVestingContractDataV2(vestingAddress: string): Promise<Vestin
   const vesting_token_contract_balance = parseNumber(raw_token_contract_balance, decimals)
   const vesting_total_amount = vesting_token_contract_balance + vesting_released
 
-  let vesting_status = new Date() < new Date(vesting_finish_at) ? VestingStatus.InProgress : VestingStatus.Finished
+  let vesting_status = getInitialVestingStatus(vesting_start_at, vesting_finish_at)
 
   const isRevoked = await vestingContract.methods.getIsRevoked().call()
 
