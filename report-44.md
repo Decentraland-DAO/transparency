@@ -94,7 +94,6 @@ Since March 16, 5 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
-* 23, 79: [Decentraland Museum](https://governance.decentraland.org/proposal/?id=68cec520-d19f-11ed-9cb9-2563bc989482)
 
 ## Grants
 
@@ -105,8 +104,6 @@ Since March 16, 5 grants have been approved and the vesting contract(s) will be 
 * [Scalability Upgrade for Decentraland: Implementing Rollup Solutions](https://governance.decentraland.org/proposal/?id=a0ab8b20-cb5c-11ed-8b08-0d4504ab75fe) (Higher Tier)
 * [DCL Gaming-focused Twitter and Blog Content](https://governance.decentraland.org/proposal/?id=6545d170-c9c8-11ed-a090-d91bdcb2a791) (Lower Tier)
 * [[Resubmission] Dark Dungeons](https://governance.decentraland.org/proposal/?id=639b31c0-c8e3-11ed-a454-057e86adfb11) (Higher Tier)
-* [Continued Maintenance of Decentraland VR Cleint](https://governance.decentraland.org/proposal/?id=47aac310-c783-11ed-a85e-7ddcee7c678f) (Higher Tier)
-* [Advice from experts to prevent false urban sprawl.](https://governance.decentraland.org/proposal/?id=69e7e570-c75b-11ed-a85e-7ddcee7c678f) (Higher Tier)
 
 ## Names Bans
 
@@ -116,9 +113,6 @@ Since March 16, 5 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
-* [Project Amsterdam props Open-Source](https://governance.decentraland.org/proposal/?id=da3dd100-cfe8-11ed-9cb9-2563bc989482)
-* [New Emotes Feature](https://governance.decentraland.org/proposal/?id=3e4bd900-ce7f-11ed-8b08-0d4504ab75fe)
-* [Should Maserphaz be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=c6768330-ce29-11ed-8b08-0d4504ab75fe)
-* [Should Serena Elis be confirmed as part of the Revocations Committee?](https://governance.decentraland.org/proposal/?id=7dad6510-ce29-11ed-8b08-0d4504ab75fe)
+* [Should Decentraland Worlds be integrated with Places?](https://governance.decentraland.org/proposal/?id=f9573010-d22f-11ed-9cb9-2563bc989482)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
