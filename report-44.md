@@ -94,9 +94,12 @@ Since March 16, 5 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
+* -109, -6: [AMORE PACIFIC](https://governance.decentraland.org/proposal/?id=679b0f10-d36b-11ed-9cb9-2563bc989482)
 
 ## Grants
 
+* [[Resubmittion] Bridg3 Hackathon:  Advancing Decentraland&#39;s Educational Impact](https://governance.decentraland.org/proposal/?id=a923aef0-d317-11ed-9cb9-2563bc989482) (Lower Tier)
+* [Decentraland News and Events Coverage for Spanish Audiences](https://governance.decentraland.org/proposal/?id=774e5670-d315-11ed-9cb9-2563bc989482) (Lower Tier)
 * [Duel Arena Game Development -  2D &amp; 3D Game with Crossover Data -86,47](https://governance.decentraland.org/proposal/?id=0414e9e0-d1a2-11ed-9cb9-2563bc989482) (Higher Tier)
 * [A Multi-Platform Entertainment Series Designed to Boost DCL Brand Awareness](https://governance.decentraland.org/proposal/?id=9b270cc0-d042-11ed-9cb9-2563bc989482) (Higher Tier)
 * [MetaFiends – viral attraction of new users to Decentraland.](https://governance.decentraland.org/proposal/?id=79bb8700-cf11-11ed-8b08-0d4504ab75fe) (Higher Tier)
