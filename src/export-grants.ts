@@ -116,10 +116,20 @@ async function _getVestingContractDataV2(vestingAddress: string): Promise<Vestin
   const vesting_releasable = parseNumber(raw_vesting_releasable, decimals)
 
   const contractStart: number = await vestingContract.methods.getStart().call()
-  const contractDuration: number = await vestingContract.methods.getPeriod().call()
-  const contractEndsTimestamp = Number(contractStart) + Number(contractDuration)
+  const contractDuration = await vestingContract.methods.getPeriod().call()
   const vesting_start_at = toISOString(contractStart)
-  const vesting_finish_at = toISOString(contractEndsTimestamp)
+  let contractEndsTimestamp = 0
+  let vesting_finish_at = ''
+
+  if (await vestingContract.methods.getIsLinear().call()) {
+    contractEndsTimestamp = Number(contractStart) + Number(contractDuration)
+    vesting_finish_at = toISOString(contractEndsTimestamp)
+  }
+  else {
+    const periods = (await vestingContract.methods.getVestedPerPeriod().call()).length || 0
+    contractEndsTimestamp = Number(contractStart) + Number(contractDuration) * periods
+    vesting_finish_at = toISOString(contractEndsTimestamp)
+  }
 
   const tokenContract = new web3.eth.Contract(token.abi, contract_token_address)
   const raw_token_contract_balance = await tokenContract.methods.balanceOf(vestingAddress).call()

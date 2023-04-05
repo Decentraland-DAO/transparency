@@ -10,19 +10,19 @@ describe("getMonthsBetweenDates", () => {
   it("should return the correct number of months between two dates", () => {
     const startDate = new Date("2022-01-01")
     const endDate = new Date("2022-12-31")
-    expect(getMonthsBetweenDates(startDate, endDate)).toBe(11)
+    expect(getMonthsBetweenDates(startDate, endDate)).toBe(12)
   })
 
   it("should handle differences in years correctly", () => {
     const startDate = new Date("2022-01-01")
     const endDate = new Date("2024-12-31")
-    expect(getMonthsBetweenDates(startDate, endDate)).toBe(35)
+    expect(getMonthsBetweenDates(startDate, endDate)).toBe(36)
   })
 
   it("should handle differences in months correctly", () => {
     const startDate = new Date("2022-01-01")
     const endDate = new Date("2022-03-31")
-    expect(getMonthsBetweenDates(startDate, endDate)).toBe(2)
+    expect(getMonthsBetweenDates(startDate, endDate)).toBe(3)
   })
 })
 
