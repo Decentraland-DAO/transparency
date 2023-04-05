@@ -1,6 +1,7 @@
 import { rollbar } from './rollbar'
 import Web3 from 'web3'
-import { AbiItem } from 'web3-utils'
+import type { AbiItem } from 'web3-utils'
+import type { Contract } from 'web3-eth-contract'
 
 import PROPOSALS from '../public/proposals.json'
 import VESTING_ABI from './abi/Ethereum/vesting.json'
@@ -103,18 +104,7 @@ async function _getVestingContractDataV1(vestingAddress: string): Promise<Vestin
   }
 }
 
-async function _getVestingContractDataV2(vestingAddress: string): Promise<VestingInfo> {
-  const vestingContract = new web3.eth.Contract(VESTING_V2_ABI as AbiItem[], vestingAddress)
-  const contract_token_address: string = (await vestingContract.methods.getToken().call()).toLowerCase()
-  const token = Tokens.getEthereumToken(contract_token_address)
-  const decimals = token.decimals
-
-  const raw_vesting_released = await vestingContract.methods.getReleased().call()
-  const vesting_released = parseNumber(raw_vesting_released, decimals)
-
-  const raw_vesting_releasable = await vestingContract.methods.getReleasable().call()
-  const vesting_releasable = parseNumber(raw_vesting_releasable, decimals)
-
+async function _getVestingV2Dates(vestingContract: Contract) {
   const contractStart: number = await vestingContract.methods.getStart().call()
   const contractDuration = await vestingContract.methods.getPeriod().call()
   const vesting_start_at = toISOString(contractStart)
@@ -130,6 +120,23 @@ async function _getVestingContractDataV2(vestingAddress: string): Promise<Vestin
     contractEndsTimestamp = Number(contractStart) + Number(contractDuration) * periods
     vesting_finish_at = toISOString(contractEndsTimestamp)
   }
+
+  return { vesting_start_at, vesting_finish_at }
+}
+
+async function _getVestingContractDataV2(vestingAddress: string): Promise<VestingInfo> {
+  const vestingContract = new web3.eth.Contract(VESTING_V2_ABI as AbiItem[], vestingAddress)
+  const contract_token_address: string = (await vestingContract.methods.getToken().call()).toLowerCase()
+  const token = Tokens.getEthereumToken(contract_token_address)
+  const decimals = token.decimals
+
+  const raw_vesting_released = await vestingContract.methods.getReleased().call()
+  const vesting_released = parseNumber(raw_vesting_released, decimals)
+
+  const raw_vesting_releasable = await vestingContract.methods.getReleasable().call()
+  const vesting_releasable = parseNumber(raw_vesting_releasable, decimals)
+
+  const { vesting_start_at, vesting_finish_at } = await _getVestingV2Dates(vestingContract)
 
   const tokenContract = new web3.eth.Contract(token.abi, contract_token_address)
   const raw_token_contract_balance = await tokenContract.methods.balanceOf(vestingAddress).call()
