@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 8 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 8 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -47,7 +47,14 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since April 1, 1 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since April 1, 2 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [[Resubmission] Dark Dungeons](https://governance.decentraland.org/proposal/?id=639b31c0-c8e3-11ed-a454-057e86adfb11) (Higher Tier)
+
+* Yes 67.73293109523965% 7,271,311 VP (133 votes)
+* No 27.241530182714595% 2,924,451 VP (71 votes)
+* Abstain 5.025538722045758% 539,505 VP (34 votes)
 
 
 #### [Continued Maintenance of Decentraland VR Cleint](https://governance.decentraland.org/proposal/?id=47aac310-c783-11ed-a85e-7ddcee7c678f) (Higher Tier)
@@ -123,6 +130,7 @@ Since April 1, 1 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [Metaverse Concerts and Events in Decentraland by Cryptic Entertainments](https://governance.decentraland.org/proposal/?id=2b396310-d3a1-11ed-9cb9-2563bc989482) (Lower Tier)
 * [[Resubmittion] Bridg3 Hackathon:  Advancing Decentraland&#39;s Educational Impact](https://governance.decentraland.org/proposal/?id=a923aef0-d317-11ed-9cb9-2563bc989482) (Lower Tier)
 * [Decentraland News and Events Coverage for Spanish Audiences](https://governance.decentraland.org/proposal/?id=774e5670-d315-11ed-9cb9-2563bc989482) (Lower Tier)
 * [Duel Arena Game Development -  2D &amp; 3D Game with Crossover Data -86,47](https://governance.decentraland.org/proposal/?id=0414e9e0-d1a2-11ed-9cb9-2563bc989482) (Higher Tier)
@@ -131,7 +139,6 @@ Since April 1, 1 grants have been approved and the vesting contract(s) will be e
 * [Long-Term Standard Wearables Production](https://governance.decentraland.org/proposal/?id=a87fce90-cec9-11ed-8b08-0d4504ab75fe) (Higher Tier)
 * [Scalability Upgrade for Decentraland: Implementing Rollup Solutions](https://governance.decentraland.org/proposal/?id=a0ab8b20-cb5c-11ed-8b08-0d4504ab75fe) (Higher Tier)
 * [DCL Gaming-focused Twitter and Blog Content](https://governance.decentraland.org/proposal/?id=6545d170-c9c8-11ed-a090-d91bdcb2a791) (Lower Tier)
-* [[Resubmission] Dark Dungeons](https://governance.decentraland.org/proposal/?id=639b31c0-c8e3-11ed-a454-057e86adfb11) (Higher Tier)
 
 ## Names Bans
 
