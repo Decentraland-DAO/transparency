@@ -130,6 +130,7 @@ Since April 1, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [Decentraland-Kit Plugin Addon for Blender](https://governance.decentraland.org/proposal/?id=7a4dc360-d48c-11ed-b3d9-b11d80b080d6) (Lower Tier)
 * [Metaverse Concerts and Events in Decentraland by Cryptic Entertainments](https://governance.decentraland.org/proposal/?id=2b396310-d3a1-11ed-9cb9-2563bc989482) (Lower Tier)
 * [[Resubmittion] Bridg3 Hackathon:  Advancing Decentraland&#39;s Educational Impact](https://governance.decentraland.org/proposal/?id=a923aef0-d317-11ed-9cb9-2563bc989482) (Lower Tier)
 * [Decentraland News and Events Coverage for Spanish Audiences](https://governance.decentraland.org/proposal/?id=774e5670-d315-11ed-9cb9-2563bc989482) (Lower Tier)
@@ -138,7 +139,6 @@ Since April 1, 2 grants have been approved and the vesting contract(s) will be e
 * [MetaFiends – viral attraction of new users to Decentraland.](https://governance.decentraland.org/proposal/?id=79bb8700-cf11-11ed-8b08-0d4504ab75fe) (Higher Tier)
 * [Long-Term Standard Wearables Production](https://governance.decentraland.org/proposal/?id=a87fce90-cec9-11ed-8b08-0d4504ab75fe) (Higher Tier)
 * [Scalability Upgrade for Decentraland: Implementing Rollup Solutions](https://governance.decentraland.org/proposal/?id=a0ab8b20-cb5c-11ed-8b08-0d4504ab75fe) (Higher Tier)
-* [DCL Gaming-focused Twitter and Blog Content](https://governance.decentraland.org/proposal/?id=6545d170-c9c8-11ed-a090-d91bdcb2a791) (Lower Tier)
 
 ## Names Bans
 
@@ -148,6 +148,7 @@ Since April 1, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Create a Verified Linked Wearables Registry](https://governance.decentraland.org/proposal/?id=26192940-d4ac-11ed-bfff-7567e61aeee0)
 * [Should Decentraland Worlds be integrated with Places?](https://governance.decentraland.org/proposal/?id=f9573010-d22f-11ed-9cb9-2563bc989482)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
