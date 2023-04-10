@@ -116,6 +116,7 @@ Since March 16, 5 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+* [Connecting Decentraland with Ready Player Me](https://governance.decentraland.org/proposal/?id=92440c10-d6d3-11ed-bfff-7567e61aeee0)
 * [Starter (Beginner) Pack for 1st Time Users from our Talented Designers. Funded by DCL or Community.](https://governance.decentraland.org/proposal/?id=d3a11c10-d5a3-11ed-bfff-7567e61aeee0)
 * [Create a Verified Linked Wearables Registry](https://governance.decentraland.org/proposal/?id=26192940-d4ac-11ed-bfff-7567e61aeee0)
 
