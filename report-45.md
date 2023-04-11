@@ -137,6 +137,7 @@ Since April 1, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [Butterfly Prawn Farm (BPF) Development and Expansion](https://governance.decentraland.org/proposal/?id=0db6e270-d7c2-11ed-bfff-7567e61aeee0) (Higher Tier)
 * [DCL-Edit V3 Further Development](https://governance.decentraland.org/proposal/?id=2d4566b0-d5c5-11ed-bfff-7567e61aeee0) (Higher Tier)
 * [Decentraland-Kit Plugin Addon for Blender](https://governance.decentraland.org/proposal/?id=7a4dc360-d48c-11ed-b3d9-b11d80b080d6) (Lower Tier)
 * [Metaverse Concerts and Events in Decentraland by Cryptic Entertainments](https://governance.decentraland.org/proposal/?id=2b396310-d3a1-11ed-9cb9-2563bc989482) (Lower Tier)
