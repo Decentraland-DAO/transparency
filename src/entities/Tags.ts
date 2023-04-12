@@ -1,4 +1,4 @@
-import { CurationTeam, DAOCommitteeTeam } from "./Teams"
+import { CurationCommittee, DAOCommittee } from "./Teams"
 
 export enum TagType {
   ESTATE_BID_FEE = 'ESTATE fee :: BID',
@@ -81,7 +81,7 @@ const SECONDARY_SALE_TAGS: Record<ItemTagType, SecondarySaleItemTagType> = {
 
 const DAO_COMMITTEE_ADDRESSES = [
   '0x521b0fef9cdcf250abaf8e7bc798cbe13fa98692',
-  ...DAOCommitteeTeam.getMemberAddresses()
+  ...DAOCommittee.getMemberAddresses()
 ]
 
 const SWAP_CONTRACTS = [
@@ -196,7 +196,7 @@ const CURATORS_PAYMENT_ADDRESSES = [
   '0x5ce9fb617333b8c5a8f7787710f7c07002cb3516',
   '0x805797df0c0d7d70e14230b72e30171d730da55e'
 ]
-const CURATORS = new Set([...CurationTeam.getMemberAddresses(), ...CURATORS_PAYMENT_ADDRESSES])
+const CURATORS = new Set([...CurationCommittee.getMemberAddresses(), ...CURATORS_PAYMENT_ADDRESSES])
 const ITEM_CONTRACTS: Record<string, ItemTagType> = {
   '0x959e104e1a4db6317fa58f8295f586e1a978c297': TagType.ESTATE_BID_FEE,
   '0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d': TagType.LAND_BID_FEE,

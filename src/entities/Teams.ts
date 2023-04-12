@@ -1,6 +1,6 @@
 import { DCLMember } from '../interfaces/Members'
 
-class Team {
+class Committee {
   private readonly name: string
   private readonly description: string
   private readonly size: number
@@ -27,7 +27,7 @@ class Team {
   }
 }
 
-export const SABTeam = new Team(
+export const SABCommittee = new Committee(
   'Security Advisory Board',
   'Responsable to overview the sensible operations of the DAO, with the power to halt operations initiated by the DAO Committee or the Community. They advise in the best course of action for technical operations involving the DAO\'s smart contracts.',
   5,
@@ -60,7 +60,7 @@ export const SABTeam = new Team(
   ]
 )
 
-export const DAOCommitteeTeam = new Team(
+export const DAOCommittee = new Committee(
   'DAO Committee',
   'Their principal responsibility is to enact binding proposals on-chain like listing Point of Interests, sending Grants, and any other operations involving the DAO\'s smart contracts.',
   3,
@@ -83,7 +83,7 @@ export const DAOCommitteeTeam = new Team(
   ]
 )
 
-export const CurationTeam = new Team(
+export const CurationCommittee = new Committee(
   'Wearable Curation Committee',
   'Responsible for reviewing new wearable submissions ensuring they are glitch-free and compliant with the design guidelines. They also rise warnings about IP infringement and violent content.',
   15,
