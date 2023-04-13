@@ -94,10 +94,13 @@ Since March 16, 5 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
-* -109, -6: [AMORE PACIFIC](https://governance.decentraland.org/proposal/?id=679b0f10-d36b-11ed-9cb9-2563bc989482)
+* 102, 86: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=c5fe9500-d8a6-11ed-bfff-7567e61aeee0)
 
 ## Grants
 
+* [Integrating Decentraland with Leading E-commerce Platforms](https://governance.decentraland.org/proposal/?id=04f1cd70-d8d6-11ed-bfff-7567e61aeee0) (Higher Tier)
+* [Provide live and interactive streaming video content to Decentraland users.](https://governance.decentraland.org/proposal/?id=0a46c310-d8a0-11ed-bfff-7567e61aeee0) (Higher Tier)
+* [Ur-Hackathon 3.0](https://governance.decentraland.org/proposal/?id=75d936a0-d87b-11ed-bfff-7567e61aeee0) (Lower Tier)
 * [Butterfly Prawn Farm (BPF) Development and Expansion](https://governance.decentraland.org/proposal/?id=0db6e270-d7c2-11ed-bfff-7567e61aeee0) (Higher Tier)
 * [DCL-Edit V3 Further Development](https://governance.decentraland.org/proposal/?id=2d4566b0-d5c5-11ed-bfff-7567e61aeee0) (Higher Tier)
 * [Decentraland-Kit Plugin Addon for Blender](https://governance.decentraland.org/proposal/?id=7a4dc360-d48c-11ed-b3d9-b11d80b080d6) (Lower Tier)
@@ -107,7 +110,6 @@ Since March 16, 5 grants have been approved and the vesting contract(s) will be 
 * [Duel Arena Game Development -  2D &amp; 3D Game with Crossover Data -86,47](https://governance.decentraland.org/proposal/?id=0414e9e0-d1a2-11ed-9cb9-2563bc989482) (Higher Tier)
 * [A Multi-Platform Entertainment Series Designed to Boost DCL Brand Awareness](https://governance.decentraland.org/proposal/?id=9b270cc0-d042-11ed-9cb9-2563bc989482) (Higher Tier)
 * [MetaFiends – viral attraction of new users to Decentraland.](https://governance.decentraland.org/proposal/?id=79bb8700-cf11-11ed-8b08-0d4504ab75fe) (Higher Tier)
-* [Long-Term Standard Wearables Production](https://governance.decentraland.org/proposal/?id=a87fce90-cec9-11ed-8b08-0d4504ab75fe) (Higher Tier)
 
 ## Names Bans
 
@@ -117,8 +119,10 @@ Since March 16, 5 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+* [Parameters for buying back LAND using DAO funds (PT. C)](https://governance.decentraland.org/proposal/?id=47f1c960-d9a6-11ed-bfff-7567e61aeee0)
+* [Parameters for buying back LAND using DAO funds (PT. B)](https://governance.decentraland.org/proposal/?id=cd5e1640-d9a5-11ed-bfff-7567e61aeee0)
+* [Parameters for buying back LAND using DAO funds (PT. A)](https://governance.decentraland.org/proposal/?id=c66846e0-d9a4-11ed-bfff-7567e61aeee0)
+* [District X: Contentious Leadership](https://governance.decentraland.org/proposal/?id=c0e5dd50-d895-11ed-bfff-7567e61aeee0)
 * [Connecting Decentraland with Ready Player Me](https://governance.decentraland.org/proposal/?id=92440c10-d6d3-11ed-bfff-7567e61aeee0)
-* [Starter (Beginner) Pack for 1st Time Users from our Talented Designers. Funded by DCL or Community.](https://governance.decentraland.org/proposal/?id=d3a11c10-d5a3-11ed-bfff-7567e61aeee0)
-* [Create a Verified Linked Wearables Registry](https://governance.decentraland.org/proposal/?id=26192940-d4ac-11ed-bfff-7567e61aeee0)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
