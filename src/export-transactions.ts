@@ -72,7 +72,8 @@ const OPENSEA_ADDRESSES = new Set([
   '0xf715beb51ec8f63317d66f491e37e7bb048fcc2d',
   '0x000000004b5ad44f70781462233d177d32d993f1',
   '0x13c10925bf130e4a9631900d89475d2155b5f9c0',
-  '0x0000000000e9c0809c14f4dc1e48f97abd9317f6'
+  '0x0000000000e9c0809c14f4dc1e48f97abd9317f6',
+  '0x00000000000001ad428e4906ae43d8f9852d0dd6'
 ])
 
 const BALANCES = (RAW_BALANCES as BalanceParsed[]).reduce((accum, balance) => {
@@ -82,19 +83,27 @@ const BALANCES = (RAW_BALANCES as BalanceParsed[]).reduce((accum, balance) => {
 
 async function getTopicTxs(network: Network, startblock: number, topic: Topic) {
   let block = startblock
+  const MAX_BLOCK_RANGE = 1000000
   const response = await fetchCovalentURL<{ height: number }>(`${baseCovalentUrl(network)}/block_v2/latest/?key=${COVALENT_API_KEY}`, 0)
   const latestBlock = response[0].height
   console.log(`Latest ${JSON.stringify(network)} - start block: ${block} - latest block: ${latestBlock}`)
+  const unresolvedEvents: Promise<EventItem[]>[] = []
+  
+  while(block < latestBlock) {
+    const endBlock = block + MAX_BLOCK_RANGE
+    const url = `${baseCovalentUrl(network)}/events/topics/${topic}/?key=${COVALENT_API_KEY}&starting-block=${block}&ending-block=${endBlock > latestBlock ? latestBlock : endBlock}`
+    console.log('fetch', url)
+    unresolvedEvents.push(fetchCovalentURL<EventItem>(url, 1000))
+    block = endBlock
+  }
 
-  const url = `${baseCovalentUrl(network)}/events/topics/${topic}/?key=${COVALENT_API_KEY}&starting-block=${block}&ending-block=latest`
-  console.log('fetch', url)
-  const events = await fetchCovalentURL<EventItem>(url)
+  const events = flattenArray(await Promise.all(unresolvedEvents))
   return events.map(e => e.tx_hash)
 }
 
 async function getTransactions(name: string, tokenAddress: string, network: Network, address: string, fullFetch: boolean, startBlock?: number) {
   const url = `${baseCovalentUrl(network)}/address/${address}/transfers_v2/?key=${COVALENT_API_KEY}&contract-address=${tokenAddress}${startBlock >= 0 ? `&starting-block=${startBlock + 1}` : ''}`
-  const items = await fetchCovalentURL<TransferItem>(url, 100000)
+  const items = await fetchCovalentURL<TransferItem>(url, 1000)
 
   const txs = items.filter(t => t.successful)
 
