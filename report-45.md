@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 10 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 11 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -64,6 +64,13 @@ Since April 1, 2 grants have been approved and the vesting contract(s) will be e
 
 
 ## Polls
+
+#### [Connecting Decentraland with Ready Player Me](https://governance.decentraland.org/proposal/?id=92440c10-d6d3-11ed-bfff-7567e61aeee0)
+
+* Yes 25.777197093429464% 1,368,034 VP (96 votes)
+* No 74.22280290657054% 3,939,114 VP (91 votes)
+* Invalid question/options 0% 0 VP (2 votes)
+
 
 #### [Starter (Beginner) Pack for 1st Time Users from our Talented Designers. Funded by DCL or Community.](https://governance.decentraland.org/proposal/?id=d3a11c10-d5a3-11ed-bfff-7567e61aeee0)
 
@@ -166,11 +173,11 @@ Since April 1, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Organizational Chart for Decentraland DAO](https://governance.decentraland.org/proposal/?id=4f53c760-dac0-11ed-a302-91aa98f8d7a4)
 * [Proposal for Recognition of Decentraland in Future Grant Recipient Projects (POLL)](https://governance.decentraland.org/proposal/?id=d1e5ff30-da30-11ed-bfff-7567e61aeee0)
 * [Parameters for buying back LAND using DAO funds (PT. C)](https://governance.decentraland.org/proposal/?id=47f1c960-d9a6-11ed-bfff-7567e61aeee0)
 * [Parameters for buying back LAND using DAO funds (PT. B)](https://governance.decentraland.org/proposal/?id=cd5e1640-d9a5-11ed-bfff-7567e61aeee0)
 * [Parameters for buying back LAND using DAO funds (PT. A)](https://governance.decentraland.org/proposal/?id=c66846e0-d9a4-11ed-bfff-7567e61aeee0)
 * [District X: Contentious Leadership](https://governance.decentraland.org/proposal/?id=c0e5dd50-d895-11ed-bfff-7567e61aeee0)
-* [Connecting Decentraland with Ready Player Me](https://governance.decentraland.org/proposal/?id=92440c10-d6d3-11ed-bfff-7567e61aeee0)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
