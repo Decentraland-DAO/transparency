@@ -59,6 +59,7 @@ enum Topic {
 let priceData: TokenPriceData = {}
 
 const WALLET_ADDRESSES = new Set(Wallets.getAddresses())
+const PAGE_SIZE = 1000
 
 const GRANTS: GrantProposal[] = RAW_GRANTS
 const GRANTS_VESTING_ADDRESSES = new Set(GRANTS.filter(g => g.status === Status.ENACTED && g.vesting_address).map(g => g.vesting_address.toLowerCase()))
@@ -72,7 +73,8 @@ const OPENSEA_ADDRESSES = new Set([
   '0xf715beb51ec8f63317d66f491e37e7bb048fcc2d',
   '0x000000004b5ad44f70781462233d177d32d993f1',
   '0x13c10925bf130e4a9631900d89475d2155b5f9c0',
-  '0x0000000000e9c0809c14f4dc1e48f97abd9317f6'
+  '0x0000000000e9c0809c14f4dc1e48f97abd9317f6',
+  '0x00000000000001ad428e4906ae43d8f9852d0dd6'
 ])
 
 const BALANCES = (RAW_BALANCES as BalanceParsed[]).reduce((accum, balance) => {
@@ -82,19 +84,27 @@ const BALANCES = (RAW_BALANCES as BalanceParsed[]).reduce((accum, balance) => {
 
 async function getTopicTxs(network: Network, startblock: number, topic: Topic) {
   let block = startblock
-  const response = await fetchCovalentURL<{ height: number }>(`${baseCovalentUrl(network)}/block_v2/latest/?key=${COVALENT_API_KEY}`, 0)
+  const MAX_BLOCK_RANGE = 1000000
+  const response = await fetchCovalentURL<{ height: number }>(`${baseCovalentUrl(network)}/block_v2/latest/?key=${COVALENT_API_KEY}`, PAGE_SIZE)
   const latestBlock = response[0].height
   console.log(`Latest ${JSON.stringify(network)} - start block: ${block} - latest block: ${latestBlock}`)
+  const unresolvedEvents: Promise<EventItem[]>[] = []
+  
+  while(block < latestBlock) {
+    const endBlock = block + MAX_BLOCK_RANGE
+    const url = `${baseCovalentUrl(network)}/events/topics/${topic}/?key=${COVALENT_API_KEY}&starting-block=${block}&ending-block=${endBlock > latestBlock ? 'latest' : endBlock}`
+    console.log('fetch market orders', url)
+    unresolvedEvents.push(fetchCovalentURL<EventItem>(url, PAGE_SIZE))
+    block = endBlock + 1
+  }
 
-  const url = `${baseCovalentUrl(network)}/events/topics/${topic}/?key=${COVALENT_API_KEY}&starting-block=${block}&ending-block=latest`
-  console.log('fetch', url)
-  const events = await fetchCovalentURL<EventItem>(url)
+  const events = flattenArray(await Promise.all(unresolvedEvents))
   return events.map(e => e.tx_hash)
 }
 
 async function getTransactions(name: string, tokenAddress: string, network: Network, address: string, fullFetch: boolean, startBlock?: number) {
   const url = `${baseCovalentUrl(network)}/address/${address}/transfers_v2/?key=${COVALENT_API_KEY}&contract-address=${tokenAddress}${startBlock >= 0 ? `&starting-block=${startBlock + 1}` : ''}`
-  const items = await fetchCovalentURL<TransferItem>(url, 100000)
+  const items = await fetchCovalentURL<TransferItem>(url, 100000) // page size has to be high enough to get all the transactions in a reasonable time
 
   const txs = items.filter(t => t.successful)
 
@@ -152,7 +162,7 @@ async function findSecondarySalesTag(txs: TransactionParsed[], chunk: number) {
 
     do {
       try {
-        const data = await fetchCovalentURL<TransactionItem>(`${baseCovalentUrl(Networks.get(tx.network))}/transaction_v2/${tx.hash}/?key=${COVALENT_API_KEY}`, 0)
+        const data = await fetchCovalentURL<TransactionItem>(`${baseCovalentUrl(Networks.get(tx.network))}/transaction_v2/${tx.hash}/?key=${COVALENT_API_KEY}`, PAGE_SIZE)
         fetched = true
 
         const log = data[0].log_events.find(log => Tags.isItemContract(log.sender_address))
@@ -345,6 +355,7 @@ async function main() {
     }
   }
 
+  console.log('Fetching transactions...')
   let transactions = flattenArray(await Promise.all(unresolvedTransactions))
 
   transactions = transactions.sort((a, b) => a.date > b.date ? -1 : a.date === a.date ? 0 : 1)
