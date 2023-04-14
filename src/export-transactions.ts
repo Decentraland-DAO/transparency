@@ -93,7 +93,7 @@ async function getTopicTxs(network: Network, startblock: number, topic: Topic) {
   while(block < latestBlock) {
     const endBlock = block + MAX_BLOCK_RANGE
     const url = `${baseCovalentUrl(network)}/events/topics/${topic}/?key=${COVALENT_API_KEY}&starting-block=${block}&ending-block=${endBlock > latestBlock ? 'latest' : endBlock}`
-    console.log('fetch', url)
+    console.log('fetch market orders', url)
     unresolvedEvents.push(fetchCovalentURL<EventItem>(url, PAGE_SIZE))
     block = endBlock + 1
   }
