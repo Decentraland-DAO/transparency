@@ -144,6 +144,7 @@ Since April 1, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [Second Escape Room: Tier One Request for 1,500USD](https://governance.decentraland.org/proposal/?id=b92dbd80-da43-11ed-a302-91aa98f8d7a4) (Lower Tier)
 * [Botanica crypto school: An educational course about the metaverses.](https://governance.decentraland.org/proposal/?id=90e4fec0-d9e8-11ed-bfff-7567e61aeee0) (Higher Tier)
 * [Integrating Decentraland with Leading E-commerce Platforms](https://governance.decentraland.org/proposal/?id=04f1cd70-d8d6-11ed-bfff-7567e61aeee0) (Higher Tier)
 * [Provide live and interactive streaming video content to Decentraland users.](https://governance.decentraland.org/proposal/?id=0a46c310-d8a0-11ed-bfff-7567e61aeee0) (Higher Tier)
@@ -156,7 +157,6 @@ Since April 1, 2 grants have been approved and the vesting contract(s) will be e
 * [Decentraland News and Events Coverage for Spanish Audiences](https://governance.decentraland.org/proposal/?id=774e5670-d315-11ed-9cb9-2563bc989482) (Lower Tier)
 * [Duel Arena Game Development -  2D &amp; 3D Game with Crossover Data -86,47](https://governance.decentraland.org/proposal/?id=0414e9e0-d1a2-11ed-9cb9-2563bc989482) (Higher Tier)
 * [A Multi-Platform Entertainment Series Designed to Boost DCL Brand Awareness](https://governance.decentraland.org/proposal/?id=9b270cc0-d042-11ed-9cb9-2563bc989482) (Higher Tier)
-* [MetaFiends – viral attraction of new users to Decentraland.](https://governance.decentraland.org/proposal/?id=79bb8700-cf11-11ed-8b08-0d4504ab75fe) (Higher Tier)
 
 ## Names Bans
 
@@ -166,6 +166,7 @@ Since April 1, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Proposal for Recognition of Decentraland in Future Grant Recipient Projects (POLL)](https://governance.decentraland.org/proposal/?id=d1e5ff30-da30-11ed-bfff-7567e61aeee0)
 * [Parameters for buying back LAND using DAO funds (PT. C)](https://governance.decentraland.org/proposal/?id=47f1c960-d9a6-11ed-bfff-7567e61aeee0)
 * [Parameters for buying back LAND using DAO funds (PT. B)](https://governance.decentraland.org/proposal/?id=cd5e1640-d9a5-11ed-bfff-7567e61aeee0)
 * [Parameters for buying back LAND using DAO funds (PT. A)](https://governance.decentraland.org/proposal/?id=c66846e0-d9a4-11ed-bfff-7567e61aeee0)
