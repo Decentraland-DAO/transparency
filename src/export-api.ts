@@ -87,11 +87,6 @@ async function main() {
     'funding': {
       'total': totalFunding
     },
-    'teams': [
-      SABCommittee.toJson(),
-      DAOCommittee.toJson(),
-      CurationCommittee.toJson()
-    ],
     'committees': [
       SABCommittee.toJson(),
       DAOCommittee.toJson(),
