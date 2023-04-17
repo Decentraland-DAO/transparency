@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -26,16 +26,31 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since April 16, 0 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since April 16, 1 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Duel Arena Game Development -  2D &amp; 3D Game with Crossover Data -86,47](https://governance.decentraland.org/proposal/?id=0414e9e0-d1a2-11ed-9cb9-2563bc989482) (Higher Tier)
+
+* Yes 45.58005023513898% 5,162,912 VP (83 votes)
+* No 44.21779884067731% 5,008,608 VP (121 votes)
+* Abstain 10.202150924183714% 1,155,611 VP (16 votes)
 
 
 ## Polls
+
+#### [District X: Contentious Leadership](https://governance.decentraland.org/proposal/?id=c0e5dd50-d895-11ed-bfff-7567e61aeee0)
+
+* Mark district X NFT as stolen on OpenSea &amp; DCL Marketplace 73.93695601313274% 4,000,881 VP (118 votes)
+* Do not mark District X NFT as stolen 0.00007392067498446742% 4 VP (1 votes)
+* Invalid question/options 26.06297006619227% 1,410,321 VP (8 votes)
+
 
 
 # Active Proposals
 
 ## Points of Interest
 
+* -57, -57: [Genesis Plaza](https://governance.decentraland.org/proposal/?id=e59b7200-dd08-11ed-93f4-8f8fa30ce0cd)
 * 102, 86: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=c5fe9500-d8a6-11ed-bfff-7567e61aeee0)
 
 ## Grants
@@ -52,7 +67,6 @@ Since April 16, 0 grants have been approved and the vesting contract(s) will be 
 * [Metaverse Concerts and Events in Decentraland by Cryptic Entertainments](https://governance.decentraland.org/proposal/?id=2b396310-d3a1-11ed-9cb9-2563bc989482) (Lower Tier)
 * [[Resubmittion] Bridg3 Hackathon:  Advancing Decentraland&#39;s Educational Impact](https://governance.decentraland.org/proposal/?id=a923aef0-d317-11ed-9cb9-2563bc989482) (Lower Tier)
 * [Decentraland News and Events Coverage for Spanish Audiences](https://governance.decentraland.org/proposal/?id=774e5670-d315-11ed-9cb9-2563bc989482) (Lower Tier)
-* [Duel Arena Game Development -  2D &amp; 3D Game with Crossover Data -86,47](https://governance.decentraland.org/proposal/?id=0414e9e0-d1a2-11ed-9cb9-2563bc989482) (Higher Tier)
 
 ## Names Bans
 
@@ -67,6 +81,5 @@ Since April 16, 0 grants have been approved and the vesting contract(s) will be 
 * [Parameters for buying back LAND using DAO funds (PT. C)](https://governance.decentraland.org/proposal/?id=47f1c960-d9a6-11ed-bfff-7567e61aeee0)
 * [Parameters for buying back LAND using DAO funds (PT. B)](https://governance.decentraland.org/proposal/?id=cd5e1640-d9a5-11ed-bfff-7567e61aeee0)
 * [Parameters for buying back LAND using DAO funds (PT. A)](https://governance.decentraland.org/proposal/?id=c66846e0-d9a4-11ed-bfff-7567e61aeee0)
-* [District X: Contentious Leadership](https://governance.decentraland.org/proposal/?id=c0e5dd50-d895-11ed-bfff-7567e61aeee0)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
