@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -37,6 +37,34 @@ Since April 16, 1 grants have been approved and the vesting contract(s) will be 
 
 
 ## Polls
+
+#### [Parameters for buying back LAND using DAO funds (PT. C)](https://governance.decentraland.org/proposal/?id=47f1c960-d9a6-11ed-bfff-7567e61aeee0)
+
+* Give contiguous LANDs priority in purchase. 76.39673826797492% 4,082,385 VP (102 votes)
+* Do not give contiguous LANDs priority 23.587074337009213% 1,260,414 VP (11 votes)
+* Invalid question/options 0.01618739501585429% 865 VP (1 votes)
+
+
+#### [Parameters for buying back LAND using DAO funds (PT. B)](https://governance.decentraland.org/proposal/?id=cd5e1640-d9a5-11ed-bfff-7567e61aeee0)
+
+* Monthly Cap of 10k  32.18320772437708% 1,865,135 VP (31 votes)
+* Monthly Cap of 20k  0.006401665330254323% 371 VP (6 votes)
+* Monthly Cap of 30k  0% 0 VP (1 votes)
+* Monthly Cap of 40k  67.81039061029267% 3,929,861 VP (63 votes)
+* Invalid Question 0% 0 VP (0 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
+#### [Parameters for buying back LAND using DAO funds (PT. A)](https://governance.decentraland.org/proposal/?id=c66846e0-d9a4-11ed-bfff-7567e61aeee0)
+
+* Purchase LANDs that are 2k and below 0.08083249086509063% 4,727 VP (31 votes)
+* Purchase LANDs that are 3k and below 8.683653060861547% 507,811 VP (9 votes)
+* Purchase LANDs that are 4k and below 71.3731229146346% 4,173,826 VP (54 votes)
+* Purchase LANDs that are 5k and below 0.014808744888759991% 866 VP (4 votes)
+* No ceiling price per parcel 19.847428887244234% 1,160,657 VP (4 votes)
+* Invalid Question/Abstain 0% 0 VP (0 votes)
+* Invalid question/options 0.00015390150577233248% 9 VP (1 votes)
+
 
 #### [District X: Contentious Leadership](https://governance.decentraland.org/proposal/?id=c0e5dd50-d895-11ed-bfff-7567e61aeee0)
 
@@ -78,8 +106,5 @@ Since April 16, 1 grants have been approved and the vesting contract(s) will be 
 
 * [Organizational Chart for Decentraland DAO](https://governance.decentraland.org/proposal/?id=4f53c760-dac0-11ed-a302-91aa98f8d7a4)
 * [Proposal for Recognition of Decentraland in Future Grant Recipient Projects (POLL)](https://governance.decentraland.org/proposal/?id=d1e5ff30-da30-11ed-bfff-7567e61aeee0)
-* [Parameters for buying back LAND using DAO funds (PT. C)](https://governance.decentraland.org/proposal/?id=47f1c960-d9a6-11ed-bfff-7567e61aeee0)
-* [Parameters for buying back LAND using DAO funds (PT. B)](https://governance.decentraland.org/proposal/?id=cd5e1640-d9a5-11ed-bfff-7567e61aeee0)
-* [Parameters for buying back LAND using DAO funds (PT. A)](https://governance.decentraland.org/proposal/?id=c66846e0-d9a4-11ed-bfff-7567e61aeee0)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

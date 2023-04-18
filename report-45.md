@@ -175,8 +175,5 @@ Since April 1, 3 grants have been approved and the vesting contract(s) will be e
 
 * [Organizational Chart for Decentraland DAO](https://governance.decentraland.org/proposal/?id=4f53c760-dac0-11ed-a302-91aa98f8d7a4)
 * [Proposal for Recognition of Decentraland in Future Grant Recipient Projects (POLL)](https://governance.decentraland.org/proposal/?id=d1e5ff30-da30-11ed-bfff-7567e61aeee0)
-* [Parameters for buying back LAND using DAO funds (PT. C)](https://governance.decentraland.org/proposal/?id=47f1c960-d9a6-11ed-bfff-7567e61aeee0)
-* [Parameters for buying back LAND using DAO funds (PT. B)](https://governance.decentraland.org/proposal/?id=cd5e1640-d9a5-11ed-bfff-7567e61aeee0)
-* [Parameters for buying back LAND using DAO funds (PT. A)](https://governance.decentraland.org/proposal/?id=c66846e0-d9a4-11ed-bfff-7567e61aeee0)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
