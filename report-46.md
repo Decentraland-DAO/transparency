@@ -9,12 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+1 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 102, 86: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=c5fe9500-d8a6-11ed-bfff-7567e61aeee0)
+
+* Yes 99.29874578289521% 2,213,092 VP (97 votes)
+* No 0.18957061022891605% 4,225 VP (13 votes)
+* Abstain 0.5116836068758719% 11,404 VP (2 votes)
 
 
 ## Name Bans
@@ -37,6 +44,13 @@ Since April 16, 1 grants have been approved and the vesting contract(s) will be 
 
 
 ## Polls
+
+#### [Proposal for Recognition of Decentraland in Future Grant Recipient Projects (POLL)](https://governance.decentraland.org/proposal/?id=d1e5ff30-da30-11ed-bfff-7567e61aeee0)
+
+* YES 99.99249487211672% 5,369,259 VP (99 votes)
+* NO 0.00001862314611236238% 1 VP (1 votes)
+* Invalid question/options 0.0074865047371696775% 402 VP (2 votes)
+
 
 #### [Parameters for buying back LAND using DAO funds (PT. C)](https://governance.decentraland.org/proposal/?id=47f1c960-d9a6-11ed-bfff-7567e61aeee0)
 
@@ -79,10 +93,10 @@ Since April 16, 1 grants have been approved and the vesting contract(s) will be 
 ## Points of Interest
 
 * -57, -57: [Genesis Plaza](https://governance.decentraland.org/proposal/?id=e59b7200-dd08-11ed-93f4-8f8fa30ce0cd)
-* 102, 86: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=c5fe9500-d8a6-11ed-bfff-7567e61aeee0)
 
 ## Grants
 
+* [Developer Support Bot Trained On Decentraland Documents](https://governance.decentraland.org/proposal/?id=07d783d0-de5e-11ed-93f4-8f8fa30ce0cd) (Lower Tier)
 * [Create personalized AI NPCs to expand Decentland&#39;s metaverse ecosystem](https://governance.decentraland.org/proposal/?id=b09ce8a0-db3b-11ed-93f4-8f8fa30ce0cd) (Higher Tier)
 * [Second Escape Room: Tier One Request for 1,500USD](https://governance.decentraland.org/proposal/?id=b92dbd80-da43-11ed-a302-91aa98f8d7a4) (Lower Tier)
 * [Botanica crypto school: An educational course about the metaverses.](https://governance.decentraland.org/proposal/?id=90e4fec0-d9e8-11ed-bfff-7567e61aeee0) (Higher Tier)
@@ -93,8 +107,6 @@ Since April 16, 1 grants have been approved and the vesting contract(s) will be 
 * [DCL-Edit V3 Further Development](https://governance.decentraland.org/proposal/?id=2d4566b0-d5c5-11ed-bfff-7567e61aeee0) (Higher Tier)
 * [Decentraland-Kit Plugin Addon for Blender](https://governance.decentraland.org/proposal/?id=7a4dc360-d48c-11ed-b3d9-b11d80b080d6) (Lower Tier)
 * [Metaverse Concerts and Events in Decentraland by Cryptic Entertainments](https://governance.decentraland.org/proposal/?id=2b396310-d3a1-11ed-9cb9-2563bc989482) (Lower Tier)
-* [[Resubmittion] Bridg3 Hackathon:  Advancing Decentraland&#39;s Educational Impact](https://governance.decentraland.org/proposal/?id=a923aef0-d317-11ed-9cb9-2563bc989482) (Lower Tier)
-* [Decentraland News and Events Coverage for Spanish Audiences](https://governance.decentraland.org/proposal/?id=774e5670-d315-11ed-9cb9-2563bc989482) (Lower Tier)
 
 ## Names Bans
 
@@ -104,7 +116,7 @@ Since April 16, 1 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+* [First Decentraland Main Plaza Cyber PARADE](https://governance.decentraland.org/proposal/?id=af2ab360-de4e-11ed-93f4-8f8fa30ce0cd)
 * [Organizational Chart for Decentraland DAO](https://governance.decentraland.org/proposal/?id=4f53c760-dac0-11ed-a302-91aa98f8d7a4)
-* [Proposal for Recognition of Decentraland in Future Grant Recipient Projects (POLL)](https://governance.decentraland.org/proposal/?id=d1e5ff30-da30-11ed-bfff-7567e61aeee0)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
