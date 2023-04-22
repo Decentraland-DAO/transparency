@@ -113,7 +113,6 @@ Since April 16, 1 grants have been approved and the vesting contract(s) will be 
 * [Provide live and interactive streaming video content to Decentraland users.](https://governance.decentraland.org/proposal/?id=0a46c310-d8a0-11ed-bfff-7567e61aeee0) (Higher Tier)
 * [Ur-Hackathon 3.0](https://governance.decentraland.org/proposal/?id=75d936a0-d87b-11ed-bfff-7567e61aeee0) (Lower Tier)
 * [Butterfly Prawn Farm (BPF) Development and Expansion](https://governance.decentraland.org/proposal/?id=0db6e270-d7c2-11ed-bfff-7567e61aeee0) (Higher Tier)
-* [DCL-Edit V3 Further Development](https://governance.decentraland.org/proposal/?id=2d4566b0-d5c5-11ed-bfff-7567e61aeee0) (Higher Tier)
 
 ## Names Bans
 
