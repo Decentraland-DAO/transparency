@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 7 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -44,6 +44,13 @@ Since April 16, 1 grants have been approved and the vesting contract(s) will be 
 
 
 ## Polls
+
+#### [First Decentraland Main Plaza Cyber PARADE](https://governance.decentraland.org/proposal/?id=af2ab360-de4e-11ed-93f4-8f8fa30ce0cd)
+
+* YES,  I will come 99.7198464059715% 1,667,256 VP (99 votes)
+* NO, we all go home 0.28009378326973455% 4,683 VP (13 votes)
+* Invalid question/options 0.00005981075875928562% 1 VP (2 votes)
+
 
 #### [Organizational Chart for Decentraland DAO](https://governance.decentraland.org/proposal/?id=4f53c760-dac0-11ed-a302-91aa98f8d7a4)
 
@@ -99,7 +106,7 @@ Since April 16, 1 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
-* -57, -57: [Genesis Plaza](https://governance.decentraland.org/proposal/?id=e59b7200-dd08-11ed-93f4-8f8fa30ce0cd)
+* -106, -94: [No Name](https://governance.decentraland.org/proposal/?id=75df71a0-e212-11ed-ae6b-bdc7e2b26a35)
 
 ## Grants
 
@@ -122,6 +129,5 @@ Since April 16, 1 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
-* [First Decentraland Main Plaza Cyber PARADE](https://governance.decentraland.org/proposal/?id=af2ab360-de4e-11ed-93f4-8f8fa30ce0cd)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

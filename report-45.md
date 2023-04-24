@@ -147,7 +147,7 @@ Since April 1, 3 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
-* -57, -57: [Genesis Plaza](https://governance.decentraland.org/proposal/?id=e59b7200-dd08-11ed-93f4-8f8fa30ce0cd)
+* -106, -94: [No Name](https://governance.decentraland.org/proposal/?id=75df71a0-e212-11ed-ae6b-bdc7e2b26a35)
 
 ## Grants
 
@@ -170,6 +170,5 @@ Since April 1, 3 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
-* [First Decentraland Main Plaza Cyber PARADE](https://governance.decentraland.org/proposal/?id=af2ab360-de4e-11ed-93f4-8f8fa30ce0cd)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
