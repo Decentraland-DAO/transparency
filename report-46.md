@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 7 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 7 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -33,7 +33,14 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since April 16, 1 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since April 16, 2 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Integrating Decentraland with Leading E-commerce Platforms](https://governance.decentraland.org/proposal/?id=04f1cd70-d8d6-11ed-bfff-7567e61aeee0) (Higher Tier)
+
+* Yes 73.10537129179451% 10,731,261 VP (129 votes)
+* No 26.89462189583075% 3,947,907 VP (18 votes)
+* Abstain 0.000006812374733201859% 1 VP (2 votes)
 
 
 #### [Duel Arena Game Development -  2D &amp; 3D Game with Crossover Data -86,47](https://governance.decentraland.org/proposal/?id=0414e9e0-d1a2-11ed-9cb9-2563bc989482) (Higher Tier)
@@ -106,20 +113,21 @@ Since April 16, 1 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
+* 27, -123: [Sky High Capital](https://governance.decentraland.org/proposal/?id=0fbe0d60-e455-11ed-ae6b-bdc7e2b26a35)
+* -31, -27: [The Land of Nail Art](https://governance.decentraland.org/proposal/?id=abbc81c0-e2fb-11ed-ae6b-bdc7e2b26a35)
+* 124, -15: [Haus of Daybed](https://governance.decentraland.org/proposal/?id=f0609700-e2ea-11ed-ae6b-bdc7e2b26a35)
 * -106, -94: [No Name](https://governance.decentraland.org/proposal/?id=75df71a0-e212-11ed-ae6b-bdc7e2b26a35)
 
 ## Grants
 
+* [AAA-Event management system for Decentraland](https://governance.decentraland.org/proposal/?id=6cb8a410-e367-11ed-ae6b-bdc7e2b26a35) (Higher Tier)
+* [Growth and Maintenance of Decentraland Brazil Community &#34;DCL_Brasil&#34;](https://governance.decentraland.org/proposal/?id=a7833c20-e2bf-11ed-ae6b-bdc7e2b26a35) (Higher Tier)
 * [Meta GamiMall Expansion &amp; Empowerment (2nd Submission)](https://governance.decentraland.org/proposal/?id=6ca30350-df00-11ed-93f4-8f8fa30ce0cd) (Higher Tier)
 * [A novel emotional feedback interface for In-World feedback and ratings.](https://governance.decentraland.org/proposal/?id=80788b40-def9-11ed-93f4-8f8fa30ce0cd) (Higher Tier)
 * [Developer Support Bot Trained On Decentraland Documents](https://governance.decentraland.org/proposal/?id=07d783d0-de5e-11ed-93f4-8f8fa30ce0cd) (Lower Tier)
 * [Create personalized AI NPCs to expand Decentland&#39;s metaverse ecosystem](https://governance.decentraland.org/proposal/?id=b09ce8a0-db3b-11ed-93f4-8f8fa30ce0cd) (Higher Tier)
 * [Second Escape Room: Tier One Request for 1,500USD](https://governance.decentraland.org/proposal/?id=b92dbd80-da43-11ed-a302-91aa98f8d7a4) (Lower Tier)
 * [Botanica crypto school: An educational course about the metaverses.](https://governance.decentraland.org/proposal/?id=90e4fec0-d9e8-11ed-bfff-7567e61aeee0) (Higher Tier)
-* [Integrating Decentraland with Leading E-commerce Platforms](https://governance.decentraland.org/proposal/?id=04f1cd70-d8d6-11ed-bfff-7567e61aeee0) (Higher Tier)
-* [Provide live and interactive streaming video content to Decentraland users.](https://governance.decentraland.org/proposal/?id=0a46c310-d8a0-11ed-bfff-7567e61aeee0) (Higher Tier)
-* [Ur-Hackathon 3.0](https://governance.decentraland.org/proposal/?id=75d936a0-d87b-11ed-bfff-7567e61aeee0) (Lower Tier)
-* [Butterfly Prawn Farm (BPF) Development and Expansion](https://governance.decentraland.org/proposal/?id=0db6e270-d7c2-11ed-bfff-7567e61aeee0) (Higher Tier)
 
 ## Names Bans
 
@@ -129,5 +137,6 @@ Since April 16, 1 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+* [Should the DAO increase Polygon GWEI Threshold?](https://governance.decentraland.org/proposal/?id=a7327de0-e2dc-11ed-ae6b-bdc7e2b26a35)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
