@@ -148,20 +148,20 @@ Since April 1, 3 grants have been approved and the vesting contract(s) will be e
 ## Points of Interest
 
 * 27, -123: [Sky High Capital](https://governance.decentraland.org/proposal/?id=0fbe0d60-e455-11ed-ae6b-bdc7e2b26a35)
-* -31, -27: [The Land of Nail Art](https://governance.decentraland.org/proposal/?id=abbc81c0-e2fb-11ed-ae6b-bdc7e2b26a35)
+* -31, -27: [ABC Decentraland Clubhouse](https://governance.decentraland.org/proposal/?id=abbc81c0-e2fb-11ed-ae6b-bdc7e2b26a35)
 * 124, -15: [Haus of Daybed](https://governance.decentraland.org/proposal/?id=f0609700-e2ea-11ed-ae6b-bdc7e2b26a35)
 * -106, -94: [No Name](https://governance.decentraland.org/proposal/?id=75df71a0-e212-11ed-ae6b-bdc7e2b26a35)
 
 ## Grants
 
+* [Duel Arena Development Changing Category ( Re- Proposal )](https://governance.decentraland.org/proposal/?id=04112d30-e5d6-11ed-b8f1-75dbe089d333) (Higher Tier)
+* [How to trigger DCL’s Growth by boosting virtual psycho-social Interactions](https://governance.decentraland.org/proposal/?id=4acc6aa0-e56d-11ed-b8f1-75dbe089d333) (Lower Tier)
+* [Refund smart contract audit of DCLControllerV2 (NAME minting)](https://governance.decentraland.org/proposal/?id=1ed8c850-e53e-11ed-b8f1-75dbe089d333) (Lower Tier)
 * [AAA-Event management system for Decentraland](https://governance.decentraland.org/proposal/?id=6cb8a410-e367-11ed-ae6b-bdc7e2b26a35) (Higher Tier)
 * [Growth and Maintenance of Decentraland Brazil Community &#34;DCL_Brasil&#34;](https://governance.decentraland.org/proposal/?id=a7833c20-e2bf-11ed-ae6b-bdc7e2b26a35) (Higher Tier)
 * [Meta GamiMall Expansion &amp; Empowerment (2nd Submission)](https://governance.decentraland.org/proposal/?id=6ca30350-df00-11ed-93f4-8f8fa30ce0cd) (Higher Tier)
 * [A novel emotional feedback interface for In-World feedback and ratings.](https://governance.decentraland.org/proposal/?id=80788b40-def9-11ed-93f4-8f8fa30ce0cd) (Higher Tier)
 * [Developer Support Bot Trained On Decentraland Documents](https://governance.decentraland.org/proposal/?id=07d783d0-de5e-11ed-93f4-8f8fa30ce0cd) (Lower Tier)
-* [Create personalized AI NPCs to expand Decentland&#39;s metaverse ecosystem](https://governance.decentraland.org/proposal/?id=b09ce8a0-db3b-11ed-93f4-8f8fa30ce0cd) (Higher Tier)
-* [Second Escape Room: Tier One Request for 1,500USD](https://governance.decentraland.org/proposal/?id=b92dbd80-da43-11ed-a302-91aa98f8d7a4) (Lower Tier)
-* [Botanica crypto school: An educational course about the metaverses.](https://governance.decentraland.org/proposal/?id=90e4fec0-d9e8-11ed-bfff-7567e61aeee0) (Higher Tier)
 
 ## Names Bans
 
