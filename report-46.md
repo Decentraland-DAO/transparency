@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 7 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 8 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -58,6 +58,13 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 
 
 ## Polls
+
+#### [Should the DAO increase Polygon GWEI Threshold?](https://governance.decentraland.org/proposal/?id=a7327de0-e2dc-11ed-ae6b-bdc7e2b26a35)
+
+* Yes, increase GWEI threshold to 300 99.99985375220652% 4,102,620 VP (74 votes)
+* No, leave GWEI threshold at 150 0.00014624779348641577% 6 VP (4 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
 
 #### [First Decentraland Main Plaza Cyber PARADE](https://governance.decentraland.org/proposal/?id=af2ab360-de4e-11ed-93f4-8f8fa30ce0cd)
 
@@ -127,6 +134,9 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 
 ## Grants
 
+* [[Resubmission] Butterfly Prawn Farm (BPF) Development and Expansion](https://governance.decentraland.org/proposal/?id=971a6d00-e71e-11ed-b8f1-75dbe089d333) (Higher Tier)
+* [Grant to Buy Land for New Devoloper (Mayhemv01)](https://governance.decentraland.org/proposal/?id=552e6d80-e71c-11ed-b8f1-75dbe089d333) (Lower Tier)
+* [Continued growth of Wilderness P2E and $ELO Chess Club](https://governance.decentraland.org/proposal/?id=724f7f00-e6f2-11ed-b8f1-75dbe089d333) (Higher Tier)
 * [Duel Arena Development Changing Category ( Re- Proposal )](https://governance.decentraland.org/proposal/?id=04112d30-e5d6-11ed-b8f1-75dbe089d333) (Higher Tier)
 * [How to trigger DCL’s Growth by boosting virtual psycho-social Interactions](https://governance.decentraland.org/proposal/?id=4acc6aa0-e56d-11ed-b8f1-75dbe089d333) (Lower Tier)
 * [Refund smart contract audit of DCLControllerV2 (NAME minting)](https://governance.decentraland.org/proposal/?id=1ed8c850-e53e-11ed-b8f1-75dbe089d333) (Lower Tier)
@@ -144,6 +154,8 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
-* [Should the DAO increase Polygon GWEI Threshold?](https://governance.decentraland.org/proposal/?id=a7327de0-e2dc-11ed-ae6b-bdc7e2b26a35)
+* [Community consultation regarding the use of LAND (Part A)](https://governance.decentraland.org/proposal/?id=b2344a30-e6af-11ed-b8f1-75dbe089d333)
+* [Community consultation regarding the use of LAND (Part B)](https://governance.decentraland.org/proposal/?id=a1e99ae0-e6af-11ed-b8f1-75dbe089d333)
+* [Community consultation regarding the use of LAND (Part C)](https://governance.decentraland.org/proposal/?id=8acd2980-e6af-11ed-b8f1-75dbe089d333)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
