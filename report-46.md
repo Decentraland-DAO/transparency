@@ -9,12 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 8 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 8 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-1 points of interest have been added to Decentraland’s map since the last report.
+2 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -106, -94: [No Name](https://governance.decentraland.org/proposal/?id=75df71a0-e212-11ed-ae6b-bdc7e2b26a35)
+
+* Yes 99.9999815699933% 5,425,933 VP (130 votes)
+* No 0% 0 VP (0 votes)
+* Abstain 0.00001843000670483644% 1 VP (3 votes)
 
 
 #### 102, 86: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=c5fe9500-d8a6-11ed-bfff-7567e61aeee0)
@@ -130,7 +137,6 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 * 27, -123: [Sky High Capital](https://governance.decentraland.org/proposal/?id=0fbe0d60-e455-11ed-ae6b-bdc7e2b26a35)
 * -31, -27: [ABC Decentraland Clubhouse](https://governance.decentraland.org/proposal/?id=abbc81c0-e2fb-11ed-ae6b-bdc7e2b26a35)
 * 124, -15: [Haus of Daybed](https://governance.decentraland.org/proposal/?id=f0609700-e2ea-11ed-ae6b-bdc7e2b26a35)
-* -106, -94: [No Name](https://governance.decentraland.org/proposal/?id=75df71a0-e212-11ed-ae6b-bdc7e2b26a35)
 
 ## Grants
 
