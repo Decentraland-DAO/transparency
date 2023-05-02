@@ -9,12 +9,26 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+2 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -31, -27: [ABC Decentraland Clubhouse](https://governance.decentraland.org/proposal/?id=abbc81c0-e2fb-11ed-ae6b-bdc7e2b26a35)
+
+* Yes 99.99998291716997% 5,853,830 VP (88 votes)
+* No 0.000017082830030453562% 1 VP (1 votes)
+* Abstain 0% 0 VP (0 votes)
+
+
+#### 124, -15: [Haus of Daybed](https://governance.decentraland.org/proposal/?id=f0609700-e2ea-11ed-ae6b-bdc7e2b26a35)
+
+* Yes 99.9999848976225% 6,621,473 VP (102 votes)
+* No 0% 0 VP (1 votes)
+* Abstain 0.000015102377506881399% 1 VP (2 votes)
 
 
 ## Name Bans
@@ -37,11 +51,10 @@ Since May 1, 0 grants have been approved and the vesting contract(s) will be est
 ## Points of Interest
 
 * 27, -123: [Sky High Capital](https://governance.decentraland.org/proposal/?id=0fbe0d60-e455-11ed-ae6b-bdc7e2b26a35)
-* -31, -27: [ABC Decentraland Clubhouse](https://governance.decentraland.org/proposal/?id=abbc81c0-e2fb-11ed-ae6b-bdc7e2b26a35)
-* 124, -15: [Haus of Daybed](https://governance.decentraland.org/proposal/?id=f0609700-e2ea-11ed-ae6b-bdc7e2b26a35)
 
 ## Grants
 
+* [CO-OP: EDUCATIONAL ELECTRONICS SANDBOX](https://governance.decentraland.org/proposal/?id=b4a6abd0-e846-11ed-b8f1-75dbe089d333) (Lower Tier)
 * [[Resubmission] Butterfly Prawn Farm (BPF) Development and Expansion](https://governance.decentraland.org/proposal/?id=971a6d00-e71e-11ed-b8f1-75dbe089d333) (Higher Tier)
 * [Grant to Buy Land for New Devoloper (Mayhemv01)](https://governance.decentraland.org/proposal/?id=552e6d80-e71c-11ed-b8f1-75dbe089d333) (Lower Tier)
 * [Continued growth of Wilderness P2E and $ELO Chess Club](https://governance.decentraland.org/proposal/?id=724f7f00-e6f2-11ed-b8f1-75dbe089d333) (Higher Tier)
@@ -62,6 +75,8 @@ Since May 1, 0 grants have been approved and the vesting contract(s) will be est
 
 ## Polls
 
+* [Worlds 1.0 - Short-Term Plan](https://governance.decentraland.org/proposal/?id=e712bb50-e822-11ed-b8f1-75dbe089d333)
+* [Worlds 2.0 - Long-Term Plan](https://governance.decentraland.org/proposal/?id=c3216070-e822-11ed-b8f1-75dbe089d333)
 * [Community consultation regarding the use of LAND (Part A)](https://governance.decentraland.org/proposal/?id=b2344a30-e6af-11ed-b8f1-75dbe089d333)
 * [Community consultation regarding the use of LAND (Part B)](https://governance.decentraland.org/proposal/?id=a1e99ae0-e6af-11ed-b8f1-75dbe089d333)
 * [Community consultation regarding the use of LAND (Part C)](https://governance.decentraland.org/proposal/?id=8acd2980-e6af-11ed-b8f1-75dbe089d333)
