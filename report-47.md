@@ -54,6 +54,8 @@ Since May 1, 0 grants have been approved and the vesting contract(s) will be est
 
 ## Grants
 
+* [Metaverse meetup Addis](https://governance.decentraland.org/proposal/?id=0b1fbf60-e932-11ed-a775-5faf35384fa8) (Lower Tier)
+* [Developing an Innovative Game Split Horizon](https://governance.decentraland.org/proposal/?id=149e1cf0-e908-11ed-a775-5faf35384fa8) (Higher Tier)
 * [CO-OP: EDUCATIONAL ELECTRONICS SANDBOX](https://governance.decentraland.org/proposal/?id=b4a6abd0-e846-11ed-b8f1-75dbe089d333) (Lower Tier)
 * [[Resubmission] Butterfly Prawn Farm (BPF) Development and Expansion](https://governance.decentraland.org/proposal/?id=971a6d00-e71e-11ed-b8f1-75dbe089d333) (Higher Tier)
 * [Grant to Buy Land for New Devoloper (Mayhemv01)](https://governance.decentraland.org/proposal/?id=552e6d80-e71c-11ed-b8f1-75dbe089d333) (Lower Tier)
@@ -65,7 +67,6 @@ Since May 1, 0 grants have been approved and the vesting contract(s) will be est
 * [Growth and Maintenance of Decentraland Brazil Community &#34;DCL_Brasil&#34;](https://governance.decentraland.org/proposal/?id=a7833c20-e2bf-11ed-ae6b-bdc7e2b26a35) (Higher Tier)
 * [Meta GamiMall Expansion &amp; Empowerment (2nd Submission)](https://governance.decentraland.org/proposal/?id=6ca30350-df00-11ed-93f4-8f8fa30ce0cd) (Higher Tier)
 * [A novel emotional feedback interface for In-World feedback and ratings.](https://governance.decentraland.org/proposal/?id=80788b40-def9-11ed-93f4-8f8fa30ce0cd) (Higher Tier)
-* [Developer Support Bot Trained On Decentraland Documents](https://governance.decentraland.org/proposal/?id=07d783d0-de5e-11ed-93f4-8f8fa30ce0cd) (Lower Tier)
 
 ## Names Bans
 
@@ -75,6 +76,7 @@ Since May 1, 0 grants have been approved and the vesting contract(s) will be est
 
 ## Polls
 
+* [What should the voting threshold be when applying for 1 plot of land?](https://governance.decentraland.org/proposal/?id=d36e9660-e957-11ed-a775-5faf35384fa8)
 * [Worlds 1.0 - Short-Term Plan](https://governance.decentraland.org/proposal/?id=e712bb50-e822-11ed-b8f1-75dbe089d333)
 * [Worlds 2.0 - Long-Term Plan](https://governance.decentraland.org/proposal/?id=c3216070-e822-11ed-b8f1-75dbe089d333)
 * [Community consultation regarding the use of LAND (Part A)](https://governance.decentraland.org/proposal/?id=b2344a30-e6af-11ed-b8f1-75dbe089d333)
