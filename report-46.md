@@ -134,10 +134,10 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
-* 27, -123: [Sky High Capital](https://governance.decentraland.org/proposal/?id=0fbe0d60-e455-11ed-ae6b-bdc7e2b26a35)
 
 ## Grants
 
+* [Sponsorship for Metamorphosis 2023 Dubai and Metamorphosis 2023 Bangalore/Delhi](https://governance.decentraland.org/proposal/?id=df0aa880-ea59-11ed-a775-5faf35384fa8) (Higher Tier)
 * [Metaverse meetup Addis](https://governance.decentraland.org/proposal/?id=0b1fbf60-e932-11ed-a775-5faf35384fa8) (Lower Tier)
 * [Developing an Innovative Game Split Horizon](https://governance.decentraland.org/proposal/?id=149e1cf0-e908-11ed-a775-5faf35384fa8) (Higher Tier)
 * [CO-OP: EDUCATIONAL ELECTRONICS SANDBOX](https://governance.decentraland.org/proposal/?id=b4a6abd0-e846-11ed-b8f1-75dbe089d333) (Lower Tier)
@@ -149,8 +149,6 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 * [Refund smart contract audit of DCLControllerV2 (NAME minting)](https://governance.decentraland.org/proposal/?id=1ed8c850-e53e-11ed-b8f1-75dbe089d333) (Lower Tier)
 * [AAA-Event management system for Decentraland](https://governance.decentraland.org/proposal/?id=6cb8a410-e367-11ed-ae6b-bdc7e2b26a35) (Higher Tier)
 * [Growth and Maintenance of Decentraland Brazil Community &#34;DCL_Brasil&#34;](https://governance.decentraland.org/proposal/?id=a7833c20-e2bf-11ed-ae6b-bdc7e2b26a35) (Higher Tier)
-* [Meta GamiMall Expansion &amp; Empowerment (2nd Submission)](https://governance.decentraland.org/proposal/?id=6ca30350-df00-11ed-93f4-8f8fa30ce0cd) (Higher Tier)
-* [A novel emotional feedback interface for In-World feedback and ratings.](https://governance.decentraland.org/proposal/?id=80788b40-def9-11ed-93f4-8f8fa30ce0cd) (Higher Tier)
 
 ## Names Bans
 
