@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -52,11 +52,19 @@ Since May 1, 1 grants have been approved and the vesting contract(s) will be est
 
 ## Polls
 
+#### [Community consultation regarding the use of LAND (Part A)](https://governance.decentraland.org/proposal/?id=b2344a30-e6af-11ed-b8f1-75dbe089d333)
+
+* Yes 99.1635025168333% 2,201,875 VP (73 votes)
+* No 0.023418686941244767% 520 VP (2 votes)
+* Invalid question/options 0.8130787962254481% 18,054 VP (3 votes)
+
+
 
 # Active Proposals
 
 ## Points of Interest
 
+* 30, 72: [Metalife - metalifeamm@gmail.com](https://governance.decentraland.org/proposal/?id=db7167d0-eaeb-11ed-ac2d-876c6fc9416f)
 
 ## Grants
 
@@ -84,8 +92,5 @@ Since May 1, 1 grants have been approved and the vesting contract(s) will be est
 * [What should the voting threshold be when applying for 1 plot of land?](https://governance.decentraland.org/proposal/?id=d36e9660-e957-11ed-a775-5faf35384fa8)
 * [Worlds 1.0 - Short-Term Plan](https://governance.decentraland.org/proposal/?id=e712bb50-e822-11ed-b8f1-75dbe089d333)
 * [Worlds 2.0 - Long-Term Plan](https://governance.decentraland.org/proposal/?id=c3216070-e822-11ed-b8f1-75dbe089d333)
-* [Community consultation regarding the use of LAND (Part A)](https://governance.decentraland.org/proposal/?id=b2344a30-e6af-11ed-b8f1-75dbe089d333)
-* [Community consultation regarding the use of LAND (Part B)](https://governance.decentraland.org/proposal/?id=a1e99ae0-e6af-11ed-b8f1-75dbe089d333)
-* [Community consultation regarding the use of LAND (Part C)](https://governance.decentraland.org/proposal/?id=8acd2980-e6af-11ed-b8f1-75dbe089d333)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
