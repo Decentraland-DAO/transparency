@@ -68,6 +68,7 @@ Since May 1, 1 grants have been approved and the vesting contract(s) will be est
 
 ## Grants
 
+* [Decentraland Bingo Hall Grant Proposal](https://governance.decentraland.org/proposal/?id=31b23680-eb99-11ed-ac2d-876c6fc9416f) (Higher Tier)
 * [Sponsorship for Metamorphosis 2023 Dubai and Metamorphosis 2023 Bangalore/Delhi](https://governance.decentraland.org/proposal/?id=df0aa880-ea59-11ed-a775-5faf35384fa8) (Higher Tier)
 * [Metaverse meetup Addis](https://governance.decentraland.org/proposal/?id=0b1fbf60-e932-11ed-a775-5faf35384fa8) (Lower Tier)
 * [Developing an Innovative Game Split Horizon](https://governance.decentraland.org/proposal/?id=149e1cf0-e908-11ed-a775-5faf35384fa8) (Higher Tier)
@@ -89,6 +90,8 @@ Since May 1, 1 grants have been approved and the vesting contract(s) will be est
 
 ## Polls
 
+* [Background Music Options for Community Venues in Decentraland](https://governance.decentraland.org/proposal/?id=9b9bc9f0-eb51-11ed-ac2d-876c6fc9416f)
+* [Should we remove redundant endpoints from Catalyst?](https://governance.decentraland.org/proposal/?id=24f524f0-eb50-11ed-ac2d-876c6fc9416f)
 * [What should the voting threshold be when applying for 1 plot of land?](https://governance.decentraland.org/proposal/?id=d36e9660-e957-11ed-a775-5faf35384fa8)
 * [Worlds 1.0 - Short-Term Plan](https://governance.decentraland.org/proposal/?id=e712bb50-e822-11ed-b8f1-75dbe089d333)
 * [Worlds 2.0 - Long-Term Plan](https://governance.decentraland.org/proposal/?id=c3216070-e822-11ed-b8f1-75dbe089d333)
