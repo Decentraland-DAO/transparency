@@ -134,6 +134,7 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
+* 131, 135: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=08dc6f90-ec26-11ed-ac2d-876c6fc9416f)
 * 30, 72: [Metalife - metalifeamm@gmail.com](https://governance.decentraland.org/proposal/?id=db7167d0-eaeb-11ed-ac2d-876c6fc9416f)
 
 ## Grants
@@ -163,7 +164,5 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 * [Background Music Options for Community Venues in Decentraland](https://governance.decentraland.org/proposal/?id=9b9bc9f0-eb51-11ed-ac2d-876c6fc9416f)
 * [Should we remove redundant endpoints from Catalyst?](https://governance.decentraland.org/proposal/?id=24f524f0-eb50-11ed-ac2d-876c6fc9416f)
 * [What should the voting threshold be when applying for 1 plot of land?](https://governance.decentraland.org/proposal/?id=d36e9660-e957-11ed-a775-5faf35384fa8)
-* [Worlds 1.0 - Short-Term Plan](https://governance.decentraland.org/proposal/?id=e712bb50-e822-11ed-b8f1-75dbe089d333)
-* [Worlds 2.0 - Long-Term Plan](https://governance.decentraland.org/proposal/?id=c3216070-e822-11ed-b8f1-75dbe089d333)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

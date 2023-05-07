@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -52,6 +52,20 @@ Since May 1, 1 grants have been approved and the vesting contract(s) will be est
 
 ## Polls
 
+#### [Worlds 1.0 - Short-Term Plan](https://governance.decentraland.org/proposal/?id=e712bb50-e822-11ed-b8f1-75dbe089d333)
+
+* Yes 76.61171208422078% 4,637,631 VP (98 votes)
+* No 23.38828791577922% 1,415,792 VP (9 votes)
+* Invalid question/options 0% 0 VP (1 votes)
+
+
+#### [Worlds 2.0 - Long-Term Plan](https://governance.decentraland.org/proposal/?id=c3216070-e822-11ed-b8f1-75dbe089d333)
+
+* Yes 86.33421902396094% 5,330,677 VP (100 votes)
+* No 0.08528672762956342% 5,266 VP (4 votes)
+* Invalid question/options 13.580494248409497% 838,523 VP (3 votes)
+
+
 #### [Community consultation regarding the use of LAND (Part A)](https://governance.decentraland.org/proposal/?id=b2344a30-e6af-11ed-b8f1-75dbe089d333)
 
 * Yes 99.1635025168333% 2,201,875 VP (73 votes)
@@ -64,6 +78,7 @@ Since May 1, 1 grants have been approved and the vesting contract(s) will be est
 
 ## Points of Interest
 
+* 131, 135: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=08dc6f90-ec26-11ed-ac2d-876c6fc9416f)
 * 30, 72: [Metalife - metalifeamm@gmail.com](https://governance.decentraland.org/proposal/?id=db7167d0-eaeb-11ed-ac2d-876c6fc9416f)
 
 ## Grants
@@ -93,7 +108,5 @@ Since May 1, 1 grants have been approved and the vesting contract(s) will be est
 * [Background Music Options for Community Venues in Decentraland](https://governance.decentraland.org/proposal/?id=9b9bc9f0-eb51-11ed-ac2d-876c6fc9416f)
 * [Should we remove redundant endpoints from Catalyst?](https://governance.decentraland.org/proposal/?id=24f524f0-eb50-11ed-ac2d-876c6fc9416f)
 * [What should the voting threshold be when applying for 1 plot of land?](https://governance.decentraland.org/proposal/?id=d36e9660-e957-11ed-a775-5faf35384fa8)
-* [Worlds 1.0 - Short-Term Plan](https://governance.decentraland.org/proposal/?id=e712bb50-e822-11ed-b8f1-75dbe089d333)
-* [Worlds 2.0 - Long-Term Plan](https://governance.decentraland.org/proposal/?id=c3216070-e822-11ed-b8f1-75dbe089d333)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
