@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -51,6 +51,16 @@ Since May 1, 1 grants have been approved and the vesting contract(s) will be est
 
 
 ## Polls
+
+#### [What should the voting threshold be when applying for 1 plot of land?](https://governance.decentraland.org/proposal/?id=d36e9660-e957-11ed-a775-5faf35384fa8)
+
+* 500k VP 0.015644578568681893% 642 VP (15 votes)
+* 1m VP 0.00007310550733028921% 3 VP (3 votes)
+* 2m VP 52.4866350948349% 2,153,872 VP (49 votes)
+* 3m VP 0.012793463782800614% 525 VP (2 votes)
+* Dynamic Threshold 33.287934813281225% 1,366,023 VP (25 votes)
+* Invalid question/options 14.196918944025064% 582,593 VP (4 votes)
+
 
 #### [Worlds 1.0 - Short-Term Plan](https://governance.decentraland.org/proposal/?id=e712bb50-e822-11ed-b8f1-75dbe089d333)
 
@@ -107,6 +117,5 @@ Since May 1, 1 grants have been approved and the vesting contract(s) will be est
 
 * [Background Music Options for Community Venues in Decentraland](https://governance.decentraland.org/proposal/?id=9b9bc9f0-eb51-11ed-ac2d-876c6fc9416f)
 * [Should we remove redundant endpoints from Catalyst?](https://governance.decentraland.org/proposal/?id=24f524f0-eb50-11ed-ac2d-876c6fc9416f)
-* [What should the voting threshold be when applying for 1 plot of land?](https://governance.decentraland.org/proposal/?id=d36e9660-e957-11ed-a775-5faf35384fa8)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
