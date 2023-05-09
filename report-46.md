@@ -139,6 +139,8 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 
 ## Grants
 
+* [Renewal Grant Support Squad 2023H2](https://governance.decentraland.org/proposal/?id=d9de3350-edcd-11ed-ac2d-876c6fc9416f) (Higher Tier)
+* [LoveSphere - Metaverse Dating Platform](https://governance.decentraland.org/proposal/?id=68165170-edb5-11ed-ac2d-876c6fc9416f) (Lower Tier)
 * [Decentraland Bingo Hall Grant Proposal](https://governance.decentraland.org/proposal/?id=31b23680-eb99-11ed-ac2d-876c6fc9416f) (Higher Tier)
 * [Sponsorship for Metamorphosis 2023 Dubai and Metamorphosis 2023 Bangalore/Delhi](https://governance.decentraland.org/proposal/?id=df0aa880-ea59-11ed-a775-5faf35384fa8) (Higher Tier)
 * [Metaverse meetup Addis](https://governance.decentraland.org/proposal/?id=0b1fbf60-e932-11ed-a775-5faf35384fa8) (Lower Tier)
@@ -151,7 +153,6 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 * [How to trigger DCL’s Growth by boosting virtual psycho-social Interactions](https://governance.decentraland.org/proposal/?id=4acc6aa0-e56d-11ed-b8f1-75dbe089d333) (Lower Tier)
 * [Refund smart contract audit of DCLControllerV2 (NAME minting)](https://governance.decentraland.org/proposal/?id=1ed8c850-e53e-11ed-b8f1-75dbe089d333) (Lower Tier)
 * [AAA-Event management system for Decentraland](https://governance.decentraland.org/proposal/?id=6cb8a410-e367-11ed-ae6b-bdc7e2b26a35) (Higher Tier)
-* [Growth and Maintenance of Decentraland Brazil Community &#34;DCL_Brasil&#34;](https://governance.decentraland.org/proposal/?id=a7833c20-e2bf-11ed-ae6b-bdc7e2b26a35) (Higher Tier)
 
 ## Names Bans
 

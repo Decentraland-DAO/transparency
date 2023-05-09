@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -40,7 +40,14 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since May 1, 1 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since May 1, 2 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Growth and Maintenance of Decentraland Brazil Community &#34;DCL_Brasil&#34;](https://governance.decentraland.org/proposal/?id=a7833c20-e2bf-11ed-ae6b-bdc7e2b26a35) (Higher Tier)
+
+* Yes 88.55870106402672% 6,410,357 VP (165 votes)
+* No 11.441285121032694% 828,182 VP (2 votes)
+* Abstain 0.000013814940581940557% 1 VP (3 votes)
 
 
 #### [Meta GamiMall Expansion &amp; Empowerment (2nd Submission)](https://governance.decentraland.org/proposal/?id=6ca30350-df00-11ed-93f4-8f8fa30ce0cd) (Higher Tier)
@@ -93,6 +100,8 @@ Since May 1, 1 grants have been approved and the vesting contract(s) will be est
 
 ## Grants
 
+* [Renewal Grant Support Squad 2023H2](https://governance.decentraland.org/proposal/?id=d9de3350-edcd-11ed-ac2d-876c6fc9416f) (Higher Tier)
+* [LoveSphere - Metaverse Dating Platform](https://governance.decentraland.org/proposal/?id=68165170-edb5-11ed-ac2d-876c6fc9416f) (Lower Tier)
 * [Decentraland Bingo Hall Grant Proposal](https://governance.decentraland.org/proposal/?id=31b23680-eb99-11ed-ac2d-876c6fc9416f) (Higher Tier)
 * [Sponsorship for Metamorphosis 2023 Dubai and Metamorphosis 2023 Bangalore/Delhi](https://governance.decentraland.org/proposal/?id=df0aa880-ea59-11ed-a775-5faf35384fa8) (Higher Tier)
 * [Metaverse meetup Addis](https://governance.decentraland.org/proposal/?id=0b1fbf60-e932-11ed-a775-5faf35384fa8) (Lower Tier)
@@ -105,7 +114,6 @@ Since May 1, 1 grants have been approved and the vesting contract(s) will be est
 * [How to trigger DCL’s Growth by boosting virtual psycho-social Interactions](https://governance.decentraland.org/proposal/?id=4acc6aa0-e56d-11ed-b8f1-75dbe089d333) (Lower Tier)
 * [Refund smart contract audit of DCLControllerV2 (NAME minting)](https://governance.decentraland.org/proposal/?id=1ed8c850-e53e-11ed-b8f1-75dbe089d333) (Lower Tier)
 * [AAA-Event management system for Decentraland](https://governance.decentraland.org/proposal/?id=6cb8a410-e367-11ed-ae6b-bdc7e2b26a35) (Higher Tier)
-* [Growth and Maintenance of Decentraland Brazil Community &#34;DCL_Brasil&#34;](https://governance.decentraland.org/proposal/?id=a7833c20-e2bf-11ed-ae6b-bdc7e2b26a35) (Higher Tier)
 
 ## Names Bans
 
