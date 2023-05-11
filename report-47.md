@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -58,6 +58,21 @@ Since May 1, 2 grants have been approved and the vesting contract(s) will be est
 
 
 ## Polls
+
+#### [Background Music Options for Community Venues in Decentraland](https://governance.decentraland.org/proposal/?id=9b9bc9f0-eb51-11ed-ac2d-876c6fc9416f)
+
+* First come first serve until the availability runs out 0.0012054259839816969% 40 VP (10 votes)
+* Application process that goes to a community vote for selection 74.9604695616378% 2,487,435 VP (54 votes)
+* I have suggest an alternative idea in the comments 0% 0 VP (0 votes)
+* Invalid question/options 25.03832501237822% 830,854 VP (23 votes)
+
+
+#### [Should we remove redundant endpoints from Catalyst?](https://governance.decentraland.org/proposal/?id=24f524f0-eb50-11ed-ac2d-876c6fc9416f)
+
+* Delete the endpoints 100% 6,312,478 VP (85 votes)
+* Keep the endpoints 0% 0 VP (0 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
 
 #### [What should the voting threshold be when applying for 1 plot of land?](https://governance.decentraland.org/proposal/?id=d36e9660-e957-11ed-a775-5faf35384fa8)
 
@@ -113,7 +128,6 @@ Since May 1, 2 grants have been approved and the vesting contract(s) will be est
 * [Duel Arena Development Changing Category ( Re- Proposal )](https://governance.decentraland.org/proposal/?id=04112d30-e5d6-11ed-b8f1-75dbe089d333) (Higher Tier)
 * [How to trigger DCL’s Growth by boosting virtual psycho-social Interactions](https://governance.decentraland.org/proposal/?id=4acc6aa0-e56d-11ed-b8f1-75dbe089d333) (Lower Tier)
 * [Refund smart contract audit of DCLControllerV2 (NAME minting)](https://governance.decentraland.org/proposal/?id=1ed8c850-e53e-11ed-b8f1-75dbe089d333) (Lower Tier)
-* [AAA-Event management system for Decentraland](https://governance.decentraland.org/proposal/?id=6cb8a410-e367-11ed-ae6b-bdc7e2b26a35) (Higher Tier)
 
 ## Names Bans
 
@@ -123,7 +137,7 @@ Since May 1, 2 grants have been approved and the vesting contract(s) will be est
 
 ## Polls
 
-* [Background Music Options for Community Venues in Decentraland](https://governance.decentraland.org/proposal/?id=9b9bc9f0-eb51-11ed-ac2d-876c6fc9416f)
-* [Should we remove redundant endpoints from Catalyst?](https://governance.decentraland.org/proposal/?id=24f524f0-eb50-11ed-ac2d-876c6fc9416f)
+* [Community Feedback on Security Advisory Board](https://governance.decentraland.org/proposal/?id=ba9168e0-ef4f-11ed-813c-b353c3943eab)
+* [Should we remove redundant endpoints from Catalyst? ll](https://governance.decentraland.org/proposal/?id=709968b0-ef44-11ed-813c-b353c3943eab)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
