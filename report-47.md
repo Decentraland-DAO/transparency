@@ -9,12 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-2 points of interest have been added to Decentraland’s map since the last report.
+3 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 30, 72: [Metalife - metalifeamm@gmail.com](https://governance.decentraland.org/proposal/?id=db7167d0-eaeb-11ed-ac2d-876c6fc9416f)
+
+* Yes 52.0275280158207% 3,453,002 VP (49 votes)
+* No 40.37740653545532% 2,679,798 VP (50 votes)
+* Abstain 7.595065448723985% 504,075 VP (4 votes)
 
 
 #### -31, -27: [ABC Decentraland Clubhouse](https://governance.decentraland.org/proposal/?id=abbc81c0-e2fb-11ed-ae6b-bdc7e2b26a35)
@@ -40,7 +47,21 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since May 1, 2 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since May 1, 4 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Duel Arena Development Changing Category ( Re- Proposal )](https://governance.decentraland.org/proposal/?id=04112d30-e5d6-11ed-b8f1-75dbe089d333) (Higher Tier)
+
+* Yes 72.83731706049704% 6,980,660 VP (50 votes)
+* No 20.790145479306663% 1,992,508 VP (28 votes)
+* Abstain 6.372537460196291% 610,738 VP (30 votes)
+
+
+#### [Refund smart contract audit of DCLControllerV2 (NAME minting)](https://governance.decentraland.org/proposal/?id=1ed8c850-e53e-11ed-b8f1-75dbe089d333) (Lower Tier)
+
+* Yes 91.78489960299913% 6,338,924 VP (97 votes)
+* No 8.116190448058738% 560,527 VP (12 votes)
+* Abstain 0.09890994894213702% 6,831 VP (7 votes)
 
 
 #### [Growth and Maintenance of Decentraland Brazil Community &#34;DCL_Brasil&#34;](https://governance.decentraland.org/proposal/?id=a7833c20-e2bf-11ed-ae6b-bdc7e2b26a35) (Higher Tier)
@@ -110,14 +131,15 @@ Since May 1, 2 grants have been approved and the vesting contract(s) will be est
 
 ## Points of Interest
 
+* -32, -30: [/////////](https://governance.decentraland.org/proposal/?id=35ce1300-f10d-11ed-9bc2-e5fe350d0c93)
 * 131, 135: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=08dc6f90-ec26-11ed-ac2d-876c6fc9416f)
-* 30, 72: [Metalife - metalifeamm@gmail.com](https://governance.decentraland.org/proposal/?id=db7167d0-eaeb-11ed-ac2d-876c6fc9416f)
 
 ## Grants
 
+* [Decentraland Bingo Hall Grant Proposal (Resubmission)](https://governance.decentraland.org/proposal/?id=0b91dec0-f05c-11ed-9bc2-e5fe350d0c93) (Higher Tier)
+* [Diverge Mixed Reality Pop-Up Store](https://governance.decentraland.org/proposal/?id=3059e000-f05b-11ed-9bc2-e5fe350d0c93) (Higher Tier)
 * [Renewal Grant Support Squad 2023H2](https://governance.decentraland.org/proposal/?id=d9de3350-edcd-11ed-ac2d-876c6fc9416f) (Higher Tier)
 * [LoveSphere - Metaverse Dating Platform](https://governance.decentraland.org/proposal/?id=68165170-edb5-11ed-ac2d-876c6fc9416f) (Lower Tier)
-* [Decentraland Bingo Hall Grant Proposal](https://governance.decentraland.org/proposal/?id=31b23680-eb99-11ed-ac2d-876c6fc9416f) (Higher Tier)
 * [Sponsorship for Metamorphosis 2023 Dubai and Metamorphosis 2023 Bangalore/Delhi](https://governance.decentraland.org/proposal/?id=df0aa880-ea59-11ed-a775-5faf35384fa8) (Higher Tier)
 * [Metaverse meetup Addis](https://governance.decentraland.org/proposal/?id=0b1fbf60-e932-11ed-a775-5faf35384fa8) (Lower Tier)
 * [Developing an Innovative Game Split Horizon](https://governance.decentraland.org/proposal/?id=149e1cf0-e908-11ed-a775-5faf35384fa8) (Higher Tier)
@@ -125,9 +147,6 @@ Since May 1, 2 grants have been approved and the vesting contract(s) will be est
 * [[Resubmission] Butterfly Prawn Farm (BPF) Development and Expansion](https://governance.decentraland.org/proposal/?id=971a6d00-e71e-11ed-b8f1-75dbe089d333) (Higher Tier)
 * [Grant to Buy Land for New Devoloper (Mayhemv01)](https://governance.decentraland.org/proposal/?id=552e6d80-e71c-11ed-b8f1-75dbe089d333) (Lower Tier)
 * [Continued growth of Wilderness P2E and $ELO Chess Club](https://governance.decentraland.org/proposal/?id=724f7f00-e6f2-11ed-b8f1-75dbe089d333) (Higher Tier)
-* [Duel Arena Development Changing Category ( Re- Proposal )](https://governance.decentraland.org/proposal/?id=04112d30-e5d6-11ed-b8f1-75dbe089d333) (Higher Tier)
-* [How to trigger DCL’s Growth by boosting virtual psycho-social Interactions](https://governance.decentraland.org/proposal/?id=4acc6aa0-e56d-11ed-b8f1-75dbe089d333) (Lower Tier)
-* [Refund smart contract audit of DCLControllerV2 (NAME minting)](https://governance.decentraland.org/proposal/?id=1ed8c850-e53e-11ed-b8f1-75dbe089d333) (Lower Tier)
 
 ## Names Bans
 
