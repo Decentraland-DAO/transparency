@@ -135,7 +135,6 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 ## Points of Interest
 
 * -32, -30: [/////////](https://governance.decentraland.org/proposal/?id=35ce1300-f10d-11ed-9bc2-e5fe350d0c93)
-* 131, 135: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=08dc6f90-ec26-11ed-ac2d-876c6fc9416f)
 
 ## Grants
 
@@ -147,9 +146,6 @@ Since April 16, 3 grants have been approved and the vesting contract(s) will be 
 * [Metaverse meetup Addis](https://governance.decentraland.org/proposal/?id=0b1fbf60-e932-11ed-a775-5faf35384fa8) (Lower Tier)
 * [Developing an Innovative Game Split Horizon](https://governance.decentraland.org/proposal/?id=149e1cf0-e908-11ed-a775-5faf35384fa8) (Higher Tier)
 * [CO-OP: EDUCATIONAL ELECTRONICS SANDBOX](https://governance.decentraland.org/proposal/?id=b4a6abd0-e846-11ed-b8f1-75dbe089d333) (Lower Tier)
-* [[Resubmission] Butterfly Prawn Farm (BPF) Development and Expansion](https://governance.decentraland.org/proposal/?id=971a6d00-e71e-11ed-b8f1-75dbe089d333) (Higher Tier)
-* [Grant to Buy Land for New Devoloper (Mayhemv01)](https://governance.decentraland.org/proposal/?id=552e6d80-e71c-11ed-b8f1-75dbe089d333) (Lower Tier)
-* [Continued growth of Wilderness P2E and $ELO Chess Club](https://governance.decentraland.org/proposal/?id=724f7f00-e6f2-11ed-b8f1-75dbe089d333) (Higher Tier)
 
 ## Names Bans
 

@@ -9,12 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
+In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-3 points of interest have been added to Decentraland’s map since the last report.
+4 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 131, 135: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=08dc6f90-ec26-11ed-ac2d-876c6fc9416f)
+
+* Yes 85.22906797251059% 4,806,293 VP (111 votes)
+* No 14.712626556829658% 829,684 VP (10 votes)
+* Abstain 0.058305470659740226% 3,288 VP (24 votes)
 
 
 #### 30, 72: [Metalife - metalifeamm@gmail.com](https://governance.decentraland.org/proposal/?id=db7167d0-eaeb-11ed-ac2d-876c6fc9416f)
@@ -47,7 +54,14 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since May 1, 4 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since May 1, 5 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Continued growth of Wilderness P2E and $ELO Chess Club](https://governance.decentraland.org/proposal/?id=724f7f00-e6f2-11ed-b8f1-75dbe089d333) (Higher Tier)
+
+* Yes 87.18599624419467% 6,111,693 VP (106 votes)
+* No 12.332502323840348% 864,502 VP (8 votes)
+* Abstain 0.48150143196497325% 33,753 VP (5 votes)
 
 
 #### [Duel Arena Development Changing Category ( Re- Proposal )](https://governance.decentraland.org/proposal/?id=04112d30-e5d6-11ed-b8f1-75dbe089d333) (Higher Tier)
@@ -132,7 +146,6 @@ Since May 1, 4 grants have been approved and the vesting contract(s) will be est
 ## Points of Interest
 
 * -32, -30: [/////////](https://governance.decentraland.org/proposal/?id=35ce1300-f10d-11ed-9bc2-e5fe350d0c93)
-* 131, 135: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=08dc6f90-ec26-11ed-ac2d-876c6fc9416f)
 
 ## Grants
 
@@ -144,9 +157,6 @@ Since May 1, 4 grants have been approved and the vesting contract(s) will be est
 * [Metaverse meetup Addis](https://governance.decentraland.org/proposal/?id=0b1fbf60-e932-11ed-a775-5faf35384fa8) (Lower Tier)
 * [Developing an Innovative Game Split Horizon](https://governance.decentraland.org/proposal/?id=149e1cf0-e908-11ed-a775-5faf35384fa8) (Higher Tier)
 * [CO-OP: EDUCATIONAL ELECTRONICS SANDBOX](https://governance.decentraland.org/proposal/?id=b4a6abd0-e846-11ed-b8f1-75dbe089d333) (Lower Tier)
-* [[Resubmission] Butterfly Prawn Farm (BPF) Development and Expansion](https://governance.decentraland.org/proposal/?id=971a6d00-e71e-11ed-b8f1-75dbe089d333) (Higher Tier)
-* [Grant to Buy Land for New Devoloper (Mayhemv01)](https://governance.decentraland.org/proposal/?id=552e6d80-e71c-11ed-b8f1-75dbe089d333) (Lower Tier)
-* [Continued growth of Wilderness P2E and $ELO Chess Club](https://governance.decentraland.org/proposal/?id=724f7f00-e6f2-11ed-b8f1-75dbe089d333) (Higher Tier)
 
 ## Names Bans
 
