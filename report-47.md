@@ -149,6 +149,7 @@ Since May 1, 5 grants have been approved and the vesting contract(s) will be est
 
 ## Grants
 
+* [Decentraland X Powered by Decentraland](https://governance.decentraland.org/proposal/?id=75683320-f297-11ed-9bc2-e5fe350d0c93) (Higher Tier)
 * [Decentraland Bingo Hall Grant Proposal (Resubmission)](https://governance.decentraland.org/proposal/?id=0b91dec0-f05c-11ed-9bc2-e5fe350d0c93) (Higher Tier)
 * [Diverge Mixed Reality Pop-Up Store](https://governance.decentraland.org/proposal/?id=3059e000-f05b-11ed-9bc2-e5fe350d0c93) (Higher Tier)
 * [Renewal Grant Support Squad 2023H2](https://governance.decentraland.org/proposal/?id=d9de3350-edcd-11ed-ac2d-876c6fc9416f) (Higher Tier)
@@ -166,6 +167,7 @@ Since May 1, 5 grants have been approved and the vesting contract(s) will be est
 
 ## Polls
 
+* [Do you support the creation of the Decentraland Ambassador Program?](https://governance.decentraland.org/proposal/?id=52de99e0-f27c-11ed-9bc2-e5fe350d0c93)
 * [Community Feedback on Security Advisory Board](https://governance.decentraland.org/proposal/?id=ba9168e0-ef4f-11ed-813c-b353c3943eab)
 * [Should we remove redundant endpoints from Catalyst? ll](https://governance.decentraland.org/proposal/?id=709968b0-ef44-11ed-813c-b353c3943eab)
 
