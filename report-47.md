@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
+In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 8 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -94,6 +94,20 @@ Since May 1, 5 grants have been approved and the vesting contract(s) will be est
 
 ## Polls
 
+#### [Community Feedback on Security Advisory Board](https://governance.decentraland.org/proposal/?id=ba9168e0-ef4f-11ed-813c-b353c3943eab)
+
+* YES 100% 1,694,120 VP (68 votes)
+* NO 0% 0 VP (0 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
+#### [Should we remove redundant endpoints from Catalyst? ll](https://governance.decentraland.org/proposal/?id=709968b0-ef44-11ed-813c-b353c3943eab)
+
+* Delete the endpoints 100% 2,174,308 VP (57 votes)
+* Keep the endpoints 0% 0 VP (0 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 #### [Background Music Options for Community Venues in Decentraland](https://governance.decentraland.org/proposal/?id=9b9bc9f0-eb51-11ed-ac2d-876c6fc9416f)
 
 * First come first serve until the availability runs out 0.0012054259839816969% 40 VP (10 votes)
@@ -149,15 +163,20 @@ Since May 1, 5 grants have been approved and the vesting contract(s) will be est
 
 ## Grants
 
+* [Decentraland DAO Facilitation Squad Grant Proposal [RENEWAL]](https://governance.decentraland.org/proposal/?id=57496610-f545-11ed-9bc2-e5fe350d0c93) (Higher Tier)
+* [Big Yellow Fishes - Promotional Content](https://governance.decentraland.org/proposal/?id=cde084e0-f4fd-11ed-9bc2-e5fe350d0c93) (Lower Tier)
+* [Meta Residence Tower &amp; Meta Residence Worlds](https://governance.decentraland.org/proposal/?id=b7308600-f4b2-11ed-9bc2-e5fe350d0c93) (Higher Tier)
+* [Genesis city map, 6-month renewal](https://governance.decentraland.org/proposal/?id=6b2227f0-f4b2-11ed-9bc2-e5fe350d0c93) (Higher Tier)
+* [Deliver 38 Pizzas to Coindesk office using LastSlice Domino&#39;s In-World Kiosk.](https://governance.decentraland.org/proposal/?id=5d6f9b30-f45b-11ed-9bc2-e5fe350d0c93) (Lower Tier)
+* [Trader&#39;s DAO Virtual Trading Hub: Trader &amp; Developer Virtual Community](https://governance.decentraland.org/proposal/?id=e9d6c8e0-f44d-11ed-9bc2-e5fe350d0c93) (Higher Tier)
+* [Promotional campaign for Decentraland by Cryptoast](https://governance.decentraland.org/proposal/?id=ed86abc0-f3f0-11ed-9bc2-e5fe350d0c93) (Higher Tier)
+* [DCL-Community Assets World/HQ](https://governance.decentraland.org/proposal/?id=1c23b280-f378-11ed-9bc2-e5fe350d0c93) (Higher Tier)
+* [DCL-Community Assets World/HQ](https://governance.decentraland.org/proposal/?id=105d2330-f361-11ed-9bc2-e5fe350d0c93) (Higher Tier)
 * [Decentraland X Powered by Decentraland](https://governance.decentraland.org/proposal/?id=75683320-f297-11ed-9bc2-e5fe350d0c93) (Higher Tier)
 * [Decentraland Bingo Hall Grant Proposal (Resubmission)](https://governance.decentraland.org/proposal/?id=0b91dec0-f05c-11ed-9bc2-e5fe350d0c93) (Higher Tier)
 * [Diverge Mixed Reality Pop-Up Store](https://governance.decentraland.org/proposal/?id=3059e000-f05b-11ed-9bc2-e5fe350d0c93) (Higher Tier)
 * [Renewal Grant Support Squad 2023H2](https://governance.decentraland.org/proposal/?id=d9de3350-edcd-11ed-ac2d-876c6fc9416f) (Higher Tier)
 * [LoveSphere - Metaverse Dating Platform](https://governance.decentraland.org/proposal/?id=68165170-edb5-11ed-ac2d-876c6fc9416f) (Lower Tier)
-* [Sponsorship for Metamorphosis 2023 Dubai and Metamorphosis 2023 Bangalore/Delhi](https://governance.decentraland.org/proposal/?id=df0aa880-ea59-11ed-a775-5faf35384fa8) (Higher Tier)
-* [Metaverse meetup Addis](https://governance.decentraland.org/proposal/?id=0b1fbf60-e932-11ed-a775-5faf35384fa8) (Lower Tier)
-* [Developing an Innovative Game Split Horizon](https://governance.decentraland.org/proposal/?id=149e1cf0-e908-11ed-a775-5faf35384fa8) (Higher Tier)
-* [CO-OP: EDUCATIONAL ELECTRONICS SANDBOX](https://governance.decentraland.org/proposal/?id=b4a6abd0-e846-11ed-b8f1-75dbe089d333) (Lower Tier)
 
 ## Names Bans
 
@@ -167,8 +186,11 @@ Since May 1, 5 grants have been approved and the vesting contract(s) will be est
 
 ## Polls
 
+* [Unlocking the Power of Portable Experiences](https://governance.decentraland.org/proposal/?id=9a44f1b0-f503-11ed-9bc2-e5fe350d0c93)
+* [Decentraland DAO Wearable Creation Contest: Preproposal Poll](https://governance.decentraland.org/proposal/?id=b6d9e9e0-f457-11ed-9bc2-e5fe350d0c93)
+* [Should we remove redundant endpoints from Catalyst? lll](https://governance.decentraland.org/proposal/?id=cd182780-f41b-11ed-9bc2-e5fe350d0c93)
+* [Should the LandWorks protocol be recognized as a renting protocol by Decentraland so landowners can keep their VP?](https://governance.decentraland.org/proposal/?id=723984c0-f3d1-11ed-9bc2-e5fe350d0c93)
+* [Should we offer an add-on repo for fashion creators?](https://governance.decentraland.org/proposal/?id=5ead4f30-f346-11ed-9bc2-e5fe350d0c93)
 * [Do you support the creation of the Decentraland Ambassador Program?](https://governance.decentraland.org/proposal/?id=52de99e0-f27c-11ed-9bc2-e5fe350d0c93)
-* [Community Feedback on Security Advisory Board](https://governance.decentraland.org/proposal/?id=ba9168e0-ef4f-11ed-813c-b353c3943eab)
-* [Should we remove redundant endpoints from Catalyst? ll](https://governance.decentraland.org/proposal/?id=709968b0-ef44-11ed-813c-b353c3943eab)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
