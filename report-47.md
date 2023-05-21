@@ -159,7 +159,6 @@ Since May 1, 5 grants have been approved and the vesting contract(s) will be est
 
 ## Points of Interest
 
-* -32, -30: [/////////](https://governance.decentraland.org/proposal/?id=35ce1300-f10d-11ed-9bc2-e5fe350d0c93)
 
 ## Grants
 
@@ -167,7 +166,6 @@ Since May 1, 5 grants have been approved and the vesting contract(s) will be est
 * [Big Yellow Fishes - Promotional Content](https://governance.decentraland.org/proposal/?id=cde084e0-f4fd-11ed-9bc2-e5fe350d0c93) (Lower Tier)
 * [Meta Residence Tower &amp; Meta Residence Worlds](https://governance.decentraland.org/proposal/?id=b7308600-f4b2-11ed-9bc2-e5fe350d0c93) (Higher Tier)
 * [Genesis city map, 6-month renewal](https://governance.decentraland.org/proposal/?id=6b2227f0-f4b2-11ed-9bc2-e5fe350d0c93) (Higher Tier)
-* [Deliver 38 Pizzas to Coindesk office using LastSlice Domino&#39;s In-World Kiosk.](https://governance.decentraland.org/proposal/?id=5d6f9b30-f45b-11ed-9bc2-e5fe350d0c93) (Lower Tier)
 * [Trader&#39;s DAO Virtual Trading Hub: Trader &amp; Developer Virtual Community](https://governance.decentraland.org/proposal/?id=e9d6c8e0-f44d-11ed-9bc2-e5fe350d0c93) (Higher Tier)
 * [Promotional campaign for Decentraland by Cryptoast](https://governance.decentraland.org/proposal/?id=ed86abc0-f3f0-11ed-9bc2-e5fe350d0c93) (Higher Tier)
 * [DCL-Community Assets World/HQ](https://governance.decentraland.org/proposal/?id=1c23b280-f378-11ed-9bc2-e5fe350d0c93) (Higher Tier)
@@ -186,11 +184,9 @@ Since May 1, 5 grants have been approved and the vesting contract(s) will be est
 
 ## Polls
 
+* [International Channels in DAO Discord server](https://governance.decentraland.org/proposal/?id=be42c5d0-f65a-11ed-8e4f-8db7948b5171)
 * [Unlocking the Power of Portable Experiences](https://governance.decentraland.org/proposal/?id=9a44f1b0-f503-11ed-9bc2-e5fe350d0c93)
 * [Decentraland DAO Wearable Creation Contest: Preproposal Poll](https://governance.decentraland.org/proposal/?id=b6d9e9e0-f457-11ed-9bc2-e5fe350d0c93)
 * [Should we remove redundant endpoints from Catalyst? lll](https://governance.decentraland.org/proposal/?id=cd182780-f41b-11ed-9bc2-e5fe350d0c93)
-* [Should the LandWorks protocol be recognized as a renting protocol by Decentraland so landowners can keep their VP?](https://governance.decentraland.org/proposal/?id=723984c0-f3d1-11ed-9bc2-e5fe350d0c93)
-* [Should we offer an add-on repo for fashion creators?](https://governance.decentraland.org/proposal/?id=5ead4f30-f346-11ed-9bc2-e5fe350d0c93)
-* [Do you support the creation of the Decentraland Ambassador Program?](https://governance.decentraland.org/proposal/?id=52de99e0-f27c-11ed-9bc2-e5fe350d0c93)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
