@@ -162,6 +162,8 @@ Since May 1, 5 grants have been approved and the vesting contract(s) will be est
 
 ## Grants
 
+* [Promote Decentraland Initiatives Through Top Online Marketing  Strategies](https://governance.decentraland.org/proposal/?id=bf937200-f929-11ed-8e4f-8db7948b5171) (Higher Tier)
+* [DCL-Edit V3  Improved Modelling Workflows and UI-Editor](https://governance.decentraland.org/proposal/?id=a04d57b0-f8d1-11ed-8e4f-8db7948b5171) (Higher Tier)
 * [Decentraland DAO Facilitation Squad Grant Proposal [RENEWAL]](https://governance.decentraland.org/proposal/?id=57496610-f545-11ed-9bc2-e5fe350d0c93) (Higher Tier)
 * [Big Yellow Fishes - Promotional Content](https://governance.decentraland.org/proposal/?id=cde084e0-f4fd-11ed-9bc2-e5fe350d0c93) (Lower Tier)
 * [Meta Residence Tower &amp; Meta Residence Worlds](https://governance.decentraland.org/proposal/?id=b7308600-f4b2-11ed-9bc2-e5fe350d0c93) (Higher Tier)
@@ -173,8 +175,6 @@ Since May 1, 5 grants have been approved and the vesting contract(s) will be est
 * [Decentraland X Powered by Decentraland](https://governance.decentraland.org/proposal/?id=75683320-f297-11ed-9bc2-e5fe350d0c93) (Higher Tier)
 * [Decentraland Bingo Hall Grant Proposal (Resubmission)](https://governance.decentraland.org/proposal/?id=0b91dec0-f05c-11ed-9bc2-e5fe350d0c93) (Higher Tier)
 * [Diverge Mixed Reality Pop-Up Store](https://governance.decentraland.org/proposal/?id=3059e000-f05b-11ed-9bc2-e5fe350d0c93) (Higher Tier)
-* [Renewal Grant Support Squad 2023H2](https://governance.decentraland.org/proposal/?id=d9de3350-edcd-11ed-ac2d-876c6fc9416f) (Higher Tier)
-* [LoveSphere - Metaverse Dating Platform](https://governance.decentraland.org/proposal/?id=68165170-edb5-11ed-ac2d-876c6fc9416f) (Lower Tier)
 
 ## Names Bans
 
@@ -184,9 +184,7 @@ Since May 1, 5 grants have been approved and the vesting contract(s) will be est
 
 ## Polls
 
+* [Acquisition of DG&#39;s 80 plot estate](https://governance.decentraland.org/proposal/?id=26301040-f8d5-11ed-8e4f-8db7948b5171)
 * [International Channels in DAO Discord server](https://governance.decentraland.org/proposal/?id=be42c5d0-f65a-11ed-8e4f-8db7948b5171)
-* [Unlocking the Power of Portable Experiences](https://governance.decentraland.org/proposal/?id=9a44f1b0-f503-11ed-9bc2-e5fe350d0c93)
-* [Decentraland DAO Wearable Creation Contest: Preproposal Poll](https://governance.decentraland.org/proposal/?id=b6d9e9e0-f457-11ed-9bc2-e5fe350d0c93)
-* [Should we remove redundant endpoints from Catalyst? lll](https://governance.decentraland.org/proposal/?id=cd182780-f41b-11ed-9bc2-e5fe350d0c93)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
