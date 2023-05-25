@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 7 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -37,6 +37,13 @@ Since May 16, 1 grants have been approved and the vesting contract(s) will be es
 
 
 ## Polls
+
+#### [International Channels in DAO Discord server](https://governance.decentraland.org/proposal/?id=be42c5d0-f65a-11ed-8e4f-8db7948b5171)
+
+* YES 99.99987336610619% 2,369,031 VP (84 votes)
+* NO 0.00004221129793831579% 1 VP (1 votes)
+* Invalid question/options 0.00008442259587663158% 2 VP (1 votes)
+
 
 #### [Unlocking the Power of Portable Experiences](https://governance.decentraland.org/proposal/?id=9a44f1b0-f503-11ed-9bc2-e5fe350d0c93)
 
@@ -87,10 +94,14 @@ Since May 16, 1 grants have been approved and the vesting contract(s) will be es
 
 ## Points of Interest
 
+* -100, -94: [Bufalo Saloon](https://governance.decentraland.org/proposal/?id=7b69c890-fa19-11ed-8e4f-8db7948b5171)
 
 ## Grants
 
-* [Promote Decentraland Initiatives Through Top Online Marketing  Strategies](https://governance.decentraland.org/proposal/?id=bf937200-f929-11ed-8e4f-8db7948b5171) (Higher Tier)
+* [Africa Web3 Hackathon](https://governance.decentraland.org/proposal/?id=b777c680-fab8-11ed-8e4f-8db7948b5171) (Lower Tier)
+* [Mindstreamers - a new way of learning](https://governance.decentraland.org/proposal/?id=862b4bb0-fa77-11ed-8e4f-8db7948b5171) (Higher Tier)
+* [DclRomania](https://governance.decentraland.org/proposal/?id=c3f8d400-fa52-11ed-8e4f-8db7948b5171) (Lower Tier)
+* [3D Labyrinth](https://governance.decentraland.org/proposal/?id=a2832880-fa47-11ed-8e4f-8db7948b5171) (Lower Tier)
 * [DCL-Edit V3  Improved Modelling Workflows and UI-Editor](https://governance.decentraland.org/proposal/?id=a04d57b0-f8d1-11ed-8e4f-8db7948b5171) (Higher Tier)
 * [Decentraland DAO Facilitation Squad Grant Proposal [RENEWAL]](https://governance.decentraland.org/proposal/?id=57496610-f545-11ed-9bc2-e5fe350d0c93) (Higher Tier)
 * [Big Yellow Fishes - Promotional Content](https://governance.decentraland.org/proposal/?id=cde084e0-f4fd-11ed-9bc2-e5fe350d0c93) (Lower Tier)
@@ -113,6 +124,5 @@ Since May 16, 1 grants have been approved and the vesting contract(s) will be es
 ## Polls
 
 * [Acquisition of DG&#39;s 80 plot estate](https://governance.decentraland.org/proposal/?id=26301040-f8d5-11ed-8e4f-8db7948b5171)
-* [International Channels in DAO Discord server](https://governance.decentraland.org/proposal/?id=be42c5d0-f65a-11ed-8e4f-8db7948b5171)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
