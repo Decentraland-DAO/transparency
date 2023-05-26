@@ -99,7 +99,6 @@ Since May 16, 1 grants have been approved and the vesting contract(s) will be es
 ## Grants
 
 * [Africa Web3 Hackathon](https://governance.decentraland.org/proposal/?id=b777c680-fab8-11ed-8e4f-8db7948b5171) (Lower Tier)
-* [Mindstreamers - a new way of learning](https://governance.decentraland.org/proposal/?id=862b4bb0-fa77-11ed-8e4f-8db7948b5171) (Higher Tier)
 * [DclRomania](https://governance.decentraland.org/proposal/?id=c3f8d400-fa52-11ed-8e4f-8db7948b5171) (Lower Tier)
 * [3D Labyrinth](https://governance.decentraland.org/proposal/?id=a2832880-fa47-11ed-8e4f-8db7948b5171) (Lower Tier)
 * [DCL-Edit V3  Improved Modelling Workflows and UI-Editor](https://governance.decentraland.org/proposal/?id=a04d57b0-f8d1-11ed-8e4f-8db7948b5171) (Higher Tier)
@@ -112,8 +111,6 @@ Since May 16, 1 grants have been approved and the vesting contract(s) will be es
 * [DCL-Community Assets World/HQ](https://governance.decentraland.org/proposal/?id=1c23b280-f378-11ed-9bc2-e5fe350d0c93) (Higher Tier)
 * [DCL-Community Assets World/HQ](https://governance.decentraland.org/proposal/?id=105d2330-f361-11ed-9bc2-e5fe350d0c93) (Higher Tier)
 * [Decentraland X Powered by Decentraland](https://governance.decentraland.org/proposal/?id=75683320-f297-11ed-9bc2-e5fe350d0c93) (Higher Tier)
-* [Decentraland Bingo Hall Grant Proposal (Resubmission)](https://governance.decentraland.org/proposal/?id=0b91dec0-f05c-11ed-9bc2-e5fe350d0c93) (Higher Tier)
-* [Diverge Mixed Reality Pop-Up Store](https://governance.decentraland.org/proposal/?id=3059e000-f05b-11ed-9bc2-e5fe350d0c93) (Higher Tier)
 
 ## Names Bans
 
@@ -123,6 +120,7 @@ Since May 16, 1 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+* [Establishing a DAO Treasury Management Process](https://governance.decentraland.org/proposal/?id=94402470-fb15-11ed-8e4f-8db7948b5171)
 * [Acquisition of DG&#39;s 80 plot estate](https://governance.decentraland.org/proposal/?id=26301040-f8d5-11ed-8e4f-8db7948b5171)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
