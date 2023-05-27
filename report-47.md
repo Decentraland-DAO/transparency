@@ -164,7 +164,6 @@ Since May 1, 5 grants have been approved and the vesting contract(s) will be est
 ## Grants
 
 * [Africa Web3 Hackathon](https://governance.decentraland.org/proposal/?id=b777c680-fab8-11ed-8e4f-8db7948b5171) (Lower Tier)
-* [DclRomania](https://governance.decentraland.org/proposal/?id=c3f8d400-fa52-11ed-8e4f-8db7948b5171) (Lower Tier)
 * [3D Labyrinth](https://governance.decentraland.org/proposal/?id=a2832880-fa47-11ed-8e4f-8db7948b5171) (Lower Tier)
 * [DCL-Edit V3  Improved Modelling Workflows and UI-Editor](https://governance.decentraland.org/proposal/?id=a04d57b0-f8d1-11ed-8e4f-8db7948b5171) (Higher Tier)
 * [Decentraland DAO Facilitation Squad Grant Proposal [RENEWAL]](https://governance.decentraland.org/proposal/?id=57496610-f545-11ed-9bc2-e5fe350d0c93) (Higher Tier)
