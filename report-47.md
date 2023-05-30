@@ -163,6 +163,7 @@ Since May 1, 5 grants have been approved and the vesting contract(s) will be est
 
 ## Grants
 
+* [Accurate portfolio accounting with Cartera Tax](https://governance.decentraland.org/proposal/?id=a954f660-fe80-11ed-8e4f-8db7948b5171) (Lower Tier)
 * [Africa Web3 Hackathon](https://governance.decentraland.org/proposal/?id=b777c680-fab8-11ed-8e4f-8db7948b5171) (Lower Tier)
 * [3D Labyrinth](https://governance.decentraland.org/proposal/?id=a2832880-fa47-11ed-8e4f-8db7948b5171) (Lower Tier)
 * [DCL-Edit V3  Improved Modelling Workflows and UI-Editor](https://governance.decentraland.org/proposal/?id=a04d57b0-f8d1-11ed-8e4f-8db7948b5171) (Higher Tier)
@@ -172,9 +173,6 @@ Since May 1, 5 grants have been approved and the vesting contract(s) will be est
 * [Genesis city map, 6-month renewal](https://governance.decentraland.org/proposal/?id=6b2227f0-f4b2-11ed-9bc2-e5fe350d0c93) (Higher Tier)
 * [Trader&#39;s DAO Virtual Trading Hub: Trader &amp; Developer Virtual Community](https://governance.decentraland.org/proposal/?id=e9d6c8e0-f44d-11ed-9bc2-e5fe350d0c93) (Higher Tier)
 * [Promotional campaign for Decentraland by Cryptoast](https://governance.decentraland.org/proposal/?id=ed86abc0-f3f0-11ed-9bc2-e5fe350d0c93) (Higher Tier)
-* [DCL-Community Assets World/HQ](https://governance.decentraland.org/proposal/?id=1c23b280-f378-11ed-9bc2-e5fe350d0c93) (Higher Tier)
-* [DCL-Community Assets World/HQ](https://governance.decentraland.org/proposal/?id=105d2330-f361-11ed-9bc2-e5fe350d0c93) (Higher Tier)
-* [Decentraland X Powered by Decentraland](https://governance.decentraland.org/proposal/?id=75683320-f297-11ed-9bc2-e5fe350d0c93) (Higher Tier)
 
 ## Names Bans
 
@@ -185,6 +183,5 @@ Since May 1, 5 grants have been approved and the vesting contract(s) will be est
 ## Polls
 
 * [Establishing a DAO Treasury Management Process](https://governance.decentraland.org/proposal/?id=94402470-fb15-11ed-8e4f-8db7948b5171)
-* [Acquisition of DG&#39;s 80 plot estate](https://governance.decentraland.org/proposal/?id=26301040-f8d5-11ed-8e4f-8db7948b5171)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
