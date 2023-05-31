@@ -159,10 +159,10 @@ Since May 1, 5 grants have been approved and the vesting contract(s) will be est
 
 ## Points of Interest
 
-* -100, -94: [Bufalo Saloon](https://governance.decentraland.org/proposal/?id=7b69c890-fa19-11ed-8e4f-8db7948b5171)
 
 ## Grants
 
+* [Branded Podcast Episodes with Attractive Sonority](https://governance.decentraland.org/proposal/?id=a16da660-ff14-11ed-8e4f-8db7948b5171) (Higher Tier)
 * [Accurate portfolio accounting with Cartera Tax](https://governance.decentraland.org/proposal/?id=a954f660-fe80-11ed-8e4f-8db7948b5171) (Lower Tier)
 * [Africa Web3 Hackathon](https://governance.decentraland.org/proposal/?id=b777c680-fab8-11ed-8e4f-8db7948b5171) (Lower Tier)
 * [3D Labyrinth](https://governance.decentraland.org/proposal/?id=a2832880-fa47-11ed-8e4f-8db7948b5171) (Lower Tier)
@@ -171,8 +171,6 @@ Since May 1, 5 grants have been approved and the vesting contract(s) will be est
 * [Big Yellow Fishes - Promotional Content](https://governance.decentraland.org/proposal/?id=cde084e0-f4fd-11ed-9bc2-e5fe350d0c93) (Lower Tier)
 * [Meta Residence Tower &amp; Meta Residence Worlds](https://governance.decentraland.org/proposal/?id=b7308600-f4b2-11ed-9bc2-e5fe350d0c93) (Higher Tier)
 * [Genesis city map, 6-month renewal](https://governance.decentraland.org/proposal/?id=6b2227f0-f4b2-11ed-9bc2-e5fe350d0c93) (Higher Tier)
-* [Trader&#39;s DAO Virtual Trading Hub: Trader &amp; Developer Virtual Community](https://governance.decentraland.org/proposal/?id=e9d6c8e0-f44d-11ed-9bc2-e5fe350d0c93) (Higher Tier)
-* [Promotional campaign for Decentraland by Cryptoast](https://governance.decentraland.org/proposal/?id=ed86abc0-f3f0-11ed-9bc2-e5fe350d0c93) (Higher Tier)
 
 ## Names Bans
 
@@ -182,6 +180,7 @@ Since May 1, 5 grants have been approved and the vesting contract(s) will be est
 
 ## Polls
 
-* [Establishing a DAO Treasury Management Process](https://governance.decentraland.org/proposal/?id=94402470-fb15-11ed-8e4f-8db7948b5171)
+* [Allow builder to support non foundation servers for worlds deployments](https://governance.decentraland.org/proposal/?id=02bd44d0-ff23-11ed-8e4f-8db7948b5171)
+* [Revoke grant &#34;Decentraland X Powered by Decentraland&#34;](https://governance.decentraland.org/proposal/?id=8b69f900-ff09-11ed-8e4f-8db7948b5171)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
