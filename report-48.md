@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 9 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 9 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -33,7 +33,21 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since May 16, 2 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since May 16, 4 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Meta Residence Tower &amp; Meta Residence Worlds](https://governance.decentraland.org/proposal/?id=b7308600-f4b2-11ed-9bc2-e5fe350d0c93) (Higher Tier)
+
+* Yes 66.16105284586233% 7,910,627 VP (83 votes)
+* No 33.79615078573195% 4,040,878 VP (19 votes)
+* Abstain 0.042796368405725295% 5,117 VP (5 votes)
+
+
+#### [Genesis city map, 6-month renewal](https://governance.decentraland.org/proposal/?id=6b2227f0-f4b2-11ed-9bc2-e5fe350d0c93) (Higher Tier)
+
+* Yes 91.49826875781812% 6,961,299 VP (83 votes)
+* No 8.49777494337958% 646,521 VP (5 votes)
+* Abstain 0.003956298802292971% 301 VP (2 votes)
 
 
 #### [Decentraland X Powered by Decentraland](https://governance.decentraland.org/proposal/?id=75683320-f297-11ed-9bc2-e5fe350d0c93) (Higher Tier)
@@ -123,18 +137,17 @@ Since May 16, 2 grants have been approved and the vesting contract(s) will be es
 
 ## Points of Interest
 
+* -92, -77: [Anthony Sims Plaza](https://governance.decentraland.org/proposal/?id=63af1850-ffe0-11ed-8e4f-8db7948b5171)
+* -30, -108: [No Name](https://governance.decentraland.org/proposal/?id=e3495b80-ffc1-11ed-8e4f-8db7948b5171)
 
 ## Grants
 
+* [Simpfi AI Endpoint Integration With Decentraland](https://governance.decentraland.org/proposal/?id=1cd5ddf0-ffcd-11ed-8e4f-8db7948b5171) (Higher Tier)
 * [Branded Podcast Episodes with Attractive Sonority](https://governance.decentraland.org/proposal/?id=a16da660-ff14-11ed-8e4f-8db7948b5171) (Higher Tier)
 * [Accurate portfolio accounting with Cartera Tax](https://governance.decentraland.org/proposal/?id=a954f660-fe80-11ed-8e4f-8db7948b5171) (Lower Tier)
 * [Africa Web3 Hackathon](https://governance.decentraland.org/proposal/?id=b777c680-fab8-11ed-8e4f-8db7948b5171) (Lower Tier)
 * [3D Labyrinth](https://governance.decentraland.org/proposal/?id=a2832880-fa47-11ed-8e4f-8db7948b5171) (Lower Tier)
 * [DCL-Edit V3  Improved Modelling Workflows and UI-Editor](https://governance.decentraland.org/proposal/?id=a04d57b0-f8d1-11ed-8e4f-8db7948b5171) (Higher Tier)
-* [Decentraland DAO Facilitation Squad Grant Proposal [RENEWAL]](https://governance.decentraland.org/proposal/?id=57496610-f545-11ed-9bc2-e5fe350d0c93) (Higher Tier)
-* [Big Yellow Fishes - Promotional Content](https://governance.decentraland.org/proposal/?id=cde084e0-f4fd-11ed-9bc2-e5fe350d0c93) (Lower Tier)
-* [Meta Residence Tower &amp; Meta Residence Worlds](https://governance.decentraland.org/proposal/?id=b7308600-f4b2-11ed-9bc2-e5fe350d0c93) (Higher Tier)
-* [Genesis city map, 6-month renewal](https://governance.decentraland.org/proposal/?id=6b2227f0-f4b2-11ed-9bc2-e5fe350d0c93) (Higher Tier)
 
 ## Names Bans
 
