@@ -15,6 +15,7 @@ export enum TagType {
   LOOKSRARE = 'LooksRare',
   MATIC_MARKETPLACE = 'MATIC Marketplace',
   NAME_BID_FEE = 'NAME fee :: BID',
+  NAME_MINT_FEE = 'NAME fee :: MINT',
   OPENSEA = 'OpenSea',
   SAB_DCL = 'SAB DCL',
   SECONDARY_SALE = 'Secondary Sale',
@@ -45,6 +46,7 @@ export enum TagCategoryType {
   LAND_MARKETPLACE_SALES,
   LOOKSRARE_MARKETPLACE_FEE,
   NAME_MARKETPLACE_SALES,
+  NAMES_MINTING_FEE,
   OPENSEA_MARKETPLACE_FEE,
   VESTING_CONTRACT,
   WEARABLE_MARKETPLACE_SALES,
@@ -68,6 +70,7 @@ const TAG_CATEGORIES: Record<keyof typeof TagCategoryType, TagCategory> = {
   LAND_MARKETPLACE_SALES: { name: 'LAND  DCL Marketplace Sales Fee', description: 'Funds corresponding to the 2.5% fee applied to every LAND transaction (Minting or secondary)' },
   LOOKSRARE_MARKETPLACE_FEE: { name: 'LooksRare Marketplace Fee', description: 'Funds corresponding to the 2.5% fee applied to every transaction (ESTATE, LAND, NAME & Wearables) on LooksRare marketplace' },
   NAME_MARKETPLACE_SALES: { name: 'NAME DCL Marketplace Sales Fee', description: 'Funds corresponding to the 2.5% fee applied to every NAME transaction (Minting or secondary)' },
+  NAMES_MINTING_FEE: { name: 'Names Minting Fee', description: 'Funds corresponding to the fee applied to Names minting' },
   OPENSEA_MARKETPLACE_FEE: { name: 'OpenSea Marketplace Fee', description: 'Funds corresponding to the 2.5% fee applied to every transaction (ESTATE, LAND, NAME & Wearables) on OpenSea marketplace' },
   VESTING_CONTRACT: { name: 'MANA Vesting Contract', description: 'Funds corresponding to the 10-year MANA vesting contract that the DAO holds' },
   WEARABLE_MARKETPLACE_SALES: { name: 'Wearable L1 Sales Fee', description: 'Funds corresponding to the 2.5% fee applied to every Wearable transaction on Ethereum (Minting or secondary)' },
@@ -100,6 +103,7 @@ const ITEM_CONTRACTS: Record<string, ItemTagType> = {
 const TAGS: Record<string, TagType> = {
   '0x7a3abf8897f31b56f09c6f69d074a393a905c1ac': TagType.VESTING_CONTRACT,
   '0x59728544b08ab483533076417fbbb2fd0b17ce3a': TagType.LOOKSRARE,
+  '0xbe92b49aee993adea3a002adcda189a2b7dec56c': TagType.NAME_MINT_FEE,
   ...ITEM_CONTRACTS,
   ...toRecord(DAO_COMMITTEE_ADDRESSES, TagType.DAO_COMMITTEE),
   ...toRecord(SWAP_CONTRACTS, TagType.SWAP),
@@ -115,6 +119,7 @@ const TAG_CATEGORY_MAPPING: Record<ExportedTagType, TagCategory> = {
   [SecondarySaleItemTagType.LAND]: TAG_CATEGORIES.LAND_MARKETPLACE_SALES,
 
   [TagType.NAME_BID_FEE]: TAG_CATEGORIES.NAME_MARKETPLACE_SALES,
+  [TagType.NAME_MINT_FEE]: TAG_CATEGORIES.NAMES_MINTING_FEE,
   [SecondarySaleItemTagType.NAME]: TAG_CATEGORIES.NAME_MARKETPLACE_SALES,
 
   [TagType.WEARABLE_BID_FEE]: TAG_CATEGORIES.WEARABLE_MARKETPLACE_SALES,
