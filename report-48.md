@@ -142,6 +142,7 @@ Since May 16, 4 grants have been approved and the vesting contract(s) will be es
 
 ## Grants
 
+* [Chain Challenger: Bridging Web2 players to DCL, a gaming discovery platform.](https://governance.decentraland.org/proposal/?id=4aefa4a0-036a-11ee-8f51-bb3157c3bc20) (Higher Tier)
 * [Content that teaches how to create an NFT store using DG Live, builder and SDK](https://governance.decentraland.org/proposal/?id=6e67c3b0-01b0-11ee-8f51-bb3157c3bc20) (Lower Tier)
 * [Simpfi AI Endpoint Integration With Decentraland](https://governance.decentraland.org/proposal/?id=1cd5ddf0-ffcd-11ed-8e4f-8db7948b5171) (Higher Tier)
 * [Branded Podcast Episodes with Attractive Sonority](https://governance.decentraland.org/proposal/?id=a16da660-ff14-11ed-8e4f-8db7948b5171) (Higher Tier)
@@ -158,7 +159,5 @@ Since May 16, 4 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
-* [Allow builder to support non foundation servers for worlds deployments](https://governance.decentraland.org/proposal/?id=02bd44d0-ff23-11ed-8e4f-8db7948b5171)
-* [Revoke grant &#34;Decentraland X Powered by Decentraland&#34;](https://governance.decentraland.org/proposal/?id=8b69f900-ff09-11ed-8e4f-8db7948b5171)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

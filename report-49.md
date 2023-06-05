@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -38,6 +38,20 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+#### [Allow builder to support non foundation servers for worlds deployments](https://governance.decentraland.org/proposal/?id=02bd44d0-ff23-11ed-8e4f-8db7948b5171)
+
+* Yes 99.98202313727978% 2,269,176 VP (75 votes)
+* No 0.017976862720216567% 408 VP (4 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
+#### [Revoke grant &#34;Decentraland X Powered by Decentraland&#34;](https://governance.decentraland.org/proposal/?id=8b69f900-ff09-11ed-8e4f-8db7948b5171)
+
+* Revoke 85.99405085169255% 3,331,554 VP (56 votes)
+* Do not revoke 13.941419164063095% 540,114 VP (16 votes)
+* Invalid question/options 0.06452998424435905% 2,500 VP (4 votes)
+
+
 
 # Active Proposals
 
@@ -48,6 +62,7 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 
 ## Grants
 
+* [Chain Challenger: Bridging Web2 players to DCL, a gaming discovery platform.](https://governance.decentraland.org/proposal/?id=4aefa4a0-036a-11ee-8f51-bb3157c3bc20) (Higher Tier)
 * [Content that teaches how to create an NFT store using DG Live, builder and SDK](https://governance.decentraland.org/proposal/?id=6e67c3b0-01b0-11ee-8f51-bb3157c3bc20) (Lower Tier)
 * [Simpfi AI Endpoint Integration With Decentraland](https://governance.decentraland.org/proposal/?id=1cd5ddf0-ffcd-11ed-8e4f-8db7948b5171) (Higher Tier)
 * [Branded Podcast Episodes with Attractive Sonority](https://governance.decentraland.org/proposal/?id=a16da660-ff14-11ed-8e4f-8db7948b5171) (Higher Tier)
@@ -64,7 +79,5 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
-* [Allow builder to support non foundation servers for worlds deployments](https://governance.decentraland.org/proposal/?id=02bd44d0-ff23-11ed-8e4f-8db7948b5171)
-* [Revoke grant &#34;Decentraland X Powered by Decentraland&#34;](https://governance.decentraland.org/proposal/?id=8b69f900-ff09-11ed-8e4f-8db7948b5171)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
