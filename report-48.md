@@ -149,7 +149,6 @@ Since May 16, 4 grants have been approved and the vesting contract(s) will be es
 * [Accurate portfolio accounting with Cartera Tax](https://governance.decentraland.org/proposal/?id=a954f660-fe80-11ed-8e4f-8db7948b5171) (Lower Tier)
 * [Africa Web3 Hackathon](https://governance.decentraland.org/proposal/?id=b777c680-fab8-11ed-8e4f-8db7948b5171) (Lower Tier)
 * [3D Labyrinth](https://governance.decentraland.org/proposal/?id=a2832880-fa47-11ed-8e4f-8db7948b5171) (Lower Tier)
-* [DCL-Edit V3  Improved Modelling Workflows and UI-Editor](https://governance.decentraland.org/proposal/?id=a04d57b0-f8d1-11ed-8e4f-8db7948b5171) (Higher Tier)
 
 ## Names Bans
 
@@ -159,5 +158,6 @@ Since May 16, 4 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+* [Should we continue development of 2dcl, the 2d client for Decentraland?](https://governance.decentraland.org/proposal/?id=1c22a480-03f4-11ee-8f51-bb3157c3bc20)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
