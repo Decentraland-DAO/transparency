@@ -62,10 +62,10 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 
 ## Grants
 
+* [Community-Led Support for 3D Artists - MESH + MVAW23](https://governance.decentraland.org/proposal/?id=ad893970-048f-11ee-8f51-bb3157c3bc20) (Lower Tier)
 * [Chain Challenger: Bridging Web2 players to DCL, a gaming discovery platform.](https://governance.decentraland.org/proposal/?id=4aefa4a0-036a-11ee-8f51-bb3157c3bc20) (Higher Tier)
 * [Content that teaches how to create an NFT store using DG Live, builder and SDK](https://governance.decentraland.org/proposal/?id=6e67c3b0-01b0-11ee-8f51-bb3157c3bc20) (Lower Tier)
 * [Simpfi AI Endpoint Integration With Decentraland](https://governance.decentraland.org/proposal/?id=1cd5ddf0-ffcd-11ed-8e4f-8db7948b5171) (Higher Tier)
-* [Branded Podcast Episodes with Attractive Sonority](https://governance.decentraland.org/proposal/?id=a16da660-ff14-11ed-8e4f-8db7948b5171) (Higher Tier)
 * [Accurate portfolio accounting with Cartera Tax](https://governance.decentraland.org/proposal/?id=a954f660-fe80-11ed-8e4f-8db7948b5171) (Lower Tier)
 * [Africa Web3 Hackathon](https://governance.decentraland.org/proposal/?id=b777c680-fab8-11ed-8e4f-8db7948b5171) (Lower Tier)
 * [3D Labyrinth](https://governance.decentraland.org/proposal/?id=a2832880-fa47-11ed-8e4f-8db7948b5171) (Lower Tier)
