@@ -9,12 +9,26 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+2 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -92, -77: [Anthony Sims Plaza](https://governance.decentraland.org/proposal/?id=63af1850-ffe0-11ed-8e4f-8db7948b5171)
+
+* Yes 99.99987400627701% 4,762,136 VP (71 votes)
+* No 0% 0 VP (0 votes)
+* Abstain 0.0001259937229927205% 6 VP (3 votes)
+
+
+#### -30, -108: [No Name](https://governance.decentraland.org/proposal/?id=e3495b80-ffc1-11ed-8e4f-8db7948b5171)
+
+* Yes 99.99991066909385% 5,597,162 VP (66 votes)
+* No 0.00007146472492244738% 4 VP (1 votes)
+* Abstain 0.000017866181230611845% 1 VP (2 votes)
 
 
 ## Name Bans
@@ -57,18 +71,16 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 
 ## Points of Interest
 
-* -92, -77: [Anthony Sims Plaza](https://governance.decentraland.org/proposal/?id=63af1850-ffe0-11ed-8e4f-8db7948b5171)
-* -30, -108: [No Name](https://governance.decentraland.org/proposal/?id=e3495b80-ffc1-11ed-8e4f-8db7948b5171)
+* 46, -52: [100Rainbows Academy](https://governance.decentraland.org/proposal/?id=6b252940-0589-11ee-8f51-bb3157c3bc20)
 
 ## Grants
 
+* [XFounders Boot Camp. Startup school for Web3 Startups.](https://governance.decentraland.org/proposal/?id=ee5b8fe0-0573-11ee-8f51-bb3157c3bc20) (Higher Tier)
 * [Community-Led Support for 3D Artists - MESH + MVAW23](https://governance.decentraland.org/proposal/?id=ad893970-048f-11ee-8f51-bb3157c3bc20) (Lower Tier)
 * [Chain Challenger: Bridging Web2 players to DCL, a gaming discovery platform.](https://governance.decentraland.org/proposal/?id=4aefa4a0-036a-11ee-8f51-bb3157c3bc20) (Higher Tier)
 * [Content that teaches how to create an NFT store using DG Live, builder and SDK](https://governance.decentraland.org/proposal/?id=6e67c3b0-01b0-11ee-8f51-bb3157c3bc20) (Lower Tier)
 * [Simpfi AI Endpoint Integration With Decentraland](https://governance.decentraland.org/proposal/?id=1cd5ddf0-ffcd-11ed-8e4f-8db7948b5171) (Higher Tier)
 * [Accurate portfolio accounting with Cartera Tax](https://governance.decentraland.org/proposal/?id=a954f660-fe80-11ed-8e4f-8db7948b5171) (Lower Tier)
-* [Africa Web3 Hackathon](https://governance.decentraland.org/proposal/?id=b777c680-fab8-11ed-8e4f-8db7948b5171) (Lower Tier)
-* [3D Labyrinth](https://governance.decentraland.org/proposal/?id=a2832880-fa47-11ed-8e4f-8db7948b5171) (Lower Tier)
 
 ## Names Bans
 
@@ -78,6 +90,7 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+* [Do you support Worlds rebranding to DreamSpace ?](https://governance.decentraland.org/proposal/?id=2a137a40-0531-11ee-8f51-bb3157c3bc20)
 * [Should we continue development of 2dcl, the 2d client for Decentraland?](https://governance.decentraland.org/proposal/?id=1c22a480-03f4-11ee-8f51-bb3157c3bc20)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
