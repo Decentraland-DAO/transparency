@@ -141,6 +141,9 @@ Since May 16, 4 grants have been approved and the vesting contract(s) will be es
 
 ## Grants
 
+* [A dedicated reporter will publish 50 articles about Decentraland for 120 days](https://governance.decentraland.org/proposal/?id=93bc8120-067c-11ee-8f51-bb3157c3bc20) (Lower Tier)
+* [Understanding and Improving the Governance Participation in Decentraland](https://governance.decentraland.org/proposal/?id=725a1020-061c-11ee-8f51-bb3157c3bc20) (Lower Tier)
+* [3D Labyrinth  - Follow up](https://governance.decentraland.org/proposal/?id=b44758e0-0602-11ee-8f51-bb3157c3bc20) (Lower Tier)
 * [XFounders Boot Camp. Startup school for Web3 Startups.](https://governance.decentraland.org/proposal/?id=ee5b8fe0-0573-11ee-8f51-bb3157c3bc20) (Higher Tier)
 * [Community-Led Support for 3D Artists - MESH + MVAW23](https://governance.decentraland.org/proposal/?id=ad893970-048f-11ee-8f51-bb3157c3bc20) (Lower Tier)
 * [Chain Challenger: Bridging Web2 players to DCL, a gaming discovery platform.](https://governance.decentraland.org/proposal/?id=4aefa4a0-036a-11ee-8f51-bb3157c3bc20) (Higher Tier)
@@ -156,6 +159,7 @@ Since May 16, 4 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+* [Grant Support Squad (GSS) Guidelines and Accountability Framework | Revocation Trial.](https://governance.decentraland.org/proposal/?id=edbaa830-0674-11ee-8f51-bb3157c3bc20)
 * [Do you support Worlds rebranding to DreamSpace ?](https://governance.decentraland.org/proposal/?id=2a137a40-0531-11ee-8f51-bb3157c3bc20)
 * [Should we continue development of 2dcl, the 2d client for Decentraland?](https://governance.decentraland.org/proposal/?id=1c22a480-03f4-11ee-8f51-bb3157c3bc20)
 
