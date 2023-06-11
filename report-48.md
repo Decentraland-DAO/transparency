@@ -141,6 +141,7 @@ Since May 16, 4 grants have been approved and the vesting contract(s) will be es
 
 ## Grants
 
+* [800 add-ons repo for fashion creators](https://governance.decentraland.org/proposal/?id=689d8a10-07a4-11ee-bb17-db98a4ce871d) (Higher Tier)
 * [A dedicated reporter will publish 50 articles about Decentraland for 120 days](https://governance.decentraland.org/proposal/?id=93bc8120-067c-11ee-8f51-bb3157c3bc20) (Lower Tier)
 * [Understanding and Improving the Governance Participation in Decentraland](https://governance.decentraland.org/proposal/?id=725a1020-061c-11ee-8f51-bb3157c3bc20) (Lower Tier)
 * [3D Labyrinth  - Follow up](https://governance.decentraland.org/proposal/?id=b44758e0-0602-11ee-8f51-bb3157c3bc20) (Lower Tier)
@@ -162,6 +163,5 @@ Since May 16, 4 grants have been approved and the vesting contract(s) will be es
 * [Should DAO Implement the New Branding Created by a Grant Proposal ?](https://governance.decentraland.org/proposal/?id=b006a770-06fe-11ee-bb17-db98a4ce871d)
 * [Grant Support Squad (GSS) Guidelines and Accountability Framework | Revocation Trial.](https://governance.decentraland.org/proposal/?id=edbaa830-0674-11ee-8f51-bb3157c3bc20)
 * [Do you support Worlds rebranding to DreamSpace ?](https://governance.decentraland.org/proposal/?id=2a137a40-0531-11ee-8f51-bb3157c3bc20)
-* [Should we continue development of 2dcl, the 2d client for Decentraland?](https://governance.decentraland.org/proposal/?id=1c22a480-03f4-11ee-8f51-bb3157c3bc20)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
