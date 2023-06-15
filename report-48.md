@@ -137,10 +137,14 @@ Since May 16, 4 grants have been approved and the vesting contract(s) will be es
 
 ## Points of Interest
 
-* 46, -52: [100Rainbows Academy](https://governance.decentraland.org/proposal/?id=6b252940-0589-11ee-8f51-bb3157c3bc20)
 
 ## Grants
 
+* [DCL-AIHost : Virtual Land AI Assistant for everyone to use](https://governance.decentraland.org/proposal/?id=1b4dd540-0b7c-11ee-bb17-db98a4ce871d) (Lower Tier)
+* [Virtual Land Manager for Decentraland](https://governance.decentraland.org/proposal/?id=65b37890-0a0c-11ee-bb17-db98a4ce871d) (Higher Tier)
+* [DCL Viral Social Media Awareness Campaign](https://governance.decentraland.org/proposal/?id=1b0750f0-09bc-11ee-bb17-db98a4ce871d) (Lower Tier)
+* [Create a metaverse experience center to learn, create &amp; shop in Bogotá, Colombia](https://governance.decentraland.org/proposal/?id=095522d0-0942-11ee-bb17-db98a4ce871d) (Higher Tier)
+* [DECENTRALAND UNIVERSITY CLUB](https://governance.decentraland.org/proposal/?id=4a9b50d0-0851-11ee-bb17-db98a4ce871d) (Lower Tier)
 * [800 add-ons repo for fashion creators](https://governance.decentraland.org/proposal/?id=689d8a10-07a4-11ee-bb17-db98a4ce871d) (Higher Tier)
 * [A dedicated reporter will publish 50 articles about Decentraland for 120 days](https://governance.decentraland.org/proposal/?id=93bc8120-067c-11ee-8f51-bb3157c3bc20) (Lower Tier)
 * [Understanding and Improving the Governance Participation in Decentraland](https://governance.decentraland.org/proposal/?id=725a1020-061c-11ee-8f51-bb3157c3bc20) (Lower Tier)
@@ -149,8 +153,6 @@ Since May 16, 4 grants have been approved and the vesting contract(s) will be es
 * [Community-Led Support for 3D Artists - MESH + MVAW23](https://governance.decentraland.org/proposal/?id=ad893970-048f-11ee-8f51-bb3157c3bc20) (Lower Tier)
 * [Chain Challenger: Bridging Web2 players to DCL, a gaming discovery platform.](https://governance.decentraland.org/proposal/?id=4aefa4a0-036a-11ee-8f51-bb3157c3bc20) (Higher Tier)
 * [Content that teaches how to create an NFT store using DG Live, builder and SDK](https://governance.decentraland.org/proposal/?id=6e67c3b0-01b0-11ee-8f51-bb3157c3bc20) (Lower Tier)
-* [Simpfi AI Endpoint Integration With Decentraland](https://governance.decentraland.org/proposal/?id=1cd5ddf0-ffcd-11ed-8e4f-8db7948b5171) (Higher Tier)
-* [Accurate portfolio accounting with Cartera Tax](https://governance.decentraland.org/proposal/?id=a954f660-fe80-11ed-8e4f-8db7948b5171) (Lower Tier)
 
 ## Names Bans
 
@@ -160,8 +162,7 @@ Since May 16, 4 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
-* [Should DAO Implement the New Branding Created by a Grant Proposal ?](https://governance.decentraland.org/proposal/?id=b006a770-06fe-11ee-bb17-db98a4ce871d)
-* [Grant Support Squad (GSS) Guidelines and Accountability Framework | Revocation Trial.](https://governance.decentraland.org/proposal/?id=edbaa830-0674-11ee-8f51-bb3157c3bc20)
-* [Do you support Worlds rebranding to DreamSpace ?](https://governance.decentraland.org/proposal/?id=2a137a40-0531-11ee-8f51-bb3157c3bc20)
+* [Should the Worlds Feature be renamed?](https://governance.decentraland.org/proposal/?id=788a7410-0a38-11ee-bb17-db98a4ce871d)
+* [Should Decentraland transition to a single realm?](https://governance.decentraland.org/proposal/?id=8d531190-0a10-11ee-bb17-db98a4ce871d)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
