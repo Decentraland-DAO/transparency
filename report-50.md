@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -26,7 +26,14 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since June 16, 0 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since June 16, 1 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Content that teaches how to create an NFT store using DG Live, builder and SDK](https://governance.decentraland.org/proposal/?id=6e67c3b0-01b0-11ee-8f51-bb3157c3bc20) (Lower Tier)
+
+* Yes 55.05912469327914% 6,246,461 VP (56 votes)
+* No 44.938574734997935% 5,098,284 VP (26 votes)
+* Abstain 0.002300571722923725% 261 VP (9 votes)
 
 
 ## Polls
@@ -39,6 +46,7 @@ Since June 16, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [Decentraland Official 2023 Phygital TShirt &amp; Wearable Design Contest + IRL Event](https://governance.decentraland.org/proposal/?id=e834a940-0cc5-11ee-bb17-db98a4ce871d) (Higher Tier)
 * [DCL-AIHost : Virtual Land AI Assistant for everyone to use](https://governance.decentraland.org/proposal/?id=1b4dd540-0b7c-11ee-bb17-db98a4ce871d) (Lower Tier)
 * [Virtual Land Manager for Decentraland](https://governance.decentraland.org/proposal/?id=65b37890-0a0c-11ee-bb17-db98a4ce871d) (Higher Tier)
 * [DCL Viral Social Media Awareness Campaign](https://governance.decentraland.org/proposal/?id=1b0750f0-09bc-11ee-bb17-db98a4ce871d) (Lower Tier)
@@ -51,7 +59,6 @@ Since June 16, 0 grants have been approved and the vesting contract(s) will be e
 * [XFounders Boot Camp. Startup school for Web3 Startups.](https://governance.decentraland.org/proposal/?id=ee5b8fe0-0573-11ee-8f51-bb3157c3bc20) (Higher Tier)
 * [Community-Led Support for 3D Artists - MESH + MVAW23](https://governance.decentraland.org/proposal/?id=ad893970-048f-11ee-8f51-bb3157c3bc20) (Lower Tier)
 * [Chain Challenger: Bridging Web2 players to DCL, a gaming discovery platform.](https://governance.decentraland.org/proposal/?id=4aefa4a0-036a-11ee-8f51-bb3157c3bc20) (Higher Tier)
-* [Content that teaches how to create an NFT store using DG Live, builder and SDK](https://governance.decentraland.org/proposal/?id=6e67c3b0-01b0-11ee-8f51-bb3157c3bc20) (Lower Tier)
 
 ## Names Bans
 

@@ -110,6 +110,7 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 
 ## Grants
 
+* [Decentraland Official 2023 Phygital TShirt &amp; Wearable Design Contest + IRL Event](https://governance.decentraland.org/proposal/?id=e834a940-0cc5-11ee-bb17-db98a4ce871d) (Higher Tier)
 * [DCL-AIHost : Virtual Land AI Assistant for everyone to use](https://governance.decentraland.org/proposal/?id=1b4dd540-0b7c-11ee-bb17-db98a4ce871d) (Lower Tier)
 * [Virtual Land Manager for Decentraland](https://governance.decentraland.org/proposal/?id=65b37890-0a0c-11ee-bb17-db98a4ce871d) (Higher Tier)
 * [DCL Viral Social Media Awareness Campaign](https://governance.decentraland.org/proposal/?id=1b0750f0-09bc-11ee-bb17-db98a4ce871d) (Lower Tier)
@@ -122,7 +123,6 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 * [XFounders Boot Camp. Startup school for Web3 Startups.](https://governance.decentraland.org/proposal/?id=ee5b8fe0-0573-11ee-8f51-bb3157c3bc20) (Higher Tier)
 * [Community-Led Support for 3D Artists - MESH + MVAW23](https://governance.decentraland.org/proposal/?id=ad893970-048f-11ee-8f51-bb3157c3bc20) (Lower Tier)
 * [Chain Challenger: Bridging Web2 players to DCL, a gaming discovery platform.](https://governance.decentraland.org/proposal/?id=4aefa4a0-036a-11ee-8f51-bb3157c3bc20) (Higher Tier)
-* [Content that teaches how to create an NFT store using DG Live, builder and SDK](https://governance.decentraland.org/proposal/?id=6e67c3b0-01b0-11ee-8f51-bb3157c3bc20) (Lower Tier)
 
 ## Names Bans
 
