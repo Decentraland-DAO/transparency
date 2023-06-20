@@ -45,7 +45,7 @@ export const SABCommittee = new Committee(
     {
       address: '0x48850327b81d0c924ad212891c7223c2ea5cd426',
       name: 'Kyllian',
-      avatar: 'https://peer.decentraland.org/content/contents/QmawhssHwbFsSNfW47bvkUtXq7CzitxQ3idzYoWeZBaYJX'
+      avatar: 'https://peer.decentraland.org/content/contents/bafkreig4ckv7k7ga7niptdw2wsv2u565r6hb5dwzprhavoa3yyoftjrvni'
     },
     {
       address: '0x42ebd2ab698ba74eec1d2a81c376ea2c38c05249',
@@ -66,14 +66,9 @@ export const DAOCommittee = new Committee(
   3,
   [
     {
-      address: '0xbfa6d24e6a061e9aea3447163fdfe045177dd40e',
-      name: 'Yemel',
-      avatar: 'https://peer.decentraland.org/content/contents/QmUvDC3wSSTg7Hnej2A6sp3KZPqSULtvkJfvMBJBrLSb8p'
-    },
-    {
       address: '0xbef99f5f55cf7cdb3a70998c57061b7e1386a9b0',
       name: 'Kyllian',
-      avatar: 'https://decentraland.org/images/male.png'
+      avatar: 'https://peer.decentraland.org/content/contents/bafkreig4ckv7k7ga7niptdw2wsv2u565r6hb5dwzprhavoa3yyoftjrvni'
     },
     {
       address: '0x88013D7eD946dD8292268a6FF69165a97A89a639',
