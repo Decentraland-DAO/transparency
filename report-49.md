@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -73,13 +73,6 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 * Invalid question/options 34.069761166424286% 3,352,133 VP (13 votes)
 
 
-#### [Do you support Worlds rebranding to DreamSpace ?](https://governance.decentraland.org/proposal/?id=2a137a40-0531-11ee-8f51-bb3157c3bc20)
-
-* YES 0.4435943082919214% 24,995 VP (12 votes)
-* NO 78.97221000121924% 4,449,810 VP (41 votes)
-* Invalid question/options 20.584195690488837% 1,159,848 VP (6 votes)
-
-
 #### [Should we continue development of 2dcl, the 2d client for Decentraland?](https://governance.decentraland.org/proposal/?id=1c22a480-03f4-11ee-8f51-bb3157c3bc20)
 
 * Yes, as a year-long project 16.25242409288738% 657,380 VP (31 votes)
@@ -132,5 +125,6 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+* [Should Decentraland have a default realm and solo mode?](https://governance.decentraland.org/proposal/?id=7c1a2280-0f72-11ee-bb17-db98a4ce871d)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

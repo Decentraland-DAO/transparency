@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -37,13 +37,6 @@ Since June 16, 1 grants have been approved and the vesting contract(s) will be e
 
 
 ## Polls
-
-#### [Should the Worlds Feature be renamed?](https://governance.decentraland.org/proposal/?id=788a7410-0a38-11ee-bb17-db98a4ce871d)
-
-* Yes 0.813831331151579% 38,749 VP (15 votes)
-* No 99.18616866884842% 4,722,557 VP (51 votes)
-* Invalid question/options 0% 0 VP (1 votes)
-
 
 
 # Active Proposals
@@ -75,5 +68,6 @@ Since June 16, 1 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Should Decentraland have a default realm and solo mode?](https://governance.decentraland.org/proposal/?id=7c1a2280-0f72-11ee-bb17-db98a4ce871d)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
