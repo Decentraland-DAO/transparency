@@ -50,11 +50,12 @@ Since June 16, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
-* 121, -27: [Meta Residence Tower](https://governance.decentraland.org/proposal/?id=0d7f8770-10e9-11ee-bb17-db98a4ce871d)
+* 117, -27: [Meta Residence Tower](https://governance.decentraland.org/proposal/?id=d40f5e40-10eb-11ee-bb17-db98a4ce871d)
 * 18, -66: [Cheap Rare Estates](https://governance.decentraland.org/proposal/?id=91f46220-0e0d-11ee-bb17-db98a4ce871d)
 
 ## Grants
 
+* [Praave is a private transactions for Dapps with one button browser extension](https://governance.decentraland.org/proposal/?id=217bf180-1154-11ee-aaa1-b9158e95e04b) (Higher Tier)
 * [Decentraland Official 2023 Phygital TShirt &amp; Wearable Design Contest + IRL Event](https://governance.decentraland.org/proposal/?id=e834a940-0cc5-11ee-bb17-db98a4ce871d) (Higher Tier)
 * [DCL-AIHost : Virtual Land AI Assistant for everyone to use](https://governance.decentraland.org/proposal/?id=1b4dd540-0b7c-11ee-bb17-db98a4ce871d) (Lower Tier)
 * [Virtual Land Manager for Decentraland](https://governance.decentraland.org/proposal/?id=65b37890-0a0c-11ee-bb17-db98a4ce871d) (Higher Tier)
@@ -62,9 +63,6 @@ Since June 16, 2 grants have been approved and the vesting contract(s) will be e
 * [Create a metaverse experience center to learn, create &amp; shop in Bogotá, Colombia](https://governance.decentraland.org/proposal/?id=095522d0-0942-11ee-bb17-db98a4ce871d) (Higher Tier)
 * [DECENTRALAND UNIVERSITY CLUB](https://governance.decentraland.org/proposal/?id=4a9b50d0-0851-11ee-bb17-db98a4ce871d) (Lower Tier)
 * [800 add-ons repo for fashion creators](https://governance.decentraland.org/proposal/?id=689d8a10-07a4-11ee-bb17-db98a4ce871d) (Higher Tier)
-* [A dedicated reporter will publish 50 articles about Decentraland for 120 days](https://governance.decentraland.org/proposal/?id=93bc8120-067c-11ee-8f51-bb3157c3bc20) (Lower Tier)
-* [Understanding and Improving the Governance Participation in Decentraland](https://governance.decentraland.org/proposal/?id=725a1020-061c-11ee-8f51-bb3157c3bc20) (Lower Tier)
-* [3D Labyrinth  - Follow up](https://governance.decentraland.org/proposal/?id=b44758e0-0602-11ee-8f51-bb3157c3bc20) (Lower Tier)
 
 ## Names Bans
 
