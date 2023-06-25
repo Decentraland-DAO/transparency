@@ -112,7 +112,6 @@ Since June 1, 1 grants have been approved and the vesting contract(s) will be es
 * [DCL Viral Social Media Awareness Campaign](https://governance.decentraland.org/proposal/?id=1b0750f0-09bc-11ee-bb17-db98a4ce871d) (Lower Tier)
 * [Create a metaverse experience center to learn, create &amp; shop in Bogotá, Colombia](https://governance.decentraland.org/proposal/?id=095522d0-0942-11ee-bb17-db98a4ce871d) (Higher Tier)
 * [DECENTRALAND UNIVERSITY CLUB](https://governance.decentraland.org/proposal/?id=4a9b50d0-0851-11ee-bb17-db98a4ce871d) (Lower Tier)
-* [800 add-ons repo for fashion creators](https://governance.decentraland.org/proposal/?id=689d8a10-07a4-11ee-bb17-db98a4ce871d) (Higher Tier)
 
 ## Names Bans
 

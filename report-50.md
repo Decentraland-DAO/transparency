@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -26,7 +26,14 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since June 16, 2 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since June 16, 3 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [800 add-ons repo for fashion creators](https://governance.decentraland.org/proposal/?id=689d8a10-07a4-11ee-bb17-db98a4ce871d) (Higher Tier)
+
+* Yes 66.50956831483384% 4,651,485 VP (79 votes)
+* No 33.48253887637288% 2,341,671 VP (7 votes)
+* Abstain 0.007892808793275327% 552 VP (2 votes)
 
 
 #### [Community-Led Support for 3D Artists - MESH + MVAW23](https://governance.decentraland.org/proposal/?id=ad893970-048f-11ee-8f51-bb3157c3bc20) (Lower Tier)
@@ -62,7 +69,6 @@ Since June 16, 2 grants have been approved and the vesting contract(s) will be e
 * [DCL Viral Social Media Awareness Campaign](https://governance.decentraland.org/proposal/?id=1b0750f0-09bc-11ee-bb17-db98a4ce871d) (Lower Tier)
 * [Create a metaverse experience center to learn, create &amp; shop in Bogotá, Colombia](https://governance.decentraland.org/proposal/?id=095522d0-0942-11ee-bb17-db98a4ce871d) (Higher Tier)
 * [DECENTRALAND UNIVERSITY CLUB](https://governance.decentraland.org/proposal/?id=4a9b50d0-0851-11ee-bb17-db98a4ce871d) (Lower Tier)
-* [800 add-ons repo for fashion creators](https://governance.decentraland.org/proposal/?id=689d8a10-07a4-11ee-bb17-db98a4ce871d) (Higher Tier)
 
 ## Names Bans
 
