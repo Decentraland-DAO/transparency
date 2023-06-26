@@ -9,12 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+1 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 18, -66: [Cheap Rare Estates](https://governance.decentraland.org/proposal/?id=91f46220-0e0d-11ee-bb17-db98a4ce871d)
+
+* Yes 99.9982892705351% 6,079,174 VP (73 votes)
+* No 0.000049347965334041314% 3 VP (5 votes)
+* Abstain 0.001661381499579391% 101 VP (3 votes)
 
 
 ## Name Bans
@@ -52,13 +59,21 @@ Since June 16, 3 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+#### [Should Decentraland have a default realm and solo mode?](https://governance.decentraland.org/proposal/?id=7c1a2280-0f72-11ee-bb17-db98a4ce871d)
+
+* Create the default realm and solo mode 79.88599037842567% 2,952,309 VP (75 votes)
+* Keep everything as it is 20.11400962157432% 743,344 VP (11 votes)
+* Invalid question/options 0% 0 VP (1 votes)
+
+
 
 # Active Proposals
 
 ## Points of Interest
 
+* -34, -104: [TKFA CO LTD](https://governance.decentraland.org/proposal/?id=29537a10-13e1-11ee-aaa1-b9158e95e04b)
+* -109, -93: [No Name](https://governance.decentraland.org/proposal/?id=20647e50-13d6-11ee-aaa1-b9158e95e04b)
 * 117, -27: [Meta Residence Tower](https://governance.decentraland.org/proposal/?id=d40f5e40-10eb-11ee-bb17-db98a4ce871d)
-* 18, -66: [Cheap Rare Estates](https://governance.decentraland.org/proposal/?id=91f46220-0e0d-11ee-bb17-db98a4ce871d)
 
 ## Grants
 
@@ -68,7 +83,6 @@ Since June 16, 3 grants have been approved and the vesting contract(s) will be e
 * [Virtual Land Manager for Decentraland](https://governance.decentraland.org/proposal/?id=65b37890-0a0c-11ee-bb17-db98a4ce871d) (Higher Tier)
 * [DCL Viral Social Media Awareness Campaign](https://governance.decentraland.org/proposal/?id=1b0750f0-09bc-11ee-bb17-db98a4ce871d) (Lower Tier)
 * [Create a metaverse experience center to learn, create &amp; shop in Bogotá, Colombia](https://governance.decentraland.org/proposal/?id=095522d0-0942-11ee-bb17-db98a4ce871d) (Higher Tier)
-* [DECENTRALAND UNIVERSITY CLUB](https://governance.decentraland.org/proposal/?id=4a9b50d0-0851-11ee-bb17-db98a4ce871d) (Lower Tier)
 
 ## Names Bans
 
@@ -79,6 +93,5 @@ Since June 16, 3 grants have been approved and the vesting contract(s) will be e
 ## Polls
 
 * [Should the DAO utilize the acquired LANDs to build its in-world Headquarters ?](https://governance.decentraland.org/proposal/?id=8e8786e0-1087-11ee-bb17-db98a4ce871d)
-* [Should Decentraland have a default realm and solo mode?](https://governance.decentraland.org/proposal/?id=7c1a2280-0f72-11ee-bb17-db98a4ce871d)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
