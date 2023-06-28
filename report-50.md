@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -33,7 +33,14 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since June 16, 3 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since June 16, 4 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Virtual Land Manager for Decentraland](https://governance.decentraland.org/proposal/?id=65b37890-0a0c-11ee-bb17-db98a4ce871d) (Higher Tier)
+
+* Yes 68.74541931729712% 6,327,613 VP (88 votes)
+* No 31.22331307566131% 2,873,923 VP (13 votes)
+* Abstain 0.0312676070415781% 2,878 VP (8 votes)
 
 
 #### [800 add-ons repo for fashion creators](https://governance.decentraland.org/proposal/?id=689d8a10-07a4-11ee-bb17-db98a4ce871d) (Higher Tier)
@@ -84,10 +91,10 @@ Since June 16, 3 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [2dcl - DCL&#39;s 2D Alternate Universe: Deployment and Discovery](https://governance.decentraland.org/proposal/?id=79e0c580-151e-11ee-93a7-ed9294f83f74) (Higher Tier)
 * [Praave is a private transactions for Dapps with one button browser extension](https://governance.decentraland.org/proposal/?id=217bf180-1154-11ee-aaa1-b9158e95e04b) (Higher Tier)
 * [Decentraland Official 2023 Phygital TShirt &amp; Wearable Design Contest + IRL Event](https://governance.decentraland.org/proposal/?id=e834a940-0cc5-11ee-bb17-db98a4ce871d) (Higher Tier)
 * [DCL-AIHost : Virtual Land AI Assistant for everyone to use](https://governance.decentraland.org/proposal/?id=1b4dd540-0b7c-11ee-bb17-db98a4ce871d) (Lower Tier)
-* [Virtual Land Manager for Decentraland](https://governance.decentraland.org/proposal/?id=65b37890-0a0c-11ee-bb17-db98a4ce871d) (Higher Tier)
 
 ## Names Bans
 
