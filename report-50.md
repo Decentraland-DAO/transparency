@@ -9,12 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-1 points of interest have been added to Decentraland’s map since the last report.
+2 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 117, -27: [Meta Residence Tower](https://governance.decentraland.org/proposal/?id=d40f5e40-10eb-11ee-bb17-db98a4ce871d)
+
+* Yes 70.19525923359053% 3,370,723 VP (83 votes)
+* No 29.804740766409466% 1,431,201 VP (9 votes)
+* Abstain 0% 0 VP (3 votes)
 
 
 #### 18, -66: [Cheap Rare Estates](https://governance.decentraland.org/proposal/?id=91f46220-0e0d-11ee-bb17-db98a4ce871d)
@@ -87,7 +94,6 @@ Since June 16, 4 grants have been approved and the vesting contract(s) will be e
 
 * -34, -104: [TKFA CO LTD](https://governance.decentraland.org/proposal/?id=29537a10-13e1-11ee-aaa1-b9158e95e04b)
 * -109, -93: [No Name](https://governance.decentraland.org/proposal/?id=20647e50-13d6-11ee-aaa1-b9158e95e04b)
-* 117, -27: [Meta Residence Tower](https://governance.decentraland.org/proposal/?id=d40f5e40-10eb-11ee-bb17-db98a4ce871d)
 
 ## Grants
 
@@ -95,7 +101,6 @@ Since June 16, 4 grants have been approved and the vesting contract(s) will be e
 * [2dcl - DCL&#39;s 2D Alternate Universe: Deployment and Discovery](https://governance.decentraland.org/proposal/?id=79e0c580-151e-11ee-93a7-ed9294f83f74) (Higher Tier)
 * [Praave is a private transactions for Dapps with one button browser extension](https://governance.decentraland.org/proposal/?id=217bf180-1154-11ee-aaa1-b9158e95e04b) (Higher Tier)
 * [Decentraland Official 2023 Phygital TShirt &amp; Wearable Design Contest + IRL Event](https://governance.decentraland.org/proposal/?id=e834a940-0cc5-11ee-bb17-db98a4ce871d) (Higher Tier)
-* [DCL-AIHost : Virtual Land AI Assistant for everyone to use](https://governance.decentraland.org/proposal/?id=1b4dd540-0b7c-11ee-bb17-db98a4ce871d) (Lower Tier)
 
 ## Names Bans
 
