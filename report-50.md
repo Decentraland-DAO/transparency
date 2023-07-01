@@ -97,10 +97,10 @@ Since June 16, 4 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [Continued Development of Soul Magic](https://governance.decentraland.org/proposal/?id=f3874400-1743-11ee-93a7-ed9294f83f74) (Higher Tier)
 * [Hire LordLike as DAO Strategic Unit (DAO worker)](https://governance.decentraland.org/proposal/?id=b51854d0-1666-11ee-93a7-ed9294f83f74) (Higher Tier)
 * [2dcl - DCL&#39;s 2D Alternate Universe: Deployment and Discovery](https://governance.decentraland.org/proposal/?id=79e0c580-151e-11ee-93a7-ed9294f83f74) (Higher Tier)
 * [Praave is a private transactions for Dapps with one button browser extension](https://governance.decentraland.org/proposal/?id=217bf180-1154-11ee-aaa1-b9158e95e04b) (Higher Tier)
-* [Decentraland Official 2023 Phygital TShirt &amp; Wearable Design Contest + IRL Event](https://governance.decentraland.org/proposal/?id=e834a940-0cc5-11ee-bb17-db98a4ce871d) (Higher Tier)
 
 ## Names Bans
 
