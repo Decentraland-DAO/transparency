@@ -93,11 +93,11 @@ Since June 16, 4 grants have been approved and the vesting contract(s) will be e
 ## Points of Interest
 
 * -145, 113: [XETAPLEX](https://governance.decentraland.org/proposal/?id=8004ef20-1863-11ee-93a7-ed9294f83f74)
-* -34, -104: [TKFA CO LTD](https://governance.decentraland.org/proposal/?id=29537a10-13e1-11ee-aaa1-b9158e95e04b)
-* -109, -93: [No Name](https://governance.decentraland.org/proposal/?id=20647e50-13d6-11ee-aaa1-b9158e95e04b)
 
 ## Grants
 
+* [Meta Residence Tower (re-proposing to correct category)](https://governance.decentraland.org/proposal/?id=7ffae250-193a-11ee-93a7-ed9294f83f74) (Higher Tier)
+* [Dhingia Builds HQ: Play to Build Ecosystem in Decentraland](https://governance.decentraland.org/proposal/?id=17783750-18d1-11ee-93a7-ed9294f83f74) (Higher Tier)
 * [Community NFT TCG Framework](https://governance.decentraland.org/proposal/?id=724e75e0-187c-11ee-93a7-ed9294f83f74) (Higher Tier)
 * [18+ Adult World Grant Proposal : PiXXXel](https://governance.decentraland.org/proposal/?id=a5767b00-185b-11ee-93a7-ed9294f83f74) (Higher Tier)
 * [FIRST METAVERSE ARCHITECTURE BIENNALE](https://governance.decentraland.org/proposal/?id=82250970-1836-11ee-93a7-ed9294f83f74) (Higher Tier)
@@ -116,5 +116,6 @@ Since June 16, 4 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Pre-Proposal Poll for a Decentraland Slogan](https://governance.decentraland.org/proposal/?id=029ea970-1973-11ee-93a7-ed9294f83f74)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
