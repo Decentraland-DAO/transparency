@@ -47,6 +47,8 @@ Since July 1, 0 grants have been approved and the vesting contract(s) will be es
 
 ## Grants
 
+* [MANA Spending Metaprotocol: Facilitating gasless MANA Transfers on ETH Mainnet](https://governance.decentraland.org/proposal/?id=8360d780-1a28-11ee-a5d8-fbedad1981e4) (Higher Tier)
+* [Petaverse (Expansion) - Distributing the game across DCL](https://governance.decentraland.org/proposal/?id=6e6f54b0-19e1-11ee-a5d8-fbedad1981e4) (Higher Tier)
 * [Meta Residence Tower (re-proposing to correct category)](https://governance.decentraland.org/proposal/?id=7ffae250-193a-11ee-93a7-ed9294f83f74) (Higher Tier)
 * [Dhingia Builds HQ: Play to Build Ecosystem in Decentraland](https://governance.decentraland.org/proposal/?id=17783750-18d1-11ee-93a7-ed9294f83f74) (Higher Tier)
 * [Community NFT TCG Framework](https://governance.decentraland.org/proposal/?id=724e75e0-187c-11ee-93a7-ed9294f83f74) (Higher Tier)
