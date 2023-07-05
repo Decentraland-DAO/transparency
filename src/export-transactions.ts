@@ -74,7 +74,13 @@ const OPENSEA_ADDRESSES = new Set([
   '0x000000004b5ad44f70781462233d177d32d993f1',
   '0x13c10925bf130e4a9631900d89475d2155b5f9c0',
   '0x0000000000e9c0809c14f4dc1e48f97abd9317f6',
-  '0x00000000000001ad428e4906ae43d8f9852d0dd6'
+  '0x00000000000001ad428e4906ae43d8f9852d0dd6',
+  '0x00000000000000adc04c56bf30ac9d3c0aaf14dc',
+  '0xef0b56692f78a44cf4034b07f80204757c31bcc9'
+])
+const RENTAL_ADDRESSES = new Set([
+  '0x3a1469499d0be105d4f77045ca403a5f6dc2f3f5',
+  '0xe90636e24d8faf02aa0e01c26d72dab9629865cb'
 ])
 
 const BALANCES = (RAW_BALANCES as BalanceParsed[]).reduce((accum, balance) => {
@@ -262,6 +268,16 @@ async function tagging(txs: TransactionParsed[]) {
           OPENSEA_ADDRESSES.has(tx.interactedWith)
         )) {
         tx.tag = TagType.OPENSEA
+        continue
+      }
+
+      if (
+        tx.type === TransferType.IN && (
+          RENTAL_ADDRESSES.has(tx.from) ||
+          RENTAL_ADDRESSES.has(tx.txFrom) ||
+          RENTAL_ADDRESSES.has(tx.interactedWith)
+        )) {
+        tx.tag = TagType.RENTAL_FEE
         continue
       }
 
