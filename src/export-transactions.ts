@@ -261,22 +261,24 @@ async function tagging(txs: TransactionParsed[]) {
         continue
       }
 
-      if (
-        tx.type === TransferType.IN && (
-          OPENSEA_ADDRESSES.has(tx.from) ||
-          OPENSEA_ADDRESSES.has(tx.txFrom) ||
-          OPENSEA_ADDRESSES.has(tx.interactedWith)
-        )) {
+      const isOpenSeaTransaction = tx.type === TransferType.IN && (
+        OPENSEA_ADDRESSES.has(tx.from) ||
+        OPENSEA_ADDRESSES.has(tx.txFrom) ||
+        OPENSEA_ADDRESSES.has(tx.interactedWith)
+      )
+      
+      if (isOpenSeaTransaction) {
         tx.tag = TagType.OPENSEA
         continue
       }
 
-      if (
-        tx.type === TransferType.IN && (
-          RENTAL_ADDRESSES.has(tx.from) ||
-          RENTAL_ADDRESSES.has(tx.txFrom) ||
-          RENTAL_ADDRESSES.has(tx.interactedWith)
-        )) {
+      const isRentalFeeTransaction = tx.type === TransferType.IN && (
+        RENTAL_ADDRESSES.has(tx.from) ||
+        RENTAL_ADDRESSES.has(tx.txFrom) ||
+        RENTAL_ADDRESSES.has(tx.interactedWith)
+      )
+
+      if (isRentalFeeTransaction) {
         tx.tag = TagType.RENTAL_FEE
         continue
       }
