@@ -70,7 +70,7 @@ const TAG_CATEGORIES: Record<keyof typeof TagCategoryType, TagCategory> = {
   GRANTS_PAYOUT: { name: 'Community Grants Payout', description: 'Transactions corresponding to the funding of the vesting contracts for approved DAO Community Grants projects' },
   GRANTS_REVENUE: { name: 'Community Grants Revenue', description: 'Funds corresponding to Grant-funded projects that share revenue with the DAO Treasury' },
   LAND_MARKETPLACE_SALES: { name: 'LAND  DCL Marketplace Sales Fee', description: 'Funds corresponding to the 2.5% fee applied to every LAND transaction (Minting or secondary)' },
-  LAND_RENTAL_FEE: { name: 'Land Rental Fee', description: 'Funds corresponding to the 2.5% fee applied to every LAND or ESTATE rental transaction' },
+  LAND_RENTAL_FEE: { name: 'LAND Rentals Marketplace Fee', description: 'Funds corresponding to the 2.5% fee applied to every LAND or ESTATE rental transaction' },
   LOOKSRARE_MARKETPLACE_FEE: { name: 'LooksRare Marketplace Fee', description: 'Funds corresponding to the 2.5% fee applied to every transaction (ESTATE, LAND, NAME & Wearables) on LooksRare marketplace' },
   NAME_MARKETPLACE_SALES: { name: 'NAME DCL Marketplace Sales Fee', description: 'Funds corresponding to the 2.5% fee applied to every NAME transaction (Minting or secondary)' },
   NAMES_MINTING_FEE: { name: 'Names Minting Fee', description: 'Funds corresponding to the fee applied to Names minting' },
