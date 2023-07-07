@@ -47,6 +47,10 @@ Since July 1, 0 grants have been approved and the vesting contract(s) will be es
 
 ## Grants
 
+* [NFT World City Games Testing and Support](https://governance.decentraland.org/proposal/?id=44319760-1c31-11ee-9bcb-ff4f8c446533) (Higher Tier)
+* [DCL Virtual Library – Expansion of Courses, Questing, and Rewards](https://governance.decentraland.org/proposal/?id=29131a00-1c16-11ee-9bcb-ff4f8c446533) (Higher Tier)
+* [DCL-Edit V3- A No Code Editor for the Decentraland SDK 7](https://governance.decentraland.org/proposal/?id=bdd44150-1c11-11ee-9bcb-ff4f8c446533) (Higher Tier)
+* [All Time High Fest: A Gamified Metaverse Music Festival in November](https://governance.decentraland.org/proposal/?id=844fe620-1c0f-11ee-9bcb-ff4f8c446533) (Higher Tier)
 * [DAO Governance Squad 2H2023 Budget Renewal](https://governance.decentraland.org/proposal/?id=7e1d76d0-1a9a-11ee-a5d8-fbedad1981e4) (Higher Tier)
 * [Promote Decentraland Through Top Marketing Strategies](https://governance.decentraland.org/proposal/?id=83511e70-1a88-11ee-a5d8-fbedad1981e4) (Higher Tier)
 * [Crypto wallet safety from copy-paste scam and  security](https://governance.decentraland.org/proposal/?id=48ce9250-1a74-11ee-a5d8-fbedad1981e4) (Higher Tier)
@@ -61,7 +65,6 @@ Since July 1, 0 grants have been approved and the vesting contract(s) will be es
 * [Continued Development of Soul Magic](https://governance.decentraland.org/proposal/?id=f3874400-1743-11ee-93a7-ed9294f83f74) (Higher Tier)
 * [Hire LordLike as DAO Strategic Unit (DAO worker)](https://governance.decentraland.org/proposal/?id=b51854d0-1666-11ee-93a7-ed9294f83f74) (Higher Tier)
 * [2dcl - DCL&#39;s 2D Alternate Universe: Deployment and Discovery](https://governance.decentraland.org/proposal/?id=79e0c580-151e-11ee-93a7-ed9294f83f74) (Higher Tier)
-* [Praave is a private transactions for Dapps with one button browser extension](https://governance.decentraland.org/proposal/?id=217bf180-1154-11ee-aaa1-b9158e95e04b) (Higher Tier)
 
 ## Names Bans
 
