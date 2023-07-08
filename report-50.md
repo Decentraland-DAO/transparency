@@ -123,6 +123,5 @@ Since June 16, 4 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
-* [Pre-Proposal Poll for a Decentraland Slogan](https://governance.decentraland.org/proposal/?id=029ea970-1973-11ee-93a7-ed9294f83f74)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
