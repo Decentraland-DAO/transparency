@@ -92,7 +92,6 @@ Since June 16, 4 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
-* -145, 113: [XETAPLEX](https://governance.decentraland.org/proposal/?id=8004ef20-1863-11ee-93a7-ed9294f83f74)
 
 ## Grants
 
@@ -123,5 +122,7 @@ Since June 16, 4 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Add Ethereum Name Service (ENS) to Builder for Publishing Worlds](https://governance.decentraland.org/proposal/?id=250c1b80-1de9-11ee-9bcb-ff4f8c446533)
+* [1% Strategic Diversification of DCL DAO Holdings](https://governance.decentraland.org/proposal/?id=2f8b4640-1dca-11ee-9bcb-ff4f8c446533)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

@@ -9,12 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-1 points of interest have been added to Decentraland’s map since the last report.
+2 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -145, 113: [XETAPLEX](https://governance.decentraland.org/proposal/?id=8004ef20-1863-11ee-93a7-ed9294f83f74)
+
+* Yes 53.755263469112776% 2,959,059 VP (62 votes)
+* No 46.174069479336424% 2,541,738 VP (23 votes)
+* Abstain 0.07066705155079663% 3,890 VP (5 votes)
 
 
 #### -109, -93: [No Name](https://governance.decentraland.org/proposal/?id=20647e50-13d6-11ee-aaa1-b9158e95e04b)
@@ -50,7 +57,6 @@ Since July 1, 0 grants have been approved and the vesting contract(s) will be es
 
 ## Points of Interest
 
-* -145, 113: [XETAPLEX](https://governance.decentraland.org/proposal/?id=8004ef20-1863-11ee-93a7-ed9294f83f74)
 
 ## Grants
 
@@ -81,5 +87,7 @@ Since July 1, 0 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+* [Add Ethereum Name Service (ENS) to Builder for Publishing Worlds](https://governance.decentraland.org/proposal/?id=250c1b80-1de9-11ee-9bcb-ff4f8c446533)
+* [1% Strategic Diversification of DCL DAO Holdings](https://governance.decentraland.org/proposal/?id=2f8b4640-1dca-11ee-9bcb-ff4f8c446533)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
