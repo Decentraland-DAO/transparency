@@ -95,7 +95,6 @@ Since June 16, 4 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
-* [NFT World City Games Testing and Support](https://governance.decentraland.org/proposal/?id=44319760-1c31-11ee-9bcb-ff4f8c446533) (Higher Tier)
 * [DCL Virtual Library – Expansion of Courses, Questing, and Rewards](https://governance.decentraland.org/proposal/?id=29131a00-1c16-11ee-9bcb-ff4f8c446533) (Higher Tier)
 * [DCL-Edit V3- A No Code Editor for the Decentraland SDK 7](https://governance.decentraland.org/proposal/?id=bdd44150-1c11-11ee-9bcb-ff4f8c446533) (Higher Tier)
 * [All Time High Fest: A Gamified Metaverse Music Festival in November](https://governance.decentraland.org/proposal/?id=844fe620-1c0f-11ee-9bcb-ff4f8c446533) (Higher Tier)
@@ -122,6 +121,9 @@ Since June 16, 4 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Published Worlds Different Surrounds Options](https://governance.decentraland.org/proposal/?id=501194c0-1efe-11ee-9bcb-ff4f8c446533)
+* [Feature request for Worlds to be added to My Assets &amp; Collectibles submenu &amp; names in the marketplace to display if they have a deployed World along with the link](https://governance.decentraland.org/proposal/?id=0695d830-1eed-11ee-9bcb-ff4f8c446533)
+* [Review of Delegate&#39;s VP issued by Esteban Ordano](https://governance.decentraland.org/proposal/?id=0a323c40-1e52-11ee-9bcb-ff4f8c446533)
 * [Add Ethereum Name Service (ENS) to Builder for Publishing Worlds](https://governance.decentraland.org/proposal/?id=250c1b80-1de9-11ee-9bcb-ff4f8c446533)
 * [1% Strategic Diversification of DCL DAO Holdings](https://governance.decentraland.org/proposal/?id=2f8b4640-1dca-11ee-9bcb-ff4f8c446533)
 
