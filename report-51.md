@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -40,7 +40,14 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since July 1, 1 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since July 1, 2 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Hire LordLike as DAO Strategic Unit (DAO worker)](https://governance.decentraland.org/proposal/?id=b51854d0-1666-11ee-93a7-ed9294f83f74) (Higher Tier)
+
+* Yes 78.20500433707312% 6,580,686 VP (169 votes)
+* No 12.671169997222703% 1,066,236 VP (12 votes)
+* Abstain 9.12382566570418% 767,739 VP (12 votes)
 
 
 #### [2dcl - DCL&#39;s 2D Alternate Universe: Deployment and Discovery](https://governance.decentraland.org/proposal/?id=79e0c580-151e-11ee-93a7-ed9294f83f74) (Higher Tier)
@@ -51,6 +58,20 @@ Since July 1, 1 grants have been approved and the vesting contract(s) will be es
 
 
 ## Polls
+
+#### [Add Ethereum Name Service (ENS) to Builder for Publishing Worlds](https://governance.decentraland.org/proposal/?id=250c1b80-1de9-11ee-9bcb-ff4f8c446533)
+
+* Yes 65.32745074198236% 3,497,699 VP (109 votes)
+* No 34.65844792302277% 1,855,649 VP (20 votes)
+* Invalid question/options 0.014101334994862817% 755 VP (1 votes)
+
+
+#### [1% Strategic Diversification of DCL DAO Holdings](https://governance.decentraland.org/proposal/?id=2f8b4640-1dca-11ee-9bcb-ff4f8c446533)
+
+* Pursue Further 28.540354408009634% 1,028,412 VP (33 votes)
+* Don&#39;t do this 71.45964559199037% 2,574,949 VP (60 votes)
+* Invalid question/options 0% 0 VP (3 votes)
+
 
 #### [Pre-Proposal Poll for a Decentraland Slogan](https://governance.decentraland.org/proposal/?id=029ea970-1973-11ee-93a7-ed9294f83f74)
 
@@ -67,6 +88,7 @@ Since July 1, 1 grants have been approved and the vesting contract(s) will be es
 
 ## Grants
 
+* [Butterfly Prawn Farm (BPF) Development and Expansion](https://governance.decentraland.org/proposal/?id=6c78f120-221f-11ee-8ace-3bf098daeebe) (Higher Tier)
 * [Decentraland Sports Events in Hong Kong](https://governance.decentraland.org/proposal/?id=8443eac0-209a-11ee-b5f5-f3f361e3b760) (Lower Tier)
 * [DCL_Brasil (re-proposing to correct category)](https://governance.decentraland.org/proposal/?id=0e970750-2052-11ee-b5f5-f3f361e3b760) (Higher Tier)
 * [DCL Community Celebration and DAO Engagement-Focused Content Creation](https://governance.decentraland.org/proposal/?id=a4507de0-2038-11ee-b5f5-f3f361e3b760) (Higher Tier)
@@ -85,7 +107,6 @@ Since July 1, 1 grants have been approved and the vesting contract(s) will be es
 * [Doki&#39;s Pick n&#39; Mix](https://governance.decentraland.org/proposal/?id=220ce750-182d-11ee-93a7-ed9294f83f74) (Higher Tier)
 * [StoneyEye Studios -  Music &amp; Art Growth and Self-Sustainability](https://governance.decentraland.org/proposal/?id=fe96cc60-182b-11ee-93a7-ed9294f83f74) (Higher Tier)
 * [Continued Development of Soul Magic](https://governance.decentraland.org/proposal/?id=f3874400-1743-11ee-93a7-ed9294f83f74) (Higher Tier)
-* [Hire LordLike as DAO Strategic Unit (DAO worker)](https://governance.decentraland.org/proposal/?id=b51854d0-1666-11ee-93a7-ed9294f83f74) (Higher Tier)
 
 ## Names Bans
 
@@ -95,10 +116,9 @@ Since July 1, 1 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+* [Should the DAO Reward Genesis City Scenes That Drive Engagement?](https://governance.decentraland.org/proposal/?id=b4a0ec40-222a-11ee-8ace-3bf098daeebe)
 * [Published Worlds Different Surrounds Options](https://governance.decentraland.org/proposal/?id=501194c0-1efe-11ee-9bcb-ff4f8c446533)
 * [Feature request for Worlds to be added to My Assets &amp; Collectibles submenu &amp; names in the marketplace to display if they have a deployed World along with the link](https://governance.decentraland.org/proposal/?id=0695d830-1eed-11ee-9bcb-ff4f8c446533)
 * [Review of Delegate&#39;s VP issued by Esteban Ordano](https://governance.decentraland.org/proposal/?id=0a323c40-1e52-11ee-9bcb-ff4f8c446533)
-* [Add Ethereum Name Service (ENS) to Builder for Publishing Worlds](https://governance.decentraland.org/proposal/?id=250c1b80-1de9-11ee-9bcb-ff4f8c446533)
-* [1% Strategic Diversification of DCL DAO Holdings](https://governance.decentraland.org/proposal/?id=2f8b4640-1dca-11ee-9bcb-ff4f8c446533)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
