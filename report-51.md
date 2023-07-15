@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -40,7 +40,14 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since July 1, 2 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since July 1, 3 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Continued Development of Soul Magic](https://governance.decentraland.org/proposal/?id=f3874400-1743-11ee-93a7-ed9294f83f74) (Higher Tier)
+
+* Yes 76.73557085694588% 7,470,702 VP (110 votes)
+* No 23.258635997782992% 2,264,378 VP (12 votes)
+* Abstain 0.00579314527112947% 564 VP (4 votes)
 
 
 #### [Hire LordLike as DAO Strategic Unit (DAO worker)](https://governance.decentraland.org/proposal/?id=b51854d0-1666-11ee-93a7-ed9294f83f74) (Higher Tier)
@@ -58,6 +65,20 @@ Since July 1, 2 grants have been approved and the vesting contract(s) will be es
 
 
 ## Polls
+
+#### [Published Worlds Different Surrounds Options](https://governance.decentraland.org/proposal/?id=501194c0-1efe-11ee-9bcb-ff4f8c446533)
+
+* Yes 47.357968305511406% 1,666,095 VP (75 votes)
+* No 52.60982670132185% 1,850,860 VP (29 votes)
+* Invalid question/options 0.03220499316674284% 1,133 VP (3 votes)
+
+
+#### [Feature request for Worlds to be added to My Assets &amp; Collectibles submenu &amp; names in the marketplace to display if they have a deployed World along with the link](https://governance.decentraland.org/proposal/?id=0695d830-1eed-11ee-9bcb-ff4f8c446533)
+
+* Yes 18.951741600973314% 678,692 VP (42 votes)
+* No 52.13186568929221% 1,866,925 VP (39 votes)
+* Invalid question/options 28.916392709734474% 1,035,542 VP (14 votes)
+
 
 #### [Add Ethereum Name Service (ENS) to Builder for Publishing Worlds](https://governance.decentraland.org/proposal/?id=250c1b80-1de9-11ee-9bcb-ff4f8c446533)
 
@@ -85,9 +106,12 @@ Since July 1, 2 grants have been approved and the vesting contract(s) will be es
 
 ## Points of Interest
 
+* 86, -33: [PARCEL PARTY](https://governance.decentraland.org/proposal/?id=265afc60-224c-11ee-8ace-3bf098daeebe)
 
 ## Grants
 
+* [Decentraland Studios — Grant Renewal](https://governance.decentraland.org/proposal/?id=5f962e70-22ef-11ee-8ace-3bf098daeebe) (Higher Tier)
+* [Feeka Café - Wearable Asset Pipeline Tutorial Series](https://governance.decentraland.org/proposal/?id=d215f940-2244-11ee-8ace-3bf098daeebe) (Lower Tier)
 * [Butterfly Prawn Farm (BPF) Development and Expansion](https://governance.decentraland.org/proposal/?id=6c78f120-221f-11ee-8ace-3bf098daeebe) (Higher Tier)
 * [Decentraland Sports Events in Hong Kong](https://governance.decentraland.org/proposal/?id=8443eac0-209a-11ee-b5f5-f3f361e3b760) (Lower Tier)
 * [DCL_Brasil (re-proposing to correct category)](https://governance.decentraland.org/proposal/?id=0e970750-2052-11ee-b5f5-f3f361e3b760) (Higher Tier)
@@ -106,7 +130,6 @@ Since July 1, 2 grants have been approved and the vesting contract(s) will be es
 * [FIRST METAVERSE ARCHITECTURE BIENNALE](https://governance.decentraland.org/proposal/?id=82250970-1836-11ee-93a7-ed9294f83f74) (Higher Tier)
 * [Doki&#39;s Pick n&#39; Mix](https://governance.decentraland.org/proposal/?id=220ce750-182d-11ee-93a7-ed9294f83f74) (Higher Tier)
 * [StoneyEye Studios -  Music &amp; Art Growth and Self-Sustainability](https://governance.decentraland.org/proposal/?id=fe96cc60-182b-11ee-93a7-ed9294f83f74) (Higher Tier)
-* [Continued Development of Soul Magic](https://governance.decentraland.org/proposal/?id=f3874400-1743-11ee-93a7-ed9294f83f74) (Higher Tier)
 
 ## Names Bans
 
@@ -117,8 +140,5 @@ Since July 1, 2 grants have been approved and the vesting contract(s) will be es
 ## Polls
 
 * [Should the DAO Reward Genesis City Scenes That Drive Engagement?](https://governance.decentraland.org/proposal/?id=b4a0ec40-222a-11ee-8ace-3bf098daeebe)
-* [Published Worlds Different Surrounds Options](https://governance.decentraland.org/proposal/?id=501194c0-1efe-11ee-9bcb-ff4f8c446533)
-* [Feature request for Worlds to be added to My Assets &amp; Collectibles submenu &amp; names in the marketplace to display if they have a deployed World along with the link](https://governance.decentraland.org/proposal/?id=0695d830-1eed-11ee-9bcb-ff4f8c446533)
-* [Review of Delegate&#39;s VP issued by Esteban Ordano](https://governance.decentraland.org/proposal/?id=0a323c40-1e52-11ee-9bcb-ff4f8c446533)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

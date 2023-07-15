@@ -92,9 +92,12 @@ Since June 16, 4 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
+* 86, -33: [PARCEL PARTY](https://governance.decentraland.org/proposal/?id=265afc60-224c-11ee-8ace-3bf098daeebe)
 
 ## Grants
 
+* [Decentraland Studios — Grant Renewal](https://governance.decentraland.org/proposal/?id=5f962e70-22ef-11ee-8ace-3bf098daeebe) (Higher Tier)
+* [Feeka Café - Wearable Asset Pipeline Tutorial Series](https://governance.decentraland.org/proposal/?id=d215f940-2244-11ee-8ace-3bf098daeebe) (Lower Tier)
 * [Butterfly Prawn Farm (BPF) Development and Expansion](https://governance.decentraland.org/proposal/?id=6c78f120-221f-11ee-8ace-3bf098daeebe) (Higher Tier)
 * [Decentraland Sports Events in Hong Kong](https://governance.decentraland.org/proposal/?id=8443eac0-209a-11ee-b5f5-f3f361e3b760) (Lower Tier)
 * [DCL_Brasil (re-proposing to correct category)](https://governance.decentraland.org/proposal/?id=0e970750-2052-11ee-b5f5-f3f361e3b760) (Higher Tier)
@@ -113,7 +116,6 @@ Since June 16, 4 grants have been approved and the vesting contract(s) will be e
 * [FIRST METAVERSE ARCHITECTURE BIENNALE](https://governance.decentraland.org/proposal/?id=82250970-1836-11ee-93a7-ed9294f83f74) (Higher Tier)
 * [Doki&#39;s Pick n&#39; Mix](https://governance.decentraland.org/proposal/?id=220ce750-182d-11ee-93a7-ed9294f83f74) (Higher Tier)
 * [StoneyEye Studios -  Music &amp; Art Growth and Self-Sustainability](https://governance.decentraland.org/proposal/?id=fe96cc60-182b-11ee-93a7-ed9294f83f74) (Higher Tier)
-* [Continued Development of Soul Magic](https://governance.decentraland.org/proposal/?id=f3874400-1743-11ee-93a7-ed9294f83f74) (Higher Tier)
 
 ## Names Bans
 
@@ -124,8 +126,5 @@ Since June 16, 4 grants have been approved and the vesting contract(s) will be e
 ## Polls
 
 * [Should the DAO Reward Genesis City Scenes That Drive Engagement?](https://governance.decentraland.org/proposal/?id=b4a0ec40-222a-11ee-8ace-3bf098daeebe)
-* [Published Worlds Different Surrounds Options](https://governance.decentraland.org/proposal/?id=501194c0-1efe-11ee-9bcb-ff4f8c446533)
-* [Feature request for Worlds to be added to My Assets &amp; Collectibles submenu &amp; names in the marketplace to display if they have a deployed World along with the link](https://governance.decentraland.org/proposal/?id=0695d830-1eed-11ee-9bcb-ff4f8c446533)
-* [Review of Delegate&#39;s VP issued by Esteban Ordano](https://governance.decentraland.org/proposal/?id=0a323c40-1e52-11ee-9bcb-ff4f8c446533)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
