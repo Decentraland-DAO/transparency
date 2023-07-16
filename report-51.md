@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 6 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -40,7 +40,28 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since July 1, 3 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since July 1, 6 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [FIRST METAVERSE ARCHITECTURE BIENNALE](https://governance.decentraland.org/proposal/?id=82250970-1836-11ee-93a7-ed9294f83f74) (Higher Tier)
+
+* Yes 48.14088154908236% 10,372,469 VP (84 votes)
+* No 44.143976684009964% 9,511,293 VP (52 votes)
+* Abstain 7.715141766907675% 1,662,310 VP (5 votes)
+
+
+#### [Doki&#39;s Pick n&#39; Mix](https://governance.decentraland.org/proposal/?id=220ce750-182d-11ee-93a7-ed9294f83f74) (Higher Tier)
+
+* Yes 99.9815630974962% 5,797,085 VP (112 votes)
+* No 0.008726915497587681% 506 VP (3 votes)
+* Abstain 0.009709987006209217% 563 VP (4 votes)
+
+
+#### [StoneyEye Studios -  Music &amp; Art Growth and Self-Sustainability](https://governance.decentraland.org/proposal/?id=fe96cc60-182b-11ee-93a7-ed9294f83f74) (Higher Tier)
+
+* Yes 82.30249571084086% 4,450,291 VP (129 votes)
+* No 15.328142635508671% 828,829 VP (10 votes)
+* Abstain 2.369361653650469% 128,117 VP (5 votes)
 
 
 #### [Continued Development of Soul Magic](https://governance.decentraland.org/proposal/?id=f3874400-1743-11ee-93a7-ed9294f83f74) (Higher Tier)
@@ -110,6 +131,8 @@ Since July 1, 3 grants have been approved and the vesting contract(s) will be es
 
 ## Grants
 
+* [The Whale Tank - A Metaverse Funding Experience ](https://governance.decentraland.org/proposal/?id=62fca700-2368-11ee-8ace-3bf098daeebe) (Higher Tier)
+* [Blockchain Social, Social Media Content Generation - Decentraland](https://governance.decentraland.org/proposal/?id=dcfc1f80-235f-11ee-8ace-3bf098daeebe) (Higher Tier)
 * [Decentraland Studios — Grant Renewal](https://governance.decentraland.org/proposal/?id=5f962e70-22ef-11ee-8ace-3bf098daeebe) (Higher Tier)
 * [Feeka Café - Wearable Asset Pipeline Tutorial Series](https://governance.decentraland.org/proposal/?id=d215f940-2244-11ee-8ace-3bf098daeebe) (Lower Tier)
 * [Butterfly Prawn Farm (BPF) Development and Expansion](https://governance.decentraland.org/proposal/?id=6c78f120-221f-11ee-8ace-3bf098daeebe) (Higher Tier)
@@ -125,11 +148,6 @@ Since July 1, 3 grants have been approved and the vesting contract(s) will be es
 * [Petaverse (Expansion) - Distributing the game across DCL](https://governance.decentraland.org/proposal/?id=6e6f54b0-19e1-11ee-a5d8-fbedad1981e4) (Higher Tier)
 * [Meta Residence Tower (re-proposing to correct category)](https://governance.decentraland.org/proposal/?id=7ffae250-193a-11ee-93a7-ed9294f83f74) (Higher Tier)
 * [Dhingia Builds HQ: Play to Build Ecosystem in Decentraland](https://governance.decentraland.org/proposal/?id=17783750-18d1-11ee-93a7-ed9294f83f74) (Higher Tier)
-* [Community NFT TCG Framework](https://governance.decentraland.org/proposal/?id=724e75e0-187c-11ee-93a7-ed9294f83f74) (Higher Tier)
-* [18+ Adult World Grant Proposal : PiXXXel](https://governance.decentraland.org/proposal/?id=a5767b00-185b-11ee-93a7-ed9294f83f74) (Higher Tier)
-* [FIRST METAVERSE ARCHITECTURE BIENNALE](https://governance.decentraland.org/proposal/?id=82250970-1836-11ee-93a7-ed9294f83f74) (Higher Tier)
-* [Doki&#39;s Pick n&#39; Mix](https://governance.decentraland.org/proposal/?id=220ce750-182d-11ee-93a7-ed9294f83f74) (Higher Tier)
-* [StoneyEye Studios -  Music &amp; Art Growth and Self-Sustainability](https://governance.decentraland.org/proposal/?id=fe96cc60-182b-11ee-93a7-ed9294f83f74) (Higher Tier)
 
 ## Names Bans
 
