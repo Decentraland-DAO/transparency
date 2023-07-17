@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -26,7 +26,21 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since July 16, 1 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since July 16, 3 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Meta Residence Tower (re-proposing to correct category)](https://governance.decentraland.org/proposal/?id=7ffae250-193a-11ee-93a7-ed9294f83f74) (Higher Tier)
+
+* Yes 79.16302919946227% 7,229,019 VP (96 votes)
+* No 12.74874033762412% 1,164,191 VP (12 votes)
+* Abstain 8.088230462913604% 738,602 VP (4 votes)
+
+
+#### [Dhingia Builds HQ: Play to Build Ecosystem in Decentraland](https://governance.decentraland.org/proposal/?id=17783750-18d1-11ee-93a7-ed9294f83f74) (Higher Tier)
+
+* Yes 62.48784960218381% 8,786,584 VP (82 votes)
+* No 33.94599974909802% 4,773,238 VP (48 votes)
+* Abstain 3.5661506487181667% 501,446 VP (5 votes)
 
 
 #### [Community NFT TCG Framework](https://governance.decentraland.org/proposal/?id=724e75e0-187c-11ee-93a7-ed9294f83f74) (Higher Tier)
@@ -47,6 +61,7 @@ Since July 16, 1 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [DCL Open Source &amp; Community Request Builds](https://governance.decentraland.org/proposal/?id=4cb34130-2425-11ee-8ace-3bf098daeebe) (Higher Tier)
 * [The Whale Tank - A Metaverse Funding Experience ](https://governance.decentraland.org/proposal/?id=62fca700-2368-11ee-8ace-3bf098daeebe) (Higher Tier)
 * [Blockchain Social, Social Media Content Generation - Decentraland](https://governance.decentraland.org/proposal/?id=dcfc1f80-235f-11ee-8ace-3bf098daeebe) (Higher Tier)
 * [Decentraland Studios — Grant Renewal](https://governance.decentraland.org/proposal/?id=5f962e70-22ef-11ee-8ace-3bf098daeebe) (Higher Tier)
@@ -62,8 +77,6 @@ Since July 16, 1 grants have been approved and the vesting contract(s) will be e
 * [Promote Decentraland Through Top Marketing Strategies](https://governance.decentraland.org/proposal/?id=83511e70-1a88-11ee-a5d8-fbedad1981e4) (Higher Tier)
 * [Crypto wallet safety from copy-paste scam and  security](https://governance.decentraland.org/proposal/?id=48ce9250-1a74-11ee-a5d8-fbedad1981e4) (Higher Tier)
 * [Petaverse (Expansion) - Distributing the game across DCL](https://governance.decentraland.org/proposal/?id=6e6f54b0-19e1-11ee-a5d8-fbedad1981e4) (Higher Tier)
-* [Meta Residence Tower (re-proposing to correct category)](https://governance.decentraland.org/proposal/?id=7ffae250-193a-11ee-93a7-ed9294f83f74) (Higher Tier)
-* [Dhingia Builds HQ: Play to Build Ecosystem in Decentraland](https://governance.decentraland.org/proposal/?id=17783750-18d1-11ee-93a7-ed9294f83f74) (Higher Tier)
 
 ## Names Bans
 

@@ -131,6 +131,7 @@ Since July 1, 6 grants have been approved and the vesting contract(s) will be es
 
 ## Grants
 
+* [DCL Open Source &amp; Community Request Builds](https://governance.decentraland.org/proposal/?id=4cb34130-2425-11ee-8ace-3bf098daeebe) (Higher Tier)
 * [The Whale Tank - A Metaverse Funding Experience ](https://governance.decentraland.org/proposal/?id=62fca700-2368-11ee-8ace-3bf098daeebe) (Higher Tier)
 * [Blockchain Social, Social Media Content Generation - Decentraland](https://governance.decentraland.org/proposal/?id=dcfc1f80-235f-11ee-8ace-3bf098daeebe) (Higher Tier)
 * [Decentraland Studios — Grant Renewal](https://governance.decentraland.org/proposal/?id=5f962e70-22ef-11ee-8ace-3bf098daeebe) (Higher Tier)
@@ -146,8 +147,6 @@ Since July 1, 6 grants have been approved and the vesting contract(s) will be es
 * [Promote Decentraland Through Top Marketing Strategies](https://governance.decentraland.org/proposal/?id=83511e70-1a88-11ee-a5d8-fbedad1981e4) (Higher Tier)
 * [Crypto wallet safety from copy-paste scam and  security](https://governance.decentraland.org/proposal/?id=48ce9250-1a74-11ee-a5d8-fbedad1981e4) (Higher Tier)
 * [Petaverse (Expansion) - Distributing the game across DCL](https://governance.decentraland.org/proposal/?id=6e6f54b0-19e1-11ee-a5d8-fbedad1981e4) (Higher Tier)
-* [Meta Residence Tower (re-proposing to correct category)](https://governance.decentraland.org/proposal/?id=7ffae250-193a-11ee-93a7-ed9294f83f74) (Higher Tier)
-* [Dhingia Builds HQ: Play to Build Ecosystem in Decentraland](https://governance.decentraland.org/proposal/?id=17783750-18d1-11ee-93a7-ed9294f83f74) (Higher Tier)
 
 ## Names Bans
 
