@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 6 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 6 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -87,39 +87,11 @@ Since July 1, 6 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
-#### [Published Worlds Different Surrounds Options](https://governance.decentraland.org/proposal/?id=501194c0-1efe-11ee-9bcb-ff4f8c446533)
-
-* Yes 47.357968305511406% 1,666,095 VP (75 votes)
-* No 52.60982670132185% 1,850,860 VP (29 votes)
-* Invalid question/options 0.03220499316674284% 1,133 VP (3 votes)
-
-
-#### [Feature request for Worlds to be added to My Assets &amp; Collectibles submenu &amp; names in the marketplace to display if they have a deployed World along with the link](https://governance.decentraland.org/proposal/?id=0695d830-1eed-11ee-9bcb-ff4f8c446533)
-
-* Yes 18.951741600973314% 678,692 VP (42 votes)
-* No 52.13186568929221% 1,866,925 VP (39 votes)
-* Invalid question/options 28.916392709734474% 1,035,542 VP (14 votes)
-
-
 #### [Add Ethereum Name Service (ENS) to Builder for Publishing Worlds](https://governance.decentraland.org/proposal/?id=250c1b80-1de9-11ee-9bcb-ff4f8c446533)
 
 * Yes 65.32745074198236% 3,497,699 VP (109 votes)
 * No 34.65844792302277% 1,855,649 VP (20 votes)
 * Invalid question/options 0.014101334994862817% 755 VP (1 votes)
-
-
-#### [1% Strategic Diversification of DCL DAO Holdings](https://governance.decentraland.org/proposal/?id=2f8b4640-1dca-11ee-9bcb-ff4f8c446533)
-
-* Pursue Further 28.540354408009634% 1,028,412 VP (33 votes)
-* Don&#39;t do this 71.45964559199037% 2,574,949 VP (60 votes)
-* Invalid question/options 0% 0 VP (3 votes)
-
-
-#### [Pre-Proposal Poll for a Decentraland Slogan](https://governance.decentraland.org/proposal/?id=029ea970-1973-11ee-93a7-ed9294f83f74)
-
-* Yes, DCL Slogan 44.30090989086477% 1,748,976 VP (46 votes)
-* No not needed 55.69860884622029% 2,198,951 VP (18 votes)
-* Invalid question/options 0.0004812629149436188% 19 VP (1 votes)
 
 
 
@@ -146,7 +118,6 @@ Since July 1, 6 grants have been approved and the vesting contract(s) will be es
 * [DAO Governance Squad 2H2023 Budget Renewal](https://governance.decentraland.org/proposal/?id=7e1d76d0-1a9a-11ee-a5d8-fbedad1981e4) (Higher Tier)
 * [Promote Decentraland Through Top Marketing Strategies](https://governance.decentraland.org/proposal/?id=83511e70-1a88-11ee-a5d8-fbedad1981e4) (Higher Tier)
 * [Crypto wallet safety from copy-paste scam and  security](https://governance.decentraland.org/proposal/?id=48ce9250-1a74-11ee-a5d8-fbedad1981e4) (Higher Tier)
-* [Petaverse (Expansion) - Distributing the game across DCL](https://governance.decentraland.org/proposal/?id=6e6f54b0-19e1-11ee-a5d8-fbedad1981e4) (Higher Tier)
 
 ## Names Bans
 

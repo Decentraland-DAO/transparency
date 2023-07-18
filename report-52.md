@@ -76,7 +76,6 @@ Since July 16, 3 grants have been approved and the vesting contract(s) will be e
 * [DAO Governance Squad 2H2023 Budget Renewal](https://governance.decentraland.org/proposal/?id=7e1d76d0-1a9a-11ee-a5d8-fbedad1981e4) (Higher Tier)
 * [Promote Decentraland Through Top Marketing Strategies](https://governance.decentraland.org/proposal/?id=83511e70-1a88-11ee-a5d8-fbedad1981e4) (Higher Tier)
 * [Crypto wallet safety from copy-paste scam and  security](https://governance.decentraland.org/proposal/?id=48ce9250-1a74-11ee-a5d8-fbedad1981e4) (Higher Tier)
-* [Petaverse (Expansion) - Distributing the game across DCL](https://governance.decentraland.org/proposal/?id=6e6f54b0-19e1-11ee-a5d8-fbedad1981e4) (Higher Tier)
 
 ## Names Bans
 
