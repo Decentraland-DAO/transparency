@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -26,7 +26,14 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since July 16, 3 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since July 16, 4 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [DAO Governance Squad 2H2023 Budget Renewal](https://governance.decentraland.org/proposal/?id=7e1d76d0-1a9a-11ee-a5d8-fbedad1981e4) (Higher Tier)
+
+* Yes 98.03334689231268% 9,567,888 VP (166 votes)
+* No 1.74186435624391% 170,003 VP (3 votes)
+* Abstain 0.22478875144341653% 21,939 VP (8 votes)
 
 
 #### [Meta Residence Tower (re-proposing to correct category)](https://governance.decentraland.org/proposal/?id=7ffae250-193a-11ee-93a7-ed9294f83f74) (Higher Tier)
@@ -52,6 +59,13 @@ Since July 16, 3 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+#### [Should the DAO Reward Genesis City Scenes That Drive Engagement?](https://governance.decentraland.org/proposal/?id=b4a0ec40-222a-11ee-8ace-3bf098daeebe)
+
+* Yes 80.01735430852462% 3,036,677 VP (95 votes)
+* No 19.982645691475387% 758,346 VP (16 votes)
+* Invalid question/options 0% 0 VP (1 votes)
+
+
 
 # Active Proposals
 
@@ -73,9 +87,6 @@ Since July 16, 3 grants have been approved and the vesting contract(s) will be e
 * [DCL Virtual Library – Expansion of Courses, Questing, and Rewards](https://governance.decentraland.org/proposal/?id=29131a00-1c16-11ee-9bcb-ff4f8c446533) (Higher Tier)
 * [DCL-Edit V3- A No Code Editor for the Decentraland SDK 7](https://governance.decentraland.org/proposal/?id=bdd44150-1c11-11ee-9bcb-ff4f8c446533) (Higher Tier)
 * [All Time High Fest: A Gamified Metaverse Music Festival in November](https://governance.decentraland.org/proposal/?id=844fe620-1c0f-11ee-9bcb-ff4f8c446533) (Higher Tier)
-* [DAO Governance Squad 2H2023 Budget Renewal](https://governance.decentraland.org/proposal/?id=7e1d76d0-1a9a-11ee-a5d8-fbedad1981e4) (Higher Tier)
-* [Promote Decentraland Through Top Marketing Strategies](https://governance.decentraland.org/proposal/?id=83511e70-1a88-11ee-a5d8-fbedad1981e4) (Higher Tier)
-* [Crypto wallet safety from copy-paste scam and  security](https://governance.decentraland.org/proposal/?id=48ce9250-1a74-11ee-a5d8-fbedad1981e4) (Higher Tier)
 
 ## Names Bans
 
@@ -85,6 +96,5 @@ Since July 16, 3 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
-* [Should the DAO Reward Genesis City Scenes That Drive Engagement?](https://governance.decentraland.org/proposal/?id=b4a0ec40-222a-11ee-8ace-3bf098daeebe)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
