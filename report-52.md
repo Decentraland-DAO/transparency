@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -26,7 +26,14 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since July 16, 4 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since July 16, 5 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [DCL-Edit V3- A No Code Editor for the Decentraland SDK 7](https://governance.decentraland.org/proposal/?id=bdd44150-1c11-11ee-9bcb-ff4f8c446533) (Higher Tier)
+
+* Yes 96.91620244154255% 5,495,170 VP (106 votes)
+* No 2.9982246982463208% 170,000 VP (3 votes)
+* Abstain 0.08557286021112441% 4,852 VP (5 votes)
 
 
 #### [DAO Governance Squad 2H2023 Budget Renewal](https://governance.decentraland.org/proposal/?id=7e1d76d0-1a9a-11ee-a5d8-fbedad1981e4) (Higher Tier)
@@ -71,6 +78,7 @@ Since July 16, 4 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
+* 136, 130: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=72d24490-2661-11ee-a12f-1f19cf585630)
 * 86, -33: [PARCEL PARTY](https://governance.decentraland.org/proposal/?id=265afc60-224c-11ee-8ace-3bf098daeebe)
 
 ## Grants
@@ -84,9 +92,6 @@ Since July 16, 4 grants have been approved and the vesting contract(s) will be e
 * [Decentraland Sports Events in Hong Kong](https://governance.decentraland.org/proposal/?id=8443eac0-209a-11ee-b5f5-f3f361e3b760) (Lower Tier)
 * [DCL_Brasil (re-proposing to correct category)](https://governance.decentraland.org/proposal/?id=0e970750-2052-11ee-b5f5-f3f361e3b760) (Higher Tier)
 * [DCL Community Celebration and DAO Engagement-Focused Content Creation](https://governance.decentraland.org/proposal/?id=a4507de0-2038-11ee-b5f5-f3f361e3b760) (Higher Tier)
-* [DCL Virtual Library – Expansion of Courses, Questing, and Rewards](https://governance.decentraland.org/proposal/?id=29131a00-1c16-11ee-9bcb-ff4f8c446533) (Higher Tier)
-* [DCL-Edit V3- A No Code Editor for the Decentraland SDK 7](https://governance.decentraland.org/proposal/?id=bdd44150-1c11-11ee-9bcb-ff4f8c446533) (Higher Tier)
-* [All Time High Fest: A Gamified Metaverse Music Festival in November](https://governance.decentraland.org/proposal/?id=844fe620-1c0f-11ee-9bcb-ff4f8c446533) (Higher Tier)
 
 ## Names Bans
 
@@ -96,5 +101,9 @@ Since July 16, 4 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Should community member jar0d be permanently banned from the Decentraland DAO Discord server?](https://governance.decentraland.org/proposal/?id=d463ba10-2687-11ee-a12f-1f19cf585630)
+* [Remove Jar0d from all Decentraland Platforms Including Discord, Forum &amp; Socials.](https://governance.decentraland.org/proposal/?id=c538ba50-2681-11ee-a12f-1f19cf585630)
+* [Remove kanwulf from Decentraland DAO Discord Mod Position](https://governance.decentraland.org/proposal/?id=02bd2ab0-2668-11ee-a12f-1f19cf585630)
+* [Vote for the Game Jam &#39;23 Community Choice Award ](https://governance.decentraland.org/proposal/?id=d7e8bc90-264f-11ee-a12f-1f19cf585630)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

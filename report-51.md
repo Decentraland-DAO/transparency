@@ -99,6 +99,7 @@ Since July 1, 6 grants have been approved and the vesting contract(s) will be es
 
 ## Points of Interest
 
+* 136, 130: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=72d24490-2661-11ee-a12f-1f19cf585630)
 * 86, -33: [PARCEL PARTY](https://governance.decentraland.org/proposal/?id=265afc60-224c-11ee-8ace-3bf098daeebe)
 
 ## Grants
@@ -112,9 +113,6 @@ Since July 1, 6 grants have been approved and the vesting contract(s) will be es
 * [Decentraland Sports Events in Hong Kong](https://governance.decentraland.org/proposal/?id=8443eac0-209a-11ee-b5f5-f3f361e3b760) (Lower Tier)
 * [DCL_Brasil (re-proposing to correct category)](https://governance.decentraland.org/proposal/?id=0e970750-2052-11ee-b5f5-f3f361e3b760) (Higher Tier)
 * [DCL Community Celebration and DAO Engagement-Focused Content Creation](https://governance.decentraland.org/proposal/?id=a4507de0-2038-11ee-b5f5-f3f361e3b760) (Higher Tier)
-* [DCL Virtual Library – Expansion of Courses, Questing, and Rewards](https://governance.decentraland.org/proposal/?id=29131a00-1c16-11ee-9bcb-ff4f8c446533) (Higher Tier)
-* [DCL-Edit V3- A No Code Editor for the Decentraland SDK 7](https://governance.decentraland.org/proposal/?id=bdd44150-1c11-11ee-9bcb-ff4f8c446533) (Higher Tier)
-* [All Time High Fest: A Gamified Metaverse Music Festival in November](https://governance.decentraland.org/proposal/?id=844fe620-1c0f-11ee-9bcb-ff4f8c446533) (Higher Tier)
 
 ## Names Bans
 
@@ -124,5 +122,9 @@ Since July 1, 6 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+* [Should community member jar0d be permanently banned from the Decentraland DAO Discord server?](https://governance.decentraland.org/proposal/?id=d463ba10-2687-11ee-a12f-1f19cf585630)
+* [Remove Jar0d from all Decentraland Platforms Including Discord, Forum &amp; Socials.](https://governance.decentraland.org/proposal/?id=c538ba50-2681-11ee-a12f-1f19cf585630)
+* [Remove kanwulf from Decentraland DAO Discord Mod Position](https://governance.decentraland.org/proposal/?id=02bd2ab0-2668-11ee-a12f-1f19cf585630)
+* [Vote for the Game Jam &#39;23 Community Choice Award ](https://governance.decentraland.org/proposal/?id=d7e8bc90-264f-11ee-a12f-1f19cf585630)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
