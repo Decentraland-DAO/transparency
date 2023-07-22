@@ -9,12 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+1 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 86, -33: [PARCEL PARTY](https://governance.decentraland.org/proposal/?id=265afc60-224c-11ee-8ace-3bf098daeebe)
+
+* Yes 99.8627338442763% 5,660,041 VP (118 votes)
+* No 0.0017819899393435325% 101 VP (5 votes)
+* Abstain 0.1354841657843464% 7,679 VP (18 votes)
 
 
 ## Name Bans
@@ -79,7 +86,6 @@ Since July 16, 5 grants have been approved and the vesting contract(s) will be e
 ## Points of Interest
 
 * 136, 130: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=72d24490-2661-11ee-a12f-1f19cf585630)
-* 86, -33: [PARCEL PARTY](https://governance.decentraland.org/proposal/?id=265afc60-224c-11ee-8ace-3bf098daeebe)
 
 ## Grants
 
@@ -101,6 +107,7 @@ Since July 16, 5 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Improved mechanism for DAO Discord Moderation Mute Votes](https://governance.decentraland.org/proposal/?id=c39a5a60-2833-11ee-8e2a-0990078ddc40)
 * [Should community member jar0d be permanently banned from the Decentraland DAO Discord server?](https://governance.decentraland.org/proposal/?id=d463ba10-2687-11ee-a12f-1f19cf585630)
 * [Remove Jar0d from all Decentraland Platforms Including Discord, Forum &amp; Socials.](https://governance.decentraland.org/proposal/?id=c538ba50-2681-11ee-a12f-1f19cf585630)
 * [Remove kanwulf from Decentraland DAO Discord Mod Position](https://governance.decentraland.org/proposal/?id=02bd2ab0-2668-11ee-a12f-1f19cf585630)
