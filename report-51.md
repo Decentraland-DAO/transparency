@@ -99,10 +99,12 @@ Since July 1, 6 grants have been approved and the vesting contract(s) will be es
 
 ## Points of Interest
 
+* -145, 113: [XETAPLEX](https://governance.decentraland.org/proposal/?id=f811f3b0-2ab4-11ee-8fbb-d9eddf5c2b3f)
 * 136, 130: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=72d24490-2661-11ee-a12f-1f19cf585630)
 
 ## Grants
 
+* [CREATING A FAMOUS HOUSE (Free Download)!](https://governance.decentraland.org/proposal/?id=40661fa0-2a57-11ee-8fbb-d9eddf5c2b3f) (Lower Tier)
 * [The mobile game QUANTUMSPACE, portal in the NFT Gallery QNTUM.SPACE in DCL.](https://governance.decentraland.org/proposal/?id=dc5860d0-28c2-11ee-8e2a-0990078ddc40) (Higher Tier)
 * [DCL Open Source &amp; Community Request Builds](https://governance.decentraland.org/proposal/?id=4cb34130-2425-11ee-8ace-3bf098daeebe) (Higher Tier)
 * [The Whale Tank - A Metaverse Funding Experience ](https://governance.decentraland.org/proposal/?id=62fca700-2368-11ee-8ace-3bf098daeebe) (Higher Tier)
@@ -116,16 +118,30 @@ Since July 1, 6 grants have been approved and the vesting contract(s) will be es
 
 ## Names Bans
 
+* [Ban the name Whore](https://governance.decentraland.org/proposal/?id=5acefa40-2ac2-11ee-8fbb-d9eddf5c2b3f)
+* [Ban the name Prostitute](https://governance.decentraland.org/proposal/?id=8e9e2e50-2ac1-11ee-8fbb-d9eddf5c2b3f)
+* [Ban the name Slut](https://governance.decentraland.org/proposal/?id=638ace80-2ac1-11ee-8fbb-d9eddf5c2b3f)
+* [Ban the name Lesbian](https://governance.decentraland.org/proposal/?id=296406e0-2ac1-11ee-8fbb-d9eddf5c2b3f)
+* [Ban the name Gay](https://governance.decentraland.org/proposal/?id=0e68d4b0-2ac1-11ee-8fbb-d9eddf5c2b3f)
+* [Ban the name Queer](https://governance.decentraland.org/proposal/?id=b851f390-2ac0-11ee-8fbb-d9eddf5c2b3f)
+* [Ban the name Bisexual](https://governance.decentraland.org/proposal/?id=d10cf9c0-2ac0-11ee-8fbb-d9eddf5c2b3f)
+* [Ban the name Bigot](https://governance.decentraland.org/proposal/?id=8db21610-2ac0-11ee-8fbb-d9eddf5c2b3f)
+* [Ban the name Faggot](https://governance.decentraland.org/proposal/?id=77786390-2ac0-11ee-8fbb-d9eddf5c2b3f)
+* [Ban the name Homosexuals](https://governance.decentraland.org/proposal/?id=4a0c6dc0-2ac0-11ee-8fbb-d9eddf5c2b3f)
+* [Ban the name Fag](https://governance.decentraland.org/proposal/?id=6704f690-2ac0-11ee-8fbb-d9eddf5c2b3f)
+* [Ban the name Homo](https://governance.decentraland.org/proposal/?id=2723a940-2ac0-11ee-8fbb-d9eddf5c2b3f)
+* [Ban the name Trans](https://governance.decentraland.org/proposal/?id=0266c100-2ac0-11ee-8fbb-d9eddf5c2b3f)
+* [Ban the name Tranny](https://governance.decentraland.org/proposal/?id=e5b41ad0-2abf-11ee-8fbb-d9eddf5c2b3f)
+* [Ban the name Transgender](https://governance.decentraland.org/proposal/?id=cbb65b70-2abf-11ee-8fbb-d9eddf5c2b3f)
+* [Ban the name Shemale](https://governance.decentraland.org/proposal/?id=70649dd0-2a70-11ee-8fbb-d9eddf5c2b3f)
+* [Ban the name Ladyboy](https://governance.decentraland.org/proposal/?id=3d666ad0-2a70-11ee-8fbb-d9eddf5c2b3f)
 
 ## Catalysts
 
 
 ## Polls
 
+* [Diversify 5-10% of the DCLDAO Treasury for permanent on-chain income](https://governance.decentraland.org/proposal/?id=aeb62530-2a35-11ee-8e2a-0990078ddc40)
 * [Improved mechanism for DAO Discord Moderation Mute Votes](https://governance.decentraland.org/proposal/?id=c39a5a60-2833-11ee-8e2a-0990078ddc40)
-* [Should community member jar0d be permanently banned from the Decentraland DAO Discord server?](https://governance.decentraland.org/proposal/?id=d463ba10-2687-11ee-a12f-1f19cf585630)
-* [Remove Jar0d from all Decentraland Platforms Including Discord, Forum &amp; Socials.](https://governance.decentraland.org/proposal/?id=c538ba50-2681-11ee-a12f-1f19cf585630)
-* [Remove kanwulf from Decentraland DAO Discord Mod Position](https://governance.decentraland.org/proposal/?id=02bd2ab0-2668-11ee-a12f-1f19cf585630)
-* [Vote for the Game Jam &#39;23 Community Choice Award ](https://governance.decentraland.org/proposal/?id=d7e8bc90-264f-11ee-a12f-1f19cf585630)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
