@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 6 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -33,7 +33,14 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since July 16, 5 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since July 16, 6 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [DCL_Brasil (re-proposing to correct category)](https://governance.decentraland.org/proposal/?id=0e970750-2052-11ee-b5f5-f3f361e3b760) (Higher Tier)
+
+* Yes 85.16239140316121% 5,958,012 VP (163 votes)
+* No 14.652118478114826% 1,025,071 VP (9 votes)
+* Abstain 0.18549011872396748% 12,977 VP (4 votes)
 
 
 #### [DCL-Edit V3- A No Code Editor for the Decentraland SDK 7](https://governance.decentraland.org/proposal/?id=bdd44150-1c11-11ee-9bcb-ff4f8c446533) (Higher Tier)
@@ -145,12 +152,14 @@ Since July 16, 5 grants have been approved and the vesting contract(s) will be e
 * [Decentraland Studios — Grant Renewal](https://governance.decentraland.org/proposal/?id=5f962e70-22ef-11ee-8ace-3bf098daeebe) (Higher Tier)
 * [Feeka Café - Wearable Asset Pipeline Tutorial Series](https://governance.decentraland.org/proposal/?id=d215f940-2244-11ee-8ace-3bf098daeebe) (Lower Tier)
 * [Butterfly Prawn Farm (BPF) Development and Expansion](https://governance.decentraland.org/proposal/?id=6c78f120-221f-11ee-8ace-3bf098daeebe) (Higher Tier)
-* [Decentraland Sports Events in Hong Kong](https://governance.decentraland.org/proposal/?id=8443eac0-209a-11ee-b5f5-f3f361e3b760) (Lower Tier)
-* [DCL_Brasil (re-proposing to correct category)](https://governance.decentraland.org/proposal/?id=0e970750-2052-11ee-b5f5-f3f361e3b760) (Higher Tier)
-* [DCL Community Celebration and DAO Engagement-Focused Content Creation](https://governance.decentraland.org/proposal/?id=a4507de0-2038-11ee-b5f5-f3f361e3b760) (Higher Tier)
 
 ## Names Bans
 
+* [Ban the name Retarded](https://governance.decentraland.org/proposal/?id=ccb61690-2b1f-11ee-8fbb-d9eddf5c2b3f)
+* [Ban the name Retard](https://governance.decentraland.org/proposal/?id=ae8f46f0-2b1f-11ee-8fbb-d9eddf5c2b3f)
+* [Ban the name DragQueen](https://governance.decentraland.org/proposal/?id=4f8daed0-2b1f-11ee-8fbb-d9eddf5c2b3f)
+* [Ban the name Drag](https://governance.decentraland.org/proposal/?id=312d3190-2b1f-11ee-8fbb-d9eddf5c2b3f)
+* [Ban the name Dyke](https://governance.decentraland.org/proposal/?id=be5dfa60-2b1d-11ee-8fbb-d9eddf5c2b3f)
 * [Ban the name Whore](https://governance.decentraland.org/proposal/?id=5acefa40-2ac2-11ee-8fbb-d9eddf5c2b3f)
 * [Ban the name Prostitute](https://governance.decentraland.org/proposal/?id=8e9e2e50-2ac1-11ee-8fbb-d9eddf5c2b3f)
 * [Ban the name Slut](https://governance.decentraland.org/proposal/?id=638ace80-2ac1-11ee-8fbb-d9eddf5c2b3f)
