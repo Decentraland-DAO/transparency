@@ -9,12 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 6 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 6 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-1 points of interest have been added to Decentraland’s map since the last report.
+2 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 136, 130: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=72d24490-2661-11ee-a12f-1f19cf585630)
+
+* Yes 99.99277982187132% 5,816,611 VP (105 votes)
+* No 0.000017190900306359035% 1 VP (1 votes)
+* Abstain 0.007202987228364435% 419 VP (4 votes)
 
 
 #### 86, -33: [PARCEL PARTY](https://governance.decentraland.org/proposal/?id=265afc60-224c-11ee-8ace-3bf098daeebe)
@@ -80,6 +87,13 @@ Since July 16, 6 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+#### [Improved mechanism for DAO Discord Moderation Mute Votes](https://governance.decentraland.org/proposal/?id=c39a5a60-2833-11ee-8e2a-0990078ddc40)
+
+* Yes 2.572144727701849% 175,547 VP (41 votes)
+* No 82.89404414142452% 5,657,458 VP (74 votes)
+* Invalid question/options 14.533811130873634% 991,922 VP (20 votes)
+
+
 #### [Should community member jar0d be permanently banned from the Decentraland DAO Discord server?](https://governance.decentraland.org/proposal/?id=d463ba10-2687-11ee-a12f-1f19cf585630)
 
 * Yes, permanently ban member jar0d from the Decentraland DAO Discord server 57.33862109522553% 6,395,149 VP (118 votes)
@@ -140,7 +154,6 @@ Since July 16, 6 grants have been approved and the vesting contract(s) will be e
 ## Points of Interest
 
 * -145, 113: [XETAPLEX](https://governance.decentraland.org/proposal/?id=f811f3b0-2ab4-11ee-8fbb-d9eddf5c2b3f)
-* 136, 130: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=72d24490-2661-11ee-a12f-1f19cf585630)
 
 ## Grants
 
@@ -155,8 +168,6 @@ Since July 16, 6 grants have been approved and the vesting contract(s) will be e
 
 ## Names Bans
 
-* [Ban the name Retarded](https://governance.decentraland.org/proposal/?id=ccb61690-2b1f-11ee-8fbb-d9eddf5c2b3f)
-* [Ban the name Retard](https://governance.decentraland.org/proposal/?id=ae8f46f0-2b1f-11ee-8fbb-d9eddf5c2b3f)
 * [Ban the name DragQueen](https://governance.decentraland.org/proposal/?id=4f8daed0-2b1f-11ee-8fbb-d9eddf5c2b3f)
 * [Ban the name Drag](https://governance.decentraland.org/proposal/?id=312d3190-2b1f-11ee-8fbb-d9eddf5c2b3f)
 * [Ban the name Dyke](https://governance.decentraland.org/proposal/?id=be5dfa60-2b1d-11ee-8fbb-d9eddf5c2b3f)
@@ -167,7 +178,6 @@ Since July 16, 6 grants have been approved and the vesting contract(s) will be e
 * [Ban the name Gay](https://governance.decentraland.org/proposal/?id=0e68d4b0-2ac1-11ee-8fbb-d9eddf5c2b3f)
 * [Ban the name Queer](https://governance.decentraland.org/proposal/?id=b851f390-2ac0-11ee-8fbb-d9eddf5c2b3f)
 * [Ban the name Bisexual](https://governance.decentraland.org/proposal/?id=d10cf9c0-2ac0-11ee-8fbb-d9eddf5c2b3f)
-* [Ban the name Bigot](https://governance.decentraland.org/proposal/?id=8db21610-2ac0-11ee-8fbb-d9eddf5c2b3f)
 * [Ban the name Faggot](https://governance.decentraland.org/proposal/?id=77786390-2ac0-11ee-8fbb-d9eddf5c2b3f)
 * [Ban the name Homosexuals](https://governance.decentraland.org/proposal/?id=4a0c6dc0-2ac0-11ee-8fbb-d9eddf5c2b3f)
 * [Ban the name Fag](https://governance.decentraland.org/proposal/?id=6704f690-2ac0-11ee-8fbb-d9eddf5c2b3f)
@@ -183,7 +193,10 @@ Since July 16, 6 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [No-Code Broadcasting Tool with Analytics and Wallet-Based Content Access Capabilities](https://governance.decentraland.org/proposal/?id=7f83b4f0-2c5e-11ee-8fbb-d9eddf5c2b3f)
+* [No-Code Broadcasting Tool with Analytics and Wallet-Based Content Access Capabilities](https://governance.decentraland.org/proposal/?id=76e7ba30-2c5e-11ee-8fbb-d9eddf5c2b3f)
+* [Do you need a PR group led by DAO Times to promote Decentraland?](https://governance.decentraland.org/proposal/?id=a9148050-2c46-11ee-8fbb-d9eddf5c2b3f)
+* [DAO grants program - create the Community Building category](https://governance.decentraland.org/proposal/?id=7872fd40-2bde-11ee-8fbb-d9eddf5c2b3f)
 * [Diversify 5-10% of the DCLDAO Treasury for permanent on-chain income](https://governance.decentraland.org/proposal/?id=aeb62530-2a35-11ee-8e2a-0990078ddc40)
-* [Improved mechanism for DAO Discord Moderation Mute Votes](https://governance.decentraland.org/proposal/?id=c39a5a60-2833-11ee-8e2a-0990078ddc40)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
