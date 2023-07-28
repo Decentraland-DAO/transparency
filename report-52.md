@@ -164,7 +164,6 @@ Since July 16, 6 grants have been approved and the vesting contract(s) will be e
 * [Blockchain Social, Social Media Content Generation - Decentraland](https://governance.decentraland.org/proposal/?id=dcfc1f80-235f-11ee-8ace-3bf098daeebe) (Higher Tier)
 * [Decentraland Studios — Grant Renewal](https://governance.decentraland.org/proposal/?id=5f962e70-22ef-11ee-8ace-3bf098daeebe) (Higher Tier)
 * [Feeka Café - Wearable Asset Pipeline Tutorial Series](https://governance.decentraland.org/proposal/?id=d215f940-2244-11ee-8ace-3bf098daeebe) (Lower Tier)
-* [Butterfly Prawn Farm (BPF) Development and Expansion](https://governance.decentraland.org/proposal/?id=6c78f120-221f-11ee-8ace-3bf098daeebe) (Higher Tier)
 
 ## Names Bans
 
@@ -193,8 +192,7 @@ Since July 16, 6 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
-* [No-Code Broadcasting Tool with Analytics and Wallet-Based Content Access Capabilities](https://governance.decentraland.org/proposal/?id=7f83b4f0-2c5e-11ee-8fbb-d9eddf5c2b3f)
-* [No-Code Broadcasting Tool with Analytics and Wallet-Based Content Access Capabilities](https://governance.decentraland.org/proposal/?id=76e7ba30-2c5e-11ee-8fbb-d9eddf5c2b3f)
+* [No-Code Broadcasting Tool with Analytics and Wallet-Based Content Access Capabilities](https://governance.decentraland.org/proposal/?id=daa810e0-2c74-11ee-8fbb-d9eddf5c2b3f)
 * [Do you need a PR group led by DAO Times to promote Decentraland?](https://governance.decentraland.org/proposal/?id=a9148050-2c46-11ee-8fbb-d9eddf5c2b3f)
 * [DAO grants program - create the Community Building category](https://governance.decentraland.org/proposal/?id=7872fd40-2bde-11ee-8fbb-d9eddf5c2b3f)
 * [Diversify 5-10% of the DCLDAO Treasury for permanent on-chain income](https://governance.decentraland.org/proposal/?id=aeb62530-2a35-11ee-8e2a-0990078ddc40)
