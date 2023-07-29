@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 6 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 8 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -40,7 +40,21 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since July 16, 6 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since July 16, 8 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Decentraland Studios — Grant Renewal](https://governance.decentraland.org/proposal/?id=5f962e70-22ef-11ee-8ace-3bf098daeebe) (Higher Tier)
+
+* Yes 69.62344992103843% 5,224,300 VP (145 votes)
+* No 12.40128470810872% 930,549 VP (14 votes)
+* Abstain 17.975265370852853% 1,348,801 VP (11 votes)
+
+
+#### [Feeka Café - Wearable Asset Pipeline Tutorial Series](https://governance.decentraland.org/proposal/?id=d215f940-2244-11ee-8ace-3bf098daeebe) (Lower Tier)
+
+* Yes 87.53621036412692% 9,267,238 VP (146 votes)
+* No 12.268819471286179% 1,298,869 VP (9 votes)
+* Abstain 0.19497016458689675% 20,641 VP (11 votes)
 
 
 #### [DCL_Brasil (re-proposing to correct category)](https://governance.decentraland.org/proposal/?id=0e970750-2052-11ee-b5f5-f3f361e3b760) (Higher Tier)
@@ -87,13 +101,6 @@ Since July 16, 6 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
-#### [Improved mechanism for DAO Discord Moderation Mute Votes](https://governance.decentraland.org/proposal/?id=c39a5a60-2833-11ee-8e2a-0990078ddc40)
-
-* Yes 2.572144727701849% 175,547 VP (41 votes)
-* No 82.89404414142452% 5,657,458 VP (74 votes)
-* Invalid question/options 14.533811130873634% 991,922 VP (20 votes)
-
-
 #### [Should community member jar0d be permanently banned from the Decentraland DAO Discord server?](https://governance.decentraland.org/proposal/?id=d463ba10-2687-11ee-a12f-1f19cf585630)
 
 * Yes, permanently ban member jar0d from the Decentraland DAO Discord server 57.33862109522553% 6,395,149 VP (118 votes)
@@ -106,13 +113,6 @@ Since July 16, 6 grants have been approved and the vesting contract(s) will be e
 * Yes 53.031474412408855% 5,735,897 VP (102 votes)
 * No 5.195587583755361% 561,956 VP (15 votes)
 * Invalid question/options 41.77293800383579% 4,518,171 VP (35 votes)
-
-
-#### [Remove kanwulf from Decentraland DAO Discord Mod Position](https://governance.decentraland.org/proposal/?id=02bd2ab0-2668-11ee-a12f-1f19cf585630)
-
-* Yes 10.9902335053163% 467,472 VP (33 votes)
-* No 53.524467488354354% 2,276,675 VP (68 votes)
-* Invalid question/options 35.48529900632934% 1,509,375 VP (24 votes)
 
 
 #### [Vote for the Game Jam &#39;23 Community Choice Award ](https://governance.decentraland.org/proposal/?id=d7e8bc90-264f-11ee-a12f-1f19cf585630)
@@ -157,13 +157,13 @@ Since July 16, 6 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [Creativity &amp; Growth - Sandstorm Creator platform](https://governance.decentraland.org/proposal/?id=fdae4090-2db5-11ee-a512-65477fceb1b0) (Higher Tier)
+* [Digital Persona](https://governance.decentraland.org/proposal/?id=8734b1c0-2d82-11ee-a512-65477fceb1b0) (Lower Tier)
 * [CREATING A FAMOUS HOUSE (Free Download)!](https://governance.decentraland.org/proposal/?id=40661fa0-2a57-11ee-8fbb-d9eddf5c2b3f) (Lower Tier)
 * [The mobile game QUANTUMSPACE, portal in the NFT Gallery QNTUM.SPACE in DCL.](https://governance.decentraland.org/proposal/?id=dc5860d0-28c2-11ee-8e2a-0990078ddc40) (Higher Tier)
 * [DCL Open Source &amp; Community Request Builds](https://governance.decentraland.org/proposal/?id=4cb34130-2425-11ee-8ace-3bf098daeebe) (Higher Tier)
 * [The Whale Tank - A Metaverse Funding Experience ](https://governance.decentraland.org/proposal/?id=62fca700-2368-11ee-8ace-3bf098daeebe) (Higher Tier)
 * [Blockchain Social, Social Media Content Generation - Decentraland](https://governance.decentraland.org/proposal/?id=dcfc1f80-235f-11ee-8ace-3bf098daeebe) (Higher Tier)
-* [Decentraland Studios — Grant Renewal](https://governance.decentraland.org/proposal/?id=5f962e70-22ef-11ee-8ace-3bf098daeebe) (Higher Tier)
-* [Feeka Café - Wearable Asset Pipeline Tutorial Series](https://governance.decentraland.org/proposal/?id=d215f940-2244-11ee-8ace-3bf098daeebe) (Lower Tier)
 
 ## Names Bans
 
@@ -192,6 +192,9 @@ Since July 16, 6 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [HPrivakos had an alt-account to spread toxicity](https://governance.decentraland.org/proposal/?id=a812a4f0-2dec-11ee-a512-65477fceb1b0)
+* [should the pre-poll proposals be restricted to polls initial creator for draft &amp; binding stages if it&#39;s a pass](https://governance.decentraland.org/proposal/?id=74161df0-2dae-11ee-a512-65477fceb1b0)
+* [NAMEs used for a webpage](https://governance.decentraland.org/proposal/?id=75295590-2d54-11ee-a512-65477fceb1b0)
 * [No-Code Broadcasting Tool with Analytics and Wallet-Based Content Access Capabilities](https://governance.decentraland.org/proposal/?id=daa810e0-2c74-11ee-8fbb-d9eddf5c2b3f)
 * [Do you need a PR group led by DAO Times to promote Decentraland?](https://governance.decentraland.org/proposal/?id=a9148050-2c46-11ee-8fbb-d9eddf5c2b3f)
 * [DAO grants program - create the Community Building category](https://governance.decentraland.org/proposal/?id=7872fd40-2bde-11ee-8fbb-d9eddf5c2b3f)
