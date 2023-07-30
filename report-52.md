@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 8 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 9 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -40,7 +40,14 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since July 16, 8 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since July 16, 9 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Blockchain Social, Social Media Content Generation - Decentraland](https://governance.decentraland.org/proposal/?id=dcfc1f80-235f-11ee-8ace-3bf098daeebe) (Higher Tier)
+
+* Yes 65.19441909944074% 5,491,101 VP (92 votes)
+* No 28.733136997775645% 2,420,093 VP (61 votes)
+* Abstain 6.072443902783623% 511,461 VP (17 votes)
 
 
 #### [Decentraland Studios — Grant Renewal](https://governance.decentraland.org/proposal/?id=5f962e70-22ef-11ee-8ace-3bf098daeebe) (Higher Tier)
@@ -162,14 +169,11 @@ Since July 16, 8 grants have been approved and the vesting contract(s) will be e
 * [CREATING A FAMOUS HOUSE (Free Download)!](https://governance.decentraland.org/proposal/?id=40661fa0-2a57-11ee-8fbb-d9eddf5c2b3f) (Lower Tier)
 * [The mobile game QUANTUMSPACE, portal in the NFT Gallery QNTUM.SPACE in DCL.](https://governance.decentraland.org/proposal/?id=dc5860d0-28c2-11ee-8e2a-0990078ddc40) (Higher Tier)
 * [DCL Open Source &amp; Community Request Builds](https://governance.decentraland.org/proposal/?id=4cb34130-2425-11ee-8ace-3bf098daeebe) (Higher Tier)
-* [The Whale Tank - A Metaverse Funding Experience ](https://governance.decentraland.org/proposal/?id=62fca700-2368-11ee-8ace-3bf098daeebe) (Higher Tier)
-* [Blockchain Social, Social Media Content Generation - Decentraland](https://governance.decentraland.org/proposal/?id=dcfc1f80-235f-11ee-8ace-3bf098daeebe) (Higher Tier)
 
 ## Names Bans
 
 * [Ban the name DragQueen](https://governance.decentraland.org/proposal/?id=4f8daed0-2b1f-11ee-8fbb-d9eddf5c2b3f)
 * [Ban the name Drag](https://governance.decentraland.org/proposal/?id=312d3190-2b1f-11ee-8fbb-d9eddf5c2b3f)
-* [Ban the name Dyke](https://governance.decentraland.org/proposal/?id=be5dfa60-2b1d-11ee-8fbb-d9eddf5c2b3f)
 * [Ban the name Whore](https://governance.decentraland.org/proposal/?id=5acefa40-2ac2-11ee-8fbb-d9eddf5c2b3f)
 * [Ban the name Prostitute](https://governance.decentraland.org/proposal/?id=8e9e2e50-2ac1-11ee-8fbb-d9eddf5c2b3f)
 * [Ban the name Slut](https://governance.decentraland.org/proposal/?id=638ace80-2ac1-11ee-8fbb-d9eddf5c2b3f)
@@ -177,9 +181,7 @@ Since July 16, 8 grants have been approved and the vesting contract(s) will be e
 * [Ban the name Gay](https://governance.decentraland.org/proposal/?id=0e68d4b0-2ac1-11ee-8fbb-d9eddf5c2b3f)
 * [Ban the name Queer](https://governance.decentraland.org/proposal/?id=b851f390-2ac0-11ee-8fbb-d9eddf5c2b3f)
 * [Ban the name Bisexual](https://governance.decentraland.org/proposal/?id=d10cf9c0-2ac0-11ee-8fbb-d9eddf5c2b3f)
-* [Ban the name Faggot](https://governance.decentraland.org/proposal/?id=77786390-2ac0-11ee-8fbb-d9eddf5c2b3f)
 * [Ban the name Homosexuals](https://governance.decentraland.org/proposal/?id=4a0c6dc0-2ac0-11ee-8fbb-d9eddf5c2b3f)
-* [Ban the name Fag](https://governance.decentraland.org/proposal/?id=6704f690-2ac0-11ee-8fbb-d9eddf5c2b3f)
 * [Ban the name Homo](https://governance.decentraland.org/proposal/?id=2723a940-2ac0-11ee-8fbb-d9eddf5c2b3f)
 * [Ban the name Trans](https://governance.decentraland.org/proposal/?id=0266c100-2ac0-11ee-8fbb-d9eddf5c2b3f)
 * [Ban the name Tranny](https://governance.decentraland.org/proposal/?id=e5b41ad0-2abf-11ee-8fbb-d9eddf5c2b3f)
@@ -192,12 +194,12 @@ Since July 16, 8 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Do you think the DAO is inherently corrupt and toxic? ](https://governance.decentraland.org/proposal/?id=ad673280-2e10-11ee-a512-65477fceb1b0)
 * [HPrivakos had an alt-account to spread toxicity](https://governance.decentraland.org/proposal/?id=a812a4f0-2dec-11ee-a512-65477fceb1b0)
 * [should the pre-poll proposals be restricted to polls initial creator for draft &amp; binding stages if it&#39;s a pass](https://governance.decentraland.org/proposal/?id=74161df0-2dae-11ee-a512-65477fceb1b0)
 * [NAMEs used for a webpage](https://governance.decentraland.org/proposal/?id=75295590-2d54-11ee-a512-65477fceb1b0)
 * [No-Code Broadcasting Tool with Analytics and Wallet-Based Content Access Capabilities](https://governance.decentraland.org/proposal/?id=daa810e0-2c74-11ee-8fbb-d9eddf5c2b3f)
 * [Do you need a PR group led by DAO Times to promote Decentraland?](https://governance.decentraland.org/proposal/?id=a9148050-2c46-11ee-8fbb-d9eddf5c2b3f)
 * [DAO grants program - create the Community Building category](https://governance.decentraland.org/proposal/?id=7872fd40-2bde-11ee-8fbb-d9eddf5c2b3f)
-* [Diversify 5-10% of the DCLDAO Treasury for permanent on-chain income](https://governance.decentraland.org/proposal/?id=aeb62530-2a35-11ee-8e2a-0990078ddc40)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
