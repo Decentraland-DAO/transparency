@@ -107,7 +107,6 @@ Since July 1, 6 grants have been approved and the vesting contract(s) will be es
 * [Digital Persona](https://governance.decentraland.org/proposal/?id=8734b1c0-2d82-11ee-a512-65477fceb1b0) (Lower Tier)
 * [CREATING A FAMOUS HOUSE (Free Download)!](https://governance.decentraland.org/proposal/?id=40661fa0-2a57-11ee-8fbb-d9eddf5c2b3f) (Lower Tier)
 * [The mobile game QUANTUMSPACE, portal in the NFT Gallery QNTUM.SPACE in DCL.](https://governance.decentraland.org/proposal/?id=dc5860d0-28c2-11ee-8e2a-0990078ddc40) (Higher Tier)
-* [DCL Open Source &amp; Community Request Builds](https://governance.decentraland.org/proposal/?id=4cb34130-2425-11ee-8ace-3bf098daeebe) (Higher Tier)
 
 ## Names Bans
 
@@ -133,6 +132,7 @@ Since July 1, 6 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+* [Would you join an Unofficial DAO Discord server?](https://governance.decentraland.org/proposal/?id=441a7810-2f18-11ee-a512-65477fceb1b0)
 * [Do you think the DAO is inherently corrupt and toxic? ](https://governance.decentraland.org/proposal/?id=ad673280-2e10-11ee-a512-65477fceb1b0)
 * [HPrivakos had an alt-account to spread toxicity](https://governance.decentraland.org/proposal/?id=a812a4f0-2dec-11ee-a512-65477fceb1b0)
 * [should the pre-poll proposals be restricted to polls initial creator for draft &amp; binding stages if it&#39;s a pass](https://governance.decentraland.org/proposal/?id=74161df0-2dae-11ee-a512-65477fceb1b0)
