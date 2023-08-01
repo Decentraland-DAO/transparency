@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 9 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 9 grant proposals were approved, 1 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -33,7 +33,7 @@ In the two weeks since the last DAO Committee report, 2 points of interest (POI)
 
 ## Name Bans
 
-No names have been banned since the previous report.
+1 names have been banned since the previous report. To see the recently banned names, visit [governance.decentraland.org](https://governance.decentraland.org/) and filter proposals by “Name Ban”.
 
 ## Catalyst Nodes
 No Catalyst nodes have been added since the previous report.
@@ -108,6 +108,13 @@ Since July 16, 9 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+#### [DAO grants program - create the Community Building category](https://governance.decentraland.org/proposal/?id=7872fd40-2bde-11ee-8fbb-d9eddf5c2b3f)
+
+* Yes - Add the Community Building category 92.06474035517388% 6,076,979 VP (99 votes)
+* No - Do not create the Community Building category 7.912595611994789% 522,292 VP (13 votes)
+* Invalid question/options 0.022664032831336115% 1,496 VP (5 votes)
+
+
 #### [Should community member jar0d be permanently banned from the Decentraland DAO Discord server?](https://governance.decentraland.org/proposal/?id=d463ba10-2687-11ee-a12f-1f19cf585630)
 
 * Yes, permanently ban member jar0d from the Decentraland DAO Discord server 57.33862109522553% 6,395,149 VP (118 votes)
@@ -160,10 +167,10 @@ Since July 16, 9 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
-* -145, 113: [XETAPLEX](https://governance.decentraland.org/proposal/?id=f811f3b0-2ab4-11ee-8fbb-d9eddf5c2b3f)
 
 ## Grants
 
+* [Decentraland University Live Teaching Platform](https://governance.decentraland.org/proposal/?id=527ec930-2fde-11ee-a512-65477fceb1b0) (Higher Tier)
 * [Creativity &amp; Growth - Sandstorm Creator platform](https://governance.decentraland.org/proposal/?id=fdae4090-2db5-11ee-a512-65477fceb1b0) (Higher Tier)
 * [Digital Persona](https://governance.decentraland.org/proposal/?id=8734b1c0-2d82-11ee-a512-65477fceb1b0) (Lower Tier)
 * [CREATING A FAMOUS HOUSE (Free Download)!](https://governance.decentraland.org/proposal/?id=40661fa0-2a57-11ee-8fbb-d9eddf5c2b3f) (Lower Tier)
@@ -173,33 +180,18 @@ Since July 16, 9 grants have been approved and the vesting contract(s) will be e
 
 * [Ban the name DragQueen](https://governance.decentraland.org/proposal/?id=4f8daed0-2b1f-11ee-8fbb-d9eddf5c2b3f)
 * [Ban the name Drag](https://governance.decentraland.org/proposal/?id=312d3190-2b1f-11ee-8fbb-d9eddf5c2b3f)
-* [Ban the name Whore](https://governance.decentraland.org/proposal/?id=5acefa40-2ac2-11ee-8fbb-d9eddf5c2b3f)
-* [Ban the name Prostitute](https://governance.decentraland.org/proposal/?id=8e9e2e50-2ac1-11ee-8fbb-d9eddf5c2b3f)
-* [Ban the name Slut](https://governance.decentraland.org/proposal/?id=638ace80-2ac1-11ee-8fbb-d9eddf5c2b3f)
-* [Ban the name Lesbian](https://governance.decentraland.org/proposal/?id=296406e0-2ac1-11ee-8fbb-d9eddf5c2b3f)
-* [Ban the name Gay](https://governance.decentraland.org/proposal/?id=0e68d4b0-2ac1-11ee-8fbb-d9eddf5c2b3f)
-* [Ban the name Queer](https://governance.decentraland.org/proposal/?id=b851f390-2ac0-11ee-8fbb-d9eddf5c2b3f)
-* [Ban the name Bisexual](https://governance.decentraland.org/proposal/?id=d10cf9c0-2ac0-11ee-8fbb-d9eddf5c2b3f)
-* [Ban the name Homosexuals](https://governance.decentraland.org/proposal/?id=4a0c6dc0-2ac0-11ee-8fbb-d9eddf5c2b3f)
-* [Ban the name Homo](https://governance.decentraland.org/proposal/?id=2723a940-2ac0-11ee-8fbb-d9eddf5c2b3f)
-* [Ban the name Trans](https://governance.decentraland.org/proposal/?id=0266c100-2ac0-11ee-8fbb-d9eddf5c2b3f)
-* [Ban the name Tranny](https://governance.decentraland.org/proposal/?id=e5b41ad0-2abf-11ee-8fbb-d9eddf5c2b3f)
-* [Ban the name Transgender](https://governance.decentraland.org/proposal/?id=cbb65b70-2abf-11ee-8fbb-d9eddf5c2b3f)
-* [Ban the name Shemale](https://governance.decentraland.org/proposal/?id=70649dd0-2a70-11ee-8fbb-d9eddf5c2b3f)
-* [Ban the name Ladyboy](https://governance.decentraland.org/proposal/?id=3d666ad0-2a70-11ee-8fbb-d9eddf5c2b3f)
 
 ## Catalysts
 
 
 ## Polls
 
+* [Should the Community Be the Final Arbiter in Grants Revocation Decisions ?](https://governance.decentraland.org/proposal/?id=78bacea0-2fa2-11ee-a512-65477fceb1b0)
 * [Would you join an Unofficial DAO Discord server?](https://governance.decentraland.org/proposal/?id=441a7810-2f18-11ee-a512-65477fceb1b0)
 * [Do you think the DAO is inherently corrupt and toxic? ](https://governance.decentraland.org/proposal/?id=ad673280-2e10-11ee-a512-65477fceb1b0)
 * [HPrivakos had an alt-account to spread toxicity](https://governance.decentraland.org/proposal/?id=a812a4f0-2dec-11ee-a512-65477fceb1b0)
 * [should the pre-poll proposals be restricted to polls initial creator for draft &amp; binding stages if it&#39;s a pass](https://governance.decentraland.org/proposal/?id=74161df0-2dae-11ee-a512-65477fceb1b0)
 * [NAMEs used for a webpage](https://governance.decentraland.org/proposal/?id=75295590-2d54-11ee-a512-65477fceb1b0)
 * [No-Code Broadcasting Tool with Analytics and Wallet-Based Content Access Capabilities](https://governance.decentraland.org/proposal/?id=daa810e0-2c74-11ee-8fbb-d9eddf5c2b3f)
-* [Do you need a PR group led by DAO Times to promote Decentraland?](https://governance.decentraland.org/proposal/?id=a9148050-2c46-11ee-8fbb-d9eddf5c2b3f)
-* [DAO grants program - create the Community Building category](https://governance.decentraland.org/proposal/?id=7872fd40-2bde-11ee-8fbb-d9eddf5c2b3f)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
