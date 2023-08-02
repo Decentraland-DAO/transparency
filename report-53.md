@@ -43,9 +43,13 @@ Since August 1, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
+* 150, 145: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=51794290-30fb-11ee-9309-9f2674902254)
 
 ## Grants
 
+* [Buidlers Night - Ethereum Argentina Side Event](https://governance.decentraland.org/proposal/?id=e2eb8dd0-30c6-11ee-9309-9f2674902254) (Lower Tier)
+* [Create a Metaverse Gaming Center to teach builders how to develop games for DCL](https://governance.decentraland.org/proposal/?id=01535380-30c6-11ee-9309-9f2674902254) (Higher Tier)
+* [Emotional support with help from retail therapy.](https://governance.decentraland.org/proposal/?id=a9d7cd60-3085-11ee-a512-65477fceb1b0) (Lower Tier)
 * [Decentraland University Live Teaching Platform](https://governance.decentraland.org/proposal/?id=527ec930-2fde-11ee-a512-65477fceb1b0) (Higher Tier)
 * [Creativity &amp; Growth - Sandstorm Creator platform](https://governance.decentraland.org/proposal/?id=fdae4090-2db5-11ee-a512-65477fceb1b0) (Higher Tier)
 * [Digital Persona](https://governance.decentraland.org/proposal/?id=8734b1c0-2d82-11ee-a512-65477fceb1b0) (Lower Tier)
@@ -54,20 +58,18 @@ Since August 1, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Names Bans
 
-* [Ban the name DragQueen](https://governance.decentraland.org/proposal/?id=4f8daed0-2b1f-11ee-8fbb-d9eddf5c2b3f)
-* [Ban the name Drag](https://governance.decentraland.org/proposal/?id=312d3190-2b1f-11ee-8fbb-d9eddf5c2b3f)
 
 ## Catalysts
 
 
 ## Polls
 
+* [Implementing Tenure Restrictions for DAO Committee Members](https://governance.decentraland.org/proposal/?id=04fa4800-30b1-11ee-9309-9f2674902254)
 * [Should the Community Be the Final Arbiter in Grants Revocation Decisions ?](https://governance.decentraland.org/proposal/?id=78bacea0-2fa2-11ee-a512-65477fceb1b0)
 * [Would you join an Unofficial DAO Discord server?](https://governance.decentraland.org/proposal/?id=441a7810-2f18-11ee-a512-65477fceb1b0)
 * [Do you think the DAO is inherently corrupt and toxic? ](https://governance.decentraland.org/proposal/?id=ad673280-2e10-11ee-a512-65477fceb1b0)
 * [HPrivakos had an alt-account to spread toxicity](https://governance.decentraland.org/proposal/?id=a812a4f0-2dec-11ee-a512-65477fceb1b0)
 * [should the pre-poll proposals be restricted to polls initial creator for draft &amp; binding stages if it&#39;s a pass](https://governance.decentraland.org/proposal/?id=74161df0-2dae-11ee-a512-65477fceb1b0)
 * [NAMEs used for a webpage](https://governance.decentraland.org/proposal/?id=75295590-2d54-11ee-a512-65477fceb1b0)
-* [No-Code Broadcasting Tool with Analytics and Wallet-Based Content Access Capabilities](https://governance.decentraland.org/proposal/?id=daa810e0-2c74-11ee-8fbb-d9eddf5c2b3f)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
