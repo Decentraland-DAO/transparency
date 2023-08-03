@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -30,6 +30,13 @@ Since August 1, 0 grants have been approved and the vesting contract(s) will be 
 
 
 ## Polls
+
+#### [should the pre-poll proposals be restricted to polls initial creator for draft &amp; binding stages if it&#39;s a pass](https://governance.decentraland.org/proposal/?id=74161df0-2dae-11ee-a512-65477fceb1b0)
+
+* Yes 59.64849279995137% 4,630,970 VP (88 votes)
+* No 0.05373680070512163% 4,172 VP (5 votes)
+* Invalid question/options 40.29777039934351% 3,128,625 VP (17 votes)
+
 
 #### [Do you need a PR group led by DAO Times to promote Decentraland?](https://governance.decentraland.org/proposal/?id=a9148050-2c46-11ee-8fbb-d9eddf5c2b3f)
 
@@ -68,8 +75,5 @@ Since August 1, 0 grants have been approved and the vesting contract(s) will be 
 * [Should the Community Be the Final Arbiter in Grants Revocation Decisions ?](https://governance.decentraland.org/proposal/?id=78bacea0-2fa2-11ee-a512-65477fceb1b0)
 * [Would you join an Unofficial DAO Discord server?](https://governance.decentraland.org/proposal/?id=441a7810-2f18-11ee-a512-65477fceb1b0)
 * [Do you think the DAO is inherently corrupt and toxic? ](https://governance.decentraland.org/proposal/?id=ad673280-2e10-11ee-a512-65477fceb1b0)
-* [HPrivakos had an alt-account to spread toxicity](https://governance.decentraland.org/proposal/?id=a812a4f0-2dec-11ee-a512-65477fceb1b0)
-* [should the pre-poll proposals be restricted to polls initial creator for draft &amp; binding stages if it&#39;s a pass](https://governance.decentraland.org/proposal/?id=74161df0-2dae-11ee-a512-65477fceb1b0)
-* [NAMEs used for a webpage](https://governance.decentraland.org/proposal/?id=75295590-2d54-11ee-a512-65477fceb1b0)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
