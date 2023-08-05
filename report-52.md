@@ -188,9 +188,11 @@ Since July 16, 9 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Should strikes be counted in the Code of Ethics for spamming and trolling?](https://governance.decentraland.org/proposal/?id=5d7920e0-3300-11ee-a39d-ef9ca9e669fd)
+* [Double the VP threshold for all proposals and grants  ](https://governance.decentraland.org/proposal/?id=e519a4f0-32d5-11ee-a39d-ef9ca9e669fd)
+* [: Decentraland Governance - Lowering Wearable Publishing Fee](https://governance.decentraland.org/proposal/?id=8e05a7f0-324d-11ee-a39d-ef9ca9e669fd)
+* [Would our Decentraland DAO like to add Shielded Voting to help solve voter apathy? ](https://governance.decentraland.org/proposal/?id=2e43a4a0-320e-11ee-a39d-ef9ca9e669fd)
 * [Implementing Tenure Restrictions for DAO Committee Members](https://governance.decentraland.org/proposal/?id=04fa4800-30b1-11ee-9309-9f2674902254)
 * [Should the Community Be the Final Arbiter in Grants Revocation Decisions ?](https://governance.decentraland.org/proposal/?id=78bacea0-2fa2-11ee-a512-65477fceb1b0)
-* [Would you join an Unofficial DAO Discord server?](https://governance.decentraland.org/proposal/?id=441a7810-2f18-11ee-a512-65477fceb1b0)
-* [Do you think the DAO is inherently corrupt and toxic? ](https://governance.decentraland.org/proposal/?id=ad673280-2e10-11ee-a512-65477fceb1b0)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
