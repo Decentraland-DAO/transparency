@@ -178,7 +178,6 @@ Since July 16, 9 grants have been approved and the vesting contract(s) will be e
 * [Creativity &amp; Growth - Sandstorm Creator platform](https://governance.decentraland.org/proposal/?id=fdae4090-2db5-11ee-a512-65477fceb1b0) (Higher Tier)
 * [Digital Persona](https://governance.decentraland.org/proposal/?id=8734b1c0-2d82-11ee-a512-65477fceb1b0) (Lower Tier)
 * [CREATING A FAMOUS HOUSE (Free Download)!](https://governance.decentraland.org/proposal/?id=40661fa0-2a57-11ee-8fbb-d9eddf5c2b3f) (Lower Tier)
-* [The mobile game QUANTUMSPACE, portal in the NFT Gallery QNTUM.SPACE in DCL.](https://governance.decentraland.org/proposal/?id=dc5860d0-28c2-11ee-8e2a-0990078ddc40) (Higher Tier)
 
 ## Names Bans
 
@@ -188,11 +187,12 @@ Since July 16, 9 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Should we replace the DAO &amp; Foundation members every 4 Years?](https://governance.decentraland.org/proposal/?id=89748920-33e4-11ee-a39d-ef9ca9e669fd)
+* [Petition to Remove HPrivakos from Decentraland DAO Committee  ](https://governance.decentraland.org/proposal/?id=fd5ac7e0-33e0-11ee-a39d-ef9ca9e669fd)
 * [Should strikes be counted in the Code of Ethics for spamming and trolling?](https://governance.decentraland.org/proposal/?id=5d7920e0-3300-11ee-a39d-ef9ca9e669fd)
 * [Double the VP threshold for all proposals and grants  ](https://governance.decentraland.org/proposal/?id=e519a4f0-32d5-11ee-a39d-ef9ca9e669fd)
 * [: Decentraland Governance - Lowering Wearable Publishing Fee](https://governance.decentraland.org/proposal/?id=8e05a7f0-324d-11ee-a39d-ef9ca9e669fd)
 * [Would our Decentraland DAO like to add Shielded Voting to help solve voter apathy? ](https://governance.decentraland.org/proposal/?id=2e43a4a0-320e-11ee-a39d-ef9ca9e669fd)
 * [Implementing Tenure Restrictions for DAO Committee Members](https://governance.decentraland.org/proposal/?id=04fa4800-30b1-11ee-9309-9f2674902254)
-* [Should the Community Be the Final Arbiter in Grants Revocation Decisions ?](https://governance.decentraland.org/proposal/?id=78bacea0-2fa2-11ee-a512-65477fceb1b0)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
