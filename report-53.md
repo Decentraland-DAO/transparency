@@ -31,6 +31,13 @@ Since August 1, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+#### [Implementing Tenure Restrictions for DAO Committee Members](https://governance.decentraland.org/proposal/?id=04fa4800-30b1-11ee-9309-9f2674902254)
+
+* Yes 48.721867604978% 2,645,270 VP (65 votes)
+* No 36.0337043553088% 1,956,388 VP (14 votes)
+* Invalid question/options 15.2444280397132% 827,670 VP (5 votes)
+
+
 #### [Should the Community Be the Final Arbiter in Grants Revocation Decisions ?](https://governance.decentraland.org/proposal/?id=78bacea0-2fa2-11ee-a512-65477fceb1b0)
 
 * YES 55.41773384119318% 5,916,057 VP (38 votes)
@@ -50,13 +57,6 @@ Since August 1, 0 grants have been approved and the vesting contract(s) will be 
 * Yes 59.64849279995137% 4,630,970 VP (88 votes)
 * No 0.05373680070512163% 4,172 VP (5 votes)
 * Invalid question/options 40.29777039934351% 3,128,625 VP (17 votes)
-
-
-#### [Do you need a PR group led by DAO Times to promote Decentraland?](https://governance.decentraland.org/proposal/?id=a9148050-2c46-11ee-8fbb-d9eddf5c2b3f)
-
-* Yes 16.586876280729427% 513,188 VP (46 votes)
-* No 50.26868652915053% 1,555,283 VP (20 votes)
-* Invalid question/options 33.144437190120044% 1,025,469 VP (19 votes)
 
 
 
@@ -84,12 +84,13 @@ Since August 1, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+* [Proposal for District X VP and Esteban&#39;s Delegation VP Removal](https://governance.decentraland.org/proposal/?id=25de3650-3497-11ee-a39d-ef9ca9e669fd)
+* [Should We Implement a VP Cap?](https://governance.decentraland.org/proposal/?id=e116a770-348f-11ee-a39d-ef9ca9e669fd)
 * [Should we replace the DAO &amp; Foundation members every 4 Years?](https://governance.decentraland.org/proposal/?id=89748920-33e4-11ee-a39d-ef9ca9e669fd)
 * [Petition to Remove HPrivakos from Decentraland DAO Committee  ](https://governance.decentraland.org/proposal/?id=fd5ac7e0-33e0-11ee-a39d-ef9ca9e669fd)
 * [Should strikes be counted in the Code of Ethics for spamming and trolling?](https://governance.decentraland.org/proposal/?id=5d7920e0-3300-11ee-a39d-ef9ca9e669fd)
 * [Double the VP threshold for all proposals and grants  ](https://governance.decentraland.org/proposal/?id=e519a4f0-32d5-11ee-a39d-ef9ca9e669fd)
 * [: Decentraland Governance - Lowering Wearable Publishing Fee](https://governance.decentraland.org/proposal/?id=8e05a7f0-324d-11ee-a39d-ef9ca9e669fd)
 * [Would our Decentraland DAO like to add Shielded Voting to help solve voter apathy? ](https://governance.decentraland.org/proposal/?id=2e43a4a0-320e-11ee-a39d-ef9ca9e669fd)
-* [Implementing Tenure Restrictions for DAO Committee Members](https://governance.decentraland.org/proposal/?id=04fa4800-30b1-11ee-9309-9f2674902254)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
