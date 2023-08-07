@@ -30,7 +30,7 @@ export type ProposalParsed = {
   landVP: number
   namesVP: number
   delegatedVP: number
-  vesting_address: string | null
+  vesting_addresses: string[]
   enacting_tx: string | null
 }
 

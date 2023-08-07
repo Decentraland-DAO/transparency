@@ -56,7 +56,7 @@ async function main() {
       landVP: getVP(pv, Symbol.LAND) + getVP(pv, Symbol.ESTATE),
       namesVP: getVP(pv, Symbol.NAMES),
       delegatedVP: getVP(pv, Symbol.VP_DELEGATED),
-      vesting_address: p.vesting_address,
+      vesting_addresses: p.vesting_addresses,
       enacting_tx: p.enacting_tx
     }
 

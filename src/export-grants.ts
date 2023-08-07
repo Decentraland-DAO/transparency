@@ -93,6 +93,7 @@ async function _getVestingContractDataV1(vestingAddress: string): Promise<Vestin
 
   return {
     token: token.symbol,
+    vesting_address: vestingAddress.toLowerCase(),
     vesting_released,
     vesting_releasable,
     vesting_start_at,
@@ -158,6 +159,7 @@ async function _getVestingContractDataV2(vestingAddress: string): Promise<Vestin
 
   return {
     token: token.symbol,
+    vesting_address: vestingAddress.toLowerCase(),
     vesting_released,
     vesting_releasable,
     vesting_start_at,
@@ -169,14 +171,14 @@ async function _getVestingContractDataV2(vestingAddress: string): Promise<Vestin
   }
 }
 
-async function getVestingContractData(proposalId: string, vestingAddress: string): Promise<VestingInfo> {
+async function getVestingContractData(proposalId: string, vestingAddresses: string[]): Promise<VestingInfo[]> {
   try {
-    return await _getVestingContractDataV1(vestingAddress)
+    return await Promise.all(vestingAddresses.map((address) => _getVestingContractDataV1(address)))
   } catch (errorV1) {
     try {
-      return await _getVestingContractDataV2(vestingAddress)
+      return await Promise.all(vestingAddresses.map((address) => _getVestingContractDataV2(address)))
     } catch (errorV2) {
-      rollbar.log(`Error trying to get vesting data for proposal ${proposalId}, vesting address ${vestingAddress}`, `Error V1: ${errorV1}, Error V2: ${errorV2}`)
+      rollbar.log(`Error trying to get vesting data for proposal ${proposalId}, vesting addresses (${vestingAddresses.join(', ')})`, `Error V1: ${errorV1}, Error V2: ${errorV2}`)
     }
   }
 }
@@ -235,19 +237,19 @@ function parseUpdatesInfo(updatesResponseData: GrantUpdateResponse['data']): Upd
 
 async function setEnactingData(proposal: GrantProposal): Promise<void> {
 
-  const assignProposalData = (data: Updates | VestingInfo | OneTimePaymentInfo) => {
+  const assignProposalData = (data: Updates | OneTimePaymentInfo) => {
     Object.assign(proposal, data)
   }
 
-  if (proposal.vesting_address) {
-    const vestingContractData = await getVestingContractData(proposal.id, proposal.vesting_address.toLowerCase())
-    assignProposalData(vestingContractData)
+  if (proposal.vesting_addresses) {
+    const vestingContractData = await getVestingContractData(proposal.id, proposal.vesting_addresses)
+    proposal.vesting = vestingContractData
   }
   if (proposal.enacting_tx) {
     const enactingTxData = await getEnactingTxData(proposal.id, proposal.enacting_tx.toLowerCase(), proposal.beneficiary)
     assignProposalData(enactingTxData)
   }
-  if (proposal.vesting_address === null && proposal.enacting_tx === null) {
+  if (proposal.vesting_addresses.length === 0 && proposal.enacting_tx === null) {
     console.log(`A proposal without vesting address and enacting tx has been found. Id ${proposal.id}`)
   }
 
@@ -263,7 +265,7 @@ async function setEnactingData(proposal: GrantProposal): Promise<void> {
 
 async function main() {
   // Get Governance dApp Proposals
-  const proposals: GrantProposal[] = PROPOSALS.filter(p => p.type === GovernanceProposalType.GRANT)
+  const proposals = (PROPOSALS as GrantProposal[]).filter(p => p.type === GovernanceProposalType.GRANT)
   const unresolvedEnactingData: Promise<void>[] = []
 
   for (const proposal of proposals) {
