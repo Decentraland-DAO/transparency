@@ -242,7 +242,7 @@ async function setEnactingData(proposal: GrantProposal): Promise<void> {
     Object.assign(proposal, data)
   }
 
-  if (proposal.vesting_addresses) {
+  if (proposal.vesting_addresses.length > 0) {
     const vestingContractData = await getVestingContractData(proposal.id, proposal.vesting_addresses)
     proposal.vesting = vestingContractData
   }
