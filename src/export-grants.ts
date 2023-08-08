@@ -25,6 +25,7 @@ import {
   COVALENT_API_KEY,
   fetchCovalentURL,
   fetchURL,
+  flattenArray,
   getMonthsBetweenDates,
   INFURA_URL,
   isSameAddress,
@@ -80,8 +81,8 @@ async function _getVestingContractDataV1(vestingAddress: string): Promise<Vestin
 
   const tokenContract = new web3.eth.Contract(token.abi, contract_token_address)
   const raw_token_contract_balance = await tokenContract.methods.balanceOf(vestingAddress).call()
-  const vesting_token_contract_balance = parseNumber(raw_token_contract_balance, decimals)
-  const vesting_total_amount = vesting_token_contract_balance + vesting_released
+  const vesting_contract_token_balance = parseNumber(raw_token_contract_balance, decimals)
+  const vesting_total_amount = vesting_contract_token_balance + vesting_released
 
   let vesting_status = getInitialVestingStatus(vesting_start_at, vesting_finish_at)
 
@@ -98,7 +99,7 @@ async function _getVestingContractDataV1(vestingAddress: string): Promise<Vestin
     vesting_releasable,
     vesting_start_at,
     vesting_finish_at,
-    vesting_token_contract_balance,
+    vesting_contract_token_balance,
     vesting_total_amount,
     vesting_status,
     duration_in_months: getMonthsBetweenDates(new Date(vesting_start_at), new Date(vesting_finish_at))
@@ -141,8 +142,8 @@ async function _getVestingContractDataV2(vestingAddress: string): Promise<Vestin
 
   const tokenContract = new web3.eth.Contract(token.abi, contract_token_address)
   const raw_token_contract_balance = await tokenContract.methods.balanceOf(vestingAddress).call()
-  const vesting_token_contract_balance = parseNumber(raw_token_contract_balance, decimals)
-  const vesting_total_amount = vesting_token_contract_balance + vesting_released
+  const vesting_contract_token_balance = parseNumber(raw_token_contract_balance, decimals)
+  const vesting_total_amount = vesting_contract_token_balance + vesting_released
 
   let vesting_status = getInitialVestingStatus(vesting_start_at, vesting_finish_at)
 
@@ -164,7 +165,7 @@ async function _getVestingContractDataV2(vestingAddress: string): Promise<Vestin
     vesting_releasable,
     vesting_start_at,
     vesting_finish_at,
-    vesting_token_contract_balance,
+    vesting_contract_token_balance,
     vesting_total_amount,
     vesting_status,
     duration_in_months: getMonthsBetweenDates(new Date(vesting_start_at), new Date(vesting_finish_at))
@@ -302,16 +303,6 @@ async function main() {
     { id: 'beneficiary', title: 'Beneficiary' },
     { id: 'token', title: 'Token' },
 
-    { id: 'vesting_status', title: 'Vesting Status' },
-    { id: 'vesting_address', title: 'Vesting Contract' },
-    { id: 'vesting_released', title: 'Vesting Released Amount' },
-    { id: 'vesting_releasable', title: 'Vesting Releasable Amount' },
-    { id: 'vesting_token_contract_balance', title: 'Vesting Token Contract Balance' },
-    { id: 'vesting_total_amount', title: 'Vesting Total Amount' },
-    { id: 'vesting_start_at', title: 'Vesting Start At' },
-    { id: 'vesting_finish_at', title: 'Vesting Finish At' },
-    { id: 'duration_in_months', title: 'Duration (Months)' },
-
     { id: `enacting_tx`, title: 'Enacting Transaction' },
     { id: 'tx_date', title: 'Transaction Date' },
     { id: 'tx_amount', title: 'Transaction Amount' },
@@ -325,6 +316,22 @@ async function main() {
     { id: 'next_update', title: 'Next Update' },
     { id: 'pending_updates', title: 'Pending Updates' }
   ])
+
+  const vestings = flattenArray(proposals.map(({ vesting, id }) => vesting?.map((vestingData) => ({ proposal_id: id, ...vestingData })))).filter(v => v)
+  saveToJSON('vestings.json', vestings)
+  await saveToCSV('vestings.csv', vestings, [
+    { id: 'proposal_id', title: 'Proposal ID' },
+    { id: 'vesting_status', title: 'Vesting Status' },
+    { id: 'vesting_address', title: 'Vesting Contract' },
+    { id: 'vesting_released', title: 'Vesting Released Amount' },
+    { id: 'vesting_releasable', title: 'Vesting Releasable Amount' },
+    { id: 'vesting_contract_token_balance', title: 'Vesting Token Contract Balance' },
+    { id: 'vesting_total_amount', title: 'Vesting Total Amount' },
+    { id: 'vesting_start_at', title: 'Vesting Start At' },
+    { id: 'vesting_finish_at', title: 'Vesting Finish At' },
+    { id: 'duration_in_months', title: 'Duration (Months)' },
+  ])
+
 }
 
 main().catch((error) => reportToRollbarAndThrow(__filename, error))

@@ -21,7 +21,7 @@ export interface VestingInfo {
   vesting_releasable: number
   vesting_start_at: string
   vesting_finish_at: string
-  vesting_token_contract_balance: number
+  vesting_contract_token_balance: number
   vesting_total_amount: number
   vesting_status: VestingStatus
   duration_in_months: number

@@ -18,7 +18,10 @@ async function main() {
     const append = process.argv[4] == '--append'
 
     await doc.loadInfo()
-    const sheet = doc.sheetsByTitle[title]
+    let sheet = doc.sheetsByTitle[title]
+    if(!sheet) {
+      sheet = await doc.addSheet({ title })
+    }
     const rows = title === 'KPIs' ? parseKPIs(require('../public/kpis.json')) : parse(readFileSync(path))
 
     if (!append) {

@@ -66,6 +66,7 @@ jobs:
         run: |
           npx ts-node ./src/export-grants.ts
           npx ts-node ./src/upload.ts Grants ./public/grants.csv
+          npx ts-node ./src/upload.ts Vestings ./public/vestings.csv
 
       - name: Pull Transactions
         env:
