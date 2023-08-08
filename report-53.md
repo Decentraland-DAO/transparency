@@ -68,13 +68,13 @@ Since August 1, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Grants
 
+* [Decentraland Ambassador&#39;s Program](https://governance.decentraland.org/proposal/?id=55a85fd0-3539-11ee-a39d-ef9ca9e669fd) (Higher Tier)
 * [Buidlers Night - Ethereum Argentina Side Event](https://governance.decentraland.org/proposal/?id=e2eb8dd0-30c6-11ee-9309-9f2674902254) (Lower Tier)
 * [Create a Metaverse Gaming Center to teach builders how to develop games for DCL](https://governance.decentraland.org/proposal/?id=01535380-30c6-11ee-9309-9f2674902254) (Higher Tier)
 * [Emotional support with help from retail therapy.](https://governance.decentraland.org/proposal/?id=a9d7cd60-3085-11ee-a512-65477fceb1b0) (Lower Tier)
 * [Decentraland University Live Teaching Platform](https://governance.decentraland.org/proposal/?id=527ec930-2fde-11ee-a512-65477fceb1b0) (Higher Tier)
 * [Creativity &amp; Growth - Sandstorm Creator platform](https://governance.decentraland.org/proposal/?id=fdae4090-2db5-11ee-a512-65477fceb1b0) (Higher Tier)
 * [Digital Persona](https://governance.decentraland.org/proposal/?id=8734b1c0-2d82-11ee-a512-65477fceb1b0) (Lower Tier)
-* [CREATING A FAMOUS HOUSE (Free Download)!](https://governance.decentraland.org/proposal/?id=40661fa0-2a57-11ee-8fbb-d9eddf5c2b3f) (Lower Tier)
 
 ## Names Bans
 
@@ -84,6 +84,7 @@ Since August 1, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+* [Should inactive Wearable Curators be removed?](https://governance.decentraland.org/proposal/?id=d2005860-355e-11ee-a78b-116bf1638d00)
 * [Proposal for District X VP and Esteban&#39;s Delegation VP Removal](https://governance.decentraland.org/proposal/?id=25de3650-3497-11ee-a39d-ef9ca9e669fd)
 * [Should We Implement a VP Cap?](https://governance.decentraland.org/proposal/?id=e116a770-348f-11ee-a39d-ef9ca9e669fd)
 * [Should we replace the DAO &amp; Foundation members every 4 Years?](https://governance.decentraland.org/proposal/?id=89748920-33e4-11ee-a39d-ef9ca9e669fd)
