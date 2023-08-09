@@ -74,6 +74,11 @@ export const DAOCommittee = new Committee(
       address: '0x88013D7eD946dD8292268a6FF69165a97A89a639',
       name: 'Tobik',
       avatar: 'https://peer.decentraland.org/content/contents/bafkreif25t6mav5bgkajwr6l6wptzh5lkmonuw7pzricrin6fyhoazfruu'
+    },
+    {
+      address: '0xd6c957f9a6411f35d01baae2658758f277408878',
+      name: 'RizkGh',
+      avatar: 'https://peer.decentraland.org/content/contents/bafkreidnd3mgh25roc6g4scwkidkbo5pdr2w3lqpjecrnadx6dns72ojdy'
     }
   ]
 )
