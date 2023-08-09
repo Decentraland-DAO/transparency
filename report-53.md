@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -30,6 +30,20 @@ Since August 1, 0 grants have been approved and the vesting contract(s) will be 
 
 
 ## Polls
+
+#### [: Decentraland Governance - Lowering Wearable Publishing Fee](https://governance.decentraland.org/proposal/?id=8e05a7f0-324d-11ee-a39d-ef9ca9e669fd)
+
+* Yes 66.64387853928103% 2,281,110 VP (82 votes)
+* No 18.010187461563294% 616,459 VP (8 votes)
+* Invalid question/options 15.345933999155669% 525,266 VP (2 votes)
+
+
+#### [Would our Decentraland DAO like to add Shielded Voting to help solve voter apathy? ](https://governance.decentraland.org/proposal/?id=2e43a4a0-320e-11ee-a39d-ef9ca9e669fd)
+
+* Yes 74.93863444689835% 6,315,048 VP (50 votes)
+* No 0.175864152181113% 14,820 VP (9 votes)
+* Invalid question/options 24.885501400920546% 2,097,091 VP (23 votes)
+
 
 #### [Implementing Tenure Restrictions for DAO Committee Members](https://governance.decentraland.org/proposal/?id=04fa4800-30b1-11ee-9309-9f2674902254)
 
@@ -64,10 +78,11 @@ Since August 1, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
-* 150, 145: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=51794290-30fb-11ee-9309-9f2674902254)
 
 ## Grants
 
+* [AI dapp to transform any 2D PFP NFT into a 3D Decentraland Wearable/Avatar](https://governance.decentraland.org/proposal/?id=31815fd0-3606-11ee-be2d-676a2489bc16) (Higher Tier)
+* [Open Source SammichGame SDK7 +Community tools](https://governance.decentraland.org/proposal/?id=e7399950-35f7-11ee-be2d-676a2489bc16) (Higher Tier)
 * [Decentraland Ambassador&#39;s Program](https://governance.decentraland.org/proposal/?id=55a85fd0-3539-11ee-a39d-ef9ca9e669fd) (Higher Tier)
 * [Buidlers Night - Ethereum Argentina Side Event](https://governance.decentraland.org/proposal/?id=e2eb8dd0-30c6-11ee-9309-9f2674902254) (Lower Tier)
 * [Create a Metaverse Gaming Center to teach builders how to develop games for DCL](https://governance.decentraland.org/proposal/?id=01535380-30c6-11ee-9309-9f2674902254) (Higher Tier)
@@ -84,6 +99,7 @@ Since August 1, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+* [Community Spirit Poll: A Proposal for Attending In-Game Activities](https://governance.decentraland.org/proposal/?id=67890b60-368c-11ee-be2d-676a2489bc16)
 * [Should inactive Wearable Curators be removed?](https://governance.decentraland.org/proposal/?id=d2005860-355e-11ee-a78b-116bf1638d00)
 * [Proposal for District X VP and Esteban&#39;s Delegation VP Removal](https://governance.decentraland.org/proposal/?id=25de3650-3497-11ee-a39d-ef9ca9e669fd)
 * [Should We Implement a VP Cap?](https://governance.decentraland.org/proposal/?id=e116a770-348f-11ee-a39d-ef9ca9e669fd)
@@ -91,7 +107,5 @@ Since August 1, 0 grants have been approved and the vesting contract(s) will be 
 * [Petition to Remove HPrivakos from Decentraland DAO Committee  ](https://governance.decentraland.org/proposal/?id=fd5ac7e0-33e0-11ee-a39d-ef9ca9e669fd)
 * [Should strikes be counted in the Code of Ethics for spamming and trolling?](https://governance.decentraland.org/proposal/?id=5d7920e0-3300-11ee-a39d-ef9ca9e669fd)
 * [Double the VP threshold for all proposals and grants  ](https://governance.decentraland.org/proposal/?id=e519a4f0-32d5-11ee-a39d-ef9ca9e669fd)
-* [: Decentraland Governance - Lowering Wearable Publishing Fee](https://governance.decentraland.org/proposal/?id=8e05a7f0-324d-11ee-a39d-ef9ca9e669fd)
-* [Would our Decentraland DAO like to add Shielded Voting to help solve voter apathy? ](https://governance.decentraland.org/proposal/?id=2e43a4a0-320e-11ee-a39d-ef9ca9e669fd)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
