@@ -179,7 +179,7 @@ async function getVestingContractData(proposalId: string, vestingAddresses: stri
     try {
       return await Promise.all(vestingAddresses.map((address) => _getVestingContractDataV2(address)))
     } catch (errorV2) {
-      rollbar.log(`Error trying to get vesting data for proposal ${proposalId}, vesting addresses (${vestingAddresses.join(', ')})`, `Error V1: ${errorV1}, Error V2: ${errorV2}`)
+      rollbar.log(`Error trying to get vesting data`, {proposalId, vestingAddresses, errorV1, errorV2})
     }
   }
 }
