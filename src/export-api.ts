@@ -2,7 +2,7 @@ import BALANCES from '../public/balances.json'
 import GRANTS from '../public/grants.json'
 import TRANSACTIONS from '../public/transactions.json'
 import { TagCategoryType, Tags } from './entities/Tags'
-import { CurationCommittee, DAOCommittee, SABCommittee } from './entities/Teams'
+import { CurationCommittee, DAOCommittee, RevocationCommittee, SABCommittee } from './entities/Teams'
 import { TransactionParsed } from './export-transactions'
 import { BalanceDetails } from './interfaces/Api'
 import { Status } from './interfaces/GovernanceProposal'
@@ -90,7 +90,8 @@ async function main() {
     'committees': [
       SABCommittee.toJson(),
       DAOCommittee.toJson(),
-      CurationCommittee.toJson()
+      CurationCommittee.toJson(),
+      RevocationCommittee.toJson(),
     ]
   }
 

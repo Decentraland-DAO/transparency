@@ -165,3 +165,31 @@ export const CurationCommittee = new Committee(
     }
   ]
 )
+
+export const RevocationCommittee = new Committee(
+  'Revocation Committee',
+  'Responsible for reviewing cases raised by the community regarding Grants Program that raise concerns. After an assessment, they decide if a Grant has to be revoked or not. They also make recommendations for changes in the Grants Program when identifying improvements.',
+  4,
+  [
+    {
+      address: '0x895Be97bDb9F8a244c472B18EA96DeE39ddf8fe5',
+      name: 'dax',
+      avatar: 'https://peer.decentraland.org/content/contents/bafkreih7ul7ovk2s6girhpvqh5nyk32k7pekdwwlqjbl2iigednwxsfafy'
+    },
+    {
+      address: '0x05060Fa97e54a812d1E15cEc6c34e79f74eBD0b3',
+      name: 'MetaDoge',
+      avatar: 'https://peer.decentraland.org/content/contents/bafkreihwsyuhzujztiq34whajfp4qxk4ava3okzxge2fiviie5vov4tp2u'
+    },
+    {
+      address: '0x9937E3e274be96a624d7Cd00F384EB71c741Dd1b',
+      name: 'Maryana',
+      avatar: 'https://peer.decentraland.org/content/contents/bafkreidyp7cslipz3l7wrr2paothwsqreokm5se4vq3qyrey67olltcgi4'
+    },
+    {
+      address: '0x1e105bb213754519903788022b962fe2B9C4B263',
+      name: 'BayBackner',
+      avatar: 'https://peer.decentraland.org/content/contents/bafkreieonpaf25iryrxqk5yivvathsga7n2idbcbpphpsveqiblpcs3jwu'
+    }
+  ]
+)
