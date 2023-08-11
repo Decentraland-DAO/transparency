@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 7 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -30,13 +30,6 @@ Since August 1, 0 grants have been approved and the vesting contract(s) will be 
 
 
 ## Polls
-
-#### [Double the VP threshold for all proposals and grants  ](https://governance.decentraland.org/proposal/?id=e519a4f0-32d5-11ee-a39d-ef9ca9e669fd)
-
-* Yes, double all 38.563771480975475% 5,917,421 VP (59 votes)
-* No 61.37227078248452% 9,417,273 VP (28 votes)
-* Invalid question/options 0.06395773654000506% 9,814 VP (5 votes)
-
 
 #### [: Decentraland Governance - Lowering Wearable Publishing Fee](https://governance.decentraland.org/proposal/?id=8e05a7f0-324d-11ee-a39d-ef9ca9e669fd)
 
@@ -85,9 +78,12 @@ Since August 1, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
+* -63, -68: [Genesis Plaza](https://governance.decentraland.org/proposal/?id=22336870-37a5-11ee-aec9-fb54fc0c7896)
+* -103, -144: [Vroomway](https://governance.decentraland.org/proposal/?id=f8c68cb0-37a4-11ee-aec9-fb54fc0c7896)
 
 ## Grants
 
+* [Death to Tennis - Onboarding Artists to DCL through Phygital events](https://governance.decentraland.org/proposal/?id=bf9770b0-3792-11ee-aec9-fb54fc0c7896) (Higher Tier)
 * [Top Performing Scenes Reward Program](https://governance.decentraland.org/proposal/?id=0fffd3b0-378b-11ee-be2d-676a2489bc16) (Higher Tier)
 * [AI dapp to transform any 2D PFP NFT into a 3D Decentraland Wearable/Avatar](https://governance.decentraland.org/proposal/?id=31815fd0-3606-11ee-be2d-676a2489bc16) (Higher Tier)
 * [Open Source SammichGame SDK7 +Community tools](https://governance.decentraland.org/proposal/?id=e7399950-35f7-11ee-be2d-676a2489bc16) (Higher Tier)
@@ -113,7 +109,5 @@ Since August 1, 0 grants have been approved and the vesting contract(s) will be 
 * [Should inactive Wearable Curators be removed?](https://governance.decentraland.org/proposal/?id=d2005860-355e-11ee-a78b-116bf1638d00)
 * [Proposal for District X VP and Esteban&#39;s Delegation VP Removal](https://governance.decentraland.org/proposal/?id=25de3650-3497-11ee-a39d-ef9ca9e669fd)
 * [Should We Implement a VP Cap?](https://governance.decentraland.org/proposal/?id=e116a770-348f-11ee-a39d-ef9ca9e669fd)
-* [Should we replace the DAO &amp; Foundation members every 4 Years?](https://governance.decentraland.org/proposal/?id=89748920-33e4-11ee-a39d-ef9ca9e669fd)
-* [Petition to Remove HPrivakos from Decentraland DAO Committee  ](https://governance.decentraland.org/proposal/?id=fd5ac7e0-33e0-11ee-a39d-ef9ca9e669fd)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
