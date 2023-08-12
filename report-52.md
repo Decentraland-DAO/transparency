@@ -172,6 +172,8 @@ Since July 16, 9 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [DCL Global Recruiting &amp; Onboarding Marketing Campaign Phygital T-shirt Contest](https://governance.decentraland.org/proposal/?id=38612570-3894-11ee-aec9-fb54fc0c7896) (Higher Tier)
+* [Designing Visual Content for DAO Documentation](https://governance.decentraland.org/proposal/?id=f5eda870-387b-11ee-aec9-fb54fc0c7896) (Lower Tier)
 * [Death to Tennis - Onboarding Artists to DCL through Phygital events](https://governance.decentraland.org/proposal/?id=bf9770b0-3792-11ee-aec9-fb54fc0c7896) (Higher Tier)
 * [Top Performing Scenes Reward Program](https://governance.decentraland.org/proposal/?id=0fffd3b0-378b-11ee-be2d-676a2489bc16) (Higher Tier)
 * [AI dapp to transform any 2D PFP NFT into a 3D Decentraland Wearable/Avatar](https://governance.decentraland.org/proposal/?id=31815fd0-3606-11ee-be2d-676a2489bc16) (Higher Tier)
@@ -181,8 +183,6 @@ Since July 16, 9 grants have been approved and the vesting contract(s) will be e
 * [Create a Metaverse Gaming Center to teach builders how to develop games for DCL](https://governance.decentraland.org/proposal/?id=01535380-30c6-11ee-9309-9f2674902254) (Higher Tier)
 * [Emotional support with help from retail therapy.](https://governance.decentraland.org/proposal/?id=a9d7cd60-3085-11ee-a512-65477fceb1b0) (Lower Tier)
 * [Decentraland University Live Teaching Platform](https://governance.decentraland.org/proposal/?id=527ec930-2fde-11ee-a512-65477fceb1b0) (Higher Tier)
-* [Creativity &amp; Growth - Sandstorm Creator platform](https://governance.decentraland.org/proposal/?id=fdae4090-2db5-11ee-a512-65477fceb1b0) (Higher Tier)
-* [Digital Persona](https://governance.decentraland.org/proposal/?id=8734b1c0-2d82-11ee-a512-65477fceb1b0) (Lower Tier)
 
 ## Names Bans
 
@@ -192,11 +192,10 @@ Since July 16, 9 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Proposal for Decentraland DAO Headquarters LAND Sizing (3X3, 4X4, 5X5) for Maximizing its Utility](https://governance.decentraland.org/proposal/?id=5762f150-38cc-11ee-aec9-fb54fc0c7896)
 * [Double the VP threshold for all proposals and grants  ](https://governance.decentraland.org/proposal/?id=48cb2a10-36c7-11ee-be2d-676a2489bc16)
 * [should we promote decentraland names as an alternative cryptocurrency human readable wallet addresses?](https://governance.decentraland.org/proposal/?id=ac360f90-36a2-11ee-be2d-676a2489bc16)
 * [Community Spirit Poll: A Proposal for Attending In-Game Activities](https://governance.decentraland.org/proposal/?id=67890b60-368c-11ee-be2d-676a2489bc16)
 * [Should inactive Wearable Curators be removed?](https://governance.decentraland.org/proposal/?id=d2005860-355e-11ee-a78b-116bf1638d00)
-* [Proposal for District X VP and Esteban&#39;s Delegation VP Removal](https://governance.decentraland.org/proposal/?id=25de3650-3497-11ee-a39d-ef9ca9e669fd)
-* [Should We Implement a VP Cap?](https://governance.decentraland.org/proposal/?id=e116a770-348f-11ee-a39d-ef9ca9e669fd)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
