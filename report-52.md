@@ -172,6 +172,7 @@ Since July 16, 9 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [In World Builder - No Code, No Deploy, Real-time Collaboration](https://governance.decentraland.org/proposal/?id=ca7784f0-3988-11ee-aec9-fb54fc0c7896) (Higher Tier)
 * [DCL Global Recruiting &amp; Onboarding Marketing Campaign Phygital T-shirt Contest](https://governance.decentraland.org/proposal/?id=38612570-3894-11ee-aec9-fb54fc0c7896) (Higher Tier)
 * [Designing Visual Content for DAO Documentation](https://governance.decentraland.org/proposal/?id=f5eda870-387b-11ee-aec9-fb54fc0c7896) (Lower Tier)
 * [Death to Tennis - Onboarding Artists to DCL through Phygital events](https://governance.decentraland.org/proposal/?id=bf9770b0-3792-11ee-aec9-fb54fc0c7896) (Higher Tier)
@@ -196,6 +197,5 @@ Since July 16, 9 grants have been approved and the vesting contract(s) will be e
 * [Double the VP threshold for all proposals and grants  ](https://governance.decentraland.org/proposal/?id=48cb2a10-36c7-11ee-be2d-676a2489bc16)
 * [should we promote decentraland names as an alternative cryptocurrency human readable wallet addresses?](https://governance.decentraland.org/proposal/?id=ac360f90-36a2-11ee-be2d-676a2489bc16)
 * [Community Spirit Poll: A Proposal for Attending In-Game Activities](https://governance.decentraland.org/proposal/?id=67890b60-368c-11ee-be2d-676a2489bc16)
-* [Should inactive Wearable Curators be removed?](https://governance.decentraland.org/proposal/?id=d2005860-355e-11ee-a78b-116bf1638d00)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
