@@ -193,9 +193,9 @@ Since July 16, 9 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Allow also GNU License for platform parallel contributions](https://governance.decentraland.org/proposal/?id=39af1900-39e3-11ee-aec9-fb54fc0c7896)
 * [Proposal for Decentraland DAO Headquarters LAND Sizing (3X3, 4X4, 5X5) for Maximizing its Utility](https://governance.decentraland.org/proposal/?id=5762f150-38cc-11ee-aec9-fb54fc0c7896)
 * [Double the VP threshold for all proposals and grants  ](https://governance.decentraland.org/proposal/?id=48cb2a10-36c7-11ee-be2d-676a2489bc16)
 * [should we promote decentraland names as an alternative cryptocurrency human readable wallet addresses?](https://governance.decentraland.org/proposal/?id=ac360f90-36a2-11ee-be2d-676a2489bc16)
-* [Community Spirit Poll: A Proposal for Attending In-Game Activities](https://governance.decentraland.org/proposal/?id=67890b60-368c-11ee-be2d-676a2489bc16)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
