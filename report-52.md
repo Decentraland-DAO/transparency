@@ -183,7 +183,6 @@ Since July 16, 9 grants have been approved and the vesting contract(s) will be e
 * [Buidlers Night - Ethereum Argentina Side Event](https://governance.decentraland.org/proposal/?id=e2eb8dd0-30c6-11ee-9309-9f2674902254) (Lower Tier)
 * [Create a Metaverse Gaming Center to teach builders how to develop games for DCL](https://governance.decentraland.org/proposal/?id=01535380-30c6-11ee-9309-9f2674902254) (Higher Tier)
 * [Emotional support with help from retail therapy.](https://governance.decentraland.org/proposal/?id=a9d7cd60-3085-11ee-a512-65477fceb1b0) (Lower Tier)
-* [Decentraland University Live Teaching Platform](https://governance.decentraland.org/proposal/?id=527ec930-2fde-11ee-a512-65477fceb1b0) (Higher Tier)
 
 ## Names Bans
 
@@ -195,7 +194,5 @@ Since July 16, 9 grants have been approved and the vesting contract(s) will be e
 
 * [Allow also GNU License for platform parallel contributions](https://governance.decentraland.org/proposal/?id=39af1900-39e3-11ee-aec9-fb54fc0c7896)
 * [Proposal for Decentraland DAO Headquarters LAND Sizing (3X3, 4X4, 5X5) for Maximizing its Utility](https://governance.decentraland.org/proposal/?id=5762f150-38cc-11ee-aec9-fb54fc0c7896)
-* [Double the VP threshold for all proposals and grants  ](https://governance.decentraland.org/proposal/?id=48cb2a10-36c7-11ee-be2d-676a2489bc16)
-* [should we promote decentraland names as an alternative cryptocurrency human readable wallet addresses?](https://governance.decentraland.org/proposal/?id=ac360f90-36a2-11ee-be2d-676a2489bc16)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

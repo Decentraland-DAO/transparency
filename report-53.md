@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 8 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 10 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -26,7 +26,14 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since August 1, 1 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since August 1, 2 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Decentraland University Live Teaching Platform](https://governance.decentraland.org/proposal/?id=527ec930-2fde-11ee-a512-65477fceb1b0) (Higher Tier)
+
+* Yes 94.31461187677435% 10,235,597 VP (101 votes)
+* No 5.6782101264119875% 616,234 VP (6 votes)
+* Abstain 0.007177996813669708% 779 VP (6 votes)
 
 
 #### [Creativity &amp; Growth - Sandstorm Creator platform](https://governance.decentraland.org/proposal/?id=fdae4090-2db5-11ee-a512-65477fceb1b0) (Higher Tier)
@@ -37,6 +44,20 @@ Since August 1, 1 grants have been approved and the vesting contract(s) will be 
 
 
 ## Polls
+
+#### [Double the VP threshold for all proposals and grants  ](https://governance.decentraland.org/proposal/?id=48cb2a10-36c7-11ee-be2d-676a2489bc16)
+
+* Yes double 27.67548430431187% 4,733,420 VP (65 votes)
+* No 72.29725779171453% 12,365,214 VP (43 votes)
+* Invalid question/options 0.02725790397359667% 4,662 VP (2 votes)
+
+
+#### [should we promote decentraland names as an alternative cryptocurrency human readable wallet addresses?](https://governance.decentraland.org/proposal/?id=ac360f90-36a2-11ee-be2d-676a2489bc16)
+
+* Yes 84.96123404675822% 5,657,295 VP (67 votes)
+* No 0.006277522355038042% 418 VP (6 votes)
+* Invalid question/options 15.032488430886731% 1,000,965 VP (4 votes)
+
 
 #### [Should inactive Wearable Curators be removed?](https://governance.decentraland.org/proposal/?id=d2005860-355e-11ee-a78b-116bf1638d00)
 
@@ -115,7 +136,6 @@ Since August 1, 1 grants have been approved and the vesting contract(s) will be 
 * [Buidlers Night - Ethereum Argentina Side Event](https://governance.decentraland.org/proposal/?id=e2eb8dd0-30c6-11ee-9309-9f2674902254) (Lower Tier)
 * [Create a Metaverse Gaming Center to teach builders how to develop games for DCL](https://governance.decentraland.org/proposal/?id=01535380-30c6-11ee-9309-9f2674902254) (Higher Tier)
 * [Emotional support with help from retail therapy.](https://governance.decentraland.org/proposal/?id=a9d7cd60-3085-11ee-a512-65477fceb1b0) (Lower Tier)
-* [Decentraland University Live Teaching Platform](https://governance.decentraland.org/proposal/?id=527ec930-2fde-11ee-a512-65477fceb1b0) (Higher Tier)
 
 ## Names Bans
 
@@ -127,7 +147,5 @@ Since August 1, 1 grants have been approved and the vesting contract(s) will be 
 
 * [Allow also GNU License for platform parallel contributions](https://governance.decentraland.org/proposal/?id=39af1900-39e3-11ee-aec9-fb54fc0c7896)
 * [Proposal for Decentraland DAO Headquarters LAND Sizing (3X3, 4X4, 5X5) for Maximizing its Utility](https://governance.decentraland.org/proposal/?id=5762f150-38cc-11ee-aec9-fb54fc0c7896)
-* [Double the VP threshold for all proposals and grants  ](https://governance.decentraland.org/proposal/?id=48cb2a10-36c7-11ee-be2d-676a2489bc16)
-* [should we promote decentraland names as an alternative cryptocurrency human readable wallet addresses?](https://governance.decentraland.org/proposal/?id=ac360f90-36a2-11ee-be2d-676a2489bc16)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
