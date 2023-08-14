@@ -25,7 +25,7 @@ export interface GovernanceProposal {
   enacted_by: string | null
   deleted_by: string | null
   required_to_pass: number
-  vesting_address: string | null
+  vesting_addresses: string[]
   textsearch: string
 }
 

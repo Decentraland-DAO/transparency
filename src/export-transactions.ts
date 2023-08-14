@@ -62,7 +62,7 @@ const WALLET_ADDRESSES = new Set(Wallets.getAddresses())
 const PAGE_SIZE = 1000
 
 const GRANTS: GrantProposal[] = RAW_GRANTS
-const GRANTS_VESTING_ADDRESSES = new Set(GRANTS.filter(g => g.status === Status.ENACTED && g.vesting_address).map(g => g.vesting_address.toLowerCase()))
+const GRANTS_VESTING_ADDRESSES = new Set(flattenArray(GRANTS.filter(g => g.status === Status.ENACTED && g.vesting_addresses.length > 0).map(g => g.vesting_addresses.map(address => address.toLowerCase()))))
 const GRANTS_ENACTING_TXS = new Set(GRANTS.filter(g => g.status === Status.ENACTED && g.enacting_tx).map(g => g.enacting_tx.toLowerCase()))
 const SAB_ADDRESS = '0x0e659a116e161d8e502f9036babda51334f2667e' // Sec Advisory Board
 const FACILITATOR_ADDRESS = '0x76fb13f00cdbdd5eac8e2664cf14be791af87cb0'

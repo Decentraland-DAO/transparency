@@ -15,12 +15,13 @@ export interface Updates {
 }
 
 export interface VestingInfo {
+  vesting_address: string
   token: TokenSymbols
   vesting_released: number
   vesting_releasable: number
   vesting_start_at: string
   vesting_finish_at: string
-  vesting_token_contract_balance: number
+  vesting_contract_token_balance: number
   vesting_total_amount: number
   vesting_status: VestingStatus
   duration_in_months: number
@@ -32,11 +33,12 @@ export interface OneTimePaymentInfo {
   tx_amount: number
 }
 
-type Grant = Partial<Updates> & Partial<VestingInfo> & Partial<OneTimePaymentInfo> & {
+type Grant = Partial<Updates> & Partial<OneTimePaymentInfo> & {
   category?: Category
   tier?: string
   size?: number
   beneficiary?: string
+  vesting?: VestingInfo[]
 }
 
 export type GrantProposal = Grant & ProposalParsed

@@ -25,6 +25,7 @@ import {
   COVALENT_API_KEY,
   fetchCovalentURL,
   fetchURL,
+  flattenArray,
   getMonthsBetweenDates,
   INFURA_URL,
   isSameAddress,
@@ -80,8 +81,8 @@ async function _getVestingContractDataV1(vestingAddress: string): Promise<Vestin
 
   const tokenContract = new web3.eth.Contract(token.abi, contract_token_address)
   const raw_token_contract_balance = await tokenContract.methods.balanceOf(vestingAddress).call()
-  const vesting_token_contract_balance = parseNumber(raw_token_contract_balance, decimals)
-  const vesting_total_amount = vesting_token_contract_balance + vesting_released
+  const vesting_contract_token_balance = parseNumber(raw_token_contract_balance, decimals)
+  const vesting_total_amount = vesting_contract_token_balance + vesting_released
 
   let vesting_status = getInitialVestingStatus(vesting_start_at, vesting_finish_at)
 
@@ -93,11 +94,12 @@ async function _getVestingContractDataV1(vestingAddress: string): Promise<Vestin
 
   return {
     token: token.symbol,
+    vesting_address: vestingAddress.toLowerCase(),
     vesting_released,
     vesting_releasable,
     vesting_start_at,
     vesting_finish_at,
-    vesting_token_contract_balance,
+    vesting_contract_token_balance,
     vesting_total_amount,
     vesting_status,
     duration_in_months: getMonthsBetweenDates(new Date(vesting_start_at), new Date(vesting_finish_at))
@@ -140,8 +142,8 @@ async function _getVestingContractDataV2(vestingAddress: string): Promise<Vestin
 
   const tokenContract = new web3.eth.Contract(token.abi, contract_token_address)
   const raw_token_contract_balance = await tokenContract.methods.balanceOf(vestingAddress).call()
-  const vesting_token_contract_balance = parseNumber(raw_token_contract_balance, decimals)
-  const vesting_total_amount = vesting_token_contract_balance + vesting_released
+  const vesting_contract_token_balance = parseNumber(raw_token_contract_balance, decimals)
+  const vesting_total_amount = vesting_contract_token_balance + vesting_released
 
   let vesting_status = getInitialVestingStatus(vesting_start_at, vesting_finish_at)
 
@@ -158,25 +160,26 @@ async function _getVestingContractDataV2(vestingAddress: string): Promise<Vestin
 
   return {
     token: token.symbol,
+    vesting_address: vestingAddress.toLowerCase(),
     vesting_released,
     vesting_releasable,
     vesting_start_at,
     vesting_finish_at,
-    vesting_token_contract_balance,
+    vesting_contract_token_balance,
     vesting_total_amount,
     vesting_status,
     duration_in_months: getMonthsBetweenDates(new Date(vesting_start_at), new Date(vesting_finish_at))
   }
 }
 
-async function getVestingContractData(proposalId: string, vestingAddress: string): Promise<VestingInfo> {
+async function getVestingContractData(proposalId: string, vestingAddresses: string[]): Promise<VestingInfo[]> {
   try {
-    return await _getVestingContractDataV1(vestingAddress)
+    return await Promise.all(vestingAddresses.map((address) => _getVestingContractDataV1(address)))
   } catch (errorV1) {
     try {
-      return await _getVestingContractDataV2(vestingAddress)
+      return await Promise.all(vestingAddresses.map((address) => _getVestingContractDataV2(address)))
     } catch (errorV2) {
-      rollbar.log(`Error trying to get vesting data for proposal ${proposalId}, vesting address ${vestingAddress}`, `Error V1: ${errorV1}, Error V2: ${errorV2}`)
+      rollbar.log(`Error trying to get vesting data`, {proposalId, vestingAddresses, errorV1, errorV2})
     }
   }
 }
@@ -235,19 +238,19 @@ function parseUpdatesInfo(updatesResponseData: GrantUpdateResponse['data']): Upd
 
 async function setEnactingData(proposal: GrantProposal): Promise<void> {
 
-  const assignProposalData = (data: Updates | VestingInfo | OneTimePaymentInfo) => {
+  const assignProposalData = (data: Updates | OneTimePaymentInfo) => {
     Object.assign(proposal, data)
   }
 
-  if (proposal.vesting_address) {
-    const vestingContractData = await getVestingContractData(proposal.id, proposal.vesting_address.toLowerCase())
-    assignProposalData(vestingContractData)
+  if (proposal.vesting_addresses.length > 0) {
+    const vestingContractData = await getVestingContractData(proposal.id, proposal.vesting_addresses)
+    proposal.vesting = vestingContractData
   }
   if (proposal.enacting_tx) {
     const enactingTxData = await getEnactingTxData(proposal.id, proposal.enacting_tx.toLowerCase(), proposal.beneficiary)
     assignProposalData(enactingTxData)
   }
-  if (proposal.vesting_address === null && proposal.enacting_tx === null) {
+  if (proposal.vesting_addresses.length === 0 && proposal.enacting_tx === null) {
     console.log(`A proposal without vesting address and enacting tx has been found. Id ${proposal.id}`)
   }
 
@@ -263,7 +266,7 @@ async function setEnactingData(proposal: GrantProposal): Promise<void> {
 
 async function main() {
   // Get Governance dApp Proposals
-  const proposals: GrantProposal[] = PROPOSALS.filter(p => p.type === GovernanceProposalType.GRANT)
+  const proposals = (PROPOSALS as GrantProposal[]).filter(p => p.type === GovernanceProposalType.GRANT)
   const unresolvedEnactingData: Promise<void>[] = []
 
   for (const proposal of proposals) {
@@ -300,16 +303,6 @@ async function main() {
     { id: 'beneficiary', title: 'Beneficiary' },
     { id: 'token', title: 'Token' },
 
-    { id: 'vesting_status', title: 'Vesting Status' },
-    { id: 'vesting_address', title: 'Vesting Contract' },
-    { id: 'vesting_released', title: 'Vesting Released Amount' },
-    { id: 'vesting_releasable', title: 'Vesting Releasable Amount' },
-    { id: 'vesting_token_contract_balance', title: 'Vesting Token Contract Balance' },
-    { id: 'vesting_total_amount', title: 'Vesting Total Amount' },
-    { id: 'vesting_start_at', title: 'Vesting Start At' },
-    { id: 'vesting_finish_at', title: 'Vesting Finish At' },
-    { id: 'duration_in_months', title: 'Duration (Months)' },
-
     { id: `enacting_tx`, title: 'Enacting Transaction' },
     { id: 'tx_date', title: 'Transaction Date' },
     { id: 'tx_amount', title: 'Transaction Amount' },
@@ -323,6 +316,22 @@ async function main() {
     { id: 'next_update', title: 'Next Update' },
     { id: 'pending_updates', title: 'Pending Updates' }
   ])
+
+  const vestings = flattenArray(proposals.map(({ vesting, id }) => vesting?.map((vestingData) => ({ proposal_id: id, ...vestingData })))).filter(v => v)
+  saveToJSON('vestings.json', vestings)
+  await saveToCSV('vestings.csv', vestings, [
+    { id: 'proposal_id', title: 'Proposal ID' },
+    { id: 'vesting_status', title: 'Vesting Status' },
+    { id: 'vesting_address', title: 'Vesting Contract' },
+    { id: 'vesting_released', title: 'Vesting Released Amount' },
+    { id: 'vesting_releasable', title: 'Vesting Releasable Amount' },
+    { id: 'vesting_contract_token_balance', title: 'Vesting Token Contract Balance' },
+    { id: 'vesting_total_amount', title: 'Vesting Total Amount' },
+    { id: 'vesting_start_at', title: 'Vesting Start At' },
+    { id: 'vesting_finish_at', title: 'Vesting Finish At' },
+    { id: 'duration_in_months', title: 'Duration (Months)' },
+  ])
+
 }
 
 main().catch((error) => reportToRollbarAndThrow(__filename, error))
