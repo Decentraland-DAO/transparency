@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 10 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 10 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -26,7 +26,14 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since August 1, 2 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since August 1, 3 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Emotional support with help from retail therapy.](https://governance.decentraland.org/proposal/?id=a9d7cd60-3085-11ee-a512-65477fceb1b0) (Lower Tier)
+
+* Yes 77.69844669197492% 3,604,483 VP (93 votes)
+* No 22.238006047336672% 1,031,636 VP (15 votes)
+* Abstain 0.06354726068840998% 2,948 VP (6 votes)
 
 
 #### [Decentraland University Live Teaching Platform](https://governance.decentraland.org/proposal/?id=527ec930-2fde-11ee-a512-65477fceb1b0) (Higher Tier)
@@ -125,6 +132,7 @@ Since August 1, 2 grants have been approved and the vesting contract(s) will be 
 
 ## Grants
 
+* [XFounders Boot Camp. High school for Web3 Startups](https://governance.decentraland.org/proposal/?id=2ad1a500-3bf6-11ee-9496-2daa447e4bf3) (Higher Tier)
 * [In World Builder - No Code, No Deploy, Real-time Collaboration](https://governance.decentraland.org/proposal/?id=ca7784f0-3988-11ee-aec9-fb54fc0c7896) (Higher Tier)
 * [DCL Global Recruiting &amp; Onboarding Marketing Campaign Phygital T-shirt Contest](https://governance.decentraland.org/proposal/?id=38612570-3894-11ee-aec9-fb54fc0c7896) (Higher Tier)
 * [Designing Visual Content for DAO Documentation](https://governance.decentraland.org/proposal/?id=f5eda870-387b-11ee-aec9-fb54fc0c7896) (Lower Tier)
@@ -133,9 +141,6 @@ Since August 1, 2 grants have been approved and the vesting contract(s) will be 
 * [AI dapp to transform any 2D PFP NFT into a 3D Decentraland Wearable/Avatar](https://governance.decentraland.org/proposal/?id=31815fd0-3606-11ee-be2d-676a2489bc16) (Higher Tier)
 * [Open Source SammichGame SDK7 +Community tools](https://governance.decentraland.org/proposal/?id=e7399950-35f7-11ee-be2d-676a2489bc16) (Higher Tier)
 * [Decentraland Ambassador&#39;s Program](https://governance.decentraland.org/proposal/?id=55a85fd0-3539-11ee-a39d-ef9ca9e669fd) (Higher Tier)
-* [Buidlers Night - Ethereum Argentina Side Event](https://governance.decentraland.org/proposal/?id=e2eb8dd0-30c6-11ee-9309-9f2674902254) (Lower Tier)
-* [Create a Metaverse Gaming Center to teach builders how to develop games for DCL](https://governance.decentraland.org/proposal/?id=01535380-30c6-11ee-9309-9f2674902254) (Higher Tier)
-* [Emotional support with help from retail therapy.](https://governance.decentraland.org/proposal/?id=a9d7cd60-3085-11ee-a512-65477fceb1b0) (Lower Tier)
 
 ## Names Bans
 
