@@ -60,6 +60,5 @@ Since August 16, 0 grants have been approved and the vesting contract(s) will be
 ## Polls
 
 * [Allow also GNU License for platform parallel contributions](https://governance.decentraland.org/proposal/?id=39af1900-39e3-11ee-aec9-fb54fc0c7896)
-* [Proposal for Decentraland DAO Headquarters LAND Sizing (3X3, 4X4, 5X5) for Maximizing its Utility](https://governance.decentraland.org/proposal/?id=5762f150-38cc-11ee-aec9-fb54fc0c7896)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
