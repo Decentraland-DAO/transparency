@@ -9,12 +9,26 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+2 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -63, -68: [Genesis Plaza](https://governance.decentraland.org/proposal/?id=22336870-37a5-11ee-aec9-fb54fc0c7896)
+
+* Yes 99.98668364037377% 7,523,577 VP (90 votes)
+* No 0.00002657956013220142% 2 VP (2 votes)
+* Abstain 0.013289780066100708% 1,000 VP (4 votes)
+
+
+#### -103, -144: [Vroomway](https://governance.decentraland.org/proposal/?id=f8c68cb0-37a4-11ee-aec9-fb54fc0c7896)
+
+* Yes 99.98702818499781% 7,908,430 VP (84 votes)
+* No 0.00007585856726429732% 6 VP (5 votes)
+* Abstain 0.012895956434930543% 1,020 VP (4 votes)
 
 
 ## Name Bans
@@ -36,11 +50,10 @@ Since August 16, 0 grants have been approved and the vesting contract(s) will be
 
 ## Points of Interest
 
-* -63, -68: [Genesis Plaza](https://governance.decentraland.org/proposal/?id=22336870-37a5-11ee-aec9-fb54fc0c7896)
-* -103, -144: [Vroomway](https://governance.decentraland.org/proposal/?id=f8c68cb0-37a4-11ee-aec9-fb54fc0c7896)
 
 ## Grants
 
+* [Social Media Marketing for the Wearables Market](https://governance.decentraland.org/proposal/?id=18f488a0-3d24-11ee-88e6-1fe6cb69ee51) (Lower Tier)
 * [XFounders Boot Camp. High school for Web3 Startups](https://governance.decentraland.org/proposal/?id=2ad1a500-3bf6-11ee-9496-2daa447e4bf3) (Higher Tier)
 * [In World Builder - No Code, No Deploy, Real-time Collaboration](https://governance.decentraland.org/proposal/?id=ca7784f0-3988-11ee-aec9-fb54fc0c7896) (Higher Tier)
 * [DCL Global Recruiting &amp; Onboarding Marketing Campaign Phygital T-shirt Contest](https://governance.decentraland.org/proposal/?id=38612570-3894-11ee-aec9-fb54fc0c7896) (Higher Tier)
@@ -59,6 +72,8 @@ Since August 16, 0 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Should the DAO institute another grant freeze?](https://governance.decentraland.org/proposal/?id=cf71fa30-3d52-11ee-88e6-1fe6cb69ee51)
+* [Should everything developed or funded by Decentraland Foundation &amp; DAO be GNU A-GPL3?](https://governance.decentraland.org/proposal/?id=0f7cee00-3cef-11ee-8a20-21bcd668e635)
 * [Allow also GNU License for platform parallel contributions](https://governance.decentraland.org/proposal/?id=39af1900-39e3-11ee-aec9-fb54fc0c7896)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

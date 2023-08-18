@@ -127,11 +127,10 @@ Since August 1, 3 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
-* -63, -68: [Genesis Plaza](https://governance.decentraland.org/proposal/?id=22336870-37a5-11ee-aec9-fb54fc0c7896)
-* -103, -144: [Vroomway](https://governance.decentraland.org/proposal/?id=f8c68cb0-37a4-11ee-aec9-fb54fc0c7896)
 
 ## Grants
 
+* [Social Media Marketing for the Wearables Market](https://governance.decentraland.org/proposal/?id=18f488a0-3d24-11ee-88e6-1fe6cb69ee51) (Lower Tier)
 * [XFounders Boot Camp. High school for Web3 Startups](https://governance.decentraland.org/proposal/?id=2ad1a500-3bf6-11ee-9496-2daa447e4bf3) (Higher Tier)
 * [In World Builder - No Code, No Deploy, Real-time Collaboration](https://governance.decentraland.org/proposal/?id=ca7784f0-3988-11ee-aec9-fb54fc0c7896) (Higher Tier)
 * [DCL Global Recruiting &amp; Onboarding Marketing Campaign Phygital T-shirt Contest](https://governance.decentraland.org/proposal/?id=38612570-3894-11ee-aec9-fb54fc0c7896) (Higher Tier)
@@ -150,6 +149,8 @@ Since August 1, 3 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+* [Should the DAO institute another grant freeze?](https://governance.decentraland.org/proposal/?id=cf71fa30-3d52-11ee-88e6-1fe6cb69ee51)
+* [Should everything developed or funded by Decentraland Foundation &amp; DAO be GNU A-GPL3?](https://governance.decentraland.org/proposal/?id=0f7cee00-3cef-11ee-8a20-21bcd668e635)
 * [Allow also GNU License for platform parallel contributions](https://governance.decentraland.org/proposal/?id=39af1900-39e3-11ee-aec9-fb54fc0c7896)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
