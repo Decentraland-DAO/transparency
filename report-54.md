@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -45,6 +45,13 @@ Since August 16, 0 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+#### [Allow also GNU License for platform parallel contributions](https://governance.decentraland.org/proposal/?id=39af1900-39e3-11ee-aec9-fb54fc0c7896)
+
+* YES 99.99099192923353% 8,602,621 VP (92 votes)
+* NO 0.000011623317118031066% 1 VP (2 votes)
+* Invalid question/options 0.008996447449356045% 774 VP (3 votes)
+
+
 
 # Active Proposals
 
@@ -72,8 +79,8 @@ Since August 16, 0 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [DAO Grants Program: Compatibility of Grant Project Deliverables with the last stable version of Decentraland SDK](https://governance.decentraland.org/proposal/?id=4bb8cec0-3e07-11ee-88e6-1fe6cb69ee51)
 * [Should the DAO institute another grant freeze?](https://governance.decentraland.org/proposal/?id=cf71fa30-3d52-11ee-88e6-1fe6cb69ee51)
 * [Should everything developed or funded by Decentraland Foundation &amp; DAO be GNU A-GPL3?](https://governance.decentraland.org/proposal/?id=0f7cee00-3cef-11ee-8a20-21bcd668e635)
-* [Allow also GNU License for platform parallel contributions](https://governance.decentraland.org/proposal/?id=39af1900-39e3-11ee-aec9-fb54fc0c7896)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
