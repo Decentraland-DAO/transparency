@@ -60,6 +60,7 @@ Since August 16, 0 grants have been approved and the vesting contract(s) will be
 
 ## Grants
 
+* [Strategic Finance ($StratFi): Merging GameFi and DeFi visioning frictionless UX.](https://governance.decentraland.org/proposal/?id=911824f0-3f7b-11ee-88e6-1fe6cb69ee51) (Lower Tier)
 * [Social Media Marketing for the Wearables Market](https://governance.decentraland.org/proposal/?id=18f488a0-3d24-11ee-88e6-1fe6cb69ee51) (Lower Tier)
 * [XFounders Boot Camp. High school for Web3 Startups](https://governance.decentraland.org/proposal/?id=2ad1a500-3bf6-11ee-9496-2daa447e4bf3) (Higher Tier)
 * [In World Builder - No Code, No Deploy, Real-time Collaboration](https://governance.decentraland.org/proposal/?id=ca7784f0-3988-11ee-aec9-fb54fc0c7896) (Higher Tier)
