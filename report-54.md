@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -40,7 +40,14 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since August 16, 0 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since August 16, 1 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Decentraland Ambassador&#39;s Program](https://governance.decentraland.org/proposal/?id=55a85fd0-3539-11ee-a39d-ef9ca9e669fd) (Higher Tier)
+
+* Yes 96.7352605935066% 16,352,527 VP (96 votes)
+* No 3.2602198763257784% 551,121 VP (14 votes)
+* Abstain 0.0045195301676272445% 764 VP (5 votes)
 
 
 ## Polls
@@ -70,7 +77,6 @@ Since August 16, 0 grants have been approved and the vesting contract(s) will be
 * [Top Performing Scenes Reward Program](https://governance.decentraland.org/proposal/?id=0fffd3b0-378b-11ee-be2d-676a2489bc16) (Higher Tier)
 * [AI dapp to transform any 2D PFP NFT into a 3D Decentraland Wearable/Avatar](https://governance.decentraland.org/proposal/?id=31815fd0-3606-11ee-be2d-676a2489bc16) (Higher Tier)
 * [Open Source SammichGame SDK7 +Community tools](https://governance.decentraland.org/proposal/?id=e7399950-35f7-11ee-be2d-676a2489bc16) (Higher Tier)
-* [Decentraland Ambassador&#39;s Program](https://governance.decentraland.org/proposal/?id=55a85fd0-3539-11ee-a39d-ef9ca9e669fd) (Higher Tier)
 
 ## Names Bans
 
@@ -80,6 +86,7 @@ Since August 16, 0 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Proof of Education + Education program + Require certifications for voting in categories](https://governance.decentraland.org/proposal/?id=1e5ff5b0-40ce-11ee-88e6-1fe6cb69ee51)
 * [Grants: Reasonable anti-drain measures](https://governance.decentraland.org/proposal/?id=b293cd80-3ece-11ee-88e6-1fe6cb69ee51)
 * [DAO Grants Program: Compatibility of Grant Project Deliverables with the last stable version of Decentraland SDK](https://governance.decentraland.org/proposal/?id=4bb8cec0-3e07-11ee-88e6-1fe6cb69ee51)
 * [Should the DAO institute another grant freeze?](https://governance.decentraland.org/proposal/?id=cf71fa30-3d52-11ee-88e6-1fe6cb69ee51)
