@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 10 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 8 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -52,13 +52,6 @@ Since August 1, 3 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
-#### [Double the VP threshold for all proposals and grants  ](https://governance.decentraland.org/proposal/?id=48cb2a10-36c7-11ee-be2d-676a2489bc16)
-
-* Yes double 27.67548430431187% 4,733,420 VP (65 votes)
-* No 72.29725779171453% 12,365,214 VP (43 votes)
-* Invalid question/options 0.02725790397359667% 4,662 VP (2 votes)
-
-
 #### [should we promote decentraland names as an alternative cryptocurrency human readable wallet addresses?](https://governance.decentraland.org/proposal/?id=ac360f90-36a2-11ee-be2d-676a2489bc16)
 
 * Yes 84.96123404675822% 5,657,295 VP (67 votes)
@@ -71,13 +64,6 @@ Since August 1, 3 grants have been approved and the vesting contract(s) will be 
 * Yes 72.06446135637586% 4,027,744 VP (56 votes)
 * No 0.00007156806525576191% 4 VP (4 votes)
 * Invalid question/options 27.93546707555888% 1,561,337 VP (31 votes)
-
-
-#### [Proposal for District X VP and Esteban&#39;s Delegation VP Removal](https://governance.decentraland.org/proposal/?id=25de3650-3497-11ee-a39d-ef9ca9e669fd)
-
-* Yes 1.1598695069863005% 163,937 VP (24 votes)
-* No 80.98023289790854% 11,445,819 VP (60 votes)
-* Invalid question/options 17.859897595105167% 2,524,334 VP (14 votes)
 
 
 #### [: Decentraland Governance - Lowering Wearable Publishing Fee](https://governance.decentraland.org/proposal/?id=8e05a7f0-324d-11ee-a39d-ef9ca9e669fd)
@@ -127,6 +113,8 @@ Since August 1, 3 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
+* -145, 113: [XETAPLEX](https://governance.decentraland.org/proposal/?id=baa7c2d0-415b-11ee-aa49-bbddd046ff94)
+* 72, -24: [No Name](https://governance.decentraland.org/proposal/?id=f51b4ab0-4136-11ee-aa49-bbddd046ff94)
 
 ## Grants
 
@@ -138,8 +126,6 @@ Since August 1, 3 grants have been approved and the vesting contract(s) will be 
 * [Designing Visual Content for DAO Documentation](https://governance.decentraland.org/proposal/?id=f5eda870-387b-11ee-aec9-fb54fc0c7896) (Lower Tier)
 * [Death to Tennis - Onboarding Artists to DCL through Phygital events](https://governance.decentraland.org/proposal/?id=bf9770b0-3792-11ee-aec9-fb54fc0c7896) (Higher Tier)
 * [Top Performing Scenes Reward Program](https://governance.decentraland.org/proposal/?id=0fffd3b0-378b-11ee-be2d-676a2489bc16) (Higher Tier)
-* [AI dapp to transform any 2D PFP NFT into a 3D Decentraland Wearable/Avatar](https://governance.decentraland.org/proposal/?id=31815fd0-3606-11ee-be2d-676a2489bc16) (Higher Tier)
-* [Open Source SammichGame SDK7 +Community tools](https://governance.decentraland.org/proposal/?id=e7399950-35f7-11ee-be2d-676a2489bc16) (Higher Tier)
 
 ## Names Bans
 
@@ -152,7 +138,5 @@ Since August 1, 3 grants have been approved and the vesting contract(s) will be 
 * [Proof of Education + Education program + Require certifications for voting in categories](https://governance.decentraland.org/proposal/?id=1e5ff5b0-40ce-11ee-88e6-1fe6cb69ee51)
 * [Grants: Reasonable anti-drain measures](https://governance.decentraland.org/proposal/?id=b293cd80-3ece-11ee-88e6-1fe6cb69ee51)
 * [DAO Grants Program: Compatibility of Grant Project Deliverables with the last stable version of Decentraland SDK](https://governance.decentraland.org/proposal/?id=4bb8cec0-3e07-11ee-88e6-1fe6cb69ee51)
-* [Should the DAO institute another grant freeze?](https://governance.decentraland.org/proposal/?id=cf71fa30-3d52-11ee-88e6-1fe6cb69ee51)
-* [Should everything developed or funded by Decentraland Foundation &amp; DAO be GNU A-GPL3?](https://governance.decentraland.org/proposal/?id=0f7cee00-3cef-11ee-8a20-21bcd668e635)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
