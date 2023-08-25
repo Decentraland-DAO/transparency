@@ -6,6 +6,7 @@ export interface MemberVP {
   totalVP: number
   manaVP: number
   landVP: number
+  estateVP: number
   namesVP: number
   delegatedVP: number
   l1WearablesVP: number

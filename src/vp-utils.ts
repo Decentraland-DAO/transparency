@@ -237,7 +237,8 @@ export function parseVP(scores: number[]): MemberVP {
   return {
     totalVP: scores.reduce((acc, val) => acc + val, 0),
     manaVP: getScore(scores, StrategyOrder.WrappedMana) + getScore(scores, StrategyOrder.Mana),
-    landVP: getScore(scores, StrategyOrder.Land) + getScore(scores, StrategyOrder.Estate),
+    landVP: getScore(scores, StrategyOrder.Land),
+    estateVP: getScore(scores, StrategyOrder.Estate),
     namesVP: getScore(scores, StrategyOrder.Names),
     delegatedVP: getScore(scores, StrategyOrder.Delegation),
     l1WearablesVP: getScore(scores, StrategyOrder.L1Wearables),

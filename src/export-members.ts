@@ -4,16 +4,15 @@ import { SnapshotSpace } from './interfaces/GovernanceProposal'
 import { DelegationInfo, MemberInfo, Vote } from './interfaces/Members'
 import {
   fetchDelegations,
-  fetchGraphQLCondition,
   flattenArray,
-  MEMBER_VOTE_VP_THRESHOLD,
   reportToRollbarAndThrow,
   saveToCSV,
   saveToJSON,
-  snapshotUrl,
   splitArray
 } from './utils'
 import { getScoresForAddress, parseVP, STRATEGIES } from './vp-utils'
+import VOTES from '../public/votes.json'
+import { VotesParsed } from './export-votes'
 
 const MAX_RETRIES = 10
 
@@ -109,10 +108,7 @@ async function getMembersInfo(addresses: string[], jobId: number) {
 }
 
 async function main() {
-  // Fetch Snapshot Votes
-  const url = snapshotUrl()
-  const where = `space_in: ["${space}"], vp_gt: ${MEMBER_VOTE_VP_THRESHOLD}`
-  const votes = await fetchGraphQLCondition<Vote>(url, 'votes', 'created', 'voter', 'voter created', where)
+  const votes = VOTES as VotesParsed[]
 
   const members = new Set(votes.map(v => v.voter.toLowerCase())) // Unique addresses
   console.log('Total Members:', members.size)
@@ -126,6 +122,7 @@ async function main() {
     { id: 'totalVP', title: 'Total VP' },
     { id: 'manaVP', title: 'MANA VP' },
     { id: 'landVP', title: 'LAND VP' },
+    { id: 'estateVP', title: 'ESTATE VP' },
     { id: 'namesVP', title: 'NAMES VP' },
     { id: 'delegatedVP', title: 'Delegated VP' },
     { id: 'l1WearablesVP', title: 'L1 Wearables VP' },

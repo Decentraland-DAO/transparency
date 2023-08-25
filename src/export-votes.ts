@@ -21,7 +21,7 @@ export type VotesParsed = {
   proposal_title: string
   choice_text: string
   weight: number
-} & Pick<MemberVP, 'manaVP' | 'namesVP' | 'landVP' | 'delegatedVP' | 'l1WearablesVP' | 'rentalVP'>
+} & Omit<MemberVP, 'totalVP'>
 
 async function main() {
   // Fetch Snapshot Votes
@@ -43,6 +43,7 @@ async function main() {
       manaVP: vpSources.manaVP,
       namesVP: vpSources.namesVP,
       landVP: vpSources.landVP,
+      estateVP: vpSources.estateVP,
       delegatedVP: vpSources.delegatedVP,
       l1WearablesVP: vpSources.l1WearablesVP,
       rentalVP: vpSources.rentalVP
@@ -63,6 +64,7 @@ async function main() {
     { id: 'manaVP', title: 'MANA VP' },
     { id: 'namesVP', title: 'Names VP' },
     { id: 'landVP', title: 'LAND VP' },
+    { id: 'estateVP', title: 'ESTATE VP' },
     { id: 'delegatedVP', title: 'Delegated VP' },
     { id: 'l1WearablesVP', title: 'L1 Wearables VP' },
     { id: 'rentalVP', title: 'Rental VP' }
