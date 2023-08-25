@@ -8,7 +8,8 @@ describe('parseVP', () => {
 
     it('returns an object with the sum of vp, and the vp for each strategy', () => {
       expect(parseVP(get.scores)).toEqual({
-        landVP: 74,
+        landVP: 30,
+        estateVP: 44,
         manaVP: 77,
         namesVP: 66,
         delegatedVP: 77,
@@ -31,7 +32,8 @@ describe('parseVP', () => {
 
     it('returns an object with the sum of vp from land and mana', () => {
       expect(parseVP(get.scores)).toEqual({
-        landVP: 74,
+        landVP: 30,
+        estateVP: 44,
         manaVP: 77,
         namesVP: 0,
         delegatedVP: 0,
@@ -47,7 +49,8 @@ describe('parseVP', () => {
 
     it('returns an object with the sum of vp, no rental vp and no wearables vp', () => {
       expect(parseVP(get.scores)).toEqual({
-        landVP: 74,
+        landVP: 30,
+        estateVP: 44,
         manaVP: 77,
         namesVP: 66,
         delegatedVP: 77,
@@ -63,7 +66,8 @@ describe('parseVP', () => {
 
     it('returns an object with the sum of all vp, and the vp for each known strategy', () => {
       expect(parseVP(get.scores)).toEqual({
-        landVP: 74,
+        landVP: 30,
+        estateVP: 44,
         manaVP: 77,
         namesVP: 66,
         delegatedVP: 77,
@@ -86,7 +90,8 @@ describe('parseVP', () => {
 
     it('returns an object with the sum of all vp, and the vp for each known strategy', () => {
       expect(parseVP(get.scores)).toEqual({
-        landVP: 74,
+        landVP: 30,
+        estateVP: 44,
         manaVP: 77,
         namesVP: 66,
         delegatedVP: 0,
