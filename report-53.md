@@ -118,14 +118,13 @@ Since August 1, 3 grants have been approved and the vesting contract(s) will be 
 
 ## Grants
 
+* [Let’s Engage the Indigenous Community](https://governance.decentraland.org/proposal/?id=80b3ec40-41c2-11ee-aa49-bbddd046ff94) (Lower Tier)
 * [Strategic Finance ($StratFi): Merging GameFi and DeFi visioning frictionless UX.](https://governance.decentraland.org/proposal/?id=911824f0-3f7b-11ee-88e6-1fe6cb69ee51) (Lower Tier)
 * [Social Media Marketing for the Wearables Market](https://governance.decentraland.org/proposal/?id=18f488a0-3d24-11ee-88e6-1fe6cb69ee51) (Lower Tier)
 * [XFounders Boot Camp. High school for Web3 Startups](https://governance.decentraland.org/proposal/?id=2ad1a500-3bf6-11ee-9496-2daa447e4bf3) (Higher Tier)
 * [In World Builder - No Code, No Deploy, Real-time Collaboration](https://governance.decentraland.org/proposal/?id=ca7784f0-3988-11ee-aec9-fb54fc0c7896) (Higher Tier)
 * [DCL Global Recruiting &amp; Onboarding Marketing Campaign Phygital T-shirt Contest](https://governance.decentraland.org/proposal/?id=38612570-3894-11ee-aec9-fb54fc0c7896) (Higher Tier)
 * [Designing Visual Content for DAO Documentation](https://governance.decentraland.org/proposal/?id=f5eda870-387b-11ee-aec9-fb54fc0c7896) (Lower Tier)
-* [Death to Tennis - Onboarding Artists to DCL through Phygital events](https://governance.decentraland.org/proposal/?id=bf9770b0-3792-11ee-aec9-fb54fc0c7896) (Higher Tier)
-* [Top Performing Scenes Reward Program](https://governance.decentraland.org/proposal/?id=0fffd3b0-378b-11ee-be2d-676a2489bc16) (Higher Tier)
 
 ## Names Bans
 
@@ -135,8 +134,8 @@ Since August 1, 3 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+* [Revoke Grant &#34; FIRST METAVERSE ARCHITECTURE BIENNALE&#34;](https://governance.decentraland.org/proposal/?id=c2f07c40-4302-11ee-86cd-dda3c5b69de3)
+* [Create a grant accountability squad ](https://governance.decentraland.org/proposal/?id=05744e70-41d2-11ee-aa49-bbddd046ff94)
 * [Proof of Education + Education program + Require certifications for voting in categories](https://governance.decentraland.org/proposal/?id=1e5ff5b0-40ce-11ee-88e6-1fe6cb69ee51)
-* [Grants: Reasonable anti-drain measures](https://governance.decentraland.org/proposal/?id=b293cd80-3ece-11ee-88e6-1fe6cb69ee51)
-* [DAO Grants Program: Compatibility of Grant Project Deliverables with the last stable version of Decentraland SDK](https://governance.decentraland.org/proposal/?id=4bb8cec0-3e07-11ee-88e6-1fe6cb69ee51)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
