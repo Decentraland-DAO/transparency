@@ -2,11 +2,15 @@
 ** NOTICE: Addresses must be in lowercase
 */
 
-import { DAOCommittee } from "../entities/Teams"
+import { DAOCommittee, RevocationCommittee } from "../entities/Teams"
 
 export const DAO_COMMITTEE_ADDRESSES = [
   '0x521b0fef9cdcf250abaf8e7bc798cbe13fa98692',
   ...DAOCommittee.getMemberAddresses()
+]
+
+export const REVOCATIONS_COMMITTEE_ADDRESSES = [
+  ...RevocationCommittee.getMemberAddresses()
 ]
 
 export const SWAP_CONTRACTS = [
