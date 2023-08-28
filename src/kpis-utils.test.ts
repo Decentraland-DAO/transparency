@@ -47,6 +47,7 @@ describe('getVPDistributionRows', () => {
     namesVP: 1,
     delegatedVP: 1,
     l1WearablesVP: 1,
+    estateVP: 1,
     rentalVP: 1
   }
   const MEMBER_2 = { ...MEMBER_1, totalVP: 1000 }
