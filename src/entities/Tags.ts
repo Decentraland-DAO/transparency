@@ -1,4 +1,4 @@
-import { CURATION_FEE_CONTRACTS, CURATORS_PAYMENT_ADDRESSES, DAO_COMMITTEE_ADDRESSES, GRANTS_REVENUE_ADDRESSES, SECONDARY_SALE_CONTRACTS, SWAP_CONTRACTS, WEARABLE_CONTRACTS } from "../utils/addresses"
+import { CURATION_FEE_CONTRACTS, CURATORS_PAYMENT_ADDRESSES, DAO_COMMITTEE_ADDRESSES, GRANTS_REVENUE_ADDRESSES, REVOCATIONS_COMMITTEE_ADDRESSES, SECONDARY_SALE_CONTRACTS, SWAP_CONTRACTS, WEARABLE_CONTRACTS } from "../utils/addresses"
 import { CurationCommittee } from "./Teams"
 
 export enum TagType {
@@ -18,6 +18,7 @@ export enum TagType {
   NAME_MINT_FEE = 'NAME fee :: MINT',
   OPENSEA = 'OpenSea',
   RENTAL_FEE = 'Land Rental Fee',
+  REVOCATIONS_COMMITTEE = 'Revocations Committee Compensation',
   SAB_DCL = 'SAB DCL',
   SECONDARY_SALE = 'Secondary Sale',
   SWAP = 'Swap',
@@ -50,6 +51,7 @@ export enum TagCategoryType {
   NAME_MARKETPLACE_SALES,
   NAMES_MINTING_FEE,
   OPENSEA_MARKETPLACE_FEE,
+  REVOCATIONS_COMMITTEE,
   VESTING_CONTRACT,
   WEARABLE_MARKETPLACE_SALES,
   WEARABLE_SUBMISSION_FEE,
@@ -75,6 +77,7 @@ const TAG_CATEGORIES: Record<keyof typeof TagCategoryType, TagCategory> = {
   NAME_MARKETPLACE_SALES: { name: 'NAME DCL Marketplace Sales Fee', description: 'Funds corresponding to the 2.5% fee applied to every NAME transaction (Minting or secondary)' },
   NAMES_MINTING_FEE: { name: 'Names Minting Fee', description: 'Funds corresponding to the fee applied to Names minting' },
   OPENSEA_MARKETPLACE_FEE: { name: 'OpenSea Marketplace Fee', description: 'Funds corresponding to the 2.5% fee applied to every transaction (ESTATE, LAND, NAME & Wearables) on OpenSea marketplace' },
+  REVOCATIONS_COMMITTEE: { name: 'Revocations Committee Compensation', description: 'Transactions corresponding to the payout of compensations for members of the Revocations Committee' },
   VESTING_CONTRACT: { name: 'MANA Vesting Contract', description: 'Funds corresponding to the 10-year MANA vesting contract that the DAO holds' },
   WEARABLE_MARKETPLACE_SALES: { name: 'Wearable L1 Sales Fee', description: 'Funds corresponding to the 2.5% fee applied to every Wearable transaction on Ethereum (Minting or secondary)' },
   WEARABLE_SUBMISSION_FEE: { name: 'Wearable Submission Fee', description: 'Funds corresponding to the fee applied to every new Wearable submission to the Decentraland Marketplace' },
@@ -108,6 +111,7 @@ const TAGS: Record<string, TagType> = {
   '0x59728544b08ab483533076417fbbb2fd0b17ce3a': TagType.LOOKSRARE,
   '0xbe92b49aee993adea3a002adcda189a2b7dec56c': TagType.NAME_MINT_FEE,
   ...ITEM_CONTRACTS,
+  ...toRecord(REVOCATIONS_COMMITTEE_ADDRESSES, TagType.REVOCATIONS_COMMITTEE),
   ...toRecord(DAO_COMMITTEE_ADDRESSES, TagType.DAO_COMMITTEE),
   ...toRecord(SWAP_CONTRACTS, TagType.SWAP),
   ...toRecord(SECONDARY_SALE_CONTRACTS, TagType.SECONDARY_SALE),
@@ -128,6 +132,7 @@ const TAG_CATEGORY_MAPPING: Record<ExportedTagType, TagCategory> = {
   [TagType.WEARABLE_BID_FEE]: TAG_CATEGORIES.WEARABLE_MARKETPLACE_SALES,
   [SecondarySaleItemTagType.WEARABLE]: TAG_CATEGORIES.WEARABLE_MARKETPLACE_SALES,
 
+  [TagType.REVOCATIONS_COMMITTEE]: TAG_CATEGORIES.REVOCATIONS_COMMITTEE,
   [TagType.RENTAL_FEE]: TAG_CATEGORIES.LAND_RENTAL_FEE,
   [TagType.LOOKSRARE]: TAG_CATEGORIES.LOOKSRARE_MARKETPLACE_FEE,
   [TagType.OPENSEA]: TAG_CATEGORIES.OPENSEA_MARKETPLACE_FEE,
