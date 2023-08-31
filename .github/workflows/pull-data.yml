@@ -148,6 +148,7 @@ jobs:
         run: npx ts-node ./src/export-budgets.ts
 
       - name: Deploy 🚀
+        if: ${{ !cancelled() }}
         uses: JamesIves/github-pages-deploy-action@v4.2.2
         with:
           branch: gh-pages
