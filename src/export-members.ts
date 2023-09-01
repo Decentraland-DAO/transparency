@@ -14,7 +14,13 @@ import { getScoresForAddress, parseVP, STRATEGIES } from './vp-utils'
 import VOTES from '../public/votes.json'
 import { VotesParsed } from './export-votes'
 
+require('dotenv').config()
+
+const SNAPSHOT_API_KEY = process.env.SNAPSHOT_API_KEY
+const SCORE_API_URL = `https://score.snapshot.org/?apiKey=${SNAPSHOT_API_KEY}`
 const MAX_RETRIES = 10
+
+console.log('SNAPSHOT_API_KEY', SCORE_API_URL);
 
 const space = SnapshotSpace.DCL
 const network = Networks.getEth().id.toString()
@@ -34,7 +40,7 @@ async function fetchSnapshotScores(addresses: string[], jobId: number) {
 
     for (const address of list) {
       try {
-        const score = await snapshot.utils.getScores(space, STRATEGIES, network, [address])
+        const score = await snapshot.utils.getScores(space, STRATEGIES, network, [address], undefined, SCORE_API_URL)
         for (const idx in score) {
           snapshotScores[idx] = { ...snapshotScores[idx], ...score[idx] }
         }

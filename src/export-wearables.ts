@@ -18,11 +18,13 @@ async function main() {
 
   for (const network of networks) {
     // Fetch Wearables
-    const url = collectionsUrl(network)
-    const networkWearables = await fetchGraphQLCondition<WearableParsed>(
-      url, 'items', 'createdAt', 'id',
-      'id creator itemType totalSupply maxSupply rarity creationFee available price beneficiary URI image createdAt updatedAt reviewedAt soldAt sales volume metadata { wearable { name description category collection } }'
-    )
+    const networkWearables = await fetchGraphQLCondition<WearableParsed>({
+      url: collectionsUrl(network), 
+      collection: 'items', 
+      fieldNameCondition: 'createdAt', 
+      dataKey: 'id',
+      fields: 'id creator itemType totalSupply maxSupply rarity creationFee available price beneficiary URI image createdAt updatedAt reviewedAt soldAt sales volume metadata { wearable { name description category collection } }'
+    })
 
     for (const w of networkWearables) {
       w.name = w.metadata.wearable?.name

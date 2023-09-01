@@ -20,14 +20,13 @@ interface CurationParsed {
 
 async function main() {
   // Fetch Curations
-  const url = collectionsUrl()
-  const curations = await fetchGraphQLCondition<Curation>(
-    url,
-    'curations',
-    'timestamp',
-    'txHash',
-    'id txHash curator { address } collection { id name itemsCount isApproved } isApproved timestamp'
-  )
+  const curations = await fetchGraphQLCondition<Curation>({
+    url: collectionsUrl(),
+    collection: 'curations',
+    fieldNameCondition: 'timestamp',
+    dataKey: 'txHash',
+    fields: 'id txHash curator { address } collection { id name itemsCount isApproved } isApproved timestamp'
+  })
 
   const curationsParsed: CurationParsed[] = curations.map((c) => {
     return {

@@ -10,8 +10,13 @@ import {
 
 async function main() {
   // Fetch Collections
-  const url = collectionsUrl()
-  const collections = await fetchGraphQLCondition<Collection>(url, 'collections', 'createdAt', 'id', 'id itemsCount creator name symbol isCompleted isApproved isEditable createdAt updatedAt reviewedAt')
+  const collections = await fetchGraphQLCondition<Collection>({
+    url: collectionsUrl(),
+    collection: 'collections',
+    fieldNameCondition: 'createdAt',
+    dataKey: 'id',
+    fields: 'id itemsCount creator name symbol isCompleted isApproved isEditable createdAt updatedAt reviewedAt'
+  })
 
   collections.forEach(c => {
     c.createdAt = toISOString(parseInt(c.createdAt))
