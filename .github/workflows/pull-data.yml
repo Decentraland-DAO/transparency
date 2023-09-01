@@ -151,5 +151,6 @@ jobs:
         if: ${{ !cancelled() }}
         uses: JamesIves/github-pages-deploy-action@v4.2.2
         with:
+          clean: false
           branch: gh-pages
           folder: public
