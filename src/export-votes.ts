@@ -12,6 +12,10 @@ import {
 import { parseVP } from './vp-utils'
 import { MemberVP } from './interfaces/Members'
 
+require('dotenv').config()
+
+const SNAPSHOT_API_KEY = process.env.SNAPSHOT_API_KEY
+
 export type VotesParsed = {
   voter: string
   created: string
@@ -25,9 +29,15 @@ export type VotesParsed = {
 
 async function main() {
   // Fetch Snapshot Votes
-  const url = snapshotUrl()
-  const where = `space_in: ["${SnapshotSpace.DCL}"], vp_gt: ${MEMBER_VOTE_VP_THRESHOLD}`
-  const votes = await fetchGraphQLCondition<Vote>(url, 'votes', 'created', 'id', 'id voter created choice proposal { id title choices scores_total } vp vp_by_strategy', where)
+  const votes = await fetchGraphQLCondition<Vote>({
+    url: snapshotUrl(), 
+    collection: 'votes', 
+    fieldNameCondition: 'created', 
+    dataKey: 'id', 
+    fields: 'id voter created choice proposal { id title choices scores_total } vp vp_by_strategy', 
+    where: `space_in: ["${SnapshotSpace.DCL}"], vp_gt: ${MEMBER_VOTE_VP_THRESHOLD}`,
+    apiKey: SNAPSHOT_API_KEY
+  })
 
   const votesParsed: VotesParsed[] = votes.map(vote => {
     const vpSources = parseVP(vote.vp_by_strategy)

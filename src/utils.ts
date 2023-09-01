@@ -146,7 +146,16 @@ function removeDuplicates<T>(data: T[], dataKey: string) {
   return Object.values(dataMap)
 }
 
-export async function fetchGraphQLCondition<T>(url: string, collection: string, fieldNameCondition: string, dataKey: string, fields: string, where?: string): Promise<T[]> {
+type GraphQLProps = {
+  url: string
+  collection: string
+  fieldNameCondition: string
+  dataKey: string
+  fields: string
+  where?: string
+  apiKey?: string
+}
+export async function fetchGraphQLCondition<T>({url, collection, fieldNameCondition, dataKey, fields, where, apiKey}: GraphQLProps): Promise<T[]> {
   let hasNext = true
   let lastField = 0
   const FIRST = 1000
@@ -158,10 +167,12 @@ export async function fetchGraphQLCondition<T>(url: string, collection: string, 
     }
   `
 
+  const apiKeyHeader = apiKey ? { 'x-api-key': apiKey } : {}
+
   const elements: T[] = []
   while (hasNext) {
     const json = await fetchURL(url, {
-      headers: { 'content-type': 'application/json' },
+      headers: { 'content-type': 'application/json', ...apiKeyHeader },
       body: JSON.stringify({ 'query': query, 'variables': { lastField } }),
       method: 'POST'
     }, 5)
@@ -188,8 +199,15 @@ export async function fetchDelegations(members: string[], space: string): Promis
 
   const where = (members: string[], memberIn: 'delegator' | 'delegate') => `space_in: ["", "${space}"], ${memberIn}_in: ${JSON.stringify(members)}`
 
-  const unresolvedGivenDelegations = fetchGraphQLCondition<Delegation>(snapshotQueryUrl, 'delegations', 'timestamp', 'id', 'id delegator delegate', where(members, 'delegator'))
-  const unresolvedReceivedDelegations = fetchGraphQLCondition<Delegation>(snapshotQueryUrl, 'delegations', 'timestamp', 'id', 'id delegator delegate', where(members, 'delegate'))
+  const delegationsProps: GraphQLProps = {
+    url: snapshotQueryUrl,
+    collection: 'delegations',
+    fieldNameCondition: 'timestamp',
+    dataKey: 'id',
+    fields: 'id delegator delegate',
+  }
+  const unresolvedGivenDelegations = fetchGraphQLCondition<Delegation>({...delegationsProps, where: where(members, 'delegator')})
+  const unresolvedReceivedDelegations = fetchGraphQLCondition<Delegation>({...delegationsProps, where: where(members, 'delegate')})
 
   const [snapshotGivenDelegations, snapshotReceivedDelegations] = await Promise.all([unresolvedGivenDelegations, unresolvedReceivedDelegations])
 
