@@ -20,8 +20,6 @@ const SNAPSHOT_API_KEY = process.env.SNAPSHOT_API_KEY
 const SCORE_API_URL = `https://score.snapshot.org/?apiKey=${SNAPSHOT_API_KEY}`
 const MAX_RETRIES = 10
 
-console.log('SNAPSHOT_API_KEY', SCORE_API_URL);
-
 const space = SnapshotSpace.DCL
 const network = Networks.getEth().id.toString()
 
