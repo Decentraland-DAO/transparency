@@ -9,12 +9,26 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
+In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-2 points of interest have been added to Decentraland’s map since the last report.
+4 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -145, 113: [XETAPLEX](https://governance.decentraland.org/proposal/?id=baa7c2d0-415b-11ee-aa49-bbddd046ff94)
+
+* Yes 99.99980729045889% 7,783,720 VP (77 votes)
+* No 0.00012847302740907803% 10 VP (3 votes)
+* Abstain 0.00006423651370453902% 5 VP (2 votes)
+
+
+#### 72, -24: [No Name](https://governance.decentraland.org/proposal/?id=f51b4ab0-4136-11ee-aa49-bbddd046ff94)
+
+* Yes 99.99994698746741% 9,431,727 VP (78 votes)
+* No 0% 0 VP (1 votes)
+* Abstain 0.00005301253258680379% 5 VP (2 votes)
 
 
 #### -63, -68: [Genesis Plaza](https://governance.decentraland.org/proposal/?id=22336870-37a5-11ee-aec9-fb54fc0c7896)
@@ -40,7 +54,21 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since August 16, 2 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since August 16, 4 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [In World Builder - No Code, No Deploy, Real-time Collaboration](https://governance.decentraland.org/proposal/?id=ca7784f0-3988-11ee-aec9-fb54fc0c7896) (Higher Tier)
+
+* Yes 88.74860851967935% 10,513,335 VP (122 votes)
+* No 6.976112249357326% 826,404 VP (9 votes)
+* Abstain 4.275279230963322% 506,458 VP (14 votes)
+
+
+#### [Designing Visual Content for DAO Documentation](https://governance.decentraland.org/proposal/?id=f5eda870-387b-11ee-aec9-fb54fc0c7896) (Lower Tier)
+
+* Yes 65.07412799041875% 7,730,714 VP (52 votes)
+* No 25.891790962484567% 3,075,908 VP (20 votes)
+* Abstain 9.034081047096691% 1,073,236 VP (27 votes)
 
 
 #### [Open Source SammichGame SDK7 +Community tools](https://governance.decentraland.org/proposal/?id=e7399950-35f7-11ee-be2d-676a2489bc16) (Higher Tier)
@@ -58,6 +86,13 @@ Since August 16, 2 grants have been approved and the vesting contract(s) will be
 
 
 ## Polls
+
+#### [Banning Individuals = Invalid Governance Question](https://governance.decentraland.org/proposal/?id=5783ce30-43ed-11ee-ab1f-97157a05bdec)
+
+* Enshrine Value; banning not a DAO competence. 77.11746047529857% 4,963,407 VP (73 votes)
+* No reference to banning; ambiguity on banning.  0.00010876041866546307% 7 VP (4 votes)
+* Invalid question/options 22.88243076428277% 1,472,751 VP (11 votes)
+
 
 #### [Grants: Reasonable anti-drain measures](https://governance.decentraland.org/proposal/?id=b293cd80-3ece-11ee-88e6-1fe6cb69ee51)
 
@@ -100,18 +135,13 @@ Since August 16, 2 grants have been approved and the vesting contract(s) will be
 
 ## Points of Interest
 
-* -145, 113: [XETAPLEX](https://governance.decentraland.org/proposal/?id=baa7c2d0-415b-11ee-aa49-bbddd046ff94)
-* 72, -24: [No Name](https://governance.decentraland.org/proposal/?id=f51b4ab0-4136-11ee-aa49-bbddd046ff94)
 
 ## Grants
 
+* [Calling for to Help Launch Noe Labs: Revolutionizing NFT Creation](https://governance.decentraland.org/proposal/?id=00516590-464b-11ee-ab1f-97157a05bdec) (Lower Tier)
+* [Simplifying Actions with AI Integration (e.g., Buying, Renting, Selling Land)](https://governance.decentraland.org/proposal/?id=57542ef0-437a-11ee-86cd-dda3c5b69de3) (Higher Tier)
 * [Let’s Engage the Indigenous Community](https://governance.decentraland.org/proposal/?id=80b3ec40-41c2-11ee-aa49-bbddd046ff94) (Lower Tier)
 * [Strategic Finance ($StratFi): Merging GameFi and DeFi visioning frictionless UX.](https://governance.decentraland.org/proposal/?id=911824f0-3f7b-11ee-88e6-1fe6cb69ee51) (Lower Tier)
-* [Social Media Marketing for the Wearables Market](https://governance.decentraland.org/proposal/?id=18f488a0-3d24-11ee-88e6-1fe6cb69ee51) (Lower Tier)
-* [XFounders Boot Camp. High school for Web3 Startups](https://governance.decentraland.org/proposal/?id=2ad1a500-3bf6-11ee-9496-2daa447e4bf3) (Higher Tier)
-* [In World Builder - No Code, No Deploy, Real-time Collaboration](https://governance.decentraland.org/proposal/?id=ca7784f0-3988-11ee-aec9-fb54fc0c7896) (Higher Tier)
-* [DCL Global Recruiting &amp; Onboarding Marketing Campaign Phygital T-shirt Contest](https://governance.decentraland.org/proposal/?id=38612570-3894-11ee-aec9-fb54fc0c7896) (Higher Tier)
-* [Designing Visual Content for DAO Documentation](https://governance.decentraland.org/proposal/?id=f5eda870-387b-11ee-aec9-fb54fc0c7896) (Lower Tier)
 
 ## Names Bans
 
@@ -121,8 +151,10 @@ Since August 16, 2 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
-* [Revoke Grant &#34; FIRST METAVERSE ARCHITECTURE BIENNALE&#34;](https://governance.decentraland.org/proposal/?id=c2f07c40-4302-11ee-86cd-dda3c5b69de3)
-* [Create a grant accountability squad ](https://governance.decentraland.org/proposal/?id=05744e70-41d2-11ee-aa49-bbddd046ff94)
-* [Proof of Education + Education program + Require certifications for voting in categories](https://governance.decentraland.org/proposal/?id=1e5ff5b0-40ce-11ee-88e6-1fe6cb69ee51)
+* [Port names from Ethereum to Polygon](https://governance.decentraland.org/proposal/?id=b37061e0-4942-11ee-8dc1-47e81c0c49b1)
+* [Should we remove all vp from DISTRICTS ?](https://governance.decentraland.org/proposal/?id=df2ffb40-4755-11ee-8b40-b176263b84a3)
+* [Add Grant Revocation as a new Proposal Category for DAO](https://governance.decentraland.org/proposal/?id=dd7fb000-4751-11ee-8b40-b176263b84a3)
+* [Name Ban - Establishing guidelines for which a particular NAME would qualify to be banned.](https://governance.decentraland.org/proposal/?id=b3586a80-4678-11ee-ab1f-97157a05bdec)
+* [Should we remove the Strategic Unit and prevent $32k in DAO funds from being spent? ](https://governance.decentraland.org/proposal/?id=899a4aa0-45ed-11ee-ab1f-97157a05bdec)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
