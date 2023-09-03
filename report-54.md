@@ -151,10 +151,11 @@ Since August 16, 4 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Convert up to 50% of DAO&#39;s Ethereum into permissionless staked nodes](https://governance.decentraland.org/proposal/?id=f32b4690-49b2-11ee-8dc1-47e81c0c49b1)
+* [Deposit up to 50% of DAO&#39;s Ethereum into MANA LPs](https://governance.decentraland.org/proposal/?id=ebc50cb0-49b2-11ee-8dc1-47e81c0c49b1)
 * [Port names from Ethereum to Polygon](https://governance.decentraland.org/proposal/?id=b37061e0-4942-11ee-8dc1-47e81c0c49b1)
 * [Should we remove all vp from DISTRICTS ?](https://governance.decentraland.org/proposal/?id=df2ffb40-4755-11ee-8b40-b176263b84a3)
 * [Add Grant Revocation as a new Proposal Category for DAO](https://governance.decentraland.org/proposal/?id=dd7fb000-4751-11ee-8b40-b176263b84a3)
 * [Name Ban - Establishing guidelines for which a particular NAME would qualify to be banned.](https://governance.decentraland.org/proposal/?id=b3586a80-4678-11ee-ab1f-97157a05bdec)
-* [Should we remove the Strategic Unit and prevent $32k in DAO funds from being spent? ](https://governance.decentraland.org/proposal/?id=899a4aa0-45ed-11ee-ab1f-97157a05bdec)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

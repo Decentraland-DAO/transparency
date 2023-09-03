@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -30,6 +30,13 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 
 
 ## Polls
+
+#### [Should we remove the Strategic Unit and prevent $32k in DAO funds from being spent? ](https://governance.decentraland.org/proposal/?id=899a4aa0-45ed-11ee-ab1f-97157a05bdec)
+
+* Revoke the Strategic Unit grant 40.24258284613394% 6,816,275 VP (72 votes)
+* Allow the Strategic Unit to continue  59.68152846687731% 10,108,837 VP (31 votes)
+* Invalid question/options 0.0758886869887447% 12,854 VP (7 votes)
+
 
 #### [Should repos/tools/material be indexed in the DCL documentation?](https://governance.decentraland.org/proposal/?id=a363ccc0-44ff-11ee-ab1f-97157a05bdec)
 
@@ -59,10 +66,11 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Convert up to 50% of DAO&#39;s Ethereum into permissionless staked nodes](https://governance.decentraland.org/proposal/?id=f32b4690-49b2-11ee-8dc1-47e81c0c49b1)
+* [Deposit up to 50% of DAO&#39;s Ethereum into MANA LPs](https://governance.decentraland.org/proposal/?id=ebc50cb0-49b2-11ee-8dc1-47e81c0c49b1)
 * [Port names from Ethereum to Polygon](https://governance.decentraland.org/proposal/?id=b37061e0-4942-11ee-8dc1-47e81c0c49b1)
 * [Should we remove all vp from DISTRICTS ?](https://governance.decentraland.org/proposal/?id=df2ffb40-4755-11ee-8b40-b176263b84a3)
 * [Add Grant Revocation as a new Proposal Category for DAO](https://governance.decentraland.org/proposal/?id=dd7fb000-4751-11ee-8b40-b176263b84a3)
 * [Name Ban - Establishing guidelines for which a particular NAME would qualify to be banned.](https://governance.decentraland.org/proposal/?id=b3586a80-4678-11ee-ab1f-97157a05bdec)
-* [Should we remove the Strategic Unit and prevent $32k in DAO funds from being spent? ](https://governance.decentraland.org/proposal/?id=899a4aa0-45ed-11ee-ab1f-97157a05bdec)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
