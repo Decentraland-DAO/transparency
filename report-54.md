@@ -135,16 +135,20 @@ Since August 16, 4 grants have been approved and the vesting contract(s) will be
 
 ## Points of Interest
 
+* 25, 30: [Momus Park - Exhibit J](https://governance.decentraland.org/proposal/?id=774ca7f0-4ae6-11ee-8dc1-47e81c0c49b1)
+* 10, 20: [No Name](https://governance.decentraland.org/proposal/?id=3917e410-4ae4-11ee-8dc1-47e81c0c49b1)
+* 45, 45: [Double 45](https://governance.decentraland.org/proposal/?id=a5cd5b60-4ae1-11ee-8dc1-47e81c0c49b1)
 
 ## Grants
 
 * [Calling for to Help Launch Noe Labs: Revolutionizing NFT Creation](https://governance.decentraland.org/proposal/?id=00516590-464b-11ee-ab1f-97157a05bdec) (Lower Tier)
 * [Simplifying Actions with AI Integration (e.g., Buying, Renting, Selling Land)](https://governance.decentraland.org/proposal/?id=57542ef0-437a-11ee-86cd-dda3c5b69de3) (Higher Tier)
 * [Let’s Engage the Indigenous Community](https://governance.decentraland.org/proposal/?id=80b3ec40-41c2-11ee-aa49-bbddd046ff94) (Lower Tier)
-* [Strategic Finance ($StratFi): Merging GameFi and DeFi visioning frictionless UX.](https://governance.decentraland.org/proposal/?id=911824f0-3f7b-11ee-88e6-1fe6cb69ee51) (Lower Tier)
 
 ## Names Bans
 
+* [Ban the name bananame](https://governance.decentraland.org/proposal/?id=35b788c0-4ae9-11ee-8dc1-47e81c0c49b1)
+* [Ban the name asdfg](https://governance.decentraland.org/proposal/?id=1608ef60-4ae3-11ee-8dc1-47e81c0c49b1)
 
 ## Catalysts
 
@@ -156,6 +160,5 @@ Since August 16, 4 grants have been approved and the vesting contract(s) will be
 * [Port names from Ethereum to Polygon](https://governance.decentraland.org/proposal/?id=b37061e0-4942-11ee-8dc1-47e81c0c49b1)
 * [Should we remove all vp from DISTRICTS ?](https://governance.decentraland.org/proposal/?id=df2ffb40-4755-11ee-8b40-b176263b84a3)
 * [Add Grant Revocation as a new Proposal Category for DAO](https://governance.decentraland.org/proposal/?id=dd7fb000-4751-11ee-8b40-b176263b84a3)
-* [Name Ban - Establishing guidelines for which a particular NAME would qualify to be banned.](https://governance.decentraland.org/proposal/?id=b3586a80-4678-11ee-ab1f-97157a05bdec)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
