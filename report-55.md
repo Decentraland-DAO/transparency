@@ -63,13 +63,13 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 
 ## Grants
 
+* [SDK7 Unity Editor Toolkit](https://governance.decentraland.org/proposal/?id=122c02b0-4b38-11ee-8dc1-47e81c0c49b1) (Higher Tier)
 * [Calling for to Help Launch Noe Labs: Revolutionizing NFT Creation](https://governance.decentraland.org/proposal/?id=00516590-464b-11ee-ab1f-97157a05bdec) (Lower Tier)
 * [Simplifying Actions with AI Integration (e.g., Buying, Renting, Selling Land)](https://governance.decentraland.org/proposal/?id=57542ef0-437a-11ee-86cd-dda3c5b69de3) (Higher Tier)
 * [Let’s Engage the Indigenous Community](https://governance.decentraland.org/proposal/?id=80b3ec40-41c2-11ee-aa49-bbddd046ff94) (Lower Tier)
 
 ## Names Bans
 
-* [Ban the name bananame](https://governance.decentraland.org/proposal/?id=35b788c0-4ae9-11ee-8dc1-47e81c0c49b1)
 * [Ban the name asdfg](https://governance.decentraland.org/proposal/?id=1608ef60-4ae3-11ee-8dc1-47e81c0c49b1)
 
 ## Catalysts
@@ -80,7 +80,5 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 * [Convert up to 50% of DAO&#39;s Ethereum into permissionless staked nodes](https://governance.decentraland.org/proposal/?id=f32b4690-49b2-11ee-8dc1-47e81c0c49b1)
 * [Deposit up to 50% of DAO&#39;s Ethereum into MANA LPs](https://governance.decentraland.org/proposal/?id=ebc50cb0-49b2-11ee-8dc1-47e81c0c49b1)
 * [Port names from Ethereum to Polygon](https://governance.decentraland.org/proposal/?id=b37061e0-4942-11ee-8dc1-47e81c0c49b1)
-* [Should we remove all vp from DISTRICTS ?](https://governance.decentraland.org/proposal/?id=df2ffb40-4755-11ee-8b40-b176263b84a3)
-* [Add Grant Revocation as a new Proposal Category for DAO](https://governance.decentraland.org/proposal/?id=dd7fb000-4751-11ee-8b40-b176263b84a3)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
