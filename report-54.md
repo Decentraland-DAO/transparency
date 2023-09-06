@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
+In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -123,11 +123,19 @@ Since August 16, 4 grants have been approved and the vesting contract(s) will be
 * Invalid question/options 0.15623547733861046% 10,674 VP (4 votes)
 
 
+#### [Allow also GNU License for platform parallel contributions](https://governance.decentraland.org/proposal/?id=39af1900-39e3-11ee-aec9-fb54fc0c7896)
+
+* YES 99.99099192923353% 8,602,621 VP (92 votes)
+* NO 0.000011623317118031066% 1 VP (2 votes)
+* Invalid question/options 0.008996447449356045% 774 VP (3 votes)
+
+
 
 # Active Proposals
 
 ## Points of Interest
 
+* 28, 3: [左岸春天](https://governance.decentraland.org/proposal/?id=40f32920-4ca0-11ee-b70f-d545cab0929e)
 * 25, 30: [Momus Park - Exhibit J](https://governance.decentraland.org/proposal/?id=774ca7f0-4ae6-11ee-8dc1-47e81c0c49b1)
 * 10, 20: [No Name](https://governance.decentraland.org/proposal/?id=3917e410-4ae4-11ee-8dc1-47e81c0c49b1)
 * 45, 45: [Double 45](https://governance.decentraland.org/proposal/?id=a5cd5b60-4ae1-11ee-8dc1-47e81c0c49b1)
@@ -148,6 +156,10 @@ Since August 16, 4 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Removal of Arbitrary Restrictions on Worlds in Decentraland](https://governance.decentraland.org/proposal/?id=2a172650-4c57-11ee-b70f-d545cab0929e)
+* [Vote for the All About Emotes Contest &#39;23 Community Choice Award ](https://governance.decentraland.org/proposal/?id=3a099ac0-4c1b-11ee-a2e0-b78adf7d068d)
+* [Reorganize who handles Grant Revocation Responsibility](https://governance.decentraland.org/proposal/?id=26dfe530-4c0c-11ee-a2e0-b78adf7d068d)
+* [Add Grant Revocation as a new Proposal Category for DAO (Updated)](https://governance.decentraland.org/proposal/?id=214930a0-4c0b-11ee-a2e0-b78adf7d068d)
 * [Convert up to 50% of DAO&#39;s Ethereum into permissionless staked nodes](https://governance.decentraland.org/proposal/?id=f32b4690-49b2-11ee-8dc1-47e81c0c49b1)
 * [Deposit up to 50% of DAO&#39;s Ethereum into MANA LPs](https://governance.decentraland.org/proposal/?id=ebc50cb0-49b2-11ee-8dc1-47e81c0c49b1)
 * [Port names from Ethereum to Polygon](https://governance.decentraland.org/proposal/?id=b37061e0-4942-11ee-8dc1-47e81c0c49b1)
