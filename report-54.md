@@ -142,6 +142,7 @@ Since August 16, 4 grants have been approved and the vesting contract(s) will be
 
 ## Grants
 
+* [Information Preservation in Decentraland: A Historical Perspective](https://governance.decentraland.org/proposal/?id=1740a740-4db0-11ee-beb5-696f9c967b67) (Higher Tier)
 * [In-World Snapshot voting library](https://governance.decentraland.org/proposal/?id=c96c3830-4d4c-11ee-beb5-696f9c967b67) (Lower Tier)
 * [SDK7 Unity Editor Toolkit](https://governance.decentraland.org/proposal/?id=122c02b0-4b38-11ee-8dc1-47e81c0c49b1) (Higher Tier)
 * [Calling for to Help Launch Noe Labs: Revolutionizing NFT Creation](https://governance.decentraland.org/proposal/?id=00516590-464b-11ee-ab1f-97157a05bdec) (Lower Tier)
@@ -156,6 +157,9 @@ Since August 16, 4 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Stop the DAO from buying LAND from the marketplace](https://governance.decentraland.org/proposal/?id=52043300-4dcf-11ee-beb5-696f9c967b67)
+* [Revoke the Grant: Hire LordLike as DAO Strategic Unit (DAO worker)](https://governance.decentraland.org/proposal/?id=af3f4550-4db6-11ee-beb5-696f9c967b67)
+* [Revoke the Grant: A Multi-Platform Entertainment Series Designed to Boost DCL Brand Awareness](https://governance.decentraland.org/proposal/?id=1a36d340-4da4-11ee-beb5-696f9c967b67)
 * [Should the DAO Require Monthly Financial Reports From Grantees?](https://governance.decentraland.org/proposal/?id=b3f93b70-4d28-11ee-beb5-696f9c967b67)
 * [Reduce the price of claiming a Name to 10 mana](https://governance.decentraland.org/proposal/?id=bfc6cbe0-4ccc-11ee-b70f-d545cab0929e)
 * [Genesis City is on the Earth, should We create another City with 90k land on Mars and make a auction for them ? ](https://governance.decentraland.org/proposal/?id=ec4b7320-4cc5-11ee-b70f-d545cab0929e)
@@ -164,7 +168,5 @@ Since August 16, 4 grants have been approved and the vesting contract(s) will be
 * [Vote for the All About Emotes Contest &#39;23 Community Choice Award ](https://governance.decentraland.org/proposal/?id=3a099ac0-4c1b-11ee-a2e0-b78adf7d068d)
 * [Reorganize who handles Grant Revocation Responsibility](https://governance.decentraland.org/proposal/?id=26dfe530-4c0c-11ee-a2e0-b78adf7d068d)
 * [Add Grant Revocation as a new Proposal Category for DAO (Updated)](https://governance.decentraland.org/proposal/?id=214930a0-4c0b-11ee-a2e0-b78adf7d068d)
-* [Convert up to 50% of DAO&#39;s Ethereum into permissionless staked nodes](https://governance.decentraland.org/proposal/?id=f32b4690-49b2-11ee-8dc1-47e81c0c49b1)
-* [Deposit up to 50% of DAO&#39;s Ethereum into MANA LPs](https://governance.decentraland.org/proposal/?id=ebc50cb0-49b2-11ee-8dc1-47e81c0c49b1)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
