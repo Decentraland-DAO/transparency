@@ -68,6 +68,7 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
+* 55, -134: [EnterDAO HQ](https://governance.decentraland.org/proposal/?id=68ac3510-4e3a-11ee-beb5-696f9c967b67)
 * 46, 32: [Momus Park - Exhibit H](https://governance.decentraland.org/proposal/?id=7093ed20-4d4c-11ee-beb5-696f9c967b67)
 * 25, 30: [Momus Park - Exhibit J](https://governance.decentraland.org/proposal/?id=774ca7f0-4ae6-11ee-8dc1-47e81c0c49b1)
 * 10, 20: [No Name](https://governance.decentraland.org/proposal/?id=3917e410-4ae4-11ee-8dc1-47e81c0c49b1)
@@ -75,11 +76,11 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 
 ## Grants
 
+* [Expanding DCL Platforms: Mobile Godot Client and Desktop Bevy Client Development](https://governance.decentraland.org/proposal/?id=5d65f080-4eab-11ee-8775-751cfef3aca1) (Higher Tier)
 * [Information Preservation in Decentraland: A Historical Perspective](https://governance.decentraland.org/proposal/?id=1740a740-4db0-11ee-beb5-696f9c967b67) (Higher Tier)
 * [In-World Snapshot voting library](https://governance.decentraland.org/proposal/?id=c96c3830-4d4c-11ee-beb5-696f9c967b67) (Lower Tier)
 * [SDK7 Unity Editor Toolkit](https://governance.decentraland.org/proposal/?id=122c02b0-4b38-11ee-8dc1-47e81c0c49b1) (Higher Tier)
 * [Calling for to Help Launch Noe Labs: Revolutionizing NFT Creation](https://governance.decentraland.org/proposal/?id=00516590-464b-11ee-ab1f-97157a05bdec) (Lower Tier)
-* [Simplifying Actions with AI Integration (e.g., Buying, Renting, Selling Land)](https://governance.decentraland.org/proposal/?id=57542ef0-437a-11ee-86cd-dda3c5b69de3) (Higher Tier)
 
 ## Names Bans
 
@@ -90,6 +91,7 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Implementation of a Fee for DAO Proposal Submissions](https://governance.decentraland.org/proposal/?id=4b504800-4e65-11ee-8615-ffbfea7b0c2b)
 * [Stop the DAO from buying LAND from the marketplace](https://governance.decentraland.org/proposal/?id=52043300-4dcf-11ee-beb5-696f9c967b67)
 * [Revoke the Grant: Hire LordLike as DAO Strategic Unit (DAO worker)](https://governance.decentraland.org/proposal/?id=af3f4550-4db6-11ee-beb5-696f9c967b67)
 * [Revoke the Grant: A Multi-Platform Entertainment Series Designed to Boost DCL Brand Awareness](https://governance.decentraland.org/proposal/?id=1a36d340-4da4-11ee-beb5-696f9c967b67)
