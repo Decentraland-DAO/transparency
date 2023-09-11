@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -30,6 +30,40 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 
 
 ## Polls
+
+#### [Removal of Arbitrary Restrictions on Worlds in Decentraland](https://governance.decentraland.org/proposal/?id=2a172650-4c57-11ee-b70f-d545cab0929e)
+
+* Yes, Allow All Worlds to Be Discoverable 90.05701159990522% 7,689,146 VP (97 votes)
+* No, Keep Only Worlds Belonging to LAND Owners/Renters as Discoverable 9.933431224113786% 848,125 VP (6 votes)
+* Invalid question/options 0.009557175980989653% 816 VP (5 votes)
+
+
+#### [Vote for the All About Emotes Contest &#39;23 Community Choice Award ](https://governance.decentraland.org/proposal/?id=3a099ac0-4c1b-11ee-a2e0-b78adf7d068d)
+
+* STR DAN EP dance02 by Rhoo  0.010248683764461905% 1,124 VP (10 votes)
+* KJ Strong by Canessa 14.911816641199966% 1,635,418 VP (15 votes)
+* Legendarios by Vvcryptos 0.016977801752160203% 1,862 VP (6 votes)
+* Chip Exploit by ZESTYMINT 0.04809769293375138% 5,275 VP (5 votes)
+* Sway This Way by AwedJob x Tang 0.000009118046053791731% 1 VP (1 votes)
+* Sway That Way by AwedJob x Tang 0% 0 VP (0 votes)
+* TRAX x Salsa Fuego by CJTRAX 7.83791797806964% 859,605 VP (12 votes)
+* On the Edge by DOCTORdripp 0.00005470827632275038% 6 VP (3 votes)
+* Hodling Hands in Decentraland by DOCTORdripp 5.3403757473834395% 585,693 VP (2 votes)
+* Huddle Up by Emm 4.646091248663523% 509,549 VP (7 votes)
+* Wake up by AleR3ds 0.0019877340397265976% 218 VP (1 votes)
+* Pole Spinner by AwedJob 9.355060542913993% 1,025,994 VP (14 votes)
+* Chatty Chat by AwedJob 0.13205666099706562% 14,483 VP (2 votes)
+* Sweep The Floor by AwedJob 0% 0 VP (0 votes)
+* Joint Emote by SteveSaiko 16.401577713744782% 1,798,804 VP (20 votes)
+* Flamenco Dance by KJWalker  12.179220301293068% 1,335,727 VP (11 votes)
+* Fusion Dance by Tianxx 0% 0 VP (1 votes)
+* Head Holder Dance by Eibriel 0.040739429768341454% 4,468 VP (5 votes)
+* Giant Community by Temple Game 0% 0 VP (0 votes)
+* Macarena by COCOBAY 17.184808751719434% 1,884,703 VP (17 votes)
+* Pixels to Passion - Part I by srJH 7.281762759018613% 798,610 VP (11 votes)
+* Pixels to Passion - Part II by Hayabusa 0.014825942883465353% 1,626 VP (5 votes)
+* Invalid question/options 4.5963705435321955% 504,096 VP (4 votes)
+
 
 #### [Convert up to 50% of DAO&#39;s Ethereum into permissionless staked nodes](https://governance.decentraland.org/proposal/?id=f32b4690-49b2-11ee-8dc1-47e81c0c49b1)
 
@@ -70,12 +104,10 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 
 * 55, -134: [EnterDAO HQ](https://governance.decentraland.org/proposal/?id=68ac3510-4e3a-11ee-beb5-696f9c967b67)
 * 46, 32: [Momus Park - Exhibit H](https://governance.decentraland.org/proposal/?id=7093ed20-4d4c-11ee-beb5-696f9c967b67)
-* 25, 30: [Momus Park - Exhibit J](https://governance.decentraland.org/proposal/?id=774ca7f0-4ae6-11ee-8dc1-47e81c0c49b1)
-* 10, 20: [No Name](https://governance.decentraland.org/proposal/?id=3917e410-4ae4-11ee-8dc1-47e81c0c49b1)
-* 45, 45: [Double 45](https://governance.decentraland.org/proposal/?id=a5cd5b60-4ae1-11ee-8dc1-47e81c0c49b1)
 
 ## Grants
 
+* [Decentral Ed](https://governance.decentraland.org/proposal/?id=cd96ea50-5066-11ee-92bb-e5ce9eee2c51) (Higher Tier)
 * [Expanding DCL Platforms: Mobile Godot Client and Desktop Bevy Client Development](https://governance.decentraland.org/proposal/?id=5d65f080-4eab-11ee-8775-751cfef3aca1) (Higher Tier)
 * [Information Preservation in Decentraland: A Historical Perspective](https://governance.decentraland.org/proposal/?id=1740a740-4db0-11ee-beb5-696f9c967b67) (Higher Tier)
 * [In-World Snapshot voting library](https://governance.decentraland.org/proposal/?id=c96c3830-4d4c-11ee-beb5-696f9c967b67) (Lower Tier)
@@ -84,13 +116,14 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 
 ## Names Bans
 
-* [Ban the name asdfg](https://governance.decentraland.org/proposal/?id=1608ef60-4ae3-11ee-8dc1-47e81c0c49b1)
 
 ## Catalysts
 
 
 ## Polls
 
+* [Stake Decentraland NFT&#39;s for VP Rewards  ](https://governance.decentraland.org/proposal/?id=630c2760-500a-11ee-922a-436a6998cfc7)
+* [Introducing HODLFi - A New Paradigm for Decentraland in Bear Markets](https://governance.decentraland.org/proposal/?id=f02ef2d0-4fce-11ee-922a-436a6998cfc7)
 * [Stake Decentraland NFT&#39;s for Mana Rewards](https://governance.decentraland.org/proposal/?id=dd1f05a0-4fa5-11ee-922a-436a6998cfc7)
 * [Integrate UI/UX Parameters to Provide Grantee Details for an Active Grant Proposal](https://governance.decentraland.org/proposal/?id=f07f2400-4f31-11ee-8775-751cfef3aca1)
 * [Implementation of a Fee for DAO Proposal Submissions](https://governance.decentraland.org/proposal/?id=4b504800-4e65-11ee-8615-ffbfea7b0c2b)
@@ -101,9 +134,5 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 * [Reduce the price of claiming a Name to 10 mana](https://governance.decentraland.org/proposal/?id=bfc6cbe0-4ccc-11ee-b70f-d545cab0929e)
 * [Genesis City is on the Earth, should We create another City with 90k land on Mars and make a auction for them ? ](https://governance.decentraland.org/proposal/?id=ec4b7320-4cc5-11ee-b70f-d545cab0929e)
 * [Should we give Worlds users 100K VP for each world they own ](https://governance.decentraland.org/proposal/?id=d428d600-4cbd-11ee-b70f-d545cab0929e)
-* [Removal of Arbitrary Restrictions on Worlds in Decentraland](https://governance.decentraland.org/proposal/?id=2a172650-4c57-11ee-b70f-d545cab0929e)
-* [Vote for the All About Emotes Contest &#39;23 Community Choice Award ](https://governance.decentraland.org/proposal/?id=3a099ac0-4c1b-11ee-a2e0-b78adf7d068d)
-* [Reorganize who handles Grant Revocation Responsibility](https://governance.decentraland.org/proposal/?id=26dfe530-4c0c-11ee-a2e0-b78adf7d068d)
-* [Add Grant Revocation as a new Proposal Category for DAO (Updated)](https://governance.decentraland.org/proposal/?id=214930a0-4c0b-11ee-a2e0-b78adf7d068d)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

@@ -137,12 +137,10 @@ Since August 16, 4 grants have been approved and the vesting contract(s) will be
 
 * 55, -134: [EnterDAO HQ](https://governance.decentraland.org/proposal/?id=68ac3510-4e3a-11ee-beb5-696f9c967b67)
 * 46, 32: [Momus Park - Exhibit H](https://governance.decentraland.org/proposal/?id=7093ed20-4d4c-11ee-beb5-696f9c967b67)
-* 25, 30: [Momus Park - Exhibit J](https://governance.decentraland.org/proposal/?id=774ca7f0-4ae6-11ee-8dc1-47e81c0c49b1)
-* 10, 20: [No Name](https://governance.decentraland.org/proposal/?id=3917e410-4ae4-11ee-8dc1-47e81c0c49b1)
-* 45, 45: [Double 45](https://governance.decentraland.org/proposal/?id=a5cd5b60-4ae1-11ee-8dc1-47e81c0c49b1)
 
 ## Grants
 
+* [Decentral Ed](https://governance.decentraland.org/proposal/?id=cd96ea50-5066-11ee-92bb-e5ce9eee2c51) (Higher Tier)
 * [Expanding DCL Platforms: Mobile Godot Client and Desktop Bevy Client Development](https://governance.decentraland.org/proposal/?id=5d65f080-4eab-11ee-8775-751cfef3aca1) (Higher Tier)
 * [Information Preservation in Decentraland: A Historical Perspective](https://governance.decentraland.org/proposal/?id=1740a740-4db0-11ee-beb5-696f9c967b67) (Higher Tier)
 * [In-World Snapshot voting library](https://governance.decentraland.org/proposal/?id=c96c3830-4d4c-11ee-beb5-696f9c967b67) (Lower Tier)
@@ -151,13 +149,14 @@ Since August 16, 4 grants have been approved and the vesting contract(s) will be
 
 ## Names Bans
 
-* [Ban the name asdfg](https://governance.decentraland.org/proposal/?id=1608ef60-4ae3-11ee-8dc1-47e81c0c49b1)
 
 ## Catalysts
 
 
 ## Polls
 
+* [Stake Decentraland NFT&#39;s for VP Rewards  ](https://governance.decentraland.org/proposal/?id=630c2760-500a-11ee-922a-436a6998cfc7)
+* [Introducing HODLFi - A New Paradigm for Decentraland in Bear Markets](https://governance.decentraland.org/proposal/?id=f02ef2d0-4fce-11ee-922a-436a6998cfc7)
 * [Stake Decentraland NFT&#39;s for Mana Rewards](https://governance.decentraland.org/proposal/?id=dd1f05a0-4fa5-11ee-922a-436a6998cfc7)
 * [Integrate UI/UX Parameters to Provide Grantee Details for an Active Grant Proposal](https://governance.decentraland.org/proposal/?id=f07f2400-4f31-11ee-8775-751cfef3aca1)
 * [Implementation of a Fee for DAO Proposal Submissions](https://governance.decentraland.org/proposal/?id=4b504800-4e65-11ee-8615-ffbfea7b0c2b)
@@ -168,9 +167,5 @@ Since August 16, 4 grants have been approved and the vesting contract(s) will be
 * [Reduce the price of claiming a Name to 10 mana](https://governance.decentraland.org/proposal/?id=bfc6cbe0-4ccc-11ee-b70f-d545cab0929e)
 * [Genesis City is on the Earth, should We create another City with 90k land on Mars and make a auction for them ? ](https://governance.decentraland.org/proposal/?id=ec4b7320-4cc5-11ee-b70f-d545cab0929e)
 * [Should we give Worlds users 100K VP for each world they own ](https://governance.decentraland.org/proposal/?id=d428d600-4cbd-11ee-b70f-d545cab0929e)
-* [Removal of Arbitrary Restrictions on Worlds in Decentraland](https://governance.decentraland.org/proposal/?id=2a172650-4c57-11ee-b70f-d545cab0929e)
-* [Vote for the All About Emotes Contest &#39;23 Community Choice Award ](https://governance.decentraland.org/proposal/?id=3a099ac0-4c1b-11ee-a2e0-b78adf7d068d)
-* [Reorganize who handles Grant Revocation Responsibility](https://governance.decentraland.org/proposal/?id=26dfe530-4c0c-11ee-a2e0-b78adf7d068d)
-* [Add Grant Revocation as a new Proposal Category for DAO (Updated)](https://governance.decentraland.org/proposal/?id=214930a0-4c0b-11ee-a2e0-b78adf7d068d)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
