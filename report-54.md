@@ -145,7 +145,6 @@ Since August 16, 4 grants have been approved and the vesting contract(s) will be
 * [Information Preservation in Decentraland: A Historical Perspective](https://governance.decentraland.org/proposal/?id=1740a740-4db0-11ee-beb5-696f9c967b67) (Higher Tier)
 * [In-World Snapshot voting library](https://governance.decentraland.org/proposal/?id=c96c3830-4d4c-11ee-beb5-696f9c967b67) (Lower Tier)
 * [SDK7 Unity Editor Toolkit](https://governance.decentraland.org/proposal/?id=122c02b0-4b38-11ee-8dc1-47e81c0c49b1) (Higher Tier)
-* [Calling for to Help Launch Noe Labs: Revolutionizing NFT Creation](https://governance.decentraland.org/proposal/?id=00516590-464b-11ee-ab1f-97157a05bdec) (Lower Tier)
 
 ## Names Bans
 
@@ -155,6 +154,9 @@ Since August 16, 4 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Should we increase VP Thresholds for POI, Name Ban &amp; Catalyst Node Proposals?](https://governance.decentraland.org/proposal/?id=88d94370-5144-11ee-a817-7dc33a6da5df)
+* [Create Revocation Category with new Procedure](https://governance.decentraland.org/proposal/?id=d67fbec0-5125-11ee-a817-7dc33a6da5df)
+* [Should DCL work with and adopt OMI standards for Vehicles &amp; Seats?](https://governance.decentraland.org/proposal/?id=40a4fcd0-50f8-11ee-9f62-6f6b8dcdef9a)
 * [Stake Decentraland NFT&#39;s for VP Rewards  ](https://governance.decentraland.org/proposal/?id=630c2760-500a-11ee-922a-436a6998cfc7)
 * [Introducing HODLFi - A New Paradigm for Decentraland in Bear Markets](https://governance.decentraland.org/proposal/?id=f02ef2d0-4fce-11ee-922a-436a6998cfc7)
 * [Stake Decentraland NFT&#39;s for Mana Rewards](https://governance.decentraland.org/proposal/?id=dd1f05a0-4fa5-11ee-922a-436a6998cfc7)
@@ -163,9 +165,5 @@ Since August 16, 4 grants have been approved and the vesting contract(s) will be
 * [Stop the DAO from buying LAND from the marketplace](https://governance.decentraland.org/proposal/?id=52043300-4dcf-11ee-beb5-696f9c967b67)
 * [Revoke the Grant: Hire LordLike as DAO Strategic Unit (DAO worker)](https://governance.decentraland.org/proposal/?id=af3f4550-4db6-11ee-beb5-696f9c967b67)
 * [Revoke the Grant: A Multi-Platform Entertainment Series Designed to Boost DCL Brand Awareness](https://governance.decentraland.org/proposal/?id=1a36d340-4da4-11ee-beb5-696f9c967b67)
-* [Should the DAO Require Monthly Financial Reports From Grantees?](https://governance.decentraland.org/proposal/?id=b3f93b70-4d28-11ee-beb5-696f9c967b67)
-* [Reduce the price of claiming a Name to 10 mana](https://governance.decentraland.org/proposal/?id=bfc6cbe0-4ccc-11ee-b70f-d545cab0929e)
-* [Genesis City is on the Earth, should We create another City with 90k land on Mars and make a auction for them ? ](https://governance.decentraland.org/proposal/?id=ec4b7320-4cc5-11ee-b70f-d545cab0929e)
-* [Should we give Worlds users 100K VP for each world they own ](https://governance.decentraland.org/proposal/?id=d428d600-4cbd-11ee-b70f-d545cab0929e)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
