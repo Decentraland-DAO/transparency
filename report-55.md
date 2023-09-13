@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 7 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 10 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -30,6 +30,27 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 
 
 ## Polls
+
+#### [Stop the DAO from buying LAND from the marketplace](https://governance.decentraland.org/proposal/?id=52043300-4dcf-11ee-beb5-696f9c967b67)
+
+* Stop buying land 69.64913720487475% 7,264,685 VP (74 votes)
+* Continue buying land 19.203986576931552% 2,003,053 VP (25 votes)
+* Invalid question/options 11.146876218193698% 1,162,664 VP (10 votes)
+
+
+#### [Revoke the Grant: Hire LordLike as DAO Strategic Unit (DAO worker)](https://governance.decentraland.org/proposal/?id=af3f4550-4db6-11ee-beb5-696f9c967b67)
+
+* Revoke 30.848637431489035% 2,415,208 VP (58 votes)
+* Do Not Revoke 62.70558718421667% 4,909,359 VP (25 votes)
+* Invalid question/options 6.4457753842943% 504,654 VP (4 votes)
+
+
+#### [Revoke the Grant: A Multi-Platform Entertainment Series Designed to Boost DCL Brand Awareness](https://governance.decentraland.org/proposal/?id=1a36d340-4da4-11ee-beb5-696f9c967b67)
+
+* Revoke 42.480507570622386% 6,883,044 VP (84 votes)
+* Do Not Revoke 57.51949242937761% 9,319,785 VP (23 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
 
 #### [Should the DAO Require Monthly Financial Reports From Grantees?](https://governance.decentraland.org/proposal/?id=b3f93b70-4d28-11ee-beb5-696f9c967b67)
 
@@ -136,8 +157,5 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 * [Stake Decentraland NFT&#39;s for Mana Rewards](https://governance.decentraland.org/proposal/?id=dd1f05a0-4fa5-11ee-922a-436a6998cfc7)
 * [Integrate UI/UX Parameters to Provide Grantee Details for an Active Grant Proposal](https://governance.decentraland.org/proposal/?id=f07f2400-4f31-11ee-8775-751cfef3aca1)
 * [Implementation of a Fee for DAO Proposal Submissions](https://governance.decentraland.org/proposal/?id=4b504800-4e65-11ee-8615-ffbfea7b0c2b)
-* [Stop the DAO from buying LAND from the marketplace](https://governance.decentraland.org/proposal/?id=52043300-4dcf-11ee-beb5-696f9c967b67)
-* [Revoke the Grant: Hire LordLike as DAO Strategic Unit (DAO worker)](https://governance.decentraland.org/proposal/?id=af3f4550-4db6-11ee-beb5-696f9c967b67)
-* [Revoke the Grant: A Multi-Platform Entertainment Series Designed to Boost DCL Brand Awareness](https://governance.decentraland.org/proposal/?id=1a36d340-4da4-11ee-beb5-696f9c967b67)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
