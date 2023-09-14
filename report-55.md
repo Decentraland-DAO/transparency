@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 10 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 11 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -30,6 +30,13 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 
 
 ## Polls
+
+#### [Implementation of a Fee for DAO Proposal Submissions](https://governance.decentraland.org/proposal/?id=4b504800-4e65-11ee-8615-ffbfea7b0c2b)
+
+* Yes, implement submissions fees 18.555148329514097% 1,399,040 VP (19 votes)
+* No, do not implement any submission fees 81.44483840771404% 6,140,861 VP (77 votes)
+* Invalid question/options 0.00001326277185035031% 1 VP (2 votes)
+
 
 #### [Stop the DAO from buying LAND from the marketplace](https://governance.decentraland.org/proposal/?id=52043300-4dcf-11ee-beb5-696f9c967b67)
 
@@ -131,7 +138,6 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 ## Points of Interest
 
 * 55, -134: [EnterDAO HQ](https://governance.decentraland.org/proposal/?id=68ac3510-4e3a-11ee-beb5-696f9c967b67)
-* 46, 32: [Momus Park - Exhibit H](https://governance.decentraland.org/proposal/?id=7093ed20-4d4c-11ee-beb5-696f9c967b67)
 
 ## Grants
 
@@ -156,6 +162,5 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 * [Introducing HODLFi - A New Paradigm for Decentraland in Bear Markets](https://governance.decentraland.org/proposal/?id=f02ef2d0-4fce-11ee-922a-436a6998cfc7)
 * [Stake Decentraland NFT&#39;s for Mana Rewards](https://governance.decentraland.org/proposal/?id=dd1f05a0-4fa5-11ee-922a-436a6998cfc7)
 * [Integrate UI/UX Parameters to Provide Grantee Details for an Active Grant Proposal](https://governance.decentraland.org/proposal/?id=f07f2400-4f31-11ee-8775-751cfef3aca1)
-* [Implementation of a Fee for DAO Proposal Submissions](https://governance.decentraland.org/proposal/?id=4b504800-4e65-11ee-8615-ffbfea7b0c2b)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
