@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 11 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 13 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -30,6 +30,22 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 
 
 ## Polls
+
+#### [Stake Decentraland NFT&#39;s for Mana Rewards](https://governance.decentraland.org/proposal/?id=dd1f05a0-4fa5-11ee-922a-436a6998cfc7)
+
+* Yes 0.15702648059634597% 7,084 VP (45 votes)
+* No 99.84297351940366% 4,504,257 VP (46 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
+#### [Integrate UI/UX Parameters to Provide Grantee Details for an Active Grant Proposal](https://governance.decentraland.org/proposal/?id=f07f2400-4f31-11ee-8775-751cfef3aca1)
+
+* Yes, option 1 99.86402555770123% 2,908,352 VP (81 votes)
+* Yes, option 2 0.1359401053183862% 3,959 VP (5 votes)
+* No 0% 0 VP (3 votes)
+* Abstain 0% 0 VP (1 votes)
+* Invalid question/options 0.00003433698037847593% 1 VP (1 votes)
+
 
 #### [Implementation of a Fee for DAO Proposal Submissions](https://governance.decentraland.org/proposal/?id=4b504800-4e65-11ee-8615-ffbfea7b0c2b)
 
@@ -160,7 +176,5 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 * [Should DCL work with and adopt OMI standards for Vehicles &amp; Seats?](https://governance.decentraland.org/proposal/?id=40a4fcd0-50f8-11ee-9f62-6f6b8dcdef9a)
 * [Stake Decentraland NFT&#39;s for VP Rewards  ](https://governance.decentraland.org/proposal/?id=630c2760-500a-11ee-922a-436a6998cfc7)
 * [Introducing HODLFi - A New Paradigm for Decentraland in Bear Markets](https://governance.decentraland.org/proposal/?id=f02ef2d0-4fce-11ee-922a-436a6998cfc7)
-* [Stake Decentraland NFT&#39;s for Mana Rewards](https://governance.decentraland.org/proposal/?id=dd1f05a0-4fa5-11ee-922a-436a6998cfc7)
-* [Integrate UI/UX Parameters to Provide Grantee Details for an Active Grant Proposal](https://governance.decentraland.org/proposal/?id=f07f2400-4f31-11ee-8775-751cfef3aca1)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

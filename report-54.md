@@ -158,7 +158,5 @@ Since August 16, 4 grants have been approved and the vesting contract(s) will be
 * [Should DCL work with and adopt OMI standards for Vehicles &amp; Seats?](https://governance.decentraland.org/proposal/?id=40a4fcd0-50f8-11ee-9f62-6f6b8dcdef9a)
 * [Stake Decentraland NFT&#39;s for VP Rewards  ](https://governance.decentraland.org/proposal/?id=630c2760-500a-11ee-922a-436a6998cfc7)
 * [Introducing HODLFi - A New Paradigm for Decentraland in Bear Markets](https://governance.decentraland.org/proposal/?id=f02ef2d0-4fce-11ee-922a-436a6998cfc7)
-* [Stake Decentraland NFT&#39;s for Mana Rewards](https://governance.decentraland.org/proposal/?id=dd1f05a0-4fa5-11ee-922a-436a6998cfc7)
-* [Integrate UI/UX Parameters to Provide Grantee Details for an Active Grant Proposal](https://governance.decentraland.org/proposal/?id=f07f2400-4f31-11ee-8775-751cfef3aca1)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
