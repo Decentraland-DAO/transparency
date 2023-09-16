@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 13 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 9 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -31,13 +31,6 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
-#### [Stake Decentraland NFT&#39;s for Mana Rewards](https://governance.decentraland.org/proposal/?id=dd1f05a0-4fa5-11ee-922a-436a6998cfc7)
-
-* Yes 0.15702648059634597% 7,084 VP (45 votes)
-* No 99.84297351940366% 4,504,257 VP (46 votes)
-* Invalid question/options 0% 0 VP (0 votes)
-
-
 #### [Integrate UI/UX Parameters to Provide Grantee Details for an Active Grant Proposal](https://governance.decentraland.org/proposal/?id=f07f2400-4f31-11ee-8775-751cfef3aca1)
 
 * Yes, option 1 99.86402555770123% 2,908,352 VP (81 votes)
@@ -47,32 +40,11 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 * Invalid question/options 0.00003433698037847593% 1 VP (1 votes)
 
 
-#### [Implementation of a Fee for DAO Proposal Submissions](https://governance.decentraland.org/proposal/?id=4b504800-4e65-11ee-8615-ffbfea7b0c2b)
-
-* Yes, implement submissions fees 18.555148329514097% 1,399,040 VP (19 votes)
-* No, do not implement any submission fees 81.44483840771404% 6,140,861 VP (77 votes)
-* Invalid question/options 0.00001326277185035031% 1 VP (2 votes)
-
-
 #### [Stop the DAO from buying LAND from the marketplace](https://governance.decentraland.org/proposal/?id=52043300-4dcf-11ee-beb5-696f9c967b67)
 
 * Stop buying land 69.64913720487475% 7,264,685 VP (74 votes)
 * Continue buying land 19.203986576931552% 2,003,053 VP (25 votes)
 * Invalid question/options 11.146876218193698% 1,162,664 VP (10 votes)
-
-
-#### [Revoke the Grant: Hire LordLike as DAO Strategic Unit (DAO worker)](https://governance.decentraland.org/proposal/?id=af3f4550-4db6-11ee-beb5-696f9c967b67)
-
-* Revoke 30.848637431489035% 2,415,208 VP (58 votes)
-* Do Not Revoke 62.70558718421667% 4,909,359 VP (25 votes)
-* Invalid question/options 6.4457753842943% 504,654 VP (4 votes)
-
-
-#### [Revoke the Grant: A Multi-Platform Entertainment Series Designed to Boost DCL Brand Awareness](https://governance.decentraland.org/proposal/?id=1a36d340-4da4-11ee-beb5-696f9c967b67)
-
-* Revoke 42.480507570622386% 6,883,044 VP (84 votes)
-* Do Not Revoke 57.51949242937761% 9,319,785 VP (23 votes)
-* Invalid question/options 0% 0 VP (0 votes)
 
 
 #### [Should the DAO Require Monthly Financial Reports From Grantees?](https://governance.decentraland.org/proposal/?id=b3f93b70-4d28-11ee-beb5-696f9c967b67)
@@ -153,10 +125,10 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
-* 55, -134: [EnterDAO HQ](https://governance.decentraland.org/proposal/?id=68ac3510-4e3a-11ee-beb5-696f9c967b67)
 
 ## Grants
 
+* [Non-Fun Game](https://governance.decentraland.org/proposal/?id=5ee57fa0-5411-11ee-8d75-11de56ef5013) (Higher Tier)
 * [Decentral Ed](https://governance.decentraland.org/proposal/?id=cd96ea50-5066-11ee-92bb-e5ce9eee2c51) (Higher Tier)
 * [Expanding DCL Platforms: Mobile Godot Client and Desktop Bevy Client Development](https://governance.decentraland.org/proposal/?id=5d65f080-4eab-11ee-8775-751cfef3aca1) (Higher Tier)
 * [Information Preservation in Decentraland: A Historical Perspective](https://governance.decentraland.org/proposal/?id=1740a740-4db0-11ee-beb5-696f9c967b67) (Higher Tier)
@@ -171,10 +143,10 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Pause Vesting Contract for Grant Support Squad until...](https://governance.decentraland.org/proposal/?id=7e878b80-543b-11ee-ae55-7d6b1ff3d1b5)
+* [What do you think about the &#34;Metaverse Creators Fund,&#34; where top marketers from Fortune500 companies as a jury, decide which profitable virtual experiences to support?](https://governance.decentraland.org/proposal/?id=82aafe70-53e3-11ee-8d75-11de56ef5013)
 * [Should we increase VP Thresholds for POI, Name Ban &amp; Catalyst Node Proposals?](https://governance.decentraland.org/proposal/?id=88d94370-5144-11ee-a817-7dc33a6da5df)
 * [Create Revocation Category with new Procedure](https://governance.decentraland.org/proposal/?id=d67fbec0-5125-11ee-a817-7dc33a6da5df)
 * [Should DCL work with and adopt OMI standards for Vehicles &amp; Seats?](https://governance.decentraland.org/proposal/?id=40a4fcd0-50f8-11ee-9f62-6f6b8dcdef9a)
-* [Stake Decentraland NFT&#39;s for VP Rewards  ](https://governance.decentraland.org/proposal/?id=630c2760-500a-11ee-922a-436a6998cfc7)
-* [Introducing HODLFi - A New Paradigm for Decentraland in Bear Markets](https://governance.decentraland.org/proposal/?id=f02ef2d0-4fce-11ee-922a-436a6998cfc7)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
