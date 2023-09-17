@@ -143,10 +143,8 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Should the character limit be increased for grant proposals?](https://governance.decentraland.org/proposal/?id=7dfe8650-54f4-11ee-9f04-6f45955e15fe)
 * [Pause Vesting Contract for Grant Support Squad until...](https://governance.decentraland.org/proposal/?id=7e878b80-543b-11ee-ae55-7d6b1ff3d1b5)
 * [What do you think about the &#34;Metaverse Creators Fund,&#34; where top marketers from Fortune500 companies as a jury, decide which profitable virtual experiences to support?](https://governance.decentraland.org/proposal/?id=82aafe70-53e3-11ee-8d75-11de56ef5013)
-* [Should we increase VP Thresholds for POI, Name Ban &amp; Catalyst Node Proposals?](https://governance.decentraland.org/proposal/?id=88d94370-5144-11ee-a817-7dc33a6da5df)
-* [Create Revocation Category with new Procedure](https://governance.decentraland.org/proposal/?id=d67fbec0-5125-11ee-a817-7dc33a6da5df)
-* [Should DCL work with and adopt OMI standards for Vehicles &amp; Seats?](https://governance.decentraland.org/proposal/?id=40a4fcd0-50f8-11ee-9f62-6f6b8dcdef9a)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

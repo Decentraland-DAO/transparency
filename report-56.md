@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -30,6 +30,25 @@ Since September 16, 0 grants have been approved and the vesting contract(s) will
 
 
 ## Polls
+
+#### [Should we increase VP Thresholds for POI, Name Ban &amp; Catalyst Node Proposals?](https://governance.decentraland.org/proposal/?id=88d94370-5144-11ee-a817-7dc33a6da5df)
+
+* Increase Thresholds to 1M VP 0.00022421056345648668% 19 VP (29 votes)
+* Increase Thresholds to 2M VP 37.48279036418522% 3,176,358 VP (20 votes)
+* Increase Thresholds to 4M VP 62.509975895004324% 5,297,206 VP (33 votes)
+* Increase Thresholds to 6M VP 0.006325098000667204% 536 VP (6 votes)
+* Other (Please Comment) 0% 0 VP (1 votes)
+* Do Not Change Thresholds 0.0006844322463408541% 58 VP (9 votes)
+* Invalid question/options 0% 0 VP (1 votes)
+
+
+#### [Should DCL work with and adopt OMI standards for Vehicles &amp; Seats?](https://governance.decentraland.org/proposal/?id=40a4fcd0-50f8-11ee-9f62-6f6b8dcdef9a)
+
+* Connect with OMI 99.991467765167% 6,023,699 VP (82 votes)
+* Build our own standards 0.008432636761017579% 508 VP (4 votes)
+* We don&#39;t need vehicles/seats standards 0.00008299839331710217% 5 VP (4 votes)
+* Invalid question/options 0.000016599678663420436% 1 VP (2 votes)
+
 
 
 # Active Proposals
@@ -54,10 +73,8 @@ Since September 16, 0 grants have been approved and the vesting contract(s) will
 
 ## Polls
 
+* [Should the character limit be increased for grant proposals?](https://governance.decentraland.org/proposal/?id=7dfe8650-54f4-11ee-9f04-6f45955e15fe)
 * [Pause Vesting Contract for Grant Support Squad until...](https://governance.decentraland.org/proposal/?id=7e878b80-543b-11ee-ae55-7d6b1ff3d1b5)
 * [What do you think about the &#34;Metaverse Creators Fund,&#34; where top marketers from Fortune500 companies as a jury, decide which profitable virtual experiences to support?](https://governance.decentraland.org/proposal/?id=82aafe70-53e3-11ee-8d75-11de56ef5013)
-* [Should we increase VP Thresholds for POI, Name Ban &amp; Catalyst Node Proposals?](https://governance.decentraland.org/proposal/?id=88d94370-5144-11ee-a817-7dc33a6da5df)
-* [Create Revocation Category with new Procedure](https://governance.decentraland.org/proposal/?id=d67fbec0-5125-11ee-a817-7dc33a6da5df)
-* [Should DCL work with and adopt OMI standards for Vehicles &amp; Seats?](https://governance.decentraland.org/proposal/?id=40a4fcd0-50f8-11ee-9f62-6f6b8dcdef9a)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
