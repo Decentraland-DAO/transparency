@@ -73,6 +73,8 @@ Since September 16, 0 grants have been approved and the vesting contract(s) will
 
 ## Polls
 
+* [Add an erc721C NFT collection to DCL Marketplace for launch also giving a 2.5% exchange rate to DAO of all sales on DCL Market Place](https://governance.decentraland.org/proposal/?id=96223140-5572-11ee-9f04-6f45955e15fe)
+* [Should we increase VP Thresholds for Governance Process Proposals?](https://governance.decentraland.org/proposal/?id=21a0f560-5552-11ee-9f04-6f45955e15fe)
 * [Should the character limit be increased for grant proposals?](https://governance.decentraland.org/proposal/?id=7dfe8650-54f4-11ee-9f04-6f45955e15fe)
 * [Pause Vesting Contract for Grant Support Squad until...](https://governance.decentraland.org/proposal/?id=7e878b80-543b-11ee-ae55-7d6b1ff3d1b5)
 * [What do you think about the &#34;Metaverse Creators Fund,&#34; where top marketers from Fortune500 companies as a jury, decide which profitable virtual experiences to support?](https://governance.decentraland.org/proposal/?id=82aafe70-53e3-11ee-8d75-11de56ef5013)
