@@ -125,7 +125,7 @@ jobs:
 
       - name: Export KPIs
         env:
-          NODE_OPTIONS: "--max-old-space-size=4096"
+          NODE_OPTIONS: "--max-old-space-size=8192"
           SHEET_ID: ${{ secrets.SHEET_ID }}
           SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
           SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
@@ -136,7 +136,7 @@ jobs:
 
       - name: Export API
         env:
-          NODE_OPTIONS: "--max-old-space-size=4096"
+          NODE_OPTIONS: "--max-old-space-size=8192"
           ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
         run: npx ts-node ./src/export-api.ts
 
