@@ -129,14 +129,14 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 
 ## Grants
 
+* [Decentraland Education Booth and Activation @ NFT.NYC 2024](https://governance.decentraland.org/proposal/?id=2de81760-587f-11ee-a5cc-3955d256c410) (Higher Tier)
+* [Decentraland Education Booth and Activation @ NFT.NYC 2024](https://governance.decentraland.org/proposal/?id=68f6ae50-587c-11ee-a5cc-3955d256c410) (Higher Tier)
 * [PCOS Connect:metaverse to support &amp; educate women with Polycystic-Ovary-Syndrome](https://governance.decentraland.org/proposal/?id=0958a370-579d-11ee-928e-f3cf6b63fb15) (Higher Tier)
 * [ Metaverse Platform Partner for India&#39;s first MSc course in  Metaverse](https://governance.decentraland.org/proposal/?id=8cec1b40-56e4-11ee-a316-f7cb33d268e0) (Lower Tier)
 * [Best Experience Giveaway and Celebration Event](https://governance.decentraland.org/proposal/?id=847fd5c0-5665-11ee-a204-6d32ab6b9ff8) (Higher Tier)
 * [Non-Fun Game](https://governance.decentraland.org/proposal/?id=5ee57fa0-5411-11ee-8d75-11de56ef5013) (Higher Tier)
 * [Decentral Ed](https://governance.decentraland.org/proposal/?id=cd96ea50-5066-11ee-92bb-e5ce9eee2c51) (Higher Tier)
 * [Expanding DCL Platforms: Mobile Godot Client and Desktop Bevy Client Development](https://governance.decentraland.org/proposal/?id=5d65f080-4eab-11ee-8775-751cfef3aca1) (Higher Tier)
-* [Information Preservation in Decentraland: A Historical Perspective](https://governance.decentraland.org/proposal/?id=1740a740-4db0-11ee-beb5-696f9c967b67) (Higher Tier)
-* [In-World Snapshot voting library](https://governance.decentraland.org/proposal/?id=c96c3830-4d4c-11ee-beb5-696f9c967b67) (Lower Tier)
 
 ## Names Bans
 
@@ -147,9 +147,5 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 ## Polls
 
 * [Require a minimum of 10000VP committment to create any DAO proposal](https://governance.decentraland.org/proposal/?id=810194b0-5787-11ee-928e-f3cf6b63fb15)
-* [Add an erc721C NFT collection to DCL Marketplace for launch also giving a 2.5% exchange rate to DAO of all sales on DCL Market Place](https://governance.decentraland.org/proposal/?id=96223140-5572-11ee-9f04-6f45955e15fe)
-* [Should we increase VP Thresholds for Governance Process Proposals?](https://governance.decentraland.org/proposal/?id=21a0f560-5552-11ee-9f04-6f45955e15fe)
-* [Should the character limit be increased for grant proposals?](https://governance.decentraland.org/proposal/?id=7dfe8650-54f4-11ee-9f04-6f45955e15fe)
-* [Pause Vesting Contract for Grant Support Squad until...](https://governance.decentraland.org/proposal/?id=7e878b80-543b-11ee-ae55-7d6b1ff3d1b5)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
