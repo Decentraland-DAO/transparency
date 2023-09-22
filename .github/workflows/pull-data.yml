@@ -150,6 +150,21 @@ jobs:
           ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
         run: npx ts-node ./src/export-budgets.ts
 
+      - name: Remove transactions.json & transactions.csv
+        run: |
+          if [ -f ./public/transactions.json ]; then
+            rm ./public/transactions.json
+            echo "transactions.json successfully removed."
+          else
+          echo "The file transactions.json does not exist in the ./public directory."
+          fi
+          if [ -f ./public/transactions.csv ]; then
+            rm ./public/transactions.csv
+            echo "transactions.csv successfully removed."
+          else
+            echo "The file transactions.csv does not exist in the ./public directory."
+          fi
+
       - name: Deploy 🚀
         if: ${{ !cancelled() }}
         uses: JamesIves/github-pages-deploy-action@v4.2.2

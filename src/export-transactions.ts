@@ -191,9 +191,10 @@ async function findSecondarySalesTag(txs: TransactionParsed[], chunk: number) {
   console.log(`Secondary sales tagged: ${txs.length} - Chunk = ${chunk}`)
 }
 
-async function saveTransactions(txs: TransactionParsed[], tagged = false) {
-  saveToJSON('transactions.json', txs)
-  await saveToCSV('transactions.csv', txs, [
+async function saveTransactionFiles(txs: TransactionParsed[], tagged = false, year?: number) {
+  const yearText = year ? `-${year}` : ''
+  saveToJSON(`transactions${yearText}.json`, txs)
+  await saveToCSV(`transactions${yearText}.csv`, txs, [
     { id: 'date', title: 'Date' },
     { id: 'wallet', title: 'Wallet' },
     { id: 'network', title: 'Network' },
@@ -210,6 +211,23 @@ async function saveTransactions(txs: TransactionParsed[], tagged = false) {
     { id: 'hash', title: 'Hash' },
     { id: 'contract', title: 'Contract' }
   ])
+}
+
+async function saveTransactions(txs: TransactionParsed[], tagged = false) {
+  const txsPerYear: Map<number, TransactionParsed[]> = new Map()
+
+  for(const tx of txs) {
+    const year = new Date(tx.date).getUTCFullYear()
+    const yearTxs = txsPerYear.get(year) || []
+    yearTxs.push(tx)
+    txsPerYear.set(year, yearTxs)
+  }
+
+  for (const [year, yearTxs] of txsPerYear) {
+    await saveTransactionFiles(yearTxs, tagged, year)
+  }
+
+  await saveTransactionFiles(txs, tagged)
 }
 
 async function tagging(txs: TransactionParsed[]) {
@@ -352,15 +370,17 @@ async function main() {
   let lastTransactions: TransactionParsed[] = []
   const unresolvedTransactions: Promise<TransactionParsed[]>[] = []
 
-  const fullFetch = process.argv.includes('--full')
+  const isFirstDayOfTheYear = new Date().getUTCMonth() === 0 && new Date().getUTCDate() === 1
+  const fullFetch = process.argv.includes('--full') || isFirstDayOfTheYear
 
   if (!fullFetch) {
-    lastTransactions = await fetchURL(`${DECENTRALAND_DATA_URL}/transactions.json`)
+    const currentYear = new Date().getUTCFullYear()
+    lastTransactions = await fetchURL(`${DECENTRALAND_DATA_URL}/transactions-${currentYear}.json`)
     latestBlocks = await getLatestBlockByToken(lastTransactions)
     console.log('Latest Blocks:', printableLatestBlocks(latestBlocks))
   } else {
     console.log('\n\n###################### WARNING: fetching all transactions ######################\n\n')
-    priceData = await getTokenPrices(!fullFetch ? latestBlocks : undefined)
+    priceData = await getTokenPrices()
     console.log('Fetched price data...')
   }
 
