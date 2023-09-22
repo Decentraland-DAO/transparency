@@ -178,7 +178,7 @@ async function findSecondarySalesTag(txs: TransactionParsed[], chunk: number) {
         }
 
       } catch (error) {
-        console.log('retrying...')
+        console.log(`Chunk: ${chunk} - retrying...`)
         maxRetries--
       }
     } while (!fetched && maxRetries > 0)
