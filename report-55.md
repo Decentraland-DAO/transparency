@@ -136,7 +136,6 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 * [Best Experience Giveaway and Celebration Event](https://governance.decentraland.org/proposal/?id=847fd5c0-5665-11ee-a204-6d32ab6b9ff8) (Higher Tier)
 * [Non-Fun Game](https://governance.decentraland.org/proposal/?id=5ee57fa0-5411-11ee-8d75-11de56ef5013) (Higher Tier)
 * [Decentral Ed](https://governance.decentraland.org/proposal/?id=cd96ea50-5066-11ee-92bb-e5ce9eee2c51) (Higher Tier)
-* [Expanding DCL Platforms: Mobile Godot Client and Desktop Bevy Client Development](https://governance.decentraland.org/proposal/?id=5d65f080-4eab-11ee-8775-751cfef3aca1) (Higher Tier)
 
 ## Names Bans
 
@@ -146,6 +145,8 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Course of action: Grants budget-allocation spending issue](https://governance.decentraland.org/proposal/?id=3f15ca70-5981-11ee-b4bc-8bf7c008c0e1)
+* [Reduce DAO expenses on Grants Program ](https://governance.decentraland.org/proposal/?id=4cde2890-5969-11ee-b4bc-8bf7c008c0e1)
 * [Require a minimum of 10000VP committment to create any DAO proposal](https://governance.decentraland.org/proposal/?id=810194b0-5787-11ee-928e-f3cf6b63fb15)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
