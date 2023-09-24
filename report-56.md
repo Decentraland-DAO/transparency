@@ -127,6 +127,7 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 
 ## Polls
 
+* [Framework for the Use of Grant Specific Discord Channels](https://governance.decentraland.org/proposal/?id=8f11a9f0-5a7f-11ee-bb9c-d17d31c9a226)
 * [Course of action: Grants budget-allocation spending issue](https://governance.decentraland.org/proposal/?id=3f15ca70-5981-11ee-b4bc-8bf7c008c0e1)
 * [Reduce DAO expenses on Grants Program ](https://governance.decentraland.org/proposal/?id=4cde2890-5969-11ee-b4bc-8bf7c008c0e1)
 * [Require a minimum of 10000VP committment to create any DAO proposal](https://governance.decentraland.org/proposal/?id=810194b0-5787-11ee-928e-f3cf6b63fb15)
