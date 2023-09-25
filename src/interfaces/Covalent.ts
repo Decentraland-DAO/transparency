@@ -16,3 +16,8 @@ interface Pagination {
   page_number: number
   page_size: number
 }
+
+export interface BlockHeight {
+  signed_at: string
+  height: number
+}
