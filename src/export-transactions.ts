@@ -376,7 +376,7 @@ async function main() {
   if (!fullFetch) {
     const currentYear = new Date().getUTCFullYear()
     lastTransactions = await fetchURL(`${DECENTRALAND_DATA_URL}/transactions-${currentYear}.json`)
-    latestBlocks = await getLatestBlockByToken(lastTransactions)
+    latestBlocks = await getLatestBlockByToken(lastTransactions, currentYear)
     console.log('Latest Blocks:', printableLatestBlocks(latestBlocks))
   } else {
     console.log('\n\n###################### WARNING: fetching all transactions ######################\n\n')

@@ -1,5 +1,5 @@
 import { Tokens } from './entities/Tokens'
-import { DataByNetworks, Network, NetworkName } from './entities/Networks'
+import { DataByNetworks, Network, NetworkName, Networks } from './entities/Networks'
 import BigNumber from 'bignumber.js'
 import { createObjectCsvWriter } from 'csv-writer'
 import { ObjectStringifierHeader } from 'csv-writer/src/lib/record'
@@ -11,7 +11,7 @@ import { KPI } from './interfaces/KPIs'
 import { Delegation, DelegationInfo, ReceivedDelegations } from './interfaces/Members'
 import { TransactionDetails } from './interfaces/Transactions/Transactions'
 import { TransferType } from './interfaces/Transactions/Transfers'
-import { CovalentResponse } from './interfaces/Covalent'
+import { BlockHeight, CovalentResponse } from './interfaces/Covalent'
 import { ethers } from 'ethers'
 import { TokenPriceAPIData } from './interfaces/Transactions/TokenPrices'
 import Path from 'path'
@@ -110,13 +110,13 @@ export async function fetchURL(url: string, options?: RequestInit, retry?: numbe
   }
 }
 
-export async function fetchCovalentURL<T>(url: string, pageSize = 10000) {
+export async function fetchCovalentURL<T>(url: string, pageSize = 10000, singlePage = false): Promise<T[]> {
   let hasNext = true
   const result: T[] = []
   let page = 0
   let retries = 15
 
-  while (hasNext) {
+  do {
     const response: CovalentResponse<T> = await fetchURL(url + (pageSize === 0 ? '' : `&page-size=${pageSize}&page-number=${page}`), {}, 10)
 
     if (response.error) {
@@ -132,7 +132,7 @@ export async function fetchCovalentURL<T>(url: string, pageSize = 10000) {
     result.push(...(response.data.items || response.data))
     page++
     hasNext = response.data.pagination && response.data.pagination.has_more
-  }
+  } while (hasNext && !singlePage)
 
   return result
 }
@@ -312,13 +312,16 @@ export function parseKPIs(kpis: KPI[]) {
 
 export type LatestBlocks = DataByNetworks<Record<string, { block: number, date: string }>>
 
-export function getLatestBlockByToken(txs: TransactionParsed[]): LatestBlocks {
+export async function getLatestBlockByToken(txs: TransactionParsed[], currentYear: number): Promise<LatestBlocks> {
   const latestBlocks: LatestBlocks = {
     [NetworkName.ETHEREUM]: {},
     [NetworkName.POLYGON]: {}
   }
 
   for (const network of Object.values(NetworkName)) {
+    const url = `${baseCovalentUrl(Networks.get(network))}/block_v2/${currentYear}-01-01/${currentYear}-01-02/?key=${COVALENT_API_KEY}`
+    const blockHeight = (await fetchCovalentURL<BlockHeight>(url, 1, true))[0]
+    const defaultBlock = { block: blockHeight.height, date: blockHeight.signed_at.split('T')[0]}
     for (const tokenAddress of Tokens.getAddresses(network)) {
       const latestBlock = txs
         .filter(tx => tx.network === network && tx.contract.toLowerCase() === tokenAddress)
@@ -327,6 +330,9 @@ export function getLatestBlockByToken(txs: TransactionParsed[]): LatestBlocks {
 
       if (latestBlock) {
         latestBlocks[network][tokenAddress] = latestBlock
+      }
+      else {
+        latestBlocks[network][tokenAddress] = { ...defaultBlock }
       }
     }
   }
