@@ -318,26 +318,30 @@ export async function getLatestBlockByToken(txs: TransactionParsed[], currentYea
     [NetworkName.POLYGON]: {}
   }
 
-  for (const network of Object.values(NetworkName)) {
-    const url = `${baseCovalentUrl(Networks.get(network))}/block_v2/${currentYear}-01-01/${currentYear}-01-02/?key=${COVALENT_API_KEY}`
-    const blockHeight = (await fetchCovalentURL<BlockHeight>(url, 1, true))[0]
-    const defaultBlock = { block: blockHeight.height, date: blockHeight.signed_at.split('T')[0]}
-    for (const tokenAddress of Tokens.getAddresses(network)) {
-      const latestBlock = txs
-        .filter(tx => tx.network === network && tx.contract.toLowerCase() === tokenAddress)
-        .map(tx => ({ block: tx.block, date: tx.date.split('T')[0] }))
-        .sort((a, b) => b.block - a.block)[0]
-
-      if (latestBlock) {
-        latestBlocks[network][tokenAddress] = latestBlock
-      }
-      else {
-        latestBlocks[network][tokenAddress] = { ...defaultBlock }
+  try {
+    for (const network of Object.values(NetworkName)) {
+      const url = `${baseCovalentUrl(Networks.get(network))}/block_v2/${currentYear}-01-01/${currentYear}-01-02/?key=${COVALENT_API_KEY}`
+      const blockHeight = (await fetchCovalentURL<BlockHeight>(url, 1, true))[0]
+      const defaultBlock = { block: blockHeight.height, date: blockHeight.signed_at.split('T')[0]}
+      for (const tokenAddress of Tokens.getAddresses(network)) {
+        const latestBlock = txs
+          .filter(tx => tx.network === network && tx.contract.toLowerCase() === tokenAddress)
+          .map(tx => ({ block: tx.block, date: tx.date.split('T')[0] }))
+          .sort((a, b) => b.block - a.block)[0]
+  
+        if (latestBlock) {
+          latestBlocks[network][tokenAddress] = latestBlock
+        }
+        else {
+          latestBlocks[network][tokenAddress] = { ...defaultBlock }
+        }
       }
     }
+  
+    return latestBlocks
+  } catch (error) {
+    throw new Error(`Error getting latest block by token: ${error}`);
   }
-
-  return latestBlocks
 }
 
 export function printableLatestBlocks(latestBlocks: LatestBlocks) {
