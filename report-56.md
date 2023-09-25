@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 7 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -26,7 +26,14 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since September 16, 3 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since September 16, 4 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Decentral Ed](https://governance.decentraland.org/proposal/?id=cd96ea50-5066-11ee-92bb-e5ce9eee2c51) (Higher Tier)
+
+* Yes 95.08982194093902% 9,864,059 VP (125 votes)
+* No 0.0049164151582912164% 510 VP (6 votes)
+* Abstain 4.9052616439027% 508,843 VP (8 votes)
 
 
 #### [Information Preservation in Decentraland: A Historical Perspective](https://governance.decentraland.org/proposal/?id=1740a740-4db0-11ee-beb5-696f9c967b67) (Higher Tier)
@@ -51,6 +58,13 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 
 
 ## Polls
+
+#### [Require a minimum of 10000VP committment to create any DAO proposal](https://governance.decentraland.org/proposal/?id=810194b0-5787-11ee-928e-f3cf6b63fb15)
+
+* YES 23.66949516613769% 2,034,146 VP (41 votes)
+* NO 70.48602529498639% 6,057,538 VP (56 votes)
+* Invalid question/options 5.844479538875926% 502,272 VP (2 votes)
+
 
 #### [Add an erc721C NFT collection to DCL Marketplace for launch also giving a 2.5% exchange rate to DAO of all sales on DCL Market Place](https://governance.decentraland.org/proposal/?id=96223140-5572-11ee-9f04-6f45955e15fe)
 
@@ -107,6 +121,7 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 
 ## Points of Interest
 
+* 98, -116: [BIGTIME-space](https://governance.decentraland.org/proposal/?id=953eb1d0-5ad2-11ee-bb9c-d17d31c9a226)
 * 61, -149: [Metaverse.maff.io](https://governance.decentraland.org/proposal/?id=b6b097a0-570a-11ee-9d11-698f2d12cd46)
 
 ## Grants
@@ -117,7 +132,6 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 * [ Metaverse Platform Partner for India&#39;s first MSc course in  Metaverse](https://governance.decentraland.org/proposal/?id=8cec1b40-56e4-11ee-a316-f7cb33d268e0) (Lower Tier)
 * [Best Experience Giveaway and Celebration Event](https://governance.decentraland.org/proposal/?id=847fd5c0-5665-11ee-a204-6d32ab6b9ff8) (Higher Tier)
 * [Non-Fun Game](https://governance.decentraland.org/proposal/?id=5ee57fa0-5411-11ee-8d75-11de56ef5013) (Higher Tier)
-* [Decentral Ed](https://governance.decentraland.org/proposal/?id=cd96ea50-5066-11ee-92bb-e5ce9eee2c51) (Higher Tier)
 
 ## Names Bans
 
@@ -130,6 +144,5 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 * [Framework for the Use of Grant Specific Discord Channels](https://governance.decentraland.org/proposal/?id=8f11a9f0-5a7f-11ee-bb9c-d17d31c9a226)
 * [Course of action: Grants budget-allocation spending issue](https://governance.decentraland.org/proposal/?id=3f15ca70-5981-11ee-b4bc-8bf7c008c0e1)
 * [Reduce DAO expenses on Grants Program ](https://governance.decentraland.org/proposal/?id=4cde2890-5969-11ee-b4bc-8bf7c008c0e1)
-* [Require a minimum of 10000VP committment to create any DAO proposal](https://governance.decentraland.org/proposal/?id=810194b0-5787-11ee-928e-f3cf6b63fb15)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
