@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 7 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 7 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -26,14 +26,7 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since September 16, 4 grants have been approved and the vesting contract(s) will be established within 7-10 days.
-
-
-#### [Decentral Ed](https://governance.decentraland.org/proposal/?id=cd96ea50-5066-11ee-92bb-e5ce9eee2c51) (Higher Tier)
-
-* Yes 95.08982194093902% 9,864,059 VP (125 votes)
-* No 0.0049164151582912164% 510 VP (6 votes)
-* Abstain 4.9052616439027% 508,843 VP (8 votes)
+Since September 16, 3 grants have been approved and the vesting contract(s) will be established within 7-10 days.
 
 
 #### [Information Preservation in Decentraland: A Historical Perspective](https://governance.decentraland.org/proposal/?id=1740a740-4db0-11ee-beb5-696f9c967b67) (Higher Tier)
