@@ -9,12 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 7 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+1 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 61, -149: [Metaverse.maff.io](https://governance.decentraland.org/proposal/?id=b6b097a0-570a-11ee-9d11-698f2d12cd46)
+
+* Yes 93.55251572985782% 7,279,528 VP (84 votes)
+* No 0.000179920349261382% 14 VP (2 votes)
+* Abstain 6.447304349792918% 501,679 VP (8 votes)
 
 
 ## Name Bans
@@ -52,13 +59,6 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 
 ## Polls
 
-#### [Require a minimum of 10000VP committment to create any DAO proposal](https://governance.decentraland.org/proposal/?id=810194b0-5787-11ee-928e-f3cf6b63fb15)
-
-* YES 23.66949516613769% 2,034,146 VP (41 votes)
-* NO 70.48602529498639% 6,057,538 VP (56 votes)
-* Invalid question/options 5.844479538875926% 502,272 VP (2 votes)
-
-
 #### [Add an erc721C NFT collection to DCL Marketplace for launch also giving a 2.5% exchange rate to DAO of all sales on DCL Market Place](https://governance.decentraland.org/proposal/?id=96223140-5572-11ee-9f04-6f45955e15fe)
 
 * Yes  51.443227614546174% 3,465,775 VP (68 votes)
@@ -81,13 +81,6 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 * Yes, raise the character restriction as high as possible 0.04970759327407692% 3,367 VP (7 votes)
 * No, don&#39;t change anything 0.000044289509896712434% 3 VP (1 votes)
 * Invalid question/options 7.460715573800865% 505,360 VP (4 votes)
-
-
-#### [What do you think about the &#34;Metaverse Creators Fund,&#34; where top marketers from Fortune500 companies as a jury, decide which profitable virtual experiences to support?](https://governance.decentraland.org/proposal/?id=82aafe70-53e3-11ee-8d75-11de56ef5013)
-
-* I like the idea 0.04129395867399313% 2,912 VP (16 votes)
-* No, It´s not relevant for the community 96.39272029483206% 6,797,498 VP (73 votes)
-* Invalid question/options 3.5659857464939484% 251,469 VP (10 votes)
 
 
 #### [Should we increase VP Thresholds for POI, Name Ban &amp; Catalyst Node Proposals?](https://governance.decentraland.org/proposal/?id=88d94370-5144-11ee-a817-7dc33a6da5df)
@@ -115,7 +108,6 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 ## Points of Interest
 
 * 98, -116: [BIGTIME-space](https://governance.decentraland.org/proposal/?id=953eb1d0-5ad2-11ee-bb9c-d17d31c9a226)
-* 61, -149: [Metaverse.maff.io](https://governance.decentraland.org/proposal/?id=b6b097a0-570a-11ee-9d11-698f2d12cd46)
 
 ## Grants
 
@@ -134,6 +126,7 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 
 ## Polls
 
+* [致我们的中国朋友和投资者的真挚信息](https://governance.decentraland.org/proposal/?id=03f34330-5cee-11ee-a299-75d9a81a786c)
 * [Framework for the Use of Grant Specific Discord Channels](https://governance.decentraland.org/proposal/?id=8f11a9f0-5a7f-11ee-bb9c-d17d31c9a226)
 * [Course of action: Grants budget-allocation spending issue](https://governance.decentraland.org/proposal/?id=3f15ca70-5981-11ee-b4bc-8bf7c008c0e1)
 * [Reduce DAO expenses on Grants Program ](https://governance.decentraland.org/proposal/?id=4cde2890-5969-11ee-b4bc-8bf7c008c0e1)

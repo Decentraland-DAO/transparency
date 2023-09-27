@@ -126,7 +126,6 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 ## Points of Interest
 
 * 98, -116: [BIGTIME-space](https://governance.decentraland.org/proposal/?id=953eb1d0-5ad2-11ee-bb9c-d17d31c9a226)
-* 61, -149: [Metaverse.maff.io](https://governance.decentraland.org/proposal/?id=b6b097a0-570a-11ee-9d11-698f2d12cd46)
 
 ## Grants
 
@@ -145,6 +144,7 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [致我们的中国朋友和投资者的真挚信息](https://governance.decentraland.org/proposal/?id=03f34330-5cee-11ee-a299-75d9a81a786c)
 * [Framework for the Use of Grant Specific Discord Channels](https://governance.decentraland.org/proposal/?id=8f11a9f0-5a7f-11ee-bb9c-d17d31c9a226)
 * [Course of action: Grants budget-allocation spending issue](https://governance.decentraland.org/proposal/?id=3f15ca70-5981-11ee-b4bc-8bf7c008c0e1)
 * [Reduce DAO expenses on Grants Program ](https://governance.decentraland.org/proposal/?id=4cde2890-5969-11ee-b4bc-8bf7c008c0e1)
