@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 7 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -58,6 +58,23 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 
 
 ## Polls
+
+#### [Course of action: Grants budget-allocation spending issue](https://governance.decentraland.org/proposal/?id=3f15ca70-5981-11ee-b4bc-8bf7c008c0e1)
+
+* Subtract from Platform Category Q4 8.723873238536003% 804,938 VP (13 votes)
+* Revoke the Grants 10.887126928151583% 1,004,538 VP (16 votes)
+* Balance with Q3 remaining funds from other unspent categories 44.691596539747835% 4,123,623 VP (42 votes)
+* Subtract Total Budget Overspent % in Q3 from Q4 0.08282357062145423% 7,642 VP (6 votes)
+* Don’t do anything 35.50403269070826% 3,275,901 VP (34 votes)
+* Invalid question/options 0.11054703223486434% 10,200 VP (1 votes)
+
+
+#### [Reduce DAO expenses on Grants Program ](https://governance.decentraland.org/proposal/?id=4cde2890-5969-11ee-b4bc-8bf7c008c0e1)
+
+* YES 46.12927904659307% 4,659,691 VP (41 votes)
+* NO 53.87071105376358% 5,441,682 VP (49 votes)
+* Invalid question/options 0.000009899643355448476% 1 VP (1 votes)
+
 
 #### [Add an erc721C NFT collection to DCL Marketplace for launch also giving a 2.5% exchange rate to DAO of all sales on DCL Market Place](https://governance.decentraland.org/proposal/?id=96223140-5572-11ee-9f04-6f45955e15fe)
 
@@ -126,9 +143,9 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 
 ## Polls
 
-* [致我们的中国朋友和投资者的真挚信息](https://governance.decentraland.org/proposal/?id=03f34330-5cee-11ee-a299-75d9a81a786c)
+* [Half-price promotions during festivals ](https://governance.decentraland.org/proposal/?id=425ea170-5d32-11ee-a299-75d9a81a786c)
+* [Host an event for Christmas: People can get names for free on that day](https://governance.decentraland.org/proposal/?id=1d8b1960-5d31-11ee-a299-75d9a81a786c)
+* [Reduce the price of claiming a Name to 50 mana](https://governance.decentraland.org/proposal/?id=48c2edf0-5d2d-11ee-a299-75d9a81a786c)
 * [Framework for the Use of Grant Specific Discord Channels](https://governance.decentraland.org/proposal/?id=8f11a9f0-5a7f-11ee-bb9c-d17d31c9a226)
-* [Course of action: Grants budget-allocation spending issue](https://governance.decentraland.org/proposal/?id=3f15ca70-5981-11ee-b4bc-8bf7c008c0e1)
-* [Reduce DAO expenses on Grants Program ](https://governance.decentraland.org/proposal/?id=4cde2890-5969-11ee-b4bc-8bf7c008c0e1)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

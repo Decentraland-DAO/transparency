@@ -144,9 +144,9 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
-* [致我们的中国朋友和投资者的真挚信息](https://governance.decentraland.org/proposal/?id=03f34330-5cee-11ee-a299-75d9a81a786c)
+* [Half-price promotions during festivals ](https://governance.decentraland.org/proposal/?id=425ea170-5d32-11ee-a299-75d9a81a786c)
+* [Host an event for Christmas: People can get names for free on that day](https://governance.decentraland.org/proposal/?id=1d8b1960-5d31-11ee-a299-75d9a81a786c)
+* [Reduce the price of claiming a Name to 50 mana](https://governance.decentraland.org/proposal/?id=48c2edf0-5d2d-11ee-a299-75d9a81a786c)
 * [Framework for the Use of Grant Specific Discord Channels](https://governance.decentraland.org/proposal/?id=8f11a9f0-5a7f-11ee-bb9c-d17d31c9a226)
-* [Course of action: Grants budget-allocation spending issue](https://governance.decentraland.org/proposal/?id=3f15ca70-5981-11ee-b4bc-8bf7c008c0e1)
-* [Reduce DAO expenses on Grants Program ](https://governance.decentraland.org/proposal/?id=4cde2890-5969-11ee-b4bc-8bf7c008c0e1)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
