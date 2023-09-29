@@ -125,6 +125,7 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
+* -130, 15: [Exclusive FASHION STREET &amp; ROAD! (-130,15) +Free NFT Gallery! @Klockmann#3349 on Discord for details - DCL Real Estate HQ Office - www.DCLRealEstate.org](https://governance.decentraland.org/proposal/?id=adfedd70-5eca-11ee-ba4a-015a3b731084)
 * 98, -116: [BIGTIME-space](https://governance.decentraland.org/proposal/?id=953eb1d0-5ad2-11ee-bb9c-d17d31c9a226)
 
 ## Grants
