@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 7 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 8 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -58,6 +58,13 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 
 
 ## Polls
+
+#### [Framework for the Use of Grant Specific Discord Channels](https://governance.decentraland.org/proposal/?id=8f11a9f0-5a7f-11ee-bb9c-d17d31c9a226)
+
+* Yes 81.32051277822372% 5,670,285 VP (61 votes)
+* No 0.001735324070335983% 121 VP (23 votes)
+* Invalid question/options 18.677751897705942% 1,302,355 VP (8 votes)
+
 
 #### [Course of action: Grants budget-allocation spending issue](https://governance.decentraland.org/proposal/?id=3f15ca70-5981-11ee-b4bc-8bf7c008c0e1)
 
@@ -143,9 +150,9 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 
 ## Polls
 
+* [Should we make voting anonymous?](https://governance.decentraland.org/proposal/?id=bb0bc1c0-5e18-11ee-bdee-5fa9957b5d58)
 * [Half-price promotions during festivals ](https://governance.decentraland.org/proposal/?id=425ea170-5d32-11ee-a299-75d9a81a786c)
 * [Host an event for Christmas: People can get names for free on that day](https://governance.decentraland.org/proposal/?id=1d8b1960-5d31-11ee-a299-75d9a81a786c)
 * [Reduce the price of claiming a Name to 50 mana](https://governance.decentraland.org/proposal/?id=48c2edf0-5d2d-11ee-a299-75d9a81a786c)
-* [Framework for the Use of Grant Specific Discord Channels](https://governance.decentraland.org/proposal/?id=8f11a9f0-5a7f-11ee-bb9c-d17d31c9a226)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
