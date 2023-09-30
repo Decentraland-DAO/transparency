@@ -141,7 +141,6 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 * [PCOS Connect:metaverse to support &amp; educate women with Polycystic-Ovary-Syndrome](https://governance.decentraland.org/proposal/?id=0958a370-579d-11ee-928e-f3cf6b63fb15) (Higher Tier)
 * [ Metaverse Platform Partner for India&#39;s first MSc course in  Metaverse](https://governance.decentraland.org/proposal/?id=8cec1b40-56e4-11ee-a316-f7cb33d268e0) (Lower Tier)
 * [Best Experience Giveaway and Celebration Event](https://governance.decentraland.org/proposal/?id=847fd5c0-5665-11ee-a204-6d32ab6b9ff8) (Higher Tier)
-* [Non-Fun Game](https://governance.decentraland.org/proposal/?id=5ee57fa0-5411-11ee-8d75-11de56ef5013) (Higher Tier)
 
 ## Names Bans
 
