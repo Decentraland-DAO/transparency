@@ -40,6 +40,12 @@ Since October 1, 0 grants have been approved and the vesting contract(s) will be
 
 ## Grants
 
+* [METAVERSE FASHION SUMMIT 2024](https://governance.decentraland.org/proposal/?id=6307a750-6020-11ee-af3f-d9f6b00b3bf3) (Higher Tier)
+* [Vroomway Continuation &amp; Expansion](https://governance.decentraland.org/proposal/?id=95bc6120-6013-11ee-af3f-d9f6b00b3bf3) (Higher Tier)
+* [CROSSVERSE: A smart wearable multiple-player game &amp; more](https://governance.decentraland.org/proposal/?id=fc6511e0-6001-11ee-af3f-d9f6b00b3bf3) (Higher Tier)
+* [Monster Hall Roguelike Game](https://governance.decentraland.org/proposal/?id=d4fb52c0-5ff9-11ee-af3f-d9f6b00b3bf3) (Higher Tier)
+* [Expanding Decentraland Explorers: Mobile &amp; VR in Godot and Desktop in Bevy](https://governance.decentraland.org/proposal/?id=cb04d870-5ff6-11ee-af3f-d9f6b00b3bf3) (Higher Tier)
+* [Sustaining and Expanding The Saloon: A Hub for Virtual Entertainment and Gaming ](https://governance.decentraland.org/proposal/?id=5a5d3c30-5ff5-11ee-af3f-d9f6b00b3bf3) (Higher Tier)
 * [Decentraland Education Booth and Activation @ NFT.NYC 2024](https://governance.decentraland.org/proposal/?id=2de81760-587f-11ee-a5cc-3955d256c410) (Higher Tier)
 * [Decentraland Education Booth and Activation @ NFT.NYC 2024](https://governance.decentraland.org/proposal/?id=68f6ae50-587c-11ee-a5cc-3955d256c410) (Higher Tier)
 * [PCOS Connect:metaverse to support &amp; educate women with Polycystic-Ovary-Syndrome](https://governance.decentraland.org/proposal/?id=0958a370-579d-11ee-928e-f3cf6b63fb15) (Higher Tier)
@@ -54,6 +60,7 @@ Since October 1, 0 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [LandlordDao Voting Mechanism Assessment Proposal](https://governance.decentraland.org/proposal/?id=d1739520-6005-11ee-af3f-d9f6b00b3bf3)
 * [Should we make voting anonymous?](https://governance.decentraland.org/proposal/?id=bb0bc1c0-5e18-11ee-bdee-5fa9957b5d58)
 * [Half-price promotions during festivals ](https://governance.decentraland.org/proposal/?id=425ea170-5d32-11ee-a299-75d9a81a786c)
 * [Host an event for Christmas: People can get names for free on that day](https://governance.decentraland.org/proposal/?id=1d8b1960-5d31-11ee-a299-75d9a81a786c)
