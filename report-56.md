@@ -135,6 +135,9 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 
 ## Grants
 
+* [Decentral Ed - v2.0](https://governance.decentraland.org/proposal/?id=4e3914f0-60cd-11ee-b14c-4954da90424e) (Higher Tier)
+* [Knights of Antrom Server Costs -- 1 year](https://governance.decentraland.org/proposal/?id=40d39160-6063-11ee-af3f-d9f6b00b3bf3) (Lower Tier)
+* [[DCL-Metrics] Provide fundamental Decentraland metrics to the community #2](https://governance.decentraland.org/proposal/?id=87fa6ad0-605b-11ee-af3f-d9f6b00b3bf3) (Higher Tier)
 * [METAVERSE FASHION SUMMIT 2024](https://governance.decentraland.org/proposal/?id=6307a750-6020-11ee-af3f-d9f6b00b3bf3) (Higher Tier)
 * [Vroomway Continuation &amp; Expansion](https://governance.decentraland.org/proposal/?id=95bc6120-6013-11ee-af3f-d9f6b00b3bf3) (Higher Tier)
 * [CROSSVERSE: A smart wearable multiple-player game &amp; more](https://governance.decentraland.org/proposal/?id=fc6511e0-6001-11ee-af3f-d9f6b00b3bf3) (Higher Tier)
