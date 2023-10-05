@@ -1,10 +1,11 @@
-import { CURATION_FEE_CONTRACTS, CURATORS_PAYMENT_ADDRESSES, DAO_COMMITTEE_ADDRESSES, GRANTS_REVENUE_ADDRESSES, REVOCATIONS_COMMITTEE_ADDRESSES, SECONDARY_SALE_CONTRACTS, SWAP_CONTRACTS, WEARABLE_CONTRACTS } from "../utils/addresses"
+import { CURATION_FEE_CONTRACTS, CURATORS_PAYMENT_ADDRESSES, DAO_COMMITTEE_ADDRESSES, DAO_COMMITTEE_PAYMENT_ADDRESSES, GRANTS_REVENUE_ADDRESSES, REVOCATIONS_COMMITTEE_ADDRESSES, SECONDARY_SALE_CONTRACTS, SWAP_CONTRACTS, WEARABLE_CONTRACTS } from "../utils/addresses"
 import { CurationCommittee } from "./Teams"
 
 export enum TagType {
   CURATION_FEE = 'Curation Fee',
   CURATOR = 'Curator',
   DAO_COMMITTEE = 'DAO Committee Member',
+  DAO_COMMITTEE_PAYMENT = 'DAO Committee Payment',
   ESTATE_BID_FEE = 'ESTATE fee :: BID',
   ETH_MARKETPLACE = 'ETH Marketplace',
   FACILITATOR = 'Facilitator',
@@ -41,6 +42,7 @@ type ExportedTagType = Exclude<TagType, TagType.SECONDARY_SALE | TagType.SWAP | 
 export enum TagCategoryType {
   CURATORS_COMMITTEE_PAYOUT,
   DAO_COMMITTEE,
+  DAO_COMMITTEE_COMPENSATION,
   ESTATE_MARKETPLACE_SALES,
   FACILITATION_PAYOUT,
   GRANTS_PAYOUT,
@@ -67,6 +69,7 @@ export interface TagCategory {
 const TAG_CATEGORIES: Record<keyof typeof TagCategoryType, TagCategory> = {
   CURATORS_COMMITTEE_PAYOUT: { name: 'Wearable Curators Committee Payout', description: 'Transactions corresponding to the payout of compensations for members of the Wearables Curation Committee' },
   DAO_COMMITTEE: { name: 'DAO Committee', description: 'Transactions between the DAO Treasury and the DAO Committee wallets (e.g. Transaction gas refunds)' },
+  DAO_COMMITTEE_COMPENSATION: { name: 'DAO Committee Compensation', description: 'Transactions corresponding to the payout of compensations for members of the DAO Committee' },
   ESTATE_MARKETPLACE_SALES: { name: 'ESTATE DCL Marketplace Sales Fee', description: 'Funds corresponding to the 2.5% fee applied to every ESTATE transaction (Minting or secondary)' },
   FACILITATION_PAYOUT: { name: 'Community Facilitation Payout', description: 'Transactions corresponding to the payout for monthly compensations of the DAO Facilitator role' },
   GRANTS_PAYOUT: { name: 'Community Grants Payout', description: 'Transactions corresponding to the funding of the vesting contracts for approved DAO Community Grants projects' },
@@ -113,6 +116,7 @@ const TAGS: Record<string, TagType> = {
   ...ITEM_CONTRACTS,
   ...toRecord(REVOCATIONS_COMMITTEE_ADDRESSES, TagType.REVOCATIONS_COMMITTEE),
   ...toRecord(DAO_COMMITTEE_ADDRESSES, TagType.DAO_COMMITTEE),
+  ...toRecord(DAO_COMMITTEE_PAYMENT_ADDRESSES, TagType.DAO_COMMITTEE_PAYMENT),
   ...toRecord(SWAP_CONTRACTS, TagType.SWAP),
   ...toRecord(SECONDARY_SALE_CONTRACTS, TagType.SECONDARY_SALE),
   ...toRecord(CURATION_FEE_CONTRACTS, TagType.CURATION_FEE),
@@ -139,6 +143,7 @@ const TAG_CATEGORY_MAPPING: Record<ExportedTagType, TagCategory> = {
   [TagType.CURATION_FEE]: TAG_CATEGORIES.WEARABLE_SUBMISSION_FEE,
   [TagType.MATIC_MARKETPLACE]: TAG_CATEGORIES.WEARABLES_MINTING_FEE,
   [TagType.DAO_COMMITTEE]: TAG_CATEGORIES.DAO_COMMITTEE,
+  [TagType.DAO_COMMITTEE_PAYMENT]: TAG_CATEGORIES.DAO_COMMITTEE_COMPENSATION,
   [TagType.GRANT]: TAG_CATEGORIES.GRANTS_PAYOUT,
   [TagType.GRANT_REVENUE]: TAG_CATEGORIES.GRANTS_REVENUE,
   [TagType.CURATOR]: TAG_CATEGORIES.CURATORS_COMMITTEE_PAYOUT,
