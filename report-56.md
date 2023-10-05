@@ -137,6 +137,9 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 
 ## Grants
 
+* [The Metaverse Motorshow Race Track 2024](https://governance.decentraland.org/proposal/?id=6dfe5a60-6222-11ee-921b-3b664a734355) (Higher Tier)
+* [Chorus - Licensed Mainstream Music for Venues in DCL](https://governance.decentraland.org/proposal/?id=a34e8b20-620b-11ee-921b-3b664a734355) (Higher Tier)
+* [Devcon Lagos - A 2-day global blockchain summit in Lagos](https://governance.decentraland.org/proposal/?id=f698db60-61e2-11ee-921b-3b664a734355) (Lower Tier)
 * [18+ Adult World (Pixxxel) For Decentraland Worlds](https://governance.decentraland.org/proposal/?id=3b5cc790-6178-11ee-b14c-4954da90424e) (Higher Tier)
 * [Metaverse Creators Fund ](https://governance.decentraland.org/proposal/?id=687db400-615f-11ee-b14c-4954da90424e) (Higher Tier)
 * [Going Full Time in Decentraland ](https://governance.decentraland.org/proposal/?id=8fa7dc40-611e-11ee-b14c-4954da90424e) (Higher Tier)
@@ -151,8 +154,6 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 * [Sustaining and Expanding The Saloon: A Hub for Virtual Entertainment and Gaming ](https://governance.decentraland.org/proposal/?id=5a5d3c30-5ff5-11ee-af3f-d9f6b00b3bf3) (Higher Tier)
 * [Decentraland Education Booth and Activation @ NFT.NYC 2024](https://governance.decentraland.org/proposal/?id=2de81760-587f-11ee-a5cc-3955d256c410) (Higher Tier)
 * [Decentraland Education Booth and Activation @ NFT.NYC 2024](https://governance.decentraland.org/proposal/?id=68f6ae50-587c-11ee-a5cc-3955d256c410) (Higher Tier)
-* [PCOS Connect:metaverse to support &amp; educate women with Polycystic-Ovary-Syndrome](https://governance.decentraland.org/proposal/?id=0958a370-579d-11ee-928e-f3cf6b63fb15) (Higher Tier)
-* [ Metaverse Platform Partner for India&#39;s first MSc course in  Metaverse](https://governance.decentraland.org/proposal/?id=8cec1b40-56e4-11ee-a316-f7cb33d268e0) (Lower Tier)
 
 ## Names Bans
 
@@ -162,7 +163,7 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 
 ## Polls
 
+* [Should Decentraland Establish a Board of Technical Experts?](https://governance.decentraland.org/proposal/?id=68f2b8a0-62ee-11ee-aeee-7f6cc2a5b101)
 * [LandlordDao Voting Mechanism Assessment Proposal](https://governance.decentraland.org/proposal/?id=d1739520-6005-11ee-af3f-d9f6b00b3bf3)
-* [Should we make voting anonymous?](https://governance.decentraland.org/proposal/?id=bb0bc1c0-5e18-11ee-bdee-5fa9957b5d58)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
