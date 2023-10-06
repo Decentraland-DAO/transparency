@@ -5,8 +5,13 @@
 import { DAOCommittee, RevocationCommittee } from "../entities/Teams"
 
 export const DAO_COMMITTEE_ADDRESSES = [
-  '0x521b0fef9cdcf250abaf8e7bc798cbe13fa98692',
   ...DAOCommittee.getMemberAddresses()
+]
+
+export const DAO_COMMITTEE_PAYMENT_ADDRESSES = [
+  '0x521b0fef9cdcf250abaf8e7bc798cbe13fa98692',
+  '0x0e7c2d47d79d4026472f4f942c4947937daa94a8',
+  '0x2d83fff2d4ce9f629bd636efccff1662eb206fc4'
 ]
 
 export const REVOCATIONS_COMMITTEE_ADDRESSES = [
