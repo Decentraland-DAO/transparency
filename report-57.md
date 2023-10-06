@@ -9,12 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+1 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -130, 15: [Exclusive FASHION STREET &amp; ROAD! (-130,15) +Free NFT Gallery! @Klockmann#3349 on Discord for details - DCL Real Estate HQ Office - www.DCLRealEstate.org](https://governance.decentraland.org/proposal/?id=adfedd70-5eca-11ee-ba4a-015a3b731084)
+
+* Yes 99.98945562778556% 8,420,666 VP (118 votes)
+* No 0% 0 VP (2 votes)
+* Abstain 0.010544372214439282% 888 VP (3 votes)
 
 
 ## Name Bans
@@ -59,7 +66,6 @@ Since October 1, 0 grants have been approved and the vesting contract(s) will be
 
 * 100, 77: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=00f46370-61c2-11ee-921b-3b664a734355)
 * 27, -118: [Valhalla](https://governance.decentraland.org/proposal/?id=b7a98da0-617e-11ee-b14c-4954da90424e)
-* -130, 15: [Exclusive FASHION STREET &amp; ROAD! (-130,15) +Free NFT Gallery! @Klockmann#3349 on Discord for details - DCL Real Estate HQ Office - www.DCLRealEstate.org](https://governance.decentraland.org/proposal/?id=adfedd70-5eca-11ee-ba4a-015a3b731084)
 
 ## Grants
 

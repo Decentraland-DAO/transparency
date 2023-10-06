@@ -133,7 +133,6 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 
 * 100, 77: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=00f46370-61c2-11ee-921b-3b664a734355)
 * 27, -118: [Valhalla](https://governance.decentraland.org/proposal/?id=b7a98da0-617e-11ee-b14c-4954da90424e)
-* -130, 15: [Exclusive FASHION STREET &amp; ROAD! (-130,15) +Free NFT Gallery! @Klockmann#3349 on Discord for details - DCL Real Estate HQ Office - www.DCLRealEstate.org](https://governance.decentraland.org/proposal/?id=adfedd70-5eca-11ee-ba4a-015a3b731084)
 
 ## Grants
 
