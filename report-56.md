@@ -137,6 +137,7 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 
 ## Grants
 
+* [Expanding Decentraland&#39;s Reach: Multi-Platform Content Creation &amp; Gaming Streams](https://governance.decentraland.org/proposal/?id=30b8d030-63db-11ee-bdee-ad8cf906eee0) (Lower Tier)
 * [The Metaverse Motorshow Race Track 2024](https://governance.decentraland.org/proposal/?id=6dfe5a60-6222-11ee-921b-3b664a734355) (Higher Tier)
 * [Chorus - Licensed Mainstream Music for Venues in DCL](https://governance.decentraland.org/proposal/?id=a34e8b20-620b-11ee-921b-3b664a734355) (Higher Tier)
 * [Devcon Lagos - A 2-day global blockchain summit in Lagos](https://governance.decentraland.org/proposal/?id=f698db60-61e2-11ee-921b-3b664a734355) (Lower Tier)
@@ -152,8 +153,6 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 * [Monster Hall Roguelike Game](https://governance.decentraland.org/proposal/?id=d4fb52c0-5ff9-11ee-af3f-d9f6b00b3bf3) (Higher Tier)
 * [Expanding Decentraland Explorers: Mobile &amp; VR in Godot and Desktop in Bevy](https://governance.decentraland.org/proposal/?id=cb04d870-5ff6-11ee-af3f-d9f6b00b3bf3) (Higher Tier)
 * [Sustaining and Expanding The Saloon: A Hub for Virtual Entertainment and Gaming ](https://governance.decentraland.org/proposal/?id=5a5d3c30-5ff5-11ee-af3f-d9f6b00b3bf3) (Higher Tier)
-* [Decentraland Education Booth and Activation @ NFT.NYC 2024](https://governance.decentraland.org/proposal/?id=2de81760-587f-11ee-a5cc-3955d256c410) (Higher Tier)
-* [Decentraland Education Booth and Activation @ NFT.NYC 2024](https://governance.decentraland.org/proposal/?id=68f6ae50-587c-11ee-a5cc-3955d256c410) (Higher Tier)
 
 ## Names Bans
 
@@ -164,6 +163,5 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 ## Polls
 
 * [Should Decentraland Establish a Board of Technical Experts?](https://governance.decentraland.org/proposal/?id=68f2b8a0-62ee-11ee-aeee-7f6cc2a5b101)
-* [LandlordDao Voting Mechanism Assessment Proposal](https://governance.decentraland.org/proposal/?id=d1739520-6005-11ee-af3f-d9f6b00b3bf3)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
