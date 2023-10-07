@@ -69,6 +69,7 @@ Since October 1, 0 grants have been approved and the vesting contract(s) will be
 
 ## Grants
 
+* [Innkeeper.eth - Operations and Cross-Reality Party Upgrades](https://governance.decentraland.org/proposal/?id=b136bb90-648b-11ee-a1c9-233702efe10a) (Higher Tier)
 * [Expanding Decentraland&#39;s Reach: Multi-Platform Content Creation &amp; Gaming Streams](https://governance.decentraland.org/proposal/?id=30b8d030-63db-11ee-bdee-ad8cf906eee0) (Lower Tier)
 * [The Metaverse Motorshow Race Track 2024](https://governance.decentraland.org/proposal/?id=6dfe5a60-6222-11ee-921b-3b664a734355) (Higher Tier)
 * [Chorus - Licensed Mainstream Music for Venues in DCL](https://governance.decentraland.org/proposal/?id=a34e8b20-620b-11ee-921b-3b664a734355) (Higher Tier)
@@ -94,6 +95,7 @@ Since October 1, 0 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Should a work group be formed to analyze &amp; improve Grant Reqs and Metrics?](https://governance.decentraland.org/proposal/?id=265c7bd0-645f-11ee-a1c9-233702efe10a)
 * [Should Decentraland Establish a Board of Technical Experts?](https://governance.decentraland.org/proposal/?id=68f2b8a0-62ee-11ee-aeee-7f6cc2a5b101)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
