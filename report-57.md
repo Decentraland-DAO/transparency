@@ -9,12 +9,26 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-1 points of interest have been added to Decentraland’s map since the last report.
+3 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 100, 77: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=00f46370-61c2-11ee-921b-3b664a734355)
+
+* Yes 92.18087389438072% 6,344,203 VP (79 votes)
+* No 0.5231939941374607% 36,008 VP (2 votes)
+* Abstain 7.295932111481818% 502,131 VP (7 votes)
+
+
+#### 27, -118: [Valhalla](https://governance.decentraland.org/proposal/?id=b7a98da0-617e-11ee-b14c-4954da90424e)
+
+* Yes 99.87518325242593% 8,692,296 VP (86 votes)
+* No 0.1122810694369711% 9,772 VP (11 votes)
+* Abstain 0.012535678137099413% 1,091 VP (2 votes)
 
 
 #### -130, 15: [Exclusive FASHION STREET &amp; ROAD! (-130,15) +Free NFT Gallery! @Klockmann#3349 on Discord for details - DCL Real Estate HQ Office - www.DCLRealEstate.org](https://governance.decentraland.org/proposal/?id=adfedd70-5eca-11ee-ba4a-015a3b731084)
@@ -38,25 +52,11 @@ Since October 1, 0 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
-#### [Should we make voting anonymous?](https://governance.decentraland.org/proposal/?id=bb0bc1c0-5e18-11ee-bdee-5fa9957b5d58)
+#### [Should Decentraland Establish a Board of Technical Experts?](https://governance.decentraland.org/proposal/?id=68f2b8a0-62ee-11ee-aeee-7f6cc2a5b101)
 
-* YES 4.8662688948260335% 507,206 VP (33 votes)
-* NO 87.46146583295061% 9,116,015 VP (90 votes)
-* Invalid question/options 7.672265272223365% 799,672 VP (11 votes)
-
-
-#### [Host an event for Christmas: People can get names for free on that day](https://governance.decentraland.org/proposal/?id=1d8b1960-5d31-11ee-a299-75d9a81a786c)
-
-* Yes 14.04391502853915% 1,350,057 VP (47 votes)
-* No 71.33223275298005% 6,857,246 VP (48 votes)
-* Invalid question/options 14.623852218480804% 1,405,807 VP (10 votes)
-
-
-#### [Reduce the price of claiming a Name to 50 mana](https://governance.decentraland.org/proposal/?id=48c2edf0-5d2d-11ee-a299-75d9a81a786c)
-
-* Redece to 50 mana 19.85687931744658% 2,069,562 VP (44 votes)
-* Don&#39;t Redece to 50 mana 80.13555044412544% 8,352,042 VP (55 votes)
-* Invalid question/options 0.00757023842796947% 789 VP (2 votes)
+* Yes 63.865653046721945% 3,295,628 VP (81 votes)
+* No 36.13428881657113% 1,864,620 VP (11 votes)
+* Invalid question/options 0.000058136706916000794% 3 VP (1 votes)
 
 
 
@@ -64,11 +64,10 @@ Since October 1, 0 grants have been approved and the vesting contract(s) will be
 
 ## Points of Interest
 
-* 100, 77: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=00f46370-61c2-11ee-921b-3b664a734355)
-* 27, -118: [Valhalla](https://governance.decentraland.org/proposal/?id=b7a98da0-617e-11ee-b14c-4954da90424e)
 
 ## Grants
 
+* [Scene Templates: Enhancing Decentraland&#39;s Builder Experience](https://governance.decentraland.org/proposal/?id=e33274b0-66e6-11ee-87b3-f900571865e7) (Lower Tier)
 * [Innkeeper.eth - Operations and Cross-Reality Party Upgrades](https://governance.decentraland.org/proposal/?id=b136bb90-648b-11ee-a1c9-233702efe10a) (Higher Tier)
 * [Expanding Decentraland&#39;s Reach: Multi-Platform Content Creation &amp; Gaming Streams](https://governance.decentraland.org/proposal/?id=30b8d030-63db-11ee-bdee-ad8cf906eee0) (Lower Tier)
 * [The Metaverse Motorshow Race Track 2024](https://governance.decentraland.org/proposal/?id=6dfe5a60-6222-11ee-921b-3b664a734355) (Higher Tier)
@@ -95,7 +94,6 @@ Since October 1, 0 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
-* [Should a work group be formed to analyze &amp; improve Grant Reqs and Metrics?](https://governance.decentraland.org/proposal/?id=265c7bd0-645f-11ee-a1c9-233702efe10a)
-* [Should Decentraland Establish a Board of Technical Experts?](https://governance.decentraland.org/proposal/?id=68f2b8a0-62ee-11ee-aeee-7f6cc2a5b101)
+* [Should minting/transferring assets using Decentraland Names be allowed?](https://governance.decentraland.org/proposal/?id=0febea90-66bf-11ee-af45-aff219057437)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

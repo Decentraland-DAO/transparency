@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 8 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 7 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -76,13 +76,6 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 * Invalid question/options 0.11054703223486434% 10,200 VP (1 votes)
 
 
-#### [Reduce DAO expenses on Grants Program ](https://governance.decentraland.org/proposal/?id=4cde2890-5969-11ee-b4bc-8bf7c008c0e1)
-
-* YES 46.12927904659307% 4,659,691 VP (41 votes)
-* NO 53.87071105376358% 5,441,682 VP (49 votes)
-* Invalid question/options 0.000009899643355448476% 1 VP (1 votes)
-
-
 #### [Add an erc721C NFT collection to DCL Marketplace for launch also giving a 2.5% exchange rate to DAO of all sales on DCL Market Place](https://governance.decentraland.org/proposal/?id=96223140-5572-11ee-9f04-6f45955e15fe)
 
 * Yes  51.443227614546174% 3,465,775 VP (68 votes)
@@ -131,11 +124,10 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 
 ## Points of Interest
 
-* 100, 77: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=00f46370-61c2-11ee-921b-3b664a734355)
-* 27, -118: [Valhalla](https://governance.decentraland.org/proposal/?id=b7a98da0-617e-11ee-b14c-4954da90424e)
 
 ## Grants
 
+* [Scene Templates: Enhancing Decentraland&#39;s Builder Experience](https://governance.decentraland.org/proposal/?id=e33274b0-66e6-11ee-87b3-f900571865e7) (Lower Tier)
 * [Innkeeper.eth - Operations and Cross-Reality Party Upgrades](https://governance.decentraland.org/proposal/?id=b136bb90-648b-11ee-a1c9-233702efe10a) (Higher Tier)
 * [Expanding Decentraland&#39;s Reach: Multi-Platform Content Creation &amp; Gaming Streams](https://governance.decentraland.org/proposal/?id=30b8d030-63db-11ee-bdee-ad8cf906eee0) (Lower Tier)
 * [The Metaverse Motorshow Race Track 2024](https://governance.decentraland.org/proposal/?id=6dfe5a60-6222-11ee-921b-3b664a734355) (Higher Tier)
@@ -162,7 +154,6 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 
 ## Polls
 
-* [Should a work group be formed to analyze &amp; improve Grant Reqs and Metrics?](https://governance.decentraland.org/proposal/?id=265c7bd0-645f-11ee-a1c9-233702efe10a)
-* [Should Decentraland Establish a Board of Technical Experts?](https://governance.decentraland.org/proposal/?id=68f2b8a0-62ee-11ee-aeee-7f6cc2a5b101)
+* [Should minting/transferring assets using Decentraland Names be allowed?](https://governance.decentraland.org/proposal/?id=0febea90-66bf-11ee-af45-aff219057437)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
