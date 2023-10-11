@@ -127,6 +127,7 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 
 ## Grants
 
+* [Museum 3.0 : Scene Dev, Curation Mechanics, Testing, Culturally relevant scenes.](https://governance.decentraland.org/proposal/?id=ecbd7830-6787-11ee-badc-c701988a02c8) (Higher Tier)
 * [Scene Templates: Enhancing Decentraland&#39;s Builder Experience](https://governance.decentraland.org/proposal/?id=e33274b0-66e6-11ee-87b3-f900571865e7) (Lower Tier)
 * [Innkeeper.eth - Operations and Cross-Reality Party Upgrades](https://governance.decentraland.org/proposal/?id=b136bb90-648b-11ee-a1c9-233702efe10a) (Higher Tier)
 * [Expanding Decentraland&#39;s Reach: Multi-Platform Content Creation &amp; Gaming Streams](https://governance.decentraland.org/proposal/?id=30b8d030-63db-11ee-bdee-ad8cf906eee0) (Lower Tier)
@@ -154,6 +155,7 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 
 ## Polls
 
+* [Should we increase VP Thresholds for Grant Request Proposals?](https://governance.decentraland.org/proposal/?id=40a23d70-6790-11ee-badc-c701988a02c8)
 * [Should minting/transferring assets using Decentraland Names be allowed?](https://governance.decentraland.org/proposal/?id=0febea90-66bf-11ee-af45-aff219057437)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
