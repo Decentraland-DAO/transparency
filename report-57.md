@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -47,10 +47,24 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since October 1, 0 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since October 1, 1 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Expanding Decentraland Explorers: Mobile &amp; VR in Godot and Desktop in Bevy](https://governance.decentraland.org/proposal/?id=cb04d870-5ff6-11ee-af3f-d9f6b00b3bf3) (Higher Tier)
+
+* Yes 75.14724994093235% 13,625,516 VP (84 votes)
+* No 22.084948639282374% 4,004,389 VP (15 votes)
+* Abstain 2.767801419785265% 501,851 VP (4 votes)
 
 
 ## Polls
+
+#### [Should minting/transferring assets using Decentraland Names be allowed?](https://governance.decentraland.org/proposal/?id=0febea90-66bf-11ee-af45-aff219057437)
+
+* Yes, be able to use names. 52.819002351010646% 5,041,934 VP (85 votes)
+* No, leave it as it is. 41.92598286848441% 4,002,121 VP (10 votes)
+* Invalid question/options 5.255014780504944% 501,627 VP (3 votes)
+
 
 #### [Should Decentraland Establish a Board of Technical Experts?](https://governance.decentraland.org/proposal/?id=68f2b8a0-62ee-11ee-aeee-7f6cc2a5b101)
 
@@ -81,12 +95,6 @@ Since October 1, 0 grants have been approved and the vesting contract(s) will be
 * [Decentral Ed - v2.0](https://governance.decentraland.org/proposal/?id=4e3914f0-60cd-11ee-b14c-4954da90424e) (Higher Tier)
 * [Knights of Antrom Server Costs -- 1 year](https://governance.decentraland.org/proposal/?id=40d39160-6063-11ee-af3f-d9f6b00b3bf3) (Lower Tier)
 * [[DCL-Metrics] Provide fundamental Decentraland metrics to the community #2](https://governance.decentraland.org/proposal/?id=87fa6ad0-605b-11ee-af3f-d9f6b00b3bf3) (Higher Tier)
-* [METAVERSE FASHION SUMMIT 2024](https://governance.decentraland.org/proposal/?id=6307a750-6020-11ee-af3f-d9f6b00b3bf3) (Higher Tier)
-* [Vroomway Continuation &amp; Expansion](https://governance.decentraland.org/proposal/?id=95bc6120-6013-11ee-af3f-d9f6b00b3bf3) (Higher Tier)
-* [CROSSVERSE: A smart wearable multiple-player game &amp; more](https://governance.decentraland.org/proposal/?id=fc6511e0-6001-11ee-af3f-d9f6b00b3bf3) (Higher Tier)
-* [Monster Hall Roguelike Game](https://governance.decentraland.org/proposal/?id=d4fb52c0-5ff9-11ee-af3f-d9f6b00b3bf3) (Higher Tier)
-* [Expanding Decentraland Explorers: Mobile &amp; VR in Godot and Desktop in Bevy](https://governance.decentraland.org/proposal/?id=cb04d870-5ff6-11ee-af3f-d9f6b00b3bf3) (Higher Tier)
-* [Sustaining and Expanding The Saloon: A Hub for Virtual Entertainment and Gaming ](https://governance.decentraland.org/proposal/?id=5a5d3c30-5ff5-11ee-af3f-d9f6b00b3bf3) (Higher Tier)
 
 ## Names Bans
 
@@ -98,6 +106,5 @@ Since October 1, 0 grants have been approved and the vesting contract(s) will be
 
 * [Add more predefined templates for ENS Worlds &amp; DCL Worlds](https://governance.decentraland.org/proposal/?id=4682d3d0-6a24-11ee-8137-9b16241861c5)
 * [Should we increase VP Thresholds for Grant Request Proposals?](https://governance.decentraland.org/proposal/?id=40a23d70-6790-11ee-badc-c701988a02c8)
-* [Should minting/transferring assets using Decentraland Names be allowed?](https://governance.decentraland.org/proposal/?id=0febea90-66bf-11ee-af45-aff219057437)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

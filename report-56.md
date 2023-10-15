@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 7 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -91,15 +91,6 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 * Invalid question/options 0.010642657120329285% 788 VP (2 votes)
 
 
-#### [Should the character limit be increased for grant proposals?](https://governance.decentraland.org/proposal/?id=7dfe8650-54f4-11ee-9f04-6f45955e15fe)
-
-* Yes, double the character restrictions for Description and Roadmap 85.03727626600457% 5,760,096 VP (83 votes)
-* Yes, raise the character restriction, but not by that much. 7.452256277410593% 504,787 VP (8 votes)
-* Yes, raise the character restriction as high as possible 0.04970759327407692% 3,367 VP (7 votes)
-* No, don&#39;t change anything 0.000044289509896712434% 3 VP (1 votes)
-* Invalid question/options 7.460715573800865% 505,360 VP (4 votes)
-
-
 #### [Should we increase VP Thresholds for POI, Name Ban &amp; Catalyst Node Proposals?](https://governance.decentraland.org/proposal/?id=88d94370-5144-11ee-a817-7dc33a6da5df)
 
 * Increase Thresholds to 1M VP 0.00022421056345648668% 19 VP (29 votes)
@@ -141,12 +132,6 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 * [Decentral Ed - v2.0](https://governance.decentraland.org/proposal/?id=4e3914f0-60cd-11ee-b14c-4954da90424e) (Higher Tier)
 * [Knights of Antrom Server Costs -- 1 year](https://governance.decentraland.org/proposal/?id=40d39160-6063-11ee-af3f-d9f6b00b3bf3) (Lower Tier)
 * [[DCL-Metrics] Provide fundamental Decentraland metrics to the community #2](https://governance.decentraland.org/proposal/?id=87fa6ad0-605b-11ee-af3f-d9f6b00b3bf3) (Higher Tier)
-* [METAVERSE FASHION SUMMIT 2024](https://governance.decentraland.org/proposal/?id=6307a750-6020-11ee-af3f-d9f6b00b3bf3) (Higher Tier)
-* [Vroomway Continuation &amp; Expansion](https://governance.decentraland.org/proposal/?id=95bc6120-6013-11ee-af3f-d9f6b00b3bf3) (Higher Tier)
-* [CROSSVERSE: A smart wearable multiple-player game &amp; more](https://governance.decentraland.org/proposal/?id=fc6511e0-6001-11ee-af3f-d9f6b00b3bf3) (Higher Tier)
-* [Monster Hall Roguelike Game](https://governance.decentraland.org/proposal/?id=d4fb52c0-5ff9-11ee-af3f-d9f6b00b3bf3) (Higher Tier)
-* [Expanding Decentraland Explorers: Mobile &amp; VR in Godot and Desktop in Bevy](https://governance.decentraland.org/proposal/?id=cb04d870-5ff6-11ee-af3f-d9f6b00b3bf3) (Higher Tier)
-* [Sustaining and Expanding The Saloon: A Hub for Virtual Entertainment and Gaming ](https://governance.decentraland.org/proposal/?id=5a5d3c30-5ff5-11ee-af3f-d9f6b00b3bf3) (Higher Tier)
 
 ## Names Bans
 
@@ -158,6 +143,5 @@ Since September 16, 3 grants have been approved and the vesting contract(s) will
 
 * [Add more predefined templates for ENS Worlds &amp; DCL Worlds](https://governance.decentraland.org/proposal/?id=4682d3d0-6a24-11ee-8137-9b16241861c5)
 * [Should we increase VP Thresholds for Grant Request Proposals?](https://governance.decentraland.org/proposal/?id=40a23d70-6790-11ee-badc-c701988a02c8)
-* [Should minting/transferring assets using Decentraland Names be allowed?](https://governance.decentraland.org/proposal/?id=0febea90-66bf-11ee-af45-aff219057437)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
