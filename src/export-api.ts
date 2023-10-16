@@ -37,22 +37,20 @@ function getTxsDetails(txs: Record<string, TransactionDetails>): BalanceDetails[
 }
 
 function compensateBalances(fixedBalance: BalanceDetails[], subtractingBalance: BalanceDetails[]): BalanceDetails[] {
-  const balanceMap: Record<string, BalanceDetails> = {}
+  const balanceMap = new Map<string, BalanceDetails>()
 
-  const fixedBalanceCopy = fixedBalance.map(balance => Object.assign({}, balance))
-  const subtractingBalanceCopy = subtractingBalance.map(balance => Object.assign({}, balance))
-
-  fixedBalanceCopy.forEach(balance => {
-    balanceMap[balance.name] = balance
+  fixedBalance.forEach(balance => {
+    balanceMap.set(balance.name, { ...balance })
   })
 
-  subtractingBalanceCopy.forEach(balance => {
-    if (balance.name in balanceMap) {
-      balanceMap[balance.name].value -= balance.value
+  subtractingBalance.forEach(balance => {
+    const existingBalance = balanceMap.get(balance.name)
+    if (existingBalance) {
+      existingBalance.value -= balance.value
     }
   })
 
-  return Object.values(balanceMap).filter(balance => balance.value >= 0)
+  return Array.from(balanceMap.values()).filter(balance => balance.value > 0)
 }
 
 const sumQuote = (txs: TransactionParsed[]) => txs.reduce((total, tx) => total + tx.quote, 0)
