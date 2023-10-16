@@ -41,7 +41,7 @@ type ExportedTagType = Exclude<TagType, TagType.SECONDARY_SALE | TagType.SWAP | 
 
 export enum TagCategoryType {
   CURATORS_COMMITTEE_PAYOUT,
-  DAO_COMMITTEE,
+  DAO_WALLETS_TRANSACTIONS,
   DAO_COMMITTEE_COMPENSATION,
   ESTATE_MARKETPLACE_SALES,
   FACILITATION_PAYOUT,
@@ -68,7 +68,7 @@ export interface TagCategory {
 
 const TAG_CATEGORIES: Record<keyof typeof TagCategoryType, TagCategory> = {
   CURATORS_COMMITTEE_PAYOUT: { name: 'Wearable Curators Committee Payout', description: 'Transactions corresponding to the payout of compensations for members of the Wearables Curation Committee' },
-  DAO_COMMITTEE: { name: 'DAO Committee', description: 'Transactions between the DAO Treasury and the DAO Committee wallets (e.g. Transaction gas refunds)' },
+  DAO_WALLETS_TRANSACTIONS: { name: 'DAO Wallets Transactions', description: 'Transactions between the DAO Treasury and the DAO Committee wallets (e.g. Transaction gas refunds)' },
   DAO_COMMITTEE_COMPENSATION: { name: 'DAO Committee Compensation', description: 'Transactions corresponding to the payout of compensations for members of the DAO Committee' },
   ESTATE_MARKETPLACE_SALES: { name: 'ESTATE DCL Marketplace Sales Fee', description: 'Funds corresponding to the 2.5% fee applied to every ESTATE transaction (Minting or secondary)' },
   FACILITATION_PAYOUT: { name: 'Community Facilitation Payout', description: 'Transactions corresponding to the payout for monthly compensations of the DAO Facilitator role' },
@@ -142,7 +142,7 @@ const TAG_CATEGORY_MAPPING: Record<ExportedTagType, TagCategory> = {
   [TagType.OPENSEA]: TAG_CATEGORIES.OPENSEA_MARKETPLACE_FEE,
   [TagType.CURATION_FEE]: TAG_CATEGORIES.WEARABLE_SUBMISSION_FEE,
   [TagType.MATIC_MARKETPLACE]: TAG_CATEGORIES.WEARABLES_MINTING_FEE,
-  [TagType.DAO_COMMITTEE]: TAG_CATEGORIES.DAO_COMMITTEE,
+  [TagType.DAO_COMMITTEE]: TAG_CATEGORIES.DAO_WALLETS_TRANSACTIONS,
   [TagType.DAO_COMMITTEE_PAYMENT]: TAG_CATEGORIES.DAO_COMMITTEE_COMPENSATION,
   [TagType.GRANT]: TAG_CATEGORIES.GRANTS_PAYOUT,
   [TagType.GRANT_REVENUE]: TAG_CATEGORIES.GRANTS_REVENUE,
