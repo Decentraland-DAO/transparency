@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -47,7 +47,14 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since October 1, 1 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since October 1, 2 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Knights of Antrom Server Costs -- 1 year](https://governance.decentraland.org/proposal/?id=40d39160-6063-11ee-af3f-d9f6b00b3bf3) (Lower Tier)
+
+* Yes 60.908484895168804% 9,464,994 VP (130 votes)
+* No 39.08625760206264% 6,073,886 VP (14 votes)
+* Abstain 0.005257502768554625% 817 VP (7 votes)
 
 
 #### [Expanding Decentraland Explorers: Mobile &amp; VR in Godot and Desktop in Bevy](https://governance.decentraland.org/proposal/?id=cb04d870-5ff6-11ee-af3f-d9f6b00b3bf3) (Higher Tier)
@@ -58,6 +65,15 @@ Since October 1, 1 grants have been approved and the vesting contract(s) will be
 
 
 ## Polls
+
+#### [Should we increase VP Thresholds for Grant Request Proposals?](https://governance.decentraland.org/proposal/?id=40a23d70-6790-11ee-badc-c701988a02c8)
+
+* Option 1 52.63841005687833% 3,313,041 VP (79 votes)
+* Option 2 30.11610653450188% 1,895,496 VP (29 votes)
+* Other (Please comment) 0.00004766473767473297% 3 VP (2 votes)
+* Do Not Change Thresholds 0.007944122945788827% 500 VP (4 votes)
+* Invalid question/options 17.237491620936325% 1,084,921 VP (5 votes)
+
 
 #### [Should minting/transferring assets using Decentraland Names be allowed?](https://governance.decentraland.org/proposal/?id=0febea90-66bf-11ee-af45-aff219057437)
 
@@ -81,6 +97,7 @@ Since October 1, 1 grants have been approved and the vesting contract(s) will be
 
 ## Grants
 
+* [3D Everyday Objects Repository](https://governance.decentraland.org/proposal/?id=ec602a80-6bfc-11ee-b962-e5e0a3ff6b66) (Higher Tier)
 * [Metaverse Synergy: Business Meets Decentraland by seamless integration](https://governance.decentraland.org/proposal/?id=bbb31760-6a23-11ee-8137-9b16241861c5) (Higher Tier)
 * [Museum 3.0 : Scene Dev, Curation Mechanics, Testing, Culturally relevant scenes.](https://governance.decentraland.org/proposal/?id=ecbd7830-6787-11ee-badc-c701988a02c8) (Higher Tier)
 * [Scene Templates: Enhancing Decentraland&#39;s Builder Experience](https://governance.decentraland.org/proposal/?id=e33274b0-66e6-11ee-87b3-f900571865e7) (Lower Tier)
@@ -92,9 +109,6 @@ Since October 1, 1 grants have been approved and the vesting contract(s) will be
 * [18+ Adult World (Pixxxel) For Decentraland Worlds](https://governance.decentraland.org/proposal/?id=3b5cc790-6178-11ee-b14c-4954da90424e) (Higher Tier)
 * [Metaverse Creators Fund ](https://governance.decentraland.org/proposal/?id=687db400-615f-11ee-b14c-4954da90424e) (Higher Tier)
 * [Going Full Time in Decentraland ](https://governance.decentraland.org/proposal/?id=8fa7dc40-611e-11ee-b14c-4954da90424e) (Higher Tier)
-* [Decentral Ed - v2.0](https://governance.decentraland.org/proposal/?id=4e3914f0-60cd-11ee-b14c-4954da90424e) (Higher Tier)
-* [Knights of Antrom Server Costs -- 1 year](https://governance.decentraland.org/proposal/?id=40d39160-6063-11ee-af3f-d9f6b00b3bf3) (Lower Tier)
-* [[DCL-Metrics] Provide fundamental Decentraland metrics to the community #2](https://governance.decentraland.org/proposal/?id=87fa6ad0-605b-11ee-af3f-d9f6b00b3bf3) (Higher Tier)
 
 ## Names Bans
 
@@ -105,6 +119,5 @@ Since October 1, 1 grants have been approved and the vesting contract(s) will be
 ## Polls
 
 * [Add more predefined templates for ENS Worlds &amp; DCL Worlds](https://governance.decentraland.org/proposal/?id=4682d3d0-6a24-11ee-8137-9b16241861c5)
-* [Should we increase VP Thresholds for Grant Request Proposals?](https://governance.decentraland.org/proposal/?id=40a23d70-6790-11ee-badc-c701988a02c8)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

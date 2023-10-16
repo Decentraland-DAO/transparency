@@ -1,0 +1,72 @@
+---
+layout: post
+title: "Guest Post: DAO Committee Report #58"
+description: "A review of the proposals and polls passed in the DAO from October 16 through October 31".
+date: 2022-01-07 00:00:01 -0300
+tags: [announcement, dao, dao-committee-report]
+category: 'project-updates'
+author: 'decentraland'
+image: /images/banners/governance.png
+---
+
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+
+(INTRO: TO BE COMPLETED BY DAO FACILITATOR)
+
+## Points of Interest
+0 points of interest have been added to Decentraland’s map since the last report.
+
+
+## Name Bans
+
+No names have been banned since the previous report.
+
+## Catalyst Nodes
+No Catalyst nodes have been added since the previous report.
+
+
+## Grant requests
+Since October 16, 1 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Decentral Ed - v2.0](https://governance.decentraland.org/proposal/?id=4e3914f0-60cd-11ee-b14c-4954da90424e) (Higher Tier)
+
+* Yes 56.42667081545449% 8,813,293 VP (109 votes)
+* No 32.784348825982676% 5,120,594 VP (20 votes)
+* Abstain 10.78898035856283% 1,685,133 VP (12 votes)
+
+
+## Polls
+
+
+# Active Proposals
+
+## Points of Interest
+
+
+## Grants
+
+* [3D Everyday Objects Repository](https://governance.decentraland.org/proposal/?id=ec602a80-6bfc-11ee-b962-e5e0a3ff6b66) (Higher Tier)
+* [Metaverse Synergy: Business Meets Decentraland by seamless integration](https://governance.decentraland.org/proposal/?id=bbb31760-6a23-11ee-8137-9b16241861c5) (Higher Tier)
+* [Museum 3.0 : Scene Dev, Curation Mechanics, Testing, Culturally relevant scenes.](https://governance.decentraland.org/proposal/?id=ecbd7830-6787-11ee-badc-c701988a02c8) (Higher Tier)
+* [Scene Templates: Enhancing Decentraland&#39;s Builder Experience](https://governance.decentraland.org/proposal/?id=e33274b0-66e6-11ee-87b3-f900571865e7) (Lower Tier)
+* [Innkeeper.eth - Operations and Cross-Reality Party Upgrades](https://governance.decentraland.org/proposal/?id=b136bb90-648b-11ee-a1c9-233702efe10a) (Higher Tier)
+* [Expanding Decentraland&#39;s Reach: Multi-Platform Content Creation &amp; Gaming Streams](https://governance.decentraland.org/proposal/?id=30b8d030-63db-11ee-bdee-ad8cf906eee0) (Lower Tier)
+* [The Metaverse Motorshow Race Track 2024](https://governance.decentraland.org/proposal/?id=6dfe5a60-6222-11ee-921b-3b664a734355) (Higher Tier)
+* [Chorus - Licensed Mainstream Music for Venues in DCL](https://governance.decentraland.org/proposal/?id=a34e8b20-620b-11ee-921b-3b664a734355) (Higher Tier)
+* [Devcon Lagos - A 2-day global blockchain summit in Lagos](https://governance.decentraland.org/proposal/?id=f698db60-61e2-11ee-921b-3b664a734355) (Lower Tier)
+* [18+ Adult World (Pixxxel) For Decentraland Worlds](https://governance.decentraland.org/proposal/?id=3b5cc790-6178-11ee-b14c-4954da90424e) (Higher Tier)
+* [Metaverse Creators Fund ](https://governance.decentraland.org/proposal/?id=687db400-615f-11ee-b14c-4954da90424e) (Higher Tier)
+* [Going Full Time in Decentraland ](https://governance.decentraland.org/proposal/?id=8fa7dc40-611e-11ee-b14c-4954da90424e) (Higher Tier)
+
+## Names Bans
+
+
+## Catalysts
+
+
+## Polls
+
+* [Add more predefined templates for ENS Worlds &amp; DCL Worlds](https://governance.decentraland.org/proposal/?id=4682d3d0-6a24-11ee-8137-9b16241861c5)
+
+*For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
