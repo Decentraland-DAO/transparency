@@ -1,7 +1,7 @@
 import BALANCES from '../public/balances.json'
 import GRANTS from '../public/grants.json'
 import TRANSACTIONS from '../public/transactions.json'
-import { TagCategoryType, Tags } from './entities/Tags'
+import { TagCategoryType, TagType, Tags } from './entities/Tags'
 import { CurationCommittee, DAOCommittee, RevocationCommittee, SABCommittee } from './entities/Teams'
 import { TransactionParsed } from './export-transactions'
 import { BalanceDetails } from './interfaces/Api'
@@ -34,6 +34,25 @@ function getTxsDetails(txs: Record<string, TransactionDetails>): BalanceDetails[
   sortedDetails.push(sortedDetails.splice(sortedDetails.findIndex(detail => detail.name === Tags.getTagCategory(TagCategoryType.OTHER).name), 1)[0])
 
   return sortedDetails
+}
+
+function compensateBalances(fixedBalance: BalanceDetails[], subtractingBalance: BalanceDetails[]): BalanceDetails[] {
+  const balanceMap: Record<string, BalanceDetails> = {}
+
+  const fixedBalanceCopy = fixedBalance.map(balance => Object.assign({}, balance))
+  const subtractingBalanceCopy = subtractingBalance.map(balance => Object.assign({}, balance))
+
+  fixedBalanceCopy.forEach(balance => {
+    balanceMap[balance.name] = balance
+  })
+
+  subtractingBalanceCopy.forEach(balance => {
+    if (balance.name in balanceMap) {
+      balanceMap[balance.name].value -= balance.value
+    }
+  })
+
+  return Object.values(balanceMap).filter(balance => balance.value >= 0)
 }
 
 const sumQuote = (txs: TransactionParsed[]) => txs.reduce((total, tx) => total + tx.quote, 0)
@@ -72,17 +91,20 @@ async function main() {
   const incomeDetails = getTxsDetails(incomeTaggedTxs)
   const expensesDetails = getTxsDetails(expensesTaggedTxs)
 
+  const netIncomeDetails = compensateBalances(incomeDetails, expensesDetails)
+  const netExpensesDetails = compensateBalances(expensesDetails, incomeDetails)
+
   const data = {
     'balances': BALANCES,
     'income': {
-      'total': incomeDetails.reduce((acc, cur) => acc + cur.value, 0),
+      'total': netIncomeDetails.reduce((acc, cur) => acc + cur.value, 0),
       'previous': incomeDelta,
-      'details': incomeDetails
+      'details': netIncomeDetails
     },
     'expenses': {
-      'total': expensesDetails.reduce((acc, cur) => acc + cur.value, 0),
+      'total': netExpensesDetails.reduce((acc, cur) => acc + cur.value, 0),
       'previous': expensesDelta,
-      'details': expensesDetails
+      'details': netExpensesDetails
     },
     'funding': {
       'total': totalFunding
