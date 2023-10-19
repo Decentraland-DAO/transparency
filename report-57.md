@@ -94,6 +94,7 @@ Since October 1, 2 grants have been approved and the vesting contract(s) will be
 
 ## Points of Interest
 
+* 17, -145: [Old Guy BBQ](https://governance.decentraland.org/proposal/?id=fc1901d9-15c3-480a-bb4a-94a4308cdce0)
 * -70, 33: [4](https://governance.decentraland.org/proposal/?id=cf147a1a-72ad-4559-85af-241161014491)
 * 89, 84: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=52069bfe-6537-4c8b-979f-bce4174a7932)
 * 83, 70: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=740ff9fd-f773-42f7-888b-2c461eddac90)
@@ -121,6 +122,5 @@ Since October 1, 2 grants have been approved and the vesting contract(s) will be
 ## Polls
 
 * [Should the DAO lease the LANDs they own to grantees that might need them?](https://governance.decentraland.org/proposal/?id=5dfd8c13-bdfd-4cb2-b698-17410cad85ce)
-* [Add more predefined templates for ENS Worlds &amp; DCL Worlds](https://governance.decentraland.org/proposal/?id=4682d3d0-6a24-11ee-8137-9b16241861c5)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
