@@ -102,15 +102,14 @@ Since October 1, 2 grants have been approved and the vesting contract(s) will be
 
 ## Grants
 
+* [Integrate Decentraland with phygital collectibles and cross-world asset pipeline](https://governance.decentraland.org/proposal/?id=e2cd7961-cf69-4fd8-8a94-0ee834300d60) (Higher Tier)
 * [Video explainers about DCL DAO and its governance model.](https://governance.decentraland.org/proposal/?id=b349fb6c-8356-46d6-abd2-f28a9fd072d8) (Lower Tier)
 * [Continued Maintenance of Decentraland VR Client](https://governance.decentraland.org/proposal/?id=3462ebd7-e9d9-4d7c-9b39-62fa7a85f7e9) (Higher Tier)
 * [Bridging the Gap: SDK 7 Templates for Decentraland Worlds](https://governance.decentraland.org/proposal/?id=2160ab70-6c24-11ee-b962-e5e0a3ff6b66) (Lower Tier)
-* [Helpimstreaming to give all lands a boost with fun](https://governance.decentraland.org/proposal/?id=1e3dfec0-6c10-11ee-b962-e5e0a3ff6b66) (Higher Tier)
 * [3D Everyday Objects Repository](https://governance.decentraland.org/proposal/?id=ec602a80-6bfc-11ee-b962-e5e0a3ff6b66) (Higher Tier)
 * [Metaverse Synergy: Business Meets Decentraland by seamless integration](https://governance.decentraland.org/proposal/?id=bbb31760-6a23-11ee-8137-9b16241861c5) (Higher Tier)
 * [Museum 3.0 : Scene Dev, Curation Mechanics, Testing, Culturally relevant scenes.](https://governance.decentraland.org/proposal/?id=ecbd7830-6787-11ee-badc-c701988a02c8) (Higher Tier)
 * [Scene Templates: Enhancing Decentraland&#39;s Builder Experience](https://governance.decentraland.org/proposal/?id=e33274b0-66e6-11ee-87b3-f900571865e7) (Lower Tier)
-* [Innkeeper.eth - Operations and Cross-Reality Party Upgrades](https://governance.decentraland.org/proposal/?id=b136bb90-648b-11ee-a1c9-233702efe10a) (Higher Tier)
 
 ## Names Bans
 

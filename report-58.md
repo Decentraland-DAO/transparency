@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -26,7 +26,14 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since October 16, 2 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since October 16, 3 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Innkeeper.eth - Operations and Cross-Reality Party Upgrades](https://governance.decentraland.org/proposal/?id=b136bb90-648b-11ee-a1c9-233702efe10a) (Higher Tier)
+
+* Yes 59.63108944361311% 10,392,291 VP (147 votes)
+* No 36.86415583889476% 6,424,552 VP (31 votes)
+* Abstain 3.50475471749214% 610,796 VP (11 votes)
 
 
 #### [The Metaverse Motorshow Race Track 2024](https://governance.decentraland.org/proposal/?id=6dfe5a60-6222-11ee-921b-3b664a734355) (Higher Tier)
@@ -58,15 +65,14 @@ Since October 16, 2 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
+* [Integrate Decentraland with phygital collectibles and cross-world asset pipeline](https://governance.decentraland.org/proposal/?id=e2cd7961-cf69-4fd8-8a94-0ee834300d60) (Higher Tier)
 * [Video explainers about DCL DAO and its governance model.](https://governance.decentraland.org/proposal/?id=b349fb6c-8356-46d6-abd2-f28a9fd072d8) (Lower Tier)
 * [Continued Maintenance of Decentraland VR Client](https://governance.decentraland.org/proposal/?id=3462ebd7-e9d9-4d7c-9b39-62fa7a85f7e9) (Higher Tier)
 * [Bridging the Gap: SDK 7 Templates for Decentraland Worlds](https://governance.decentraland.org/proposal/?id=2160ab70-6c24-11ee-b962-e5e0a3ff6b66) (Lower Tier)
-* [Helpimstreaming to give all lands a boost with fun](https://governance.decentraland.org/proposal/?id=1e3dfec0-6c10-11ee-b962-e5e0a3ff6b66) (Higher Tier)
 * [3D Everyday Objects Repository](https://governance.decentraland.org/proposal/?id=ec602a80-6bfc-11ee-b962-e5e0a3ff6b66) (Higher Tier)
 * [Metaverse Synergy: Business Meets Decentraland by seamless integration](https://governance.decentraland.org/proposal/?id=bbb31760-6a23-11ee-8137-9b16241861c5) (Higher Tier)
 * [Museum 3.0 : Scene Dev, Curation Mechanics, Testing, Culturally relevant scenes.](https://governance.decentraland.org/proposal/?id=ecbd7830-6787-11ee-badc-c701988a02c8) (Higher Tier)
 * [Scene Templates: Enhancing Decentraland&#39;s Builder Experience](https://governance.decentraland.org/proposal/?id=e33274b0-66e6-11ee-87b3-f900571865e7) (Lower Tier)
-* [Innkeeper.eth - Operations and Cross-Reality Party Upgrades](https://governance.decentraland.org/proposal/?id=b136bb90-648b-11ee-a1c9-233702efe10a) (Higher Tier)
 
 ## Names Bans
 
