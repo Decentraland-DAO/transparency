@@ -102,7 +102,8 @@ Since October 1, 2 grants have been approved and the vesting contract(s) will be
 
 ## Grants
 
-* [Integrate Decentraland with phygital collectibles and cross-world asset pipeline](https://governance.decentraland.org/proposal/?id=e2cd7961-cf69-4fd8-8a94-0ee834300d60) (Higher Tier)
+* [metaCinema and AI Lounge to watch metaKnyts and affiliate&#39;s CryptoGraphic Movies](https://governance.decentraland.org/proposal/?id=02a2df8a-fbad-46ea-b0d9-3b558b60fe63) (Higher Tier)
+* [Decentraland Studios Maintenance](https://governance.decentraland.org/proposal/?id=d85bdf8e-bdfc-47cf-b6c6-6b55f7a96d93) (Lower Tier)
 * [Video explainers about DCL DAO and its governance model.](https://governance.decentraland.org/proposal/?id=b349fb6c-8356-46d6-abd2-f28a9fd072d8) (Lower Tier)
 * [Continued Maintenance of Decentraland VR Client](https://governance.decentraland.org/proposal/?id=3462ebd7-e9d9-4d7c-9b39-62fa7a85f7e9) (Higher Tier)
 * [Bridging the Gap: SDK 7 Templates for Decentraland Worlds](https://governance.decentraland.org/proposal/?id=2160ab70-6c24-11ee-b962-e5e0a3ff6b66) (Lower Tier)
