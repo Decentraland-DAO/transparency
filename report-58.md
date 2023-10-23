@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -52,6 +52,13 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+#### [Should the DAO lease the LANDs they own to grantees that might need them?](https://governance.decentraland.org/proposal/?id=5dfd8c13-bdfd-4cb2-b698-17410cad85ce)
+
+* Yes 99.98449143250612% 8,587,469 VP (95 votes)
+* No 0.00003492920606729623% 3 VP (4 votes)
+* Invalid question/options 0.015473638287812234% 1,329 VP (2 votes)
+
+
 
 # Active Proposals
 
@@ -83,6 +90,6 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
-* [Should the DAO lease the LANDs they own to grantees that might need them?](https://governance.decentraland.org/proposal/?id=5dfd8c13-bdfd-4cb2-b698-17410cad85ce)
+* [ Clarification of Facilitation Squads and Moderator Authority  given by the COE](https://governance.decentraland.org/proposal/?id=7eaa731e-37bb-4eae-8f35-ae7876a90df1)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

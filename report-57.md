@@ -120,6 +120,6 @@ Since October 1, 2 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
-* [Should the DAO lease the LANDs they own to grantees that might need them?](https://governance.decentraland.org/proposal/?id=5dfd8c13-bdfd-4cb2-b698-17410cad85ce)
+* [ Clarification of Facilitation Squads and Moderator Authority  given by the COE](https://governance.decentraland.org/proposal/?id=7eaa731e-37bb-4eae-8f35-ae7876a90df1)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
