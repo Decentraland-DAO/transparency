@@ -9,12 +9,40 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+4 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -70, 33: [4](https://governance.decentraland.org/proposal/?id=cf147a1a-72ad-4559-85af-241161014491)
+
+* Yes 60.2002128195339% 3,705,594 VP (59 votes)
+* No 0.0016733138925667497% 103 VP (2 votes)
+* Abstain 39.79811386657352% 2,449,753 VP (27 votes)
+
+
+#### 89, 84: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=52069bfe-6537-4c8b-979f-bce4174a7932)
+
+* Yes 84.84175728159713% 5,651,284 VP (76 votes)
+* No 7.619415790793233% 507,527 VP (6 votes)
+* Abstain 7.538826927609643% 502,159 VP (5 votes)
+
+
+#### 83, 70: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=740ff9fd-f773-42f7-888b-2c461eddac90)
+
+* Yes 81.85258755210056% 5,868,657 VP (66 votes)
+* No 0.0014784258614062228% 106 VP (2 votes)
+* Abstain 18.14593402203803% 1,301,025 VP (17 votes)
+
+
+#### 66, -1: [Plaza dev](https://governance.decentraland.org/proposal/?id=e3397be4-77c4-4840-a8e6-73da73e23f37)
+
+* Yes 78.79540139865952% 4,853,491 VP (60 votes)
+* No 0.012484552598442888% 769 VP (7 votes)
+* Abstain 21.19211404874203% 1,305,352 VP (15 votes)
 
 
 ## Name Bans
@@ -65,10 +93,6 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 ## Points of Interest
 
 * 17, -145: [Old Guy BBQ](https://governance.decentraland.org/proposal/?id=fc1901d9-15c3-480a-bb4a-94a4308cdce0)
-* -70, 33: [4](https://governance.decentraland.org/proposal/?id=cf147a1a-72ad-4559-85af-241161014491)
-* 89, 84: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=52069bfe-6537-4c8b-979f-bce4174a7932)
-* 83, 70: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=740ff9fd-f773-42f7-888b-2c461eddac90)
-* 66, -1: [Plaza dev](https://governance.decentraland.org/proposal/?id=e3397be4-77c4-4840-a8e6-73da73e23f37)
 
 ## Grants
 
@@ -80,7 +104,6 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 * [3D Everyday Objects Repository](https://governance.decentraland.org/proposal/?id=ec602a80-6bfc-11ee-b962-e5e0a3ff6b66) (Higher Tier)
 * [Metaverse Synergy: Business Meets Decentraland by seamless integration](https://governance.decentraland.org/proposal/?id=bbb31760-6a23-11ee-8137-9b16241861c5) (Higher Tier)
 * [Museum 3.0 : Scene Dev, Curation Mechanics, Testing, Culturally relevant scenes.](https://governance.decentraland.org/proposal/?id=ecbd7830-6787-11ee-badc-c701988a02c8) (Higher Tier)
-* [Scene Templates: Enhancing Decentraland&#39;s Builder Experience](https://governance.decentraland.org/proposal/?id=e33274b0-66e6-11ee-87b3-f900571865e7) (Lower Tier)
 
 ## Names Bans
 
@@ -90,6 +113,7 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [DCL Talent Grant Proposal](https://governance.decentraland.org/proposal/?id=aeb405e5-a84e-4a8c-b182-922b0a4534c8)
 * [ Clarification of Facilitation Squads and Moderator Authority  given by the COE](https://governance.decentraland.org/proposal/?id=7eaa731e-37bb-4eae-8f35-ae7876a90df1)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
