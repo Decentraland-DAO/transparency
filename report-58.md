@@ -9,12 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 5 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-4 points of interest have been added to Decentraland’s map since the last report.
+5 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 17, -145: [Old Guy BBQ](https://governance.decentraland.org/proposal/?id=fc1901d9-15c3-480a-bb4a-94a4308cdce0)
+
+* Yes 99.99442201470957% 9,196,356 VP (134 votes)
+* No 0% 0 VP (3 votes)
+* Abstain 0.005577985290428732% 513 VP (2 votes)
 
 
 #### -70, 33: [4](https://governance.decentraland.org/proposal/?id=cf147a1a-72ad-4559-85af-241161014491)
@@ -92,10 +99,11 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
-* 17, -145: [Old Guy BBQ](https://governance.decentraland.org/proposal/?id=fc1901d9-15c3-480a-bb4a-94a4308cdce0)
+* 24, -28: [The BBA](https://governance.decentraland.org/proposal/?id=66d11ed2-176d-4782-83c7-d9057c467264)
 
 ## Grants
 
+* [Decentraland Book Readers&#39; Hub: Empowering Writers and Engaging Readers](https://governance.decentraland.org/proposal/?id=12efb140-9ad9-4050-b262-67629d2b7de5) (Lower Tier)
 * [metaCinema and AI Lounge to watch metaKnyts and affiliate&#39;s CryptoGraphic Movies](https://governance.decentraland.org/proposal/?id=02a2df8a-fbad-46ea-b0d9-3b558b60fe63) (Higher Tier)
 * [Decentraland Studios Maintenance](https://governance.decentraland.org/proposal/?id=d85bdf8e-bdfc-47cf-b6c6-6b55f7a96d93) (Lower Tier)
 * [Video explainers about DCL DAO and its governance model.](https://governance.decentraland.org/proposal/?id=b349fb6c-8356-46d6-abd2-f28a9fd072d8) (Lower Tier)
@@ -112,6 +120,7 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Open up the marketplace to non-wearable items.](https://governance.decentraland.org/proposal/?id=155fc959-1603-4ba7-b297-1adff39d87b1)
 * [Advance Proposal: Establishment of DAO Reserve or Hedge Fund](https://governance.decentraland.org/proposal/?id=73241be1-23ce-4d07-8a8f-684bd9bb54e2)
 * [DCL Talent Grant Proposal](https://governance.decentraland.org/proposal/?id=aeb405e5-a84e-4a8c-b182-922b0a4534c8)
 * [ Clarification of Facilitation Squads and Moderator Authority  given by the COE](https://governance.decentraland.org/proposal/?id=7eaa731e-37bb-4eae-8f35-ae7876a90df1)
