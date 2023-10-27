@@ -99,6 +99,7 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* -108, 135: [No Name](https://governance.decentraland.org/proposal/?id=194fd669-9296-43b5-9f53-83a704e97efb)
 * 24, -28: [The BBA](https://governance.decentraland.org/proposal/?id=66d11ed2-176d-4782-83c7-d9057c467264)
 
 ## Grants
@@ -120,6 +121,7 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Show emojis when texts contain them](https://governance.decentraland.org/proposal/?id=7b118a36-199f-49a7-812b-fba57aabaeaf)
 * [Open up the marketplace to non-wearable items.](https://governance.decentraland.org/proposal/?id=155fc959-1603-4ba7-b297-1adff39d87b1)
 * [Advance Proposal: Establishment of DAO Reserve or Hedge Fund](https://governance.decentraland.org/proposal/?id=73241be1-23ce-4d07-8a8f-684bd9bb54e2)
 * [DCL Talent Grant Proposal](https://governance.decentraland.org/proposal/?id=aeb405e5-a84e-4a8c-b182-922b0a4534c8)
