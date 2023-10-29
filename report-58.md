@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 5 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 5 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -87,6 +87,13 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+#### [DCL Talent Grant Proposal](https://governance.decentraland.org/proposal/?id=aeb405e5-a84e-4a8c-b182-922b0a4534c8)
+
+* YES 32.40976903842762% 2,030,438 VP (40 votes)
+* NO 66.43099365591921% 4,161,832 VP (33 votes)
+* Invalid question/options 1.1592373056531673% 72,625 VP (2 votes)
+
+
 #### [Should the DAO lease the LANDs they own to grantees that might need them?](https://governance.decentraland.org/proposal/?id=5dfd8c13-bdfd-4cb2-b698-17410cad85ce)
 
 * Yes 99.98449143250612% 8,587,469 VP (95 votes)
@@ -120,9 +127,11 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Introduce fractional ownership option across all L1 Wearables in DCL Marketplace](https://governance.decentraland.org/proposal/?id=a8036e88-6d22-454d-b341-c6984b7d0165)
+* [Should we have teen avatars? ](https://governance.decentraland.org/proposal/?id=41694320-2c81-479c-874a-a1d93d6bb137)
+* [Expansion of Marketplace Offerings with 3D Everyday and Decorative Items](https://governance.decentraland.org/proposal/?id=037d6962-7c7e-4a98-b3cc-64d2811163ce)
 * [Show emojis when texts contain them](https://governance.decentraland.org/proposal/?id=7b118a36-199f-49a7-812b-fba57aabaeaf)
 * [Open up the marketplace to non-wearable items.](https://governance.decentraland.org/proposal/?id=155fc959-1603-4ba7-b297-1adff39d87b1)
 * [Advance Proposal: Establishment of DAO Reserve or Hedge Fund](https://governance.decentraland.org/proposal/?id=73241be1-23ce-4d07-8a8f-684bd9bb54e2)
-* [DCL Talent Grant Proposal](https://governance.decentraland.org/proposal/?id=aeb405e5-a84e-4a8c-b182-922b0a4534c8)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
