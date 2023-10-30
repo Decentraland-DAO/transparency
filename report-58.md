@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 5 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 5 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -87,6 +87,15 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+#### [Advance Proposal: Establishment of DAO Reserve or Hedge Fund](https://governance.decentraland.org/proposal/?id=73241be1-23ce-4d07-8a8f-684bd9bb54e2)
+
+* 15% 21.680327948952442% 1,442,072 VP (14 votes)
+* 20% 40.390238446142334% 2,686,566 VP (44 votes)
+* 25% 0.000015034150825307227% 1 VP (2 votes)
+* 30% 0% 0 VP (0 votes)
+* Invalid question/options 37.9294185707544% 2,522,884 VP (19 votes)
+
+
 #### [DCL Talent Grant Proposal](https://governance.decentraland.org/proposal/?id=aeb405e5-a84e-4a8c-b182-922b0a4534c8)
 
 * YES 32.40976903842762% 2,030,438 VP (40 votes)
@@ -117,7 +126,6 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 * [Video explainers about DCL DAO and its governance model.](https://governance.decentraland.org/proposal/?id=b349fb6c-8356-46d6-abd2-f28a9fd072d8) (Lower Tier)
 * [Continued Maintenance of Decentraland VR Client](https://governance.decentraland.org/proposal/?id=3462ebd7-e9d9-4d7c-9b39-62fa7a85f7e9) (Higher Tier)
 * [Bridging the Gap: SDK 7 Templates for Decentraland Worlds](https://governance.decentraland.org/proposal/?id=2160ab70-6c24-11ee-b962-e5e0a3ff6b66) (Lower Tier)
-* [3D Everyday Objects Repository](https://governance.decentraland.org/proposal/?id=ec602a80-6bfc-11ee-b962-e5e0a3ff6b66) (Higher Tier)
 
 ## Names Bans
 
@@ -132,6 +140,5 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 * [Expansion of Marketplace Offerings with 3D Everyday and Decorative Items](https://governance.decentraland.org/proposal/?id=037d6962-7c7e-4a98-b3cc-64d2811163ce)
 * [Show emojis when texts contain them](https://governance.decentraland.org/proposal/?id=7b118a36-199f-49a7-812b-fba57aabaeaf)
 * [Open up the marketplace to non-wearable items.](https://governance.decentraland.org/proposal/?id=155fc959-1603-4ba7-b297-1adff39d87b1)
-* [Advance Proposal: Establishment of DAO Reserve or Hedge Fund](https://governance.decentraland.org/proposal/?id=73241be1-23ce-4d07-8a8f-684bd9bb54e2)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
