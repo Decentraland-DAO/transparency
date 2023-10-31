@@ -124,8 +124,6 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 * [metaCinema and AI Lounge to watch metaKnyts and affiliate&#39;s CryptoGraphic Movies](https://governance.decentraland.org/proposal/?id=02a2df8a-fbad-46ea-b0d9-3b558b60fe63) (Higher Tier)
 * [Decentraland Studios Maintenance](https://governance.decentraland.org/proposal/?id=d85bdf8e-bdfc-47cf-b6c6-6b55f7a96d93) (Lower Tier)
 * [Video explainers about DCL DAO and its governance model.](https://governance.decentraland.org/proposal/?id=b349fb6c-8356-46d6-abd2-f28a9fd072d8) (Lower Tier)
-* [Continued Maintenance of Decentraland VR Client](https://governance.decentraland.org/proposal/?id=3462ebd7-e9d9-4d7c-9b39-62fa7a85f7e9) (Higher Tier)
-* [Bridging the Gap: SDK 7 Templates for Decentraland Worlds](https://governance.decentraland.org/proposal/?id=2160ab70-6c24-11ee-b962-e5e0a3ff6b66) (Lower Tier)
 
 ## Names Bans
 
@@ -135,10 +133,10 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Who wants to see BT Season 3? ](https://governance.decentraland.org/proposal/?id=92ff0da6-8b40-4683-8242-009408da7a3b)
 * [Introduce fractional ownership option across all L1 Wearables in DCL Marketplace](https://governance.decentraland.org/proposal/?id=a8036e88-6d22-454d-b341-c6984b7d0165)
 * [Should we have teen avatars? ](https://governance.decentraland.org/proposal/?id=41694320-2c81-479c-874a-a1d93d6bb137)
 * [Expansion of Marketplace Offerings with 3D Everyday and Decorative Items](https://governance.decentraland.org/proposal/?id=037d6962-7c7e-4a98-b3cc-64d2811163ce)
 * [Show emojis when texts contain them](https://governance.decentraland.org/proposal/?id=7b118a36-199f-49a7-812b-fba57aabaeaf)
-* [Open up the marketplace to non-wearable items.](https://governance.decentraland.org/proposal/?id=155fc959-1603-4ba7-b297-1adff39d87b1)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
