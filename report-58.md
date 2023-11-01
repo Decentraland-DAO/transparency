@@ -87,6 +87,13 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+#### [Show emojis when texts contain them](https://governance.decentraland.org/proposal/?id=7b118a36-199f-49a7-812b-fba57aabaeaf)
+
+* Yes, let the emojis show. 90.41043921939547% 4,735,367 VP (67 votes)
+* No, leave it as it is. 0% 0 VP (3 votes)
+* Invalid question/options 9.58956078060452% 502,266 VP (6 votes)
+
+
 #### [Advance Proposal: Establishment of DAO Reserve or Hedge Fund](https://governance.decentraland.org/proposal/?id=73241be1-23ce-4d07-8a8f-684bd9bb54e2)
 
 * 15% 21.680327948952442% 1,442,072 VP (14 votes)
@@ -94,13 +101,6 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 * 25% 0.000015034150825307227% 1 VP (2 votes)
 * 30% 0% 0 VP (0 votes)
 * Invalid question/options 37.9294185707544% 2,522,884 VP (19 votes)
-
-
-#### [DCL Talent Grant Proposal](https://governance.decentraland.org/proposal/?id=aeb405e5-a84e-4a8c-b182-922b0a4534c8)
-
-* YES 32.40976903842762% 2,030,438 VP (40 votes)
-* NO 66.43099365591921% 4,161,832 VP (33 votes)
-* Invalid question/options 1.1592373056531673% 72,625 VP (2 votes)
 
 
 #### [Should the DAO lease the LANDs they own to grantees that might need them?](https://governance.decentraland.org/proposal/?id=5dfd8c13-bdfd-4cb2-b698-17410cad85ce)
@@ -123,7 +123,6 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 * [Decentraland Book Readers&#39; Hub: Empowering Writers and Engaging Readers](https://governance.decentraland.org/proposal/?id=12efb140-9ad9-4050-b262-67629d2b7de5) (Lower Tier)
 * [metaCinema and AI Lounge to watch metaKnyts and affiliate&#39;s CryptoGraphic Movies](https://governance.decentraland.org/proposal/?id=02a2df8a-fbad-46ea-b0d9-3b558b60fe63) (Higher Tier)
 * [Decentraland Studios Maintenance](https://governance.decentraland.org/proposal/?id=d85bdf8e-bdfc-47cf-b6c6-6b55f7a96d93) (Lower Tier)
-* [Video explainers about DCL DAO and its governance model.](https://governance.decentraland.org/proposal/?id=b349fb6c-8356-46d6-abd2-f28a9fd072d8) (Lower Tier)
 
 ## Names Bans
 
@@ -137,6 +136,5 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 * [Introduce fractional ownership option across all L1 Wearables in DCL Marketplace](https://governance.decentraland.org/proposal/?id=a8036e88-6d22-454d-b341-c6984b7d0165)
 * [Should we have teen avatars? ](https://governance.decentraland.org/proposal/?id=41694320-2c81-479c-874a-a1d93d6bb137)
 * [Expansion of Marketplace Offerings with 3D Everyday and Decorative Items](https://governance.decentraland.org/proposal/?id=037d6962-7c7e-4a98-b3cc-64d2811163ce)
-* [Show emojis when texts contain them](https://governance.decentraland.org/proposal/?id=7b118a36-199f-49a7-812b-fba57aabaeaf)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
