@@ -116,7 +116,6 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 ## Points of Interest
 
 * -108, 135: [No Name](https://governance.decentraland.org/proposal/?id=194fd669-9296-43b5-9f53-83a704e97efb)
-* 24, -28: [The BBA](https://governance.decentraland.org/proposal/?id=66d11ed2-176d-4782-83c7-d9057c467264)
 
 ## Grants
 
@@ -132,6 +131,7 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Should we raise the minimum age requirement for Decentraland to 18+ years?](https://governance.decentraland.org/proposal/?id=f5ae4db5-a09c-42b6-94da-82c1567b1ab0)
 * [Who wants to see BT Season 3? ](https://governance.decentraland.org/proposal/?id=92ff0da6-8b40-4683-8242-009408da7a3b)
 * [Introduce fractional ownership option across all L1 Wearables in DCL Marketplace](https://governance.decentraland.org/proposal/?id=a8036e88-6d22-454d-b341-c6984b7d0165)
 * [Should we have teen avatars? ](https://governance.decentraland.org/proposal/?id=41694320-2c81-479c-874a-a1d93d6bb137)
