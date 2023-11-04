@@ -130,6 +130,8 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Would you like to see and use speech bubbles in Genesis City?](https://governance.decentraland.org/proposal/?id=3eb44259-eafd-4f14-b0ef-73990188b9e3)
+* [Would you like to see scalable (adjustable) size avatars? ](https://governance.decentraland.org/proposal/?id=4ae54626-fed0-466d-b99d-cdf9d5e283ff)
 * [LAND Pool (DAO + LAND Owners)](https://governance.decentraland.org/proposal/?id=59bdfc57-e403-4a94-bb25-fca9d387b75e)
 * [Should we raise the minimum age requirement for Decentraland to 18+ years?](https://governance.decentraland.org/proposal/?id=f5ae4db5-a09c-42b6-94da-82c1567b1ab0)
 * [Who wants to see BT Season 3? ](https://governance.decentraland.org/proposal/?id=92ff0da6-8b40-4683-8242-009408da7a3b)
