@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -40,7 +40,14 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since November 1, 0 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since November 1, 1 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Decentraland Studios Maintenance](https://governance.decentraland.org/proposal/?id=d85bdf8e-bdfc-47cf-b6c6-6b55f7a96d93) (Lower Tier)
+
+* Yes 77.89520987992447% 13,856,560 VP (102 votes)
+* No 22.09731909307241% 3,930,830 VP (15 votes)
+* Abstain 0.007471027003124846% 1,329 VP (4 votes)
 
 
 ## Polls
@@ -69,8 +76,6 @@ Since November 1, 0 grants have been approved and the vesting contract(s) will b
 ## Grants
 
 * [Decentraland Book Readers&#39; Hub: Empowering Writers and Engaging Readers](https://governance.decentraland.org/proposal/?id=12efb140-9ad9-4050-b262-67629d2b7de5) (Lower Tier)
-* [metaCinema and AI Lounge to watch metaKnyts and affiliate&#39;s CryptoGraphic Movies](https://governance.decentraland.org/proposal/?id=02a2df8a-fbad-46ea-b0d9-3b558b60fe63) (Higher Tier)
-* [Decentraland Studios Maintenance](https://governance.decentraland.org/proposal/?id=d85bdf8e-bdfc-47cf-b6c6-6b55f7a96d93) (Lower Tier)
 
 ## Names Bans
 
@@ -80,10 +85,12 @@ Since November 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Can we get someone from DCL Team to attend the Domainer Expo, Dec 2023 in Vegas](https://governance.decentraland.org/proposal/?id=291b37fd-04fe-4268-96d2-ac4757ae8e3c)
+* [Should the sample marketplace avatar be updated?](https://governance.decentraland.org/proposal/?id=b49814cf-495c-4fcf-b882-1e07eec18a66)
+* [Gender Neutral Avatar](https://governance.decentraland.org/proposal/?id=79ae8959-87e8-45bb-9935-f9f1a42e8ac5)
 * [Would you like to see and use speech bubbles in Genesis City?](https://governance.decentraland.org/proposal/?id=3eb44259-eafd-4f14-b0ef-73990188b9e3)
 * [Would you like to see scalable (adjustable) size avatars? ](https://governance.decentraland.org/proposal/?id=4ae54626-fed0-466d-b99d-cdf9d5e283ff)
 * [LAND Pool (DAO + LAND Owners)](https://governance.decentraland.org/proposal/?id=59bdfc57-e403-4a94-bb25-fca9d387b75e)
 * [Should we raise the minimum age requirement for Decentraland to 18+ years?](https://governance.decentraland.org/proposal/?id=f5ae4db5-a09c-42b6-94da-82c1567b1ab0)
-* [Who wants to see BT Season 3? ](https://governance.decentraland.org/proposal/?id=92ff0da6-8b40-4683-8242-009408da7a3b)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
