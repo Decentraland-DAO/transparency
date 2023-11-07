@@ -118,6 +118,9 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
+* [Social Media Content Marketing: Boosting Decentraland and Wearables Market](https://governance.decentraland.org/proposal/?id=531a102b-e4b8-4ed3-8ccc-9aa30bfb7992) (Lower Tier)
+* [Decentraland Community Summit - Main Sponsor](https://governance.decentraland.org/proposal/?id=3d4be4a7-a007-4fa0-8f97-71e2385684a0) (Higher Tier)
+* [Renewal Grant Support Squad H1 2024](https://governance.decentraland.org/proposal/?id=166fb303-2045-41d8-a6a7-ea3b8d363978) (Higher Tier)
 * [Decentraland Book Readers&#39; Hub: Empowering Writers and Engaging Readers](https://governance.decentraland.org/proposal/?id=12efb140-9ad9-4050-b262-67629d2b7de5) (Lower Tier)
 
 ## Names Bans
@@ -134,6 +137,5 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 * [Would you like to see and use speech bubbles in Genesis City?](https://governance.decentraland.org/proposal/?id=3eb44259-eafd-4f14-b0ef-73990188b9e3)
 * [Would you like to see scalable (adjustable) size avatars? ](https://governance.decentraland.org/proposal/?id=4ae54626-fed0-466d-b99d-cdf9d5e283ff)
 * [LAND Pool (DAO + LAND Owners)](https://governance.decentraland.org/proposal/?id=59bdfc57-e403-4a94-bb25-fca9d387b75e)
-* [Should we raise the minimum age requirement for Decentraland to 18+ years?](https://governance.decentraland.org/proposal/?id=f5ae4db5-a09c-42b6-94da-82c1567b1ab0)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
