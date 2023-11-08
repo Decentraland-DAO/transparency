@@ -136,6 +136,5 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 * [Gender Neutral Avatar](https://governance.decentraland.org/proposal/?id=79ae8959-87e8-45bb-9935-f9f1a42e8ac5)
 * [Would you like to see and use speech bubbles in Genesis City?](https://governance.decentraland.org/proposal/?id=3eb44259-eafd-4f14-b0ef-73990188b9e3)
 * [Would you like to see scalable (adjustable) size avatars? ](https://governance.decentraland.org/proposal/?id=4ae54626-fed0-466d-b99d-cdf9d5e283ff)
-* [LAND Pool (DAO + LAND Owners)](https://governance.decentraland.org/proposal/?id=59bdfc57-e403-4a94-bb25-fca9d387b75e)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

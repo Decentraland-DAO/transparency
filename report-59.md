@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -52,6 +52,13 @@ Since November 1, 1 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+#### [LAND Pool (DAO + LAND Owners)](https://governance.decentraland.org/proposal/?id=59bdfc57-e403-4a94-bb25-fca9d387b75e)
+
+* Yes 99.96775844322747% 6,204,275 VP (77 votes)
+* No 0.008104699178702332% 503 VP (1 votes)
+* Invalid question/options 0.024136857593829216% 1,498 VP (14 votes)
+
+
 #### [Expansion of Marketplace Offerings with 3D Everyday and Decorative Items](https://governance.decentraland.org/proposal/?id=037d6962-7c7e-4a98-b3cc-64d2811163ce)
 
 * Yes. Add 3D Items 13.159126897757304% 535,672 VP (87 votes)
@@ -86,6 +93,5 @@ Since November 1, 1 grants have been approved and the vesting contract(s) will b
 * [Gender Neutral Avatar](https://governance.decentraland.org/proposal/?id=79ae8959-87e8-45bb-9935-f9f1a42e8ac5)
 * [Would you like to see and use speech bubbles in Genesis City?](https://governance.decentraland.org/proposal/?id=3eb44259-eafd-4f14-b0ef-73990188b9e3)
 * [Would you like to see scalable (adjustable) size avatars? ](https://governance.decentraland.org/proposal/?id=4ae54626-fed0-466d-b99d-cdf9d5e283ff)
-* [LAND Pool (DAO + LAND Owners)](https://governance.decentraland.org/proposal/?id=59bdfc57-e403-4a94-bb25-fca9d387b75e)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
