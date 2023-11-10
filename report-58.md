@@ -118,6 +118,7 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
+* [100 Avatars Garden - a 100 day reward game](https://governance.decentraland.org/proposal/?id=3dd9e476-1172-4995-a3cc-6942ebe12c7d) (Lower Tier)
 * [Social Media Content Marketing: Boosting Decentraland and Wearables Market](https://governance.decentraland.org/proposal/?id=531a102b-e4b8-4ed3-8ccc-9aa30bfb7992) (Lower Tier)
 * [Decentraland Community Summit - Main Sponsor](https://governance.decentraland.org/proposal/?id=3d4be4a7-a007-4fa0-8f97-71e2385684a0) (Higher Tier)
 * [Renewal Grant Support Squad H1 2024](https://governance.decentraland.org/proposal/?id=166fb303-2045-41d8-a6a7-ea3b8d363978) (Higher Tier)
@@ -130,9 +131,7 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Enable Operator Rights option in the Builder UI for Decentraland Worlds](https://governance.decentraland.org/proposal/?id=575c2ecf-dd72-433e-99cb-37e77fddcff7)
 * [I am banned from Decentraland Forum until Nov 2024 for sharing my views/beliefs?](https://governance.decentraland.org/proposal/?id=9364a234-4a73-43dd-b458-7b9c2632d51c)
-* [Can we get someone from DCL Team to attend the Domainer Expo, Dec 2023 in Vegas](https://governance.decentraland.org/proposal/?id=291b37fd-04fe-4268-96d2-ac4757ae8e3c)
-* [Should the sample marketplace avatar be updated?](https://governance.decentraland.org/proposal/?id=b49814cf-495c-4fcf-b882-1e07eec18a66)
-* [Gender Neutral Avatar](https://governance.decentraland.org/proposal/?id=79ae8959-87e8-45bb-9935-f9f1a42e8ac5)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

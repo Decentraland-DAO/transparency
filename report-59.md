@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 7 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -52,6 +52,27 @@ Since November 1, 1 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+#### [Can we get someone from DCL Team to attend the Domainer Expo, Dec 2023 in Vegas](https://governance.decentraland.org/proposal/?id=291b37fd-04fe-4268-96d2-ac4757ae8e3c)
+
+* Yes 60.9068990969985% 3,531,650 VP (68 votes)
+* No 0.000017246017894468165% 1 VP (1 votes)
+* Invalid question/options 39.0930836569836% 2,266,789 VP (50 votes)
+
+
+#### [Should the sample marketplace avatar be updated?](https://governance.decentraland.org/proposal/?id=b49814cf-495c-4fcf-b882-1e07eec18a66)
+
+* Yes 54.76664207381927% 3,496,286 VP (66 votes)
+* No 0% 0 VP (3 votes)
+* Invalid question/options 45.23335792618073% 2,887,684 VP (40 votes)
+
+
+#### [Gender Neutral Avatar](https://governance.decentraland.org/proposal/?id=79ae8959-87e8-45bb-9935-f9f1a42e8ac5)
+
+* Yaaas do it 9.61134959979535% 507,592 VP (43 votes)
+* Nooo icky 49.33534652244871% 2,605,485 VP (55 votes)
+* Invalid question/options 41.05330387775595% 2,168,096 VP (21 votes)
+
+
 #### [Would you like to see and use speech bubbles in Genesis City?](https://governance.decentraland.org/proposal/?id=3eb44259-eafd-4f14-b0ef-73990188b9e3)
 
 * Yes 75.9319364578942% 3,175,365 VP (93 votes)
@@ -89,6 +110,7 @@ Since November 1, 1 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
+* [100 Avatars Garden - a 100 day reward game](https://governance.decentraland.org/proposal/?id=3dd9e476-1172-4995-a3cc-6942ebe12c7d) (Lower Tier)
 * [Social Media Content Marketing: Boosting Decentraland and Wearables Market](https://governance.decentraland.org/proposal/?id=531a102b-e4b8-4ed3-8ccc-9aa30bfb7992) (Lower Tier)
 * [Decentraland Community Summit - Main Sponsor](https://governance.decentraland.org/proposal/?id=3d4be4a7-a007-4fa0-8f97-71e2385684a0) (Higher Tier)
 * [Renewal Grant Support Squad H1 2024](https://governance.decentraland.org/proposal/?id=166fb303-2045-41d8-a6a7-ea3b8d363978) (Higher Tier)
@@ -101,9 +123,7 @@ Since November 1, 1 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Enable Operator Rights option in the Builder UI for Decentraland Worlds](https://governance.decentraland.org/proposal/?id=575c2ecf-dd72-433e-99cb-37e77fddcff7)
 * [I am banned from Decentraland Forum until Nov 2024 for sharing my views/beliefs?](https://governance.decentraland.org/proposal/?id=9364a234-4a73-43dd-b458-7b9c2632d51c)
-* [Can we get someone from DCL Team to attend the Domainer Expo, Dec 2023 in Vegas](https://governance.decentraland.org/proposal/?id=291b37fd-04fe-4268-96d2-ac4757ae8e3c)
-* [Should the sample marketplace avatar be updated?](https://governance.decentraland.org/proposal/?id=b49814cf-495c-4fcf-b882-1e07eec18a66)
-* [Gender Neutral Avatar](https://governance.decentraland.org/proposal/?id=79ae8959-87e8-45bb-9935-f9f1a42e8ac5)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
