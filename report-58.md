@@ -131,6 +131,7 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [DCLFilmClub 2023: Prizes wasn&#39;t sent out yet! Foundation Scammed the Community](https://governance.decentraland.org/proposal/?id=dccc078d-a0d0-4c1f-ac23-6f00e9cf3b69)
 * [Should the GSS have to become officials to the DAO?](https://governance.decentraland.org/proposal/?id=d85508bc-31ea-4cb3-84fd-304d6a2a5887)
 * [Decentraland Name Claiming Backed by USD set to $5 worth in MANA tokens. ](https://governance.decentraland.org/proposal/?id=712ac364-fd39-474e-9ada-d65c95d3983b)
 * [Is it worthwhile to reduce avatar tris and colliders to improve loading speed?](https://governance.decentraland.org/proposal/?id=5cf0716f-e664-4c73-b38f-1a4bb094ba44)
