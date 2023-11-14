@@ -137,6 +137,5 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 * [Is it worthwhile to reduce avatar tris and colliders to improve loading speed?](https://governance.decentraland.org/proposal/?id=5cf0716f-e664-4c73-b38f-1a4bb094ba44)
 * [Will You Join Us Pioneering A New Realm?](https://governance.decentraland.org/proposal/?id=9cf4d763-afcc-4e5a-bc90-09a431ef9e10)
 * [Enable Operator Rights option in the Builder UI for Decentraland Worlds](https://governance.decentraland.org/proposal/?id=575c2ecf-dd72-433e-99cb-37e77fddcff7)
-* [I am banned from Decentraland Forum until Nov 2024 for sharing my views/beliefs?](https://governance.decentraland.org/proposal/?id=9364a234-4a73-43dd-b458-7b9c2632d51c)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 7 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -52,6 +52,13 @@ Since November 1, 1 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+#### [I am banned from Decentraland Forum until Nov 2024 for sharing my views/beliefs?](https://governance.decentraland.org/proposal/?id=9364a234-4a73-43dd-b458-7b9c2632d51c)
+
+* Yes 68.36562068812036% 3,839,926 VP (72 votes)
+* No 0.0017803890149997775% 100 VP (3 votes)
+* Invalid question/options 31.632598922864645% 1,776,724 VP (15 votes)
+
+
 #### [Can we get someone from DCL Team to attend the Domainer Expo, Dec 2023 in Vegas](https://governance.decentraland.org/proposal/?id=291b37fd-04fe-4268-96d2-ac4757ae8e3c)
 
 * Yes 60.9068990969985% 3,531,650 VP (68 votes)
@@ -66,25 +73,11 @@ Since November 1, 1 grants have been approved and the vesting contract(s) will b
 * Invalid question/options 45.23335792618073% 2,887,684 VP (40 votes)
 
 
-#### [Gender Neutral Avatar](https://governance.decentraland.org/proposal/?id=79ae8959-87e8-45bb-9935-f9f1a42e8ac5)
-
-* Yaaas do it 9.61134959979535% 507,592 VP (43 votes)
-* Nooo icky 49.33534652244871% 2,605,485 VP (55 votes)
-* Invalid question/options 41.05330387775595% 2,168,096 VP (21 votes)
-
-
 #### [Would you like to see and use speech bubbles in Genesis City?](https://governance.decentraland.org/proposal/?id=3eb44259-eafd-4f14-b0ef-73990188b9e3)
 
 * Yes 75.9319364578942% 3,175,365 VP (93 votes)
 * No 11.976234481475574% 500,829 VP (2 votes)
 * Invalid question/options 12.091829060630241% 505,663 VP (5 votes)
-
-
-#### [Would you like to see scalable (adjustable) size avatars? ](https://governance.decentraland.org/proposal/?id=4ae54626-fed0-466d-b99d-cdf9d5e283ff)
-
-* Yes 0.15049830739493955% 5,258 VP (40 votes)
-* No 70.95740451386156% 2,479,058 VP (38 votes)
-* Invalid question/options 28.892097178743505% 1,009,411 VP (13 votes)
 
 
 #### [LAND Pool (DAO + LAND Owners)](https://governance.decentraland.org/proposal/?id=59bdfc57-e403-4a94-bb25-fca9d387b75e)
@@ -129,6 +122,5 @@ Since November 1, 1 grants have been approved and the vesting contract(s) will b
 * [Is it worthwhile to reduce avatar tris and colliders to improve loading speed?](https://governance.decentraland.org/proposal/?id=5cf0716f-e664-4c73-b38f-1a4bb094ba44)
 * [Will You Join Us Pioneering A New Realm?](https://governance.decentraland.org/proposal/?id=9cf4d763-afcc-4e5a-bc90-09a431ef9e10)
 * [Enable Operator Rights option in the Builder UI for Decentraland Worlds](https://governance.decentraland.org/proposal/?id=575c2ecf-dd72-433e-99cb-37e77fddcff7)
-* [I am banned from Decentraland Forum until Nov 2024 for sharing my views/beliefs?](https://governance.decentraland.org/proposal/?id=9364a234-4a73-43dd-b458-7b9c2632d51c)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
