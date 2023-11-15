@@ -131,11 +131,12 @@ Since October 16, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Upgrade The Estates Smart Contracts To Prevent Empty Estates Transfers](https://governance.decentraland.org/proposal/?id=6f694633-77e8-411b-bcb2-ae6779235c5c)
+* [Should the &#34;Extra&#34; category be added as another category of accessories?](https://governance.decentraland.org/proposal/?id=a0d86f2d-0b4b-47e0-a35a-85b59bf2a6ed)
 * [DCLFilmClub 2023: Prizes wasn&#39;t sent out yet! Foundation Scammed the Community](https://governance.decentraland.org/proposal/?id=dccc078d-a0d0-4c1f-ac23-6f00e9cf3b69)
 * [Should the GSS have to become officials to the DAO?](https://governance.decentraland.org/proposal/?id=d85508bc-31ea-4cb3-84fd-304d6a2a5887)
 * [Decentraland Name Claiming Backed by USD set to $5 worth in MANA tokens. ](https://governance.decentraland.org/proposal/?id=712ac364-fd39-474e-9ada-d65c95d3983b)
 * [Is it worthwhile to reduce avatar tris and colliders to improve loading speed?](https://governance.decentraland.org/proposal/?id=5cf0716f-e664-4c73-b38f-1a4bb094ba44)
 * [Will You Join Us Pioneering A New Realm?](https://governance.decentraland.org/proposal/?id=9cf4d763-afcc-4e5a-bc90-09a431ef9e10)
-* [Enable Operator Rights option in the Builder UI for Decentraland Worlds](https://governance.decentraland.org/proposal/?id=575c2ecf-dd72-433e-99cb-37e77fddcff7)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
