@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 7 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 8 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -51,6 +51,14 @@ Since November 1, 1 grants have been approved and the vesting contract(s) will b
 
 
 ## Polls
+
+#### [Is it worthwhile to reduce avatar tris and colliders to improve loading speed?](https://governance.decentraland.org/proposal/?id=5cf0716f-e664-4c73-b38f-1a4bb094ba44)
+
+* The impact may be significant, and we should continue on this path. 0.29890385239789835% 10,154 VP (25 votes)
+* The impact may be optimal, and we should delve deeper into this idea. 83.61253889002876% 2,840,384 VP (26 votes)
+* The impact may be minimal, and it is not worth making this change. 0.0248448740815271% 844 VP (5 votes)
+* Invalid question/options 16.06371238349182% 545,697 VP (13 votes)
+
 
 #### [Enable Operator Rights option in the Builder UI for Decentraland Worlds](https://governance.decentraland.org/proposal/?id=575c2ecf-dd72-433e-99cb-37e77fddcff7)
 
@@ -110,6 +118,7 @@ Since November 1, 1 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
+* [Should OG Contra Band Farms be funded to complete?](https://governance.decentraland.org/proposal/?id=345eab3e-eb87-4b0e-85c7-b2123797e1f6) (Higher Tier)
 * [100 Avatars Garden - a 100 day reward game](https://governance.decentraland.org/proposal/?id=3dd9e476-1172-4995-a3cc-6942ebe12c7d) (Lower Tier)
 * [Social Media Content Marketing: Boosting Decentraland and Wearables Market](https://governance.decentraland.org/proposal/?id=531a102b-e4b8-4ed3-8ccc-9aa30bfb7992) (Lower Tier)
 * [Decentraland Community Summit - Main Sponsor](https://governance.decentraland.org/proposal/?id=3d4be4a7-a007-4fa0-8f97-71e2385684a0) (Higher Tier)
@@ -123,12 +132,10 @@ Since November 1, 1 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Enable DARK MODE on all Decentraland webpages.](https://governance.decentraland.org/proposal/?id=9f85256f-4efb-4936-bd3d-b792413cef81)
 * [Upgrade The Estates Smart Contracts To Prevent Empty Estates Transfers](https://governance.decentraland.org/proposal/?id=6f694633-77e8-411b-bcb2-ae6779235c5c)
 * [Should the &#34;Extra&#34; category be added as another category of accessories?](https://governance.decentraland.org/proposal/?id=a0d86f2d-0b4b-47e0-a35a-85b59bf2a6ed)
 * [DCLFilmClub 2023: Prizes wasn&#39;t sent out yet! Foundation Scammed the Community](https://governance.decentraland.org/proposal/?id=dccc078d-a0d0-4c1f-ac23-6f00e9cf3b69)
 * [Should the GSS have to become officials to the DAO?](https://governance.decentraland.org/proposal/?id=d85508bc-31ea-4cb3-84fd-304d6a2a5887)
-* [Decentraland Name Claiming Backed by USD set to $5 worth in MANA tokens. ](https://governance.decentraland.org/proposal/?id=712ac364-fd39-474e-9ada-d65c95d3983b)
-* [Is it worthwhile to reduce avatar tris and colliders to improve loading speed?](https://governance.decentraland.org/proposal/?id=5cf0716f-e664-4c73-b38f-1a4bb094ba44)
-* [Will You Join Us Pioneering A New Realm?](https://governance.decentraland.org/proposal/?id=9cf4d763-afcc-4e5a-bc90-09a431ef9e10)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
