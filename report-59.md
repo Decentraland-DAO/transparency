@@ -118,6 +118,8 @@ Since November 1, 1 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
+* [[RENEWAL] Facilitation Squad H1 2024](https://governance.decentraland.org/proposal/?id=5a5c472b-0ed2-4086-b7fc-22e37b4ad39c) (Higher Tier)
+* [Genesis city map, 6-month renewal ](https://governance.decentraland.org/proposal/?id=e2feb90d-36b2-4d03-b862-67fd8987436e) (Higher Tier)
 * [Should OG Contra Band Farms be funded to complete?](https://governance.decentraland.org/proposal/?id=345eab3e-eb87-4b0e-85c7-b2123797e1f6) (Higher Tier)
 * [100 Avatars Garden - a 100 day reward game](https://governance.decentraland.org/proposal/?id=3dd9e476-1172-4995-a3cc-6942ebe12c7d) (Lower Tier)
 * [Social Media Content Marketing: Boosting Decentraland and Wearables Market](https://governance.decentraland.org/proposal/?id=531a102b-e4b8-4ed3-8ccc-9aa30bfb7992) (Lower Tier)
@@ -136,6 +138,5 @@ Since November 1, 1 grants have been approved and the vesting contract(s) will b
 * [Upgrade The Estates Smart Contracts To Prevent Empty Estates Transfers](https://governance.decentraland.org/proposal/?id=6f694633-77e8-411b-bcb2-ae6779235c5c)
 * [Should the &#34;Extra&#34; category be added as another category of accessories?](https://governance.decentraland.org/proposal/?id=a0d86f2d-0b4b-47e0-a35a-85b59bf2a6ed)
 * [DCLFilmClub 2023: Prizes wasn&#39;t sent out yet! Foundation Scammed the Community](https://governance.decentraland.org/proposal/?id=dccc078d-a0d0-4c1f-ac23-6f00e9cf3b69)
-* [Should the GSS have to become officials to the DAO?](https://governance.decentraland.org/proposal/?id=d85508bc-31ea-4cb3-84fd-304d6a2a5887)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
