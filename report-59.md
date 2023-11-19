@@ -134,6 +134,7 @@ Since November 1, 1 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Allow the option for building a 5-10 page websites out of DCL Names ](https://governance.decentraland.org/proposal/?id=97c10d0d-aa5d-4fc2-bc45-6a813bfe2e71)
 * [Pets Slots (land and air) ](https://governance.decentraland.org/proposal/?id=171fbd74-794e-4d2a-a0fb-7f56677341d9)
 * [Should ChatGPT DCL-Docs be improved?](https://governance.decentraland.org/proposal/?id=777b41d1-62af-45f0-a387-99febbbdfd49)
 * [Enable DARK MODE on all Decentraland webpages.](https://governance.decentraland.org/proposal/?id=9f85256f-4efb-4936-bd3d-b792413cef81)
