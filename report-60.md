@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -30,6 +30,20 @@ Since November 16, 0 grants have been approved and the vesting contract(s) will 
 
 
 ## Polls
+
+#### [Upgrade The Estates Smart Contracts To Prevent Empty Estates Transfers](https://governance.decentraland.org/proposal/?id=6f694633-77e8-411b-bcb2-ae6779235c5c)
+
+* Upgrade the EstateRegistry Smart Contract 99.98657835179216% 10,869,039 VP (73 votes)
+* Keep the contract as it is 0% 0 VP (1 votes)
+* Invalid question/options 0.013421648207837396% 1,459 VP (1 votes)
+
+
+#### [Should the &#34;Extra&#34; category be added as another category of accessories?](https://governance.decentraland.org/proposal/?id=a0d86f2d-0b4b-47e0-a35a-85b59bf2a6ed)
+
+* Yes 99.9666735801666% 4,376,449 VP (58 votes)
+* No 0% 0 VP (0 votes)
+* Invalid question/options 0.03332641983339988% 1,459 VP (1 votes)
+
 
 
 # Active Proposals
@@ -59,7 +73,5 @@ Since November 16, 0 grants have been approved and the vesting contract(s) will 
 * [Pets Slots (land and air) ](https://governance.decentraland.org/proposal/?id=171fbd74-794e-4d2a-a0fb-7f56677341d9)
 * [Should ChatGPT DCL-Docs be improved?](https://governance.decentraland.org/proposal/?id=777b41d1-62af-45f0-a387-99febbbdfd49)
 * [Enable DARK MODE on all Decentraland webpages.](https://governance.decentraland.org/proposal/?id=9f85256f-4efb-4936-bd3d-b792413cef81)
-* [Upgrade The Estates Smart Contracts To Prevent Empty Estates Transfers](https://governance.decentraland.org/proposal/?id=6f694633-77e8-411b-bcb2-ae6779235c5c)
-* [Should the &#34;Extra&#34; category be added as another category of accessories?](https://governance.decentraland.org/proposal/?id=a0d86f2d-0b4b-47e0-a35a-85b59bf2a6ed)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

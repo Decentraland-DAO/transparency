@@ -138,7 +138,5 @@ Since November 1, 1 grants have been approved and the vesting contract(s) will b
 * [Pets Slots (land and air) ](https://governance.decentraland.org/proposal/?id=171fbd74-794e-4d2a-a0fb-7f56677341d9)
 * [Should ChatGPT DCL-Docs be improved?](https://governance.decentraland.org/proposal/?id=777b41d1-62af-45f0-a387-99febbbdfd49)
 * [Enable DARK MODE on all Decentraland webpages.](https://governance.decentraland.org/proposal/?id=9f85256f-4efb-4936-bd3d-b792413cef81)
-* [Upgrade The Estates Smart Contracts To Prevent Empty Estates Transfers](https://governance.decentraland.org/proposal/?id=6f694633-77e8-411b-bcb2-ae6779235c5c)
-* [Should the &#34;Extra&#34; category be added as another category of accessories?](https://governance.decentraland.org/proposal/?id=a0d86f2d-0b4b-47e0-a35a-85b59bf2a6ed)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
