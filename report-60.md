@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -26,10 +26,31 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since November 16, 0 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since November 16, 2 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Social Media Content Marketing: Boosting Decentraland and Wearables Market](https://governance.decentraland.org/proposal/?id=531a102b-e4b8-4ed3-8ccc-9aa30bfb7992) (Lower Tier)
+
+* Yes 75.76384974490165% 7,548,516 VP (113 votes)
+* No 14.132765966330552% 1,408,078 VP (14 votes)
+* Abstain 10.103384288767804% 1,006,622 VP (17 votes)
+
+
+#### [Decentraland Community Summit - Main Sponsor](https://governance.decentraland.org/proposal/?id=3d4be4a7-a007-4fa0-8f97-71e2385684a0) (Higher Tier)
+
+* Yes 54.24875732522489% 6,733,212 VP (109 votes)
+* No 45.63328978583574% 5,663,883 VP (17 votes)
+* Abstain 0.11795288893937873% 14,640 VP (11 votes)
 
 
 ## Polls
+
+#### [Enable DARK MODE on all Decentraland webpages.](https://governance.decentraland.org/proposal/?id=9f85256f-4efb-4936-bd3d-b792413cef81)
+
+* YES - all DCL pages should be dark mode 99.97741869725681% 6,464,066 VP (72 votes)
+* NO - keep things like they are 0% 0 VP (1 votes)
+* Invalid question/options 0.022581302743195218% 1,460 VP (2 votes)
+
 
 #### [Upgrade The Estates Smart Contracts To Prevent Empty Estates Transfers](https://governance.decentraland.org/proposal/?id=6f694633-77e8-411b-bcb2-ae6779235c5c)
 
@@ -57,9 +78,6 @@ Since November 16, 0 grants have been approved and the vesting contract(s) will 
 * [Genesis city map, 6-month renewal ](https://governance.decentraland.org/proposal/?id=e2feb90d-36b2-4d03-b862-67fd8987436e) (Higher Tier)
 * [Should OG Contra Band Farms be funded to complete?](https://governance.decentraland.org/proposal/?id=345eab3e-eb87-4b0e-85c7-b2123797e1f6) (Higher Tier)
 * [100 Avatars Garden - a 100 day reward game](https://governance.decentraland.org/proposal/?id=3dd9e476-1172-4995-a3cc-6942ebe12c7d) (Lower Tier)
-* [Social Media Content Marketing: Boosting Decentraland and Wearables Market](https://governance.decentraland.org/proposal/?id=531a102b-e4b8-4ed3-8ccc-9aa30bfb7992) (Lower Tier)
-* [Decentraland Community Summit - Main Sponsor](https://governance.decentraland.org/proposal/?id=3d4be4a7-a007-4fa0-8f97-71e2385684a0) (Higher Tier)
-* [Renewal Grant Support Squad H1 2024](https://governance.decentraland.org/proposal/?id=166fb303-2045-41d8-a6a7-ea3b8d363978) (Higher Tier)
 
 ## Names Bans
 
@@ -72,6 +90,5 @@ Since November 16, 0 grants have been approved and the vesting contract(s) will 
 * [Allow the option for building a 5-10 page websites out of DCL Names ](https://governance.decentraland.org/proposal/?id=97c10d0d-aa5d-4fc2-bc45-6a813bfe2e71)
 * [Pets Slots (land and air) ](https://governance.decentraland.org/proposal/?id=171fbd74-794e-4d2a-a0fb-7f56677341d9)
 * [Should ChatGPT DCL-Docs be improved?](https://governance.decentraland.org/proposal/?id=777b41d1-62af-45f0-a387-99febbbdfd49)
-* [Enable DARK MODE on all Decentraland webpages.](https://governance.decentraland.org/proposal/?id=9f85256f-4efb-4936-bd3d-b792413cef81)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
