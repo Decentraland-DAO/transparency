@@ -18,8 +18,8 @@ export type ProposalParsed = {
   user: string
   type: string
   title: string
-  start_at: Date
-  finish_at: Date
+  start_at: string
+  finish_at: string
   required_to_pass: number
   status: Status
   configuration: Configuration

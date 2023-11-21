@@ -18,10 +18,10 @@ export interface GovernanceProposal {
   enacted_description: null | string
   enacting_tx: string | null
   deleted: boolean
-  start_at: Date
-  finish_at: Date
-  created_at: Date
-  updated_at: Date
+  start_at: string
+  finish_at: string
+  created_at: string
+  updated_at: string
   enacted_by: string | null
   deleted_by: string | null
   required_to_pass: number
@@ -66,6 +66,13 @@ export enum Category {
   ContentCreator = 'Content Creator',
   Gaming = 'Gaming',
   PlatformContributor = 'Platform Contributor',
+  CoreUnit = 'Core Unit',
+  Platform = 'Platform',
+  InWorldContent = 'In-World Content',
+  SocialMediaContent = 'Social Media Content',
+  Sponsorship = 'Sponsorship',
+  Documentation = 'Documentation',
+  Accelerator = 'Accelerator',
 }
 
 export enum ConfigurationType {
