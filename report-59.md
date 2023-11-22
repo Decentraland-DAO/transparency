@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 8 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 7 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -102,14 +102,6 @@ Since November 1, 1 grants have been approved and the vesting contract(s) will b
 * Invalid question/options 0.024136857593829216% 1,498 VP (14 votes)
 
 
-#### [Expansion of Marketplace Offerings with 3D Everyday and Decorative Items](https://governance.decentraland.org/proposal/?id=037d6962-7c7e-4a98-b3cc-64d2811163ce)
-
-* Yes. Add 3D Items 13.159126897757304% 535,672 VP (87 votes)
-* No. Keep it Fashion/Emote Only 0.08487429515029997% 3,455 VP (2 votes)
-* More Info Needed 86.72023123148057% 3,530,143 VP (43 votes)
-* Invalid question/options 0.03576757561181961% 1,456 VP (1 votes)
-
-
 
 # Active Proposals
 
@@ -118,9 +110,9 @@ Since November 1, 1 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
+* [Holiday Special 37% Off 3D Gaming Software Development ](https://governance.decentraland.org/proposal/?id=c0681fa4-35c0-4afb-b803-993ef1545224) (Higher Tier)
 * [[RENEWAL] Facilitation Squad H1 2024](https://governance.decentraland.org/proposal/?id=5a5c472b-0ed2-4086-b7fc-22e37b4ad39c) (Higher Tier)
 * [Genesis city map, 6-month renewal ](https://governance.decentraland.org/proposal/?id=e2feb90d-36b2-4d03-b862-67fd8987436e) (Higher Tier)
-* [Should OG Contra Band Farms be funded to complete?](https://governance.decentraland.org/proposal/?id=345eab3e-eb87-4b0e-85c7-b2123797e1f6) (Higher Tier)
 * [100 Avatars Garden - a 100 day reward game](https://governance.decentraland.org/proposal/?id=3dd9e476-1172-4995-a3cc-6942ebe12c7d) (Lower Tier)
 
 ## Names Bans

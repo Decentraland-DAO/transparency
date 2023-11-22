@@ -74,9 +74,9 @@ Since November 16, 2 grants have been approved and the vesting contract(s) will 
 
 ## Grants
 
+* [Holiday Special 37% Off 3D Gaming Software Development ](https://governance.decentraland.org/proposal/?id=c0681fa4-35c0-4afb-b803-993ef1545224) (Higher Tier)
 * [[RENEWAL] Facilitation Squad H1 2024](https://governance.decentraland.org/proposal/?id=5a5c472b-0ed2-4086-b7fc-22e37b4ad39c) (Higher Tier)
 * [Genesis city map, 6-month renewal ](https://governance.decentraland.org/proposal/?id=e2feb90d-36b2-4d03-b862-67fd8987436e) (Higher Tier)
-* [Should OG Contra Band Farms be funded to complete?](https://governance.decentraland.org/proposal/?id=345eab3e-eb87-4b0e-85c7-b2123797e1f6) (Higher Tier)
 * [100 Avatars Garden - a 100 day reward game](https://governance.decentraland.org/proposal/?id=3dd9e476-1172-4995-a3cc-6942ebe12c7d) (Lower Tier)
 
 ## Names Bans
