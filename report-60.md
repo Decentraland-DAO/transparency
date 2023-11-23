@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -45,6 +45,21 @@ Since November 16, 2 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+#### [Pets Slots (land and air) ](https://governance.decentraland.org/proposal/?id=171fbd74-794e-4d2a-a0fb-7f56677341d9)
+
+* Yes 100% 6,311,706 VP (86 votes)
+* No 0% 0 VP (0 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
+#### [Should ChatGPT DCL-Docs be improved?](https://governance.decentraland.org/proposal/?id=777b41d1-62af-45f0-a387-99febbbdfd49)
+
+* Option 1: $480 upgrade 0.00020469010532124678% 10 VP (6 votes)
+* Option 2: $3,200 upgrade 95.04723633560498% 4,643,470 VP (46 votes)
+* Leave it as it is 0% 0 VP (0 votes)
+* Invalid question/options 4.952558974289695% 241,954 VP (8 votes)
+
+
 #### [Enable DARK MODE on all Decentraland webpages.](https://governance.decentraland.org/proposal/?id=9f85256f-4efb-4936-bd3d-b792413cef81)
 
 * YES - all DCL pages should be dark mode 99.97741869725681% 6,464,066 VP (72 votes)
@@ -74,6 +89,8 @@ Since November 16, 2 grants have been approved and the vesting contract(s) will 
 
 ## Grants
 
+* [Renewal Grant Support Squad H1 2024 [Resubmission]](https://governance.decentraland.org/proposal/?id=e2f4a6f2-2e2b-45d7-9743-71d50225af06) (Higher Tier)
+* [Atlas Analytics - Open Sourcing the Platform for the Community](https://governance.decentraland.org/proposal/?id=fe85ab06-618d-4181-960d-fc32d5f0a7e1) (Higher Tier)
 * [Holiday Special 37% Off 3D Gaming Software Development ](https://governance.decentraland.org/proposal/?id=c0681fa4-35c0-4afb-b803-993ef1545224) (Higher Tier)
 * [[RENEWAL] Facilitation Squad H1 2024](https://governance.decentraland.org/proposal/?id=5a5c472b-0ed2-4086-b7fc-22e37b4ad39c) (Higher Tier)
 * [Genesis city map, 6-month renewal ](https://governance.decentraland.org/proposal/?id=e2feb90d-36b2-4d03-b862-67fd8987436e) (Higher Tier)
@@ -88,7 +105,5 @@ Since November 16, 2 grants have been approved and the vesting contract(s) will 
 ## Polls
 
 * [Allow the option for building a 5-10 page websites out of DCL Names ](https://governance.decentraland.org/proposal/?id=97c10d0d-aa5d-4fc2-bc45-6a813bfe2e71)
-* [Pets Slots (land and air) ](https://governance.decentraland.org/proposal/?id=171fbd74-794e-4d2a-a0fb-7f56677341d9)
-* [Should ChatGPT DCL-Docs be improved?](https://governance.decentraland.org/proposal/?id=777b41d1-62af-45f0-a387-99febbbdfd49)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

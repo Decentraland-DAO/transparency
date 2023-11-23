@@ -110,6 +110,8 @@ Since November 1, 1 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
+* [Renewal Grant Support Squad H1 2024 [Resubmission]](https://governance.decentraland.org/proposal/?id=e2f4a6f2-2e2b-45d7-9743-71d50225af06) (Higher Tier)
+* [Atlas Analytics - Open Sourcing the Platform for the Community](https://governance.decentraland.org/proposal/?id=fe85ab06-618d-4181-960d-fc32d5f0a7e1) (Higher Tier)
 * [Holiday Special 37% Off 3D Gaming Software Development ](https://governance.decentraland.org/proposal/?id=c0681fa4-35c0-4afb-b803-993ef1545224) (Higher Tier)
 * [[RENEWAL] Facilitation Squad H1 2024](https://governance.decentraland.org/proposal/?id=5a5c472b-0ed2-4086-b7fc-22e37b4ad39c) (Higher Tier)
 * [Genesis city map, 6-month renewal ](https://governance.decentraland.org/proposal/?id=e2feb90d-36b2-4d03-b862-67fd8987436e) (Higher Tier)
@@ -124,7 +126,5 @@ Since November 1, 1 grants have been approved and the vesting contract(s) will b
 ## Polls
 
 * [Allow the option for building a 5-10 page websites out of DCL Names ](https://governance.decentraland.org/proposal/?id=97c10d0d-aa5d-4fc2-bc45-6a813bfe2e71)
-* [Pets Slots (land and air) ](https://governance.decentraland.org/proposal/?id=171fbd74-794e-4d2a-a0fb-7f56677341d9)
-* [Should ChatGPT DCL-Docs be improved?](https://governance.decentraland.org/proposal/?id=777b41d1-62af-45f0-a387-99febbbdfd49)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
