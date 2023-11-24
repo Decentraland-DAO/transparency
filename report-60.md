@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -26,7 +26,14 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since November 16, 2 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since November 16, 3 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [100 Avatars Garden - a 100 day reward game](https://governance.decentraland.org/proposal/?id=3dd9e476-1172-4995-a3cc-6942ebe12c7d) (Lower Tier)
+
+* Yes 84.8094910051404% 6,274,916 VP (78 votes)
+* No 14.32707599856572% 1,060,037 VP (18 votes)
+* Abstain 0.863432996293877% 63,884 VP (6 votes)
 
 
 #### [Social Media Content Marketing: Boosting Decentraland and Wearables Market](https://governance.decentraland.org/proposal/?id=531a102b-e4b8-4ed3-8ccc-9aa30bfb7992) (Lower Tier)
@@ -44,6 +51,13 @@ Since November 16, 2 grants have been approved and the vesting contract(s) will 
 
 
 ## Polls
+
+#### [Allow the option for building a 5-10 page websites out of DCL Names ](https://governance.decentraland.org/proposal/?id=97c10d0d-aa5d-4fc2-bc45-6a813bfe2e71)
+
+* Yes 96.2480357452224% 2,683,350 VP (69 votes)
+* No 0% 0 VP (1 votes)
+* Invalid question/options 3.7519642547776093% 104,603 VP (3 votes)
+
 
 #### [Pets Slots (land and air) ](https://governance.decentraland.org/proposal/?id=171fbd74-794e-4d2a-a0fb-7f56677341d9)
 
@@ -94,7 +108,6 @@ Since November 16, 2 grants have been approved and the vesting contract(s) will 
 * [Holiday Special 37% Off 3D Gaming Software Development ](https://governance.decentraland.org/proposal/?id=c0681fa4-35c0-4afb-b803-993ef1545224) (Higher Tier)
 * [[RENEWAL] Facilitation Squad H1 2024](https://governance.decentraland.org/proposal/?id=5a5c472b-0ed2-4086-b7fc-22e37b4ad39c) (Higher Tier)
 * [Genesis city map, 6-month renewal ](https://governance.decentraland.org/proposal/?id=e2feb90d-36b2-4d03-b862-67fd8987436e) (Higher Tier)
-* [100 Avatars Garden - a 100 day reward game](https://governance.decentraland.org/proposal/?id=3dd9e476-1172-4995-a3cc-6942ebe12c7d) (Lower Tier)
 
 ## Names Bans
 
@@ -104,6 +117,6 @@ Since November 16, 2 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
-* [Allow the option for building a 5-10 page websites out of DCL Names ](https://governance.decentraland.org/proposal/?id=97c10d0d-aa5d-4fc2-bc45-6a813bfe2e71)
+* [Add more functions for players to interact with each other](https://governance.decentraland.org/proposal/?id=8a0ed5c0-fa7e-474f-ba38-cedadfd79e71)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
