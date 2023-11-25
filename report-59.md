@@ -110,6 +110,7 @@ Since November 1, 1 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
+* [ChatGPT DCL-Docs Improvement](https://governance.decentraland.org/proposal/?id=c964129c-d517-4e3c-a564-e98cbe81d305) (Lower Tier)
 * [Renewal Grant Support Squad H1 2024 [Resubmission]](https://governance.decentraland.org/proposal/?id=e2f4a6f2-2e2b-45d7-9743-71d50225af06) (Higher Tier)
 * [Atlas Analytics - Open Sourcing the Platform for the Community](https://governance.decentraland.org/proposal/?id=fe85ab06-618d-4181-960d-fc32d5f0a7e1) (Higher Tier)
 * [Holiday Special 37% Off 3D Gaming Software Development ](https://governance.decentraland.org/proposal/?id=c0681fa4-35c0-4afb-b803-993ef1545224) (Higher Tier)
