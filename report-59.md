@@ -125,6 +125,5 @@ Since November 1, 1 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
-* [Add more functions for players to interact with each other](https://governance.decentraland.org/proposal/?id=8a0ed5c0-fa7e-474f-ba38-cedadfd79e71)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
