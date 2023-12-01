@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 7 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 7 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -26,7 +26,14 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since November 16, 3 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since November 16, 4 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [[RENEWAL] Facilitation Squad H1 2024](https://governance.decentraland.org/proposal/?id=5a5c472b-0ed2-4086-b7fc-22e37b4ad39c) (Higher Tier)
+
+* Yes 75.5947654891739% 11,684,187 VP (97 votes)
+* No 24.38156785330347% 3,768,499 VP (21 votes)
+* Abstain 0.023666657522632778% 3,658 VP (3 votes)
 
 
 #### [100 Avatars Garden - a 100 day reward game](https://governance.decentraland.org/proposal/?id=3dd9e476-1172-4995-a3cc-6942ebe12c7d) (Lower Tier)
@@ -114,8 +121,6 @@ Since November 16, 3 grants have been approved and the vesting contract(s) will 
 * [Renewal Grant Support Squad H1 2024 [Resubmission]](https://governance.decentraland.org/proposal/?id=e2f4a6f2-2e2b-45d7-9743-71d50225af06) (Higher Tier)
 * [Atlas Analytics - Open Sourcing the Platform for the Community](https://governance.decentraland.org/proposal/?id=fe85ab06-618d-4181-960d-fc32d5f0a7e1) (Higher Tier)
 * [Holiday Special 37% Off 3D Gaming Software Development ](https://governance.decentraland.org/proposal/?id=c0681fa4-35c0-4afb-b803-993ef1545224) (Higher Tier)
-* [[RENEWAL] Facilitation Squad H1 2024](https://governance.decentraland.org/proposal/?id=5a5c472b-0ed2-4086-b7fc-22e37b4ad39c) (Higher Tier)
-* [Genesis city map, 6-month renewal ](https://governance.decentraland.org/proposal/?id=e2feb90d-36b2-4d03-b862-67fd8987436e) (Higher Tier)
 
 ## Names Bans
 
