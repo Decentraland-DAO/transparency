@@ -130,5 +130,6 @@ Since November 16, 4 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Should the user be able to change the case of their NAME?](https://governance.decentraland.org/proposal/?id=602ace22-273d-4001-99df-dda5e5cdedb2)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
