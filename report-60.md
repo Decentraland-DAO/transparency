@@ -130,6 +130,8 @@ Since November 16, 4 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Should the VP Threshold be reduced for proposals with majority acceptance?](https://governance.decentraland.org/proposal/?id=9dbb39c0-84d3-4682-b10b-653b89285f69)
+* [Should we promote DCL by inscribing $DCL in Ordinal?](https://governance.decentraland.org/proposal/?id=76947cd5-256e-4549-91d3-bb60a428a6a9)
 * [Should the user be able to change the case of their NAME?](https://governance.decentraland.org/proposal/?id=602ace22-273d-4001-99df-dda5e5cdedb2)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
