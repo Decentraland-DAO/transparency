@@ -39,6 +39,7 @@ Since December 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
+* [Resubmission - Genesis city map, 6-month renewal ](https://governance.decentraland.org/proposal/?id=aebc4db6-d96c-4c4c-b2c0-2a2d0003e64d) (Lower Tier)
 * [ChatGPT DCL-Docs Improvement](https://governance.decentraland.org/proposal/?id=c964129c-d517-4e3c-a564-e98cbe81d305) (Lower Tier)
 * [Renewal Grant Support Squad H1 2024 [Resubmission]](https://governance.decentraland.org/proposal/?id=e2f4a6f2-2e2b-45d7-9743-71d50225af06) (Higher Tier)
 * [Atlas Analytics - Open Sourcing the Platform for the Community](https://governance.decentraland.org/proposal/?id=fe85ab06-618d-4181-960d-fc32d5f0a7e1) (Higher Tier)
@@ -52,6 +53,9 @@ Since December 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Should we reduce the amount of wearable committee members to reduce costs?](https://governance.decentraland.org/proposal/?id=5e95962f-d3ff-482f-a139-c680f2b1f41f)
+* [Allow all wearables to have a preview function from inside the world](https://governance.decentraland.org/proposal/?id=3f901d43-4eba-478f-aaaf-5fec6ab1d496)
+* [Is it worth increasing the Voice Power of parcels?](https://governance.decentraland.org/proposal/?id=70b5fb82-2532-401e-b221-5ff21f5b85f6)
 * [Should the VP Threshold be reduced for proposals with majority acceptance?](https://governance.decentraland.org/proposal/?id=9dbb39c0-84d3-4682-b10b-653b89285f69)
 * [Should we promote DCL by inscribing $DCL in Ordinal?](https://governance.decentraland.org/proposal/?id=76947cd5-256e-4549-91d3-bb60a428a6a9)
 * [Should the user be able to change the case of their NAME?](https://governance.decentraland.org/proposal/?id=602ace22-273d-4001-99df-dda5e5cdedb2)
