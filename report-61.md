@@ -43,7 +43,6 @@ Since December 1, 0 grants have been approved and the vesting contract(s) will b
 * [ChatGPT DCL-Docs Improvement](https://governance.decentraland.org/proposal/?id=c964129c-d517-4e3c-a564-e98cbe81d305) (Lower Tier)
 * [Renewal Grant Support Squad H1 2024 [Resubmission]](https://governance.decentraland.org/proposal/?id=e2f4a6f2-2e2b-45d7-9743-71d50225af06) (Higher Tier)
 * [Atlas Analytics - Open Sourcing the Platform for the Community](https://governance.decentraland.org/proposal/?id=fe85ab06-618d-4181-960d-fc32d5f0a7e1) (Higher Tier)
-* [Holiday Special 37% Off 3D Gaming Software Development ](https://governance.decentraland.org/proposal/?id=c0681fa4-35c0-4afb-b803-993ef1545224) (Higher Tier)
 
 ## Names Bans
 
@@ -53,7 +52,8 @@ Since December 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
-* [Should we reduce the amount of wearable committee members to reduce costs?](https://governance.decentraland.org/proposal/?id=5e95962f-d3ff-482f-a139-c680f2b1f41f)
+* [Should DCL Be Integrated on the Blur Marketplace Platform?](https://governance.decentraland.org/proposal/?id=d994b0f8-60fe-464d-bdf9-d1096599eb1c)
+* [Should a &#34;See in Decentraland&#34; button be implemented in the Marketplace?](https://governance.decentraland.org/proposal/?id=c1260818-a819-417e-aeb6-cc216176b6c8)
 * [Allow all wearables to have a preview function from inside the world](https://governance.decentraland.org/proposal/?id=3f901d43-4eba-478f-aaaf-5fec6ab1d496)
 * [Is it worth increasing the Voice Power of parcels?](https://governance.decentraland.org/proposal/?id=70b5fb82-2532-401e-b221-5ff21f5b85f6)
 * [Should the VP Threshold be reduced for proposals with majority acceptance?](https://governance.decentraland.org/proposal/?id=9dbb39c0-84d3-4682-b10b-653b89285f69)
