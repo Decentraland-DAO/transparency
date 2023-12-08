@@ -129,6 +129,7 @@ Since November 16, 4 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Proposal to improve the DAO Grants Program](https://governance.decentraland.org/proposal/?id=ca29c34c-a5ab-41b4-80f1-482f3970550c)
 * [Should DCL Be Integrated on the Blur Marketplace Platform?](https://governance.decentraland.org/proposal/?id=d994b0f8-60fe-464d-bdf9-d1096599eb1c)
 * [Should a &#34;See in Decentraland&#34; button be implemented in the Marketplace?](https://governance.decentraland.org/proposal/?id=c1260818-a819-417e-aeb6-cc216176b6c8)
 * [Allow all wearables to have a preview function from inside the world](https://governance.decentraland.org/proposal/?id=3f901d43-4eba-478f-aaaf-5fec6ab1d496)
