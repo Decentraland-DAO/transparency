@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -26,7 +26,14 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since December 1, 2 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since December 1, 3 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [ChatGPT DCL-Docs Improvement](https://governance.decentraland.org/proposal/?id=c964129c-d517-4e3c-a564-e98cbe81d305) (Lower Tier)
+
+* Yes 85.66053556754208% 5,167,166 VP (90 votes)
+* No 14.314862893668137% 863,493 VP (6 votes)
+* Abstain 0.02460153878978002% 1,484 VP (4 votes)
 
 
 #### [Renewal Grant Support Squad H1 2024 [Resubmission]](https://governance.decentraland.org/proposal/?id=e2f4a6f2-2e2b-45d7-9743-71d50225af06) (Higher Tier)
@@ -45,6 +52,14 @@ Since December 1, 2 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+#### [Should the VP Threshold be reduced for proposals with majority acceptance?](https://governance.decentraland.org/proposal/?id=9dbb39c0-84d3-4682-b10b-653b89285f69)
+
+* Yes, reduce it if it reaches 90% acceptance. 30.337680079346647% 1,102,373 VP (6 votes)
+* Yes, reduce it if it reaches 95% acceptance. 0% 0 VP (0 votes)
+* Not reduce it. 69.53768029950936% 2,526,774 VP (34 votes)
+* Invalid question/options 0.12463962114398752% 4,529 VP (4 votes)
+
+
 #### [Should the user be able to change the case of their NAME?](https://governance.decentraland.org/proposal/?id=602ace22-273d-4001-99df-dda5e5cdedb2)
 
 * Yes 99.79885757371459% 4,839,050 VP (57 votes)
@@ -62,7 +77,6 @@ Since December 1, 2 grants have been approved and the vesting contract(s) will b
 
 * [Enhancing Exodus: Goodbye World - Transition to SDK7 and New Game Features](https://governance.decentraland.org/proposal/?id=b5548378-f118-4cef-bb81-b08b5eded9b3) (Higher Tier)
 * [Resubmission - Genesis city map, 6-month renewal ](https://governance.decentraland.org/proposal/?id=aebc4db6-d96c-4c4c-b2c0-2a2d0003e64d) (Lower Tier)
-* [ChatGPT DCL-Docs Improvement](https://governance.decentraland.org/proposal/?id=c964129c-d517-4e3c-a564-e98cbe81d305) (Lower Tier)
 
 ## Names Bans
 
@@ -77,7 +91,5 @@ Since December 1, 2 grants have been approved and the vesting contract(s) will b
 * [Should a &#34;See in Decentraland&#34; button be implemented in the Marketplace?](https://governance.decentraland.org/proposal/?id=c1260818-a819-417e-aeb6-cc216176b6c8)
 * [Allow all wearables to have a preview function from inside the world](https://governance.decentraland.org/proposal/?id=3f901d43-4eba-478f-aaaf-5fec6ab1d496)
 * [Is it worth increasing the Voice Power of parcels?](https://governance.decentraland.org/proposal/?id=70b5fb82-2532-401e-b221-5ff21f5b85f6)
-* [Should the VP Threshold be reduced for proposals with majority acceptance?](https://governance.decentraland.org/proposal/?id=9dbb39c0-84d3-4682-b10b-653b89285f69)
-* [Should we promote DCL by inscribing $DCL in Ordinal?](https://governance.decentraland.org/proposal/?id=76947cd5-256e-4549-91d3-bb60a428a6a9)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

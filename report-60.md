@@ -119,7 +119,6 @@ Since November 16, 4 grants have been approved and the vesting contract(s) will 
 
 * [Enhancing Exodus: Goodbye World - Transition to SDK7 and New Game Features](https://governance.decentraland.org/proposal/?id=b5548378-f118-4cef-bb81-b08b5eded9b3) (Higher Tier)
 * [Resubmission - Genesis city map, 6-month renewal ](https://governance.decentraland.org/proposal/?id=aebc4db6-d96c-4c4c-b2c0-2a2d0003e64d) (Lower Tier)
-* [ChatGPT DCL-Docs Improvement](https://governance.decentraland.org/proposal/?id=c964129c-d517-4e3c-a564-e98cbe81d305) (Lower Tier)
 
 ## Names Bans
 
@@ -134,7 +133,5 @@ Since November 16, 4 grants have been approved and the vesting contract(s) will 
 * [Should a &#34;See in Decentraland&#34; button be implemented in the Marketplace?](https://governance.decentraland.org/proposal/?id=c1260818-a819-417e-aeb6-cc216176b6c8)
 * [Allow all wearables to have a preview function from inside the world](https://governance.decentraland.org/proposal/?id=3f901d43-4eba-478f-aaaf-5fec6ab1d496)
 * [Is it worth increasing the Voice Power of parcels?](https://governance.decentraland.org/proposal/?id=70b5fb82-2532-401e-b221-5ff21f5b85f6)
-* [Should the VP Threshold be reduced for proposals with majority acceptance?](https://governance.decentraland.org/proposal/?id=9dbb39c0-84d3-4682-b10b-653b89285f69)
-* [Should we promote DCL by inscribing $DCL in Ordinal?](https://governance.decentraland.org/proposal/?id=76947cd5-256e-4549-91d3-bb60a428a6a9)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
