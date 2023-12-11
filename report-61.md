@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -52,6 +52,20 @@ Since December 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+#### [Should DCL Be Integrated on the Blur Marketplace Platform?](https://governance.decentraland.org/proposal/?id=d994b0f8-60fe-464d-bdf9-d1096599eb1c)
+
+* YES 54.77482032008601% 2,021,743 VP (51 votes)
+* NO 0.03665665314190595% 1,353 VP (2 votes)
+* Invalid question/options 45.188523026772096% 1,667,912 VP (7 votes)
+
+
+#### [Should a &#34;See in Decentraland&#34; button be implemented in the Marketplace?](https://governance.decentraland.org/proposal/?id=c1260818-a819-417e-aeb6-cc216176b6c8)
+
+* Yes 99.77343761777225% 4,765,347 VP (46 votes)
+* No 0% 0 VP (0 votes)
+* Invalid question/options 0.22656238222776084% 10,821 VP (14 votes)
+
+
 #### [Should the VP Threshold be reduced for proposals with majority acceptance?](https://governance.decentraland.org/proposal/?id=9dbb39c0-84d3-4682-b10b-653b89285f69)
 
 * Yes, reduce it if it reaches 90% acceptance. 30.337680079346647% 1,102,373 VP (6 votes)
@@ -87,7 +101,5 @@ Since December 1, 3 grants have been approved and the vesting contract(s) will b
 ## Polls
 
 * [Proposal to improve the DAO Grants Program](https://governance.decentraland.org/proposal/?id=ca29c34c-a5ab-41b4-80f1-482f3970550c)
-* [Should DCL Be Integrated on the Blur Marketplace Platform?](https://governance.decentraland.org/proposal/?id=d994b0f8-60fe-464d-bdf9-d1096599eb1c)
-* [Should a &#34;See in Decentraland&#34; button be implemented in the Marketplace?](https://governance.decentraland.org/proposal/?id=c1260818-a819-417e-aeb6-cc216176b6c8)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
