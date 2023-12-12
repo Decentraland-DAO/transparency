@@ -117,6 +117,7 @@ Since November 16, 4 grants have been approved and the vesting contract(s) will 
 
 ## Grants
 
+* [Last Chance To Pay Software License Fees](https://governance.decentraland.org/proposal/?id=c040cd74-584b-4134-b639-bc9cc35dc8e9) (Higher Tier)
 * [Enhancing Exodus: Goodbye World - Transition to SDK7 and New Game Features](https://governance.decentraland.org/proposal/?id=b5548378-f118-4cef-bb81-b08b5eded9b3) (Higher Tier)
 * [Resubmission - Genesis city map, 6-month renewal ](https://governance.decentraland.org/proposal/?id=aebc4db6-d96c-4c4c-b2c0-2a2d0003e64d) (Lower Tier)
 

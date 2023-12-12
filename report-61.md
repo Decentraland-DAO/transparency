@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -66,14 +66,6 @@ Since December 1, 3 grants have been approved and the vesting contract(s) will b
 * Invalid question/options 0.22656238222776084% 10,821 VP (14 votes)
 
 
-#### [Should the VP Threshold be reduced for proposals with majority acceptance?](https://governance.decentraland.org/proposal/?id=9dbb39c0-84d3-4682-b10b-653b89285f69)
-
-* Yes, reduce it if it reaches 90% acceptance. 30.337680079346647% 1,102,373 VP (6 votes)
-* Yes, reduce it if it reaches 95% acceptance. 0% 0 VP (0 votes)
-* Not reduce it. 69.53768029950936% 2,526,774 VP (34 votes)
-* Invalid question/options 0.12463962114398752% 4,529 VP (4 votes)
-
-
 #### [Should the user be able to change the case of their NAME?](https://governance.decentraland.org/proposal/?id=602ace22-273d-4001-99df-dda5e5cdedb2)
 
 * Yes 99.79885757371459% 4,839,050 VP (57 votes)
@@ -89,6 +81,7 @@ Since December 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
+* [Last Chance To Pay Software License Fees](https://governance.decentraland.org/proposal/?id=c040cd74-584b-4134-b639-bc9cc35dc8e9) (Higher Tier)
 * [Enhancing Exodus: Goodbye World - Transition to SDK7 and New Game Features](https://governance.decentraland.org/proposal/?id=b5548378-f118-4cef-bb81-b08b5eded9b3) (Higher Tier)
 * [Resubmission - Genesis city map, 6-month renewal ](https://governance.decentraland.org/proposal/?id=aebc4db6-d96c-4c4c-b2c0-2a2d0003e64d) (Lower Tier)
 
