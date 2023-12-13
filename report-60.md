@@ -129,6 +129,6 @@ Since November 16, 4 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
-* [Proposal to improve the DAO Grants Program](https://governance.decentraland.org/proposal/?id=ca29c34c-a5ab-41b4-80f1-482f3970550c)
+* [Should the DAO Bridge MANA and Stables to Polygon?](https://governance.decentraland.org/proposal/?id=bd93a988-a851-41b4-a966-a96a93037288)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

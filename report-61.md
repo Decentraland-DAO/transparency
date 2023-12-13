@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -52,6 +52,13 @@ Since December 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+#### [Proposal to improve the DAO Grants Program](https://governance.decentraland.org/proposal/?id=ca29c34c-a5ab-41b4-80f1-482f3970550c)
+
+* Yes 98.75544226967288% 4,853,829 VP (63 votes)
+* No 0.000020345884098857396% 1 VP (1 votes)
+* Invalid question/options 1.244537384443008% 61,169 VP (5 votes)
+
+
 #### [Should DCL Be Integrated on the Blur Marketplace Platform?](https://governance.decentraland.org/proposal/?id=d994b0f8-60fe-464d-bdf9-d1096599eb1c)
 
 * YES 54.77482032008601% 2,021,743 VP (51 votes)
@@ -93,6 +100,6 @@ Since December 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
-* [Proposal to improve the DAO Grants Program](https://governance.decentraland.org/proposal/?id=ca29c34c-a5ab-41b4-80f1-482f3970550c)
+* [Should the DAO Bridge MANA and Stables to Polygon?](https://governance.decentraland.org/proposal/?id=bd93a988-a851-41b4-a966-a96a93037288)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
