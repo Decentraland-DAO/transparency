@@ -100,6 +100,7 @@ Since December 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Proposal to Change In-World Spawn Point to Angzaar Plaza](https://governance.decentraland.org/proposal/?id=3f68097b-7a5d-4927-8bde-8e76fb733c22)
 * [Improve the DAO Grants Program - Reviewing Grant Request Processes (Stage A)](https://governance.decentraland.org/proposal/?id=30338335-a93f-4607-be5b-e30c4ed05985)
 * [Should the DAO Bridge MANA and Stables to Polygon?](https://governance.decentraland.org/proposal/?id=bd93a988-a851-41b4-a966-a96a93037288)
 
