@@ -69,6 +69,9 @@ export function dayToMillisec(dayAmount: number) {
 
 export function getMonthsBetweenDates(startDate: Date, endDate: Date) {
   try {
+    if(!(startDate instanceof Date && endDate instanceof Date)) {
+      throw new Error('startDate and endDate must be Date objects')
+    }
     const utcStartDate = dayjs.utc(startDate)
     const utcEndDate = dayjs.utc(endDate)
 
