@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -31,6 +31,13 @@ Since December 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+#### [Should the DAO Bridge MANA and Stables to Polygon?](https://governance.decentraland.org/proposal/?id=bd93a988-a851-41b4-a966-a96a93037288)
+
+* Yes Bridge to Polygon 97.81985446489423% 3,259,472 VP (68 votes)
+* No 1.8587282499384024% 61,935 VP (4 votes)
+* Invalid question/options 0.32141728516735757% 10,710 VP (3 votes)
+
+
 
 # Active Proposals
 
@@ -51,8 +58,8 @@ Since December 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Should Decentraland DAO have an official Mascot or Pet?](https://governance.decentraland.org/proposal/?id=4749daac-4533-4402-a0c0-fe32633c2fc3)
 * [Proposal to Change In-World Spawn Point to Angzaar Plaza](https://governance.decentraland.org/proposal/?id=3f68097b-7a5d-4927-8bde-8e76fb733c22)
 * [Improve the DAO Grants Program - Reviewing Grant Request Processes (Stage A)](https://governance.decentraland.org/proposal/?id=30338335-a93f-4607-be5b-e30c4ed05985)
-* [Should the DAO Bridge MANA and Stables to Polygon?](https://governance.decentraland.org/proposal/?id=bd93a988-a851-41b4-a966-a96a93037288)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
