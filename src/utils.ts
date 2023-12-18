@@ -75,10 +75,7 @@ export function getMonthsBetweenDates(startDate: Date, endDate: Date) {
     const utcStartDate = dayjs.utc(startDate)
     const utcEndDate = dayjs.utc(endDate)
 
-    const months = utcEndDate.diff(utcStartDate, 'month')
-    const remainingDays = utcEndDate.diff(utcStartDate.add(months, 'month'), 'day')
-
-    return months + (remainingDays > 10 ? 1 : 0)
+    return utcEndDate.diff(utcStartDate, 'month', true)
   } catch (error) {
     throw new Error(`startDate: ${startDate}, endDate: ${endDate}. ${error}`)
   }
