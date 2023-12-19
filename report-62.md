@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -26,7 +26,14 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since December 16, 0 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since December 16, 1 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Resubmission - Genesis city map, 6-month renewal ](https://governance.decentraland.org/proposal/?id=aebc4db6-d96c-4c4c-b2c0-2a2d0003e64d) (Lower Tier)
+
+* Yes 99.97304159157889% 7,376,043 VP (77 votes)
+* No 0.006953073665172502% 513 VP (2 votes)
+* Abstain 0.02000533475593492% 1,476 VP (2 votes)
 
 
 ## Polls
@@ -48,7 +55,6 @@ Since December 16, 0 grants have been approved and the vesting contract(s) will 
 
 * [Last Chance To Pay Software License Fees](https://governance.decentraland.org/proposal/?id=c040cd74-584b-4134-b639-bc9cc35dc8e9) (Higher Tier)
 * [Enhancing Exodus: Goodbye World - Transition to SDK7 and New Game Features](https://governance.decentraland.org/proposal/?id=b5548378-f118-4cef-bb81-b08b5eded9b3) (Higher Tier)
-* [Resubmission - Genesis city map, 6-month renewal ](https://governance.decentraland.org/proposal/?id=aebc4db6-d96c-4c4c-b2c0-2a2d0003e64d) (Lower Tier)
 
 ## Names Bans
 
@@ -58,7 +64,6 @@ Since December 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
-* [Should Decentraland DAO have an official Mascot or Pet?](https://governance.decentraland.org/proposal/?id=4749daac-4533-4402-a0c0-fe32633c2fc3)
 * [Proposal to Change In-World Spawn Point to Angzaar Plaza](https://governance.decentraland.org/proposal/?id=3f68097b-7a5d-4927-8bde-8e76fb733c22)
 * [Improve the DAO Grants Program - Reviewing Grant Request Processes (Stage A)](https://governance.decentraland.org/proposal/?id=30338335-a93f-4607-be5b-e30c4ed05985)
 

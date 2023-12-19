@@ -90,7 +90,6 @@ Since December 1, 3 grants have been approved and the vesting contract(s) will b
 
 * [Last Chance To Pay Software License Fees](https://governance.decentraland.org/proposal/?id=c040cd74-584b-4134-b639-bc9cc35dc8e9) (Higher Tier)
 * [Enhancing Exodus: Goodbye World - Transition to SDK7 and New Game Features](https://governance.decentraland.org/proposal/?id=b5548378-f118-4cef-bb81-b08b5eded9b3) (Higher Tier)
-* [Resubmission - Genesis city map, 6-month renewal ](https://governance.decentraland.org/proposal/?id=aebc4db6-d96c-4c4c-b2c0-2a2d0003e64d) (Lower Tier)
 
 ## Names Bans
 
@@ -100,7 +99,6 @@ Since December 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
-* [Should Decentraland DAO have an official Mascot or Pet?](https://governance.decentraland.org/proposal/?id=4749daac-4533-4402-a0c0-fe32633c2fc3)
 * [Proposal to Change In-World Spawn Point to Angzaar Plaza](https://governance.decentraland.org/proposal/?id=3f68097b-7a5d-4927-8bde-8e76fb733c22)
 * [Improve the DAO Grants Program - Reviewing Grant Request Processes (Stage A)](https://governance.decentraland.org/proposal/?id=30338335-a93f-4607-be5b-e30c4ed05985)
 
