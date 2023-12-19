@@ -16,6 +16,10 @@ import { ethers } from 'ethers'
 import { TokenPriceAPIData } from './interfaces/Transactions/TokenPrices'
 import Path from 'path'
 import { rollbar } from './rollbar'
+import utc from 'dayjs/plugin/utc'
+import dayjs from 'dayjs'
+
+dayjs.extend(utc)
 
 require('dotenv').config()
 
@@ -65,9 +69,13 @@ export function dayToMillisec(dayAmount: number) {
 
 export function getMonthsBetweenDates(startDate: Date, endDate: Date) {
   try {
-    const yearDiff = endDate.getFullYear() - startDate.getFullYear()
-    const monthDiff = endDate.getMonth() - startDate.getMonth()
-    return yearDiff * 12 + monthDiff
+    if(!(startDate instanceof Date && endDate instanceof Date)) {
+      throw new Error('startDate and endDate must be Date objects')
+    }
+    const utcStartDate = dayjs.utc(startDate)
+    const utcEndDate = dayjs.utc(endDate)
+
+    return utcEndDate.diff(utcStartDate, 'month', true)
   } catch (error) {
     throw new Error(`startDate: ${startDate}, endDate: ${endDate}. ${error}`)
   }
