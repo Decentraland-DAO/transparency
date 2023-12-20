@@ -64,6 +64,7 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Decentraland DAO Treasury Diversification ](https://governance.decentraland.org/proposal/?id=5d11931b-32c3-4cea-81c9-25e45835374b)
 * [Proposal to Change In-World Spawn Point to Angzaar Plaza](https://governance.decentraland.org/proposal/?id=3f68097b-7a5d-4927-8bde-8e76fb733c22)
 * [Improve the DAO Grants Program - Reviewing Grant Request Processes (Stage A)](https://governance.decentraland.org/proposal/?id=30338335-a93f-4607-be5b-e30c4ed05985)
 
