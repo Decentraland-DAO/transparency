@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -38,6 +38,17 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+#### [Improve the DAO Grants Program - Reviewing Grant Request Processes (Stage A)](https://governance.decentraland.org/proposal/?id=30338335-a93f-4607-be5b-e30c4ed05985)
+
+* Grants Pre-Selection Committee (GPSC). 18.113859015072617% 875,900 VP (7 votes)
+* Grants Selection Committee (GSC) 0.00008272112805147902% 4 VP (4 votes)
+* Qualified voting 0.00018612253811582777% 9 VP (4 votes)
+* Grant Feasibility Analysis 0.00006204084603860926% 3 VP (2 votes)
+* Grant Support Squad Analysis 0% 0 VP (0 votes)
+* Keep selection of grants as it is 81.8754079185627% 3,959,105 VP (54 votes)
+* Invalid question/options 0.010402181852473486% 503 VP (1 votes)
+
+
 #### [Should the DAO Bridge MANA and Stables to Polygon?](https://governance.decentraland.org/proposal/?id=bd93a988-a851-41b4-a966-a96a93037288)
 
 * Yes Bridge to Polygon 97.81985446489423% 3,259,472 VP (68 votes)
@@ -54,7 +65,6 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 ## Grants
 
 * [Last Chance To Pay Software License Fees](https://governance.decentraland.org/proposal/?id=c040cd74-584b-4134-b639-bc9cc35dc8e9) (Higher Tier)
-* [Enhancing Exodus: Goodbye World - Transition to SDK7 and New Game Features](https://governance.decentraland.org/proposal/?id=b5548378-f118-4cef-bb81-b08b5eded9b3) (Higher Tier)
 
 ## Names Bans
 
@@ -64,8 +74,9 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Add search bar to find emotes](https://governance.decentraland.org/proposal/?id=0254da03-b74f-488a-85ee-a84ad0d521de)
+* [Decentraland Creators Workshop](https://governance.decentraland.org/proposal/?id=b8f5e372-cb30-4b07-9bfd-bbc5ca474537)
 * [Decentraland DAO Treasury Diversification ](https://governance.decentraland.org/proposal/?id=5d11931b-32c3-4cea-81c9-25e45835374b)
 * [Proposal to Change In-World Spawn Point to Angzaar Plaza](https://governance.decentraland.org/proposal/?id=3f68097b-7a5d-4927-8bde-8e76fb733c22)
-* [Improve the DAO Grants Program - Reviewing Grant Request Processes (Stage A)](https://governance.decentraland.org/proposal/?id=30338335-a93f-4607-be5b-e30c4ed05985)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

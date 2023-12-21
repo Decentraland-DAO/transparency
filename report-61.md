@@ -89,7 +89,6 @@ Since December 1, 3 grants have been approved and the vesting contract(s) will b
 ## Grants
 
 * [Last Chance To Pay Software License Fees](https://governance.decentraland.org/proposal/?id=c040cd74-584b-4134-b639-bc9cc35dc8e9) (Higher Tier)
-* [Enhancing Exodus: Goodbye World - Transition to SDK7 and New Game Features](https://governance.decentraland.org/proposal/?id=b5548378-f118-4cef-bb81-b08b5eded9b3) (Higher Tier)
 
 ## Names Bans
 
@@ -99,8 +98,9 @@ Since December 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Add search bar to find emotes](https://governance.decentraland.org/proposal/?id=0254da03-b74f-488a-85ee-a84ad0d521de)
+* [Decentraland Creators Workshop](https://governance.decentraland.org/proposal/?id=b8f5e372-cb30-4b07-9bfd-bbc5ca474537)
 * [Decentraland DAO Treasury Diversification ](https://governance.decentraland.org/proposal/?id=5d11931b-32c3-4cea-81c9-25e45835374b)
 * [Proposal to Change In-World Spawn Point to Angzaar Plaza](https://governance.decentraland.org/proposal/?id=3f68097b-7a5d-4927-8bde-8e76fb733c22)
-* [Improve the DAO Grants Program - Reviewing Grant Request Processes (Stage A)](https://governance.decentraland.org/proposal/?id=30338335-a93f-4607-be5b-e30c4ed05985)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
