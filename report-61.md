@@ -85,6 +85,7 @@ Since December 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* 78, -105: [No Name](https://governance.decentraland.org/proposal/?id=04a5cb81-b22b-467f-9627-b7dacb95e76a)
 
 ## Grants
 
@@ -98,6 +99,9 @@ Since December 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Should the Ambassador Program skip the voting phase &amp; accept the 16 applicants?](https://governance.decentraland.org/proposal/?id=d3be7eda-470a-46ca-b0a3-abf7a4c094be)
+* [Create DAO Guidelines for Points of Interest(POIs)](https://governance.decentraland.org/proposal/?id=db6d30b3-321a-4569-9adc-2b14bad1a4d6)
+* [Determining maximum pause duration for projects delayed](https://governance.decentraland.org/proposal/?id=9f629f97-61f4-4dda-bd9c-a10cb178dc71)
 * [Should VP requirements for Grants be reduced if grantees decide to receive MANA?](https://governance.decentraland.org/proposal/?id=e4f2409d-6402-4b64-b419-240d869f99ec)
 * [Add search bar to find emotes](https://governance.decentraland.org/proposal/?id=0254da03-b74f-488a-85ee-a84ad0d521de)
 * [Decentraland Creators Workshop](https://governance.decentraland.org/proposal/?id=b8f5e372-cb30-4b07-9bfd-bbc5ca474537)
