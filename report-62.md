@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -37,6 +37,14 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 
 
 ## Polls
+
+#### [Decentraland DAO Treasury Diversification ](https://governance.decentraland.org/proposal/?id=5d11931b-32c3-4cea-81c9-25e45835374b)
+
+* 25% of the unused budget 22.068144135395563% 1,013,538 VP (34 votes)
+* 50% of the unused budget 77.6961808409531% 3,568,403 VP (21 votes)
+* 75% of the unused budget 0.00002177337616882205% 1 VP (2 votes)
+* Invalid question/options 0.23565325027516104% 10,823 VP (5 votes)
+
 
 #### [Proposal to Change In-World Spawn Point to Angzaar Plaza](https://governance.decentraland.org/proposal/?id=3f68097b-7a5d-4927-8bde-8e76fb733c22)
 
@@ -69,14 +77,17 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
+* 97, -116: [BIGTIME-space](https://governance.decentraland.org/proposal/?id=41a4418e-b86c-402b-8654-b025e8cf7e62)
 * 78, -105: [No Name](https://governance.decentraland.org/proposal/?id=04a5cb81-b22b-467f-9627-b7dacb95e76a)
 
 ## Grants
 
+* [MetaTime - A DCL Native P2E Metaverse | Game](https://governance.decentraland.org/proposal/?id=cb754327-7d29-4f29-9850-31319580f3de) (Higher Tier)
 * [Last Chance To Pay Software License Fees](https://governance.decentraland.org/proposal/?id=c040cd74-584b-4134-b639-bc9cc35dc8e9) (Higher Tier)
 
 ## Names Bans
 
+* [Ban the name 7777777](https://governance.decentraland.org/proposal/?id=f44f39db-31dd-4009-8c2d-59fd7af1fa5b)
 
 ## Catalysts
 
@@ -89,6 +100,5 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 * [Should VP requirements for Grants be reduced if grantees decide to receive MANA?](https://governance.decentraland.org/proposal/?id=e4f2409d-6402-4b64-b419-240d869f99ec)
 * [Add search bar to find emotes](https://governance.decentraland.org/proposal/?id=0254da03-b74f-488a-85ee-a84ad0d521de)
 * [Decentraland Creators Workshop](https://governance.decentraland.org/proposal/?id=b8f5e372-cb30-4b07-9bfd-bbc5ca474537)
-* [Decentraland DAO Treasury Diversification ](https://governance.decentraland.org/proposal/?id=5d11931b-32c3-4cea-81c9-25e45835374b)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
