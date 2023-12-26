@@ -91,7 +91,6 @@ Since December 1, 3 grants have been approved and the vesting contract(s) will b
 ## Grants
 
 * [MetaTime - A DCL Native P2E Metaverse | Game](https://governance.decentraland.org/proposal/?id=cb754327-7d29-4f29-9850-31319580f3de) (Higher Tier)
-* [Last Chance To Pay Software License Fees](https://governance.decentraland.org/proposal/?id=c040cd74-584b-4134-b639-bc9cc35dc8e9) (Higher Tier)
 
 ## Names Bans
 
@@ -106,7 +105,5 @@ Since December 1, 3 grants have been approved and the vesting contract(s) will b
 * [Create DAO Guidelines for Points of Interest(POIs)](https://governance.decentraland.org/proposal/?id=db6d30b3-321a-4569-9adc-2b14bad1a4d6)
 * [Determining maximum pause duration for projects delayed](https://governance.decentraland.org/proposal/?id=9f629f97-61f4-4dda-bd9c-a10cb178dc71)
 * [Should VP requirements for Grants be reduced if grantees decide to receive MANA?](https://governance.decentraland.org/proposal/?id=e4f2409d-6402-4b64-b419-240d869f99ec)
-* [Add search bar to find emotes](https://governance.decentraland.org/proposal/?id=0254da03-b74f-488a-85ee-a84ad0d521de)
-* [Decentraland Creators Workshop](https://governance.decentraland.org/proposal/?id=b8f5e372-cb30-4b07-9bfd-bbc5ca474537)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

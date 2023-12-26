@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -37,6 +37,20 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 
 
 ## Polls
+
+#### [Add search bar to find emotes](https://governance.decentraland.org/proposal/?id=0254da03-b74f-488a-85ee-a84ad0d521de)
+
+* Yes 99.99993477940437% 4,599,771 VP (57 votes)
+* No 0.00006522059562056744% 3 VP (1 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
+#### [Decentraland Creators Workshop](https://governance.decentraland.org/proposal/?id=b8f5e372-cb30-4b07-9bfd-bbc5ca474537)
+
+* Your idea is great, thats a next level for Decentraland community! 58.744305136258326% 2,372,780 VP (36 votes)
+* Your idea is garbage, community feels good as is. 0.00004951517219148706% 2 VP (2 votes)
+* Invalid question/options 41.25564534856948% 1,666,384 VP (7 votes)
+
 
 #### [Decentraland DAO Treasury Diversification ](https://governance.decentraland.org/proposal/?id=5d11931b-32c3-4cea-81c9-25e45835374b)
 
@@ -83,7 +97,6 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 ## Grants
 
 * [MetaTime - A DCL Native P2E Metaverse | Game](https://governance.decentraland.org/proposal/?id=cb754327-7d29-4f29-9850-31319580f3de) (Higher Tier)
-* [Last Chance To Pay Software License Fees](https://governance.decentraland.org/proposal/?id=c040cd74-584b-4134-b639-bc9cc35dc8e9) (Higher Tier)
 
 ## Names Bans
 
@@ -98,7 +111,5 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 * [Create DAO Guidelines for Points of Interest(POIs)](https://governance.decentraland.org/proposal/?id=db6d30b3-321a-4569-9adc-2b14bad1a4d6)
 * [Determining maximum pause duration for projects delayed](https://governance.decentraland.org/proposal/?id=9f629f97-61f4-4dda-bd9c-a10cb178dc71)
 * [Should VP requirements for Grants be reduced if grantees decide to receive MANA?](https://governance.decentraland.org/proposal/?id=e4f2409d-6402-4b64-b419-240d869f99ec)
-* [Add search bar to find emotes](https://governance.decentraland.org/proposal/?id=0254da03-b74f-488a-85ee-a84ad0d521de)
-* [Decentraland Creators Workshop](https://governance.decentraland.org/proposal/?id=b8f5e372-cb30-4b07-9bfd-bbc5ca474537)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
