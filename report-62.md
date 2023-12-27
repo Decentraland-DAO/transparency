@@ -38,6 +38,13 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+#### [Should VP requirements for Grants be reduced if grantees decide to receive MANA?](https://governance.decentraland.org/proposal/?id=e4f2409d-6402-4b64-b419-240d869f99ec)
+
+* Yes 58.94073716628812% 2,332,951 VP (41 votes)
+* No 41.05926283371188% 1,625,179 VP (10 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 #### [Add search bar to find emotes](https://governance.decentraland.org/proposal/?id=0254da03-b74f-488a-85ee-a84ad0d521de)
 
 * Yes 99.99993477940437% 4,599,771 VP (57 votes)
@@ -58,14 +65,6 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 * 50% of the unused budget 77.6961808409531% 3,568,403 VP (21 votes)
 * 75% of the unused budget 0.00002177337616882205% 1 VP (2 votes)
 * Invalid question/options 0.23565325027516104% 10,823 VP (5 votes)
-
-
-#### [Proposal to Change In-World Spawn Point to Angzaar Plaza](https://governance.decentraland.org/proposal/?id=3f68097b-7a5d-4927-8bde-8e76fb733c22)
-
-* YES - Angzaar Plaza  13.713344731103321% 1,013,061 VP (22 votes)
-* NO - Genesis Plaza 63.488083103550494% 4,690,125 VP (58 votes)
-* Undecided - Love them both 22.798572165346176% 1,684,224 VP (5 votes)
-* Invalid question/options 0% 0 VP (0 votes)
 
 
 #### [Improve the DAO Grants Program - Reviewing Grant Request Processes (Stage A)](https://governance.decentraland.org/proposal/?id=30338335-a93f-4607-be5b-e30c4ed05985)
@@ -110,6 +109,5 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 * [Should the Ambassador Program skip the voting phase &amp; accept the 16 applicants?](https://governance.decentraland.org/proposal/?id=d3be7eda-470a-46ca-b0a3-abf7a4c094be)
 * [Create DAO Guidelines for Points of Interest(POIs)](https://governance.decentraland.org/proposal/?id=db6d30b3-321a-4569-9adc-2b14bad1a4d6)
 * [Determining maximum pause duration for projects delayed](https://governance.decentraland.org/proposal/?id=9f629f97-61f4-4dda-bd9c-a10cb178dc71)
-* [Should VP requirements for Grants be reduced if grantees decide to receive MANA?](https://governance.decentraland.org/proposal/?id=e4f2409d-6402-4b64-b419-240d869f99ec)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
