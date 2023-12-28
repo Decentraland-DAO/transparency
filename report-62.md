@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 9 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -37,6 +37,29 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 
 
 ## Polls
+
+#### [Should the Ambassador Program skip the voting phase &amp; accept the 16 applicants?](https://governance.decentraland.org/proposal/?id=d3be7eda-470a-46ca-b0a3-abf7a4c094be)
+
+* Yes, accept all 16 applicants 99.95882554251368% 6,714,991 VP (61 votes)
+* No, let the community vote for 10 0.03368683922327051% 2,263 VP (3 votes)
+* Invalid question/options 0.0074876182630601255% 503 VP (1 votes)
+
+
+#### [Create DAO Guidelines for Points of Interest(POIs)](https://governance.decentraland.org/proposal/?id=db6d30b3-321a-4569-9adc-2b14bad1a4d6)
+
+* YES 100% 4,731,598 VP (41 votes)
+* NO 0% 0 VP (0 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
+#### [Determining maximum pause duration for projects delayed](https://governance.decentraland.org/proposal/?id=9f629f97-61f4-4dda-bd9c-a10cb178dc71)
+
+* 1 month 0.0010473418373879006% 58 VP (7 votes)
+* 3 months 99.99895265816261% 5,537,771 VP (34 votes)
+* 6 month 0% 0 VP (0 votes)
+* Other option (please, specify in the forum) 0% 0 VP (0 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
 
 #### [Should VP requirements for Grants be reduced if grantees decide to receive MANA?](https://governance.decentraland.org/proposal/?id=e4f2409d-6402-4b64-b419-240d869f99ec)
 
@@ -95,6 +118,7 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 
 ## Grants
 
+* [Duel Arena P2E Continuum, Refinement &amp; Game Expansion.](https://governance.decentraland.org/proposal/?id=77dd1e64-f3de-4b19-afcf-21e2d7fafbb1) (Higher Tier)
 * [MetaTime - A DCL Native P2E Metaverse | Game](https://governance.decentraland.org/proposal/?id=cb754327-7d29-4f29-9850-31319580f3de) (Higher Tier)
 
 ## Names Bans
@@ -106,8 +130,7 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
-* [Should the Ambassador Program skip the voting phase &amp; accept the 16 applicants?](https://governance.decentraland.org/proposal/?id=d3be7eda-470a-46ca-b0a3-abf7a4c094be)
-* [Create DAO Guidelines for Points of Interest(POIs)](https://governance.decentraland.org/proposal/?id=db6d30b3-321a-4569-9adc-2b14bad1a4d6)
-* [Determining maximum pause duration for projects delayed](https://governance.decentraland.org/proposal/?id=9f629f97-61f4-4dda-bd9c-a10cb178dc71)
+* [WHO IS RESPONSIBLE FOR THIS?](https://governance.decentraland.org/proposal/?id=df697ce5-50f4-4eab-a559-643e0876b227)
+* [Should the DAO fund DCLFilmClub2024?](https://governance.decentraland.org/proposal/?id=19a178a2-40a8-4e89-a948-1f13552dcda1)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
