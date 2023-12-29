@@ -90,6 +90,7 @@ Since December 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
+* [Enhancing &#34;Exodus: Goodbye World&#34; ( Revision and Resubmission )](https://governance.decentraland.org/proposal/?id=127d49ed-e592-49f6-8cdc-c626a03175a2) (Higher Tier)
 * [Duel Arena P2E Continuum, Refinement &amp; Game Expansion.](https://governance.decentraland.org/proposal/?id=77dd1e64-f3de-4b19-afcf-21e2d7fafbb1) (Higher Tier)
 * [MetaTime - A DCL Native P2E Metaverse | Game](https://governance.decentraland.org/proposal/?id=cb754327-7d29-4f29-9850-31319580f3de) (Higher Tier)
 
@@ -102,7 +103,6 @@ Since December 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
-* [WHO IS RESPONSIBLE FOR THIS?](https://governance.decentraland.org/proposal/?id=df697ce5-50f4-4eab-a559-643e0876b227)
 * [Should the DAO fund DCLFilmClub2024?](https://governance.decentraland.org/proposal/?id=19a178a2-40a8-4e89-a948-1f13552dcda1)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
