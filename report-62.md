@@ -9,12 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 9 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 9 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+1 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 78, -105: [No Name](https://governance.decentraland.org/proposal/?id=04a5cb81-b22b-467f-9627-b7dacb95e76a)
+
+* Yes 99.85977331103737% 5,674,972 VP (62 votes)
+* No 0.039820930746949514% 2,263 VP (1 votes)
+* Abstain 0.10040575821568445% 5,706 VP (4 votes)
 
 
 ## Name Bans
@@ -114,10 +121,11 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 ## Points of Interest
 
 * 97, -116: [BIGTIME-space](https://governance.decentraland.org/proposal/?id=41a4418e-b86c-402b-8654-b025e8cf7e62)
-* 78, -105: [No Name](https://governance.decentraland.org/proposal/?id=04a5cb81-b22b-467f-9627-b7dacb95e76a)
 
 ## Grants
 
+* [Building a Web3 Esports Epicentre in Decentraland](https://governance.decentraland.org/proposal/?id=c10710d1-50a5-4e07-9c32-0f0dce112b3a) (Higher Tier)
+* [LLMs Integration | Phase 1](https://governance.decentraland.org/proposal/?id=196eceae-0157-4bab-af8d-374933561bcc) (Higher Tier)
 * [Enhancing &#34;Exodus: Goodbye World&#34; ( Revision and Resubmission )](https://governance.decentraland.org/proposal/?id=127d49ed-e592-49f6-8cdc-c626a03175a2) (Higher Tier)
 * [Duel Arena P2E Continuum, Refinement &amp; Game Expansion.](https://governance.decentraland.org/proposal/?id=77dd1e64-f3de-4b19-afcf-21e2d7fafbb1) (Higher Tier)
 * [MetaTime - A DCL Native P2E Metaverse | Game](https://governance.decentraland.org/proposal/?id=cb754327-7d29-4f29-9850-31319580f3de) (Higher Tier)
@@ -131,6 +139,7 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Should we have an English class on Decentraland?](https://governance.decentraland.org/proposal/?id=12f51300-4511-4d4f-abd9-ed26656a1372)
 * [Should the DAO fund DCLFilmClub2024?](https://governance.decentraland.org/proposal/?id=19a178a2-40a8-4e89-a948-1f13552dcda1)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
