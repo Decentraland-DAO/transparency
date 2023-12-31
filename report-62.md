@@ -124,6 +124,7 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 
 ## Grants
 
+* [[resubmission] DCL-Metrics - fundamental community metrics #2](https://governance.decentraland.org/proposal/?id=5b63274e-1bfb-42cb-b381-396f04a3bb9f) (Higher Tier)
 * [Building a Web3 Esports Epicentre in Decentraland](https://governance.decentraland.org/proposal/?id=c10710d1-50a5-4e07-9c32-0f0dce112b3a) (Higher Tier)
 * [LLMs Integration | Phase 1](https://governance.decentraland.org/proposal/?id=196eceae-0157-4bab-af8d-374933561bcc) (Higher Tier)
 * [Enhancing &#34;Exodus: Goodbye World&#34; ( Revision and Resubmission )](https://governance.decentraland.org/proposal/?id=127d49ed-e592-49f6-8cdc-c626a03175a2) (Higher Tier)
