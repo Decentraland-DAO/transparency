@@ -9,12 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 9 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 9 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-1 points of interest have been added to Decentraland’s map since the last report.
+2 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 97, -116: [BIGTIME-space](https://governance.decentraland.org/proposal/?id=41a4418e-b86c-402b-8654-b025e8cf7e62)
+
+* Yes 98.80748421932502% 6,428,160 VP (56 votes)
+* No 0.007731631534112481% 503 VP (1 votes)
+* Abstain 1.1847841491408666% 77,079 VP (6 votes)
 
 
 #### 78, -105: [No Name](https://governance.decentraland.org/proposal/?id=04a5cb81-b22b-467f-9627-b7dacb95e76a)
@@ -120,7 +127,6 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
-* 97, -116: [BIGTIME-space](https://governance.decentraland.org/proposal/?id=41a4418e-b86c-402b-8654-b025e8cf7e62)
 
 ## Grants
 
@@ -133,7 +139,6 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 
 ## Names Bans
 
-* [Ban the name 7777777](https://governance.decentraland.org/proposal/?id=f44f39db-31dd-4009-8c2d-59fd7af1fa5b)
 
 ## Catalysts
 
