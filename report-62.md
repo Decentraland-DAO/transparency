@@ -146,6 +146,5 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 ## Polls
 
 * [Should we have an English class on Decentraland?](https://governance.decentraland.org/proposal/?id=12f51300-4511-4d4f-abd9-ed26656a1372)
-* [Should the DAO fund DCLFilmClub2024?](https://governance.decentraland.org/proposal/?id=19a178a2-40a8-4e89-a948-1f13552dcda1)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

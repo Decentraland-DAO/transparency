@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -30,6 +30,14 @@ Since January 1, 0 grants have been approved and the vesting contract(s) will be
 
 
 ## Polls
+
+#### [Should the DAO fund DCLFilmClub2024?](https://governance.decentraland.org/proposal/?id=19a178a2-40a8-4e89-a948-1f13552dcda1)
+
+* Yes 37.79304015013458% 653,888 VP (13 votes)
+* No 31.67067491782652% 547,960 VP (21 votes)
+* Abstain 30.536284932038903% 528,333 VP (3 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
 
 
 # Active Proposals
@@ -55,6 +63,5 @@ Since January 1, 0 grants have been approved and the vesting contract(s) will be
 ## Polls
 
 * [Should we have an English class on Decentraland?](https://governance.decentraland.org/proposal/?id=12f51300-4511-4d4f-abd9-ed26656a1372)
-* [Should the DAO fund DCLFilmClub2024?](https://governance.decentraland.org/proposal/?id=19a178a2-40a8-4e89-a948-1f13552dcda1)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
