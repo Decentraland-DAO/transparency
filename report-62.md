@@ -127,9 +127,20 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
+* -54, 34: [CRNFT.ART](https://governance.decentraland.org/proposal/?id=d73ec71b-72c5-4516-b450-7f8aaefae75d)
+* -108, -30: [Molins Astrology Center](https://governance.decentraland.org/proposal/?id=d90adde7-a894-4a17-9db5-2555657a4a59)
+* -51, -106: [Gallery187](https://governance.decentraland.org/proposal/?id=d0434dc9-bf31-41ea-a75d-b22cc59dba5d)
+* 103, 150: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=4886ff4b-7035-4d0a-bdc0-b7cf067b1ad2)
+* -135, 25: [No Name](https://governance.decentraland.org/proposal/?id=2a3575d0-1588-48c3-8172-177250c5176e)
+* -12, -45: [Angels Cove](https://governance.decentraland.org/proposal/?id=4ec3bc74-38ad-4472-89e4-0de1e709a756)
+* -31, 3: [PEV GROW SHOP](https://governance.decentraland.org/proposal/?id=4c7f69cf-dc71-456e-8585-d411626966c2)
+* -69, -139: [No Name](https://governance.decentraland.org/proposal/?id=ed68d0c1-602a-4d76-a97f-054b3d836cb7)
 
 ## Grants
 
+* [RESUBMISSION: A Multi-Platform Entertainment Series to Boost DCL Brand Awareness](https://governance.decentraland.org/proposal/?id=07676e9d-e2e3-4328-ac51-a28f7123ce50) (Higher Tier)
+* [Decentraland Creators Community](https://governance.decentraland.org/proposal/?id=6c2fd4e0-8ed5-47c6-99e1-1d7683c7229c) (Higher Tier)
+* [Decentraland DAO HQ - Lunar Summits](https://governance.decentraland.org/proposal/?id=f42896b1-aa56-4958-b489-77d73b2b0610) (Higher Tier)
 * [[resubmission] DCL-Metrics - fundamental community metrics #2](https://governance.decentraland.org/proposal/?id=5b63274e-1bfb-42cb-b381-396f04a3bb9f) (Higher Tier)
 * [Building a Web3 Esports Epicentre in Decentraland](https://governance.decentraland.org/proposal/?id=c10710d1-50a5-4e07-9c32-0f0dce112b3a) (Higher Tier)
 * [LLMs Integration | Phase 1](https://governance.decentraland.org/proposal/?id=196eceae-0157-4bab-af8d-374933561bcc) (Higher Tier)
