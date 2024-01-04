@@ -127,6 +127,19 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
+* 52, 90: [Galería Sur](https://governance.decentraland.org/proposal/?id=388ab0cb-1c79-4b5e-9acb-4ce908136c12)
+* 54, 103: [Delta Real Estate](https://governance.decentraland.org/proposal/?id=7677bddc-c913-48e1-9ef4-ff66b74797db)
+* 19, 53: [SENSE-GARDEN](https://governance.decentraland.org/proposal/?id=d0f6016f-0edc-47de-a41f-86e6587ff1e6)
+* 2, -39: [Edifice Metaversal](https://governance.decentraland.org/proposal/?id=cc666f77-5d8b-4c8a-85e5-3a5ca4f53aac)
+* -87, 68: [No Name](https://governance.decentraland.org/proposal/?id=7eb4fe4e-0597-44de-9357-1080dd64941b)
+* -130, 90: [No Name](https://governance.decentraland.org/proposal/?id=4564c02b-70e2-4945-aaec-3fbadb34f943)
+* -115, -67: [CLUB LEWWT](https://governance.decentraland.org/proposal/?id=44f9ff98-d52c-4069-a942-279a2b9adeb2)
+* -17, -122: [TheBlock](https://governance.decentraland.org/proposal/?id=a206262f-409e-42d7-8fce-a0a23e23cdeb)
+* 23, -123: [Cryptanthropy.com](https://governance.decentraland.org/proposal/?id=20b97aae-b137-4799-a3d9-dbd0eddaa1a4)
+* -79, -54: [No Name](https://governance.decentraland.org/proposal/?id=990d3c6c-9eba-4738-8c1c-dcef9ae24a72)
+* -80, -57: [PLEIN PLAZA](https://governance.decentraland.org/proposal/?id=229174c4-7e5b-4426-9037-485818572000)
+* 68, 31: [GDA Crypto Valley Estates](https://governance.decentraland.org/proposal/?id=9641324d-52c7-4523-8fc0-96a9a8b0bfe3)
+* -67, -114: [Franky&#39;s Tavern](https://governance.decentraland.org/proposal/?id=7a5a8e61-dacc-4550-89fb-8a6c9038bbb9)
 * -54, 34: [CRNFT.ART](https://governance.decentraland.org/proposal/?id=d73ec71b-72c5-4516-b450-7f8aaefae75d)
 * -108, -30: [Molins Astrology Center](https://governance.decentraland.org/proposal/?id=d90adde7-a894-4a17-9db5-2555657a4a59)
 * -51, -106: [Gallery187](https://governance.decentraland.org/proposal/?id=d0434dc9-bf31-41ea-a75d-b22cc59dba5d)
@@ -138,6 +151,8 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 
 ## Grants
 
+* [Digital Fashion for Decentraland: Elevating Metaverse Style ](https://governance.decentraland.org/proposal/?id=b7addc99-1f18-4584-bfd4-85d08e1e1fb0) (Lower Tier)
+* [Stream Dcl 20 hours minimum a week with events and extra content](https://governance.decentraland.org/proposal/?id=ff19c0eb-27fb-4119-b5f5-2e4a2fc4fbb8) (Lower Tier)
 * [RESUBMISSION: A Multi-Platform Entertainment Series to Boost DCL Brand Awareness](https://governance.decentraland.org/proposal/?id=07676e9d-e2e3-4328-ac51-a28f7123ce50) (Higher Tier)
 * [Decentraland Creators Community](https://governance.decentraland.org/proposal/?id=6c2fd4e0-8ed5-47c6-99e1-1d7683c7229c) (Higher Tier)
 * [Decentraland DAO HQ - Lunar Summits](https://governance.decentraland.org/proposal/?id=f42896b1-aa56-4958-b489-77d73b2b0610) (Higher Tier)
@@ -156,6 +171,5 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
-* [Should we have an English class on Decentraland?](https://governance.decentraland.org/proposal/?id=12f51300-4511-4d4f-abd9-ed26656a1372)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
