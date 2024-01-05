@@ -89,11 +89,13 @@ Since January 1, 0 grants have been approved and the vesting contract(s) will be
 
 ## Names Bans
 
+* [Ban the name Nazi](https://governance.decentraland.org/proposal/?id=4b19657a-d083-43fd-93c0-285ebb1ce608)
 
 ## Catalysts
 
 
 ## Polls
 
+* [Should easy to understand error messages be displayed?](https://governance.decentraland.org/proposal/?id=ec47bf37-d0b9-43ba-9e44-9c071eeec532)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
