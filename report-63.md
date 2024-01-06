@@ -63,7 +63,6 @@ Since January 1, 0 grants have been approved and the vesting contract(s) will be
 * -79, -54: [No Name](https://governance.decentraland.org/proposal/?id=990d3c6c-9eba-4738-8c1c-dcef9ae24a72)
 * -80, -57: [PLEIN PLAZA](https://governance.decentraland.org/proposal/?id=229174c4-7e5b-4426-9037-485818572000)
 * 68, 31: [GDA Crypto Valley Estates](https://governance.decentraland.org/proposal/?id=9641324d-52c7-4523-8fc0-96a9a8b0bfe3)
-* -67, -114: [Franky&#39;s Tavern](https://governance.decentraland.org/proposal/?id=7a5a8e61-dacc-4550-89fb-8a6c9038bbb9)
 * -54, 34: [CRNFT.ART](https://governance.decentraland.org/proposal/?id=d73ec71b-72c5-4516-b450-7f8aaefae75d)
 * -108, -30: [Molins Astrology Center](https://governance.decentraland.org/proposal/?id=d90adde7-a894-4a17-9db5-2555657a4a59)
 * -51, -106: [Gallery187](https://governance.decentraland.org/proposal/?id=d0434dc9-bf31-41ea-a75d-b22cc59dba5d)
