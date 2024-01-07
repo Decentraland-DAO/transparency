@@ -127,6 +127,8 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
+* 0, 0: [Genesis Plaza](https://governance.decentraland.org/proposal/?id=17188890-762a-42d8-b867-5613f0096426)
+* -40, 106: [Best Price Rare University estate](https://governance.decentraland.org/proposal/?id=eedd88b8-f2d2-49bc-86e3-4c76e0251b85)
 * 52, 90: [Galería Sur](https://governance.decentraland.org/proposal/?id=388ab0cb-1c79-4b5e-9acb-4ce908136c12)
 * 54, 103: [Delta Real Estate](https://governance.decentraland.org/proposal/?id=7677bddc-c913-48e1-9ef4-ff66b74797db)
 * 19, 53: [SENSE-GARDEN](https://governance.decentraland.org/proposal/?id=d0f6016f-0edc-47de-a41f-86e6587ff1e6)
@@ -150,6 +152,8 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 
 ## Grants
 
+* [Free Roblox-Style Multi Player Bingo Hall Smart Wearable](https://governance.decentraland.org/proposal/?id=7da81f30-a16b-422c-949a-2bfe486b480b) (Higher Tier)
+* [Hire a Social Media Outreach Coordinator](https://governance.decentraland.org/proposal/?id=fbd8050c-f302-40d0-ad8e-ee2dc9a80515) (Higher Tier)
 * [Digital Fashion for Decentraland: Elevating Metaverse Style ](https://governance.decentraland.org/proposal/?id=b7addc99-1f18-4584-bfd4-85d08e1e1fb0) (Lower Tier)
 * [Stream Dcl 20 hours minimum a week with events and extra content](https://governance.decentraland.org/proposal/?id=ff19c0eb-27fb-4119-b5f5-2e4a2fc4fbb8) (Lower Tier)
 * [RESUBMISSION: A Multi-Platform Entertainment Series to Boost DCL Brand Awareness](https://governance.decentraland.org/proposal/?id=07676e9d-e2e3-4328-ac51-a28f7123ce50) (Higher Tier)
@@ -171,6 +175,7 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Categorization of Points of Interest in Decentraland](https://governance.decentraland.org/proposal/?id=9fe6a5ba-3f55-41e9-aa3f-ab1450af4fd3)
 * [Should easy to understand error messages be displayed?](https://governance.decentraland.org/proposal/?id=ec47bf37-d0b9-43ba-9e44-9c071eeec532)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
