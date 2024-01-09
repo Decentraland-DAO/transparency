@@ -76,6 +76,7 @@ Since January 1, 0 grants have been approved and the vesting contract(s) will be
 
 ## Grants
 
+* [Comprehensive Promotion of DCL through Diverse NFT Collection ](https://governance.decentraland.org/proposal/?id=c9b6f5d0-77e2-4848-8778-245cae6444b8) (Lower Tier)
 * [Free Roblox-Style Multi Player Bingo Hall Smart Wearable](https://governance.decentraland.org/proposal/?id=7da81f30-a16b-422c-949a-2bfe486b480b) (Higher Tier)
 * [Hire a Social Media Outreach Coordinator](https://governance.decentraland.org/proposal/?id=fbd8050c-f302-40d0-ad8e-ee2dc9a80515) (Higher Tier)
 * [Digital Fashion for Decentraland: Elevating Metaverse Style ](https://governance.decentraland.org/proposal/?id=b7addc99-1f18-4584-bfd4-85d08e1e1fb0) (Lower Tier)
@@ -88,7 +89,6 @@ Since January 1, 0 grants have been approved and the vesting contract(s) will be
 * [LLMs Integration | Phase 1](https://governance.decentraland.org/proposal/?id=196eceae-0157-4bab-af8d-374933561bcc) (Higher Tier)
 * [Enhancing &#34;Exodus: Goodbye World&#34; ( Revision and Resubmission )](https://governance.decentraland.org/proposal/?id=127d49ed-e592-49f6-8cdc-c626a03175a2) (Higher Tier)
 * [Duel Arena P2E Continuum, Refinement &amp; Game Expansion.](https://governance.decentraland.org/proposal/?id=77dd1e64-f3de-4b19-afcf-21e2d7fafbb1) (Higher Tier)
-* [MetaTime - A DCL Native P2E Metaverse | Game](https://governance.decentraland.org/proposal/?id=cb754327-7d29-4f29-9850-31319580f3de) (Higher Tier)
 
 ## Names Bans
 
@@ -99,6 +99,7 @@ Since January 1, 0 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Implement a Linked Wearables Submission Fee](https://governance.decentraland.org/proposal/?id=ae2255e7-74af-44ab-91b8-8f4ae86c5608)
 * [Categorization of Points of Interest in Decentraland](https://governance.decentraland.org/proposal/?id=9fe6a5ba-3f55-41e9-aa3f-ab1450af4fd3)
 * [Should easy to understand error messages be displayed?](https://governance.decentraland.org/proposal/?id=ec47bf37-d0b9-43ba-9e44-9c071eeec532)
 
