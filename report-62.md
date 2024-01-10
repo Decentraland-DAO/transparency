@@ -141,17 +141,10 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 * -79, -54: [No Name](https://governance.decentraland.org/proposal/?id=990d3c6c-9eba-4738-8c1c-dcef9ae24a72)
 * -80, -57: [PLEIN PLAZA](https://governance.decentraland.org/proposal/?id=229174c4-7e5b-4426-9037-485818572000)
 * 68, 31: [GDA Crypto Valley Estates](https://governance.decentraland.org/proposal/?id=9641324d-52c7-4523-8fc0-96a9a8b0bfe3)
-* -54, 34: [CRNFT.ART](https://governance.decentraland.org/proposal/?id=d73ec71b-72c5-4516-b450-7f8aaefae75d)
-* -108, -30: [Molins Astrology Center](https://governance.decentraland.org/proposal/?id=d90adde7-a894-4a17-9db5-2555657a4a59)
-* -51, -106: [Gallery187](https://governance.decentraland.org/proposal/?id=d0434dc9-bf31-41ea-a75d-b22cc59dba5d)
-* 103, 150: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=4886ff4b-7035-4d0a-bdc0-b7cf067b1ad2)
-* -135, 25: [No Name](https://governance.decentraland.org/proposal/?id=2a3575d0-1588-48c3-8172-177250c5176e)
-* -12, -45: [Angels Cove](https://governance.decentraland.org/proposal/?id=4ec3bc74-38ad-4472-89e4-0de1e709a756)
-* -31, 3: [PEV GROW SHOP](https://governance.decentraland.org/proposal/?id=4c7f69cf-dc71-456e-8585-d411626966c2)
-* -69, -139: [No Name](https://governance.decentraland.org/proposal/?id=ed68d0c1-602a-4d76-a97f-054b3d836cb7)
 
 ## Grants
 
+* [Building a Web3 Esports Epicentre in Decentraland](https://governance.decentraland.org/proposal/?id=15bae901-913b-45c2-a404-5e67749b7219) (Higher Tier)
 * [Comprehensive Promotion of DCL through Diverse NFT Collection ](https://governance.decentraland.org/proposal/?id=c9b6f5d0-77e2-4848-8778-245cae6444b8) (Lower Tier)
 * [Free Roblox-Style Multi Player Bingo Hall Smart Wearable](https://governance.decentraland.org/proposal/?id=7da81f30-a16b-422c-949a-2bfe486b480b) (Higher Tier)
 * [Hire a Social Media Outreach Coordinator](https://governance.decentraland.org/proposal/?id=fbd8050c-f302-40d0-ad8e-ee2dc9a80515) (Higher Tier)
@@ -161,7 +154,6 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 * [Decentraland Creators Community](https://governance.decentraland.org/proposal/?id=6c2fd4e0-8ed5-47c6-99e1-1d7683c7229c) (Higher Tier)
 * [Decentraland DAO HQ - Lunar Summits](https://governance.decentraland.org/proposal/?id=f42896b1-aa56-4958-b489-77d73b2b0610) (Higher Tier)
 * [[resubmission] DCL-Metrics - fundamental community metrics #2](https://governance.decentraland.org/proposal/?id=5b63274e-1bfb-42cb-b381-396f04a3bb9f) (Higher Tier)
-* [Building a Web3 Esports Epicentre in Decentraland](https://governance.decentraland.org/proposal/?id=c10710d1-50a5-4e07-9c32-0f0dce112b3a) (Higher Tier)
 * [LLMs Integration | Phase 1](https://governance.decentraland.org/proposal/?id=196eceae-0157-4bab-af8d-374933561bcc) (Higher Tier)
 * [Enhancing &#34;Exodus: Goodbye World&#34; ( Revision and Resubmission )](https://governance.decentraland.org/proposal/?id=127d49ed-e592-49f6-8cdc-c626a03175a2) (Higher Tier)
 * [Duel Arena P2E Continuum, Refinement &amp; Game Expansion.](https://governance.decentraland.org/proposal/?id=77dd1e64-f3de-4b19-afcf-21e2d7fafbb1) (Higher Tier)
@@ -175,8 +167,9 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Should streaming in Decentraland be made easier?](https://governance.decentraland.org/proposal/?id=b7d98dd4-84ab-4c23-96f3-31b4177b615a)
+* [Should stale profiles be removed from the Content Servers? ](https://governance.decentraland.org/proposal/?id=3f4b6775-c43b-4e60-98d6-9133a6e2e4c2)
 * [Implement a Linked Wearables Submission Fee](https://governance.decentraland.org/proposal/?id=ae2255e7-74af-44ab-91b8-8f4ae86c5608)
 * [Categorization of Points of Interest in Decentraland](https://governance.decentraland.org/proposal/?id=9fe6a5ba-3f55-41e9-aa3f-ab1450af4fd3)
-* [Should easy to understand error messages be displayed?](https://governance.decentraland.org/proposal/?id=ec47bf37-d0b9-43ba-9e44-9c071eeec532)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
