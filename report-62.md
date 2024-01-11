@@ -127,25 +127,16 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
+* -75, 108: [Premium Estate](https://governance.decentraland.org/proposal/?id=c94b5c1e-4174-4345-b008-ff7f5e7457e9)
+* 100, 130: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=7a0c7cf9-9c02-49f1-9a16-2ef8345e2e80)
+* 159, 125: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=51c498f7-6f00-4708-bc55-bfea7dad57c1)
+* 88, -14: [PENGUIN CLUB](https://governance.decentraland.org/proposal/?id=c6d5203c-fbe2-4d36-8c73-5ba5d950bafe)
 * 0, 0: [Genesis Plaza](https://governance.decentraland.org/proposal/?id=17188890-762a-42d8-b867-5613f0096426)
 * -40, 106: [Best Price Rare University estate](https://governance.decentraland.org/proposal/?id=eedd88b8-f2d2-49bc-86e3-4c76e0251b85)
-* 52, 90: [Galería Sur](https://governance.decentraland.org/proposal/?id=388ab0cb-1c79-4b5e-9acb-4ce908136c12)
-* 54, 103: [Delta Real Estate](https://governance.decentraland.org/proposal/?id=7677bddc-c913-48e1-9ef4-ff66b74797db)
-* 19, 53: [SENSE-GARDEN](https://governance.decentraland.org/proposal/?id=d0f6016f-0edc-47de-a41f-86e6587ff1e6)
-* 2, -39: [Edifice Metaversal](https://governance.decentraland.org/proposal/?id=cc666f77-5d8b-4c8a-85e5-3a5ca4f53aac)
-* -87, 68: [No Name](https://governance.decentraland.org/proposal/?id=7eb4fe4e-0597-44de-9357-1080dd64941b)
-* -130, 90: [No Name](https://governance.decentraland.org/proposal/?id=4564c02b-70e2-4945-aaec-3fbadb34f943)
-* -115, -67: [CLUB LEWWT](https://governance.decentraland.org/proposal/?id=44f9ff98-d52c-4069-a942-279a2b9adeb2)
-* -17, -122: [TheBlock](https://governance.decentraland.org/proposal/?id=a206262f-409e-42d7-8fce-a0a23e23cdeb)
-* 23, -123: [Cryptanthropy.com](https://governance.decentraland.org/proposal/?id=20b97aae-b137-4799-a3d9-dbd0eddaa1a4)
-* -79, -54: [No Name](https://governance.decentraland.org/proposal/?id=990d3c6c-9eba-4738-8c1c-dcef9ae24a72)
-* -80, -57: [PLEIN PLAZA](https://governance.decentraland.org/proposal/?id=229174c4-7e5b-4426-9037-485818572000)
-* 68, 31: [GDA Crypto Valley Estates](https://governance.decentraland.org/proposal/?id=9641324d-52c7-4523-8fc0-96a9a8b0bfe3)
 
 ## Grants
 
 * [Building a Web3 Esports Epicentre in Decentraland](https://governance.decentraland.org/proposal/?id=15bae901-913b-45c2-a404-5e67749b7219) (Higher Tier)
-* [Comprehensive Promotion of DCL through Diverse NFT Collection ](https://governance.decentraland.org/proposal/?id=c9b6f5d0-77e2-4848-8778-245cae6444b8) (Lower Tier)
 * [Free Roblox-Style Multi Player Bingo Hall Smart Wearable](https://governance.decentraland.org/proposal/?id=7da81f30-a16b-422c-949a-2bfe486b480b) (Higher Tier)
 * [Hire a Social Media Outreach Coordinator](https://governance.decentraland.org/proposal/?id=fbd8050c-f302-40d0-ad8e-ee2dc9a80515) (Higher Tier)
 * [Digital Fashion for Decentraland: Elevating Metaverse Style ](https://governance.decentraland.org/proposal/?id=b7addc99-1f18-4584-bfd4-85d08e1e1fb0) (Lower Tier)
@@ -156,7 +147,6 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 * [[resubmission] DCL-Metrics - fundamental community metrics #2](https://governance.decentraland.org/proposal/?id=5b63274e-1bfb-42cb-b381-396f04a3bb9f) (Higher Tier)
 * [LLMs Integration | Phase 1](https://governance.decentraland.org/proposal/?id=196eceae-0157-4bab-af8d-374933561bcc) (Higher Tier)
 * [Enhancing &#34;Exodus: Goodbye World&#34; ( Revision and Resubmission )](https://governance.decentraland.org/proposal/?id=127d49ed-e592-49f6-8cdc-c626a03175a2) (Higher Tier)
-* [Duel Arena P2E Continuum, Refinement &amp; Game Expansion.](https://governance.decentraland.org/proposal/?id=77dd1e64-f3de-4b19-afcf-21e2d7fafbb1) (Higher Tier)
 
 ## Names Bans
 
