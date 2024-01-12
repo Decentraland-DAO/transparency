@@ -136,6 +136,7 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 
 ## Grants
 
+* [Duel Arena P2E Continuum, Refinement &amp; Game Expansion [ Resubmission ]](https://governance.decentraland.org/proposal/?id=1b8eef75-add3-49d6-9181-3061daaf22ec) (Higher Tier)
 * [Building a Web3 Esports Epicentre in Decentraland](https://governance.decentraland.org/proposal/?id=15bae901-913b-45c2-a404-5e67749b7219) (Higher Tier)
 * [Free Roblox-Style Multi Player Bingo Hall Smart Wearable](https://governance.decentraland.org/proposal/?id=7da81f30-a16b-422c-949a-2bfe486b480b) (Higher Tier)
 * [Hire a Social Media Outreach Coordinator](https://governance.decentraland.org/proposal/?id=fbd8050c-f302-40d0-ad8e-ee2dc9a80515) (Higher Tier)
@@ -146,11 +147,9 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 * [Decentraland DAO HQ - Lunar Summits](https://governance.decentraland.org/proposal/?id=f42896b1-aa56-4958-b489-77d73b2b0610) (Higher Tier)
 * [[resubmission] DCL-Metrics - fundamental community metrics #2](https://governance.decentraland.org/proposal/?id=5b63274e-1bfb-42cb-b381-396f04a3bb9f) (Higher Tier)
 * [LLMs Integration | Phase 1](https://governance.decentraland.org/proposal/?id=196eceae-0157-4bab-af8d-374933561bcc) (Higher Tier)
-* [Enhancing &#34;Exodus: Goodbye World&#34; ( Revision and Resubmission )](https://governance.decentraland.org/proposal/?id=127d49ed-e592-49f6-8cdc-c626a03175a2) (Higher Tier)
 
 ## Names Bans
 
-* [Ban the name Nazi](https://governance.decentraland.org/proposal/?id=4b19657a-d083-43fd-93c0-285ebb1ce608)
 
 ## Catalysts
 
@@ -160,6 +159,5 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 * [Should streaming in Decentraland be made easier?](https://governance.decentraland.org/proposal/?id=b7d98dd4-84ab-4c23-96f3-31b4177b615a)
 * [Should stale profiles be removed from the Content Servers? ](https://governance.decentraland.org/proposal/?id=3f4b6775-c43b-4e60-98d6-9133a6e2e4c2)
 * [Implement a Linked Wearables Submission Fee](https://governance.decentraland.org/proposal/?id=ae2255e7-74af-44ab-91b8-8f4ae86c5608)
-* [Categorization of Points of Interest in Decentraland](https://governance.decentraland.org/proposal/?id=9fe6a5ba-3f55-41e9-aa3f-ab1450af4fd3)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

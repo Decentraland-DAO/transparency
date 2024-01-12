@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 17 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
+In the two weeks since the last DAO Committee report, 17 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -145,10 +145,24 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since January 1, 0 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since January 1, 1 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Enhancing &#34;Exodus: Goodbye World&#34; ( Revision and Resubmission )](https://governance.decentraland.org/proposal/?id=127d49ed-e592-49f6-8cdc-c626a03175a2) (Higher Tier)
+
+* Yes 63.599664605366215% 6,329,728 VP (52 votes)
+* No 36.360777315747725% 3,618,790 VP (17 votes)
+* Abstain 0.039558078886063795% 3,937 VP (2 votes)
 
 
 ## Polls
+
+#### [Categorization of Points of Interest in Decentraland](https://governance.decentraland.org/proposal/?id=9fe6a5ba-3f55-41e9-aa3f-ab1450af4fd3)
+
+* YES: Implement categorization of POIs into the proposed categories. 84.1050910914823% 4,570,999 VP (49 votes)
+* NO: Keep the current system without categorization. 15.885653850527317% 863,364 VP (1 votes)
+* Invalid question/options 0.009255057990390196% 503 VP (1 votes)
+
 
 #### [Should easy to understand error messages be displayed?](https://governance.decentraland.org/proposal/?id=ec47bf37-d0b9-43ba-9e44-9c071eeec532)
 
@@ -186,6 +200,7 @@ Since January 1, 0 grants have been approved and the vesting contract(s) will be
 
 ## Grants
 
+* [Duel Arena P2E Continuum, Refinement &amp; Game Expansion [ Resubmission ]](https://governance.decentraland.org/proposal/?id=1b8eef75-add3-49d6-9181-3061daaf22ec) (Higher Tier)
 * [Building a Web3 Esports Epicentre in Decentraland](https://governance.decentraland.org/proposal/?id=15bae901-913b-45c2-a404-5e67749b7219) (Higher Tier)
 * [Free Roblox-Style Multi Player Bingo Hall Smart Wearable](https://governance.decentraland.org/proposal/?id=7da81f30-a16b-422c-949a-2bfe486b480b) (Higher Tier)
 * [Hire a Social Media Outreach Coordinator](https://governance.decentraland.org/proposal/?id=fbd8050c-f302-40d0-ad8e-ee2dc9a80515) (Higher Tier)
@@ -196,11 +211,9 @@ Since January 1, 0 grants have been approved and the vesting contract(s) will be
 * [Decentraland DAO HQ - Lunar Summits](https://governance.decentraland.org/proposal/?id=f42896b1-aa56-4958-b489-77d73b2b0610) (Higher Tier)
 * [[resubmission] DCL-Metrics - fundamental community metrics #2](https://governance.decentraland.org/proposal/?id=5b63274e-1bfb-42cb-b381-396f04a3bb9f) (Higher Tier)
 * [LLMs Integration | Phase 1](https://governance.decentraland.org/proposal/?id=196eceae-0157-4bab-af8d-374933561bcc) (Higher Tier)
-* [Enhancing &#34;Exodus: Goodbye World&#34; ( Revision and Resubmission )](https://governance.decentraland.org/proposal/?id=127d49ed-e592-49f6-8cdc-c626a03175a2) (Higher Tier)
 
 ## Names Bans
 
-* [Ban the name Nazi](https://governance.decentraland.org/proposal/?id=4b19657a-d083-43fd-93c0-285ebb1ce608)
 
 ## Catalysts
 
@@ -210,6 +223,5 @@ Since January 1, 0 grants have been approved and the vesting contract(s) will be
 * [Should streaming in Decentraland be made easier?](https://governance.decentraland.org/proposal/?id=b7d98dd4-84ab-4c23-96f3-31b4177b615a)
 * [Should stale profiles be removed from the Content Servers? ](https://governance.decentraland.org/proposal/?id=3f4b6775-c43b-4e60-98d6-9133a6e2e4c2)
 * [Implement a Linked Wearables Submission Fee](https://governance.decentraland.org/proposal/?id=ae2255e7-74af-44ab-91b8-8f4ae86c5608)
-* [Categorization of Points of Interest in Decentraland](https://governance.decentraland.org/proposal/?id=9fe6a5ba-3f55-41e9-aa3f-ab1450af4fd3)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
