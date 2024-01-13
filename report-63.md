@@ -200,6 +200,7 @@ Since January 1, 1 grants have been approved and the vesting contract(s) will be
 
 ## Grants
 
+* [Meta GamiMall Developement and Operation for 6 months](https://governance.decentraland.org/proposal/?id=7c7a1610-7a33-4e42-9b14-4cd328669c38) (Higher Tier)
 * [Duel Arena P2E Continuum, Refinement &amp; Game Expansion [ Resubmission ]](https://governance.decentraland.org/proposal/?id=1b8eef75-add3-49d6-9181-3061daaf22ec) (Higher Tier)
 * [Building a Web3 Esports Epicentre in Decentraland](https://governance.decentraland.org/proposal/?id=15bae901-913b-45c2-a404-5e67749b7219) (Higher Tier)
 * [Free Roblox-Style Multi Player Bingo Hall Smart Wearable](https://governance.decentraland.org/proposal/?id=7da81f30-a16b-422c-949a-2bfe486b480b) (Higher Tier)
@@ -210,7 +211,6 @@ Since January 1, 1 grants have been approved and the vesting contract(s) will be
 * [Decentraland Creators Community](https://governance.decentraland.org/proposal/?id=6c2fd4e0-8ed5-47c6-99e1-1d7683c7229c) (Higher Tier)
 * [Decentraland DAO HQ - Lunar Summits](https://governance.decentraland.org/proposal/?id=f42896b1-aa56-4958-b489-77d73b2b0610) (Higher Tier)
 * [[resubmission] DCL-Metrics - fundamental community metrics #2](https://governance.decentraland.org/proposal/?id=5b63274e-1bfb-42cb-b381-396f04a3bb9f) (Higher Tier)
-* [LLMs Integration | Phase 1](https://governance.decentraland.org/proposal/?id=196eceae-0157-4bab-af8d-374933561bcc) (Higher Tier)
 
 ## Names Bans
 
