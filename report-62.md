@@ -131,8 +131,6 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 * 100, 130: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=7a0c7cf9-9c02-49f1-9a16-2ef8345e2e80)
 * 159, 125: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=51c498f7-6f00-4708-bc55-bfea7dad57c1)
 * 88, -14: [PENGUIN CLUB](https://governance.decentraland.org/proposal/?id=c6d5203c-fbe2-4d36-8c73-5ba5d950bafe)
-* 0, 0: [Genesis Plaza](https://governance.decentraland.org/proposal/?id=17188890-762a-42d8-b867-5613f0096426)
-* -40, 106: [Best Price Rare University estate](https://governance.decentraland.org/proposal/?id=eedd88b8-f2d2-49bc-86e3-4c76e0251b85)
 
 ## Grants
 
@@ -146,7 +144,6 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 * [RESUBMISSION: A Multi-Platform Entertainment Series to Boost DCL Brand Awareness](https://governance.decentraland.org/proposal/?id=07676e9d-e2e3-4328-ac51-a28f7123ce50) (Higher Tier)
 * [Decentraland Creators Community](https://governance.decentraland.org/proposal/?id=6c2fd4e0-8ed5-47c6-99e1-1d7683c7229c) (Higher Tier)
 * [Decentraland DAO HQ - Lunar Summits](https://governance.decentraland.org/proposal/?id=f42896b1-aa56-4958-b489-77d73b2b0610) (Higher Tier)
-* [[resubmission] DCL-Metrics - fundamental community metrics #2](https://governance.decentraland.org/proposal/?id=5b63274e-1bfb-42cb-b381-396f04a3bb9f) (Higher Tier)
 
 ## Names Bans
 
@@ -158,6 +155,5 @@ Since December 16, 1 grants have been approved and the vesting contract(s) will 
 
 * [Should streaming in Decentraland be made easier?](https://governance.decentraland.org/proposal/?id=b7d98dd4-84ab-4c23-96f3-31b4177b615a)
 * [Should stale profiles be removed from the Content Servers? ](https://governance.decentraland.org/proposal/?id=3f4b6775-c43b-4e60-98d6-9133a6e2e4c2)
-* [Implement a Linked Wearables Submission Fee](https://governance.decentraland.org/proposal/?id=ae2255e7-74af-44ab-91b8-8f4ae86c5608)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
