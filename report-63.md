@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 18 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
+In the two weeks since the last DAO Committee report, 18 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -171,10 +171,17 @@ Since January 1, 2 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
-#### [Implement a Linked Wearables Submission Fee](https://governance.decentraland.org/proposal/?id=ae2255e7-74af-44ab-91b8-8f4ae86c5608)
+#### [Should streaming in Decentraland be made easier?](https://governance.decentraland.org/proposal/?id=b7d98dd4-84ab-4c23-96f3-31b4177b615a)
 
-* Yes 45.2332891721279% 946,773 VP (26 votes)
-* No 54.76671082787211% 1,146,316 VP (11 votes)
+* YES 57.08071807159239% 2,578,106 VP (21 votes)
+* NO 42.58425093051251% 1,923,359 VP (7 votes)
+* Invalid question/options 0.33503099789509666% 15,132 VP (8 votes)
+
+
+#### [Should stale profiles be removed from the Content Servers? ](https://governance.decentraland.org/proposal/?id=3f4b6775-c43b-4e60-98d6-9133a6e2e4c2)
+
+* Yes 84.04574784636871% 3,682,314 VP (54 votes)
+* No 15.954252153631291% 699,007 VP (2 votes)
 * Invalid question/options 0% 0 VP (0 votes)
 
 
@@ -219,6 +226,8 @@ Since January 1, 2 grants have been approved and the vesting contract(s) will be
 
 ## Grants
 
+* [Should we open source laser tag everywhere &amp; give out at DCLOnboarding.dcl.eth?](https://governance.decentraland.org/proposal/?id=574afc12-e16a-405e-9cdd-df982c10ca8e) (Higher Tier)
+* [~~ [ LAND Squad ** Weekly Hackathon ] ~~](https://governance.decentraland.org/proposal/?id=78a6b138-353c-425a-bf9e-02ef1c6683cc) (Higher Tier)
 * [Meta GamiMall Developement and Operation for 6 months](https://governance.decentraland.org/proposal/?id=7c7a1610-7a33-4e42-9b14-4cd328669c38) (Higher Tier)
 * [Duel Arena P2E Continuum, Refinement &amp; Game Expansion [ Resubmission ]](https://governance.decentraland.org/proposal/?id=1b8eef75-add3-49d6-9181-3061daaf22ec) (Higher Tier)
 * [Building a Web3 Esports Epicentre in Decentraland](https://governance.decentraland.org/proposal/?id=15bae901-913b-45c2-a404-5e67749b7219) (Higher Tier)
@@ -238,7 +247,8 @@ Since January 1, 2 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
-* [Should streaming in Decentraland be made easier?](https://governance.decentraland.org/proposal/?id=b7d98dd4-84ab-4c23-96f3-31b4177b615a)
-* [Should stale profiles be removed from the Content Servers? ](https://governance.decentraland.org/proposal/?id=3f4b6775-c43b-4e60-98d6-9133a6e2e4c2)
+* [Should all code generated using DAO funds be open source?](https://governance.decentraland.org/proposal/?id=e82e640a-aa4a-4353-8183-63339e76cfd0)
+* [Hire a technical liaison to facilitate communication with the Foundation?](https://governance.decentraland.org/proposal/?id=a3e3340d-8782-4a5e-8344-90cc74d709eb)
+* [Should we add a second sun in the sky to match the Decentraland logo?](https://governance.decentraland.org/proposal/?id=a96fd4e0-a439-40ef-bc6b-a43aff102db7)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
