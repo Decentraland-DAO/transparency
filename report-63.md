@@ -235,9 +235,6 @@ Since January 1, 2 grants have been approved and the vesting contract(s) will be
 * [Hire a Social Media Outreach Coordinator](https://governance.decentraland.org/proposal/?id=fbd8050c-f302-40d0-ad8e-ee2dc9a80515) (Higher Tier)
 * [Digital Fashion for Decentraland: Elevating Metaverse Style ](https://governance.decentraland.org/proposal/?id=b7addc99-1f18-4584-bfd4-85d08e1e1fb0) (Lower Tier)
 * [Stream Dcl 20 hours minimum a week with events and extra content](https://governance.decentraland.org/proposal/?id=ff19c0eb-27fb-4119-b5f5-2e4a2fc4fbb8) (Lower Tier)
-* [RESUBMISSION: A Multi-Platform Entertainment Series to Boost DCL Brand Awareness](https://governance.decentraland.org/proposal/?id=07676e9d-e2e3-4328-ac51-a28f7123ce50) (Higher Tier)
-* [Decentraland Creators Community](https://governance.decentraland.org/proposal/?id=6c2fd4e0-8ed5-47c6-99e1-1d7683c7229c) (Higher Tier)
-* [Decentraland DAO HQ - Lunar Summits](https://governance.decentraland.org/proposal/?id=f42896b1-aa56-4958-b489-77d73b2b0610) (Higher Tier)
 
 ## Names Bans
 
