@@ -219,13 +219,12 @@ Since January 1, 2 grants have been approved and the vesting contract(s) will be
 
 ## Points of Interest
 
-* -75, 108: [Premium Estate](https://governance.decentraland.org/proposal/?id=c94b5c1e-4174-4345-b008-ff7f5e7457e9)
-* 100, 130: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=7a0c7cf9-9c02-49f1-9a16-2ef8345e2e80)
-* 159, 125: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=51c498f7-6f00-4708-bc55-bfea7dad57c1)
-* 88, -14: [PENGUIN CLUB](https://governance.decentraland.org/proposal/?id=c6d5203c-fbe2-4d36-8c73-5ba5d950bafe)
 
 ## Grants
 
+* [Advanced Documentation](https://governance.decentraland.org/proposal/?id=6c438fbd-d6af-4437-9d34-efc6de155166) (Higher Tier)
+* [DAO Governance Squad 1H2024 Budget Renewal](https://governance.decentraland.org/proposal/?id=dcc5133c-2e22-4c63-b8eb-f50a758c6ae2) (Higher Tier)
+* [AI Integration into Decentraland](https://governance.decentraland.org/proposal/?id=42a603d2-9b6c-4d80-afb3-b2d029ffd367) (Higher Tier)
 * [Should we open source laser tag everywhere &amp; give out at DCLOnboarding.dcl.eth?](https://governance.decentraland.org/proposal/?id=574afc12-e16a-405e-9cdd-df982c10ca8e) (Higher Tier)
 * [~~ [ LAND Squad ** Weekly Hackathon ] ~~](https://governance.decentraland.org/proposal/?id=78a6b138-353c-425a-bf9e-02ef1c6683cc) (Higher Tier)
 * [Meta GamiMall Developement and Operation for 6 months](https://governance.decentraland.org/proposal/?id=7c7a1610-7a33-4e42-9b14-4cd328669c38) (Higher Tier)
@@ -233,8 +232,6 @@ Since January 1, 2 grants have been approved and the vesting contract(s) will be
 * [Building a Web3 Esports Epicentre in Decentraland](https://governance.decentraland.org/proposal/?id=15bae901-913b-45c2-a404-5e67749b7219) (Higher Tier)
 * [Free Roblox-Style Multi Player Bingo Hall Smart Wearable](https://governance.decentraland.org/proposal/?id=7da81f30-a16b-422c-949a-2bfe486b480b) (Higher Tier)
 * [Hire a Social Media Outreach Coordinator](https://governance.decentraland.org/proposal/?id=fbd8050c-f302-40d0-ad8e-ee2dc9a80515) (Higher Tier)
-* [Digital Fashion for Decentraland: Elevating Metaverse Style ](https://governance.decentraland.org/proposal/?id=b7addc99-1f18-4584-bfd4-85d08e1e1fb0) (Lower Tier)
-* [Stream Dcl 20 hours minimum a week with events and extra content](https://governance.decentraland.org/proposal/?id=ff19c0eb-27fb-4119-b5f5-2e4a2fc4fbb8) (Lower Tier)
 
 ## Names Bans
 
@@ -244,6 +241,8 @@ Since January 1, 2 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [New Decentraland DAO proposal for Tweets from Decentraland Twitter Account](https://governance.decentraland.org/proposal/?id=8547a010-bf41-4fbf-8ecf-05c198d68204)
+* [Should the reel camera take images from edge to edge of the screen?](https://governance.decentraland.org/proposal/?id=64d9f762-dfea-4d4a-91c6-e17345db9092)
 * [Should all code generated using DAO funds be open source?](https://governance.decentraland.org/proposal/?id=e82e640a-aa4a-4353-8183-63339e76cfd0)
 * [Hire a technical liaison to facilitate communication with the Foundation?](https://governance.decentraland.org/proposal/?id=a3e3340d-8782-4a5e-8344-90cc74d709eb)
 * [Should we add a second sun in the sky to match the Decentraland logo?](https://governance.decentraland.org/proposal/?id=a96fd4e0-a439-40ef-bc6b-a43aff102db7)
