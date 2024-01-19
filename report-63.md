@@ -241,6 +241,7 @@ Since January 1, 2 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Should LinkedWearables be shut down?](https://governance.decentraland.org/proposal/?id=2e756d76-b4fa-426c-b0b8-0a1e7790e5b5)
 * [New Decentraland DAO proposal for Tweets from Decentraland Twitter Account](https://governance.decentraland.org/proposal/?id=8547a010-bf41-4fbf-8ecf-05c198d68204)
 * [Should the reel camera take images from edge to edge of the screen?](https://governance.decentraland.org/proposal/?id=64d9f762-dfea-4d4a-91c6-e17345db9092)
 * [Should all code generated using DAO funds be open source?](https://governance.decentraland.org/proposal/?id=e82e640a-aa4a-4353-8183-63339e76cfd0)
