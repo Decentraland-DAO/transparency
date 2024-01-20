@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -59,6 +59,13 @@ Since January 16, 1 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+#### [Should we add a second sun in the sky to match the Decentraland logo?](https://governance.decentraland.org/proposal/?id=a96fd4e0-a439-40ef-bc6b-a43aff102db7)
+
+* Yes, put a second sun in the sky 99.94226126991211% 3,704,211 VP (107 votes)
+* No, keep it like it is 0.057738730087895075% 2,140 VP (3 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 
 # Active Proposals
 
@@ -86,11 +93,11 @@ Since January 16, 1 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Integration of GBM Auctions in Decentraland’s Marketplace](https://governance.decentraland.org/proposal/?id=f948fa30-6575-41c1-a2e5-57be5fc8ce4e)
 * [Should LinkedWearables be shut down?](https://governance.decentraland.org/proposal/?id=2e756d76-b4fa-426c-b0b8-0a1e7790e5b5)
 * [New Decentraland DAO proposal for Tweets from Decentraland Twitter Account](https://governance.decentraland.org/proposal/?id=8547a010-bf41-4fbf-8ecf-05c198d68204)
 * [Should the reel camera take images from edge to edge of the screen?](https://governance.decentraland.org/proposal/?id=64d9f762-dfea-4d4a-91c6-e17345db9092)
 * [Should all code generated using DAO funds be open source?](https://governance.decentraland.org/proposal/?id=e82e640a-aa4a-4353-8183-63339e76cfd0)
 * [Hire a technical liaison to facilitate communication with the Foundation?](https://governance.decentraland.org/proposal/?id=a3e3340d-8782-4a5e-8344-90cc74d709eb)
-* [Should we add a second sun in the sky to match the Decentraland logo?](https://governance.decentraland.org/proposal/?id=a96fd4e0-a439-40ef-bc6b-a43aff102db7)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
