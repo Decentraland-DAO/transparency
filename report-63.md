@@ -219,6 +219,7 @@ Since January 1, 2 grants have been approved and the vesting contract(s) will be
 
 ## Points of Interest
 
+* 14, 53: [SciArt Lab](https://governance.decentraland.org/proposal/?id=a109a194-e138-4441-a0bb-e7108f7cafd5)
 
 ## Grants
 
@@ -239,6 +240,7 @@ Since January 1, 2 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Eth Names as Unique Names](https://governance.decentraland.org/proposal/?id=50c159e2-c153-47b6-ab84-8f441e60edae)
 * [Integration of GBM Auctions in Decentraland’s Marketplace](https://governance.decentraland.org/proposal/?id=f948fa30-6575-41c1-a2e5-57be5fc8ce4e)
 * [Should LinkedWearables be shut down?](https://governance.decentraland.org/proposal/?id=2e756d76-b4fa-426c-b0b8-0a1e7790e5b5)
 * [New Decentraland DAO proposal for Tweets from Decentraland Twitter Account](https://governance.decentraland.org/proposal/?id=8547a010-bf41-4fbf-8ecf-05c198d68204)
