@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -58,6 +58,13 @@ Since January 16, 1 grants have been approved and the vesting contract(s) will b
 
 
 ## Polls
+
+#### [Should the reel camera take images from edge to edge of the screen?](https://governance.decentraland.org/proposal/?id=64d9f762-dfea-4d4a-91c6-e17345db9092)
+
+* Yes 61.781836014293276% 2,707,403 VP (68 votes)
+* No 25.408978460357464% 1,113,472 VP (24 votes)
+* Invalid question/options 12.809185525349259% 561,324 VP (22 votes)
+
 
 #### [Should all code generated using DAO funds be open source?](https://governance.decentraland.org/proposal/?id=e82e640a-aa4a-4353-8183-63339e76cfd0)
 
@@ -110,7 +117,5 @@ Since January 16, 1 grants have been approved and the vesting contract(s) will b
 * [Eth Names as Unique Names](https://governance.decentraland.org/proposal/?id=50c159e2-c153-47b6-ab84-8f441e60edae)
 * [Integration of GBM Auctions in Decentraland’s Marketplace](https://governance.decentraland.org/proposal/?id=f948fa30-6575-41c1-a2e5-57be5fc8ce4e)
 * [Should LinkedWearables be shut down?](https://governance.decentraland.org/proposal/?id=2e756d76-b4fa-426c-b0b8-0a1e7790e5b5)
-* [New Decentraland DAO proposal for Tweets from Decentraland Twitter Account](https://governance.decentraland.org/proposal/?id=8547a010-bf41-4fbf-8ecf-05c198d68204)
-* [Should the reel camera take images from edge to edge of the screen?](https://governance.decentraland.org/proposal/?id=64d9f762-dfea-4d4a-91c6-e17345db9092)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
