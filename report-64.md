@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -47,7 +47,14 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since January 16, 1 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since January 16, 2 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Building a Web3 Esports Epicentre in Decentraland](https://governance.decentraland.org/proposal/?id=15bae901-913b-45c2-a404-5e67749b7219) (Higher Tier)
+
+* Yes 72.78204001216744% 8,037,023 VP (49 votes)
+* No 27.190638501416924% 3,002,551 VP (17 votes)
+* Abstain 0.027321486415642852% 3,017 VP (2 votes)
 
 
 #### [Stream Dcl 20 hours minimum a week with events and extra content](https://governance.decentraland.org/proposal/?id=ff19c0eb-27fb-4119-b5f5-2e4a2fc4fbb8) (Lower Tier)
@@ -58,6 +65,13 @@ Since January 16, 1 grants have been approved and the vesting contract(s) will b
 
 
 ## Polls
+
+#### [Should LinkedWearables be shut down?](https://governance.decentraland.org/proposal/?id=2e756d76-b4fa-426c-b0b8-0a1e7790e5b5)
+
+* Yes 7.027062558965946% 554,818 VP (26 votes)
+* No 92.72503507401164% 7,321,056 VP (60 votes)
+* Invalid question/options 0.24790236702241178% 19,573 VP (9 votes)
+
 
 #### [Should the reel camera take images from edge to edge of the screen?](https://governance.decentraland.org/proposal/?id=64d9f762-dfea-4d4a-91c6-e17345db9092)
 
@@ -104,7 +118,6 @@ Since January 16, 1 grants have been approved and the vesting contract(s) will b
 * [~~ [ LAND Squad ** Weekly Hackathon ] ~~](https://governance.decentraland.org/proposal/?id=78a6b138-353c-425a-bf9e-02ef1c6683cc) (Higher Tier)
 * [Meta GamiMall Developement and Operation for 6 months](https://governance.decentraland.org/proposal/?id=7c7a1610-7a33-4e42-9b14-4cd328669c38) (Higher Tier)
 * [Duel Arena P2E Continuum, Refinement &amp; Game Expansion [ Resubmission ]](https://governance.decentraland.org/proposal/?id=1b8eef75-add3-49d6-9181-3061daaf22ec) (Higher Tier)
-* [Building a Web3 Esports Epicentre in Decentraland](https://governance.decentraland.org/proposal/?id=15bae901-913b-45c2-a404-5e67749b7219) (Higher Tier)
 
 ## Names Bans
 
@@ -114,8 +127,8 @@ Since January 16, 1 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [asking who would sponsor](https://governance.decentraland.org/proposal/?id=aeb31674-d3f7-4d71-a505-58dd41d33f29)
 * [Eth Names as Unique Names](https://governance.decentraland.org/proposal/?id=50c159e2-c153-47b6-ab84-8f441e60edae)
 * [Integration of GBM Auctions in Decentraland’s Marketplace](https://governance.decentraland.org/proposal/?id=f948fa30-6575-41c1-a2e5-57be5fc8ce4e)
-* [Should LinkedWearables be shut down?](https://governance.decentraland.org/proposal/?id=2e756d76-b4fa-426c-b0b8-0a1e7790e5b5)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
