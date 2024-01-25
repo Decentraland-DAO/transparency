@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -65,6 +65,14 @@ Since January 16, 2 grants have been approved and the vesting contract(s) will b
 
 
 ## Polls
+
+#### [Integration of GBM Auctions in Decentraland’s Marketplace](https://governance.decentraland.org/proposal/?id=f948fa30-6575-41c1-a2e5-57be5fc8ce4e)
+
+* Yes, Full Integration of GBM Auctions into the marketplace 46.08464910310544% 3,939,596 VP (35 votes)
+* Yes, Add GBM Auctions dApp as a stand alone Decentraland auction house 52.86328487632138% 4,519,075 VP (38 votes)
+* No Integration 0.000023395621836911928% 2 VP (2 votes)
+* Invalid question/options 1.052042624951337% 89,935 VP (2 votes)
+
 
 #### [Should LinkedWearables be shut down?](https://governance.decentraland.org/proposal/?id=2e756d76-b4fa-426c-b0b8-0a1e7790e5b5)
 
@@ -127,8 +135,9 @@ Since January 16, 2 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Integrate Teller DeFi Lending into Decentraland ](https://governance.decentraland.org/proposal/?id=d11d009c-0f44-444a-a595-b6c93e774b75)
+* [Should Decentraland X account become a &#34;Verified Organization&#34;](https://governance.decentraland.org/proposal/?id=ea19767c-ec1f-4506-9149-4cd32a305567)
 * [asking who would sponsor](https://governance.decentraland.org/proposal/?id=aeb31674-d3f7-4d71-a505-58dd41d33f29)
 * [Eth Names as Unique Names](https://governance.decentraland.org/proposal/?id=50c159e2-c153-47b6-ab84-8f441e60edae)
-* [Integration of GBM Auctions in Decentraland’s Marketplace](https://governance.decentraland.org/proposal/?id=f948fa30-6575-41c1-a2e5-57be5fc8ce4e)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

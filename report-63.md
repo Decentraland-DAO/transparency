@@ -239,8 +239,9 @@ Since January 1, 2 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Integrate Teller DeFi Lending into Decentraland ](https://governance.decentraland.org/proposal/?id=d11d009c-0f44-444a-a595-b6c93e774b75)
+* [Should Decentraland X account become a &#34;Verified Organization&#34;](https://governance.decentraland.org/proposal/?id=ea19767c-ec1f-4506-9149-4cd32a305567)
 * [asking who would sponsor](https://governance.decentraland.org/proposal/?id=aeb31674-d3f7-4d71-a505-58dd41d33f29)
 * [Eth Names as Unique Names](https://governance.decentraland.org/proposal/?id=50c159e2-c153-47b6-ab84-8f441e60edae)
-* [Integration of GBM Auctions in Decentraland’s Marketplace](https://governance.decentraland.org/proposal/?id=f948fa30-6575-41c1-a2e5-57be5fc8ce4e)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
