@@ -223,13 +223,13 @@ Since January 1, 2 grants have been approved and the vesting contract(s) will be
 
 ## Grants
 
+* [RESUBMISSION: A Multi-Platform Entertainment Series to Boost DCL Brand Awareness](https://governance.decentraland.org/proposal/?id=98f0e12c-a5d0-4cb4-a5f6-15940a53d3bc) (Higher Tier)
 * [Advanced Documentation](https://governance.decentraland.org/proposal/?id=6c438fbd-d6af-4437-9d34-efc6de155166) (Higher Tier)
 * [DAO Governance Squad 1H2024 Budget Renewal](https://governance.decentraland.org/proposal/?id=dcc5133c-2e22-4c63-b8eb-f50a758c6ae2) (Higher Tier)
 * [AI Integration into Decentraland](https://governance.decentraland.org/proposal/?id=42a603d2-9b6c-4d80-afb3-b2d029ffd367) (Higher Tier)
 * [Should we open source laser tag everywhere &amp; give out at DCLOnboarding.dcl.eth?](https://governance.decentraland.org/proposal/?id=574afc12-e16a-405e-9cdd-df982c10ca8e) (Higher Tier)
 * [~~ [ LAND Squad ** Weekly Hackathon ] ~~](https://governance.decentraland.org/proposal/?id=78a6b138-353c-425a-bf9e-02ef1c6683cc) (Higher Tier)
 * [Meta GamiMall Developement and Operation for 6 months](https://governance.decentraland.org/proposal/?id=7c7a1610-7a33-4e42-9b14-4cd328669c38) (Higher Tier)
-* [Duel Arena P2E Continuum, Refinement &amp; Game Expansion [ Resubmission ]](https://governance.decentraland.org/proposal/?id=1b8eef75-add3-49d6-9181-3061daaf22ec) (Higher Tier)
 
 ## Names Bans
 
@@ -239,6 +239,8 @@ Since January 1, 2 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Resolve DCL Names to Web2 DNS &#34;DCL.gg&#34; so every Name Holder Can Build A Website](https://governance.decentraland.org/proposal/?id=b9af8f14-a0bc-4193-8d60-ce91a3c666ed)
+* [Proof of Personhood passport Integration into Decentraland](https://governance.decentraland.org/proposal/?id=8b797684-c2fe-44ff-8a12-fe602ce36d1b)
 * [Integrate Teller DeFi Lending into Decentraland ](https://governance.decentraland.org/proposal/?id=d11d009c-0f44-444a-a595-b6c93e774b75)
 * [Should Decentraland X account become a &#34;Verified Organization&#34;](https://governance.decentraland.org/proposal/?id=ea19767c-ec1f-4506-9149-4cd32a305567)
 * [asking who would sponsor](https://governance.decentraland.org/proposal/?id=aeb31674-d3f7-4d71-a505-58dd41d33f29)
