@@ -219,17 +219,19 @@ Since January 1, 2 grants have been approved and the vesting contract(s) will be
 
 ## Points of Interest
 
+* 104, 78: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=77849a3f-f978-46e8-8050-87e19b057a14)
 * 14, 53: [SciArt Lab](https://governance.decentraland.org/proposal/?id=a109a194-e138-4441-a0bb-e7108f7cafd5)
 
 ## Grants
 
+* [600 posters to boost Decentraland](https://governance.decentraland.org/proposal/?id=56f47cf0-d3a4-4c78-aa52-256c45fcfc65) (Lower Tier)
+* [Soul Magic Game Development](https://governance.decentraland.org/proposal/?id=d266f630-0e4b-4640-9e3b-4f5d9142e1ae) (Higher Tier)
 * [RESUBMISSION: A Multi-Platform Entertainment Series to Boost DCL Brand Awareness](https://governance.decentraland.org/proposal/?id=98f0e12c-a5d0-4cb4-a5f6-15940a53d3bc) (Higher Tier)
 * [Advanced Documentation](https://governance.decentraland.org/proposal/?id=6c438fbd-d6af-4437-9d34-efc6de155166) (Higher Tier)
 * [DAO Governance Squad 1H2024 Budget Renewal](https://governance.decentraland.org/proposal/?id=dcc5133c-2e22-4c63-b8eb-f50a758c6ae2) (Higher Tier)
 * [AI Integration into Decentraland](https://governance.decentraland.org/proposal/?id=42a603d2-9b6c-4d80-afb3-b2d029ffd367) (Higher Tier)
 * [Should we open source laser tag everywhere &amp; give out at DCLOnboarding.dcl.eth?](https://governance.decentraland.org/proposal/?id=574afc12-e16a-405e-9cdd-df982c10ca8e) (Higher Tier)
 * [~~ [ LAND Squad ** Weekly Hackathon ] ~~](https://governance.decentraland.org/proposal/?id=78a6b138-353c-425a-bf9e-02ef1c6683cc) (Higher Tier)
-* [Meta GamiMall Developement and Operation for 6 months](https://governance.decentraland.org/proposal/?id=7c7a1610-7a33-4e42-9b14-4cd328669c38) (Higher Tier)
 
 ## Names Bans
 
@@ -239,11 +241,12 @@ Since January 1, 2 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Should Committee Salaries be reevaluated?](https://governance.decentraland.org/proposal/?id=0b54cb86-255e-4ecb-969b-3d58333b1413)
+* [Did you approve the new Genesis Plaza?  Do you Approve Jump Ins?](https://governance.decentraland.org/proposal/?id=71909b6f-ab0d-4f41-bf09-fde8e5b78a22)
 * [Resolve DCL Names to Web2 DNS &#34;DCL.gg&#34; so every Name Holder Can Build A Website](https://governance.decentraland.org/proposal/?id=b9af8f14-a0bc-4193-8d60-ce91a3c666ed)
 * [Proof of Personhood passport Integration into Decentraland](https://governance.decentraland.org/proposal/?id=8b797684-c2fe-44ff-8a12-fe602ce36d1b)
 * [Integrate Teller DeFi Lending into Decentraland ](https://governance.decentraland.org/proposal/?id=d11d009c-0f44-444a-a595-b6c93e774b75)
 * [Should Decentraland X account become a &#34;Verified Organization&#34;](https://governance.decentraland.org/proposal/?id=ea19767c-ec1f-4506-9149-4cd32a305567)
 * [asking who would sponsor](https://governance.decentraland.org/proposal/?id=aeb31674-d3f7-4d71-a505-58dd41d33f29)
-* [Eth Names as Unique Names](https://governance.decentraland.org/proposal/?id=50c159e2-c153-47b6-ab84-8f441e60edae)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
