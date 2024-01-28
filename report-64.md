@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 7 community polls have passed.
+In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -80,26 +80,12 @@ Since January 16, 4 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
-#### [Eth Names as Unique Names](https://governance.decentraland.org/proposal/?id=50c159e2-c153-47b6-ab84-8f441e60edae)
-
-* Implement Eth Names As Unique Names 2.433549061199877% 121,391 VP (15 votes)
-* Do Not Implement Eth Names As Unique Names 74.84740576264642% 3,733,560 VP (35 votes)
-* Invalid question/options 22.719045176153703% 1,133,278 VP (3 votes)
-
-
 #### [Integration of GBM Auctions in Decentraland’s Marketplace](https://governance.decentraland.org/proposal/?id=f948fa30-6575-41c1-a2e5-57be5fc8ce4e)
 
 * Yes, Full Integration of GBM Auctions into the marketplace 46.08464910310544% 3,939,596 VP (35 votes)
 * Yes, Add GBM Auctions dApp as a stand alone Decentraland auction house 52.86328487632138% 4,519,075 VP (38 votes)
 * No Integration 0.000023395621836911928% 2 VP (2 votes)
 * Invalid question/options 1.052042624951337% 89,935 VP (2 votes)
-
-
-#### [Should LinkedWearables be shut down?](https://governance.decentraland.org/proposal/?id=2e756d76-b4fa-426c-b0b8-0a1e7790e5b5)
-
-* Yes 7.027062558965946% 554,818 VP (26 votes)
-* No 92.72503507401164% 7,321,056 VP (60 votes)
-* Invalid question/options 0.24790236702241178% 19,573 VP (9 votes)
 
 
 #### [Should the reel camera take images from edge to edge of the screen?](https://governance.decentraland.org/proposal/?id=64d9f762-dfea-4d4a-91c6-e17345db9092)
