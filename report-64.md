@@ -9,12 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 3 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
+In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 4 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-3 points of interest have been added to Decentraland’s map since the last report.
+4 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 14, 53: [SciArt Lab](https://governance.decentraland.org/proposal/?id=a109a194-e138-4441-a0bb-e7108f7cafd5)
+
+* Yes 50.15603753878861% 2,726,257 VP (46 votes)
+* No 1.8056863048474754% 98,149 VP (8 votes)
+* Abstain 48.03827615636391% 2,611,145 VP (8 votes)
 
 
 #### 100, 130: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=7a0c7cf9-9c02-49f1-9a16-2ef8345e2e80)
@@ -123,7 +130,6 @@ Since January 16, 4 grants have been approved and the vesting contract(s) will b
 ## Points of Interest
 
 * 104, 78: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=77849a3f-f978-46e8-8050-87e19b057a14)
-* 14, 53: [SciArt Lab](https://governance.decentraland.org/proposal/?id=a109a194-e138-4441-a0bb-e7108f7cafd5)
 
 ## Grants
 
@@ -134,7 +140,6 @@ Since January 16, 4 grants have been approved and the vesting contract(s) will b
 * [DAO Governance Squad 1H2024 Budget Renewal](https://governance.decentraland.org/proposal/?id=dcc5133c-2e22-4c63-b8eb-f50a758c6ae2) (Higher Tier)
 * [AI Integration into Decentraland](https://governance.decentraland.org/proposal/?id=42a603d2-9b6c-4d80-afb3-b2d029ffd367) (Higher Tier)
 * [Should we open source laser tag everywhere &amp; give out at DCLOnboarding.dcl.eth?](https://governance.decentraland.org/proposal/?id=574afc12-e16a-405e-9cdd-df982c10ca8e) (Higher Tier)
-* [~~ [ LAND Squad ** Weekly Hackathon ] ~~](https://governance.decentraland.org/proposal/?id=78a6b138-353c-425a-bf9e-02ef1c6683cc) (Higher Tier)
 
 ## Names Bans
 
@@ -150,6 +155,5 @@ Since January 16, 4 grants have been approved and the vesting contract(s) will b
 * [Proof of Personhood passport Integration into Decentraland](https://governance.decentraland.org/proposal/?id=8b797684-c2fe-44ff-8a12-fe602ce36d1b)
 * [Integrate Teller DeFi Lending into Decentraland ](https://governance.decentraland.org/proposal/?id=d11d009c-0f44-444a-a595-b6c93e774b75)
 * [Should Decentraland X account become a &#34;Verified Organization&#34;](https://governance.decentraland.org/proposal/?id=ea19767c-ec1f-4506-9149-4cd32a305567)
-* [asking who would sponsor](https://governance.decentraland.org/proposal/?id=aeb31674-d3f7-4d71-a505-58dd41d33f29)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
