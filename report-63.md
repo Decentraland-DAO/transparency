@@ -224,6 +224,7 @@ Since January 1, 2 grants have been approved and the vesting contract(s) will be
 
 ## Grants
 
+* [Wearables Tax Exposure Tool](https://governance.decentraland.org/proposal/?id=0a7a528c-210a-4783-83fd-7683e5038566) (Lower Tier)
 * [&#34;EmpathyVision&#34;.  Bridging Communities for people with the disadvantaged. ](https://governance.decentraland.org/proposal/?id=062f0e62-afff-4287-a45e-c652ced5f299) (Higher Tier)
 * [600 posters to boost Decentraland](https://governance.decentraland.org/proposal/?id=56f47cf0-d3a4-4c78-aa52-256c45fcfc65) (Lower Tier)
 * [Soul Magic Game Development](https://governance.decentraland.org/proposal/?id=d266f630-0e4b-4640-9e3b-4f5d9142e1ae) (Higher Tier)
@@ -245,7 +246,5 @@ Since January 1, 2 grants have been approved and the vesting contract(s) will be
 * [Should the Revocation Committee have 5 total members instead of 7?](https://governance.decentraland.org/proposal/?id=e8b0f3a6-40d5-4376-b864-fdf2c8da5109)
 * [Should Committee Salaries be reevaluated?](https://governance.decentraland.org/proposal/?id=0b54cb86-255e-4ecb-969b-3d58333b1413)
 * [Did you approve the new Genesis Plaza?  Do you Approve Jump Ins?](https://governance.decentraland.org/proposal/?id=71909b6f-ab0d-4f41-bf09-fde8e5b78a22)
-* [Resolve DCL Names to Web2 DNS &#34;DCL.gg&#34; so every Name Holder Can Build A Website](https://governance.decentraland.org/proposal/?id=b9af8f14-a0bc-4193-8d60-ce91a3c666ed)
-* [Proof of Personhood passport Integration into Decentraland](https://governance.decentraland.org/proposal/?id=8b797684-c2fe-44ff-8a12-fe602ce36d1b)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
