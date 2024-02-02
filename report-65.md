@@ -45,13 +45,15 @@ Since February 1, 1 grants have been approved and the vesting contract(s) will b
 
 * -118, 130: [No Name](https://governance.decentraland.org/proposal/?id=88455b21-52ff-453e-a8ea-a3d65d96bc35)
 * 30, 72: [Metalife - metalifeamm@gmail.com](https://governance.decentraland.org/proposal/?id=afe3e9da-bb5e-462e-a49d-e85235ffd147)
-* 104, 78: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=77849a3f-f978-46e8-8050-87e19b057a14)
 
 ## Grants
 
+* [Facemoon: Enabling Decentraland&#39;s Next-Level Experience](https://governance.decentraland.org/proposal/?id=034fbe30-038d-4349-b6ee-fcb80469b64e) (Lower Tier)
+* [Decentraland Wellness Platform - Democratized Psychological Assistance](https://governance.decentraland.org/proposal/?id=9f29525c-8a99-4b95-b4bc-6943d1c05961) (Higher Tier)
+* [Decentraland Brazil Community: Deepening the Work](https://governance.decentraland.org/proposal/?id=3d055992-65c0-482b-82c6-dc26f71aff56) (Lower Tier)
+* [Finished job/resubmission.. [Polkadot integration]](https://governance.decentraland.org/proposal/?id=79b5abda-262e-4b76-a948-d7cc6f5719ac) (Lower Tier)
 * [Cross Reality Music Events](https://governance.decentraland.org/proposal/?id=f4b489d0-10cb-4cb4-8b1a-7c3d6a61e350) (Lower Tier)
 * [# Multiplayer UI card games! [SNAP] [POKER] [+MORE]](https://governance.decentraland.org/proposal/?id=4715e268-ec34-49c4-ae28-46dc52ab18b3) (Higher Tier)
-* [Decentraland Brazil Community: Deepening the Work](https://governance.decentraland.org/proposal/?id=a145e056-7c59-45d0-b738-ca8ee121141f) (Higher Tier)
 * [Wearables Tax Exposure Tool](https://governance.decentraland.org/proposal/?id=0a7a528c-210a-4783-83fd-7683e5038566) (Lower Tier)
 * [&#34;EmpathyVision&#34;.  Bridging Communities for people with the disadvantaged. ](https://governance.decentraland.org/proposal/?id=062f0e62-afff-4287-a45e-c652ced5f299) (Higher Tier)
 * [600 posters to boost Decentraland](https://governance.decentraland.org/proposal/?id=56f47cf0-d3a4-4c78-aa52-256c45fcfc65) (Lower Tier)
