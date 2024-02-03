@@ -48,9 +48,8 @@ Since February 1, 1 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
+* [This is a test, don&#39;t vote](https://governance.decentraland.org/proposal/?id=46d1c641-3696-4dc7-acd8-47c144ea480b) (Lower Tier)
 * [Facemoon: Enabling Decentraland&#39;s Next-Level Experience](https://governance.decentraland.org/proposal/?id=034fbe30-038d-4349-b6ee-fcb80469b64e) (Lower Tier)
-* [Decentraland Wellness Platform - Democratized Psychological Assistance](https://governance.decentraland.org/proposal/?id=9f29525c-8a99-4b95-b4bc-6943d1c05961) (Higher Tier)
-* [Decentraland Brazil Community: Deepening the Work](https://governance.decentraland.org/proposal/?id=3d055992-65c0-482b-82c6-dc26f71aff56) (Lower Tier)
 * [Finished job/resubmission.. [Polkadot integration]](https://governance.decentraland.org/proposal/?id=79b5abda-262e-4b76-a948-d7cc6f5719ac) (Lower Tier)
 * [Cross Reality Music Events](https://governance.decentraland.org/proposal/?id=f4b489d0-10cb-4cb4-8b1a-7c3d6a61e350) (Lower Tier)
 * [# Multiplayer UI card games! [SNAP] [POKER] [+MORE]](https://governance.decentraland.org/proposal/?id=4715e268-ec34-49c4-ae28-46dc52ab18b3) (Higher Tier)
@@ -68,6 +67,7 @@ Since February 1, 1 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Open up discussion for a Metaverse Layer 2 that developed by DCL ](https://governance.decentraland.org/proposal/?id=fbf7b820-c643-46ec-a6cc-2a60cacda83c)
 * [Should the DAO create a Grant Program Pricing Guide?](https://governance.decentraland.org/proposal/?id=6992cccd-46e5-46f7-ba0e-babb7223b4db)
 * [Is Nifty Island basically what Decentraland would be like if my Grants passed?? ](https://governance.decentraland.org/proposal/?id=5600bc42-cd0e-4b54-a3c8-9bb3a10bac2b)
 * [Limit grants re-submission to 2 every 6 months](https://governance.decentraland.org/proposal/?id=541d6c80-c9b8-4175-8f92-d477bca5017b)
