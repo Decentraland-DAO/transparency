@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 6 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 8 community polls have passed.
+In the two weeks since the last DAO Committee report, 4 points of interest (POI) have been added to the Decentraland map, 6 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -108,23 +108,6 @@ Since January 16, 6 grants have been approved and the vesting contract(s) will b
 * Invalid question/options 0.539791598439176% 20,356 VP (3 votes)
 
 
-#### [Resolve DCL Names to Web2 DNS &#34;DCL.gg&#34; so every Name Holder Can Build A Website](https://governance.decentraland.org/proposal/?id=b9af8f14-a0bc-4193-8d60-ce91a3c666ed)
-
-* Yes 6.927204289582058% 192,482 VP (70 votes)
-* No 92.507698913029% 2,570,455 VP (30 votes)
-* Invalid question/options 0.5650967973889375% 15,702 VP (2 votes)
-
-
-#### [Proof of Personhood passport Integration into Decentraland](https://governance.decentraland.org/proposal/?id=8b797684-c2fe-44ff-8a12-fe602ce36d1b)
-
-* Fully support the integration 0.3258074278537938% 8,914 VP (5 votes)
-* Upport, but have concerns 0.000036550081652882414% 1 VP (2 votes)
-* Undecided or need more information 18.720988372688023% 512,201 VP (7 votes)
-* Have specific concerns against the integration 52.95788845792282% 1,448,913 VP (23 votes)
-* Completely against the integration 27.35908847020364% 748,537 VP (9 votes)
-* Invalid question/options 0.6361907212500713% 17,406 VP (3 votes)
-
-
 #### [Integration of GBM Auctions in Decentraland’s Marketplace](https://governance.decentraland.org/proposal/?id=f948fa30-6575-41c1-a2e5-57be5fc8ce4e)
 
 * Yes, Full Integration of GBM Auctions into the marketplace 46.08464910310544% 3,939,596 VP (35 votes)
@@ -172,7 +155,6 @@ Since January 16, 6 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
-* [This is a test, don&#39;t vote](https://governance.decentraland.org/proposal/?id=46d1c641-3696-4dc7-acd8-47c144ea480b) (Lower Tier)
 * [Facemoon: Enabling Decentraland&#39;s Next-Level Experience](https://governance.decentraland.org/proposal/?id=034fbe30-038d-4349-b6ee-fcb80469b64e) (Lower Tier)
 * [Finished job/resubmission.. [Polkadot integration]](https://governance.decentraland.org/proposal/?id=79b5abda-262e-4b76-a948-d7cc6f5719ac) (Lower Tier)
 * [Cross Reality Music Events](https://governance.decentraland.org/proposal/?id=f4b489d0-10cb-4cb4-8b1a-7c3d6a61e350) (Lower Tier)
@@ -194,8 +176,5 @@ Since January 16, 6 grants have been approved and the vesting contract(s) will b
 * [Open up discussion for a Metaverse Layer 2 that developed by DCL ](https://governance.decentraland.org/proposal/?id=fbf7b820-c643-46ec-a6cc-2a60cacda83c)
 * [Should the DAO create a Grant Program Pricing Guide?](https://governance.decentraland.org/proposal/?id=6992cccd-46e5-46f7-ba0e-babb7223b4db)
 * [Is Nifty Island basically what Decentraland would be like if my Grants passed?? ](https://governance.decentraland.org/proposal/?id=5600bc42-cd0e-4b54-a3c8-9bb3a10bac2b)
-* [Limit grants re-submission to 2 every 6 months](https://governance.decentraland.org/proposal/?id=541d6c80-c9b8-4175-8f92-d477bca5017b)
-* [DAO Moderation Handover](https://governance.decentraland.org/proposal/?id=95734ccf-9359-451b-94c3-0d2095942da7)
-* [Should the Revocation Committee have 5 total members instead of 7?](https://governance.decentraland.org/proposal/?id=e8b0f3a6-40d5-4376-b864-fdf2c8da5109)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

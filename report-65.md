@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -38,6 +38,28 @@ Since February 1, 1 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+#### [Limit grants re-submission to 2 every 6 months](https://governance.decentraland.org/proposal/?id=541d6c80-c9b8-4175-8f92-d477bca5017b)
+
+* Yes 19.68524528186572% 1,732,851 VP (14 votes)
+* Yes, but different limits 80.30601885242987% 7,069,171 VP (46 votes)
+* No 0.008735865704411249% 769 VP (2 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
+#### [DAO Moderation Handover](https://governance.decentraland.org/proposal/?id=95734ccf-9359-451b-94c3-0d2095942da7)
+
+* Moderation Committee 0.00007149996925501322% 4 VP (6 votes)
+* Bidding and Tendering Process 99.99992850003075% 5,594,404 VP (46 votes)
+* Invalid question/options 0% 0 VP (1 votes)
+
+
+#### [Should the Revocation Committee have 5 total members instead of 7?](https://governance.decentraland.org/proposal/?id=e8b0f3a6-40d5-4376-b864-fdf2c8da5109)
+
+* Yes 63.378304337283865% 3,311,749 VP (39 votes)
+* No 36.598730768575685% 1,912,418 VP (7 votes)
+* Invalid question/options 0.02296489414044985% 1,200 VP (2 votes)
+
+
 
 # Active Proposals
 
@@ -48,7 +70,6 @@ Since February 1, 1 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
-* [This is a test, don&#39;t vote](https://governance.decentraland.org/proposal/?id=46d1c641-3696-4dc7-acd8-47c144ea480b) (Lower Tier)
 * [Facemoon: Enabling Decentraland&#39;s Next-Level Experience](https://governance.decentraland.org/proposal/?id=034fbe30-038d-4349-b6ee-fcb80469b64e) (Lower Tier)
 * [Finished job/resubmission.. [Polkadot integration]](https://governance.decentraland.org/proposal/?id=79b5abda-262e-4b76-a948-d7cc6f5719ac) (Lower Tier)
 * [Cross Reality Music Events](https://governance.decentraland.org/proposal/?id=f4b489d0-10cb-4cb4-8b1a-7c3d6a61e350) (Lower Tier)
@@ -70,8 +91,5 @@ Since February 1, 1 grants have been approved and the vesting contract(s) will b
 * [Open up discussion for a Metaverse Layer 2 that developed by DCL ](https://governance.decentraland.org/proposal/?id=fbf7b820-c643-46ec-a6cc-2a60cacda83c)
 * [Should the DAO create a Grant Program Pricing Guide?](https://governance.decentraland.org/proposal/?id=6992cccd-46e5-46f7-ba0e-babb7223b4db)
 * [Is Nifty Island basically what Decentraland would be like if my Grants passed?? ](https://governance.decentraland.org/proposal/?id=5600bc42-cd0e-4b54-a3c8-9bb3a10bac2b)
-* [Limit grants re-submission to 2 every 6 months](https://governance.decentraland.org/proposal/?id=541d6c80-c9b8-4175-8f92-d477bca5017b)
-* [DAO Moderation Handover](https://governance.decentraland.org/proposal/?id=95734ccf-9359-451b-94c3-0d2095942da7)
-* [Should the Revocation Committee have 5 total members instead of 7?](https://governance.decentraland.org/proposal/?id=e8b0f3a6-40d5-4376-b864-fdf2c8da5109)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
