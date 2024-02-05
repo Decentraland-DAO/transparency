@@ -155,6 +155,8 @@ Since January 16, 6 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
+* [Create-To-Earn](https://governance.decentraland.org/proposal/?id=4c687cd7-6c59-459a-af10-b70d637620c7) (Lower Tier)
+* [Creating Collaborative Short-Form &amp; Live Streamed Content for Community Members](https://governance.decentraland.org/proposal/?id=c94dab4a-28f2-4c7b-83dd-b786aa563427) (Higher Tier)
 * [Facemoon: Enabling Decentraland&#39;s Next-Level Experience](https://governance.decentraland.org/proposal/?id=034fbe30-038d-4349-b6ee-fcb80469b64e) (Lower Tier)
 * [Finished job/resubmission.. [Polkadot integration]](https://governance.decentraland.org/proposal/?id=79b5abda-262e-4b76-a948-d7cc6f5719ac) (Lower Tier)
 * [Cross Reality Music Events](https://governance.decentraland.org/proposal/?id=f4b489d0-10cb-4cb4-8b1a-7c3d6a61e350) (Lower Tier)
