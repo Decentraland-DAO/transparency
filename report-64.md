@@ -151,11 +151,12 @@ Since January 16, 6 grants have been approved and the vesting contract(s) will b
 ## Points of Interest
 
 * -118, 130: [No Name](https://governance.decentraland.org/proposal/?id=88455b21-52ff-453e-a8ea-a3d65d96bc35)
-* 30, 72: [Metalife - metalifeamm@gmail.com](https://governance.decentraland.org/proposal/?id=afe3e9da-bb5e-462e-a49d-e85235ffd147)
 
 ## Grants
 
-* [Create-To-Earn](https://governance.decentraland.org/proposal/?id=4c687cd7-6c59-459a-af10-b70d637620c7) (Lower Tier)
+* [Retroactive Grant: Tudamoon](https://governance.decentraland.org/proposal/?id=ed697713-cd4f-4bb4-bcb2-5c3bf5c567ee) (Lower Tier)
+* [Retroactive Grant: Morph](https://governance.decentraland.org/proposal/?id=a0e2bf05-2a60-4443-8ae3-5c9505e74cec) (Lower Tier)
+* [Create-To-Earn Monthly Reward System for Active DCL Users](https://governance.decentraland.org/proposal/?id=81ba1207-2375-4ffe-abf6-b69039618ae9) (Lower Tier)
 * [Creating Collaborative Short-Form &amp; Live Streamed Content for Community Members](https://governance.decentraland.org/proposal/?id=c94dab4a-28f2-4c7b-83dd-b786aa563427) (Higher Tier)
 * [Facemoon: Enabling Decentraland&#39;s Next-Level Experience](https://governance.decentraland.org/proposal/?id=034fbe30-038d-4349-b6ee-fcb80469b64e) (Lower Tier)
 * [Finished job/resubmission.. [Polkadot integration]](https://governance.decentraland.org/proposal/?id=79b5abda-262e-4b76-a948-d7cc6f5719ac) (Lower Tier)
@@ -175,8 +176,11 @@ Since January 16, 6 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Should we blacklist all District Wallets from being able to vote in the DAO?](https://governance.decentraland.org/proposal/?id=f21b72d5-b2ae-4b37-a0cd-9d2afc5d9500)
+* [Should we revoke Meta GamiMall Developement and Operation? (Request #1)](https://governance.decentraland.org/proposal/?id=50d560fe-5be3-42d1-ab73-ebec6a4f6bed)
+* [Should we revoke the grant for Entertainment &amp; Education.. (Request #1)](https://governance.decentraland.org/proposal/?id=9748234c-aef2-4ec9-ba29-25e31bbe8b68)
+* [Should we Revoke Duel Arena&#39;s Grant? (Request #1)](https://governance.decentraland.org/proposal/?id=a6b47907-7890-47a9-bb65-db959add08dc)
+* [Automaticly become a delegate when Renting Land.](https://governance.decentraland.org/proposal/?id=5eb011bb-45b7-4239-b0d4-c27c198129c0)
 * [Open up discussion for a Metaverse Layer 2 that developed by DCL ](https://governance.decentraland.org/proposal/?id=fbf7b820-c643-46ec-a6cc-2a60cacda83c)
-* [Should the DAO create a Grant Program Pricing Guide?](https://governance.decentraland.org/proposal/?id=6992cccd-46e5-46f7-ba0e-babb7223b4db)
-* [Is Nifty Island basically what Decentraland would be like if my Grants passed?? ](https://governance.decentraland.org/proposal/?id=5600bc42-cd0e-4b54-a3c8-9bb3a10bac2b)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
