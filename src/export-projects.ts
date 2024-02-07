@@ -292,40 +292,41 @@ async function setEnactingData(proposal: Project): Promise<Project> {
 
 async function main() {
   // Get Governance dApp Proposals
-  const proposals = (PROPOSALS as Project[])
+  const projects = (PROPOSALS as Project[])
     .filter((p) => p.type === GovernanceProposalType.GRANT || p.type === GovernanceProposalType.BID)
     .map((proposal) => {
-      let updatedProposal = {
+      let projectProposal = {
         ...proposal,
         size: proposal.configuration.size || proposal.configuration.funding,
         beneficiary: proposal.configuration.beneficiary,
       }
       if (proposal.type === GovernanceProposalType.GRANT) {
-        updatedProposal = {
-          ...updatedProposal,
+        projectProposal = {
+          ...projectProposal,
           category: proposal.configuration.category,
           tier: proposal.configuration.tier?.split(':')[0],
         }
       }
 
       if (proposal.status === Status.ENACTED) {
-        return setEnactingData(updatedProposal)
+        return setEnactingData(projectProposal)
       } else {
-        return Promise.resolve(updatedProposal)
+        return Promise.resolve(projectProposal)
       }
     })
 
-  const updatedProposals: Project[] = await Promise.all(proposals)
+  const projectsWithVestingData: Project[] = await Promise.all(projects)
 
-  console.log(updatedProposals.length, 'grants found.')
+  console.log(projectsWithVestingData.length, 'projects found.')
 
-  saveToJSON('grants.json', updatedProposals)
-  await saveToCSV('grants.csv', updatedProposals, [
+  saveToJSON('projects.json', projectsWithVestingData)
+  await saveToCSV('projects.csv', projectsWithVestingData, [
     { id: 'id', title: 'Proposal ID' },
     { id: 'snapshot_id', title: 'Snapshot ID' },
     { id: 'user', title: 'Author' },
 
     { id: 'title', title: 'Title' },
+    { id: 'type', title: 'Type' },
     { id: 'status', title: 'Status' },
     { id: 'start_at', title: 'Started' },
     { id: 'finish_at', title: 'Ended' },
@@ -353,7 +354,7 @@ async function main() {
   ])
 
   const vestings = flattenArray(
-    updatedProposals.map(({ vesting, id }) => vesting?.map((vestingData) => ({ proposal_id: id, ...vestingData })))
+    projectsWithVestingData.map(({ vesting, id }) => vesting?.map((vestingData) => ({ proposal_id: id, ...vestingData })))
   ).filter((v) => v)
   saveToJSON('vestings.json', vestings)
   await saveToCSV('vestings.csv', vestings, [

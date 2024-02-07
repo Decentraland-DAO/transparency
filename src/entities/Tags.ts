@@ -1,5 +1,15 @@
-import { CURATION_FEE_CONTRACTS, CURATORS_PAYMENT_ADDRESSES, DAO_COMMITTEE_ADDRESSES, DAO_COMMITTEE_PAYMENT_ADDRESSES, GRANTS_REVENUE_ADDRESSES, REVOCATIONS_COMMITTEE_ADDRESSES, SECONDARY_SALE_CONTRACTS, SWAP_CONTRACTS, WEARABLE_CONTRACTS } from "../utils/addresses"
-import { CurationCommittee } from "./Teams"
+import {
+  CURATION_FEE_CONTRACTS,
+  CURATORS_PAYMENT_ADDRESSES,
+  DAO_COMMITTEE_ADDRESSES,
+  DAO_COMMITTEE_PAYMENT_ADDRESSES,
+  GRANTS_REVENUE_ADDRESSES,
+  REVOCATIONS_COMMITTEE_ADDRESSES,
+  SECONDARY_SALE_CONTRACTS,
+  SWAP_CONTRACTS,
+  WEARABLE_CONTRACTS
+} from '../utils/addresses'
+import { CurationCommittee } from './Teams'
 
 export enum TagType {
   CURATION_FEE = 'Curation Fee',
@@ -11,6 +21,8 @@ export enum TagType {
   FACILITATOR = 'Facilitator',
   GRANT = 'Grant',
   GRANT_REFUND = 'Grant Refund/Revoke',
+  BID = 'Bid',
+  BID_REFUND = 'Bid Refund/Revoke',
   GRANT_REVENUE = 'Revenue from Grantee',
   LAND_BID_FEE = 'LAND fee :: BID',
   LOOKSRARE = 'LooksRare',
@@ -37,7 +49,7 @@ export enum SecondarySaleItemTagType {
   WEARABLE = 'Secondary Sale :: Wearable L1 fee',
 }
 
-type ExportedTagType = Exclude<TagType, TagType.SECONDARY_SALE | TagType.SWAP | TagType.ETH_MARKETPLACE | TagType.SAB_DCL | TagType.GRANT_REFUND> | SecondarySaleItemTagType
+type ExportedTagType = Exclude<TagType, TagType.SECONDARY_SALE | TagType.SWAP | TagType.ETH_MARKETPLACE | TagType.SAB_DCL | TagType.GRANT_REFUND | TagType.BID_REFUND> | SecondarySaleItemTagType
 
 export enum TagCategoryType {
   CURATORS_COMMITTEE_PAYOUT,
@@ -46,6 +58,7 @@ export enum TagCategoryType {
   ESTATE_MARKETPLACE_SALES,
   FACILITATION_PAYOUT,
   GRANTS_PAYOUT,
+  BIDS_PAYOUT,
   GRANTS_REVENUE,
   LAND_MARKETPLACE_SALES,
   LAND_RENTAL_FEE,
@@ -73,6 +86,7 @@ const TAG_CATEGORIES: Record<keyof typeof TagCategoryType, TagCategory> = {
   ESTATE_MARKETPLACE_SALES: { name: 'ESTATE DCL Marketplace Sales Fee', description: 'Funds corresponding to the 2.5% fee applied to every ESTATE transaction (Minting or secondary)' },
   FACILITATION_PAYOUT: { name: 'Community Facilitation Payout', description: 'Transactions corresponding to the payout for monthly compensations of the DAO Facilitator role' },
   GRANTS_PAYOUT: { name: 'Community Grants Payout', description: 'Transactions corresponding to the funding of the vesting contracts for approved DAO Community Grants projects' },
+  BIDS_PAYOUT: { name: 'Bids Payout', description: 'Transactions corresponding to the funding of the vesting contracts for DAO Bidding and Tendering projects' },
   GRANTS_REVENUE: { name: 'Community Grants Revenue', description: 'Funds corresponding to Grant-funded projects that share revenue with the DAO Treasury' },
   LAND_MARKETPLACE_SALES: { name: 'LAND  DCL Marketplace Sales Fee', description: 'Funds corresponding to the 2.5% fee applied to every LAND transaction (Minting or secondary)' },
   LAND_RENTAL_FEE: { name: 'LAND Rentals Marketplace Fee', description: 'Funds corresponding to the 2.5% fee applied to every LAND or ESTATE rental transaction' },
@@ -146,6 +160,7 @@ const TAG_CATEGORY_MAPPING: Record<ExportedTagType, TagCategory> = {
   [TagType.DAO_COMMITTEE_PAYMENT]: TAG_CATEGORIES.DAO_COMMITTEE_COMPENSATION,
   [TagType.GRANT]: TAG_CATEGORIES.GRANTS_PAYOUT,
   [TagType.GRANT_REVENUE]: TAG_CATEGORIES.GRANTS_REVENUE,
+  [TagType.BID]: TAG_CATEGORIES.BIDS_PAYOUT,
   [TagType.CURATOR]: TAG_CATEGORIES.CURATORS_COMMITTEE_PAYOUT,
   [TagType.FACILITATOR]: TAG_CATEGORIES.FACILITATION_PAYOUT,
   [TagType.VESTING_CONTRACT]: TAG_CATEGORIES.VESTING_CONTRACT,

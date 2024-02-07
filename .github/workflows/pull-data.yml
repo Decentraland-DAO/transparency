@@ -57,7 +57,7 @@ jobs:
           npx ts-node ./src/upload.ts Balances ./public/balances.csv
           npx ts-node ./src/upload.ts BalanceHistory ./public/balances.csv --append
 
-      - name: Pull Grants
+      - name: Pull Projects
         env:
           ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
           COVALENTHQ_API_KEY: ${{ secrets.COVALENTHQ_API_KEY }}
@@ -66,8 +66,8 @@ jobs:
           SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
           SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
         run: |
-          npx ts-node ./src/export-grants.ts
-          npx ts-node ./src/upload.ts Grants ./public/grants.csv
+          npx ts-node ./src/export-projects.ts
+          npx ts-node ./src/upload.ts Projects ./public/projects.csv
           npx ts-node ./src/upload.ts Vestings ./public/vestings.csv
 
       - name: Pull Transactions

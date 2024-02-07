@@ -23,7 +23,7 @@
 - Proposals
 - Members
 - Votes
-- Grants
+- Projects
 - Balances
 - Transactions
 - Curations
