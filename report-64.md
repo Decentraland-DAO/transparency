@@ -150,6 +150,7 @@ Since January 16, 6 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* -59, 4: [Large Plaza Roadside Estate](https://governance.decentraland.org/proposal/?id=5810d0f2-3de7-4c74-aee3-9e2d1889a695)
 * -118, 130: [No Name](https://governance.decentraland.org/proposal/?id=88455b21-52ff-453e-a8ea-a3d65d96bc35)
 
 ## Grants
@@ -176,6 +177,7 @@ Since January 16, 6 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Should we Remove VP from MANA?](https://governance.decentraland.org/proposal/?id=b3ba65f4-bb97-441f-825e-30319dcfe5af)
 * [Should we blacklist all District Wallets from being able to vote in the DAO?](https://governance.decentraland.org/proposal/?id=f21b72d5-b2ae-4b37-a0cd-9d2afc5d9500)
 * [Should we revoke Meta GamiMall Developement and Operation? (Request #1)](https://governance.decentraland.org/proposal/?id=50d560fe-5be3-42d1-ab73-ebec6a4f6bed)
 * [Should we revoke the grant for Entertainment &amp; Education.. (Request #1)](https://governance.decentraland.org/proposal/?id=9748234c-aef2-4ec9-ba29-25e31bbe8b68)
