@@ -84,7 +84,7 @@ export enum VestingStatus {
   Revoked = 'Revoked',
 }
 
-export type GrantUpdateResponse = GovernanceApiResponse<{
+export type ProjectUpdateResponse = GovernanceApiResponse<{
   publicUpdates: GrantUpdate[]
   pendingUpdates: GrantUpdate[]
   nextUpdate: GrantUpdate | null

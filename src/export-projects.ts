@@ -10,11 +10,10 @@ import { Networks } from './entities/Networks'
 import { Tokens } from './entities/Tokens'
 import { GovernanceProposalType, Status } from './interfaces/GovernanceProposal'
 import {
-  GrantProposal,
   GrantUpdate,
-  GrantUpdateResponse,
   OneTimePaymentInfo,
   Project,
+  ProjectUpdateResponse,
   Updates,
   UpdateStatus,
   VestingInfo,
@@ -231,23 +230,23 @@ function getUpdatesAmountByStatus(updates: GrantUpdate[], status: UpdateStatus):
   return updates.filter((update) => update.status === status).length
 }
 
-async function getProposalUpdates(proposal: GrantProposal): Promise<Updates | {}> {
+async function getProjectUpdates(proposal: Project): Promise<Updates | {}> {
   try {
-    const grantUpdateResponse: GrantUpdateResponse = await fetchURL(
+    const projectUpdateResponse: ProjectUpdateResponse = await fetchURL(
       `https://governance.decentraland.org/api/proposals/${proposal.id}/updates`
     )
-    if (!grantUpdateResponse.ok) {
-      console.log(`Error trying to get updates for proposal ${proposal.id} - Message: ${grantUpdateResponse.error}`)
+    if (!projectUpdateResponse.ok) {
+      console.log(`Error trying to get updates for proposal ${proposal.id} - Message: ${projectUpdateResponse.error}`)
       return {}
     }
-    return parseUpdatesInfo(grantUpdateResponse.data)
+    return parseUpdatesInfo(projectUpdateResponse.data)
   } catch (error) {
     console.log(`Error trying to get updates for proposal ${proposal.id} - Error: ${JSON.stringify(error)}`)
     return {}
   }
 }
 
-function parseUpdatesInfo(updatesResponseData: GrantUpdateResponse['data']): Updates {
+function parseUpdatesInfo(updatesResponseData: ProjectUpdateResponse['data']): Updates {
   const lastUpdate = updatesResponseData.publicUpdates
     .filter((update) => update.status === UpdateStatus.Done || update.status === UpdateStatus.Late)
     .sort((a, b) => new Date(b.completion_date).getTime() - new Date(a.completion_date).getTime())[0]
@@ -279,7 +278,7 @@ async function setEnactingData(proposal: Project): Promise<Project> {
       ? getEnactingTxData(proposal.id, proposal.enacting_tx.toLowerCase(), proposal.beneficiary)
       : Promise.resolve({})
   )
-  dataPromises.push(getProposalUpdates(proposal))
+  dataPromises.push(getProjectUpdates(proposal))
   const [vestingData, enactingTxData, updateInfo] = await Promise.all(dataPromises)
 
   let updatedProposal = { ...proposal, ...enactingTxData, ...updateInfo }
