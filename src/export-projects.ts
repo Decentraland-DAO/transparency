@@ -15,28 +15,28 @@ import {
   GrantUpdateResponse,
   OneTimePaymentInfo,
   Project,
-  UpdateStatus,
   Updates,
+  UpdateStatus,
   VestingInfo,
-  VestingStatus,
-} from './interfaces/Grant'
+  VestingStatus
+} from './interfaces/Project'
 import { Decoded, DecodedName, ParamName, TransactionItem } from './interfaces/Transactions/Transactions'
 
 import { rollbar } from './rollbar'
 import {
-  COVALENT_API_KEY,
-  INFURA_URL,
   baseCovalentUrl,
+  COVALENT_API_KEY,
   fetchCovalentURL,
   fetchURL,
   flattenArray,
   getMonthsBetweenDates,
+  INFURA_URL,
   isSameAddress,
   parseNumber,
   reportToRollbarAndThrow,
   saveToCSV,
   saveToJSON,
-  toISOString,
+  toISOString
 } from './utils'
 
 const web3 = new Web3(INFURA_URL)

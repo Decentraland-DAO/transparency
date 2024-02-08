@@ -46,9 +46,7 @@ type Grant = Partial<Updates> & Partial<OneTimePaymentInfo> & {
 
 export type GrantProposal = Grant & ProposalParsed
 export type BidProposal = ProjectData & ProposalParsed
-
 export type Project = BidProposal | GrantProposal
-
 
 export type GrantUpdate = {
   id: string

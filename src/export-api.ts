@@ -6,7 +6,7 @@ import { CurationCommittee, DAOCommittee, RevocationCommittee, SABCommittee } fr
 import { TransactionParsed } from './export-transactions'
 import { BalanceDetails } from './interfaces/Api'
 import { Status } from './interfaces/GovernanceProposal'
-import { Project } from './interfaces/Grant'
+import { Project } from './interfaces/Project'
 import { TransactionDetails } from './interfaces/Transactions/Transactions'
 import { TransferType } from './interfaces/Transactions/Transfers'
 import { dayToMillisec, getTransactionsPerTag, reportToRollbarAndThrow, saveToJSON } from './utils'
