@@ -151,7 +151,6 @@ Since January 16, 6 grants have been approved and the vesting contract(s) will b
 ## Points of Interest
 
 * -59, 4: [Large Plaza Roadside Estate](https://governance.decentraland.org/proposal/?id=5810d0f2-3de7-4c74-aee3-9e2d1889a695)
-* -118, 130: [No Name](https://governance.decentraland.org/proposal/?id=88455b21-52ff-453e-a8ea-a3d65d96bc35)
 
 ## Grants
 
@@ -177,12 +176,16 @@ Since January 16, 6 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Allow Web2 GoDaddy Domain Names to Create Free DCL Worlds with 25MB Storage](https://governance.decentraland.org/proposal/?id=52d917a7-2765-4292-9c83-5852a5a219be)
+* [Should grant requests have to go through a 2 stage process similar to polls?](https://governance.decentraland.org/proposal/?id=adc11bca-1ab2-446e-b48c-13025ab69eb1)
+* [Should the DAO reduce the quarterly budget?](https://governance.decentraland.org/proposal/?id=45b4dbda-11bd-440e-b36f-177d6688660b)
+* [Should all grant requests be required to have an initial 1 month trial?](https://governance.decentraland.org/proposal/?id=0dbd67c2-e6e8-4354-8674-af4232692641)
+* [Reducing Grant Caps to $100,000](https://governance.decentraland.org/proposal/?id=bbc6ae87-2b27-4df2-9a1e-737131af42c5)
 * [Should we Remove VP from MANA?](https://governance.decentraland.org/proposal/?id=b3ba65f4-bb97-441f-825e-30319dcfe5af)
 * [Should we blacklist all District Wallets from being able to vote in the DAO?](https://governance.decentraland.org/proposal/?id=f21b72d5-b2ae-4b37-a0cd-9d2afc5d9500)
 * [Should we revoke Meta GamiMall Developement and Operation? (Request #1)](https://governance.decentraland.org/proposal/?id=50d560fe-5be3-42d1-ab73-ebec6a4f6bed)
 * [Should we revoke the grant for Entertainment &amp; Education.. (Request #1)](https://governance.decentraland.org/proposal/?id=9748234c-aef2-4ec9-ba29-25e31bbe8b68)
 * [Should we Revoke Duel Arena&#39;s Grant? (Request #1)](https://governance.decentraland.org/proposal/?id=a6b47907-7890-47a9-bb65-db959add08dc)
 * [Automaticly become a delegate when Renting Land.](https://governance.decentraland.org/proposal/?id=5eb011bb-45b7-4239-b0d4-c27c198129c0)
-* [Open up discussion for a Metaverse Layer 2 that developed by DCL ](https://governance.decentraland.org/proposal/?id=fbf7b820-c643-46ec-a6cc-2a60cacda83c)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
