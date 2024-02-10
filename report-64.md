@@ -154,6 +154,10 @@ Since January 16, 6 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
+* [1000 posters to boost Decentraland](https://governance.decentraland.org/proposal/?id=35bb91e9-311d-4cbb-b3bb-dfcf4ea34a36) (Lower Tier)
+* [Vegas City Platform Gamification](https://governance.decentraland.org/proposal/?id=c78cd830-dc91-4d83-932a-bc0fb9c49044) (Higher Tier)
+* [Platform Unit: Game Dev, Global Systems &amp; Tooling Proposal](https://governance.decentraland.org/proposal/?id=dc00f623-479a-4f31-ae41-9d2ee8f966a8) (Higher Tier)
+* [DAO Accelerator: Revenue-Sharing Wallet [20% to DAO]](https://governance.decentraland.org/proposal/?id=59a1dee7-9d0d-4fb9-9c5c-7057d5f37a13) (Higher Tier)
 * [Retroactive Grant: Tudamoon](https://governance.decentraland.org/proposal/?id=ed697713-cd4f-4bb4-bcb2-5c3bf5c567ee) (Lower Tier)
 * [Retroactive Grant: Morph](https://governance.decentraland.org/proposal/?id=a0e2bf05-2a60-4443-8ae3-5c9505e74cec) (Lower Tier)
 * [Create-To-Earn Monthly Reward System for Active DCL Users](https://governance.decentraland.org/proposal/?id=81ba1207-2375-4ffe-abf6-b69039618ae9) (Lower Tier)
@@ -164,9 +168,6 @@ Since January 16, 6 grants have been approved and the vesting contract(s) will b
 * [# Multiplayer UI card games! [SNAP] [POKER] [+MORE]](https://governance.decentraland.org/proposal/?id=4715e268-ec34-49c4-ae28-46dc52ab18b3) (Higher Tier)
 * [Wearables Tax Exposure Tool](https://governance.decentraland.org/proposal/?id=0a7a528c-210a-4783-83fd-7683e5038566) (Lower Tier)
 * [&#34;EmpathyVision&#34;.  Bridging Communities for people with the disadvantaged. ](https://governance.decentraland.org/proposal/?id=062f0e62-afff-4287-a45e-c652ced5f299) (Higher Tier)
-* [600 posters to boost Decentraland](https://governance.decentraland.org/proposal/?id=56f47cf0-d3a4-4c78-aa52-256c45fcfc65) (Lower Tier)
-* [Soul Magic Game Development](https://governance.decentraland.org/proposal/?id=d266f630-0e4b-4640-9e3b-4f5d9142e1ae) (Higher Tier)
-* [RESUBMISSION: A Multi-Platform Entertainment Series to Boost DCL Brand Awareness](https://governance.decentraland.org/proposal/?id=98f0e12c-a5d0-4cb4-a5f6-15940a53d3bc) (Higher Tier)
 
 ## Names Bans
 
@@ -176,6 +177,10 @@ Since January 16, 6 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Revoke &#34;600 posters to boost Decentraland&#34;](https://governance.decentraland.org/proposal/?id=de3bc4ed-923c-450f-8794-4b511a93ce0f)
+* [Reverse &#34;Freeze All non-Platform Grant Spending&#34;](https://governance.decentraland.org/proposal/?id=258fc4a5-b58f-40b5-85cf-f438aefaabd7)
+* [Initiative for DCL Grant Applicants to HODL 5% of Funding Amount](https://governance.decentraland.org/proposal/?id=8f1bd1b4-a4f5-4ee0-88d6-afc278073d8a)
+* [Increase VP for LAND to 5k VP..](https://governance.decentraland.org/proposal/?id=f72c0f76-32cf-46e7-aea9-f91bd576586b)
 * [Allow Web2 GoDaddy Domain Names to Create Free DCL Worlds with 25MB Storage](https://governance.decentraland.org/proposal/?id=52d917a7-2765-4292-9c83-5852a5a219be)
 * [Should grant requests have to go through a 2 stage process similar to polls?](https://governance.decentraland.org/proposal/?id=adc11bca-1ab2-446e-b48c-13025ab69eb1)
 * [Should the DAO reduce the quarterly budget?](https://governance.decentraland.org/proposal/?id=45b4dbda-11bd-440e-b36f-177d6688660b)
