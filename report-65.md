@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 8 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -66,6 +66,34 @@ Since February 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+#### [Should we revoke Meta GamiMall Developement and Operation? (Request #1)](https://governance.decentraland.org/proposal/?id=50d560fe-5be3-42d1-ab73-ebec6a4f6bed)
+
+* Yes, Revoke 1.298818915787771% 47,613 VP (11 votes)
+* No, Do NOT Revoke 67.16211081192482% 2,462,075 VP (24 votes)
+* Invalid question/options 31.539070272287418% 1,156,181 VP (6 votes)
+
+
+#### [Should we revoke the grant for Entertainment &amp; Education.. (Request #1)](https://governance.decentraland.org/proposal/?id=9748234c-aef2-4ec9-ba29-25e31bbe8b68)
+
+* Yes, Revoke 1.45387444033466% 51,244 VP (13 votes)
+* No, Do NOT Revoke 51.42097756628954% 1,812,410 VP (16 votes)
+* Invalid question/options 47.1251479933758% 1,660,997 VP (8 votes)
+
+
+#### [Should we Revoke Duel Arena&#39;s Grant? (Request #1)](https://governance.decentraland.org/proposal/?id=a6b47907-7890-47a9-bb65-db959add08dc)
+
+* Yes, Revoke 16.665842110439883% 565,933 VP (13 votes)
+* No, Do NOT Revoke 49.18804770411153% 1,670,311 VP (23 votes)
+* Invalid question/options 34.146110185448585% 1,159,522 VP (5 votes)
+
+
+#### [Automaticly become a delegate when Renting Land.](https://governance.decentraland.org/proposal/?id=5eb011bb-45b7-4239-b0d4-c27c198129c0)
+
+* Yes 0.00009154692329100204% 4 VP (5 votes)
+* No 98.93178472557894% 4,322,670 VP (35 votes)
+* Invalid question/options 1.0681237274977662% 46,670 VP (3 votes)
+
+
 #### [Should the DAO create a Grant Program Pricing Guide?](https://governance.decentraland.org/proposal/?id=6992cccd-46e5-46f7-ba0e-babb7223b4db)
 
 * Yes 99.63022468713932% 4,399,057 VP (33 votes)
@@ -104,6 +132,7 @@ Since February 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
+* [PuppetIra: Fusing Puppetry Art with Digital Innovation in Decentraland](https://governance.decentraland.org/proposal/?id=27c424fe-d285-4266-ba6c-ec61ba4e3081) (Higher Tier)
 * [1000 posters to boost Decentraland](https://governance.decentraland.org/proposal/?id=35bb91e9-311d-4cbb-b3bb-dfcf4ea34a36) (Lower Tier)
 * [Vegas City Platform Gamification](https://governance.decentraland.org/proposal/?id=c78cd830-dc91-4d83-932a-bc0fb9c49044) (Higher Tier)
 * [Platform Unit: Game Dev, Global Systems &amp; Tooling Proposal](https://governance.decentraland.org/proposal/?id=dc00f623-479a-4f31-ae41-9d2ee8f966a8) (Higher Tier)
@@ -127,6 +156,10 @@ Since February 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Revocation Committee autonomy](https://governance.decentraland.org/proposal/?id=a3209bc9-e548-4add-a1a5-8952ac7b6200)
+* [VP and GP the future of DAO&#39;s ](https://governance.decentraland.org/proposal/?id=71e0173a-e9e6-43f2-9398-25aaffc1b2ea)
+* [Voting change](https://governance.decentraland.org/proposal/?id=57ae82de-1c17-4fa0-936b-82793f740dfa)
+* [Resubmit:Initiative for DCL Grant Applicants to HODL 5% of Funding Amount](https://governance.decentraland.org/proposal/?id=e326a3a4-6abd-4b40-a408-6b9411c353d9)
 * [Revoke &#34;600 posters to boost Decentraland&#34;](https://governance.decentraland.org/proposal/?id=de3bc4ed-923c-450f-8794-4b511a93ce0f)
 * [Reverse &#34;Freeze All non-Platform Grant Spending&#34;](https://governance.decentraland.org/proposal/?id=258fc4a5-b58f-40b5-85cf-f438aefaabd7)
 * [Initiative for DCL Grant Applicants to HODL 5% of Funding Amount](https://governance.decentraland.org/proposal/?id=8f1bd1b4-a4f5-4ee0-88d6-afc278073d8a)
@@ -137,10 +170,5 @@ Since February 1, 3 grants have been approved and the vesting contract(s) will b
 * [Should all grant requests be required to have an initial 1 month trial?](https://governance.decentraland.org/proposal/?id=0dbd67c2-e6e8-4354-8674-af4232692641)
 * [Reducing Grant Caps to $100,000](https://governance.decentraland.org/proposal/?id=bbc6ae87-2b27-4df2-9a1e-737131af42c5)
 * [Should we Remove VP from MANA?](https://governance.decentraland.org/proposal/?id=b3ba65f4-bb97-441f-825e-30319dcfe5af)
-* [Should we blacklist all District Wallets from being able to vote in the DAO?](https://governance.decentraland.org/proposal/?id=f21b72d5-b2ae-4b37-a0cd-9d2afc5d9500)
-* [Should we revoke Meta GamiMall Developement and Operation? (Request #1)](https://governance.decentraland.org/proposal/?id=50d560fe-5be3-42d1-ab73-ebec6a4f6bed)
-* [Should we revoke the grant for Entertainment &amp; Education.. (Request #1)](https://governance.decentraland.org/proposal/?id=9748234c-aef2-4ec9-ba29-25e31bbe8b68)
-* [Should we Revoke Duel Arena&#39;s Grant? (Request #1)](https://governance.decentraland.org/proposal/?id=a6b47907-7890-47a9-bb65-db959add08dc)
-* [Automaticly become a delegate when Renting Land.](https://governance.decentraland.org/proposal/?id=5eb011bb-45b7-4239-b0d4-c27c198129c0)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
