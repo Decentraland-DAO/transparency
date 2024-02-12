@@ -156,7 +156,6 @@ Since January 16, 6 grants have been approved and the vesting contract(s) will b
 
 * [PuppetIra: Fusing Puppetry Art with Digital Innovation in Decentraland](https://governance.decentraland.org/proposal/?id=27c424fe-d285-4266-ba6c-ec61ba4e3081) (Higher Tier)
 * [1000 posters to boost Decentraland](https://governance.decentraland.org/proposal/?id=35bb91e9-311d-4cbb-b3bb-dfcf4ea34a36) (Lower Tier)
-* [Vegas City Platform Gamification](https://governance.decentraland.org/proposal/?id=c78cd830-dc91-4d83-932a-bc0fb9c49044) (Higher Tier)
 * [Platform Unit: Game Dev, Global Systems &amp; Tooling Proposal](https://governance.decentraland.org/proposal/?id=dc00f623-479a-4f31-ae41-9d2ee8f966a8) (Higher Tier)
 * [DAO Accelerator: Revenue-Sharing Wallet [20% to DAO]](https://governance.decentraland.org/proposal/?id=59a1dee7-9d0d-4fb9-9c5c-7057d5f37a13) (Higher Tier)
 * [Retroactive Grant: Tudamoon](https://governance.decentraland.org/proposal/?id=ed697713-cd4f-4bb4-bcb2-5c3bf5c567ee) (Lower Tier)
@@ -178,7 +177,8 @@ Since January 16, 6 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
-* [Revocation Committee autonomy](https://governance.decentraland.org/proposal/?id=a3209bc9-e548-4add-a1a5-8952ac7b6200)
+* [Should Nifty Island Defectors Be Banned From Grants?](https://governance.decentraland.org/proposal/?id=e8bfdf00-eac1-4bef-92e5-12c6e219d979)
+* [Should we stop decisions to be made behind close doors?](https://governance.decentraland.org/proposal/?id=fa8058c5-176e-49ae-bc82-9a1c95282118)
 * [VP and GP the future of DAO&#39;s ](https://governance.decentraland.org/proposal/?id=71e0173a-e9e6-43f2-9398-25aaffc1b2ea)
 * [Voting change](https://governance.decentraland.org/proposal/?id=57ae82de-1c17-4fa0-936b-82793f740dfa)
 * [Resubmit:Initiative for DCL Grant Applicants to HODL 5% of Funding Amount](https://governance.decentraland.org/proposal/?id=e326a3a4-6abd-4b40-a408-6b9411c353d9)
@@ -191,6 +191,5 @@ Since January 16, 6 grants have been approved and the vesting contract(s) will b
 * [Should the DAO reduce the quarterly budget?](https://governance.decentraland.org/proposal/?id=45b4dbda-11bd-440e-b36f-177d6688660b)
 * [Should all grant requests be required to have an initial 1 month trial?](https://governance.decentraland.org/proposal/?id=0dbd67c2-e6e8-4354-8674-af4232692641)
 * [Reducing Grant Caps to $100,000](https://governance.decentraland.org/proposal/?id=bbc6ae87-2b27-4df2-9a1e-737131af42c5)
-* [Should we Remove VP from MANA?](https://governance.decentraland.org/proposal/?id=b3ba65f4-bb97-441f-825e-30319dcfe5af)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
