@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 3 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 6 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -66,6 +66,20 @@ Since February 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+#### [Should all grant requests be required to have an initial 1 month trial?](https://governance.decentraland.org/proposal/?id=0dbd67c2-e6e8-4354-8674-af4232692641)
+
+* Yes 39.59203834310323% 1,950,984 VP (12 votes)
+* No 39.41325376168036% 1,942,174 VP (20 votes)
+* Invalid question/options 20.994707895216404% 1,034,560 VP (6 votes)
+
+
+#### [Reducing Grant Caps to $100,000](https://governance.decentraland.org/proposal/?id=bbc6ae87-2b27-4df2-9a1e-737131af42c5)
+
+* YES 56.8451682756625% 3,414,193 VP (22 votes)
+* NO 25.282565620074298% 1,518,503 VP (17 votes)
+* Invalid question/options 17.872266104263197% 1,073,431 VP (7 votes)
+
+
 #### [Should the DAO create a Grant Program Pricing Guide?](https://governance.decentraland.org/proposal/?id=6992cccd-46e5-46f7-ba0e-babb7223b4db)
 
 * Yes 99.63022468713932% 4,399,057 VP (33 votes)
@@ -117,7 +131,6 @@ Since February 1, 3 grants have been approved and the vesting contract(s) will b
 * [Cross Reality Music Events](https://governance.decentraland.org/proposal/?id=f4b489d0-10cb-4cb4-8b1a-7c3d6a61e350) (Lower Tier)
 * [# Multiplayer UI card games! [SNAP] [POKER] [+MORE]](https://governance.decentraland.org/proposal/?id=4715e268-ec34-49c4-ae28-46dc52ab18b3) (Higher Tier)
 * [Wearables Tax Exposure Tool](https://governance.decentraland.org/proposal/?id=0a7a528c-210a-4783-83fd-7683e5038566) (Lower Tier)
-* [&#34;EmpathyVision&#34;.  Bridging Communities for people with the disadvantaged. ](https://governance.decentraland.org/proposal/?id=062f0e62-afff-4287-a45e-c652ced5f299) (Higher Tier)
 
 ## Names Bans
 
@@ -136,10 +149,5 @@ Since February 1, 3 grants have been approved and the vesting contract(s) will b
 * [Reverse &#34;Freeze All non-Platform Grant Spending&#34;](https://governance.decentraland.org/proposal/?id=258fc4a5-b58f-40b5-85cf-f438aefaabd7)
 * [Initiative for DCL Grant Applicants to HODL 5% of Funding Amount](https://governance.decentraland.org/proposal/?id=8f1bd1b4-a4f5-4ee0-88d6-afc278073d8a)
 * [Increase VP for LAND to 5k VP..](https://governance.decentraland.org/proposal/?id=f72c0f76-32cf-46e7-aea9-f91bd576586b)
-* [Allow Web2 GoDaddy Domain Names to Create Free DCL Worlds with 25MB Storage](https://governance.decentraland.org/proposal/?id=52d917a7-2765-4292-9c83-5852a5a219be)
-* [Should grant requests have to go through a 2 stage process similar to polls?](https://governance.decentraland.org/proposal/?id=adc11bca-1ab2-446e-b48c-13025ab69eb1)
-* [Should the DAO reduce the quarterly budget?](https://governance.decentraland.org/proposal/?id=45b4dbda-11bd-440e-b36f-177d6688660b)
-* [Should all grant requests be required to have an initial 1 month trial?](https://governance.decentraland.org/proposal/?id=0dbd67c2-e6e8-4354-8674-af4232692641)
-* [Reducing Grant Caps to $100,000](https://governance.decentraland.org/proposal/?id=bbc6ae87-2b27-4df2-9a1e-737131af42c5)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
