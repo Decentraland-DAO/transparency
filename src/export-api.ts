@@ -1,12 +1,12 @@
 import BALANCES from '../public/balances.json'
-import GRANTS from '../public/grants.json'
+import PROJECTS from '../public/projects.json'
 import TRANSACTIONS from '../public/transactions.json'
-import { TagCategoryType, TagType, Tags } from './entities/Tags'
+import { TagCategoryType, Tags } from './entities/Tags'
 import { CurationCommittee, DAOCommittee, RevocationCommittee, SABCommittee } from './entities/Teams'
 import { TransactionParsed } from './export-transactions'
 import { BalanceDetails } from './interfaces/Api'
 import { Status } from './interfaces/GovernanceProposal'
-import { GrantProposal } from './interfaces/Grant'
+import { Project } from './interfaces/Project'
 import { TransactionDetails } from './interfaces/Transactions/Transactions'
 import { TransferType } from './interfaces/Transactions/Transfers'
 import { dayToMillisec, getTransactionsPerTag, reportToRollbarAndThrow, saveToJSON } from './utils'
@@ -83,8 +83,8 @@ async function main() {
 
   const expensesTaggedTxs = getTransactionsPerTag(expensesTxs30)
 
-  const grants = GRANTS as GrantProposal[]
-  const totalFunding = grants.filter(g => g.status === Status.ENACTED).reduce((a, g) => a + g.size, 0)
+  const projects = PROJECTS as Project[]
+  const totalFunding = projects.filter(project => project.status === Status.ENACTED).reduce((a, g) => a + g.size, 0)
 
   const incomeDetails = getTxsDetails(incomeTaggedTxs)
   const expensesDetails = getTxsDetails(expensesTaggedTxs)

@@ -1,12 +1,12 @@
 import { TokenPriceAPIData, TokenPriceData } from './interfaces/Transactions/TokenPrices'
-import RAW_GRANTS from '../public/grants.json'
+import RAW_PROJECTS from '../public/projects.json'
 import RAW_BALANCES from '../public/balances.json'
 import { Network, NetworkName, Networks } from './entities/Networks'
 import { Tags, TagType } from './entities/Tags'
 import { Tokens, TokenSymbols } from './entities/Tokens'
 import { Wallets } from './entities/Wallets'
-import { Status } from './interfaces/GovernanceProposal'
-import { GrantProposal } from './interfaces/Grant'
+import { GovernanceProposalType, Status } from './interfaces/GovernanceProposal'
+import { Project } from './interfaces/Project'
 import { EventItem } from './interfaces/Transactions/Events'
 import { TransactionItem } from './interfaces/Transactions/Transactions'
 import { TransferItem, TransferType } from './interfaces/Transactions/Transfers'
@@ -61,9 +61,11 @@ let priceData: TokenPriceData = {}
 const WALLET_ADDRESSES = new Set(Wallets.getAddresses())
 const PAGE_SIZE = 1000
 
-const GRANTS: GrantProposal[] = RAW_GRANTS
-const GRANTS_VESTING_ADDRESSES = new Set(flattenArray(GRANTS.filter(g => g.status === Status.ENACTED && g.vesting_addresses.length > 0).map(g => g.vesting_addresses.map(address => address.toLowerCase()))))
-const GRANTS_ENACTING_TXS = new Set(GRANTS.filter(g => g.status === Status.ENACTED && g.enacting_tx).map(g => g.enacting_tx.toLowerCase()))
+const PROJECTS: Project[] = RAW_PROJECTS
+const GRANTS_VESTING_ADDRESSES = new Set(flattenArray(PROJECTS.filter(g => g.type === GovernanceProposalType.GRANT && g.status === Status.ENACTED && g.vesting_addresses.length > 0).map(g => g.vesting_addresses.map(address => address.toLowerCase()))))
+const GRANTS_ENACTING_TXS = new Set(PROJECTS.filter(g => g.type === GovernanceProposalType.GRANT && g.status === Status.ENACTED && g.enacting_tx).map(g => g.enacting_tx.toLowerCase()))
+const BIDS_VESTING_ADDRESSES = new Set(flattenArray(PROJECTS.filter(g => g.type === GovernanceProposalType.BID && g.status === Status.ENACTED && g.vesting_addresses.length > 0).map(g => g.vesting_addresses.map(address => address.toLowerCase()))))
+const BIDS_ENACTING_TXS = new Set(PROJECTS.filter(g => g.type === GovernanceProposalType.BID && g.status === Status.ENACTED && g.enacting_tx).map(g => g.enacting_tx.toLowerCase()))
 const SAB_ADDRESS = '0x0e659a116e161d8e502f9036babda51334f2667e' // Sec Advisory Board
 const FACILITATOR_ADDRESS = '0x76fb13f00cdbdd5eac8e2664cf14be791af87cb0'
 const OPENSEA_ADDRESSES = new Set([
@@ -95,7 +97,7 @@ async function getTopicTxs(network: Network, startblock: number, topic: Topic) {
   const latestBlock = response[0].height
   console.log(`Latest ${JSON.stringify(network)} - start block: ${block} - latest block: ${latestBlock}`)
   const unresolvedEvents: Promise<EventItem[]>[] = []
-  
+
   while(block < latestBlock) {
     const endBlock = block + MAX_BLOCK_RANGE
     const url = `${baseCovalentUrl(network)}/events/topics/${topic}/?key=${COVALENT_API_KEY}&starting-block=${block}&ending-block=${endBlock > latestBlock ? 'latest' : endBlock}`
@@ -274,6 +276,16 @@ async function tagging(txs: TransactionParsed[]) {
         continue
       }
 
+      if (tx.type === TransferType.OUT && (BIDS_VESTING_ADDRESSES.has(tx.to) || BIDS_ENACTING_TXS.has(tx.hash))) {
+        tx.tag = TagType.BID
+        continue
+      }
+
+      if (tx.type === TransferType.IN && BIDS_VESTING_ADDRESSES.has(tx.from)) {
+        tx.tag = TagType.BID_REFUND
+        continue
+      }
+
       if (tx.type === TransferType.OUT && tx.to === FACILITATOR_ADDRESS) {
         tx.tag = TagType.FACILITATOR
         continue
@@ -284,7 +296,7 @@ async function tagging(txs: TransactionParsed[]) {
         OPENSEA_ADDRESSES.has(tx.txFrom) ||
         OPENSEA_ADDRESSES.has(tx.interactedWith)
       )
-      
+
       if (isOpenSeaTransaction) {
         tx.tag = TagType.OPENSEA
         continue

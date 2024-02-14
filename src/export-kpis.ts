@@ -1,5 +1,5 @@
 import BALANCES from '../public/balances.json'
-import GRANTS from '../public/grants.json'
+import PROJECTS from '../public/projects.json'
 import MEMBERS from '../public/members.json'
 import PROPOSALS from '../public/proposals.json'
 import TRANSACTIONS from '../public/transactions.json'
@@ -8,7 +8,7 @@ import { BalanceParsed } from './export-balances'
 import { TransactionParsed } from './export-transactions'
 import { VotesParsed } from './export-votes'
 import { GovernanceProposalType, Status } from './interfaces/GovernanceProposal'
-import { GrantProposal } from './interfaces/Grant'
+import { Project } from './interfaces/Project'
 import { KPI } from './interfaces/KPIs'
 import { MemberInfo, MemberVP } from './interfaces/Members'
 import { ProposalParsed } from './interfaces/Proposal'
@@ -22,7 +22,7 @@ function main() {
   const proposals = PROPOSALS as ProposalParsed[]
   const members = MEMBERS as MemberInfo[]
   const votes = VOTES as VotesParsed[]
-  const grants = GRANTS as GrantProposal[]
+  const projects = PROJECTS as Project[]
   const transactions = TRANSACTIONS as TransactionParsed[]
   const balances = BALANCES as BalanceParsed[]
 
@@ -73,8 +73,8 @@ function main() {
       rows: getParticipationRows(members, proposals, votes)
     },
     {
-      header: ['Grants', 'Amount', 'Percentage'],
-      rows: getGrantRows(grants)
+      header: ['Projects', 'Amount', 'Percentage'],
+      rows: getProjectRows(projects)
     },
     {
       header: ['Balance Summary', 'Total USD'],
@@ -132,13 +132,13 @@ function getParticipationRows(members: MemberInfo[], proposals: ProposalParsed[]
 
 }
 
-function getGrantRows(grants: GrantProposal[]) {
+function getProjectRows(projects: Project[]) {
 
-  const grantEnacted = grants.filter(g => g.status === Status.ENACTED)
-  const fundsGranted = sum(grantEnacted.map(g => g.size))
+  const enactedProjects = projects.filter(g => g.status === Status.ENACTED)
+  const fundsGranted = sum(enactedProjects.map(g => g.size))
 
-  return [['Grants Submitted', grants.length]]
-    .concat(getRowsByProposalStatus(grants))
+  return [['Projects Submitted', projects.length]]
+    .concat(getRowsByProposalStatus(projects))
     .concat([['Total Funds Granted', fundsGranted]])
 }
 

@@ -40,6 +40,7 @@ export interface Configuration {
   category?: Category
   tier?: string
   size?: number
+  funding?: number
   beneficiary?: string
   specification?: string
   personnel?: string
@@ -147,12 +148,13 @@ export enum Status {
 }
 
 export enum GovernanceProposalType {
+  POI = 'poi',
+  CATALYST = 'catalyst',
   BAN_NAME = 'ban_name',
+  LINKED_WEARABLES = 'linked_wearables',
+  POLL = 'poll',
   DRAFT = 'draft',
   GOVERNANCE = 'governance',
   GRANT = 'grant',
-  LINKED_WEARABLES = 'linked_wearables',
-  POI = 'poi',
-  POLL = 'poll',
-  CATALYST = 'catalyst'
+  BID = 'bid',
 }

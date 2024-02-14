@@ -33,15 +33,20 @@ export interface OneTimePaymentInfo {
   tx_amount: number
 }
 
-type Grant = Partial<Updates> & Partial<OneTimePaymentInfo> & {
-  category?: Category
-  tier?: string
+type ProjectData = {
   size?: number
   beneficiary?: string
   vesting?: VestingInfo[]
 }
 
+type Grant = Partial<Updates> & Partial<OneTimePaymentInfo> & {
+  category?: Category
+  tier?: string
+} & ProjectData
+
 export type GrantProposal = Grant & ProposalParsed
+export type BidProposal = ProjectData & ProposalParsed
+export type Project = BidProposal | GrantProposal
 
 export type GrantUpdate = {
   id: string
@@ -79,9 +84,11 @@ export enum VestingStatus {
   Revoked = 'Revoked',
 }
 
-export type GrantUpdateResponse = GovernanceApiResponse<{
+export type ProjectUpdateResponse = GovernanceApiResponse<{
   publicUpdates: GrantUpdate[]
   pendingUpdates: GrantUpdate[]
   nextUpdate: GrantUpdate | null
   currentUpdate: GrantUpdate | null
 }>
+
+

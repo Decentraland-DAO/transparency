@@ -1,25 +1,27 @@
-import { rollbar } from './rollbar'
 import Web3 from 'web3'
-import type { AbiItem } from 'web3-utils'
 import type { Contract } from 'web3-eth-contract'
+import type { AbiItem } from 'web3-utils'
 
 import PROPOSALS from '../public/proposals.json'
+
 import VESTING_ABI from './abi/Ethereum/vesting.json'
 import VESTING_V2_ABI from './abi/Ethereum/vesting_v2.json'
 import { Networks } from './entities/Networks'
 import { Tokens } from './entities/Tokens'
 import { GovernanceProposalType, Status } from './interfaces/GovernanceProposal'
 import {
-  GrantProposal,
   GrantUpdate,
-  GrantUpdateResponse,
   OneTimePaymentInfo,
+  Project,
+  ProjectUpdateResponse,
   Updates,
   UpdateStatus,
   VestingInfo,
   VestingStatus
-} from './interfaces/Grant'
+} from './interfaces/Project'
 import { Decoded, DecodedName, ParamName, TransactionItem } from './interfaces/Transactions/Transactions'
+
+import { rollbar } from './rollbar'
 import {
   baseCovalentUrl,
   COVALENT_API_KEY,
@@ -102,7 +104,7 @@ async function _getVestingContractDataV1(vestingAddress: string): Promise<Vestin
     vesting_contract_token_balance,
     vesting_total_amount,
     vesting_status,
-    duration_in_months: getMonthsBetweenDates(new Date(vesting_start_at), new Date(vesting_finish_at))
+    duration_in_months: getMonthsBetweenDates(new Date(vesting_start_at), new Date(vesting_finish_at)),
   }
 }
 
@@ -116,8 +118,7 @@ async function _getVestingV2Dates(vestingContract: Contract) {
   if (await vestingContract.methods.getIsLinear().call()) {
     contractEndsTimestamp = Number(contractStart) + Number(contractDuration)
     vesting_finish_at = toISOString(contractEndsTimestamp)
-  }
-  else {
+  } else {
     const periods = (await vestingContract.methods.getVestedPerPeriod().call()).length || 0
     contractEndsTimestamp = Number(contractStart) + Number(contractDuration) * periods
     vesting_finish_at = toISOString(contractEndsTimestamp)
@@ -168,7 +169,7 @@ async function _getVestingContractDataV2(vestingAddress: string): Promise<Vestin
     vesting_contract_token_balance,
     vesting_total_amount,
     vesting_status,
-    duration_in_months: getMonthsBetweenDates(new Date(vesting_start_at), new Date(vesting_finish_at))
+    duration_in_months: getMonthsBetweenDates(new Date(vesting_start_at), new Date(vesting_finish_at)),
   }
 }
 
@@ -179,24 +180,34 @@ async function getVestingContractData(proposalId: string, vestingAddresses: stri
     try {
       return await Promise.all(vestingAddresses.map((address) => _getVestingContractDataV2(address)))
     } catch (errorV2) {
-      rollbar.log(`Error trying to get vesting data`, {proposalId, vestingAddresses, errorV1, errorV2})
+      rollbar.log(`Error trying to get vesting data`, { proposalId, vestingAddresses, errorV1, errorV2 })
     }
   }
 }
 
 function transferMatchesBeneficiary(decodedLogEvent: Decoded, beneficiary: string) {
-  return decodedLogEvent && decodedLogEvent.name === DecodedName.Transfer &&
-    decodedLogEvent.params.some(param => {
+  return (
+    decodedLogEvent &&
+    decodedLogEvent.name === DecodedName.Transfer &&
+    decodedLogEvent.params.some((param) => {
       return param.name === ParamName.To && isSameAddress(String(param.value), beneficiary)
     })
+  )
 }
 
 async function getTransactionItems(enactingTx: string) {
-  const items = await fetchCovalentURL<TransactionItem>(`${baseCovalentUrl(Networks.getEth())}/transaction_v2/${enactingTx}/?key=${COVALENT_API_KEY}`, 0)
+  const items = await fetchCovalentURL<TransactionItem>(
+    `${baseCovalentUrl(Networks.getEth())}/transaction_v2/${enactingTx}/?key=${COVALENT_API_KEY}`,
+    0
+  )
   return items[0]
 }
 
-async function getEnactingTxData(proposalId: string, enactingTx: string, beneficiary: string): Promise<OneTimePaymentInfo> {
+async function getEnactingTxData(
+  proposalId: string,
+  enactingTx: string,
+  beneficiary: string
+): Promise<OneTimePaymentInfo> {
   try {
     const transactionItems = await getTransactionItems(enactingTx)
     for (let logEvent of transactionItems.log_events) {
@@ -216,14 +227,29 @@ async function getEnactingTxData(proposalId: string, enactingTx: string, benefic
 }
 
 function getUpdatesAmountByStatus(updates: GrantUpdate[], status: UpdateStatus): number {
-  return updates.filter(update => update.status === status).length
+  return updates.filter((update) => update.status === status).length
 }
 
-function parseUpdatesInfo(updatesResponseData: GrantUpdateResponse['data']): Updates {
+async function getProjectUpdates(proposal: Project): Promise<Updates | {}> {
+  try {
+    const projectUpdateResponse: ProjectUpdateResponse = await fetchURL(
+      `https://governance.decentraland.org/api/proposals/${proposal.id}/updates`
+    )
+    if (!projectUpdateResponse.ok) {
+      console.log(`Error trying to get updates for proposal ${proposal.id} - Message: ${projectUpdateResponse.error}`)
+      return {}
+    }
+    return parseUpdatesInfo(projectUpdateResponse.data)
+  } catch (error) {
+    console.log(`Error trying to get updates for proposal ${proposal.id} - Error: ${JSON.stringify(error)}`)
+    return {}
+  }
+}
 
-  const lastUpdate = updatesResponseData.publicUpdates.filter(
-    update => update.status === UpdateStatus.Done || update.status === UpdateStatus.Late
-  ).sort((a, b) => new Date(b.completion_date).getTime() - new Date(a.completion_date).getTime())[0]
+function parseUpdatesInfo(updatesResponseData: ProjectUpdateResponse['data']): Updates {
+  const lastUpdate = updatesResponseData.publicUpdates
+    .filter((update) => update.status === UpdateStatus.Done || update.status === UpdateStatus.Late)
+    .sort((a, b) => new Date(b.completion_date).getTime() - new Date(a.completion_date).getTime())[0]
   return {
     done_updates: getUpdatesAmountByStatus(updatesResponseData.publicUpdates, UpdateStatus.Done),
     late_updates: getUpdatesAmountByStatus(updatesResponseData.publicUpdates, UpdateStatus.Late),
@@ -232,65 +258,74 @@ function parseUpdatesInfo(updatesResponseData: GrantUpdateResponse['data']): Upd
     health: lastUpdate?.health,
     last_update: lastUpdate?.completion_date,
     next_update: updatesResponseData.nextUpdate?.due_date,
-    pending_updates: updatesResponseData.pendingUpdates.length
+    pending_updates: updatesResponseData.pendingUpdates.length,
   }
 }
 
-async function setEnactingData(proposal: GrantProposal): Promise<void> {
-
-  const assignProposalData = (data: Updates | OneTimePaymentInfo) => {
-    Object.assign(proposal, data)
-  }
-
-  if (proposal.vesting_addresses.length > 0) {
-    const vestingContractData = await getVestingContractData(proposal.id, proposal.vesting_addresses)
-    proposal.vesting = vestingContractData
-  }
-  if (proposal.enacting_tx) {
-    const enactingTxData = await getEnactingTxData(proposal.id, proposal.enacting_tx.toLowerCase(), proposal.beneficiary)
-    assignProposalData(enactingTxData)
-  }
+async function setEnactingData(proposal: Project): Promise<Project> {
   if (proposal.vesting_addresses.length === 0 && proposal.enacting_tx === null) {
-    console.log(`A proposal without vesting address and enacting tx has been found. Id ${proposal.id}`)
+    console.log(`A proposal without vesting address and enacting tx has been found. Id: ${proposal.id}`)
   }
 
-  const grantUpdateResponse: GrantUpdateResponse = await fetchURL(`https://governance.decentraland.org/api/proposals/${proposal.id}/updates`)
+  const dataPromises = []
+  dataPromises.push(
+    proposal.vesting_addresses.length > 0
+      ? getVestingContractData(proposal.id, proposal.vesting_addresses)
+      : Promise.resolve(null)
+  )
+  dataPromises.push(
+    proposal.enacting_tx
+      ? getEnactingTxData(proposal.id, proposal.enacting_tx.toLowerCase(), proposal.beneficiary)
+      : Promise.resolve({})
+  )
+  dataPromises.push(getProjectUpdates(proposal))
+  const [vestingData, enactingTxData, updateInfo] = await Promise.all(dataPromises)
 
-  if (!grantUpdateResponse.ok) {
-    console.log(`Error trying to get updates for proposal ${proposal.id} - Message: ${grantUpdateResponse.error}`)
-  } else {
-    const updateInfo = parseUpdatesInfo(grantUpdateResponse.data)
-    assignProposalData(updateInfo)
+  let updatedProposal = { ...proposal, ...enactingTxData, ...updateInfo }
+  if (vestingData) {
+    updatedProposal = { ...updatedProposal, vesting: vestingData }
   }
+
+  return updatedProposal
 }
 
 async function main() {
   // Get Governance dApp Proposals
-  const proposals = (PROPOSALS as GrantProposal[]).filter(p => p.type === GovernanceProposalType.GRANT)
-  const unresolvedEnactingData: Promise<void>[] = []
+  const projects = (PROPOSALS as Project[])
+    .filter((p) => p.type === GovernanceProposalType.GRANT || p.type === GovernanceProposalType.BID)
+    .map((proposal) => {
+      let projectProposal = {
+        ...proposal,
+        size: proposal.configuration.size || proposal.configuration.funding,
+        beneficiary: proposal.configuration.beneficiary,
+      }
+      if (proposal.type === GovernanceProposalType.GRANT) {
+        projectProposal = {
+          ...projectProposal,
+          category: proposal.configuration.category,
+          tier: proposal.configuration.tier?.split(':')[0],
+        }
+      }
 
-  for (const proposal of proposals) {
-    proposal.category = proposal.configuration.category
-    proposal.tier = proposal.configuration.tier.split(':')[0]
-    proposal.size = proposal.configuration.size
-    proposal.beneficiary = proposal.configuration.beneficiary
+      if (proposal.status === Status.ENACTED) {
+        return setEnactingData(projectProposal)
+      } else {
+        return Promise.resolve(projectProposal)
+      }
+    })
 
-    if (proposal.status === Status.ENACTED) {
-      unresolvedEnactingData.push(setEnactingData(proposal))
-    }
-  }
+  const projectsWithVestingData: Project[] = await Promise.all(projects)
 
-  await Promise.all(unresolvedEnactingData)
+  console.log(projectsWithVestingData.length, 'projects found.')
 
-  console.log(proposals.length, 'grants found.')
-
-  saveToJSON('grants.json', proposals)
-  await saveToCSV('grants.csv', proposals, [
+  saveToJSON('projects.json', projectsWithVestingData)
+  await saveToCSV('projects.csv', projectsWithVestingData, [
     { id: 'id', title: 'Proposal ID' },
     { id: 'snapshot_id', title: 'Snapshot ID' },
     { id: 'user', title: 'Author' },
 
     { id: 'title', title: 'Title' },
+    { id: 'type', title: 'Type' },
     { id: 'status', title: 'Status' },
     { id: 'start_at', title: 'Started' },
     { id: 'finish_at', title: 'Ended' },
@@ -314,10 +349,12 @@ async function main() {
     { id: 'health', title: 'Project Health' },
     { id: 'last_update', title: 'Last Update' },
     { id: 'next_update', title: 'Next Update' },
-    { id: 'pending_updates', title: 'Pending Updates' }
+    { id: 'pending_updates', title: 'Pending Updates' },
   ])
 
-  const vestings = flattenArray(proposals.map(({ vesting, id }) => vesting?.map((vestingData) => ({ proposal_id: id, ...vestingData })))).filter(v => v)
+  const vestings = flattenArray(
+    projectsWithVestingData.map(({ vesting, id }) => vesting?.map((vestingData) => ({ proposal_id: id, ...vestingData })))
+  ).filter((v) => v)
   saveToJSON('vestings.json', vestings)
   await saveToCSV('vestings.csv', vestings, [
     { id: 'proposal_id', title: 'Proposal ID' },
@@ -331,7 +368,6 @@ async function main() {
     { id: 'vesting_finish_at', title: 'Vesting Finish At' },
     { id: 'duration_in_months', title: 'Duration (Months)' },
   ])
-
 }
 
 main().catch((error) => reportToRollbarAndThrow(__filename, error))
