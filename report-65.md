@@ -151,6 +151,7 @@ Since February 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Should self-voting in grants result in their invalidation or revocation?](https://governance.decentraland.org/proposal/?id=fee72e67-9342-4fa9-8574-688916c8419a)
 * [Proposal for Adding Customizable Bio Section to Gov DApp Profile Page](https://governance.decentraland.org/proposal/?id=c6948240-c8a2-4d37-8a31-1b93331a82db)
 * [Should Nifty Island Defectors Be Banned From Grants?](https://governance.decentraland.org/proposal/?id=e8bfdf00-eac1-4bef-92e5-12c6e219d979)
 * [Should we stop decisions to be made behind close doors?](https://governance.decentraland.org/proposal/?id=fa8058c5-176e-49ae-bc82-9a1c95282118)
