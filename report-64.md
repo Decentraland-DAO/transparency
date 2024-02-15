@@ -162,8 +162,6 @@ Since January 16, 6 grants have been approved and the vesting contract(s) will b
 * [Creating Collaborative Short-Form &amp; Live Streamed Content for Community Members](https://governance.decentraland.org/proposal/?id=c94dab4a-28f2-4c7b-83dd-b786aa563427) (Higher Tier)
 * [Facemoon: Enabling Decentraland&#39;s Next-Level Experience](https://governance.decentraland.org/proposal/?id=034fbe30-038d-4349-b6ee-fcb80469b64e) (Lower Tier)
 * [Finished job/resubmission.. [Polkadot integration]](https://governance.decentraland.org/proposal/?id=79b5abda-262e-4b76-a948-d7cc6f5719ac) (Lower Tier)
-* [Cross Reality Music Events](https://governance.decentraland.org/proposal/?id=f4b489d0-10cb-4cb4-8b1a-7c3d6a61e350) (Lower Tier)
-* [# Multiplayer UI card games! [SNAP] [POKER] [+MORE]](https://governance.decentraland.org/proposal/?id=4715e268-ec34-49c4-ae28-46dc52ab18b3) (Higher Tier)
 
 ## Names Bans
 
@@ -173,6 +171,8 @@ Since January 16, 6 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Should we Ban Landlordao for Abusing VP and Exploiting DAO Users?](https://governance.decentraland.org/proposal/?id=e8d1bbb7-4309-4be9-9570-a0a7b62a7390)
+* [Revoke Duel Arena P2E Continuum, Refinement &amp; Game Expansion [ Resubmission ]](https://governance.decentraland.org/proposal/?id=3b92b879-c975-4407-b87a-b03c20baff81)
 * [Should self-voting in grants result in their invalidation or revocation?](https://governance.decentraland.org/proposal/?id=fee72e67-9342-4fa9-8574-688916c8419a)
 * [Proposal for Adding Customizable Bio Section to Gov DApp Profile Page](https://governance.decentraland.org/proposal/?id=c6948240-c8a2-4d37-8a31-1b93331a82db)
 * [Should Nifty Island Defectors Be Banned From Grants?](https://governance.decentraland.org/proposal/?id=e8bfdf00-eac1-4bef-92e5-12c6e219d979)
@@ -180,6 +180,5 @@ Since January 16, 6 grants have been approved and the vesting contract(s) will b
 * [VP and GP the future of DAO&#39;s ](https://governance.decentraland.org/proposal/?id=71e0173a-e9e6-43f2-9398-25aaffc1b2ea)
 * [Voting change](https://governance.decentraland.org/proposal/?id=57ae82de-1c17-4fa0-936b-82793f740dfa)
 * [Resubmit:Initiative for DCL Grant Applicants to HODL 5% of Funding Amount](https://governance.decentraland.org/proposal/?id=e326a3a4-6abd-4b40-a408-6b9411c353d9)
-* [Revoke &#34;600 posters to boost Decentraland&#34;](https://governance.decentraland.org/proposal/?id=de3bc4ed-923c-450f-8794-4b511a93ce0f)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
