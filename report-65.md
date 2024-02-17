@@ -124,6 +124,7 @@ Since February 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
+* [Recreate game and boost Nifty Island](https://governance.decentraland.org/proposal/?id=cd81f0e3-f51f-4262-b920-39b1abf9193d) (Higher Tier)
 * [PuppetIra: Fusing Puppetry Art with Digital Innovation in Decentraland](https://governance.decentraland.org/proposal/?id=27c424fe-d285-4266-ba6c-ec61ba4e3081) (Higher Tier)
 * [Platform Unit: Game Dev, Global Systems &amp; Tooling Proposal](https://governance.decentraland.org/proposal/?id=dc00f623-479a-4f31-ae41-9d2ee8f966a8) (Higher Tier)
 * [DAO Accelerator: Revenue-Sharing Wallet [20% to DAO]](https://governance.decentraland.org/proposal/?id=59a1dee7-9d0d-4fb9-9c5c-7057d5f37a13) (Higher Tier)
@@ -140,11 +141,8 @@ Since February 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
-* [Should we Ban Landlordao for Abusing VP and Exploiting DAO Users?](https://governance.decentraland.org/proposal/?id=e8d1bbb7-4309-4be9-9570-a0a7b62a7390)
 * [Revoke Duel Arena P2E Continuum, Refinement &amp; Game Expansion [ Resubmission ]](https://governance.decentraland.org/proposal/?id=3b92b879-c975-4407-b87a-b03c20baff81)
 * [Should self-voting in grants result in their invalidation or revocation?](https://governance.decentraland.org/proposal/?id=fee72e67-9342-4fa9-8574-688916c8419a)
 * [Proposal for Adding Customizable Bio Section to Gov DApp Profile Page](https://governance.decentraland.org/proposal/?id=c6948240-c8a2-4d37-8a31-1b93331a82db)
-* [Should Nifty Island Defectors Be Banned From Grants?](https://governance.decentraland.org/proposal/?id=e8bfdf00-eac1-4bef-92e5-12c6e219d979)
-* [Should we stop decisions to be made behind close doors?](https://governance.decentraland.org/proposal/?id=fa8058c5-176e-49ae-bc82-9a1c95282118)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
