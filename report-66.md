@@ -63,6 +63,7 @@ Since February 16, 1 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Should Grants be required to prove they&#39;ve done the work before claiming funds?](https://governance.decentraland.org/proposal/?id=3aa6d400-fe77-43bd-a726-6652700fb6a7)
 * [Revoke Duel Arena P2E Continuum, Refinement &amp; Game Expansion [ Resubmission ]](https://governance.decentraland.org/proposal/?id=3b92b879-c975-4407-b87a-b03c20baff81)
 * [Should self-voting in grants result in their invalidation or revocation?](https://governance.decentraland.org/proposal/?id=fee72e67-9342-4fa9-8574-688916c8419a)
 * [Proposal for Adding Customizable Bio Section to Gov DApp Profile Page](https://governance.decentraland.org/proposal/?id=c6948240-c8a2-4d37-8a31-1b93331a82db)
