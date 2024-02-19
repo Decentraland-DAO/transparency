@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -38,6 +38,13 @@ Since February 16, 1 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+#### [Proposal for Adding Customizable Bio Section to Gov DApp Profile Page](https://governance.decentraland.org/proposal/?id=c6948240-c8a2-4d37-8a31-1b93331a82db)
+
+* YES 1.3924439018947672% 16,973 VP (29 votes)
+* NO 96.57849140561933% 1,177,230 VP (13 votes)
+* Invalid question/options 2.0290646924859055% 24,733 VP (7 votes)
+
+
 
 # Active Proposals
 
@@ -53,7 +60,6 @@ Since February 16, 1 grants have been approved and the vesting contract(s) will 
 * [Retroactive Grant: Tudamoon](https://governance.decentraland.org/proposal/?id=ed697713-cd4f-4bb4-bcb2-5c3bf5c567ee) (Lower Tier)
 * [Retroactive Grant: Morph](https://governance.decentraland.org/proposal/?id=a0e2bf05-2a60-4443-8ae3-5c9505e74cec) (Lower Tier)
 * [Create-To-Earn Monthly Reward System for Active DCL Users](https://governance.decentraland.org/proposal/?id=81ba1207-2375-4ffe-abf6-b69039618ae9) (Lower Tier)
-* [Creating Collaborative Short-Form &amp; Live Streamed Content for Community Members](https://governance.decentraland.org/proposal/?id=c94dab4a-28f2-4c7b-83dd-b786aa563427) (Higher Tier)
 
 ## Names Bans
 
@@ -63,9 +69,9 @@ Since February 16, 1 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Should DAO Grants Program be renamed to reflect the expectation of an ROI?](https://governance.decentraland.org/proposal/?id=e8710259-ccc9-4b8e-af87-61460db37e7e)
 * [Should Grants be required to prove they&#39;ve done the work before claiming funds?](https://governance.decentraland.org/proposal/?id=3aa6d400-fe77-43bd-a726-6652700fb6a7)
 * [Revoke Duel Arena P2E Continuum, Refinement &amp; Game Expansion [ Resubmission ]](https://governance.decentraland.org/proposal/?id=3b92b879-c975-4407-b87a-b03c20baff81)
 * [Should self-voting in grants result in their invalidation or revocation?](https://governance.decentraland.org/proposal/?id=fee72e67-9342-4fa9-8574-688916c8419a)
-* [Proposal for Adding Customizable Bio Section to Gov DApp Profile Page](https://governance.decentraland.org/proposal/?id=c6948240-c8a2-4d37-8a31-1b93331a82db)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
