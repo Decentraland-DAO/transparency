@@ -127,7 +127,6 @@ Since February 1, 3 grants have been approved and the vesting contract(s) will b
 * [Recreate game and boost Nifty Island](https://governance.decentraland.org/proposal/?id=cd81f0e3-f51f-4262-b920-39b1abf9193d) (Higher Tier)
 * [PuppetIra: Fusing Puppetry Art with Digital Innovation in Decentraland](https://governance.decentraland.org/proposal/?id=27c424fe-d285-4266-ba6c-ec61ba4e3081) (Higher Tier)
 * [Platform Unit: Game Dev, Global Systems &amp; Tooling Proposal](https://governance.decentraland.org/proposal/?id=dc00f623-479a-4f31-ae41-9d2ee8f966a8) (Higher Tier)
-* [DAO Accelerator: Revenue-Sharing Wallet [20% to DAO]](https://governance.decentraland.org/proposal/?id=59a1dee7-9d0d-4fb9-9c5c-7057d5f37a13) (Higher Tier)
 
 ## Names Bans
 
@@ -137,7 +136,7 @@ Since February 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Reward Canny Requests](https://governance.decentraland.org/proposal/?id=830fe28c-2bae-4a08-8384-3a26aa755ef2)
 * [Should DAO Grants Program be renamed to reflect the expectation of an ROI?](https://governance.decentraland.org/proposal/?id=e8710259-ccc9-4b8e-af87-61460db37e7e)
-* [Should Grants be required to prove they&#39;ve done the work before claiming funds?](https://governance.decentraland.org/proposal/?id=3aa6d400-fe77-43bd-a726-6652700fb6a7)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
