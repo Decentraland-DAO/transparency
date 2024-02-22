@@ -79,6 +79,8 @@ Since February 16, 2 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Should Monetization Replace In-World Grants?](https://governance.decentraland.org/proposal/?id=c472d0f2-8ec8-4f24-890d-9a8193446846)
+* [Should a budget reduction replace the grant freeze?](https://governance.decentraland.org/proposal/?id=cce5def1-74d7-4c78-be7e-1a2d95b6ddbc)
 * [Reward Canny Requests](https://governance.decentraland.org/proposal/?id=830fe28c-2bae-4a08-8384-3a26aa755ef2)
 * [Should DAO Grants Program be renamed to reflect the expectation of an ROI?](https://governance.decentraland.org/proposal/?id=e8710259-ccc9-4b8e-af87-61460db37e7e)
 
