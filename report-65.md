@@ -124,6 +124,7 @@ Since February 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
+* [Development of Decentraland aggregator dashboard on Alphaday.](https://governance.decentraland.org/proposal/?id=aac57fd1-e68a-453a-8037-03e917fe6f02) (Lower Tier)
 * [Recreate game and boost Nifty Island](https://governance.decentraland.org/proposal/?id=cd81f0e3-f51f-4262-b920-39b1abf9193d) (Higher Tier)
 * [PuppetIra: Fusing Puppetry Art with Digital Innovation in Decentraland](https://governance.decentraland.org/proposal/?id=27c424fe-d285-4266-ba6c-ec61ba4e3081) (Higher Tier)
 
