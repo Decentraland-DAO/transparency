@@ -138,7 +138,5 @@ Since February 1, 3 grants have been approved and the vesting contract(s) will b
 * [&#34;verified organizations&#34; golden badge on X ](https://governance.decentraland.org/proposal/?id=8b9c6868-8612-475c-ba4d-13701aa9609c)
 * [Nifty Island Decentraland Community](https://governance.decentraland.org/proposal/?id=77afb6cd-8802-402e-9932-a1dbf93905ee)
 * [Should Monetization Replace In-World Grants?](https://governance.decentraland.org/proposal/?id=c472d0f2-8ec8-4f24-890d-9a8193446846)
-* [Should a budget reduction replace the grant freeze?](https://governance.decentraland.org/proposal/?id=cce5def1-74d7-4c78-be7e-1a2d95b6ddbc)
-* [Reward Canny Requests](https://governance.decentraland.org/proposal/?id=830fe28c-2bae-4a08-8384-3a26aa755ef2)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

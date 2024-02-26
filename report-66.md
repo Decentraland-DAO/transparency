@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -44,6 +44,21 @@ Since February 16, 2 grants have been approved and the vesting contract(s) will 
 
 
 ## Polls
+
+#### [Should a budget reduction replace the grant freeze?](https://governance.decentraland.org/proposal/?id=cce5def1-74d7-4c78-be7e-1a2d95b6ddbc)
+
+* Yes 14.464596198465623% 624,352 VP (11 votes)
+* No 40.75414435358973% 1,759,118 VP (14 votes)
+* Abstain 44.78125944794465% 1,932,945 VP (21 votes)
+* Invalid question/options 0% 0 VP (1 votes)
+
+
+#### [Reward Canny Requests](https://governance.decentraland.org/proposal/?id=830fe28c-2bae-4a08-8384-3a26aa755ef2)
+
+* Yes 37.86426976014035% 1,456,370 VP (34 votes)
+* No 31.930969341633276% 1,228,158 VP (1 votes)
+* Invalid question/options 30.20476089822637% 1,161,763 VP (9 votes)
+
 
 #### [Revoke Duel Arena P2E Continuum, Refinement &amp; Game Expansion [ Resubmission ]](https://governance.decentraland.org/proposal/?id=3b92b879-c975-4407-b87a-b03c20baff81)
 
@@ -81,7 +96,5 @@ Since February 16, 2 grants have been approved and the vesting contract(s) will 
 * [&#34;verified organizations&#34; golden badge on X ](https://governance.decentraland.org/proposal/?id=8b9c6868-8612-475c-ba4d-13701aa9609c)
 * [Nifty Island Decentraland Community](https://governance.decentraland.org/proposal/?id=77afb6cd-8802-402e-9932-a1dbf93905ee)
 * [Should Monetization Replace In-World Grants?](https://governance.decentraland.org/proposal/?id=c472d0f2-8ec8-4f24-890d-9a8193446846)
-* [Should a budget reduction replace the grant freeze?](https://governance.decentraland.org/proposal/?id=cce5def1-74d7-4c78-be7e-1a2d95b6ddbc)
-* [Reward Canny Requests](https://governance.decentraland.org/proposal/?id=830fe28c-2bae-4a08-8384-3a26aa755ef2)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
