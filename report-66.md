@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -45,6 +45,13 @@ Since February 16, 2 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+#### [Should Monetization Replace In-World Grants?](https://governance.decentraland.org/proposal/?id=c472d0f2-8ec8-4f24-890d-9a8193446846)
+
+* Yes - replace in-world grants with monetization 0.32162852244328216% 11,871 VP (24 votes)
+* No  77.58836317606743% 2,863,712 VP (15 votes)
+* Invalid question/options 22.090008301489284% 815,321 VP (20 votes)
+
+
 #### [Should a budget reduction replace the grant freeze?](https://governance.decentraland.org/proposal/?id=cce5def1-74d7-4c78-be7e-1a2d95b6ddbc)
 
 * Yes 14.464596198465623% 624,352 VP (11 votes)
@@ -79,6 +86,7 @@ Since February 16, 2 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
+* -2, -66: [super rare](https://governance.decentraland.org/proposal/?id=475806eb-815e-466e-a049-31cf73323d3a)
 
 ## Grants
 
@@ -93,8 +101,9 @@ Since February 16, 2 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Revamp Delegation-Voting System](https://governance.decentraland.org/proposal/?id=1fd6d3df-c215-4511-8d13-c406cbd4bd36)
+* [Should the Performance Metrics be a requirement for the Grantees?](https://governance.decentraland.org/proposal/?id=a08d4d0f-f4d2-415a-ad33-fec3281a6a74)
 * [&#34;verified organizations&#34; golden badge on X ](https://governance.decentraland.org/proposal/?id=8b9c6868-8612-475c-ba4d-13701aa9609c)
 * [Nifty Island Decentraland Community](https://governance.decentraland.org/proposal/?id=77afb6cd-8802-402e-9932-a1dbf93905ee)
-* [Should Monetization Replace In-World Grants?](https://governance.decentraland.org/proposal/?id=c472d0f2-8ec8-4f24-890d-9a8193446846)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

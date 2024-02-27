@@ -121,6 +121,7 @@ Since February 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* -2, -66: [super rare](https://governance.decentraland.org/proposal/?id=475806eb-815e-466e-a049-31cf73323d3a)
 
 ## Grants
 
@@ -135,8 +136,9 @@ Since February 1, 3 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Revamp Delegation-Voting System](https://governance.decentraland.org/proposal/?id=1fd6d3df-c215-4511-8d13-c406cbd4bd36)
+* [Should the Performance Metrics be a requirement for the Grantees?](https://governance.decentraland.org/proposal/?id=a08d4d0f-f4d2-415a-ad33-fec3281a6a74)
 * [&#34;verified organizations&#34; golden badge on X ](https://governance.decentraland.org/proposal/?id=8b9c6868-8612-475c-ba4d-13701aa9609c)
 * [Nifty Island Decentraland Community](https://governance.decentraland.org/proposal/?id=77afb6cd-8802-402e-9932-a1dbf93905ee)
-* [Should Monetization Replace In-World Grants?](https://governance.decentraland.org/proposal/?id=c472d0f2-8ec8-4f24-890d-9a8193446846)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
