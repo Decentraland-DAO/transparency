@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -45,33 +45,11 @@ Since February 16, 2 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
-#### [Should Monetization Replace In-World Grants?](https://governance.decentraland.org/proposal/?id=c472d0f2-8ec8-4f24-890d-9a8193446846)
-
-* Yes - replace in-world grants with monetization 0.32162852244328216% 11,871 VP (24 votes)
-* No  77.58836317606743% 2,863,712 VP (15 votes)
-* Invalid question/options 22.090008301489284% 815,321 VP (20 votes)
-
-
-#### [Should a budget reduction replace the grant freeze?](https://governance.decentraland.org/proposal/?id=cce5def1-74d7-4c78-be7e-1a2d95b6ddbc)
-
-* Yes 14.464596198465623% 624,352 VP (11 votes)
-* No 40.75414435358973% 1,759,118 VP (14 votes)
-* Abstain 44.78125944794465% 1,932,945 VP (21 votes)
-* Invalid question/options 0% 0 VP (1 votes)
-
-
 #### [Reward Canny Requests](https://governance.decentraland.org/proposal/?id=830fe28c-2bae-4a08-8384-3a26aa755ef2)
 
 * Yes 37.86426976014035% 1,456,370 VP (34 votes)
 * No 31.930969341633276% 1,228,158 VP (1 votes)
 * Invalid question/options 30.20476089822637% 1,161,763 VP (9 votes)
-
-
-#### [Revoke Duel Arena P2E Continuum, Refinement &amp; Game Expansion [ Resubmission ]](https://governance.decentraland.org/proposal/?id=3b92b879-c975-4407-b87a-b03c20baff81)
-
-* YESSSSSS! 34.301019829776905% 3,400,942 VP (45 votes)
-* No 45.77033275279809% 4,538,123 VP (5 votes)
-* Invalid question/options 19.92864741742501% 1,975,923 VP (14 votes)
 
 
 #### [Should self-voting in grants result in their invalidation or revocation?](https://governance.decentraland.org/proposal/?id=fee72e67-9342-4fa9-8574-688916c8419a)
