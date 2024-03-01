@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -44,6 +44,21 @@ Since February 16, 2 grants have been approved and the vesting contract(s) will 
 
 
 ## Polls
+
+#### [&#34;verified organizations&#34; golden badge on X ](https://governance.decentraland.org/proposal/?id=8b9c6868-8612-475c-ba4d-13701aa9609c)
+
+* I support company subscription 87.86268776737326% 3,968,429 VP (39 votes)
+* I don&#39;t support company subscription 0.14490905379369468% 6,545 VP (7 votes)
+* Invalid question/options 11.99240317883305% 541,652 VP (14 votes)
+
+
+#### [Nifty Island Decentraland Community](https://governance.decentraland.org/proposal/?id=77afb6cd-8802-402e-9932-a1dbf93905ee)
+
+* Yes we will do it 0.07938559831755802% 2,742 VP (17 votes)
+* Yes lets create one 98.94320455514679% 3,417,525 VP (36 votes)
+* Bad idea 0.1371442666777069% 4,737 VP (3 votes)
+* Invalid question/options 0.8402655798579455% 29,023 VP (9 votes)
+
 
 #### [Reward Canny Requests](https://governance.decentraland.org/proposal/?id=830fe28c-2bae-4a08-8384-3a26aa755ef2)
 
@@ -82,7 +97,5 @@ Since February 16, 2 grants have been approved and the vesting contract(s) will 
 * [Should the foundation &#34;hard fork&#34; Decentraland and create Mana 2](https://governance.decentraland.org/proposal/?id=dc271ab1-0b6a-48b3-bbb6-2190384414db)
 * [Revamp Delegation-Voting System](https://governance.decentraland.org/proposal/?id=1fd6d3df-c215-4511-8d13-c406cbd4bd36)
 * [Should the Performance Metrics be a requirement for the Grantees?](https://governance.decentraland.org/proposal/?id=a08d4d0f-f4d2-415a-ad33-fec3281a6a74)
-* [&#34;verified organizations&#34; golden badge on X ](https://governance.decentraland.org/proposal/?id=8b9c6868-8612-475c-ba4d-13701aa9609c)
-* [Nifty Island Decentraland Community](https://governance.decentraland.org/proposal/?id=77afb6cd-8802-402e-9932-a1dbf93905ee)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

@@ -71,7 +71,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0xc1b8662a68f3eb66bc5e5c4de7c1ef04dc344d53,12194.816201299258,1589.816201299257,2000,8000,600,0,5,0,false,,true,1,0x03744b2aaf73b4f8679955747f3bc2d315c7a678,https://wearable-preview.decentraland.org/?profile=0xc1b8662a68f3eb66bc5e5c4de7c1ef04dc344d53
 0x8ab97bf40dfc245b56983dec00adfea03c7e4e85,0.23536527,0.23536527,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x8ab97bf40dfc245b56983dec00adfea03c7e4e85
 0xf6852df0c0a18ac3a4cb4b5d470895f86d3861ce,2110,0,2000,0,100,0,10,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xf6852df0c0a18ac3a4cb4b5d470895f86d3861ce
-0x1f149885bb140f07ff88de2ac4d521bc27964c1b,89039.17554,18149.17554,12000,48000,2700,0,190,8000,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x1f149885bb140f07ff88de2ac4d521bc27964c1b
+0x1f149885bb140f07ff88de2ac4d521bc27964c1b,70890,0,12000,48000,2700,0,190,8000,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x1f149885bb140f07ff88de2ac4d521bc27964c1b
 0x2456c20507770151fb3eb6d3a1a0eebd8113697a,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x2456c20507770151fb3eb6d3a1a0eebd8113697a
 0x3d22181456a33c2b23d6cdc7f5f3eb897c467a02,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x3d22181456a33c2b23d6cdc7f5f3eb897c467a02
 0x43c2c373ba1be9ce857b8a76812afacd9f17e294,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x43c2c373ba1be9ce857b8a76812afacd9f17e294
@@ -98,7 +98,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0x99fe1a841d59379acd34da92ad01cf4244e73475,6447,0,2000,4000,100,0,347,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x99fe1a841d59379acd34da92ad01cf4244e73475
 0x97ca90ab3a66abda308f0b238f2bb27aab48735f,620,0,0,0,200,0,420,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x97ca90ab3a66abda308f0b238f2bb27aab48735f
 0x1b3010767f2f4c67a3f7e35bc3eab89069d2aaf6,464.09728291,164.09728291,0,0,300,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x1b3010767f2f4c67a3f7e35bc3eab89069d2aaf6
-0xe58d9940a395d303e691dbe0676710d9c140101a,2877.715,37.715,2000,0,300,0,540,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xe58d9940a395d303e691dbe0676710d9c140101a
+0xe58d9940a395d303e691dbe0676710d9c140101a,2880.6400000000003,40.64,2000,0,300,0,540,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xe58d9940a395d303e691dbe0676710d9c140101a
 0xba363b223e2d2b1b2a9017bac58a0a2b8137fb9a,2818.107302162097,2718.107302162097,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xba363b223e2d2b1b2a9017bac58a0a2b8137fb9a
 0xa3a4fd7b17983c4b6683547025be88801deaf15c,4111,1,4000,0,100,0,10,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xa3a4fd7b17983c4b6683547025be88801deaf15c
 0x76fb13f00cdbdd5eac8e2664cf14be791af87cb0,7967.567970325939,0,4000,0,1100,2847.5679703259393,20,0,false,,true,4,"0x388acfc1bb2d6811823995213f60c0ca1cae845c,0xa01424b7540adbb792375dcf97b733a5d68ad347,0x6d41e23356ef0190bcde4d1fcc03d509fc5a10c9,0xaf60359e04d0642ae13fe0923c314398d69c34cf",https://wearable-preview.decentraland.org/?profile=0x76fb13f00cdbdd5eac8e2664cf14be791af87cb0
@@ -345,7 +345,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0xbd32ef8c2bf6010877cdda3629efb5b30efe8821,11362.43258596021,1262.4325859602095,2000,8000,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xbd32ef8c2bf6010877cdda3629efb5b30efe8821
 0x7c4a24c5b1c0eba323ac796b841708ca4f79feb1,5838.213380669787,5738.213380669787,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x7c4a24c5b1c0eba323ac796b841708ca4f79feb1
 0x14287e62b859a3a5e19b3c2d59ed1f12ac94ba4c,4119.324596781264,19.3245967812636,0,4000,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x14287e62b859a3a5e19b3c2d59ed1f12ac94ba4c
-0x5a6e40b29bf20e4f60e7becb571af5ad5796a3c4,10310,0,2000,6000,2000,0,310,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x5a6e40b29bf20e4f60e7becb571af5ad5796a3c4
+0x5a6e40b29bf20e4f60e7becb571af5ad5796a3c4,8310,0,0,6000,2000,0,310,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x5a6e40b29bf20e4f60e7becb571af5ad5796a3c4
 0xaa717dc334cc6b4c629209e296ba64340d2292be,105.82338106626062,105.82338106626062,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xaa717dc334cc6b4c629209e296ba64340d2292be
 0x22038cb39dc4f045ac5053cf7f0541ea2772c650,173.3404,173.3404,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x22038cb39dc4f045ac5053cf7f0541ea2772c650
 0x04c9481dd5aaf3a65d387b5e8c53e805c95cb70a,1382.346,282.346,0,0,1100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x04c9481dd5aaf3a65d387b5e8c53e805c95cb70a
@@ -432,7 +432,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0x9147dc23a24073b7a4210173383b90e6437c507e,100,0,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x9147dc23a24073b7a4210173383b90e6437c507e
 0x4932c47583816bcb13a1d32f52facff32f61a3b9,3621.2171608199997,1621.21716082,2000,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x4932c47583816bcb13a1d32f52facff32f61a3b9
 0x66569a1bb95d6cd17aa8b974ba2e7506c6fbdb47,422.09364014929315,322.09364014929315,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x66569a1bb95d6cd17aa8b974ba2e7506c6fbdb47
-0x6f11e78b1871bdc5c6724134cba9a952b822a7e5,918.6139949603946,318.6139949603946,0,0,600,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x6f11e78b1871bdc5c6724134cba9a952b822a7e5
+0x6f11e78b1871bdc5c6724134cba9a952b822a7e5,872.7539949603946,272.7539949603946,0,0,600,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x6f11e78b1871bdc5c6724134cba9a952b822a7e5
 0xd138754662c39731017e259f6e5ce1a8e7214fd4,100,0,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xd138754662c39731017e259f6e5ce1a8e7214fd4
 0x6a35d29d8f63e4d8a8e5418be9342a48c4c8ef07,21111.025999999998,104.026,2000,8000,10300,0,707,0,true,0x9b3ae2dd9eaad174cf5700420d4861a5a73a2d2a,false,0,,https://wearable-preview.decentraland.org/?profile=0x6a35d29d8f63e4d8a8e5418be9342a48c4c8ef07
 0x621d52ea5340479291d5e575efadae8672434608,2100,0,2000,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x621d52ea5340479291d5e575efadae8672434608
@@ -448,7 +448,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0x0993fb5b078658de9e8a3e1c75661122f2236795,10000,0,2000,8000,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x0993fb5b078658de9e8a3e1c75661122f2236795
 0x6ce51a7a2b2e769fca54474bced5a9274b2ae65f,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x6ce51a7a2b2e769fca54474bced5a9274b2ae65f
 0x08261144ec8e7f166aa02d2fb920b856f7ced094,106.35027357,106.35027357,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x08261144ec8e7f166aa02d2fb920b856f7ced094
-0x2fcd5b84e04ea940afff17173e67ec64376e1dfc,5350.846943463222,1444.8469434632216,0,0,3900,0,6,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x2fcd5b84e04ea940afff17173e67ec64376e1dfc
+0x2fcd5b84e04ea940afff17173e67ec64376e1dfc,5335.846943463222,1429.8469434632216,0,0,3900,0,6,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x2fcd5b84e04ea940afff17173e67ec64376e1dfc
 0x33b44d6120744eed1401a9839a999d5003550039,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x33b44d6120744eed1401a9839a999d5003550039
 0x2341baa078e924818bc0b2cd3d446cc0638133a7,1715,0,0,0,1700,0,15,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x2341baa078e924818bc0b2cd3d446cc0638133a7
 0xb2e19dd996848818d972dd3a60a1b7faffb82330,105755.30946020945,15555.30946020945,26000,64000,200,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xb2e19dd996848818d972dd3a60a1b7faffb82330
@@ -661,7 +661,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0xc01590ef4e06323cef491ba03a44114e8ca8f857,105,90,0,0,0,0,15,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xc01590ef4e06323cef491ba03a44114e8ca8f857
 0xfa0a089ac36bed8abfd9dd0f25ffe0d47d9b0e9d,41,20,0,0,0,0,21,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xfa0a089ac36bed8abfd9dd0f25ffe0d47d9b0e9d
 0xa9e3c35f2c2e0346d8ba8d5b399a3b2b99db3822,6679.273133483585,569.2731334835853,6000,0,100,0,10,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xa9e3c35f2c2e0346d8ba8d5b399a3b2b99db3822
-0x085415007b6a835e7289a88c478a0e95f3d8ac7a,511.0293717121625,411.0293717121625,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x085415007b6a835e7289a88c478a0e95f3d8ac7a
+0x085415007b6a835e7289a88c478a0e95f3d8ac7a,511.4681217121625,411.4681217121625,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x085415007b6a835e7289a88c478a0e95f3d8ac7a
 0x23c50f341e70ac5ef3e72721fa89284e109714dd,3.3013e-14,3.3013e-14,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x23c50f341e70ac5ef3e72721fa89284e109714dd
 0x0cefa446e876a8d83bfccfec366b316ef2cf63e6,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x0cefa446e876a8d83bfccfec366b316ef2cf63e6
 0xca55a45c8547145b1b18fb8a2655811486bec196,0.13325595,0.13325595,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xca55a45c8547145b1b18fb8a2655811486bec196
@@ -741,7 +741,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0x74cba339bd0d9f64def7ebd09e06581b7854c55e,100,0,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x74cba339bd0d9f64def7ebd09e06581b7854c55e
 0x17de2c9c7889ed66c0b8fa0aa0c01c4908b73b75,200,0,0,0,200,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x17de2c9c7889ed66c0b8fa0aa0c01c4908b73b75
 0x683792c37e60906ba4ed304dde382778a1a18530,100,0,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x683792c37e60906ba4ed304dde382778a1a18530
-0x71c99d7e593e4e2b07d17feba2d080cbffe832cb,222.40610830794424,122.40610830794425,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x71c99d7e593e4e2b07d17feba2d080cbffe832cb
+0x71c99d7e593e4e2b07d17feba2d080cbffe832cb,222.51610830794425,122.51610830794425,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x71c99d7e593e4e2b07d17feba2d080cbffe832cb
 0xcf1e4c0455e69c3a82c2344648be76c72dbcda06,2261.6513193300084,261.6513193300085,2000,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xcf1e4c0455e69c3a82c2344648be76c72dbcda06
 0x0e5aee8c7a300734cb71d06249262ee2469014b3,2000,0,2000,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x0e5aee8c7a300734cb71d06249262ee2469014b3
 0x4612a877a45acf3ada03560ca9af14281616364a,4479.4864163884795,357.4864163884799,4000,0,100,0,22,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x4612a877a45acf3ada03560ca9af14281616364a
@@ -816,7 +816,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0xf2714864d4e3453f8a37c47358b51ead5c9ba2d1,152.598366206893,152.598366206893,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xf2714864d4e3453f8a37c47358b51ead5c9ba2d1
 0xa78d59f05acf567e60f70b8bdae5c88825c5b3c1,177.85299548949132,177.85299548949132,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xa78d59f05acf567e60f70b8bdae5c88825c5b3c1
 0xb30a154d44c97262cecc51e4c429b2d138a161cf,6337.849226487794,37.84922648779414,0,6000,300,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xb30a154d44c97262cecc51e4c429b2d138a161cf
-0xecc354a6936b1c16c9aafbda40e7bdc87da58218,402.7856936812345,2.785693681234505,0,0,400,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xecc354a6936b1c16c9aafbda40e7bdc87da58218
+0xecc354a6936b1c16c9aafbda40e7bdc87da58218,401.2856936812345,1.285693681234505,0,0,400,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xecc354a6936b1c16c9aafbda40e7bdc87da58218
 0x3f0ee30d04f9d92d32eb92ef8a4773d169ce3103,268.84700000000004,68.84700000000005,0,0,200,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x3f0ee30d04f9d92d32eb92ef8a4773d169ce3103
 0x94d572c0b767fd959254c9f20ef9e500223840a7,121.99763,121.99763,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x94d572c0b767fd959254c9f20ef9e500223840a7
 0x52ad8f3c506aa25b954276c5456060dad6f3fd7b,535.458237293652,435.4582372936521,0,0,100,0,0,0,true,0x447c9058be5c164e0c4aae380381e7a5215052d4,false,0,,https://wearable-preview.decentraland.org/?profile=0x52ad8f3c506aa25b954276c5456060dad6f3fd7b
@@ -841,7 +841,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0x11ef20cfeb033a3513d75164175a2e2d68f9c396,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x11ef20cfeb033a3513d75164175a2e2d68f9c396
 0xb9c4fd82a47df3b5864266a293a3516d484590b9,0.4615712182712696,0.4615712182712696,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xb9c4fd82a47df3b5864266a293a3516d484590b9
 0x930c981d82ae19c9e84f4f4f7e8de465417e0392,100,0,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x930c981d82ae19c9e84f4f4f7e8de465417e0392
-0xbf38f4174b1e86fb6baac287209bbc7b0524f9d9,10244.39382605205,309.3938260520501,2000,4000,3900,0,35,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xbf38f4174b1e86fb6baac287209bbc7b0524f9d9
+0xbf38f4174b1e86fb6baac287209bbc7b0524f9d9,10219.39382605205,284.3938260520501,2000,4000,3900,0,35,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xbf38f4174b1e86fb6baac287209bbc7b0524f9d9
 0x7544af54416cc100cc1b4df6180b4a54fa64ec80,2007.538,7.538,2000,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x7544af54416cc100cc1b4df6180b4a54fa64ec80
 0x8b2ee5fdcf16ff2340b90e1afd81e72b24c82a5f,70,70,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x8b2ee5fdcf16ff2340b90e1afd81e72b24c82a5f
 0x079ec0505a5276fae6457ad6a963290a488ea037,4216.2790569938,16.279056993799735,4000,0,200,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x079ec0505a5276fae6457ad6a963290a488ea037
@@ -1043,7 +1043,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0x948949142f796a44885b99fe3f4967b23be46352,111.02790697674418,1.027906976744183,0,0,100,0,10,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x948949142f796a44885b99fe3f4967b23be46352
 0x853f4f3756168718867dda57d625ce8197899f56,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x853f4f3756168718867dda57d625ce8197899f56
 0xa11841778f9b4d83a183e1c8f72bd98b6479e3d2,36.52702781,36.52702781,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xa11841778f9b4d83a183e1c8f72bd98b6479e3d2
-0x153b2252eddcb3690ae6f5e9f38be13779e1364d,2430.1139692463685,27.67631754733713,0,0,1100,1282.4376516990317,20,0,false,,true,4,"0x66af4b64c955c23225a2da7753a58fd55d89495b,0x4eec052d5e496066cc20592a2825b90456615670,0xa5f9db4203cd0f7c614484cfa38b40f3117cfe32,0x03e7fad1eba1d18c371a502154898587f488097c",https://wearable-preview.decentraland.org/?profile=0x153b2252eddcb3690ae6f5e9f38be13779e1364d
+0x153b2252eddcb3690ae6f5e9f38be13779e1364d,2651.326330972996,248.88867927396433,0,0,1100,1282.4376516990317,20,0,false,,true,4,"0x66af4b64c955c23225a2da7753a58fd55d89495b,0x4eec052d5e496066cc20592a2825b90456615670,0xa5f9db4203cd0f7c614484cfa38b40f3117cfe32,0x03e7fad1eba1d18c371a502154898587f488097c",https://wearable-preview.decentraland.org/?profile=0x153b2252eddcb3690ae6f5e9f38be13779e1364d
 0x25238f6f0b899dcad634047e048f3d200be4efbd,80322.55693868586,32222.556938685855,32000,16000,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x25238f6f0b899dcad634047e048f3d200be4efbd
 0x0c1cc12037bc7ab4e66f0905f7638bf4de3b99b9,0.020038471636,0.020038471636,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x0c1cc12037bc7ab4e66f0905f7638bf4de3b99b9
 0x93f6ae0d528f6cbd635909ab81e1f9e92d0f2fd9,2000,0,2000,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x93f6ae0d528f6cbd635909ab81e1f9e92d0f2fd9
@@ -1265,7 +1265,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0x49bc2e5322bb90a4306874645a523d9e5ea65f81,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x49bc2e5322bb90a4306874645a523d9e5ea65f81
 0xe47e75857c1fc64c222e7566e3ea5909c7ed96f3,100007,0,0,0,200,99770,37,0,false,,true,5,"0xbd00d0714af3ebda2dc6b77068febda6abe8de14,0xfd347239138e56a7073c3b4b81166d28de2d1127,0x94d22ab90262f3483509d80c99cdad2794a58470,0x37319da0adb7eb68787d29ceb1fc3fd42f816dd2,0x11456c3a5d29da01fae9b3d489d2d43a8d2aab31",https://wearable-preview.decentraland.org/?profile=0xe47e75857c1fc64c222e7566e3ea5909c7ed96f3
 0xa8f98b7b2039256ba66a12fead20e750ecf9670d,358100,0,32000,140000,100,0,0,186000,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xa8f98b7b2039256ba66a12fead20e750ecf9670d
-0x63435ad7678ef11eb1c9f8d92aeee96c2294817a,63.08999755912944,53.08999755912944,0,0,0,0,10,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x63435ad7678ef11eb1c9f8d92aeee96c2294817a
+0x63435ad7678ef11eb1c9f8d92aeee96c2294817a,10.049997559129443,0.04999755912944324,0,0,0,0,10,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x63435ad7678ef11eb1c9f8d92aeee96c2294817a
 0x779ddb91a65cdd2a0f53e188783bef234125c5bb,7422.735756879365,407.73575687936443,2000,0,200,0,2815,2000,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x779ddb91a65cdd2a0f53e188783bef234125c5bb
 0xc809d22a9e1b21b6b84a620fb280dfd381dd70a3,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xc809d22a9e1b21b6b84a620fb280dfd381dd70a3
 0xfd347239138e56a7073c3b4b81166d28de2d1127,99655,0,12000,44000,43600,0,55,0,true,0xe47e75857c1fc64c222e7566e3ea5909c7ed96f3,false,0,,https://wearable-preview.decentraland.org/?profile=0xfd347239138e56a7073c3b4b81166d28de2d1127
@@ -1545,7 +1545,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0x21609d39c90dcc08ca6dd8b17d654564ba0eebe2,1997,300,0,0,0,0,1697,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x21609d39c90dcc08ca6dd8b17d654564ba0eebe2
 0x3030f1e6a9de475da2349d0b72b14fad75b21cca,0.299,0.299,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x3030f1e6a9de475da2349d0b72b14fad75b21cca
 0xf7364fa3150c1268057253cfa5db6dd8d9e77fce,18402.0666366,902.0666366,0,0,3500,0,0,14000,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xf7364fa3150c1268057253cfa5db6dd8d9e77fce
-0x9f519412229f26e78ca646bddf9f4e33b61231b2,121.36624995868003,6.366249958680035,0,0,100,0,15,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x9f519412229f26e78ca646bddf9f4e33b61231b2
+0x9f519412229f26e78ca646bddf9f4e33b61231b2,121.06624995868003,6.066249958680036,0,0,100,0,15,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x9f519412229f26e78ca646bddf9f4e33b61231b2
 0xf82138beabfd8bd24544fe3c984d0395e70a7462,201.375,1.375,0,0,200,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xf82138beabfd8bd24544fe3c984d0395e70a7462
 0xf8e9a3e9b4054d1ae3eee530c1b558885cdc6d9f,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xf8e9a3e9b4054d1ae3eee530c1b558885cdc6d9f
 0xd2c31a9a3d2b8a0819c343997f102f19503a3587,113.31808878707193,13.318088787071934,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xd2c31a9a3d2b8a0819c343997f102f19503a3587
@@ -1696,7 +1696,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0x2eca5394653abf1556b1f53ddb4f80b686bb2098,100,0,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x2eca5394653abf1556b1f53ddb4f80b686bb2098
 0x7bca646c852965831691e40ebd5da3039da52aa6,100,0,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x7bca646c852965831691e40ebd5da3039da52aa6
 0x9c866d72f592fcd2ab69614e0dab8cd95e16d7cc,1800,0,0,0,1800,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x9c866d72f592fcd2ab69614e0dab8cd95e16d7cc
-0x6a77883ed4e65a1df591fda2f5252fd7c548f198,1588.3146038158404,483.3146038158405,0,0,1100,0,5,0,false,,true,1,0x2cc81707b257923629352a89547c69e92f04b07f,https://wearable-preview.decentraland.org/?profile=0x6a77883ed4e65a1df591fda2f5252fd7c548f198
+0x6a77883ed4e65a1df591fda2f5252fd7c548f198,1508.3146038158404,403.3146038158405,0,0,1100,0,5,0,false,,true,1,0x2cc81707b257923629352a89547c69e92f04b07f,https://wearable-preview.decentraland.org/?profile=0x6a77883ed4e65a1df591fda2f5252fd7c548f198
 0x7b86fb2c246732d738acae97d2963d747bc0515f,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x7b86fb2c246732d738acae97d2963d747bc0515f
 0x431e50350492c04ae4634347967670e3dc5a7278,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x431e50350492c04ae4634347967670e3dc5a7278
 0x078c004638226764795a3bcbc9a2d1589d5a3f06,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x078c004638226764795a3bcbc9a2d1589d5a3f06
@@ -1823,7 +1823,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0xdd48f96568bcf61a7704b2668adc6239055724a2,7.8,7.8,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xdd48f96568bcf61a7704b2668adc6239055724a2
 0xc2877b05cfe462e585fe3de8046f7528998af6f1,3093.32984672895,2393.32984672895,0,0,700,0,0,0,true,0x01d871870cbbdde934526e17637c0cfef0b3b38b,true,1,0xa2f7aff3f1561fbc347f771b8b251e6793b8bc24,https://wearable-preview.decentraland.org/?profile=0xc2877b05cfe462e585fe3de8046f7528998af6f1
 0x7499b8c598ef7d216d0bf8bd68ad24ba5f7a77b3,2182.41227021,182.41227021,2000,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x7499b8c598ef7d216d0bf8bd68ad24ba5f7a77b3
-0x9381caa558f19a821a2360c59fdf3db60c09ff52,2789.3847291962306,10.677754039859952,0,0,100,2678.706975156371,0,0,true,0x424a52eea75886992088a5b2b9cdc49adf4e1d3f,true,6,"0xe4a0d5ac1668cf77cc5ee0cf68f25d8074f2f6cf,0x7ba1903aa01038b1f82ac8fc8773e3786bdbcc05,0x591e067edaecb22d159c1c07db7c06dd5bca2f9c,0x09bc69a986e1b37fb01ef36124f4c2e14fa0ab6b,0x8a3667dc8102495c427f32034406af12643d6ae4,0x4c828d8f19f404010b6cbadaec8ba90ee776ed6c",https://wearable-preview.decentraland.org/?profile=0x9381caa558f19a821a2360c59fdf3db60c09ff52
+0x9381caa558f19a821a2360c59fdf3db60c09ff52,2787.5947291962307,10.677754039859952,0,0,100,2676.916975156371,0,0,true,0x424a52eea75886992088a5b2b9cdc49adf4e1d3f,true,6,"0xe4a0d5ac1668cf77cc5ee0cf68f25d8074f2f6cf,0x7ba1903aa01038b1f82ac8fc8773e3786bdbcc05,0x591e067edaecb22d159c1c07db7c06dd5bca2f9c,0x09bc69a986e1b37fb01ef36124f4c2e14fa0ab6b,0x8a3667dc8102495c427f32034406af12643d6ae4,0x4c828d8f19f404010b6cbadaec8ba90ee776ed6c",https://wearable-preview.decentraland.org/?profile=0x9381caa558f19a821a2360c59fdf3db60c09ff52
 0xf1151f738581f4f576ca28eef4844e7d91faad1b,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xf1151f738581f4f576ca28eef4844e7d91faad1b
 0x06615c1e732b9e434391f458b1ce9a464481e77b,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x06615c1e732b9e434391f458b1ce9a464481e77b
 0x798fbab3f8d56fa822a8455f28e7c661b98df1ea,25.90575,25.90575,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x798fbab3f8d56fa822a8455f28e7c661b98df1ea
@@ -2041,7 +2041,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0xcaedb62e042fa63388e5b88a424a4196a59d3b30,7.78716002,7.78716002,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xcaedb62e042fa63388e5b88a424a4196a59d3b30
 0x9726037cf4b247b10dec6e62fc14ff2759f29e5e,28.55445692,28.55445692,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x9726037cf4b247b10dec6e62fc14ff2759f29e5e
 0xf0e6c377ac3c206b749c9684209e5e2b1590b27b,0.002069733331404815,0.002069733331404815,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xf0e6c377ac3c206b749c9684209e5e2b1590b27b
-0x61afc36b10a8a2f113de1095f7ea801a9567d528,1883.9069200958406,1683.9069200958406,0,0,200,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x61afc36b10a8a2f113de1095f7ea801a9567d528
+0x61afc36b10a8a2f113de1095f7ea801a9567d528,460.9969200958405,260.9969200958405,0,0,200,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x61afc36b10a8a2f113de1095f7ea801a9567d528
 0xd1413203a673ad13a88e2cf5a8105ced53f350db,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xd1413203a673ad13a88e2cf5a8105ced53f350db
 0x805ffb0079666e5fe3fe82ac4b6e9d7e271986c4,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x805ffb0079666e5fe3fe82ac4b6e9d7e271986c4
 0xecd12a63e0097208b271d58010a85603ff6888b1,16.240278442033567,16.240278442033567,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xecd12a63e0097208b271d58010a85603ff6888b1
@@ -2050,7 +2050,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0x9fb95b8f35fc26be92caa2054b845575b867e8fa,1434.9808831887558,1334.9808831887558,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x9fb95b8f35fc26be92caa2054b845575b867e8fa
 0xdbb00e028f3cc97d8b1db391b34638d624b87a07,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xdbb00e028f3cc97d8b1db391b34638d624b87a07
 0x5e09fe94a4412cdaa48ff271e4dbd7596d702705,24.641750228778783,24.641750228778783,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x5e09fe94a4412cdaa48ff271e4dbd7596d702705
-0x9f47dc82703d74453f52b8b7e48ef2c17b021874,900,0,0,0,900,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x9f47dc82703d74453f52b8b7e48ef2c17b021874
+0x9f47dc82703d74453f52b8b7e48ef2c17b021874,900.0000000000001,6.0763e-14,0,0,900,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x9f47dc82703d74453f52b8b7e48ef2c17b021874
 0xe0dd93e8f6bbe7133642cde68f5235cd412ee448,100,0,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xe0dd93e8f6bbe7133642cde68f5235cd412ee448
 0x9ff424d42a9895461dcff15426418ffa58f426dc,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x9ff424d42a9895461dcff15426418ffa58f426dc
 0x1a9974d49e67ef63f9918261cb43ed6843e8a126,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x1a9974d49e67ef63f9918261cb43ed6843e8a126
@@ -2105,7 +2105,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0xf7125539149faadcdafe97c141a1bd47c6874008,2000,0,2000,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xf7125539149faadcdafe97c141a1bd47c6874008
 0x7aa35a0217e8e961cf35d759b9b69af45f7ea4ca,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x7aa35a0217e8e961cf35d759b9b69af45f7ea4ca
 0x97c84a4146fe4595d4af73d8e501b4f87f050b1b,10.75866774,10.75866774,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x97c84a4146fe4595d4af73d8e501b4f87f050b1b
-0x0b13246c219014be1ebb3bfa78c260a8d5e95994,8133.5,6133.5,2000,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x0b13246c219014be1ebb3bfa78c260a8d5e95994
+0x0b13246c219014be1ebb3bfa78c260a8d5e95994,2000,0,2000,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x0b13246c219014be1ebb3bfa78c260a8d5e95994
 0xa39ff6dd5f0cae2e836511f0e6ca5769ae2232d7,18000,0,0,18000,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xa39ff6dd5f0cae2e836511f0e6ca5769ae2232d7
 0x3712c3f2d2e2bd0cecb6fa68b2e9f71d8029cc9e,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x3712c3f2d2e2bd0cecb6fa68b2e9f71d8029cc9e
 0x7723475dc7584bcc3b27797fd1fb4dce9c9a917e,1e-18,1e-18,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x7723475dc7584bcc3b27797fd1fb4dce9c9a917e
@@ -2140,7 +2140,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0xc147fdf69a8d31c8dc4d2d3dfe82e85fc91365ef,20,20,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xc147fdf69a8d31c8dc4d2d3dfe82e85fc91365ef
 0x7d13b6b1d528142969e10eacb09a39acf01d9477,172.41378476,172.41378476,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x7d13b6b1d528142969e10eacb09a39acf01d9477
 0xc4b1215adbafa023dafb0716f54033f45a57a559,625.0883149236907,525.0883149236907,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xc4b1215adbafa023dafb0716f54033f45a57a559
-0x09bc69a986e1b37fb01ef36124f4c2e14fa0ab6b,2407.151545937405,7.15154593740465,0,0,1300,1000,100,0,true,0x9381caa558f19a821a2360c59fdf3db60c09ff52,true,1,0xa5c3958ed515cd5d6a54aeb4890fd297d594c4a0,https://wearable-preview.decentraland.org/?profile=0x09bc69a986e1b37fb01ef36124f4c2e14fa0ab6b
+0x09bc69a986e1b37fb01ef36124f4c2e14fa0ab6b,2405.3615459374046,5.36154593740465,0,0,1300,1000,100,0,true,0x9381caa558f19a821a2360c59fdf3db60c09ff52,true,1,0xa5c3958ed515cd5d6a54aeb4890fd297d594c4a0,https://wearable-preview.decentraland.org/?profile=0x09bc69a986e1b37fb01ef36124f4c2e14fa0ab6b
 0x1dd3f580f6e1dd851b23fb5b2142369d4afa9ed4,6.359200319777686,6.359200319777686,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x1dd3f580f6e1dd851b23fb5b2142369d4afa9ed4
 0x453043727da33500ee4b31253938e0e25fa362a2,672.1977503707049,672.1977503707049,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x453043727da33500ee4b31253938e0e25fa362a2
 0xbd03add5da0e173c67c9c1073ffba017147c42d4,612.162025501232,0.025,0,0,100,512.1370255012321,0,0,false,,true,1,0x247e0896706bb09245549e476257a0a1129db418,https://wearable-preview.decentraland.org/?profile=0xbd03add5da0e173c67c9c1073ffba017147c42d4
@@ -2159,7 +2159,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0x7c79e96348cb377b75cafd66f8ab7e556d3feb21,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x7c79e96348cb377b75cafd66f8ab7e556d3feb21
 0xdcd35e70c43c6f86c663a1919259cd9e818d9865,0.4997,0.4997,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xdcd35e70c43c6f86c663a1919259cd9e818d9865
 0x86c8f2b9f8d6e2fb7e3929066797bb9373ea9627,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x86c8f2b9f8d6e2fb7e3929066797bb9373ea9627
-0x594e569c3f8eb88787b5b203474c9b7a97895c8b,955.6710430888177,855.6710430888177,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x594e569c3f8eb88787b5b203474c9b7a97895c8b
+0x594e569c3f8eb88787b5b203474c9b7a97895c8b,1014.1710430888177,914.1710430888177,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x594e569c3f8eb88787b5b203474c9b7a97895c8b
 0x9f600d566d8107972dbf7536530e51175b5e812a,1.7403510381929301,1.7403510381929301,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x9f600d566d8107972dbf7536530e51175b5e812a
 0x9cbe520aa4bfd545109026bb1fdf9ea54f476e5e,2177.02475,77.02475,2000,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x9cbe520aa4bfd545109026bb1fdf9ea54f476e5e
 0xafd9e882063cb74dd286ee237216fb10b03c8bbf,525.5099854052842,425.50998540528417,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xafd9e882063cb74dd286ee237216fb10b03c8bbf
@@ -2301,7 +2301,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0x97f4aac6d5f2fd0aaa3248bbdac99447f1fbabfe,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x97f4aac6d5f2fd0aaa3248bbdac99447f1fbabfe
 0xc9adc5509037f8629e16dd59f035853f2c2d9709,15.74044986132904,15.74044986132904,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xc9adc5509037f8629e16dd59f035853f2c2d9709
 0xfa45d06f58a59f2775796ea6098e780ae87640f1,0,0,0,0,0,0,0,0,true,0x86c62a0dd8690fa2ba6e3e3d9a18d021dbd2565a,false,0,,https://wearable-preview.decentraland.org/?profile=0xfa45d06f58a59f2775796ea6098e780ae87640f1
-0x3ca5e5ea2909025058b1f63851be31dc4af9cf43,123.62677411166383,23.626774111663835,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x3ca5e5ea2909025058b1f63851be31dc4af9cf43
+0x3ca5e5ea2909025058b1f63851be31dc4af9cf43,123.77677411166383,23.776774111663833,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x3ca5e5ea2909025058b1f63851be31dc4af9cf43
 0x7bcd4a34052d65cf24adf12995e7f7ecfb11dd2d,2028.34383978,28.34383978,2000,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x7bcd4a34052d65cf24adf12995e7f7ecfb11dd2d
 0xbc0c7a9f51c8fc12f56b30fdbf827be122cc8340,2000.3046959258834,0.3046959258833029,2000,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xbc0c7a9f51c8fc12f56b30fdbf827be122cc8340
 0xc3baa0fa5f21af0157548bebf57028516fca7a71,100,0,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xc3baa0fa5f21af0157548bebf57028516fca7a71
@@ -2504,7 +2504,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0x452c30e03c1e5dacac9598bf87147507259dc45f,16,16,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x452c30e03c1e5dacac9598bf87147507259dc45f
 0x26bf8d3b118f60d3d757882664d22b4ebcfecba6,200,200,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x26bf8d3b118f60d3d757882664d22b4ebcfecba6
 0x48a9789428f2067338d02b1ef3612df64f05feb7,16,16,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x48a9789428f2067338d02b1ef3612df64f05feb7
-0x5307bc13e6ad3272d081bfe5c904495be5ddfa2a,1303.4099403454507,803.4099403454505,0,0,500,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x5307bc13e6ad3272d081bfe5c904495be5ddfa2a
+0x5307bc13e6ad3272d081bfe5c904495be5ddfa2a,1303.4236903454505,803.4236903454505,0,0,500,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x5307bc13e6ad3272d081bfe5c904495be5ddfa2a
 0x9e23bcbdadb5bf6a21d1f6883f695cf9c6bd5a7a,234.68006751428385,234.68006751428385,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x9e23bcbdadb5bf6a21d1f6883f695cf9c6bd5a7a
 0x2684a202a374d87bb321a744482b89bf6deaf8bd,621868.3902868526,25.97769596099616,0,0,200,621622.4125908916,20,0,false,,true,3,"0x0f38d446d1228d853269124f26c869a877e7322f,0x4cac981cce85ec8500d3b73dc9499205f64da422,0xbcef8f991c4734565cf3b0ad910a2fe77d06afe4",https://wearable-preview.decentraland.org/?profile=0x2684a202a374d87bb321a744482b89bf6deaf8bd
 0x8bbeca4d93ce618407dfe431990e6c0c74a0f71f,15.274108207523502,15.274108207523502,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x8bbeca4d93ce618407dfe431990e6c0c74a0f71f
@@ -2519,7 +2519,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0x826106caf1842dd928ef3443400bd018cab62a0b,0.702,0.702,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x826106caf1842dd928ef3443400bd018cab62a0b
 0xcc7e2cdc714c06f6fafb8044eb0ca35dad193eff,384.5,84.5,0,0,300,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xcc7e2cdc714c06f6fafb8044eb0ca35dad193eff
 0x6a8e4ea8c220ebeea71c87a701ddfd06209c2e4b,2110.0000000015916,1.5915378660000001e-9,2000,0,100,0,10,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x6a8e4ea8c220ebeea71c87a701ddfd06209c2e4b
-0x3429cbff7eb34e4c9dd9d7e41041fd7b2a01fdb0,8846.56116264806,446.5611626480593,4000,0,400,4000,0,0,false,,true,1,0x38d7db71a1be75c52b463eb148c121a5bb418fb9,https://wearable-preview.decentraland.org/?profile=0x3429cbff7eb34e4c9dd9d7e41041fd7b2a01fdb0
+0x3429cbff7eb34e4c9dd9d7e41041fd7b2a01fdb0,8821.56116264806,421.5611626480593,4000,0,400,4000,0,0,false,,true,1,0x38d7db71a1be75c52b463eb148c121a5bb418fb9,https://wearable-preview.decentraland.org/?profile=0x3429cbff7eb34e4c9dd9d7e41041fd7b2a01fdb0
 0x955a4001a11a5a263d4d7fbaf3ec2b2a68d4a2fe,202.3987954710181,202.3987954710181,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x955a4001a11a5a263d4d7fbaf3ec2b2a68d4a2fe
 0x4ffc692a596d408bd33bf5f3821b3e21a618fe52,462000,0,12000,450000,0,0,0,0,true,0xa77610fcb5288bc95849c64136df159dd3efe6ac,false,0,,https://wearable-preview.decentraland.org/?profile=0x4ffc692a596d408bd33bf5f3821b3e21a618fe52
 0x7812e965984f5e56e4e6d057bc85956b76501cb1,0,0,0,0,0,0,0,0,true,0x1e09a216b70d46229f3fe86d3ad2e47ae01f7989,false,0,,https://wearable-preview.decentraland.org/?profile=0x7812e965984f5e56e4e6d057bc85956b76501cb1
@@ -2543,7 +2543,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0xfc0c2e99b777ba5e445f4b035ed42a4a80865de3,6.825,6.825,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xfc0c2e99b777ba5e445f4b035ed42a4a80865de3
 0x055692fefe3de020fdade4be10258d79a94ff0f7,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x055692fefe3de020fdade4be10258d79a94ff0f7
 0xfefb65dfd2bcb24269b944e34388f6748e38a6a8,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xfefb65dfd2bcb24269b944e34388f6748e38a6a8
-0x60d7ef00900ed962146b96b16e2df1036c9e09f2,5.188611404754886,5.188611404754886,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x60d7ef00900ed962146b96b16e2df1036c9e09f2
+0x60d7ef00900ed962146b96b16e2df1036c9e09f2,1.1886114047548868,1.1886114047548868,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x60d7ef00900ed962146b96b16e2df1036c9e09f2
 0x3bc907edeef7911243078ca0b91eb262c910276c,5.8,5.8,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x3bc907edeef7911243078ca0b91eb262c910276c
 0xdaabbb932725cc1b3ca487ee174b59cbd6b0ec98,1.0529981216568465,1.0529981216568465,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xdaabbb932725cc1b3ca487ee174b59cbd6b0ec98
 0x08ede5c20c6cb3b5f84f918322126ab207ac6cd0,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x08ede5c20c6cb3b5f84f918322126ab207ac6cd0
@@ -2615,7 +2615,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0xdbcb6a0934f077d280864b98b981dfd07f761917,0.975,0.975,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xdbcb6a0934f077d280864b98b981dfd07f761917
 0x31e0a65b27553d6ade0b37191cee29ebbb63fbdb,2220,9.247e-15,2000,0,200,0,20,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x31e0a65b27553d6ade0b37191cee29ebbb63fbdb
 0xc183f0889e897a3ddeace022728eb8fe4971f04b,5.1792500000000015,5.1792500000000015,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xc183f0889e897a3ddeace022728eb8fe4971f04b
-0x7eec58f777f1920ba4a54b2861597efdc3852da0,2895.75834915236,2595.75834915236,0,0,300,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x7eec58f777f1920ba4a54b2861597efdc3852da0
+0x7eec58f777f1920ba4a54b2861597efdc3852da0,2910.38334915236,2610.38334915236,0,0,300,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x7eec58f777f1920ba4a54b2861597efdc3852da0
 0x2c1cb4478b1b04daee8cbed25dcf404be6479cfd,5.131347598210132,5.131347598210132,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x2c1cb4478b1b04daee8cbed25dcf404be6479cfd
 0x9d0414f8568ae6d8674f1e31e8a816c68de628a5,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x9d0414f8568ae6d8674f1e31e8a816c68de628a5
 0x9fa39f2b016eafa2dc087c45d5db3540177181c6,32.794984133824876,32.794984133824876,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x9fa39f2b016eafa2dc087c45d5db3540177181c6
@@ -2639,13 +2639,13 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0x60443560714dbf256f59d3adc8a4a8de35ccc3b7,101.650075497572,1.6500754975719993,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x60443560714dbf256f59d3adc8a4a8de35ccc3b7
 0xd9e199e7a083a08d908308615e132373c0352e67,66.8392688514359,66.8392688514359,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xd9e199e7a083a08d908308615e132373c0352e67
 0xc8d2ac1098b261d1d3e5876477ee18e1e8e9bfce,3301.21549997,2901.21549997,0,0,400,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xc8d2ac1098b261d1d3e5876477ee18e1e8e9bfce
-0x333f2ba1e49bcea8b1ad9f0d5083df596896cbed,123.8875,23.8875,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x333f2ba1e49bcea8b1ad9f0d5083df596896cbed
+0x333f2ba1e49bcea8b1ad9f0d5083df596896cbed,113.65,13.65,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x333f2ba1e49bcea8b1ad9f0d5083df596896cbed
 0x519b1abd7c6b57861874be65365acc84c6b68be9,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x519b1abd7c6b57861874be65365acc84c6b68be9
 0xb7a9cd974a97ba105b6cc89fb342523551c99b91,4236.17373629463,36.17373629462921,0,4000,200,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xb7a9cd974a97ba105b6cc89fb342523551c99b91
 0x84f0daacbbaecbd9e67d261cdd5850e080466821,810.0585258446989,710.0585258446989,0,0,100,0,0,0,true,0x447c9058be5c164e0c4aae380381e7a5215052d4,false,0,,https://wearable-preview.decentraland.org/?profile=0x84f0daacbbaecbd9e67d261cdd5850e080466821
 0xee9546ca1e1225818821689a7884c64bcb9963be,71.37061676836731,71.37061676836731,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xee9546ca1e1225818821689a7884c64bcb9963be
-0xb69ac58ad7310993e7dc6e7eff9754b827101d0b,193.4,93.4,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xb69ac58ad7310993e7dc6e7eff9754b827101d0b
-0xe05b0e1a49cfef754b667b5652e5ce7e36df0cbc,105.84437874269916,5.844378742699169,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xe05b0e1a49cfef754b667b5652e5ce7e36df0cbc
+0xb69ac58ad7310993e7dc6e7eff9754b827101d0b,196.325,96.325,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xb69ac58ad7310993e7dc6e7eff9754b827101d0b
+0xe05b0e1a49cfef754b667b5652e5ce7e36df0cbc,107.80412874269916,7.804128742699168,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xe05b0e1a49cfef754b667b5652e5ce7e36df0cbc
 0x9ff256f65fa594ccdc13d76f116c87d9defd8a1c,2000,0,2000,0,0,0,0,0,true,0xbe7eaf40699e6852188030d09e11fcef9d3cbab4,false,0,,https://wearable-preview.decentraland.org/?profile=0x9ff256f65fa594ccdc13d76f116c87d9defd8a1c
 0xf170ca4c73cb34d81d2a07281535f4f1a7ce2be0,3068.8834836768256,1068.8834836768258,2000,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xf170ca4c73cb34d81d2a07281535f4f1a7ce2be0
 0xb522bd8a501dfa970c40b57eb76c76256d55758d,10,0,0,0,0,0,10,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xb522bd8a501dfa970c40b57eb76c76256d55758d
@@ -2783,12 +2783,12 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0xf35448dc9756d0c93f5161fe2815f9bd7d8662d6,0.4121456557775627,0.4121456557775627,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xf35448dc9756d0c93f5161fe2815f9bd7d8662d6
 0x3550d0c556639bfb521b86f8e2dd0f0ad6cbd8ed,10.465,10.465,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x3550d0c556639bfb521b86f8e2dd0f0ad6cbd8ed
 0xb6e9c0a25aa6b10fa4fe0aa8d1097d2a6136bf98,116.17756295899689,16.17756295899689,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xb6e9c0a25aa6b10fa4fe0aa8d1097d2a6136bf98
-0xd41308f50858da2b7cc641e493fbddf34775393a,140.68525275729928,40.68525275729928,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xd41308f50858da2b7cc641e493fbddf34775393a
+0xd41308f50858da2b7cc641e493fbddf34775393a,143.6102527572993,43.61025275729928,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xd41308f50858da2b7cc641e493fbddf34775393a
 0xa5f9db4203cd0f7c614484cfa38b40f3117cfe32,1237.32853631354,16.810063963061616,0,0,1100,120.5184723504786,0,0,true,0x153b2252eddcb3690ae6f5e9f38be13779e1364d,true,1,0xc8d76f7cf7793ce39d2cf6b06b7fdc29c70656d0,https://wearable-preview.decentraland.org/?profile=0xa5f9db4203cd0f7c614484cfa38b40f3117cfe32
 0x60e7357de5ec8c3b07f8efb3a8c1325811eb7db0,1246.885072434818,0,0,0,300,946.8850724348181,0,0,false,,true,1,0xf2fba890f3e1e0e7c1a9b8307cd993deea22422e,https://wearable-preview.decentraland.org/?profile=0x60e7357de5ec8c3b07f8efb3a8c1325811eb7db0
 0xcd631ab36d5e8881626b5e5f6bf0bef6a1926d45,114.80296959140043,14.802969591400428,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xcd631ab36d5e8881626b5e5f6bf0bef6a1926d45
 0x42884951ed7ff27739d89e47be5622af12c38bbe,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x42884951ed7ff27739d89e47be5622af12c38bbe
-0x7a0c9037fb4e51dd10a921e1ea8aaee07862f644,119.5,19.5,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x7a0c9037fb4e51dd10a921e1ea8aaee07862f644
+0x7a0c9037fb4e51dd10a921e1ea8aaee07862f644,129.25,29.25,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x7a0c9037fb4e51dd10a921e1ea8aaee07862f644
 0x553b8ded0d8b1aed054eb95172f165df8e885b72,406.63201134248294,6.632011342482917,0,0,400,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x553b8ded0d8b1aed054eb95172f165df8e885b72
 0x8fc2e87db46e107756d1363174f015d84178636d,4416.664951924697,1.664951924696673,0,4000,400,0,15,0,true,0xd6eff8f07caf3443a1178407d3de4129149d6ef6,false,0,,https://wearable-preview.decentraland.org/?profile=0x8fc2e87db46e107756d1363174f015d84178636d
 0xd7fa6dc1f2c44ec68e1b50bf3b03a44ea9852bf8,100.39735,0.3973500000000009,0,0,100,0,0,0,true,0xe2be94b59a3a4aef2f66eb0dd73079da00315bf0,false,0,,https://wearable-preview.decentraland.org/?profile=0xd7fa6dc1f2c44ec68e1b50bf3b03a44ea9852bf8
@@ -3050,7 +3050,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0x2ebb0e88c6edeaef1d912bee639a9e6acc2ed418,3.98703497,3.98703497,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x2ebb0e88c6edeaef1d912bee639a9e6acc2ed418
 0x91a95e478431f74487c94e890e4eb862470a0496,202.85375,202.85375,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x91a95e478431f74487c94e890e4eb862470a0496
 0x12f079406b7a01fe5cbfabeca61dff1e41b9c276,4000,0,0,0,4000,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x12f079406b7a01fe5cbfabeca61dff1e41b9c276
-0x9e35d29eed2278af332bad61a11a2b0a59111114,140.98907850460526,40.98907850460525,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x9e35d29eed2278af332bad61a11a2b0a59111114
+0x9e35d29eed2278af332bad61a11a2b0a59111114,140.53907850460524,40.53907850460526,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x9e35d29eed2278af332bad61a11a2b0a59111114
 0x902f9a605c0255fff5ec95a853ce9883dad10b31,5.797000000000004,5.797000000000004,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x902f9a605c0255fff5ec95a853ce9883dad10b31
 0xb967e8532cea5c6d13ada530064c01bbe4d429ea,13.288180646729247,13.288180646729247,0,0,0,0,0,0,true,0x86c62a0dd8690fa2ba6e3e3d9a18d021dbd2565a,false,0,,https://wearable-preview.decentraland.org/?profile=0xb967e8532cea5c6d13ada530064c01bbe4d429ea
 0xd8d05ad12fe33861e797340c2d9ca370774b0aa5,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xd8d05ad12fe33861e797340c2d9ca370774b0aa5
@@ -3142,7 +3142,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0x0cdda64becc75cb0789de69631dfa4875834aae5,7.05,7.05,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x0cdda64becc75cb0789de69631dfa4875834aae5
 0xd1e81eacc61cf9d9210c7605127635b123173dd1,300.85985049887177,300.85985049887177,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xd1e81eacc61cf9d9210c7605127635b123173dd1
 0x32442811570aba571e39a41ddab9e4d638bcab20,0.2,0.2,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x32442811570aba571e39a41ddab9e4d638bcab20
-0x1a01274c6d57923c8144f26683c105ea48a606e1,171.66073490534342,71.66073490534342,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x1a01274c6d57923c8144f26683c105ea48a606e1
+0x1a01274c6d57923c8144f26683c105ea48a606e1,173.12323490534342,73.12323490534342,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x1a01274c6d57923c8144f26683c105ea48a606e1
 0x0412f62d9bcd1ee8002ef7eaf436676a2ae5dbfc,132.9998884466583,32.9998884466583,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x0412f62d9bcd1ee8002ef7eaf436676a2ae5dbfc
 0xffc8d9910fb9910b57a9783b841e43f8dd5b4c77,17.375732716760734,17.375732716760734,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xffc8d9910fb9910b57a9783b841e43f8dd5b4c77
 0xf49056577a9266cd6cfd1b8f6ac151d9bb3671d7,5,0,0,0,0,0,5,0,true,0x3cf368faecdb4a4e542c0efd17850ae133688c2a,false,0,,https://wearable-preview.decentraland.org/?profile=0xf49056577a9266cd6cfd1b8f6ac151d9bb3671d7
@@ -3165,7 +3165,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0xfba23bb6d4bc1c23d3a53d6b5b19d84d4e4b50b6,108.66620923170426,8.666209231704254,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xfba23bb6d4bc1c23d3a53d6b5b19d84d4e4b50b6
 0x58a0fc1fbbc6266fb09c3e43c6194cd9dc13e194,53.79059236,53.79059236,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x58a0fc1fbbc6266fb09c3e43c6194cd9dc13e194
 0xd79df18dae47442e040ce0d6cafbf1f549ecd8c9,78.92068692191525,78.92068692191525,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xd79df18dae47442e040ce0d6cafbf1f549ecd8c9
-0x56469159d91eb810dce34dd13ec4ed8194bca7be,3833.881747696906,144.5067476969063,2000,0,1000,689.375,0,0,false,,true,1,0x967fb0c36e4f5288f30fb05f8b2a4d7b77eaca4b,https://wearable-preview.decentraland.org/?profile=0x56469159d91eb810dce34dd13ec4ed8194bca7be
+0x56469159d91eb810dce34dd13ec4ed8194bca7be,3834.1067476969065,144.7317476969063,2000,0,1000,689.375,0,0,false,,true,1,0x967fb0c36e4f5288f30fb05f8b2a4d7b77eaca4b,https://wearable-preview.decentraland.org/?profile=0x56469159d91eb810dce34dd13ec4ed8194bca7be
 0x7405a8b0f2c5e36d46a302ffc6fb1ce2378c9891,8200.975,0.975,0,8000,200,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x7405a8b0f2c5e36d46a302ffc6fb1ce2378c9891
 0x8bcba09e8981754fafa7252932e10e05a1e224b0,19.82449502,19.82449502,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x8bcba09e8981754fafa7252932e10e05a1e224b0
 0x5cb6f3299374cf1ddc268c9336573aa7fe64d485,2791308.871290325,1308.8712903253552,1114000,1676000,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x5cb6f3299374cf1ddc268c9336573aa7fe64d485
@@ -3266,7 +3266,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0x70cf21e9358e642385009218cf933a4eadce9d12,205.96282608382708,5.962826083827077,0,0,100,0,100,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x70cf21e9358e642385009218cf933a4eadce9d12
 0xc8f94326c954351e7a35e1d6cd3a1af041228f9d,740,0,0,0,200,0,540,0,true,0x59d2c715ab5beeca6649b8d4b5f45072edc37073,false,0,,https://wearable-preview.decentraland.org/?profile=0xc8f94326c954351e7a35e1d6cd3a1af041228f9d
 0x7533c4c1d881aaa75d4b039325866b2f8b8c5ec9,673.5525107772704,388.5525107772704,0,0,100,0,185,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x7533c4c1d881aaa75d4b039325866b2f8b8c5ec9
-0x4ed043f3ac20610633cc1d0e69c8ed37cd168209,0.6825,0.6825,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x4ed043f3ac20610633cc1d0e69c8ed37cd168209
+0x4ed043f3ac20610633cc1d0e69c8ed37cd168209,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x4ed043f3ac20610633cc1d0e69c8ed37cd168209
 0x0ec1a477a70fcb5d3c3dc6688cc4faa685e73414,103.60948183082989,3.6094818308298953,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x0ec1a477a70fcb5d3c3dc6688cc4faa685e73414
 0x6c3548628d71b8b1137c26bb9454b17bb6e30898,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x6c3548628d71b8b1137c26bb9454b17bb6e30898
 0xee5867636a806d1e875f984b1420d9a1fcabed9d,1085.2324878778397,1085.2324878778397,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xee5867636a806d1e875f984b1420d9a1fcabed9d
@@ -3324,7 +3324,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0x83d3ff6579ea79e76b786a59f18f6a167eeaee88,96.37982579617177,96.37982579617177,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x83d3ff6579ea79e76b786a59f18f6a167eeaee88
 0xb4232f9c26b0b38f71446d0b18eb4f96a1e0fd49,8.068255602787412,8.068255602787412,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xb4232f9c26b0b38f71446d0b18eb4f96a1e0fd49
 0x364811363c698cb1c46de4f11ccdec96fbac9991,100,0,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x364811363c698cb1c46de4f11ccdec96fbac9991
-0xa6954ec500a729cef2858612f3dec9d0d0cfbd72,143.8624604325627,43.86246043256269,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xa6954ec500a729cef2858612f3dec9d0d0cfbd72
+0xa6954ec500a729cef2858612f3dec9d0d0cfbd72,143.8999604325627,43.89996043256269,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xa6954ec500a729cef2858612f3dec9d0d0cfbd72
 0x88e7388d9ea651bd9584a3bda7970cadc69e84ca,100,0,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x88e7388d9ea651bd9584a3bda7970cadc69e84ca
 0xc9bdd78e3783437b92e13dc1c4b5a923c22761c6,115.98490092181311,15.98490092181311,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xc9bdd78e3783437b92e13dc1c4b5a923c22761c6
 0xb0bbdaa9ae02c947a75a38304abbc7f6aa091f6a,55.169200354979765,55.169200354979765,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xb0bbdaa9ae02c947a75a38304abbc7f6aa091f6a
@@ -3365,7 +3365,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0xc3427deb0cd4fff6577d49c0590f97f68b4d1650,255.96974609619767,255.96974609619767,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xc3427deb0cd4fff6577d49c0590f97f68b4d1650
 0x5a2b115ed27586ee640faa5349da26eae7e1b00b,459.9,459.9,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x5a2b115ed27586ee640faa5349da26eae7e1b00b
 0x27dc8063cab466c901e554da5113d0be42d82d06,7.8,7.8,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x27dc8063cab466c901e554da5113d0be42d82d06
-0xed0e0cb94f60f72ec94bef848f5df4cbd365af1d,8599.694513963279,50.02650448113462,0,0,200,8349.668009482144,0,0,true,0x8967ad851ccbd4c1a2d57a128d3c606fcab29bad,true,2,"0xdb760099f0f3359131e08716848f23c014d35b9e,0x7db5fb93ebb63854c32be09a556ae030b1b3b197",https://wearable-preview.decentraland.org/?profile=0xed0e0cb94f60f72ec94bef848f5df4cbd365af1d
+0xed0e0cb94f60f72ec94bef848f5df4cbd365af1d,8583.391263963278,33.723254481134624,0,0,200,8349.668009482144,0,0,true,0x8967ad851ccbd4c1a2d57a128d3c606fcab29bad,true,2,"0xdb760099f0f3359131e08716848f23c014d35b9e,0x7db5fb93ebb63854c32be09a556ae030b1b3b197",https://wearable-preview.decentraland.org/?profile=0xed0e0cb94f60f72ec94bef848f5df4cbd365af1d
 0x90fdc35d0ebfe6ce49d4b27cfa92cab07694d857,8.34234919247351,8.34234919247351,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x90fdc35d0ebfe6ce49d4b27cfa92cab07694d857
 0x4d1465ca4e374b7c635cd55c6382bae857a3115e,292.7480117194817,292.7480117194817,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x4d1465ca4e374b7c635cd55c6382bae857a3115e
 0x5f6cef5fdf2fde7a23e0d8152288fc715f82d574,478.9642380128931,478.9642380128931,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x5f6cef5fdf2fde7a23e0d8152288fc715f82d574
@@ -3407,7 +3407,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0x2960bf768a909ec3a1144836502db122f1f6a985,40,40,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x2960bf768a909ec3a1144836502db122f1f6a985
 0x5796703e1163e3de89cf5c37cced0f2bfa16bf2f,0,0,0,0,0,0,0,0,true,0x29519122d08771ca4c83c8e3fa981df18721f76d,false,0,,https://wearable-preview.decentraland.org/?profile=0x5796703e1163e3de89cf5c37cced0f2bfa16bf2f
 0x5eb60625a173ee32068254438a9ce9e9eb440001,286.47,286.47,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x5eb60625a173ee32068254438a9ce9e9eb440001
-0x160eeddb2c1c085232e948abfb932a19a67395ae,490.022,390.022,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x160eeddb2c1c085232e948abfb932a19a67395ae
+0x160eeddb2c1c085232e948abfb932a19a67395ae,100,0,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x160eeddb2c1c085232e948abfb932a19a67395ae
 0x30f1067e441f4afcd21fd135a4d856c1046e3c7e,55.36,55.36,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x30f1067e441f4afcd21fd135a4d856c1046e3c7e
 0x4662b473f0dc5a2defa3131a237c728352173ba7,2.0085,2.0085,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x4662b473f0dc5a2defa3131a237c728352173ba7
 0x808c4e12804251f3276419091f3dfd69830e7fec,2000,0,2000,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x808c4e12804251f3276419091f3dfd69830e7fec
@@ -3506,9 +3506,9 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0x665b47047eed6b3fd67fbb4348e2d19956d7f81e,47.65275776709649,47.65275776709649,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x665b47047eed6b3fd67fbb4348e2d19956d7f81e
 0x179edfb309c13d847a1ce41e472581156a17fa14,78,78,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x179edfb309c13d847a1ce41e472581156a17fa14
 0x1d6dbc9ab48b6c6d743d176be7ddaf0e3589ed46,98.8726178808158,98.8726178808158,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x1d6dbc9ab48b6c6d743d176be7ddaf0e3589ed46
-0x8b11cc87ba28c0cb0767e1fecc799e0184a07b9d,412.1903617857492,312.1903617857492,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x8b11cc87ba28c0cb0767e1fecc799e0184a07b9d
+0x8b11cc87ba28c0cb0767e1fecc799e0184a07b9d,402.1903617857492,302.1903617857492,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x8b11cc87ba28c0cb0767e1fecc799e0184a07b9d
 0x7bf3a9f66d61f42e321fe681f393c5eceb7f7c53,100,0,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x7bf3a9f66d61f42e321fe681f393c5eceb7f7c53
-0xcf1d463591d4e4c06a3e26c7638f24a5cd0ba36d,6137.023950564434,6037.023950564434,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xcf1d463591d4e4c06a3e26c7638f24a5cd0ba36d
+0xcf1d463591d4e4c06a3e26c7638f24a5cd0ba36d,100,0,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xcf1d463591d4e4c06a3e26c7638f24a5cd0ba36d
 0x9b6125d9e58349b59e3a76cf438a0b749f63ee07,22.063747847409424,22.063747847409424,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x9b6125d9e58349b59e3a76cf438a0b749f63ee07
 0xc6e4637aef0d61b2071405cbab076abf03eaa310,80,80,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xc6e4637aef0d61b2071405cbab076abf03eaa310
 0x0dd399a7ed92283e4983c2974fe377070d67f4eb,1.7816597752845893,1.7816597752845893,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x0dd399a7ed92283e4983c2974fe377070d67f4eb
@@ -3591,7 +3591,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0xde70b53193f79b56c249acf4ddb5afdc19926dbd,28.013521606316903,28.013521606316903,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xde70b53193f79b56c249acf4ddb5afdc19926dbd
 0xeb85bee2faa45037cf8eb4c5ebc5b3d743a388f4,1423.097863876023,1423.097863876023,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xeb85bee2faa45037cf8eb4c5ebc5b3d743a388f4
 0xf3839dd772f6bc4f1ac13072aa0988f8689be6d8,100,0,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xf3839dd772f6bc4f1ac13072aa0988f8689be6d8
-0x4f7fe261619141ffa63fefee35bba886581292f4,1364.6153689374214,1239.6153689374214,0,0,100,0,25,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x4f7fe261619141ffa63fefee35bba886581292f4
+0x4f7fe261619141ffa63fefee35bba886581292f4,1413.3653689374214,1288.3653689374214,0,0,100,0,25,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x4f7fe261619141ffa63fefee35bba886581292f4
 0x011afddafc55d4536068ae72ef2e64716763b833,2168.9591036714633,68.95910367146321,2000,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x011afddafc55d4536068ae72ef2e64716763b833
 0xdf6c15be9c04f5ba1a16fbab2de622b84d6a7a0c,8000,0,8000,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xdf6c15be9c04f5ba1a16fbab2de622b84d6a7a0c
 0x4308e6f6437332d3bac0120132421ba84d5ea2e7,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x4308e6f6437332d3bac0120132421ba84d5ea2e7
@@ -3723,7 +3723,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0x83ce524e6b7edf5b4ec74b2302204b53e160e1b2,101.95,1.95,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x83ce524e6b7edf5b4ec74b2302204b53e160e1b2
 0x8d5237037a590a2db531f3cfb8f42605cf306f34,19.266794411241456,0,0,0,0,19.266794411241456,0,0,true,0x463319e6dc9cd0354c972c6d5cb91a9888efc15e,true,1,0x2169b5deed138e7828cf69d3d8e4fd54c469cdfb,https://wearable-preview.decentraland.org/?profile=0x8d5237037a590a2db531f3cfb8f42605cf306f34
 0xef430b5b7346b86c10c3cbc74ff38d13fe0fd549,18.1933234648803,18.1933234648803,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xef430b5b7346b86c10c3cbc74ff38d13fe0fd549
-0x5117571b0bec00372ce00870ad8e523c704a78b7,159.58900736820306,59.58900736820307,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x5117571b0bec00372ce00870ad8e523c704a78b7
+0x5117571b0bec00372ce00870ad8e523c704a78b7,159.63375736820308,59.63375736820307,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x5117571b0bec00372ce00870ad8e523c704a78b7
 0x0a7b367ee82e8a77fb2273f37848d4b8ad77bb57,3.046277312026437,3.046277312026437,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x0a7b367ee82e8a77fb2273f37848d4b8ad77bb57
 0x6b8a17f179234c552cb6c105e94e5224c80e2f99,6.169022346829154,6.169022346829154,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x6b8a17f179234c552cb6c105e94e5224c80e2f99
 0xb094d1dda021a9fb4b2bbc1c0e399daaabd45c9a,100,0,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xb094d1dda021a9fb4b2bbc1c0e399daaabd45c9a
@@ -4057,7 +4057,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0xe7f78d2c9a9375153476834d2db32632384b01e1,415707.0111139729,209242.01111397293,4000,200000,1200,0,1265,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xe7f78d2c9a9375153476834d2db32632384b01e1
 0xb6a05c09ae091ea13c41caf6c37eda26cf3260a5,10,10,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xb6a05c09ae091ea13c41caf6c37eda26cf3260a5
 0xd825e7223f70d77c2f70015dc01b54eb187d392e,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xd825e7223f70d77c2f70015dc01b54eb187d392e
-0x2f9cad8d0f2e86f709247f540472c17be8d72756,0.46604599212581976,0.46604599212581976,0,0,0,0,0,0,true,0x86c62a0dd8690fa2ba6e3e3d9a18d021dbd2565a,false,0,,https://wearable-preview.decentraland.org/?profile=0x2f9cad8d0f2e86f709247f540472c17be8d72756
+0x2f9cad8d0f2e86f709247f540472c17be8d72756,2000.4660459921258,0.46604599212581976,2000,0,0,0,0,0,true,0x86c62a0dd8690fa2ba6e3e3d9a18d021dbd2565a,false,0,,https://wearable-preview.decentraland.org/?profile=0x2f9cad8d0f2e86f709247f540472c17be8d72756
 0x4d930c6135d79a8cc09a8e3095fba834170ebdb5,5500,0,0,0,200,200,5100,0,false,,true,1,0x1f2196a055dae1eef6f7cc5e8de1e4b7fd9b7be0,https://wearable-preview.decentraland.org/?profile=0x4d930c6135d79a8cc09a8e3095fba834170ebdb5
 0xfde11ae9a9bd4555922d78fb98a924ef402580c9,37.66644500620452,37.66644500620452,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xfde11ae9a9bd4555922d78fb98a924ef402580c9
 0x854aeb9840b9f1062745822bfbd77daea53f83cf,10,10,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x854aeb9840b9f1062745822bfbd77daea53f83cf
@@ -4105,7 +4105,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0x355784934ef5616e6025c8dbdf84d6943217177f,25.109133612862276,25.109133612862276,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x355784934ef5616e6025c8dbdf84d6943217177f
 0xfe36ff4f7cb1c25be6f9ddbe4ba302efa69303fc,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xfe36ff4f7cb1c25be6f9ddbe4ba302efa69303fc
 0x4e3aa6092cd50ddafcb3e091990ede029f18653b,8.552,8.552,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x4e3aa6092cd50ddafcb3e091990ede029f18653b
-0xbf5ed931aebfce6e7aab9ecb4e0317eff84e7be4,24065.769892309287,20060.769892309287,4000,0,0,0,5,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xbf5ed931aebfce6e7aab9ecb4e0317eff84e7be4
+0xbf5ed931aebfce6e7aab9ecb4e0317eff84e7be4,14005.769892309285,10000.769892309285,4000,0,0,0,5,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xbf5ed931aebfce6e7aab9ecb4e0317eff84e7be4
 0x5222b26fb9ad6a863e12e00da0d809aeb90aa359,49.18085746371462,49.18085746371462,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x5222b26fb9ad6a863e12e00da0d809aeb90aa359
 0x13936d1369dda5bd295d24bb69dae4e3c6586312,40100.00088661985,0.000886619850397032,12000,28000,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x13936d1369dda5bd295d24bb69dae4e3c6586312
 0x6042a0368f7bf354b44aab2fad70c4977dc24afb,108.82499244867057,8.824992448670569,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x6042a0368f7bf354b44aab2fad70c4977dc24afb
@@ -4215,7 +4215,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0x41b378a8ebf07337d87ccce13ce99133516a03ba,14.45429839,14.45429839,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x41b378a8ebf07337d87ccce13ce99133516a03ba
 0xc943fc9ee5ed8e9f26f7c2908f8f1921bf407c37,105.43392984,5.43392984,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xc943fc9ee5ed8e9f26f7c2908f8f1921bf407c37
 0x131ea4dc4cda09d7d075bc3e3537959dc759c193,137.4507001504752,37.4507001504752,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x131ea4dc4cda09d7d075bc3e3537959dc759c193
-0x8967ad851ccbd4c1a2d57a128d3c606fcab29bad,4643.3826090093535,93.35610452821865,4000,0,300,250.02650448113462,0,0,false,,true,1,0xed0e0cb94f60f72ec94bef848f5df4cbd365af1d,https://wearable-preview.decentraland.org/?profile=0x8967ad851ccbd4c1a2d57a128d3c606fcab29bad
+0x8967ad851ccbd4c1a2d57a128d3c606fcab29bad,4627.0793590093535,93.35610452821865,4000,0,300,233.72325448113463,0,0,false,,true,1,0xed0e0cb94f60f72ec94bef848f5df4cbd365af1d,https://wearable-preview.decentraland.org/?profile=0x8967ad851ccbd4c1a2d57a128d3c606fcab29bad
 0x00e5d44f6a296c10f159486f842838bd68f13e32,202000,0,202000,0,0,0,0,0,true,0xe161cc33f5b430be52aa69520d32cd3f39fa2be6,false,0,,https://wearable-preview.decentraland.org/?profile=0x00e5d44f6a296c10f159486f842838bd68f13e32
 0x3385c05ca0ddb46b51f9c2d99fc597cf6f0da891,446.7443306764744,146.74433067647442,0,0,300,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x3385c05ca0ddb46b51f9c2d99fc597cf6f0da891
 0xd3e5d76763db46fe9e4ee25fa8d815c276b06c27,2247.0721983597227,2147.0721983597227,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xd3e5d76763db46fe9e4ee25fa8d815c276b06c27
@@ -4324,7 +4324,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0x991fad0014d43ff26ae85e73808850407079a371,192.18001114626963,192.18001114626963,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x991fad0014d43ff26ae85e73808850407079a371
 0xc33cd67b3f5b0ea43659db8e69ea564e63ae2998,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xc33cd67b3f5b0ea43659db8e69ea564e63ae2998
 0x8b889fa9acee860ca30d58879c4dc12d872bb6a9,0.000019587095901503,0.000019587095901503,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x8b889fa9acee860ca30d58879c4dc12d872bb6a9
-0xe97074ea5d8ba7744afb5e861e4a8fa3392047a0,72279.58400185333,2279.584001853335,16000,54000,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xe97074ea5d8ba7744afb5e861e4a8fa3392047a0
+0xe97074ea5d8ba7744afb5e861e4a8fa3392047a0,66279.58400185333,2279.584001853335,10000,54000,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xe97074ea5d8ba7744afb5e861e4a8fa3392047a0
 0x10ac7f99a186b4e382c1af547029772e4557ffaf,100,0,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x10ac7f99a186b4e382c1af547029772e4557ffaf
 0x39660578b32fff57cac9b35f19b0db99709300f6,107.31753816745265,7.317538167452647,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x39660578b32fff57cac9b35f19b0db99709300f6
 0x62c05caa528eed7f57f6f4857e8e4df4b0bff434,1965.8836215842853,1965.8836215842853,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x62c05caa528eed7f57f6f4857e8e4df4b0bff434
@@ -4372,7 +4372,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0xbcbcaf9241dc07981639e7c555d66ae7ed1edfc4,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xbcbcaf9241dc07981639e7c555d66ae7ed1edfc4
 0xe3a26a531b99266c68627896f48d91b6718e0348,105.15147525249496,5.1514752524949605,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xe3a26a531b99266c68627896f48d91b6718e0348
 0x0432e477df6025ce0c30eced1d635355e73c31aa,349.58057425725275,249.58057425725275,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x0432e477df6025ce0c30eced1d635355e73c31aa
-0xd9a99fa88a70626a304ad9325bddb2d7f31ed17f,204.1271332221873,104.12713322218728,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xd9a99fa88a70626a304ad9325bddb2d7f31ed17f
+0xd9a99fa88a70626a304ad9325bddb2d7f31ed17f,214.65713322218727,114.65713322218728,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xd9a99fa88a70626a304ad9325bddb2d7f31ed17f
 0x8a41bc9a8e0d59a390e3b55d43701db934c6b2cf,100,0,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x8a41bc9a8e0d59a390e3b55d43701db934c6b2cf
 0x37b323dd852e38114933f25ad53d0c04ec4ec2bd,100,0,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x37b323dd852e38114933f25ad53d0c04ec4ec2bd
 0x5e1ec9bdbf175206b4ea74efcd5d0ef8b28e5349,1497.5688121378932,1397.5688121378932,0,0,100,0,0,0,true,0x1b35f4d22b2c8bc706bcfcc383a1ca77fb4fc600,false,0,,https://wearable-preview.decentraland.org/?profile=0x5e1ec9bdbf175206b4ea74efcd5d0ef8b28e5349
@@ -4381,9 +4381,9 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0x32573ec9734a1054cd0e35f0e28314e688089138,5.800034927404663,5.800034927404663,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x32573ec9734a1054cd0e35f0e28314e688089138
 0x2cbf801ffbe6e4b002816b983609da29c6ecf2ab,106.67424561634905,6.674245616349048,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x2cbf801ffbe6e4b002816b983609da29c6ecf2ab
 0x34652a9123426fe911862ad67df398b4869404a7,101.46344475360506,1.4634447536050552,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x34652a9123426fe911862ad67df398b4869404a7
-0x575b1100e732e5abe528bac55156936f6b827776,692.1538563427507,592.1538563427507,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x575b1100e732e5abe528bac55156936f6b827776
+0x575b1100e732e5abe528bac55156936f6b827776,702.1538563427507,602.1538563427507,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x575b1100e732e5abe528bac55156936f6b827776
 0x4acbd651df476963db90681f07c2f65c99e5c81e,303.88854726,303.88854726,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x4acbd651df476963db90681f07c2f65c99e5c81e
-0xd2cb190b90274d697f5f42bad7e3f47844d411af,248.0585,48.0585,0,0,200,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xd2cb190b90274d697f5f42bad7e3f47844d411af
+0xd2cb190b90274d697f5f42bad7e3f47844d411af,248.92625,48.92625,0,0,200,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xd2cb190b90274d697f5f42bad7e3f47844d411af
 0xa15a43cdf5db43bc00e9c34d368cbf9d59668e6a,12000,0,0,12000,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xa15a43cdf5db43bc00e9c34d368cbf9d59668e6a
 0x7be33ff6d06f812cb261353022d27d72e8efa92d,115.24436042020713,15.244360420207137,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x7be33ff6d06f812cb261353022d27d72e8efa92d
 0xfdbee3fba2f14d72bd1a6b2ccc860dc024f7bf14,101.90963686351213,1.9096368635121383,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xfdbee3fba2f14d72bd1a6b2ccc860dc024f7bf14
@@ -4507,7 +4507,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0x2c7c6e83ae6b0b37d64f3568df668d880dc58a73,100,0,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x2c7c6e83ae6b0b37d64f3568df668d880dc58a73
 0x857db9dd1d25ead2692db65116860d15ff7e2a0a,2100,9.474e-15,2000,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x857db9dd1d25ead2692db65116860d15ff7e2a0a
 0x9ab0c9ef04b49940dfdf217bb1bc1aaafddb30be,411.5415545072804,111.54155450728041,0,0,300,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x9ab0c9ef04b49940dfdf217bb1bc1aaafddb30be
-0x687b7abd40367bfea8a23ac518050e42fdcb801e,9.582353513422735,9.582353513422735,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x687b7abd40367bfea8a23ac518050e42fdcb801e
+0x687b7abd40367bfea8a23ac518050e42fdcb801e,0,0,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x687b7abd40367bfea8a23ac518050e42fdcb801e
 0x0d2d5a968127d3fea9dc5032c78724620980a62d,1133.545769740395,608.5457697403948,0,0,500,0,25,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x0d2d5a968127d3fea9dc5032c78724620980a62d
 0x54bb59e32e5404bb94aa7bcc9f5fb0e802e6759c,156.5054000412541,56.505400041254084,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x54bb59e32e5404bb94aa7bcc9f5fb0e802e6759c
 0x1567601617690e8b86d67ce7606f0491380ea17b,505,0,0,0,500,0,5,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x1567601617690e8b86d67ce7606f0491380ea17b
@@ -4577,7 +4577,7 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0x7400e6cd0253c5bde69fc83ef53774c23451340f,25,25,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x7400e6cd0253c5bde69fc83ef53774c23451340f
 0xff9ad25c19c34dde2576d437bb5c6be018b61493,20.000000000000004,20.000000000000004,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xff9ad25c19c34dde2576d437bb5c6be018b61493
 0x92416662cc74cc63b9d4c40192bdc879b70254b4,29.9825,29.9825,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x92416662cc74cc63b9d4c40192bdc879b70254b4
-0x3c31bf0b7a74b28196f131e3cb8bd768146669dd,307.52068174212434,207.52068174212434,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x3c31bf0b7a74b28196f131e3cb8bd768146669dd
+0x3c31bf0b7a74b28196f131e3cb8bd768146669dd,169.15068174212433,69.15068174212433,0,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x3c31bf0b7a74b28196f131e3cb8bd768146669dd
 0x7b067c80de1eb6efc176e14409bc8e118060e429,85.97,85.97,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x7b067c80de1eb6efc176e14409bc8e118060e429
 0x4ad4c88a99c1635cd0012bc37bfd9524ea296519,94.79,94.79,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x4ad4c88a99c1635cd0012bc37bfd9524ea296519
 0x2295b0ca3739e62c45dd9ce845b2492d38648ed4,75.0104082251808,75.0104082251808,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x2295b0ca3739e62c45dd9ce845b2492d38648ed4
@@ -4595,3 +4595,6 @@ Member,Total VP,MANA VP,LAND VP,ESTATE VP,NAMES VP,Delegated VP,L1 Wearables VP,
 0xd065f374360fa1480c0cdf6c98c288abccab7d48,1970,0,0,0,0,0,1970,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xd065f374360fa1480c0cdf6c98c288abccab7d48
 0xcce0ca77344d139e1251e2a66f5e2afa649b1c56,2109,9,2000,0,100,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xcce0ca77344d139e1251e2a66f5e2afa649b1c56
 0x1a729c7600881a95afb72a61e9ce024e50d69f76,1612.70359824,1612.70359824,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x1a729c7600881a95afb72a61e9ce024e50d69f76
+0xe268ec72ec930afab3289827f3dbd2fb54bf9bfd,270.56107564,270.56107564,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0xe268ec72ec930afab3289827f3dbd2fb54bf9bfd
+0x3730c7d889a6cc88d42dd1c822243804d1492b3a,100,100,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x3730c7d889a6cc88d42dd1c822243804d1492b3a
+0x8bcb61a63b7ee2fbf320f141cb6f0e8cf82cd957,30,30,0,0,0,0,0,0,false,,false,0,,https://wearable-preview.decentraland.org/?profile=0x8bcb61a63b7ee2fbf320f141cb6f0e8cf82cd957
