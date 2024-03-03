@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -31,6 +31,20 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+#### [Revamp Delegation-Voting System](https://governance.decentraland.org/proposal/?id=1fd6d3df-c215-4511-8d13-c406cbd4bd36)
+
+* YES 73.4416603834945% 3,035,147 VP (39 votes)
+* NO 0.031746554095450664% 1,312 VP (4 votes)
+* Invalid question/options 26.526593062410047% 1,096,273 VP (12 votes)
+
+
+#### [Should the Performance Metrics be a requirement for the Grantees?](https://governance.decentraland.org/proposal/?id=a08d4d0f-f4d2-415a-ad33-fec3281a6a74)
+
+* Yes 99.99997680615138% 4,311,487 VP (46 votes)
+* No 0.000023193848620244334% 1 VP (3 votes)
+* Invalid question/options 0% 0 VP (1 votes)
+
+
 
 # Active Proposals
 
@@ -51,7 +65,5 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 ## Polls
 
 * [Should the foundation &#34;hard fork&#34; Decentraland and create Mana 2](https://governance.decentraland.org/proposal/?id=dc271ab1-0b6a-48b3-bbb6-2190384414db)
-* [Revamp Delegation-Voting System](https://governance.decentraland.org/proposal/?id=1fd6d3df-c215-4511-8d13-c406cbd4bd36)
-* [Should the Performance Metrics be a requirement for the Grantees?](https://governance.decentraland.org/proposal/?id=a08d4d0f-f4d2-415a-ad33-fec3281a6a74)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

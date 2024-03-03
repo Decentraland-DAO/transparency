@@ -94,7 +94,5 @@ Since February 16, 2 grants have been approved and the vesting contract(s) will 
 ## Polls
 
 * [Should the foundation &#34;hard fork&#34; Decentraland and create Mana 2](https://governance.decentraland.org/proposal/?id=dc271ab1-0b6a-48b3-bbb6-2190384414db)
-* [Revamp Delegation-Voting System](https://governance.decentraland.org/proposal/?id=1fd6d3df-c215-4511-8d13-c406cbd4bd36)
-* [Should the Performance Metrics be a requirement for the Grantees?](https://governance.decentraland.org/proposal/?id=a08d4d0f-f4d2-415a-ad33-fec3281a6a74)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
