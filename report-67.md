@@ -50,7 +50,6 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
-* -2, -66: [super rare](https://governance.decentraland.org/proposal/?id=475806eb-815e-466e-a049-31cf73323d3a)
 
 ## Grants
 
@@ -64,6 +63,5 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
-* [Should the foundation &#34;hard fork&#34; Decentraland and create Mana 2](https://governance.decentraland.org/proposal/?id=dc271ab1-0b6a-48b3-bbb6-2190384414db)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
