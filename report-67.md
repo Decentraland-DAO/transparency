@@ -53,6 +53,7 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [Decentraland No-Code UI Design Studio](https://governance.decentraland.org/proposal/?id=578d3d3e-9fd2-48cb-bea3-ddc6fb5ab1dd) (Higher Tier)
 * [Development of Decentraland aggregator dashboard on Alphaday.](https://governance.decentraland.org/proposal/?id=aac57fd1-e68a-453a-8037-03e917fe6f02) (Lower Tier)
 
 ## Names Bans
