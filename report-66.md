@@ -92,5 +92,6 @@ Since February 16, 2 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Should buying land with grants lead to revocation?](https://governance.decentraland.org/proposal/?id=3df3c381-beff-40f7-937d-229253401cc4)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
