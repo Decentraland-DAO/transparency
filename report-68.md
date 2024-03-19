@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -31,6 +31,13 @@ Since March 16, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+#### [Should buying land with grants lead to revocation?](https://governance.decentraland.org/proposal/?id=3df3c381-beff-40f7-937d-229253401cc4)
+
+* Yes 25.433251749285823% 1,986,530 VP (39 votes)
+* No  74.41714691235512% 5,812,544 VP (26 votes)
+* Invalid question/options 0.14960133835905065% 11,685 VP (5 votes)
+
+
 
 # Active Proposals
 
@@ -49,6 +56,5 @@ Since March 16, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
-* [Should buying land with grants lead to revocation?](https://governance.decentraland.org/proposal/?id=3df3c381-beff-40f7-937d-229253401cc4)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
