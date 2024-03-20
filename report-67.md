@@ -53,6 +53,7 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [In World Builder - No Code Game Creator](https://governance.decentraland.org/proposal/?id=bf3c236b-ebcf-4e79-a3c2-26ddbfdb30eb) (Higher Tier)
 * [Decentraland No-Code UI Design Studio](https://governance.decentraland.org/proposal/?id=578d3d3e-9fd2-48cb-bea3-ddc6fb5ab1dd) (Higher Tier)
 
 ## Names Bans
