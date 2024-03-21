@@ -54,7 +54,6 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 ## Grants
 
 * [In World Builder - No Code Game Creator](https://governance.decentraland.org/proposal/?id=bf3c236b-ebcf-4e79-a3c2-26ddbfdb30eb) (Higher Tier)
-* [Decentraland No-Code UI Design Studio](https://governance.decentraland.org/proposal/?id=578d3d3e-9fd2-48cb-bea3-ddc6fb5ab1dd) (Higher Tier)
 
 ## Names Bans
 
@@ -64,5 +63,6 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Accelerated Voting with Pre-Submission Feedback](https://governance.decentraland.org/proposal/?id=1b94e748-cd59-4349-82a3-7fdaa1717e7d)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

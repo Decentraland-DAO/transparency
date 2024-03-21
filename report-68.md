@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -26,7 +26,14 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since March 16, 0 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since March 16, 1 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Decentraland No-Code UI Design Studio](https://governance.decentraland.org/proposal/?id=578d3d3e-9fd2-48cb-bea3-ddc6fb5ab1dd) (Higher Tier)
+
+* Yes 63.619082772375016% 15,046,861 VP (77 votes)
+* No 0.38026356901827324% 89,938 VP (5 votes)
+* Abstain 36.00065365860671% 8,514,691 VP (9 votes)
 
 
 ## Polls
@@ -40,7 +47,6 @@ Since March 16, 0 grants have been approved and the vesting contract(s) will be 
 ## Grants
 
 * [In World Builder - No Code Game Creator](https://governance.decentraland.org/proposal/?id=bf3c236b-ebcf-4e79-a3c2-26ddbfdb30eb) (Higher Tier)
-* [Decentraland No-Code UI Design Studio](https://governance.decentraland.org/proposal/?id=578d3d3e-9fd2-48cb-bea3-ddc6fb5ab1dd) (Higher Tier)
 
 ## Names Bans
 
@@ -50,5 +56,6 @@ Since March 16, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+* [Accelerated Voting with Pre-Submission Feedback](https://governance.decentraland.org/proposal/?id=1b94e748-cd59-4349-82a3-7fdaa1717e7d)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
