@@ -53,6 +53,7 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [Advertising Platform](https://governance.decentraland.org/proposal/?id=234c8b9e-f053-47e9-aab2-30ddb5471090) (Higher Tier)
 * [In World Builder - No Code Game Creator](https://governance.decentraland.org/proposal/?id=bf3c236b-ebcf-4e79-a3c2-26ddbfdb30eb) (Higher Tier)
 
 ## Names Bans
