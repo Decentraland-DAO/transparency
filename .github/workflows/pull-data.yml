@@ -123,6 +123,16 @@ jobs:
           npx ts-node ./src/export-members.ts
           npx ts-node ./src/upload.ts Members ./public/members.csv
 
+      - name: Pull Financials
+        env:
+          SHEET_ID: ${{ secrets.SHEET_ID }}
+          SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
+          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
+          ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
+        run: |
+          npx ts-node ./src/export-financials.ts
+          npx ts-node ./src/upload.ts Financials ./public/financials.csv
+
       - name: Export KPIs
         env:
           NODE_OPTIONS: "--max-old-space-size=8192"
