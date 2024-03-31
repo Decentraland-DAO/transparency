@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -37,6 +37,13 @@ Since March 16, 1 grants have been approved and the vesting contract(s) will be 
 
 
 ## Polls
+
+#### [Should we apply for the upcoming ICANN gTLD registration to secure .dcl Web2 dns](https://governance.decentraland.org/proposal/?id=744b22c3-6bf8-4197-937f-61b356eb4871)
+
+* Yes 32.904296512696234% 1,129,924 VP (41 votes)
+* No  66.57286855363658% 2,286,093 VP (12 votes)
+* Invalid question/options 0.5228349336671743% 17,954 VP (9 votes)
+
 
 #### [Accelerated Voting with Pre-Submission Feedback](https://governance.decentraland.org/proposal/?id=1b94e748-cd59-4349-82a3-7fdaa1717e7d)
 
@@ -67,6 +74,6 @@ Since March 16, 1 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
-* [Should we apply for the upcoming ICANN gTLD registration to secure .dcl Web2 dns](https://governance.decentraland.org/proposal/?id=744b22c3-6bf8-4197-937f-61b356eb4871)
+* [Add &#39;Recently Updated&#39; in the sort by tab](https://governance.decentraland.org/proposal/?id=e8fcab52-9b17-43a6-b521-871aefd00b98)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

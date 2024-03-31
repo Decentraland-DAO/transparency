@@ -65,6 +65,6 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
-* [Should we apply for the upcoming ICANN gTLD registration to secure .dcl Web2 dns](https://governance.decentraland.org/proposal/?id=744b22c3-6bf8-4197-937f-61b356eb4871)
+* [Add &#39;Recently Updated&#39; in the sort by tab](https://governance.decentraland.org/proposal/?id=e8fcab52-9b17-43a6-b521-871aefd00b98)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
