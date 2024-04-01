@@ -59,6 +59,7 @@ Since March 16, 1 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
+* 14, -135: [Dhingia Club](https://governance.decentraland.org/proposal/?id=43d02ccb-730f-48f1-ad10-8742b0749f88)
 * -59, 4: [Large Plaza Roadside Estate](https://governance.decentraland.org/proposal/?id=10f97412-6c77-4c34-83cd-db8e3fa77fcb)
 
 ## Grants
