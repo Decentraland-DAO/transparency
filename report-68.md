@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -38,13 +38,6 @@ Since March 16, 1 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
-#### [Should we apply for the upcoming ICANN gTLD registration to secure .dcl Web2 dns](https://governance.decentraland.org/proposal/?id=744b22c3-6bf8-4197-937f-61b356eb4871)
-
-* Yes 32.904296512696234% 1,129,924 VP (41 votes)
-* No  66.57286855363658% 2,286,093 VP (12 votes)
-* Invalid question/options 0.5228349336671743% 17,954 VP (9 votes)
-
-
 #### [Accelerated Voting with Pre-Submission Feedback](https://governance.decentraland.org/proposal/?id=1b94e748-cd59-4349-82a3-7fdaa1717e7d)
 
 * Yes, implement a 5-day discussion and 10-day voting period. 0.843348388433468% 42,577 VP (18 votes)
@@ -65,10 +58,15 @@ Since March 16, 1 grants have been approved and the vesting contract(s) will be 
 ## Grants
 
 * [Advertising Platform](https://governance.decentraland.org/proposal/?id=234c8b9e-f053-47e9-aab2-30ddb5471090) (Higher Tier)
-* [In World Builder - No Code Game Creator](https://governance.decentraland.org/proposal/?id=bf3c236b-ebcf-4e79-a3c2-26ddbfdb30eb) (Higher Tier)
 
 ## Names Bans
 
+* [Ban the name makkata](https://governance.decentraland.org/proposal/?id=c5c6de31-fb18-464c-9ecd-7af17ffa14df)
+* [Ban the name makkata](https://governance.decentraland.org/proposal/?id=4912a0a0-d1af-4ccb-8953-8b1d1863da64)
+* [Ban the name makkata](https://governance.decentraland.org/proposal/?id=82f11b02-e964-4e82-a9db-cf8dd5864956)
+* [Ban the name makkata](https://governance.decentraland.org/proposal/?id=81033fc9-bc83-48f4-9456-c82e8c988d0d)
+* [Ban the name makkata](https://governance.decentraland.org/proposal/?id=78e26194-b79d-42e0-9f04-d6bccc70c3f5)
+* [Ban the name makkata](https://governance.decentraland.org/proposal/?id=39d51910-a9d8-48bb-9452-76566022bd55)
 
 ## Catalysts
 
