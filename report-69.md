@@ -52,18 +52,13 @@ Since April 1, 1 grants have been approved and the vesting contract(s) will be e
 
 ## Names Bans
 
-* [Ban the name makkata](https://governance.decentraland.org/proposal/?id=c5c6de31-fb18-464c-9ecd-7af17ffa14df)
-* [Ban the name makkata](https://governance.decentraland.org/proposal/?id=4912a0a0-d1af-4ccb-8953-8b1d1863da64)
-* [Ban the name makkata](https://governance.decentraland.org/proposal/?id=82f11b02-e964-4e82-a9db-cf8dd5864956)
-* [Ban the name makkata](https://governance.decentraland.org/proposal/?id=81033fc9-bc83-48f4-9456-c82e8c988d0d)
-* [Ban the name makkata](https://governance.decentraland.org/proposal/?id=78e26194-b79d-42e0-9f04-d6bccc70c3f5)
-* [Ban the name makkata](https://governance.decentraland.org/proposal/?id=39d51910-a9d8-48bb-9452-76566022bd55)
 
 ## Catalysts
 
 
 ## Polls
 
+* [Hide stolen LAND/Assets from the Decentraland’s Marketplace and Explorer](https://governance.decentraland.org/proposal/?id=052380ff-1dd7-4354-abc2-725adc2cba1b)
 * [Add &#39;Recently Updated&#39; in the sort by tab](https://governance.decentraland.org/proposal/?id=e8fcab52-9b17-43a6-b521-871aefd00b98)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
