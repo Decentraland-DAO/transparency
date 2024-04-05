@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -38,6 +38,13 @@ Since April 1, 1 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+#### [Add &#39;Recently Updated&#39; in the sort by tab](https://governance.decentraland.org/proposal/?id=e8fcab52-9b17-43a6-b521-871aefd00b98)
+
+* Yes 99.79449207923847% 2,458,589 VP (33 votes)
+* No 0.000040590148283929714% 1 VP (2 votes)
+* Invalid question/options 0.2054673306132522% 5,062 VP (3 votes)
+
+
 
 # Active Proposals
 
@@ -48,7 +55,6 @@ Since April 1, 1 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
-* [Advertising Platform](https://governance.decentraland.org/proposal/?id=234c8b9e-f053-47e9-aab2-30ddb5471090) (Higher Tier)
 
 ## Names Bans
 
@@ -59,6 +65,5 @@ Since April 1, 1 grants have been approved and the vesting contract(s) will be e
 ## Polls
 
 * [Hide stolen LAND/Assets from the Decentraland’s Marketplace and Explorer](https://governance.decentraland.org/proposal/?id=052380ff-1dd7-4354-abc2-725adc2cba1b)
-* [Add &#39;Recently Updated&#39; in the sort by tab](https://governance.decentraland.org/proposal/?id=e8fcab52-9b17-43a6-b521-871aefd00b98)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

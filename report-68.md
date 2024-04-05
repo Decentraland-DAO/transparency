@@ -57,7 +57,6 @@ Since March 16, 1 grants have been approved and the vesting contract(s) will be 
 
 ## Grants
 
-* [Advertising Platform](https://governance.decentraland.org/proposal/?id=234c8b9e-f053-47e9-aab2-30ddb5471090) (Higher Tier)
 
 ## Names Bans
 
@@ -68,6 +67,5 @@ Since March 16, 1 grants have been approved and the vesting contract(s) will be 
 ## Polls
 
 * [Hide stolen LAND/Assets from the Decentraland’s Marketplace and Explorer](https://governance.decentraland.org/proposal/?id=052380ff-1dd7-4354-abc2-725adc2cba1b)
-* [Add &#39;Recently Updated&#39; in the sort by tab](https://governance.decentraland.org/proposal/?id=e8fcab52-9b17-43a6-b521-871aefd00b98)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
