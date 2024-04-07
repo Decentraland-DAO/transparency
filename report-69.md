@@ -9,12 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+1 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -59, 4: [Large Plaza Roadside Estate](https://governance.decentraland.org/proposal/?id=10f97412-6c77-4c34-83cd-db8e3fa77fcb)
+
+* Yes 99.96405683763422% 4,931,015 VP (54 votes)
+* No 0.00008109004481846777% 4 VP (2 votes)
+* Abstain 0.03586207232096737% 1,769 VP (2 votes)
 
 
 ## Name Bans
@@ -51,10 +58,10 @@ Since April 1, 1 grants have been approved and the vesting contract(s) will be e
 ## Points of Interest
 
 * 14, -135: [Dhingia Club](https://governance.decentraland.org/proposal/?id=43d02ccb-730f-48f1-ad10-8742b0749f88)
-* -59, 4: [Large Plaza Roadside Estate](https://governance.decentraland.org/proposal/?id=10f97412-6c77-4c34-83cd-db8e3fa77fcb)
 
 ## Grants
 
+* [Grant Support Squad H2 2024](https://governance.decentraland.org/proposal/?id=f38cf299-f5df-45b7-b08c-716c49dc14d9) (Higher Tier)
 
 ## Names Bans
 
