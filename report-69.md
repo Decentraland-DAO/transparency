@@ -9,12 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-1 points of interest have been added to Decentraland’s map since the last report.
+2 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 14, -135: [Dhingia Club](https://governance.decentraland.org/proposal/?id=43d02ccb-730f-48f1-ad10-8742b0749f88)
+
+* Yes 99.86505619844786% 4,555,003 VP (45 votes)
+* No 0.12387205179035675% 5,650 VP (2 votes)
+* Abstain 0.011071749761792947% 505 VP (3 votes)
 
 
 #### -59, 4: [Large Plaza Roadside Estate](https://governance.decentraland.org/proposal/?id=10f97412-6c77-4c34-83cd-db8e3fa77fcb)
@@ -57,7 +64,6 @@ Since April 1, 1 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
-* 14, -135: [Dhingia Club](https://governance.decentraland.org/proposal/?id=43d02ccb-730f-48f1-ad10-8742b0749f88)
 
 ## Grants
 
@@ -71,6 +77,7 @@ Since April 1, 1 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Should We Revoke Fraudulent IWB Gaming Grant?](https://governance.decentraland.org/proposal/?id=0f94fbc1-399e-4665-bac3-dcf9e636a68a)
 * [Hide stolen LAND/Assets from the Decentraland’s Marketplace and Explorer](https://governance.decentraland.org/proposal/?id=052380ff-1dd7-4354-abc2-725adc2cba1b)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

@@ -52,7 +52,6 @@ Since March 16, 1 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
-* 14, -135: [Dhingia Club](https://governance.decentraland.org/proposal/?id=43d02ccb-730f-48f1-ad10-8742b0749f88)
 
 ## Grants
 
@@ -66,6 +65,7 @@ Since March 16, 1 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+* [Should We Revoke Fraudulent IWB Gaming Grant?](https://governance.decentraland.org/proposal/?id=0f94fbc1-399e-4665-bac3-dcf9e636a68a)
 * [Hide stolen LAND/Assets from the Decentraland’s Marketplace and Explorer](https://governance.decentraland.org/proposal/?id=052380ff-1dd7-4354-abc2-725adc2cba1b)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
