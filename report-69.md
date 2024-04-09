@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -52,6 +52,13 @@ Since April 1, 1 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+#### [Hide stolen LAND/Assets from the Decentraland’s Marketplace and Explorer](https://governance.decentraland.org/proposal/?id=052380ff-1dd7-4354-abc2-725adc2cba1b)
+
+* Yes, we should 62.31101341940705% 2,732,194 VP (51 votes)
+* No, we should not 37.68898658059296% 1,652,575 VP (7 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 #### [Add &#39;Recently Updated&#39; in the sort by tab](https://governance.decentraland.org/proposal/?id=e8fcab52-9b17-43a6-b521-871aefd00b98)
 
 * Yes 99.79449207923847% 2,458,589 VP (33 votes)
@@ -78,6 +85,5 @@ Since April 1, 1 grants have been approved and the vesting contract(s) will be e
 ## Polls
 
 * [Should We Revoke Fraudulent IWB Gaming Grant?](https://governance.decentraland.org/proposal/?id=0f94fbc1-399e-4665-bac3-dcf9e636a68a)
-* [Hide stolen LAND/Assets from the Decentraland’s Marketplace and Explorer](https://governance.decentraland.org/proposal/?id=052380ff-1dd7-4354-abc2-725adc2cba1b)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
