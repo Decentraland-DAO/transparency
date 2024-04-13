@@ -74,6 +74,7 @@ Since April 1, 1 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [ Renewal New DAO Explorers: Mobile, VR, and Desktop (in Godot &amp; Bevy)](https://governance.decentraland.org/proposal/?id=c58ef920-ce49-481a-ab52-dba2747d9770) (Higher Tier)
 * [Echelon in Decentraland: Boosting Decentraland&#39;s Reach and Platform Engagement](https://governance.decentraland.org/proposal/?id=4a470d57-110d-4b89-9196-68d5ff0fe16e) (Higher Tier)
 * [Grant Support Squad H2 2024](https://governance.decentraland.org/proposal/?id=f38cf299-f5df-45b7-b08c-716c49dc14d9) (Higher Tier)
 
@@ -85,6 +86,5 @@ Since April 1, 1 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
-* [Should We Revoke Fraudulent IWB Gaming Grant?](https://governance.decentraland.org/proposal/?id=0f94fbc1-399e-4665-bac3-dcf9e636a68a)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
