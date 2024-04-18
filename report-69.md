@@ -71,6 +71,7 @@ Since April 1, 1 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
+* 10, 25: [[Near Central Genesis Plaza] Quality Location](https://governance.decentraland.org/proposal/?id=0849e6e0-8bad-40cb-ade1-34c572a2875c)
 
 ## Grants
 
@@ -87,5 +88,6 @@ Since April 1, 1 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Airdrop for Active Wearable Creators](https://governance.decentraland.org/proposal/?id=6b5e10eb-749a-4960-8316-89f6f885742f)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
