@@ -2,16 +2,18 @@ import { parse } from 'csv-parse/sync'
 import { readFileSync } from 'fs'
 import { GoogleSpreadsheet } from 'google-spreadsheet'
 import { parseKPIs, reportToRollbarAndThrow } from './utils'
+import { JWT } from 'google-auth-library'
 
 require('dotenv').config()
 
 async function main() {
   try {
-    const doc = new GoogleSpreadsheet(process.env.SHEET_ID)
-    await doc.useServiceAccountAuth({
-      client_email: process.env.SHEET_CLIENT_EMAIL,
-      private_key: process.env.SHEET_PRIVATE_KEY
+    const serviceAccountAuth = new JWT({
+      email: process.env.SHEET_CLIENT_EMAIL,
+      key: process.env.SHEET_PRIVATE_KEY,
+      scopes: ['https://www.googleapis.com/auth/spreadsheets']
     })
+    const doc = new GoogleSpreadsheet(process.env.SHEET_ID, serviceAccountAuth)
 
     const title = process.argv[2]
     const path = process.argv[3]
@@ -43,7 +45,6 @@ async function main() {
     console.log(`✅ The ${title} sheet has been updated with ${rows.length - 1} elements`)
   } catch (error) {
     console.error(error)
-    process.exit(-1)
   }
 }
 
