@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -38,6 +38,13 @@ Since April 16, 1 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+#### [Airdrop for Active Wearable Creators](https://governance.decentraland.org/proposal/?id=6b5e10eb-749a-4960-8316-89f6f885742f)
+
+* YES 50.58074115035473% 2,678,229 VP (32 votes)
+* NO 49.41925884964527% 2,616,729 VP (19 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 
 # Active Proposals
 
@@ -46,6 +53,7 @@ Since April 16, 1 grants have been approved and the vesting contract(s) will be 
 
 ## Grants
 
+* [DCL Community Video Library](https://governance.decentraland.org/proposal/?id=cacb1ce3-b5e9-4133-901a-cb787f43871f) (Higher Tier)
 * [Decentraland Browser Extension](https://governance.decentraland.org/proposal/?id=4f43637f-0e54-4609-985e-c7c2cc1e9b7a) (Higher Tier)
 * [ Resubmission:  Advertising Platform ](https://governance.decentraland.org/proposal/?id=aa604b52-d53a-4d00-be41-2a492682641a) (Higher Tier)
 * [Decentraland Studios Maintenance](https://governance.decentraland.org/proposal/?id=561ebff4-52c8-4797-96af-dbe4f1bd5d91) (Lower Tier)
@@ -61,6 +69,5 @@ Since April 16, 1 grants have been approved and the vesting contract(s) will be 
 ## Polls
 
 * [Should the DAO send part of the treasury to a defi dapp to earn yield/profit?](https://governance.decentraland.org/proposal/?id=0c919ef1-c818-43e5-a21f-ef4cc2e97669)
-* [Airdrop for Active Wearable Creators](https://governance.decentraland.org/proposal/?id=6b5e10eb-749a-4960-8316-89f6f885742f)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
