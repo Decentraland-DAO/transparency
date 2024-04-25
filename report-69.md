@@ -79,7 +79,6 @@ Since April 1, 1 grants have been approved and the vesting contract(s) will be e
 * [ Resubmission:  Advertising Platform ](https://governance.decentraland.org/proposal/?id=aa604b52-d53a-4d00-be41-2a492682641a) (Higher Tier)
 * [Decentraland Studios Maintenance](https://governance.decentraland.org/proposal/?id=561ebff4-52c8-4797-96af-dbe4f1bd5d91) (Lower Tier)
 * [ Renewal New DAO Explorers: Mobile, VR, and Desktop (in Godot &amp; Bevy)](https://governance.decentraland.org/proposal/?id=c58ef920-ce49-481a-ab52-dba2747d9770) (Higher Tier)
-* [Echelon in Decentraland: Boosting Decentraland&#39;s Reach and Platform Engagement](https://governance.decentraland.org/proposal/?id=4a470d57-110d-4b89-9196-68d5ff0fe16e) (Higher Tier)
 
 ## Names Bans
 
