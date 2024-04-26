@@ -88,6 +88,5 @@ Since April 1, 1 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
-* [Should the DAO send part of the treasury to a defi dapp to earn yield/profit?](https://governance.decentraland.org/proposal/?id=0c919ef1-c818-43e5-a21f-ef4cc2e97669)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
