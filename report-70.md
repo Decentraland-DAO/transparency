@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 2 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -26,7 +26,14 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since April 16, 1 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since April 16, 2 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [ Renewal New DAO Explorers: Mobile, VR, and Desktop (in Godot &amp; Bevy)](https://governance.decentraland.org/proposal/?id=c58ef920-ce49-481a-ab52-dba2747d9770) (Higher Tier)
+
+* Yes 90.84998042469536% 10,491,095 VP (81 votes)
+* No 0.36770917323629365% 42,462 VP (5 votes)
+* Abstain 8.782310402068358% 1,014,156 VP (3 votes)
 
 
 #### [Grant Support Squad H2 2024](https://governance.decentraland.org/proposal/?id=f38cf299-f5df-45b7-b08c-716c49dc14d9) (Higher Tier)
@@ -57,7 +64,6 @@ Since April 16, 1 grants have been approved and the vesting contract(s) will be 
 * [Decentraland Browser Extension](https://governance.decentraland.org/proposal/?id=4f43637f-0e54-4609-985e-c7c2cc1e9b7a) (Higher Tier)
 * [ Resubmission:  Advertising Platform ](https://governance.decentraland.org/proposal/?id=aa604b52-d53a-4d00-be41-2a492682641a) (Higher Tier)
 * [Decentraland Studios Maintenance](https://governance.decentraland.org/proposal/?id=561ebff4-52c8-4797-96af-dbe4f1bd5d91) (Lower Tier)
-* [ Renewal New DAO Explorers: Mobile, VR, and Desktop (in Godot &amp; Bevy)](https://governance.decentraland.org/proposal/?id=c58ef920-ce49-481a-ab52-dba2747d9770) (Higher Tier)
 
 ## Names Bans
 
