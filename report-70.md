@@ -63,7 +63,6 @@ Since April 16, 2 grants have been approved and the vesting contract(s) will be 
 * [DCL Community Video Library](https://governance.decentraland.org/proposal/?id=cacb1ce3-b5e9-4133-901a-cb787f43871f) (Higher Tier)
 * [Decentraland Browser Extension](https://governance.decentraland.org/proposal/?id=4f43637f-0e54-4609-985e-c7c2cc1e9b7a) (Higher Tier)
 * [ Resubmission:  Advertising Platform ](https://governance.decentraland.org/proposal/?id=aa604b52-d53a-4d00-be41-2a492682641a) (Higher Tier)
-* [Decentraland Studios Maintenance](https://governance.decentraland.org/proposal/?id=561ebff4-52c8-4797-96af-dbe4f1bd5d91) (Lower Tier)
 
 ## Names Bans
 
@@ -73,6 +72,7 @@ Since April 16, 2 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+* [Separate Grant Squad / Admin Payments from Grantee Payments on Transparency Page](https://governance.decentraland.org/proposal/?id=4b75d36e-5b17-448e-bcdb-5a492d2a9abc)
 * [Should the DAO diversify the treasury?](https://governance.decentraland.org/proposal/?id=051a4027-b0d4-4780-bd8f-189af0a563df)
 * [Should the DAO stake its ETH?](https://governance.decentraland.org/proposal/?id=3e8ab3cc-85e2-49c8-a5b1-480551d3a3f4)
 
