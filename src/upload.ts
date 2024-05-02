@@ -45,6 +45,7 @@ async function main() {
     console.log(`✅ The ${title} sheet has been updated with ${rows.length - 1} elements`)
   } catch (error) {
     console.error(error)
+    process.exit(-1)
   }
 }
 
