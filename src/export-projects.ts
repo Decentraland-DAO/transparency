@@ -292,7 +292,7 @@ async function setEnactingData(proposal: Project): Promise<Project> {
 }
 
 async function main() {
-  const limit = pLimit(150)
+  const limit = pLimit(50)
   // Get Governance dApp Proposals
   const projects = (PROPOSALS as Project[])
     .filter((p) => p.type === GovernanceProposalType.GRANT || p.type === GovernanceProposalType.BID)
