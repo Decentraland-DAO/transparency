@@ -73,7 +73,5 @@ Since April 16, 2 grants have been approved and the vesting contract(s) will be 
 ## Polls
 
 * [Separate Grant Squad / Admin Payments from Grantee Payments on Transparency Page](https://governance.decentraland.org/proposal/?id=4b75d36e-5b17-448e-bcdb-5a492d2a9abc)
-* [Should the DAO diversify the treasury?](https://governance.decentraland.org/proposal/?id=051a4027-b0d4-4780-bd8f-189af0a563df)
-* [Should the DAO stake its ETH?](https://governance.decentraland.org/proposal/?id=3e8ab3cc-85e2-49c8-a5b1-480551d3a3f4)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
