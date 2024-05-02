@@ -181,8 +181,8 @@ async function getVestingContractData(proposalId: string, vestingAddresses: stri
     try {
       return await Promise.all(vestingAddresses.map((address) => _getVestingContractDataV2(getChecksumAddress(address))))
     } catch (errorV2) {
-      rollbar.error(`Error trying to get vesting data`, { proposalId, vestingAddresses, errorV1, errorV2 })
-      console.error(`Error trying to get vesting data`, { proposalId, vestingAddresses, errorV1, errorV2 })
+      rollbar.error(`Error trying to get vesting data`, { proposalId, vestingAddresses, errorV1: `${errorV1}`, errorV2: `${errorV2}` })
+      console.error(`Error trying to get vesting data`, { proposalId, vestingAddresses, errorV1: `${errorV1}`, errorV2: `${errorV2}` })
     }
   }
 }
