@@ -30,7 +30,7 @@ import {
   flattenArray,
   getChecksumAddress,
   getMonthsBetweenDates,
-  INFURA_URL,
+  ALCHEMY_URL,
   isSameAddress,
   parseNumber,
   reportToRollbarAndThrow,
@@ -39,7 +39,8 @@ import {
   toISOString
 } from './utils'
 
-const web3 = new Web3(INFURA_URL)
+const web3 = new Web3(ALCHEMY_URL)
+const limit = pLimit(5)
 
 function getTxAmount(decodedLogEvent: Decoded, decimals: number) {
   for (let param of decodedLogEvent.params) {
@@ -176,16 +177,17 @@ async function _getVestingContractDataV2(vestingAddress: string): Promise<Vestin
 
 async function getVestingContractData(proposalId: string, vestingAddresses: string[]): Promise<VestingInfo[]> {
   try {
-    return await Promise.all(vestingAddresses.map((address) => _getVestingContractDataV1(getChecksumAddress(address))))
+    return await Promise.all(vestingAddresses.map((address) => limit(() => _getVestingContractDataV1(getChecksumAddress(address)))))
   } catch (errorV1) {
     try {
-      return await Promise.all(vestingAddresses.map((address) => _getVestingContractDataV2(getChecksumAddress(address))))
+      return await Promise.all(vestingAddresses.map((address) => limit(() => _getVestingContractDataV2(getChecksumAddress(address)))))
     } catch (errorV2) {
       rollbar.error(`Error trying to get vesting data`, { proposalId, vestingAddresses, errorV1: `${errorV1}`, errorV2: `${errorV2}` })
       console.error(`Error trying to get vesting data`, { proposalId, vestingAddresses, errorV1: `${errorV1}`, errorV2: `${errorV2}` })
     }
   }
 }
+
 
 function transferMatchesBeneficiary(decodedLogEvent: Decoded, beneficiary: string) {
   return (
@@ -292,7 +294,6 @@ async function setEnactingData(proposal: Project): Promise<Project> {
 }
 
 async function main() {
-  const limit = pLimit(50)
   // Get Governance dApp Proposals
   const projects = (PROPOSALS as Project[])
     .filter((p) => p.type === GovernanceProposalType.GRANT || p.type === GovernanceProposalType.BID)
@@ -311,7 +312,7 @@ async function main() {
       }
 
       if (proposal.status === Status.ENACTED) {
-        return limit(() => setEnactingData(projectProposal))
+        return setEnactingData(projectProposal)
       } else {
         return Promise.resolve(projectProposal)
       }
