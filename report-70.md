@@ -71,10 +71,8 @@ Since April 16, 2 grants have been approved and the vesting contract(s) will be 
 ## Polls
 
 * [Should We Revoke VP Delegation?](https://governance.decentraland.org/proposal/?id=5d88d131-2763-401b-9001-493beb9127fe)
-* [Pause grants for the year 2024.](https://governance.decentraland.org/proposal/?id=de2a0fa9-c905-4a57-8ce3-757f9b014e7a)
 * [Revoke Advertising Platform](https://governance.decentraland.org/proposal/?id=47a53557-80c4-4347-819b-89e621bb1420)
 * [Change Gov Mechanism to Mitigate Last-Minute Voting in DAO](https://governance.decentraland.org/proposal/?id=00a79921-2dca-4bde-829e-3a503fc602c2)
 * [Should we implement an incentives system for early voting engagement?](https://governance.decentraland.org/proposal/?id=b154ce85-ca79-45f8-a672-a856ff7ed5b6)
-* [Separate Grant Squad / Admin Payments from Grantee Payments on Transparency Page](https://governance.decentraland.org/proposal/?id=4b75d36e-5b17-448e-bcdb-5a492d2a9abc)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

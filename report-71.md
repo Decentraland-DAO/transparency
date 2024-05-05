@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -38,6 +38,13 @@ Since May 1, 1 grants have been approved and the vesting contract(s) will be est
 
 ## Polls
 
+#### [Separate Grant Squad / Admin Payments from Grantee Payments on Transparency Page](https://governance.decentraland.org/proposal/?id=4b75d36e-5b17-448e-bcdb-5a492d2a9abc)
+
+* Yes 99.9999806264477% 5,161,675 VP (42 votes)
+* No 0% 0 VP (0 votes)
+* Invalid question/options 0.000019373552311303537% 1 VP (1 votes)
+
+
 
 # Active Proposals
 
@@ -57,10 +64,8 @@ Since May 1, 1 grants have been approved and the vesting contract(s) will be est
 ## Polls
 
 * [Should We Revoke VP Delegation?](https://governance.decentraland.org/proposal/?id=5d88d131-2763-401b-9001-493beb9127fe)
-* [Pause grants for the year 2024.](https://governance.decentraland.org/proposal/?id=de2a0fa9-c905-4a57-8ce3-757f9b014e7a)
 * [Revoke Advertising Platform](https://governance.decentraland.org/proposal/?id=47a53557-80c4-4347-819b-89e621bb1420)
 * [Change Gov Mechanism to Mitigate Last-Minute Voting in DAO](https://governance.decentraland.org/proposal/?id=00a79921-2dca-4bde-829e-3a503fc602c2)
 * [Should we implement an incentives system for early voting engagement?](https://governance.decentraland.org/proposal/?id=b154ce85-ca79-45f8-a672-a856ff7ed5b6)
-* [Separate Grant Squad / Admin Payments from Grantee Payments on Transparency Page](https://governance.decentraland.org/proposal/?id=4b75d36e-5b17-448e-bcdb-5a492d2a9abc)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
