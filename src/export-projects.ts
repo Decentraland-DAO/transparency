@@ -40,7 +40,7 @@ import {
 } from './utils'
 
 const web3 = new Web3(ALCHEMY_URL)
-const limit = pLimit(2)
+const limit = pLimit(1)
 
 function getTxAmount(decodedLogEvent: Decoded, decimals: number) {
   for (let param of decodedLogEvent.params) {
