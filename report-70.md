@@ -60,7 +60,6 @@ Since April 16, 2 grants have been approved and the vesting contract(s) will be 
 
 ## Grants
 
-* [DCL Community Video Library](https://governance.decentraland.org/proposal/?id=cacb1ce3-b5e9-4133-901a-cb787f43871f) (Higher Tier)
 
 ## Names Bans
 
