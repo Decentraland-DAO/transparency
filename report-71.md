@@ -62,6 +62,7 @@ Since May 1, 1 grants have been approved and the vesting contract(s) will be est
 
 ## Polls
 
+* [3 weeks voting for grant requests](https://governance.decentraland.org/proposal/?id=423179c4-d0ae-44fa-9087-03c9e36e21db)
 * [District Yearly VP Confirmation](https://governance.decentraland.org/proposal/?id=5685ad77-9130-4a14-a52c-f5de887b3073)
 * [Should We Revoke VP Delegation?](https://governance.decentraland.org/proposal/?id=5d88d131-2763-401b-9001-493beb9127fe)
 * [Revoke Advertising Platform](https://governance.decentraland.org/proposal/?id=47a53557-80c4-4347-819b-89e621bb1420)
