@@ -69,8 +69,8 @@ Since April 16, 2 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+* [Should we change the direction of comment posting?](https://governance.decentraland.org/proposal/?id=c659fa50-c388-45a5-8255-d47772324dbd)
 * [Empower Revocations Committee to Initiate Grant Investigations](https://governance.decentraland.org/proposal/?id=3658173e-2ed2-487a-81b4-d464517d1008)
 * [3 weeks voting for grant requests](https://governance.decentraland.org/proposal/?id=423179c4-d0ae-44fa-9087-03c9e36e21db)
-* [District Yearly VP Confirmation](https://governance.decentraland.org/proposal/?id=5685ad77-9130-4a14-a52c-f5de887b3073)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
