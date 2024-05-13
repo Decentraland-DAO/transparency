@@ -38,11 +38,12 @@ Since May 1, 1 grants have been approved and the vesting contract(s) will be est
 
 ## Polls
 
-#### [District Yearly VP Confirmation](https://governance.decentraland.org/proposal/?id=5685ad77-9130-4a14-a52c-f5de887b3073)
+#### [3 weeks voting for grant requests](https://governance.decentraland.org/proposal/?id=423179c4-d0ae-44fa-9087-03c9e36e21db)
 
-* Yes 38.744739692580794% 3,006,777 VP (44 votes)
-* No 61.046484507784186% 4,737,499 VP (17 votes)
-* Invalid question/options 0.2087757996350225% 16,202 VP (1 votes)
+* Yes 45.2956682506897% 3,763,146 VP (36 votes)
+* No 54.47831958747996% 4,526,037 VP (8 votes)
+* Abstain 0.030994371662839013% 2,575 VP (7 votes)
+* Invalid question/options 0.195017790167502% 16,202 VP (1 votes)
 
 
 #### [Revoke Advertising Platform](https://governance.decentraland.org/proposal/?id=47a53557-80c4-4347-819b-89e621bb1420)
@@ -85,6 +86,5 @@ Since May 1, 1 grants have been approved and the vesting contract(s) will be est
 
 * [Should we change the direction of comment posting?](https://governance.decentraland.org/proposal/?id=c659fa50-c388-45a5-8255-d47772324dbd)
 * [Empower Revocations Committee to Initiate Grant Investigations](https://governance.decentraland.org/proposal/?id=3658173e-2ed2-487a-81b4-d464517d1008)
-* [3 weeks voting for grant requests](https://governance.decentraland.org/proposal/?id=423179c4-d0ae-44fa-9087-03c9e36e21db)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
