@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -37,6 +37,13 @@ Since May 1, 1 grants have been approved and the vesting contract(s) will be est
 
 
 ## Polls
+
+#### [Empower Revocations Committee to Initiate Grant Investigations](https://governance.decentraland.org/proposal/?id=3658173e-2ed2-487a-81b4-d464517d1008)
+
+* YES 57.14063775916348% 5,340,492 VP (38 votes)
+* NO 42.85936224083651% 4,005,732 VP (6 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
 
 #### [Revoke Advertising Platform](https://governance.decentraland.org/proposal/?id=47a53557-80c4-4347-819b-89e621bb1420)
 
@@ -76,7 +83,7 @@ Since May 1, 1 grants have been approved and the vesting contract(s) will be est
 
 ## Polls
 
+* [2 step grant process](https://governance.decentraland.org/proposal/?id=56dee43e-1752-49ff-a0d3-b8287b59176c)
 * [Should we change the direction of comment posting?](https://governance.decentraland.org/proposal/?id=c659fa50-c388-45a5-8255-d47772324dbd)
-* [Empower Revocations Committee to Initiate Grant Investigations](https://governance.decentraland.org/proposal/?id=3658173e-2ed2-487a-81b4-d464517d1008)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
