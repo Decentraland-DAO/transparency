@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 5 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -37,6 +37,13 @@ Since May 1, 1 grants have been approved and the vesting contract(s) will be est
 
 
 ## Polls
+
+#### [Should we change the direction of comment posting?](https://governance.decentraland.org/proposal/?id=c659fa50-c388-45a5-8255-d47772324dbd)
+
+* Yes, change the direction of publication. 78.77679317028961% 2,598,937 VP (23 votes)
+* No, leave it as it is. 20.732105428273947% 683,976 VP (16 votes)
+* Invalid question/options 0.4911014014364458% 16,202 VP (1 votes)
+
 
 #### [Empower Revocations Committee to Initiate Grant Investigations](https://governance.decentraland.org/proposal/?id=3658173e-2ed2-487a-81b4-d464517d1008)
 
@@ -84,6 +91,5 @@ Since May 1, 1 grants have been approved and the vesting contract(s) will be est
 ## Polls
 
 * [2 step grant process](https://governance.decentraland.org/proposal/?id=56dee43e-1752-49ff-a0d3-b8287b59176c)
-* [Should we change the direction of comment posting?](https://governance.decentraland.org/proposal/?id=c659fa50-c388-45a5-8255-d47772324dbd)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
