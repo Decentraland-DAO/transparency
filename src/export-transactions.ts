@@ -61,9 +61,15 @@ let priceData: TokenPriceData = {}
 const WALLET_ADDRESSES = new Set(Wallets.getAddresses())
 const PAGE_SIZE = 1000
 
+const CORE_UNIT_CATEGORY = 'Core Unit'
+const isCoreUnitCategory = (category) => category === CORE_UNIT_CATEGORY
+
 const PROJECTS: Project[] = RAW_PROJECTS
 const GRANTS_VESTING_ADDRESSES = new Set(flattenArray(PROJECTS.filter(g => g.type === GovernanceProposalType.GRANT && g.status === Status.ENACTED && g.vesting_addresses.length > 0).map(g => g.vesting_addresses.map(address => address.toLowerCase()))))
-const GRANTS_ENACTING_TXS = new Set(PROJECTS.filter(g => g.type === GovernanceProposalType.GRANT && g.status === Status.ENACTED && g.enacting_tx).map(g => g.enacting_tx.toLowerCase()))
+const COMMUNITY_GRANTS_VESTING_ADDRESSES = new Set(flattenArray(PROJECTS.filter(g => g.type === GovernanceProposalType.GRANT && !isCoreUnitCategory(g.configuration.category) && g.status === Status.ENACTED && g.vesting_addresses.length > 0).map(g => g.vesting_addresses.map(address => address.toLowerCase()))))
+const OPERATIONAL_GRANTS_VESTING_ADDRESSES = new Set(flattenArray(PROJECTS.filter(g => g.type === GovernanceProposalType.GRANT && isCoreUnitCategory(g.configuration.category) && g.status === Status.ENACTED && g.vesting_addresses.length > 0).map(g => g.vesting_addresses.map(address => address.toLowerCase()))))
+const COMMUNITY_GRANTS_ENACTING_TXS = new Set(PROJECTS.filter(g => g.type === GovernanceProposalType.GRANT && !isCoreUnitCategory(g.configuration.category) && g.status === Status.ENACTED && g.enacting_tx).map(g => g.enacting_tx.toLowerCase()))
+const OPERATIONAL_GRANTS_ENACTING_TXS = new Set(PROJECTS.filter(g => g.type === GovernanceProposalType.GRANT && isCoreUnitCategory(g.configuration.category) && g.status === Status.ENACTED && g.enacting_tx).map(g => g.enacting_tx.toLowerCase()))
 const BIDS_VESTING_ADDRESSES = new Set(flattenArray(PROJECTS.filter(g => g.type === GovernanceProposalType.BID && g.status === Status.ENACTED && g.vesting_addresses.length > 0).map(g => g.vesting_addresses.map(address => address.toLowerCase()))))
 const BIDS_ENACTING_TXS = new Set(PROJECTS.filter(g => g.type === GovernanceProposalType.BID && g.status === Status.ENACTED && g.enacting_tx).map(g => g.enacting_tx.toLowerCase()))
 const SAB_ADDRESS = '0x0e659a116e161d8e502f9036babda51334f2667e' // Sec Advisory Board
@@ -266,8 +272,13 @@ async function tagging(txs: TransactionParsed[]) {
         continue
       }
 
-      if (tx.type === TransferType.OUT && (GRANTS_VESTING_ADDRESSES.has(tx.to) || GRANTS_ENACTING_TXS.has(tx.hash))) {
-        tx.tag = TagType.GRANT
+      if (tx.type === TransferType.OUT && (COMMUNITY_GRANTS_VESTING_ADDRESSES.has(tx.to) || COMMUNITY_GRANTS_ENACTING_TXS.has(tx.hash))) {
+        tx.tag = TagType.COMMUNITY_GRANT
+        continue
+      }
+      
+      if (tx.type === TransferType.OUT && (OPERATIONAL_GRANTS_VESTING_ADDRESSES.has(tx.to) || OPERATIONAL_GRANTS_ENACTING_TXS.has(tx.hash))) {
+        tx.tag = TagType.OPERATIONAL_GRANT
         continue
       }
 
