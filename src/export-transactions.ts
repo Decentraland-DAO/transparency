@@ -64,8 +64,7 @@ const PAGE_SIZE = 1000
 const CORE_UNIT_CATEGORY = 'Core Unit'
 const isCoreUnitCategory = (category) => category === CORE_UNIT_CATEGORY
 
-// @ts-ignore
-const PROJECTS: Project[] = RAW_PROJECTS
+const PROJECTS: Project[] = RAW_PROJECTS as Project[]
 const COMMUNITY_GRANTS_VESTING_ADDRESSES = new Set();
 const OPERATIONAL_GRANTS_VESTING_ADDRESSES = new Set();
 const COMMUNITY_GRANTS_ENACTING_TXS = new Set();
@@ -74,16 +73,16 @@ const GRANTS_VESTING_ADDRESSES = new Set();
 const BIDS_VESTING_ADDRESSES = new Set();
 const BIDS_ENACTING_TXS = new Set();
 
-PROJECTS.forEach(g => {
-  const isGrant = g.type === GovernanceProposalType.GRANT;
-  const isBid = g.type === GovernanceProposalType.BID;
-  const isEnacted = g.status === Status.ENACTED;
-  const isCommunityGrant = isGrant && !isCoreUnitCategory(g.configuration.category);
-  const isOperationalGrant = isGrant && isCoreUnitCategory(g.configuration.category);
+PROJECTS.forEach(project => {
+  const isGrant = project.type === GovernanceProposalType.GRANT;
+  const isBid = project.type === GovernanceProposalType.BID;
+  const isEnacted = project.status === Status.ENACTED;
+  const isCommunityGrant = isGrant && !isCoreUnitCategory(project.configuration.category);
+  const isOperationalGrant = isGrant && isCoreUnitCategory(project.configuration.category);
 
   if (isEnacted) {
-    if (g.vesting_addresses.length > 0) {
-      const vestingAddresses = g.vesting_addresses.map(address => address.toLowerCase());
+    if (project.vesting_addresses.length > 0) {
+      const vestingAddresses = project.vesting_addresses.map(address => address.toLowerCase());
       if (isGrant) {
         vestingAddresses.forEach(address => GRANTS_VESTING_ADDRESSES.add(address));
       }
@@ -99,8 +98,8 @@ PROJECTS.forEach(g => {
       }
     }
 
-    if (g.enacting_tx) {
-      const enactingTx = g.enacting_tx.toLowerCase();
+    if (project.enacting_tx) {
+      const enactingTx = project.enacting_tx.toLowerCase();
       if (isCommunityGrant) {
         COMMUNITY_GRANTS_ENACTING_TXS.add(enactingTx);
       }
