@@ -56,6 +56,7 @@ Since May 16, 0 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+* [Can we improve the culture of communication in the DAO?](https://governance.decentraland.org/proposal/?id=4da45e6e-0ad6-41d8-976a-948fec72a699)
 * [The Delegate Squad!](https://governance.decentraland.org/proposal/?id=1480b7be-7349-43df-8ff4-62751817502e)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
