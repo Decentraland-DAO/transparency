@@ -61,11 +61,58 @@ let priceData: TokenPriceData = {}
 const WALLET_ADDRESSES = new Set(Wallets.getAddresses())
 const PAGE_SIZE = 1000
 
-const PROJECTS: Project[] = RAW_PROJECTS
-const GRANTS_VESTING_ADDRESSES = new Set(flattenArray(PROJECTS.filter(g => g.type === GovernanceProposalType.GRANT && g.status === Status.ENACTED && g.vesting_addresses.length > 0).map(g => g.vesting_addresses.map(address => address.toLowerCase()))))
-const GRANTS_ENACTING_TXS = new Set(PROJECTS.filter(g => g.type === GovernanceProposalType.GRANT && g.status === Status.ENACTED && g.enacting_tx).map(g => g.enacting_tx.toLowerCase()))
-const BIDS_VESTING_ADDRESSES = new Set(flattenArray(PROJECTS.filter(g => g.type === GovernanceProposalType.BID && g.status === Status.ENACTED && g.vesting_addresses.length > 0).map(g => g.vesting_addresses.map(address => address.toLowerCase()))))
-const BIDS_ENACTING_TXS = new Set(PROJECTS.filter(g => g.type === GovernanceProposalType.BID && g.status === Status.ENACTED && g.enacting_tx).map(g => g.enacting_tx.toLowerCase()))
+const CORE_UNIT_CATEGORY = 'Core Unit'
+const isCoreUnitCategory = (category) => category === CORE_UNIT_CATEGORY
+
+const PROJECTS: Project[] = RAW_PROJECTS as Project[]
+const COMMUNITY_GRANTS_VESTING_ADDRESSES = new Set();
+const OPERATIONAL_GRANTS_VESTING_ADDRESSES = new Set();
+const COMMUNITY_GRANTS_ENACTING_TXS = new Set();
+const OPERATIONAL_GRANTS_ENACTING_TXS = new Set();
+const GRANTS_VESTING_ADDRESSES = new Set();
+const BIDS_VESTING_ADDRESSES = new Set();
+const BIDS_ENACTING_TXS = new Set();
+
+PROJECTS.forEach(project => {
+  const isGrant = project.type === GovernanceProposalType.GRANT;
+  const isBid = project.type === GovernanceProposalType.BID;
+  const isEnacted = project.status === Status.ENACTED;
+  const isCommunityGrant = isGrant && !isCoreUnitCategory(project.configuration.category);
+  const isOperationalGrant = isGrant && isCoreUnitCategory(project.configuration.category);
+
+  if (isEnacted) {
+    if (project.vesting_addresses.length > 0) {
+      const vestingAddresses = project.vesting_addresses.map(address => address.toLowerCase());
+      if (isGrant) {
+        vestingAddresses.forEach(address => GRANTS_VESTING_ADDRESSES.add(address));
+      }
+      if (isBid) {
+        vestingAddresses.forEach(address => BIDS_VESTING_ADDRESSES.add(address));
+      }
+
+      if (isCommunityGrant) {
+        vestingAddresses.forEach(address => COMMUNITY_GRANTS_VESTING_ADDRESSES.add(address));
+      }
+      if (isOperationalGrant) {
+        vestingAddresses.forEach(address => OPERATIONAL_GRANTS_VESTING_ADDRESSES.add(address));
+      }
+    }
+
+    if (project.enacting_tx) {
+      const enactingTx = project.enacting_tx.toLowerCase();
+      if (isCommunityGrant) {
+        COMMUNITY_GRANTS_ENACTING_TXS.add(enactingTx);
+      }
+      if (isOperationalGrant) {
+        OPERATIONAL_GRANTS_ENACTING_TXS.add(enactingTx);
+      }
+      if (isBid) {
+        BIDS_ENACTING_TXS.add(enactingTx);
+      }
+    }
+  }
+});
+
 const SAB_ADDRESS = '0x0e659a116e161d8e502f9036babda51334f2667e' // Sec Advisory Board
 const FACILITATOR_ADDRESS = '0x76fb13f00cdbdd5eac8e2664cf14be791af87cb0'
 const OPENSEA_ADDRESSES = new Set([
@@ -266,8 +313,13 @@ async function tagging(txs: TransactionParsed[]) {
         continue
       }
 
-      if (tx.type === TransferType.OUT && (GRANTS_VESTING_ADDRESSES.has(tx.to) || GRANTS_ENACTING_TXS.has(tx.hash))) {
-        tx.tag = TagType.GRANT
+      if (tx.type === TransferType.OUT && (COMMUNITY_GRANTS_VESTING_ADDRESSES.has(tx.to) || COMMUNITY_GRANTS_ENACTING_TXS.has(tx.hash))) {
+        tx.tag = TagType.COMMUNITY_GRANT
+        continue
+      }
+
+      if (tx.type === TransferType.OUT && (OPERATIONAL_GRANTS_VESTING_ADDRESSES.has(tx.to) || OPERATIONAL_GRANTS_ENACTING_TXS.has(tx.hash))) {
+        tx.tag = TagType.OPERATIONAL_GRANT
         continue
       }
 
