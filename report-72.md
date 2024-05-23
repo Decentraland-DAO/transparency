@@ -36,6 +36,7 @@ Since May 16, 0 grants have been approved and the vesting contract(s) will be es
 
 ## Points of Interest
 
+* -118, 6: [2x1 Fashion District! Great Location and Price! ](https://governance.decentraland.org/proposal/?id=58332865-8c2d-40d2-8b3d-36017d0a4d1e)
 
 ## Grants
 
