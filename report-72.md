@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -31,6 +31,13 @@ Since May 16, 0 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+#### [The Delegate Squad!](https://governance.decentraland.org/proposal/?id=1480b7be-7349-43df-8ff4-62751817502e)
+
+* Yes 1.381600314330424% 91,248 VP (13 votes)
+* No 62.89956189061574% 4,154,211 VP (9 votes)
+* Invalid question/options 35.71883779505384% 2,359,056 VP (20 votes)
+
+
 
 # Active Proposals
 
@@ -50,6 +57,5 @@ Since May 16, 0 grants have been approved and the vesting contract(s) will be es
 ## Polls
 
 * [Can we improve the culture of communication in the DAO?](https://governance.decentraland.org/proposal/?id=4da45e6e-0ad6-41d8-976a-948fec72a699)
-* [The Delegate Squad!](https://governance.decentraland.org/proposal/?id=1480b7be-7349-43df-8ff4-62751817502e)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
