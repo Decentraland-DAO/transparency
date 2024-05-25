@@ -82,6 +82,7 @@ Since May 1, 1 grants have been approved and the vesting contract(s) will be est
 
 ## Grants
 
+* [Future-Proof Decentraland Projects: Unity Scene Importer &amp; SDK Migration Tool](https://governance.decentraland.org/proposal/?id=1ebfb379-ebff-4c00-8d7c-b6a375f360d7) (Higher Tier)
 
 ## Names Bans
 
