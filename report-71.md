@@ -78,6 +78,12 @@ Since May 1, 1 grants have been approved and the vesting contract(s) will be est
 
 ## Points of Interest
 
+* 131, 135: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=91b81b62-6617-4bf8-8127-ccc676171c68)
+* 99, 86: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=d2099008-ce82-4e65-8fd7-3826cd450627)
+* 104, 78: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=708e8e8a-894a-4074-9a43-6d23766e9f02)
+* 88, 77: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=1f62afbe-d344-488b-ae7a-3dedda3f2468)
+* 75, 63: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=641e188a-c3d8-4b26-9d78-c65eaa8fde54)
+* 83, 74: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=6c477f26-c40c-49c7-85bf-d2ef9c114682)
 * 96, -4: [Chibi Nation](https://governance.decentraland.org/proposal/?id=78f4106d-7ade-4afe-9f93-ed35086e67fa)
 * 95, -7: [Club Nyan Cat ](https://governance.decentraland.org/proposal/?id=ed7408e1-3d07-4b7e-8bf6-68fe58aee91e)
 * 124, -15: [Haus of Daybed](https://governance.decentraland.org/proposal/?id=114af70e-c540-44f2-b07e-be09cada72a0)
@@ -113,6 +119,5 @@ Since May 1, 1 grants have been approved and the vesting contract(s) will be est
 ## Polls
 
 * [Esteban to follow me on X](https://governance.decentraland.org/proposal/?id=fb948ab0-f620-4e46-b982-dbbbc12c4466)
-* [Can we improve the culture of communication in the DAO?](https://governance.decentraland.org/proposal/?id=4da45e6e-0ad6-41d8-976a-948fec72a699)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
