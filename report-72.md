@@ -43,6 +43,10 @@ Since May 16, 0 grants have been approved and the vesting contract(s) will be es
 
 ## Points of Interest
 
+* -77, 71: [No Name](https://governance.decentraland.org/proposal/?id=f573cc09-4129-46cf-b358-e8a537282321)
+* -111, 144: [No Name](https://governance.decentraland.org/proposal/?id=778df4ab-7757-4bd3-a359-06132707add5)
+* -71, 82: [Festival Land](https://governance.decentraland.org/proposal/?id=29098958-b873-4810-92f3-5c0d253baea5)
+* 30, -112: [The FMF365 HQ](https://governance.decentraland.org/proposal/?id=331ce874-c370-42e9-af5f-2f4d0b6a2c60)
 * 131, 135: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=91b81b62-6617-4bf8-8127-ccc676171c68)
 * 99, 86: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=d2099008-ce82-4e65-8fd7-3826cd450627)
 * 104, 78: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=708e8e8a-894a-4074-9a43-6d23766e9f02)
@@ -69,7 +73,6 @@ Since May 16, 0 grants have been approved and the vesting contract(s) will be es
 * -106, -94: [No Name](https://governance.decentraland.org/proposal/?id=389f84df-39ce-4615-adc9-ebe8bd64f970)
 * 4, -111: [Wisher Vodka](https://governance.decentraland.org/proposal/?id=25d0f02c-c057-40f8-94a2-05b1cad2dd48)
 * -48, -110: [The Sanctuary](https://governance.decentraland.org/proposal/?id=6863f25a-9d9c-4a56-8d13-14cae3e292bd)
-* -118, 6: [2x1 Fashion District! Great Location and Price! ](https://governance.decentraland.org/proposal/?id=58332865-8c2d-40d2-8b3d-36017d0a4d1e)
 
 ## Grants
 
