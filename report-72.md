@@ -70,7 +70,6 @@ Since May 16, 0 grants have been approved and the vesting contract(s) will be es
 * 38, 103: [BB Studios 38,103](https://governance.decentraland.org/proposal/?id=34d750e0-920a-4bd3-9947-91e1d10ee609)
 * -2, 133: [No Name](https://governance.decentraland.org/proposal/?id=77412250-1ec1-4062-84c9-cb96551d1391)
 * -69, 35: [EndoMack](https://governance.decentraland.org/proposal/?id=c745decc-eafe-440c-9b5b-0dd57bc4fe97)
-* -106, -94: [No Name](https://governance.decentraland.org/proposal/?id=389f84df-39ce-4615-adc9-ebe8bd64f970)
 * 4, -111: [Wisher Vodka](https://governance.decentraland.org/proposal/?id=25d0f02c-c057-40f8-94a2-05b1cad2dd48)
 * -48, -110: [The Sanctuary](https://governance.decentraland.org/proposal/?id=6863f25a-9d9c-4a56-8d13-14cae3e292bd)
 
@@ -86,6 +85,5 @@ Since May 16, 0 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
-* [Esteban to follow me on X](https://governance.decentraland.org/proposal/?id=fb948ab0-f620-4e46-b982-dbbbc12c4466)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
