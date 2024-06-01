@@ -55,7 +55,6 @@ Since May 16, 0 grants have been approved and the vesting contract(s) will be es
 * 83, 74: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=6c477f26-c40c-49c7-85bf-d2ef9c114682)
 * 96, -4: [Chibi Nation](https://governance.decentraland.org/proposal/?id=78f4106d-7ade-4afe-9f93-ed35086e67fa)
 * 95, -7: [Club Nyan Cat ](https://governance.decentraland.org/proposal/?id=ed7408e1-3d07-4b7e-8bf6-68fe58aee91e)
-* 124, -15: [Haus of Daybed](https://governance.decentraland.org/proposal/?id=114af70e-c540-44f2-b07e-be09cada72a0)
 * 111, -23: [No Name](https://governance.decentraland.org/proposal/?id=b77ff9ca-0d99-4ede-a053-0ae80fce0908)
 * 62, 31: [financial center](https://governance.decentraland.org/proposal/?id=1fe3251e-b45c-41ec-a173-8bd054c974d2)
 * 96, -30: [Pranksy Palace](https://governance.decentraland.org/proposal/?id=fca37f84-caa4-4091-961b-a8b1f6e08562)
