@@ -9,12 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+1 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -48, -110: [The Sanctuary](https://governance.decentraland.org/proposal/?id=6863f25a-9d9c-4a56-8d13-14cae3e292bd)
+
+* Yes 100% 2,719,182 VP (47 votes)
+* No 0% 0 VP (0 votes)
+* Abstain 0% 0 VP (0 votes)
 
 
 ## Name Bans
@@ -37,10 +44,7 @@ Since June 1, 0 grants have been approved and the vesting contract(s) will be es
 ## Points of Interest
 
 * -77, 71: [No Name](https://governance.decentraland.org/proposal/?id=f573cc09-4129-46cf-b358-e8a537282321)
-* -111, 144: [No Name](https://governance.decentraland.org/proposal/?id=778df4ab-7757-4bd3-a359-06132707add5)
 * -71, 82: [Festival Land](https://governance.decentraland.org/proposal/?id=29098958-b873-4810-92f3-5c0d253baea5)
-* 30, -112: [The FMF365 HQ](https://governance.decentraland.org/proposal/?id=331ce874-c370-42e9-af5f-2f4d0b6a2c60)
-* 131, 135: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=91b81b62-6617-4bf8-8127-ccc676171c68)
 * 99, 86: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=d2099008-ce82-4e65-8fd7-3826cd450627)
 * 104, 78: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=708e8e8a-894a-4074-9a43-6d23766e9f02)
 * 88, 77: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=1f62afbe-d344-488b-ae7a-3dedda3f2468)
@@ -63,7 +67,6 @@ Since June 1, 0 grants have been approved and the vesting contract(s) will be es
 * -2, 133: [No Name](https://governance.decentraland.org/proposal/?id=77412250-1ec1-4062-84c9-cb96551d1391)
 * -69, 35: [EndoMack](https://governance.decentraland.org/proposal/?id=c745decc-eafe-440c-9b5b-0dd57bc4fe97)
 * 4, -111: [Wisher Vodka](https://governance.decentraland.org/proposal/?id=25d0f02c-c057-40f8-94a2-05b1cad2dd48)
-* -48, -110: [The Sanctuary](https://governance.decentraland.org/proposal/?id=6863f25a-9d9c-4a56-8d13-14cae3e292bd)
 
 ## Grants
 
