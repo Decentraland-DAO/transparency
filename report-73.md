@@ -9,12 +9,47 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 12 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 17 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-12 points of interest have been added to Decentraland’s map since the last report.
+17 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 99, 86: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=d2099008-ce82-4e65-8fd7-3826cd450627)
+
+* Yes 85.64236717672759% 2,066,421 VP (26 votes)
+* No 14.204991692393515% 342,745 VP (8 votes)
+* Abstain 0.15264113087889047% 3,683 VP (2 votes)
+
+
+#### 104, 78: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=708e8e8a-894a-4074-9a43-6d23766e9f02)
+
+* Yes 94.96975224972289% 6,452,301 VP (29 votes)
+* No 4.976023905591635% 338,074 VP (7 votes)
+* Abstain 0.05422384468548183% 3,684 VP (3 votes)
+
+
+#### 88, 77: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=1f62afbe-d344-488b-ae7a-3dedda3f2468)
+
+* Yes 99.85575359531954% 5,987,341 VP (29 votes)
+* No 0.03047036436018072% 1,827 VP (2 votes)
+* Abstain 0.11377604032028071% 6,822 VP (3 votes)
+
+
+#### 75, 63: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=641e188a-c3d8-4b26-9d78-c65eaa8fde54)
+
+* Yes 96.28711383981029% 5,768,846 VP (24 votes)
+* No 3.7128527784305767% 222,448 VP (8 votes)
+* Abstain 0.00003338175913859038% 2 VP (2 votes)
+
+
+#### 83, 74: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=6c477f26-c40c-49c7-85bf-d2ef9c114682)
+
+* Yes 78.51287382877256% 4,758,374 VP (23 votes)
+* No 7.639108085975894% 462,978 VP (10 votes)
+* Abstain 13.848018085251548% 839,277 VP (3 votes)
 
 
 #### 96, -4: [Chibi Nation](https://governance.decentraland.org/proposal/?id=78f4106d-7ade-4afe-9f93-ed35086e67fa)
@@ -122,11 +157,6 @@ Since June 1, 0 grants have been approved and the vesting contract(s) will be es
 
 * -77, 71: [No Name](https://governance.decentraland.org/proposal/?id=f573cc09-4129-46cf-b358-e8a537282321)
 * -71, 82: [Festival Land](https://governance.decentraland.org/proposal/?id=29098958-b873-4810-92f3-5c0d253baea5)
-* 99, 86: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=d2099008-ce82-4e65-8fd7-3826cd450627)
-* 104, 78: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=708e8e8a-894a-4074-9a43-6d23766e9f02)
-* 88, 77: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=1f62afbe-d344-488b-ae7a-3dedda3f2468)
-* 75, 63: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=641e188a-c3d8-4b26-9d78-c65eaa8fde54)
-* 83, 74: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=6c477f26-c40c-49c7-85bf-d2ef9c114682)
 
 ## Grants
 
@@ -140,5 +170,7 @@ Since June 1, 0 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+* [Members VS Projects](https://governance.decentraland.org/proposal/?id=1e153499-aaac-40f8-8231-de667673781f)
+* [Decentraland DAO Proposal: Introducing Proposal Submission Fees](https://governance.decentraland.org/proposal/?id=df17420f-944c-4cba-a90d-8e5a2a5bd683)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

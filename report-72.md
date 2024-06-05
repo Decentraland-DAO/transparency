@@ -45,11 +45,6 @@ Since May 16, 0 grants have been approved and the vesting contract(s) will be es
 
 * -77, 71: [No Name](https://governance.decentraland.org/proposal/?id=f573cc09-4129-46cf-b358-e8a537282321)
 * -71, 82: [Festival Land](https://governance.decentraland.org/proposal/?id=29098958-b873-4810-92f3-5c0d253baea5)
-* 99, 86: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=d2099008-ce82-4e65-8fd7-3826cd450627)
-* 104, 78: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=708e8e8a-894a-4074-9a43-6d23766e9f02)
-* 88, 77: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=1f62afbe-d344-488b-ae7a-3dedda3f2468)
-* 75, 63: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=641e188a-c3d8-4b26-9d78-c65eaa8fde54)
-* 83, 74: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=6c477f26-c40c-49c7-85bf-d2ef9c114682)
 
 ## Grants
 
@@ -63,5 +58,7 @@ Since May 16, 0 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+* [Members VS Projects](https://governance.decentraland.org/proposal/?id=1e153499-aaac-40f8-8231-de667673781f)
+* [Decentraland DAO Proposal: Introducing Proposal Submission Fees](https://governance.decentraland.org/proposal/?id=df17420f-944c-4cba-a90d-8e5a2a5bd683)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
