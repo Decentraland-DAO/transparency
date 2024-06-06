@@ -43,8 +43,7 @@ Since May 16, 0 grants have been approved and the vesting contract(s) will be es
 
 ## Points of Interest
 
-* -77, 71: [No Name](https://governance.decentraland.org/proposal/?id=f573cc09-4129-46cf-b358-e8a537282321)
-* -71, 82: [Festival Land](https://governance.decentraland.org/proposal/?id=29098958-b873-4810-92f3-5c0d253baea5)
+* -55, -121: [SouthDCL Domain VI](https://governance.decentraland.org/proposal/?id=4bba4a91-84e6-4e57-aef4-0a8addad4d24)
 
 ## Grants
 
