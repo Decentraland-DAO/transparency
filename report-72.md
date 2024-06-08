@@ -47,7 +47,7 @@ Since May 16, 0 grants have been approved and the vesting contract(s) will be es
 
 ## Grants
 
-* [Future-Proof Decentraland Projects: Unity Scene Importer &amp; SDK Migration Tool](https://governance.decentraland.org/proposal/?id=1ebfb379-ebff-4c00-8d7c-b6a375f360d7) (Higher Tier)
+* [Genesis city map, 6-month renewal ](https://governance.decentraland.org/proposal/?id=542de96c-4e50-416e-b9e7-4650b6b82ae7) (Lower Tier)
 
 ## Names Bans
 
