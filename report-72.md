@@ -58,6 +58,5 @@ Since May 16, 0 grants have been approved and the vesting contract(s) will be es
 ## Polls
 
 * [Members VS Projects](https://governance.decentraland.org/proposal/?id=1e153499-aaac-40f8-8231-de667673781f)
-* [Decentraland DAO Proposal: Introducing Proposal Submission Fees](https://governance.decentraland.org/proposal/?id=df17420f-944c-4cba-a90d-8e5a2a5bd683)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
