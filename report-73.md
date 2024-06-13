@@ -155,7 +155,6 @@ Since June 1, 0 grants have been approved and the vesting contract(s) will be es
 
 ## Points of Interest
 
-* -55, -121: [SouthDCL Domain VI](https://governance.decentraland.org/proposal/?id=4bba4a91-84e6-4e57-aef4-0a8addad4d24)
 
 ## Grants
 
