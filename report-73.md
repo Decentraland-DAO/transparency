@@ -159,7 +159,6 @@ Since June 1, 0 grants have been approved and the vesting contract(s) will be es
 
 ## Grants
 
-* [Genesis city map, 6-month renewal ](https://governance.decentraland.org/proposal/?id=542de96c-4e50-416e-b9e7-4650b6b82ae7) (Lower Tier)
 
 ## Names Bans
 
@@ -169,5 +168,6 @@ Since June 1, 0 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+* [In World Test Voting Poll](https://governance.decentraland.org/proposal/?id=5674e813-4024-4c10-8cce-546795a44e94)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
