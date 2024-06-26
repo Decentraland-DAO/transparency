@@ -155,10 +155,11 @@ Since June 1, 0 grants have been approved and the vesting contract(s) will be es
 
 ## Points of Interest
 
-* 97, -116: [BIGTIME-space](https://governance.decentraland.org/proposal/?id=45881b91-4265-489a-a0fc-473c97d4cd23)
 
 ## Grants
 
+* [Player Compensation for Duel Arena](https://governance.decentraland.org/proposal/?id=f4b8dba9-db3f-4f3c-a731-bd47141477e1) (Lower Tier)
+* [Real-Time Moderation Tools Library with Integrations API](https://governance.decentraland.org/proposal/?id=ff630e17-5321-49fa-9796-7b782fc5c3a5) (Higher Tier)
 
 ## Names Bans
 
@@ -168,6 +169,9 @@ Since June 1, 0 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+* [Decentralize Grant System with Bounties](https://governance.decentraland.org/proposal/?id=9ea92b21-4795-48aa-a160-14ad32f31701)
+* [Create new Grant Revocation Category for DAO](https://governance.decentraland.org/proposal/?id=07f7a149-4681-411f-9dbb-87e29a584967)
+* [Amend DAO Governance Proposal Stages](https://governance.decentraland.org/proposal/?id=a42d76fb-d2b4-4da2-b94c-b07eea85b930)
 * [Should HP be expected to explain his actions?](https://governance.decentraland.org/proposal/?id=1355af96-4a7d-4590-a02e-da51049631fc)
 * [Restructure Curation Process in Decentraland](https://governance.decentraland.org/proposal/?id=e90262f4-92fb-4929-a535-a10a59ce4d67)
 * [In World Test Voting Poll](https://governance.decentraland.org/proposal/?id=5674e813-4024-4c10-8cce-546795a44e94)
