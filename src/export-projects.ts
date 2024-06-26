@@ -304,7 +304,7 @@ async function main() {
   const projects = proposalProjects.map((proposalProject) => {
     const proposal = proposals.find((p) => p.id === proposalProject.id)
     
-    let project: Project = {
+    const project: Project = {
       ...proposal,
       project_id: proposalProject.project_id,
       size: proposalProject.size,
