@@ -1,6 +1,6 @@
 import { GovernanceApiResponse } from './Api'
 import { TokenSymbols } from '../entities/Tokens'
-import { Category } from './GovernanceProposal'
+import { Category, GovernanceProposalType } from './GovernanceProposal'
 import { ProposalParsed } from './Proposal'
 
 export interface Updates {
@@ -46,7 +46,9 @@ type Grant = Partial<Updates> & Partial<OneTimePaymentInfo> & {
 
 export type GrantProposal = Grant & ProposalParsed
 export type BidProposal = ProjectData & ProposalParsed
-export type Project = BidProposal | GrantProposal
+export type Project = (BidProposal | GrantProposal) & {
+  project_id: string
+}
 
 export type GrantUpdate = {
   id: string
@@ -91,4 +93,19 @@ export type ProjectUpdateResponse = GovernanceApiResponse<{
   currentUpdate: GrantUpdate | null
 }>
 
-
+export type ProposalProject = {
+  id: string
+  project_id?: string | null
+  status: string
+  title: string
+  user: string
+  size: number
+  type: GovernanceProposalType
+  about: string
+  created_at: number
+  updated_at: number
+  configuration: {
+    category: Category
+    tier: string
+  }
+}

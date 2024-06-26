@@ -14,6 +14,7 @@ import {
   OneTimePaymentInfo,
   Project,
   ProjectUpdateResponse,
+  ProposalProject,
   Updates,
   UpdateStatus,
   VestingInfo,
@@ -36,8 +37,10 @@ import {
   reportToRollbarAndThrow,
   saveToCSV,
   saveToJSON,
-  toISOString
+  toISOString,
+  governanceUrl
 } from './utils'
+import { ProposalParsed } from './interfaces/Proposal'
 
 const web3 = new Web3(ALCHEMY_URL)
 const limit = pLimit(1)
@@ -237,7 +240,7 @@ function getUpdatesAmountByStatus(updates: GrantUpdate[], status: UpdateStatus):
 async function getProjectUpdates(proposal: Project): Promise<Updates | {}> {
   try {
     const projectUpdateResponse: ProjectUpdateResponse = await fetchURL(
-      `https://governance.decentraland.org/api/proposals/${proposal.id}/updates`
+      `${governanceUrl()}/updates?project_id=${proposal.project_id}`
     )
     if (!projectUpdateResponse.ok) {
       console.log(`Error trying to get updates for proposal ${proposal.id} - Message: ${projectUpdateResponse.error}`)
@@ -295,28 +298,26 @@ async function setEnactingData(proposal: Project): Promise<Project> {
 
 async function main() {
   // Get Governance dApp Proposals
-  const projects = (PROPOSALS as Project[])
-    .filter((p) => p.type === GovernanceProposalType.GRANT || p.type === GovernanceProposalType.BID)
-    .map((proposal) => {
-      let projectProposal = {
-        ...proposal,
-        size: proposal.configuration.size || proposal.configuration.funding,
-        beneficiary: proposal.configuration.beneficiary,
-      }
-      if (proposal.type === GovernanceProposalType.GRANT) {
-        projectProposal = {
-          ...projectProposal,
-          category: proposal.configuration.category,
-          tier: proposal.configuration.tier?.split(':')[0],
-        }
-      }
+  const proposals = (PROPOSALS as ProposalParsed[]).filter((p) => p.type === GovernanceProposalType.GRANT || p.type === GovernanceProposalType.BID)
+  const { data: proposalProjects } = (await fetchURL(`${governanceUrl()}/projects`)) as { data: ProposalProject[] }
 
-      if (proposal.status === Status.ENACTED) {
-        return setEnactingData(projectProposal)
-      } else {
-        return Promise.resolve(projectProposal)
-      }
-    })
+  const projects = proposalProjects.map((proposalProject) => {
+    const proposal = proposals.find((p) => p.id === proposalProject.id)
+    
+    let project: Project = {
+      ...proposal,
+      project_id: proposalProject.project_id,
+      size: proposalProject.size,
+      beneficiary: proposal.configuration.beneficiary,
+      category: proposal.configuration.category,
+      tier: proposal.configuration.tier?.split(':')[0],
+    }
+    if (proposal.status === Status.ENACTED) {
+      return setEnactingData(project)
+    } else {
+      return Promise.resolve(project)
+    }
+  })
 
   const projectsWithVestingData: Project[] = await Promise.all(projects)
 
@@ -325,6 +326,7 @@ async function main() {
   saveToJSON('projects.json', projectsWithVestingData)
   await saveToCSV('projects.csv', projectsWithVestingData, [
     { id: 'id', title: 'Proposal ID' },
+    { id: 'project_id', title: 'Project ID' },
     { id: 'snapshot_id', title: 'Snapshot ID' },
     { id: 'user', title: 'Author' },
 
