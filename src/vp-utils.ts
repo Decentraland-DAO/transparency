@@ -15,6 +15,7 @@ export enum StrategyOrder {
 export const STRATEGIES = [
   {
     'name': 'erc20-balance-of',
+    'network': '1',
     'params': {
       'symbol': 'WMANA',
       'address': '0xfd09cf7cfffa9932e33668311c4777cb9db3c9be',
@@ -23,6 +24,7 @@ export const STRATEGIES = [
   },
   {
     'name': 'erc721-with-multiplier',
+    'network': '1',
     'params': {
       'symbol': 'LAND',
       'address': '0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d',
@@ -31,6 +33,7 @@ export const STRATEGIES = [
   },
   {
     'name': 'decentraland-estate-size',
+    'network': '1',
     'params': {
       'symbol': 'ESTATE',
       'address': '0x959e104e1a4db6317fa58f8295f586e1a978c297',
@@ -39,10 +42,11 @@ export const STRATEGIES = [
   },
   {
     'name': 'multichain',
+    'network': '1',
     'params': {
       'name': 'multichain',
       'graphs': {
-        '137': 'https://api.thegraph.com/subgraphs/name/decentraland/blocks-matic-mainnet'
+        '137': 'https://subgraph.decentraland.org/blocks-matic-mainnet'
       },
       'symbol': 'MANA',
       'strategies': [
@@ -67,6 +71,7 @@ export const STRATEGIES = [
   },
   {
     'name': 'erc721-with-multiplier',
+    'network': '1',
     'params': {
       'symbol': 'NAMES',
       'address': '0x2a187453064356c898cae034eaed119e1663acb8',
@@ -75,6 +80,7 @@ export const STRATEGIES = [
   },
   {
     'name': 'delegation',
+    'network': '1',
     'params': {
       'symbol': 'VP (delegated)',
       'strategies': [
@@ -107,7 +113,7 @@ export const STRATEGIES = [
           'params': {
             'name': 'multichain',
             'graphs': {
-              '137': 'https://api.thegraph.com/subgraphs/name/decentraland/blocks-matic-mainnet'
+              '137': 'https://subgraph.decentraland.org/blocks-matic-mainnet'
             },
             'symbol': 'MANA',
             'strategies': [
@@ -168,8 +174,8 @@ export const STRATEGIES = [
               'estate': '0x959e104e1a4db6317fa58f8295f586e1a978c297'
             },
             'subgraphs': {
-              'rentals': 'https://api.thegraph.com/subgraphs/name/decentraland/rentals-ethereum-mainnet',
-              'marketplace': 'https://api.thegraph.com/subgraphs/name/decentraland/marketplace'
+              'rentals': 'https://subgraph.decentraland.org/rentals-ethereum-mainnet',
+              'marketplace': 'https://subgraph.decentraland.org/marketplace'
             },
             'multipliers': {
               'land': 2000,
@@ -182,6 +188,7 @@ export const STRATEGIES = [
   },
   {
     'name': 'decentraland-wearable-rarity',
+    'network': '1',
     'params': {
       'symbol': 'WEARABLE',
       'collections': [
@@ -203,6 +210,7 @@ export const STRATEGIES = [
   },
   {
     'name': 'decentraland-rental-lessors',
+    'network': '1',
     'params': {
       'symbol': 'RENTAL',
       'addresses': {
@@ -210,8 +218,8 @@ export const STRATEGIES = [
         'estate': '0x959e104e1a4db6317fa58f8295f586e1a978c297'
       },
       'subgraphs': {
-        'rentals': 'https://api.thegraph.com/subgraphs/name/decentraland/rentals-ethereum-mainnet',
-        'marketplace': 'https://api.thegraph.com/subgraphs/name/decentraland/marketplace'
+        'rentals': 'https://subgraph.decentraland.org/rentals-ethereum-mainnet',
+        'marketplace': 'https://subgraph.decentraland.org/marketplace'
       },
       'multipliers': {
         'land': 2000,

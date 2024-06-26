@@ -119,6 +119,7 @@ jobs:
           SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
           ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
           SNAPSHOT_API_KEY: ${{ secrets.SNAPSHOT_API_KEY }}
+          THE_GRAPH_API_KEY: ${{ secrets.THE_GRAPH_API_KEY }}
         run: |
           npx ts-node ./src/export-members.ts
           npx ts-node ./src/upload.ts Members ./public/members.csv

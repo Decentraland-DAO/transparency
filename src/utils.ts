@@ -27,6 +27,7 @@ export const ROLLBAR_ACCESS_TOKEN = process.env.ROLLBAR_ACCESS_TOKEN
 export const COVALENT_API_KEY = process.env.COVALENTHQ_API_KEY
 export const ALCHEMY_URL = process.env.ALCHEMY_URL
 export const DECENTRALAND_DATA_URL = process.env.DECENTRALAND_DATA_URL
+export const THE_GRAPH_API_KEY = process.env.THE_GRAPH_API_KEY
 export const MEMBER_VOTE_VP_THRESHOLD = 5
 const COVALENT_RATE_LIMIT = 12000
 
@@ -90,7 +91,7 @@ export function baseCovalentUrl(network: Network) {
 }
 
 export function collectionsUrl(network = 'matic') {
-  return `https://api.thegraph.com/subgraphs/name/decentraland/collections-${network}-mainnet`
+  return `https://subgraph.decentraland.org/collections-${network}-mainnet`
 }
 
 export function snapshotUrl() {
@@ -203,7 +204,7 @@ export async function fetchGraphQLCondition<T>({url, collection, fieldNameCondit
 }
 
 export async function fetchDelegations(members: string[], space: string): Promise<DelegationInfo> {
-  const snapshotQueryUrl = 'https://api.thegraph.com/subgraphs/name/snapshot-labs/snapshot'
+  const snapshotQueryUrl = `https://gateway-arbitrum.network.thegraph.com/api/${THE_GRAPH_API_KEY}/subgraphs/id/4YgtogVaqoM8CErHWDK8mKQ825BcVdKB8vBYmb4avAQo`
 
   const where = (members: string[], memberIn: 'delegator' | 'delegate') => `space_in: ["", "${space}"], ${memberIn}_in: ${JSON.stringify(members)}`
 
