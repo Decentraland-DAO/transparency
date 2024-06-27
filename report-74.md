@@ -62,6 +62,5 @@ Since June 16, 1 grants have been approved and the vesting contract(s) will be e
 * [Amend DAO Governance Proposal Stages](https://governance.decentraland.org/proposal/?id=a42d76fb-d2b4-4da2-b94c-b07eea85b930)
 * [Should HP be expected to explain his actions?](https://governance.decentraland.org/proposal/?id=1355af96-4a7d-4590-a02e-da51049631fc)
 * [Restructure Curation Process in Decentraland](https://governance.decentraland.org/proposal/?id=e90262f4-92fb-4929-a535-a10a59ce4d67)
-* [In World Test Voting Poll](https://governance.decentraland.org/proposal/?id=5674e813-4024-4c10-8cce-546795a44e94)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
