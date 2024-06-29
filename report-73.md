@@ -173,6 +173,5 @@ Since June 1, 0 grants have been approved and the vesting contract(s) will be es
 * [Decentralize Grant System with Bounties](https://governance.decentraland.org/proposal/?id=9ea92b21-4795-48aa-a160-14ad32f31701)
 * [Create new Grant Revocation Category for DAO](https://governance.decentraland.org/proposal/?id=07f7a149-4681-411f-9dbb-87e29a584967)
 * [Amend DAO Governance Proposal Stages](https://governance.decentraland.org/proposal/?id=a42d76fb-d2b4-4da2-b94c-b07eea85b930)
-* [Should HP be expected to explain his actions?](https://governance.decentraland.org/proposal/?id=1355af96-4a7d-4590-a02e-da51049631fc)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
