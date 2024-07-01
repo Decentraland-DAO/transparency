@@ -76,5 +76,18 @@
       "social_media_content": 0,
       "sponsorship": 0
     }
+  },
+  {
+    "start_date": "2024-07-01T00:00:00Z",
+    "total": 784476,
+    "category_percentages": {
+      "accelerator": 0,
+      "core_unit": 16.67,
+      "documentation": 0,
+      "in_world_content": 0,
+      "platform": 83.33,
+      "social_media_content": 0,
+      "sponsorship": 0
+    }
   }
 ]
