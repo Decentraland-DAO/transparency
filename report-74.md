@@ -57,6 +57,7 @@ Since June 16, 1 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
+* -71, 117: [Canessa&#39;s Corner](https://governance.decentraland.org/proposal/?id=e5567c0a-4083-4b59-91ac-f9a44285953e)
 
 ## Grants
 
