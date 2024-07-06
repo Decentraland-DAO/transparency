@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -30,6 +30,13 @@ Since July 1, 0 grants have been approved and the vesting contract(s) will be es
 
 
 ## Polls
+
+#### [Should the Grants Program be returned to normal?](https://governance.decentraland.org/proposal/?id=fbba0e1a-f657-4dc2-a476-8dc54b0728fe)
+
+* Unfreeze Grant Program 6.088926031415755% 89,253 VP (14 votes)
+* Keep frozen 92.8057578496751% 1,360,370 VP (24 votes)
+* Invalid question/options 1.1053161189091467% 16,202 VP (2 votes)
+
 
 
 # Active Proposals
@@ -52,9 +59,5 @@ Since July 1, 0 grants have been approved and the vesting contract(s) will be es
 ## Polls
 
 * [Change Decentraland DAO Discord Linked Profiles from DAO Discord to DCL Discord](https://governance.decentraland.org/proposal/?id=d7a3fbcf-5231-4f8c-b0dd-305f3f8c6ada)
-* [Should the Grants Program be returned to normal?](https://governance.decentraland.org/proposal/?id=fbba0e1a-f657-4dc2-a476-8dc54b0728fe)
-* [Decentralize Grant System with Bounties](https://governance.decentraland.org/proposal/?id=9ea92b21-4795-48aa-a160-14ad32f31701)
-* [Create new Grant Revocation Category for DAO](https://governance.decentraland.org/proposal/?id=07f7a149-4681-411f-9dbb-87e29a584967)
-* [Amend DAO Governance Proposal Stages](https://governance.decentraland.org/proposal/?id=a42d76fb-d2b4-4da2-b94c-b07eea85b930)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

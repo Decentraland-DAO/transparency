@@ -73,9 +73,5 @@ Since June 16, 1 grants have been approved and the vesting contract(s) will be e
 ## Polls
 
 * [Change Decentraland DAO Discord Linked Profiles from DAO Discord to DCL Discord](https://governance.decentraland.org/proposal/?id=d7a3fbcf-5231-4f8c-b0dd-305f3f8c6ada)
-* [Should the Grants Program be returned to normal?](https://governance.decentraland.org/proposal/?id=fbba0e1a-f657-4dc2-a476-8dc54b0728fe)
-* [Decentralize Grant System with Bounties](https://governance.decentraland.org/proposal/?id=9ea92b21-4795-48aa-a160-14ad32f31701)
-* [Create new Grant Revocation Category for DAO](https://governance.decentraland.org/proposal/?id=07f7a149-4681-411f-9dbb-87e29a584967)
-* [Amend DAO Governance Proposal Stages](https://governance.decentraland.org/proposal/?id=a42d76fb-d2b4-4da2-b94c-b07eea85b930)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
