@@ -48,7 +48,6 @@ Since July 1, 0 grants have been approved and the vesting contract(s) will be es
 ## Grants
 
 * [Player Compensation for Duel Arena](https://governance.decentraland.org/proposal/?id=f4b8dba9-db3f-4f3c-a731-bd47141477e1) (Lower Tier)
-* [Real-Time Moderation Tools Library with Integrations API](https://governance.decentraland.org/proposal/?id=ff630e17-5321-49fa-9796-7b782fc5c3a5) (Higher Tier)
 
 ## Names Bans
 
@@ -58,6 +57,5 @@ Since July 1, 0 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
-* [Change Decentraland DAO Discord Linked Profiles from DAO Discord to DCL Discord](https://governance.decentraland.org/proposal/?id=d7a3fbcf-5231-4f8c-b0dd-305f3f8c6ada)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
