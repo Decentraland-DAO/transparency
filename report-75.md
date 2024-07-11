@@ -43,11 +43,9 @@ Since July 1, 0 grants have been approved and the vesting contract(s) will be es
 
 ## Points of Interest
 
-* -71, 117: [Canessa&#39;s Corner](https://governance.decentraland.org/proposal/?id=e5567c0a-4083-4b59-91ac-f9a44285953e)
 
 ## Grants
 
-* [Player Compensation for Duel Arena](https://governance.decentraland.org/proposal/?id=f4b8dba9-db3f-4f3c-a731-bd47141477e1) (Lower Tier)
 
 ## Names Bans
 
