@@ -60,6 +60,7 @@ Since June 16, 1 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [Gamified captcha services: secure &amp; easy for builders, funny &amp; smooth for users.](https://governance.decentraland.org/proposal/?id=154839f8-fc21-41e7-956c-489d6f50e31a) (Lower Tier)
 
 ## Names Bans
 
