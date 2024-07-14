@@ -70,5 +70,6 @@ Since June 16, 1 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Should we look for an AI alternative to replace the wearable curation committee](https://governance.decentraland.org/proposal/?id=f9965018-d729-4de4-ab05-0a4af6c0be88)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
