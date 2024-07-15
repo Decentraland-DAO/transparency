@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -30,13 +30,6 @@ Since July 1, 0 grants have been approved and the vesting contract(s) will be es
 
 
 ## Polls
-
-#### [Should the Grants Program be returned to normal?](https://governance.decentraland.org/proposal/?id=fbba0e1a-f657-4dc2-a476-8dc54b0728fe)
-
-* Unfreeze Grant Program 6.088926031415755% 89,253 VP (14 votes)
-* Keep frozen 92.8057578496751% 1,360,370 VP (24 votes)
-* Invalid question/options 1.1053161189091467% 16,202 VP (2 votes)
-
 
 
 # Active Proposals
