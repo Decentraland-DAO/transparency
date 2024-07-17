@@ -39,23 +39,23 @@ export const SABCommittee = new Committee(
     },
     {
       address: '0xfc4ef0903bb924d06db9cbaba1e4bda6b71d2f82',
-      name: 'Brett',
+      name: 'Ariel',
       avatar: 'https://decentraland.org/images/male.png'
     },
     {
       address: '0x48850327b81d0c924ad212891c7223c2ea5cd426',
-      name: 'Kyllian',
-      avatar: 'https://peer.decentraland.org/content/contents/bafkreig4ckv7k7ga7niptdw2wsv2u565r6hb5dwzprhavoa3yyoftjrvni'
-    },
-    {
-      address: '0x42ebd2ab698ba74eec1d2a81c376ea2c38c05249',
       name: 'Agustin',
       avatar: 'https://decentraland.org/images/male.png'
     },
     {
-      address: '0x759605f5497c578988d167e2f66d4955d35e77af',
-      name: 'Ariel',
+      address: '0x42ebd2ab698ba74eec1d2a81c376ea2c38c05249',
+      name: 'Brett',
       avatar: 'https://decentraland.org/images/male.png'
+    },
+    {
+      address: '0x759605f5497c578988d167e2f66d4955d35e77af',
+      name: 'Kyllian',
+      avatar: 'https://peer.decentraland.org/content/contents/bafkreig4ckv7k7ga7niptdw2wsv2u565r6hb5dwzprhavoa3yyoftjrvni'
     }
   ]
 )
