@@ -64,6 +64,9 @@ pico .github/workflows/pull-data.yml
 npm run test
 ```
 
+### Note
+To choose a block number by date you can use [this tool](https://ethereum-block-date-picker.vercel.app/)
+
 ## Copyright & License
 
 This repository is protected with a standard Apache 2 license. See the terms and conditions in the [LICENSE](LICENSE) file.

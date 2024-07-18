@@ -12,6 +12,10 @@ on:
           - reduced
           - full
         default: full
+      block_number:
+        type: string
+        description: Specify the Ethereum block number for full fetch
+        required: false
 
 jobs:
   export:
@@ -79,7 +83,11 @@ jobs:
           SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
           ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
         run: |
-          npx ts-node ./src/export-transactions.ts --${{ github.event.inputs.choice }}
+          if [ "${{ github.event.inputs.choice }}" = "full" ] && [ -n "${{ github.event.inputs.block_number }}" ]; then
+            npx ts-node ./src/export-transactions.ts --full ${{ github.event.inputs.block_number }}
+          else
+            npx ts-node ./src/export-transactions.ts --${{ github.event.inputs.choice }}
+          fi
           npx ts-node ./src/upload.ts Transactions ./public/transactions.csv
 
       - name: Pull Collections
