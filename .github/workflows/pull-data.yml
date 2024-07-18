@@ -76,6 +76,7 @@ jobs:
 
       - name: Pull Transactions
         env:
+          ALCHEMY_URL: ${{ secrets.ALCHEMY_URL }}
           COVALENTHQ_API_KEY: ${{ secrets.COVALENTHQ_API_KEY }}
           DECENTRALAND_DATA_URL: https://data.decentraland.vote/
           SHEET_ID: ${{ secrets.SHEET_ID }}
