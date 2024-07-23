@@ -149,8 +149,8 @@ async function _getVestingContractDataV2(vestingAddress: string): Promise<Vestin
   const tokenContract = new web3.eth.Contract(token.abi, contract_token_address)
   const raw_token_contract_balance = await tokenContract.methods.balanceOf(vestingAddress).call()
   const vesting_contract_token_balance = parseNumber(raw_token_contract_balance, decimals)
-  const vesting_total_amount = vesting_contract_token_balance + vesting_released
-
+  const raw_vesting_total_amount = await vestingContract.methods.getTotal().call()
+  const vesting_total_amount =  parseNumber(raw_vesting_total_amount, decimals)
   let vesting_status = getInitialVestingStatus(vesting_start_at, vesting_finish_at)
 
   const isRevoked = await vestingContract.methods.getIsRevoked().call()
@@ -303,7 +303,7 @@ async function main() {
 
   const projects = proposalProjects.map((proposalProject) => {
     const proposal = proposals.find((p) => p.id === proposalProject.id)
-    
+
     const project: Project = {
       ...proposal,
       project_id: proposalProject.project_id,
