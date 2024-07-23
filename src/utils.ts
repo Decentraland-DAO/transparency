@@ -18,6 +18,7 @@ import Path from 'path'
 import { rollbar } from './rollbar'
 import utc from 'dayjs/plugin/utc'
 import dayjs from 'dayjs'
+import Web3 from 'web3'
 
 dayjs.extend(utc)
 
@@ -30,6 +31,7 @@ export const DECENTRALAND_DATA_URL = process.env.DECENTRALAND_DATA_URL
 export const THE_GRAPH_API_KEY = process.env.THE_GRAPH_API_KEY
 export const MEMBER_VOTE_VP_THRESHOLD = 5
 const COVALENT_RATE_LIMIT = 12000
+const DAY_IN_MILLISECONDS = 8.64e7
 
 export function sum(array: number[]) {
   return array.reduce((prev, curr) => prev + curr, 0)
@@ -353,6 +355,30 @@ export async function getLatestBlockByToken(txs: TransactionParsed[], currentYea
   }
 }
 
+export async function getLatestBlockByDate(timestamp: number): Promise<LatestBlocks> {
+  const date = new Date(timestamp * 1000).toISOString().split('T')[0]
+  const nextDay = new Date(new Date(date).getTime() + DAY_IN_MILLISECONDS).toISOString().split('T')[0]
+  const latestBlocks: LatestBlocks = {
+    [NetworkName.ETHEREUM]: {},
+    [NetworkName.POLYGON]: {}
+  }
+
+  try {
+    for (const network of Object.values(NetworkName)) {
+      const url = `${baseCovalentUrl(Networks.get(network))}/block_v2/${date}/${nextDay}/?key=${COVALENT_API_KEY}`
+      const blockHeight = (await fetchCovalentURL<BlockHeight>(url, 1, true))[0]
+      const defaultBlock = { block: blockHeight.height, date: blockHeight.signed_at.split('T')[0]}
+      for (const tokenAddress of Tokens.getAddresses(network)) {
+        latestBlocks[network][tokenAddress] = { ...defaultBlock }
+      }
+    }
+  
+    return latestBlocks
+  } catch (error) {
+    throw new Error(`Error setting latest block by date: ${error}`);
+  }
+}
+
 export function printableLatestBlocks(latestBlocks: LatestBlocks) {
   return Object.entries(latestBlocks).reduce((acc, [network, blocks]) => {
     for (const [tokenAddress, latestBlock] of Object.entries(blocks)) {
@@ -391,4 +417,10 @@ export function reportToRollbarAndThrow(filename: string, error: any) {
   const errorMsg = `Error running the script ${getFileName(filename)}`
   reportToRollbar(errorMsg, error)
   throw new Error(error)
+}
+
+export async function getBlockTimestamp(blockNumber: number): Promise<number> {
+  const web3 = new Web3(ALCHEMY_URL)
+  const block = await web3.eth.getBlock(blockNumber)
+  return Number(block.timestamp)
 }

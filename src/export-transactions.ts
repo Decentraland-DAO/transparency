@@ -18,6 +18,8 @@ import {
   fetchCovalentURL,
   fetchURL,
   flattenArray,
+  getBlockTimestamp,
+  getLatestBlockByDate,
   getLatestBlockByToken,
   getPreviousDate,
   getTokenPriceInfo,
@@ -433,19 +435,40 @@ async function main() {
   }
   let lastTransactions: TransactionParsed[] = []
   const unresolvedTransactions: Promise<TransactionParsed[]>[] = []
-
-  const isFirstDayOfTheYear = new Date().getUTCMonth() === 0 && new Date().getUTCDate() === 1
-  const fullFetch = process.argv.includes('--full') || isFirstDayOfTheYear
-
+  
+  const fullFetchIndex = process.argv.indexOf('--full')
+  let fullFetch = false
+  let blockNumber: number | undefined = undefined
+  
+  if (fullFetchIndex !== -1) {
+    fullFetch = true
+    if (fullFetchIndex + 1 < process.argv.length) {
+      blockNumber = parseInt(process.argv[fullFetchIndex + 1], 10)
+      if (isNaN(blockNumber)) {
+        console.error('Invalid block number specified')
+        process.exit(1)
+      }
+    } else {
+      console.error('Block number not specified')
+      process.exit(1)
+    }
+  }
+  
   if (!fullFetch) {
     const currentYear = new Date().getUTCFullYear()
     lastTransactions = await fetchURL(`${DECENTRALAND_DATA_URL}/transactions-${currentYear}.json`)
     latestBlocks = await getLatestBlockByToken(lastTransactions, currentYear)
     console.log('Latest Blocks:', printableLatestBlocks(latestBlocks))
   } else {
-    console.log('\n\n###################### WARNING: fetching all transactions ######################\n\n')
-    priceData = await getTokenPrices()
-    console.log('Fetched price data...')
+    if (blockNumber !== undefined) {
+      console.log('\n\n###################### WARNING: fetching all transactions ######################\n\n')
+      const blockTimestamp = await getBlockTimestamp(blockNumber)
+      console.log(`Block Number: ${blockNumber}, Timestamp: ${new Date(blockTimestamp * 1000).toISOString()}`)
+      latestBlocks = await getLatestBlockByDate(blockTimestamp)
+      console.log('Latest Blocks:', printableLatestBlocks(latestBlocks))
+      priceData = await getTokenPrices(latestBlocks)
+      console.log('Fetched price data...')
+    }
   }
 
   for (const wallet of Wallets.getAll()) {
