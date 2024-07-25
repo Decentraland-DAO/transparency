@@ -36,9 +36,11 @@ Since July 16, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
+* -71, 117: [Canessa&#39;s Corner](https://governance.decentraland.org/proposal/?id=42733480-e237-46aa-ad57-94b5222e5348)
 
 ## Grants
 
+* [Recreate Decentraland Base Hair Wearables](https://governance.decentraland.org/proposal/?id=25dc2667-a11f-4fef-88ea-a764fe244d3e) (Lower Tier)
 * [Gamified captcha services: secure &amp; easy for builders, funny &amp; smooth for users.](https://governance.decentraland.org/proposal/?id=154839f8-fc21-41e7-956c-489d6f50e31a) (Lower Tier)
 
 ## Names Bans
@@ -49,5 +51,6 @@ Since July 16, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Lowering Wearable Publishing Fee 2024](https://governance.decentraland.org/proposal/?id=6950c424-e1d2-4947-89a2-439e4fbbcab3)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
