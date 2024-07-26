@@ -41,7 +41,6 @@ Since July 16, 0 grants have been approved and the vesting contract(s) will be e
 ## Grants
 
 * [Recreate Decentraland Base Hair Wearables](https://governance.decentraland.org/proposal/?id=25dc2667-a11f-4fef-88ea-a764fe244d3e) (Lower Tier)
-* [Gamified captcha services: secure &amp; easy for builders, funny &amp; smooth for users.](https://governance.decentraland.org/proposal/?id=154839f8-fc21-41e7-956c-489d6f50e31a) (Lower Tier)
 
 ## Names Bans
 
