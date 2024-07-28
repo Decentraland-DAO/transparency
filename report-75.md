@@ -50,6 +50,8 @@ Since July 1, 0 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+* [Make it possible to Bid on _any_ Issue of a Wearable/Emote](https://governance.decentraland.org/proposal/?id=a77e25ce-3ee3-449c-9855-662caaad70f5)
+* [Recreate DCL Base Asset Textures ?](https://governance.decentraland.org/proposal/?id=0a1dd596-1e57-4d70-90da-bf918a16632b)
 * [Lowering Wearable Publishing Fee 2024](https://governance.decentraland.org/proposal/?id=6950c424-e1d2-4947-89a2-439e4fbbcab3)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
