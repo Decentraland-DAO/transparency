@@ -9,12 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+1 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -71, 117: [Canessa&#39;s Corner](https://governance.decentraland.org/proposal/?id=42733480-e237-46aa-ad57-94b5222e5348)
+
+* Yes 99.98979829368574% 2,852,173 VP (115 votes)
+* No 0% 0 VP (0 votes)
+* Abstain 0.010201706314260232% 291 VP (1 votes)
 
 
 ## Name Bans
@@ -43,7 +50,6 @@ Since July 16, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
-* -71, 117: [Canessa&#39;s Corner](https://governance.decentraland.org/proposal/?id=42733480-e237-46aa-ad57-94b5222e5348)
 
 ## Grants
 
