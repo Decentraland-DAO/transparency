@@ -53,6 +53,7 @@ Since July 16, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
+* [Increasing Discord Participation with In-World Authentication](https://governance.decentraland.org/proposal/?id=099bfb59-afd9-4ab9-ac72-246325233b44) (Lower Tier)
 * [Recreate Decentraland Base Hair Wearables](https://governance.decentraland.org/proposal/?id=25dc2667-a11f-4fef-88ea-a764fe244d3e) (Lower Tier)
 
 ## Names Bans
@@ -63,7 +64,7 @@ Since July 16, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Should we create the Decentraland DAO Land Program (DDLP)?](https://governance.decentraland.org/proposal/?id=991e1a5b-8907-4ca7-a10a-cd41abe62092)
 * [Collaboration proposals and tenders from Foundation](https://governance.decentraland.org/proposal/?id=d43b6b50-91f7-40c1-9828-6bfa36e010fd)
-* [Everyone has the right to be happy in Decentraland.](https://governance.decentraland.org/proposal/?id=cb058a28-da7d-4af3-99df-e8f102e07364)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
