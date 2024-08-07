@@ -66,6 +66,5 @@ Since July 16, 0 grants have been approved and the vesting contract(s) will be e
 
 * [Community Feedback on Committee Position Openings for DAO ReGenesis](https://governance.decentraland.org/proposal/?id=f1f0f43e-75a0-4a6a-a250-f5bd82dcfa76)
 * [Should we create the Decentraland DAO Land Program (DDLP)?](https://governance.decentraland.org/proposal/?id=991e1a5b-8907-4ca7-a10a-cd41abe62092)
-* [Collaboration proposals and tenders from Foundation](https://governance.decentraland.org/proposal/?id=d43b6b50-91f7-40c1-9828-6bfa36e010fd)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
