@@ -54,7 +54,6 @@ Since July 16, 0 grants have been approved and the vesting contract(s) will be e
 ## Grants
 
 * [Increasing Discord Participation with In-World Authentication](https://governance.decentraland.org/proposal/?id=099bfb59-afd9-4ab9-ac72-246325233b44) (Lower Tier)
-* [Recreate Decentraland Base Hair Wearables](https://governance.decentraland.org/proposal/?id=25dc2667-a11f-4fef-88ea-a764fe244d3e) (Lower Tier)
 
 ## Names Bans
 
