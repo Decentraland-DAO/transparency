@@ -65,6 +65,5 @@ Since July 16, 0 grants have been approved and the vesting contract(s) will be e
 
 * [Increase the File Size Limitations per Parcel](https://governance.decentraland.org/proposal/?id=b62339ab-8f59-4cb8-9f60-bdb569967c6f)
 * [Community Feedback on Committee Position Openings for DAO ReGenesis](https://governance.decentraland.org/proposal/?id=f1f0f43e-75a0-4a6a-a250-f5bd82dcfa76)
-* [Should we create the Decentraland DAO Land Program (DDLP)?](https://governance.decentraland.org/proposal/?id=991e1a5b-8907-4ca7-a10a-cd41abe62092)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
