@@ -53,6 +53,7 @@ Since August 1, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Grants
 
+* [Clickable web browser component](https://governance.decentraland.org/proposal/?id=3562aa6c-fa3b-4afc-91a9-c7ccc5e50e3b) (Lower Tier)
 * [Increasing Discord Participation with In-World Authentication](https://governance.decentraland.org/proposal/?id=099bfb59-afd9-4ab9-ac72-246325233b44) (Lower Tier)
 
 ## Names Bans
@@ -63,6 +64,7 @@ Since August 1, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+* [Call for a Decentraland Incentive system.](https://governance.decentraland.org/proposal/?id=94c679e5-5978-40e0-b1e3-b9cac17d8457)
 * [Increase the File Size Limitations per Parcel](https://governance.decentraland.org/proposal/?id=b62339ab-8f59-4cb8-9f60-bdb569967c6f)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
