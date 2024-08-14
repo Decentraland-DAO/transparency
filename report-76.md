@@ -65,6 +65,5 @@ Since July 16, 0 grants have been approved and the vesting contract(s) will be e
 ## Polls
 
 * [Call for a Decentraland Incentive system.](https://governance.decentraland.org/proposal/?id=94c679e5-5978-40e0-b1e3-b9cac17d8457)
-* [Increase the File Size Limitations per Parcel](https://governance.decentraland.org/proposal/?id=b62339ab-8f59-4cb8-9f60-bdb569967c6f)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

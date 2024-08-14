@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -30,6 +30,13 @@ Since August 1, 0 grants have been approved and the vesting contract(s) will be 
 
 
 ## Polls
+
+#### [Increase the File Size Limitations per Parcel](https://governance.decentraland.org/proposal/?id=b62339ab-8f59-4cb8-9f60-bdb569967c6f)
+
+* Increase Limitations 99.45743622912468% 1,393,157 VP (40 votes)
+* No Change 0% 0 VP (0 votes)
+* Invalid question/options 0.5425637708753196% 7,600 VP (3 votes)
+
 
 #### [Should we create the Decentraland DAO Land Program (DDLP)?](https://governance.decentraland.org/proposal/?id=991e1a5b-8907-4ca7-a10a-cd41abe62092)
 
@@ -65,6 +72,5 @@ Since August 1, 0 grants have been approved and the vesting contract(s) will be 
 ## Polls
 
 * [Call for a Decentraland Incentive system.](https://governance.decentraland.org/proposal/?id=94c679e5-5978-40e0-b1e3-b9cac17d8457)
-* [Increase the File Size Limitations per Parcel](https://governance.decentraland.org/proposal/?id=b62339ab-8f59-4cb8-9f60-bdb569967c6f)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
