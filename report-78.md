@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -31,6 +31,14 @@ Since August 16, 0 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+#### [Call for a Decentraland Incentive system.](https://governance.decentraland.org/proposal/?id=94c679e5-5978-40e0-b1e3-b9cac17d8457)
+
+* Move to next stage, and give me more details 89.92447765178129% 1,428,364 VP (36 votes)
+* I like the general idea, but i have concerns before moving to next stage 0.4920032938723398% 7,815 VP (3 votes)
+* Not interested at all 6.836862662143887% 108,597 VP (2 votes)
+* Invalid question/options 2.7466563922024876% 43,628 VP (2 votes)
+
+
 
 # Active Proposals
 
@@ -50,6 +58,6 @@ Since August 16, 0 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
-* [Call for a Decentraland Incentive system.](https://governance.decentraland.org/proposal/?id=94c679e5-5978-40e0-b1e3-b9cac17d8457)
+* [Unban that little purple bird?](https://governance.decentraland.org/proposal/?id=b98341ed-720c-4dd3-a9b5-081bfc8ae72b)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

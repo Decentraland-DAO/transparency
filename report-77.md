@@ -71,6 +71,6 @@ Since August 1, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
-* [Call for a Decentraland Incentive system.](https://governance.decentraland.org/proposal/?id=94c679e5-5978-40e0-b1e3-b9cac17d8457)
+* [Unban that little purple bird?](https://governance.decentraland.org/proposal/?id=b98341ed-720c-4dd3-a9b5-081bfc8ae72b)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
