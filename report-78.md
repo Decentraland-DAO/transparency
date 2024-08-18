@@ -48,7 +48,6 @@ Since August 16, 0 grants have been approved and the vesting contract(s) will be
 ## Grants
 
 * [Clickable web browser component](https://governance.decentraland.org/proposal/?id=3562aa6c-fa3b-4afc-91a9-c7ccc5e50e3b) (Lower Tier)
-* [Increasing Discord Participation with In-World Authentication](https://governance.decentraland.org/proposal/?id=099bfb59-afd9-4ab9-ac72-246325233b44) (Lower Tier)
 
 ## Names Bans
 
