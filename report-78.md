@@ -57,6 +57,7 @@ Since August 16, 0 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Increase the maximum file size from 50mb to unlimited..](https://governance.decentraland.org/proposal/?id=6c943385-a7f8-48ae-b794-68bceddc4914)
 * [Unban that little purple bird?](https://governance.decentraland.org/proposal/?id=b98341ed-720c-4dd3-a9b5-081bfc8ae72b)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
