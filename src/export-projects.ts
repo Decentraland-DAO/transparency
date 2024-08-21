@@ -13,8 +13,8 @@ import {
   GrantUpdate,
   OneTimePaymentInfo,
   Project,
+  ProjectInList,
   ProjectUpdateResponse,
-  ProposalProject,
   Updates,
   UpdateStatus,
   VestingInfo,
@@ -24,6 +24,7 @@ import { Decoded, DecodedName, ParamName, TransactionItem } from './interfaces/T
 
 import { rollbar } from './rollbar'
 import {
+  ALCHEMY_URL,
   baseCovalentUrl,
   COVALENT_API_KEY,
   fetchCovalentURL,
@@ -31,14 +32,13 @@ import {
   flattenArray,
   getChecksumAddress,
   getMonthsBetweenDates,
-  ALCHEMY_URL,
+  governanceUrl,
   isSameAddress,
   parseNumber,
   reportToRollbarAndThrow,
   saveToCSV,
   saveToJSON,
-  toISOString,
-  governanceUrl
+  toISOString
 } from './utils'
 import { ProposalParsed } from './interfaces/Proposal'
 
@@ -299,15 +299,15 @@ async function setEnactingData(proposal: Project): Promise<Project> {
 async function main() {
   // Get Governance dApp Proposals
   const proposals = (PROPOSALS as ProposalParsed[]).filter((p) => p.type === GovernanceProposalType.GRANT || p.type === GovernanceProposalType.BID)
-  const { data: proposalProjects } = (await fetchURL(`${governanceUrl()}/projects`)) as { data: ProposalProject[] }
+  const { data: proposalProjects } = (await fetchURL(`${governanceUrl()}/projects`)) as { data: ProjectInList[] }
 
   const projects = proposalProjects.map((proposalProject) => {
-    const proposal = proposals.find((p) => p.id === proposalProject.id)
+    const proposal = proposals.find((p) => p.id === proposalProject.proposal_id)
 
     const project: Project = {
       ...proposal,
-      project_id: proposalProject.project_id,
-      size: proposalProject.size,
+      project_id: proposalProject.id,
+      size: Number(proposalProject.configuration.size),
       beneficiary: proposal.configuration.beneficiary,
       category: proposal.configuration.category,
       tier: proposal.configuration.tier?.split(':')[0],

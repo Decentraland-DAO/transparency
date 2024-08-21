@@ -1,7 +1,8 @@
 import { GovernanceApiResponse } from './Api'
 import { TokenSymbols } from '../entities/Tokens'
-import { Category, GovernanceProposalType } from './GovernanceProposal'
+import { Category } from './GovernanceProposal'
 import { ProposalParsed } from './Proposal'
+import { ProposalType } from '@snapshot-labs/snapshot.js/dist/sign/types'
 
 export interface Updates {
   done_updates: number
@@ -93,19 +94,60 @@ export type ProjectUpdateResponse = GovernanceApiResponse<{
   currentUpdate: GrantUpdate | null
 }>
 
-export type ProposalProject = {
+export enum ProjectStatus {
+  Pending = 'pending',
+  InProgress = 'in_progress',
+  Finished = 'finished',
+  Paused = 'paused',
+  Revoked = 'revoked',
+}
+
+export type OneTimePayment = {
+  enacting_tx: string
+  token?: string
+  tx_amount?: number
+}
+
+export type ProjectFunding = {
+  enacted_at?: string
+  one_time_payment?: OneTimePayment
+  vesting?: Vesting
+}
+
+
+export type Vesting = {
+  start_at: string
+  finish_at: string
+  released: number
+  releasable: number
+  vested: number
+  total: number
+  address: string
+  status: VestingStatus
+  token: string
+  cliff: string
+  vestedPerPeriod: number[]
+}
+
+export type LatestUpdate = {
+  update?: IndexedUpdate | null
+  update_timestamp?: number
+}
+
+export type IndexedUpdate = Partial<GrantUpdate> & {
+  index: number
+}
+
+export type ProjectInList = {
   id: string
-  project_id?: string | null
-  status: string
+  proposal_id: string
+  status: ProjectStatus
   title: string
-  user: string
-  size: number
-  type: GovernanceProposalType
-  about: string
+  author: string
+  funding?: ProjectFunding
+  type: ProposalType,
+  configuration: Record<string, unknown>,
+  latest_update?: LatestUpdate
   created_at: number
   updated_at: number
-  configuration: {
-    category: Category
-    tier: string
-  }
 }
