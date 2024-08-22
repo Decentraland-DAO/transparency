@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -30,6 +30,13 @@ Since August 16, 0 grants have been approved and the vesting contract(s) will be
 
 
 ## Polls
+
+#### [Unban that little purple bird?](https://governance.decentraland.org/proposal/?id=b98341ed-720c-4dd3-a9b5-081bfc8ae72b)
+
+* Yes 71.77533274056202% 828,217 VP (21 votes)
+* No 17.08117327121367% 197,100 VP (6 votes)
+* Invalid question/options 11.143493988224304% 128,585 VP (5 votes)
+
 
 #### [Call for a Decentraland Incentive system.](https://governance.decentraland.org/proposal/?id=94c679e5-5978-40e0-b1e3-b9cac17d8457)
 
@@ -58,6 +65,5 @@ Since August 16, 0 grants have been approved and the vesting contract(s) will be
 ## Polls
 
 * [Increase the maximum file size from 50mb to unlimited..](https://governance.decentraland.org/proposal/?id=6c943385-a7f8-48ae-b794-68bceddc4914)
-* [Unban that little purple bird?](https://governance.decentraland.org/proposal/?id=b98341ed-720c-4dd3-a9b5-081bfc8ae72b)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
