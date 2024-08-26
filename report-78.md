@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -30,6 +30,13 @@ Since August 16, 0 grants have been approved and the vesting contract(s) will be
 
 
 ## Polls
+
+#### [Increase the maximum file size from 50mb to unlimited..](https://governance.decentraland.org/proposal/?id=6c943385-a7f8-48ae-b794-68bceddc4914)
+
+* Yes 99.7812965057444% 838,113 VP (23 votes)
+* No 0.07452824572891244% 626 VP (2 votes)
+* Invalid question/options 0.14417524852669802% 1,211 VP (1 votes)
+
 
 #### [Unban that little purple bird?](https://governance.decentraland.org/proposal/?id=b98341ed-720c-4dd3-a9b5-081bfc8ae72b)
 
@@ -54,7 +61,6 @@ Since August 16, 0 grants have been approved and the vesting contract(s) will be
 
 ## Grants
 
-* [Clickable web browser component](https://governance.decentraland.org/proposal/?id=3562aa6c-fa3b-4afc-91a9-c7ccc5e50e3b) (Lower Tier)
 
 ## Names Bans
 
@@ -64,6 +70,5 @@ Since August 16, 0 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
-* [Increase the maximum file size from 50mb to unlimited..](https://governance.decentraland.org/proposal/?id=6c943385-a7f8-48ae-b794-68bceddc4914)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
