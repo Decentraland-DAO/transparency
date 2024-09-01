@@ -1,0 +1,57 @@
+---
+layout: post
+title: "Guest Post: DAO Committee Report #79"
+description: "A review of the proposals and polls passed in the DAO from September 1 through September 15".
+date: 2022-01-07 00:00:01 -0300
+tags: [announcement, dao, dao-committee-report]
+category: 'project-updates'
+author: 'decentraland'
+image: /images/banners/governance.png
+---
+
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+
+(INTRO: TO BE COMPLETED BY DAO FACILITATOR)
+
+## Points of Interest
+0 points of interest have been added to Decentraland’s map since the last report.
+
+
+## Name Bans
+
+No names have been banned since the previous report.
+
+## Catalyst Nodes
+No Catalyst nodes have been added since the previous report.
+
+
+## Grant requests
+Since September 1, 0 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+## Polls
+
+
+# Active Proposals
+
+## Points of Interest
+
+
+## Grants
+
+* [Resubmission: Clickable browser component](https://governance.decentraland.org/proposal/?id=bb21401e-6a10-4ba0-b397-43b4664e8b03) (Lower Tier)
+* [Free image serve for Decentraland Citizens](https://governance.decentraland.org/proposal/?id=1f0819fc-daab-4398-8a82-b9c2398da097) (Lower Tier)
+
+## Names Bans
+
+
+## Catalysts
+
+
+## Polls
+
+* [ Reintroducing a Delegate and Delegator Voice Chat in the DAO Discord](https://governance.decentraland.org/proposal/?id=47457dd7-b20c-4607-96f1-e1b78093fec6)
+* [Utilizing DAO-Owned Land Parcels](https://governance.decentraland.org/proposal/?id=47f30b5e-cd74-417d-8d56-fb2a1ec5e77d)
+* [End Dates and Exit Plans for DAO Proposals and Grant Requests](https://governance.decentraland.org/proposal/?id=d57dacd0-a59a-47c8-8d1d-910565203bd5)
+
+*For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
