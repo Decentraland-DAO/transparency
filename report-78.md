@@ -71,6 +71,5 @@ Since August 16, 0 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
-* [Toggle empty LAND parcels.](https://governance.decentraland.org/proposal/?id=2e35320d-b79f-4ffb-922b-f5d61f85c7fd)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

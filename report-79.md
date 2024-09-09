@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -30,6 +30,13 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 
 
 ## Polls
+
+#### [Toggle empty LAND parcels.](https://governance.decentraland.org/proposal/?id=2e35320d-b79f-4ffb-922b-f5d61f85c7fd)
+
+* Yes  87.36022087539322% 510,693 VP (17 votes)
+* No 0.6021386184682073% 3,520 VP (1 votes)
+* Invalid question/options 12.037640506138564% 70,370 VP (9 votes)
+
 
 #### [Utilizing DAO-Owned Land Parcels](https://governance.decentraland.org/proposal/?id=47f30b5e-cd74-417d-8d56-fb2a1ec5e77d)
 
@@ -56,6 +63,5 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
-* [Toggle empty LAND parcels.](https://governance.decentraland.org/proposal/?id=2e35320d-b79f-4ffb-922b-f5d61f85c7fd)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
