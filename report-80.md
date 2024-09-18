@@ -48,5 +48,6 @@ Since September 16, 0 grants have been approved and the vesting contract(s) will
 
 ## Polls
 
+* [Should we restructure the way our DAO operates?](https://governance.decentraland.org/proposal/?id=1aee1cf5-52b6-4008-a729-15466c693e65)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
