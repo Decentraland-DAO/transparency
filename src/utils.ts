@@ -70,7 +70,7 @@ export function dayToMillisec(dayAmount: number) {
 
 export function getMonthsBetweenDates(startDate: Date, endDate: Date) {
   try {
-    if(!(startDate instanceof Date && endDate instanceof Date)) {
+    if (!(startDate instanceof Date && endDate instanceof Date)) {
       throw new Error('startDate and endDate must be Date objects')
     }
     const utcStartDate = dayjs.utc(startDate)
@@ -104,18 +104,21 @@ export function governanceUrl() {
 
 const delay = (ms: number) => new Promise(resolve => setTimeout(resolve, ms))
 
-export async function fetchURL(url: string, options?: RequestInit, retry?: number): Promise<any> {
+export async function fetchURL(url: string, options?: RequestInit, retry?: number, fetchDelay?: number): Promise<any> {
   retry = retry === undefined ? 3 : retry
+  let res
   try {
-    const res = await fetch(url, options)
+    res = await fetch(url, options)
     return await res.json()
   } catch (err) {
     if (retry <= 0) {
-      console.error('Fetch Error')
+      console.error('Fetch Error', err)
+      console.log('res', res)
       throw err
     }
-    await delay(2000)
-    return await fetchURL(url, options, retry - 1)
+    await delay(fetchDelay || 4000)
+    console.log('retrying url', url)
+    return await fetchURL(url, options, retry - 1, fetchDelay)
   }
 }
 
@@ -125,22 +128,29 @@ export async function fetchCovalentURL<T>(url: string, pageSize = 10000, singleP
   let page = 0
   let retries = 15
 
+  let response
   do {
-    const response: CovalentResponse<T> = await fetchURL(url + (pageSize === 0 ? '' : `&page-size=${pageSize}&page-number=${page}`), {}, 10)
+    const fullUrl = url + (pageSize === 0 ? '' : `&page-size=${pageSize}&page-number=${page}`)
+    try {
+      response = await fetchURL(fullUrl, {}, 10, COVALENT_RATE_LIMIT) as CovalentResponse<T>
 
-    if (response.error) {
-      if (retries > 0) {
-        retries--
-        console.log(`Retrying ${url}`)
-        await delay(COVALENT_RATE_LIMIT)
-        continue
+      if (response.error) {
+        if (retries > 0) {
+          retries--
+          console.log(`Retrying ${url}`)
+          await delay(COVALENT_RATE_LIMIT)
+          continue
+        }
+        throw Error(`Failed to fetch ${url} - message: ${response.error_message} - code: ${response.error_code}`)
       }
-      throw Error(`Failed to fetch ${url} - message: ${response.error_message} - code: ${response.error_code}`)
-    }
 
-    result.push(...(response.data.items || response.data))
-    page++
-    hasNext = response.data.pagination && response.data.pagination.has_more
+      result.push(...(response.data.items || response.data))
+      page++
+      hasNext = response.data.pagination && response.data.pagination.has_more
+    } catch (error) {
+      console.log('error fetching covalent url', error, fullUrl)
+      console.log('response', response)
+    }
   } while (hasNext && !singlePage)
 
   return result
@@ -164,7 +174,7 @@ type GraphQLProps = {
   where?: string
   apiKey?: string
 }
-export async function fetchGraphQLCondition<T>({url, collection, fieldNameCondition, dataKey, fields, where, apiKey}: GraphQLProps): Promise<T[]> {
+export async function fetchGraphQLCondition<T>({ url, collection, fieldNameCondition, dataKey, fields, where, apiKey }: GraphQLProps): Promise<T[]> {
   let hasNext = true
   let lastField = 0
   const FIRST = 1000
@@ -215,8 +225,8 @@ export async function fetchDelegations(members: string[], space: string): Promis
     dataKey: 'id',
     fields: 'id delegator delegate',
   }
-  const unresolvedGivenDelegations = fetchGraphQLCondition<Delegation>({...delegationsProps, where: where(members, 'delegator')})
-  const unresolvedReceivedDelegations = fetchGraphQLCondition<Delegation>({...delegationsProps, where: where(members, 'delegate')})
+  const unresolvedGivenDelegations = fetchGraphQLCondition<Delegation>({ ...delegationsProps, where: where(members, 'delegator') })
+  const unresolvedReceivedDelegations = fetchGraphQLCondition<Delegation>({ ...delegationsProps, where: where(members, 'delegate') })
 
   const [snapshotGivenDelegations, snapshotReceivedDelegations] = await Promise.all([unresolvedGivenDelegations, unresolvedReceivedDelegations])
 
@@ -264,7 +274,7 @@ export function flattenArray<Type>(arr: Type[][]): Type[] {
 }
 
 export function splitArray<Type>(array: Type[], chunkSize: number) {
-  return Array(Math.ceil(array.length / chunkSize)).fill(null).map(function(_, i) {
+  return Array(Math.ceil(array.length / chunkSize)).fill(null).map(function (_, i) {
     return array.slice(i * chunkSize, i * chunkSize + chunkSize)
   })
 }
@@ -331,13 +341,13 @@ export async function getLatestBlockByToken(txs: TransactionParsed[], currentYea
     for (const network of Object.values(NetworkName)) {
       const url = `${baseCovalentUrl(Networks.get(network))}/block_v2/${currentYear}-01-01/${currentYear}-01-02/?key=${COVALENT_API_KEY}`
       const blockHeight = (await fetchCovalentURL<BlockHeight>(url, 1, true))[0]
-      const defaultBlock = { block: blockHeight.height, date: blockHeight.signed_at.split('T')[0]}
+      const defaultBlock = { block: blockHeight.height, date: blockHeight.signed_at.split('T')[0] }
       for (const tokenAddress of Tokens.getAddresses(network)) {
         const latestBlock = txs
           .filter(tx => tx.network === network && tx.contract.toLowerCase() === tokenAddress)
           .map(tx => ({ block: tx.block, date: tx.date.split('T')[0] }))
           .sort((a, b) => b.block - a.block)[0]
-  
+
         if (latestBlock) {
           latestBlocks[network][tokenAddress] = latestBlock
         }
@@ -346,7 +356,7 @@ export async function getLatestBlockByToken(txs: TransactionParsed[], currentYea
         }
       }
     }
-  
+
     return latestBlocks
   } catch (error) {
     throw new Error(`Error getting latest block by token: ${error}`);
