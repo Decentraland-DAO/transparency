@@ -1,106 +1,139 @@
-import { Network, NetworkName } from './entities/Networks'
-import { TokenSymbols } from './entities/Tokens'
-import { Wallet, Wallets } from './entities/Wallets'
-import { Contract } from './interfaces/Balance'
-import {
-  baseCovalentUrl,
-  COVALENT_API_KEY,
-  fetchCovalentURL,
-  flattenArray,
-  getPreviousDate,
-  getTokenPriceInfo,
-  parseNumber,
-  reportToRollbarAndThrow,
-  saveToCSV,
-  saveToJSON
-} from './utils'
-import { rollbar } from './rollbar'
-import { TokenPriceAPIData } from './interfaces/Transactions/TokenPrices'
+import { NetworkName } from './entities/Networks'
+import { TOKENS, TokenSymbols } from './entities/Tokens'
+import { WALLETS } from './entities/Wallets'
+import { parseNumber, reportToRollbarAndThrow, saveToCSV, saveToJSON } from './utils'
+import { createAlchemyWeb3, TokenBalance } from '@alch/alchemy-web3'
+import BigNumber from 'bignumber.js'
+import { getAllTokenPrices } from './fetchCoingeckoPrices'
 
-const ALLOWED_SYMBOLS = new Set<string>(Object.values(TokenSymbols))
+const apiKey = process.env.ALCHEMY_API_KEY
 
-export type BalanceParsed = {
-  timestamp: string
-  name: string
-  amount: number
-  quote: number
-  rate: number
-  symbol: TokenSymbols
-  network: `${NetworkName}`
-  address: string
-  contractAddress: string
+type TokenBalanceValue = {
+  amount: number,
+  quote: number,
+  rate: number,
+  symbol: TokenSymbols,
+  contractAddress: string,
   decimals: number
 }
 
-type PricesMap = Record<string, number>
+function calculateErc20TokenBalanceValue(tokenBalance: TokenBalance, network: NetworkName, pricesPerToken: Record<string, number>) {
+  const tokenInfo = TOKENS[network][tokenBalance.contractAddress.toLowerCase()]
 
-function filterContractByToken(contract: Contract, wallet: Wallet) {
-  if (ALLOWED_SYMBOLS.has(contract.contract_ticker_symbol)) {
-    if (contract.contract_decimals === null) {
-      rollbar.log(`Contract decimals is null for ${contract.contract_ticker_symbol} on ${wallet.network.name} for ${wallet.name} ${wallet.address}`)
-      return false
-    } else {
-      return true
+  if (tokenInfo) {
+    const amount = parseNumber(Number(tokenBalance.tokenBalance), tokenInfo.decimals)
+    const rate = pricesPerToken[tokenInfo.symbol.toUpperCase()] || 0
+    const quote = amount * rate
+
+    return {
+      amount,
+      quote,
+      rate,
+      symbol: tokenInfo.symbol,
+      contractAddress: tokenBalance.contractAddress,
+      decimals: tokenInfo.decimals
     }
-  }
-  return false
+  } else throw new Error(`Unable to find token info for ${tokenBalance.contractAddress.toLowerCase()}`)
 }
 
-function getBalanceParsed(contract: Contract, walletName: string, walletAddress: string, network: Network, prices: PricesMap): BalanceParsed {
-  const amount = parseNumber(Number(contract.balance), contract.contract_decimals)
-  const rate = contract.quote_rate || prices[contract.contract_address.toLowerCase()] || 0
+function parseNativeBalance(hexBalance: string): number {
+  return new BigNumber(hexBalance).dividedBy(10 ** 18).toNumber()
+}
+
+function calculateNativeTokenBalanceValue(tokenAmount: string, tokenSymbol: TokenSymbols, tokenPrice: number) {
+  const amount = parseNativeBalance(tokenAmount)
+  const quote = amount * tokenPrice
+
   return {
-    timestamp: contract.last_transferred_at,
-    name: walletName,
     amount,
-    quote: amount * rate,
-    rate,
-    symbol: contract.contract_ticker_symbol,
-    network: network.name,
-    address: walletAddress,
-    contractAddress: contract.contract_address,
-    decimals: contract.contract_decimals
-  }
-}
-
-async function getBalance(wallet: Wallet) {
-  const { name, address, network } = wallet
-  const unresolvedPrices: Promise<TokenPriceAPIData[]>[] = []
-  const today = new Date()
-  const aWeekAgo = getPreviousDate(today, 7)
-  try {
-    const contracts = await fetchCovalentURL<Contract>(`${baseCovalentUrl(network)}/address/${address}/balances_v2/?quote-currency=USD&format=JSON&nft=false&no-nft-fetch=true&key=${COVALENT_API_KEY}`, 0)
-    const contractsFiltered = contracts.filter(contract => filterContractByToken(contract, wallet))
-
-    for (const contract of contractsFiltered) {
-      if(!contract.quote_rate || contract.quote_rate === 0) {
-        unresolvedPrices.push(getTokenPriceInfo(contract.contract_address, network, aWeekAgo, today))
-      }
-    }
-
-    const rawPrices = flattenArray(await Promise.all(unresolvedPrices))
-    const prices = rawPrices.reduce((accumulator, priceData) => {
-      accumulator[priceData.contract_address.toLowerCase()] = priceData.prices.length > 0 ? priceData.prices[0].price : 0
-      return accumulator
-    }, {} as PricesMap)
-
-    return contractsFiltered.map<BalanceParsed>((contract) => getBalanceParsed(contract, name, address, network, prices))
-  } catch (e) {
-    rollbar.log(`Unable to fetch balance for wallet ${address}`, e)
-    return []
+    quote,
+    rate: tokenPrice,
+    symbol: tokenSymbol,
+    contractAddress: '0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE',
+    decimals: 18
   }
 }
 
 async function main() {
-  const rawBalances: BalanceParsed[][] = []
+  const alchemyEth = createAlchemyWeb3(`https://eth-mainnet.g.alchemy.com/v2/${apiKey}`)
+  const alchemyPolygon = createAlchemyWeb3(`https://polygon-mainnet.g.alchemy.com/v2/${apiKey}`)
 
-  for (const wallet of Wallets.getAll()) {
-    rawBalances.push(await getBalance(wallet))
+  const walletBalances: Record<string, {
+    ethereumErc20Balances: TokenBalance[],
+    polygonErc20Balances: TokenBalance[],
+    ethBalance: string,
+    maticBalance: string
+  }> = {}
+  for (const wallet of WALLETS) {
+    const ethereumErc20Balances = await alchemyEth.alchemy.getTokenBalances(wallet.address, Object.keys(TOKENS[NetworkName.ETHEREUM]))
+    const ethBalance = await alchemyEth.eth.getBalance(wallet.address)
+
+    const polygonErc20Balances = await alchemyPolygon.alchemy.getTokenBalances(wallet.address, Object.keys(TOKENS[NetworkName.POLYGON]))
+    const maticBalance = await alchemyPolygon.eth.getBalance(wallet.address)
+
+    walletBalances[wallet.address] = {
+      ethereumErc20Balances: ethereumErc20Balances.tokenBalances,
+      polygonErc20Balances: polygonErc20Balances.tokenBalances,
+      ethBalance,
+      maticBalance
+    }
   }
 
-  const balances = flattenArray(rawBalances).filter(
-    (balance) => ALLOWED_SYMBOLS.has(balance.symbol) && balance.amount > 0
-  )
+  const pricesPerToken = await getAllTokenPrices()
+  const walletBalancesValue: Record<string, {
+    ethTokenValues: TokenBalanceValue[],
+    polygonTokenValues: TokenBalanceValue[]
+  }> = {}
+  for (const wallet of WALLETS) {
+    const { ethereumErc20Balances, polygonErc20Balances, ethBalance, maticBalance } = walletBalances[wallet.address]
+
+    const ethTokenValues = ethereumErc20Balances.map(tokenBalance => calculateErc20TokenBalanceValue(tokenBalance, NetworkName.ETHEREUM, pricesPerToken))
+    ethTokenValues.push(calculateNativeTokenBalanceValue(ethBalance, TokenSymbols.ETH, pricesPerToken[TokenSymbols.ETH]))
+
+    const polygonTokenValues = polygonErc20Balances.map(tokenBalance => calculateErc20TokenBalanceValue(tokenBalance, NetworkName.POLYGON, pricesPerToken))
+    polygonTokenValues.push(calculateNativeTokenBalanceValue(maticBalance, TokenSymbols.MATIC, pricesPerToken[TokenSymbols.MATIC]))
+
+    walletBalancesValue[wallet.address] = { ethTokenValues, polygonTokenValues }
+  }
+
+  const timestamp = new Date().toISOString()
+  const balances = []
+  for (const wallet of WALLETS) {
+    const { ethTokenValues, polygonTokenValues } = walletBalancesValue[wallet.address]
+    ethTokenValues.forEach(tokenValue => {
+      if (tokenValue.amount > 0) {
+        balances.push({
+          timestamp,
+          name: wallet.name,
+          amount: tokenValue.amount,
+          quote: tokenValue.quote,
+          rate: tokenValue.rate,
+          symbol: tokenValue.symbol,
+          network: NetworkName.ETHEREUM,
+          address: wallet.address,
+          contractAddress: tokenValue.contractAddress,
+          decimals: tokenValue.decimals
+        })
+      }
+    })
+
+    polygonTokenValues.forEach(tokenValue => {
+      if (tokenValue.amount > 0) {
+        balances.push({
+          timestamp,
+          name: wallet.name,
+          amount: tokenValue.amount,
+          quote: tokenValue.quote,
+          rate: tokenValue.rate,
+          symbol: tokenValue.symbol,
+          network: NetworkName.POLYGON,
+          address: wallet.address,
+          contractAddress: tokenValue.contractAddress,
+          decimals: tokenValue.decimals
+        })
+      }
+    })
+  }
 
   console.log(balances.length, 'balances found.')
 
