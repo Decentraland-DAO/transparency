@@ -1,8 +1,8 @@
 import BALANCES from '../public/balances.json'
-import PROJECTS from '../public/projects.json'
+// import PROJECTS from '../public/projects.json'
 import MEMBERS from '../public/members.json'
 import PROPOSALS from '../public/proposals.json'
-import TRANSACTIONS from '../public/transactions.json'
+// import TRANSACTIONS from '../public/transactions.json'
 import VOTES from '../public/votes.json'
 import { TransactionParsed } from './export-transactions'
 import { VotesParsed } from './export-votes'
@@ -21,8 +21,8 @@ function main() {
   const proposals = PROPOSALS as ProposalParsed[]
   const members = MEMBERS as MemberInfo[]
   const votes = VOTES as VotesParsed[]
-  const projects = PROJECTS as Project[]
-  const transactions = TRANSACTIONS as TransactionParsed[]
+  // const projects = PROJECTS as Project[]
+  // const transactions = TRANSACTIONS as TransactionParsed[]
   const balances = BALANCES
 
   const vpSources: (keyof MemberVP)[] = ['totalVP', 'manaVP', 'landVP', 'namesVP', 'delegatedVP', 'l1WearablesVP', 'rentalVP', 'estateVP']
@@ -71,30 +71,30 @@ function main() {
       header: ['Participation'],
       rows: getParticipationRows(members, proposals, votes)
     },
-    {
-      header: ['Projects', 'Amount', 'Percentage'],
-      rows: getProjectRows(projects)
-    },
+    // {
+    //   header: ['Projects', 'Amount', 'Percentage'],
+    //   rows: getProjectRows(projects)
+    // },
     {
       header: ['Balance Summary', 'Total USD'],
       rows: getBalanceSummaryRows(balances)
     },
-    {
-      header: ['Transactions', 'Amount', 'Total USD'],
-      rows: getTransactionRows(transactions)
-    },
-    {
-      header: ['Out txs fees', 'Number of transactions', 'Total USD', 'Average USD per transaction'],
-      rows: getFees(transactions, TransferType.OUT)
-    },
-    {
-      header: ['Income Sources', 'Amount', 'Total USD'],
-      rows: getTransactionsPerTagRows(transactions, TransferType.IN)
-    },
-    {
-      header: ['Expenses Destinations', 'Amount', 'Total USD'],
-      rows: getTransactionsPerTagRows(transactions, TransferType.OUT)
-    }
+    // {
+    //   header: ['Transactions', 'Amount', 'Total USD'],
+    //   rows: getTransactionRows(transactions)
+    // },
+    // {
+      // header: ['Out txs fees', 'Number of transactions', 'Total USD', 'Average USD per transaction'],
+      // rows: getFees(transactions, TransferType.OUT)
+    // },
+    // {
+    //   header: ['Income Sources', 'Amount', 'Total USD'],
+    //   rows: getTransactionsPerTagRows(transactions, TransferType.IN)
+    // },
+    // {
+    //   header: ['Expenses Destinations', 'Amount', 'Total USD'],
+    //   rows: getTransactionsPerTagRows(transactions, TransferType.OUT)
+    // }
   ]
 
   saveToJSON('kpis.json', kpis)
