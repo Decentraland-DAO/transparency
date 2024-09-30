@@ -1,6 +1,6 @@
 import BALANCES from '../public/balances.json'
-import PROJECTS from '../public/projects.json'
-import TRANSACTIONS from '../public/transactions.json'
+// import PROJECTS from '../public/projects.json'
+// import TRANSACTIONS from '../public/transactions.json'
 import { TagCategoryType, Tags } from './entities/Tags'
 import { CurationCommittee, DAOCommittee, RevocationCommittee, SABCommittee } from './entities/Teams'
 import { TransactionParsed } from './export-transactions'
@@ -61,52 +61,52 @@ async function main() {
   const last30 = new Date(now.getTime() - dayToMillisec(30))
   const last60 = new Date(now.getTime() - dayToMillisec(60))
 
-  const txs = TRANSACTIONS as TransactionParsed[]
+  // const txs = TRANSACTIONS as TransactionParsed[]
 
-  const incomeTxs = txs.filter(tx => tx.type === TransferType.IN)
-  const incomeTxs30 = incomeTxs.filter(tx => new Date(tx.date) >= last30)
-  const totalIncome30 = sumQuote(incomeTxs30)
+  // const incomeTxs = txs.filter(tx => tx.type === TransferType.IN)
+  // const incomeTxs30 = incomeTxs.filter(tx => new Date(tx.date) >= last30)
+  // const totalIncome30 = sumQuote(incomeTxs30)
 
-  const incomeTxs60 = incomeTxs.filter(tx => new Date(tx.date) >= last60 && new Date(tx.date) < last30)
-  const totalIncome60 = sumQuote(incomeTxs60)
-  const incomeDelta = (totalIncome30 - totalIncome60) * 100 / totalIncome60
+  // const incomeTxs60 = incomeTxs.filter(tx => new Date(tx.date) >= last60 && new Date(tx.date) < last30)
+  // const totalIncome60 = sumQuote(incomeTxs60)
+  // const incomeDelta = (totalIncome30 - totalIncome60) * 100 / totalIncome60
 
-  const incomeTaggedTxs = getTransactionsPerTag(incomeTxs30)
+  // const incomeTaggedTxs = getTransactionsPerTag(incomeTxs30)
 
-  const expensesTxs = txs.filter(tx => tx.type === TransferType.OUT)
-  const expensesTxs30 = expensesTxs.filter(tx => new Date(tx.date) >= last30)
-  const totalExpenses30 = sumQuote(expensesTxs30)
+  // const expensesTxs = txs.filter(tx => tx.type === TransferType.OUT)
+  // const expensesTxs30 = expensesTxs.filter(tx => new Date(tx.date) >= last30)
+  // const totalExpenses30 = sumQuote(expensesTxs30)
 
-  const expensesTxs60 = expensesTxs.filter(tx => new Date(tx.date) >= last60 && new Date(tx.date) < last30)
-  const totalExpenses60 = sumQuote(expensesTxs60)
-  const expensesDelta = (totalExpenses30 - totalExpenses60) * 100 / totalExpenses60
+  // const expensesTxs60 = expensesTxs.filter(tx => new Date(tx.date) >= last60 && new Date(tx.date) < last30)
+  // const totalExpenses60 = sumQuote(expensesTxs60)
+  // const expensesDelta = (totalExpenses30 - totalExpenses60) * 100 / totalExpenses60
 
-  const expensesTaggedTxs = getTransactionsPerTag(expensesTxs30)
+  // const expensesTaggedTxs = getTransactionsPerTag(expensesTxs30)
 
-  const projects = PROJECTS as Project[]
-  const totalFunding = projects.filter(project => project.status === Status.ENACTED).reduce((a, g) => a + g.size, 0)
+  // const projects = PROJECTS as Project[]
+  // const totalFunding = projects.filter(project => project.status === Status.ENACTED).reduce((a, g) => a + g.size, 0)
 
-  const incomeDetails = getTxsDetails(incomeTaggedTxs)
-  const expensesDetails = getTxsDetails(expensesTaggedTxs)
+  // const incomeDetails = getTxsDetails(incomeTaggedTxs)
+  // const expensesDetails = getTxsDetails(expensesTaggedTxs)
 
-  const netIncomeDetails = compensateBalances(incomeDetails, expensesDetails)
-  const netExpensesDetails = compensateBalances(expensesDetails, incomeDetails)
+  // const netIncomeDetails = compensateBalances(incomeDetails, expensesDetails)
+  // const netExpensesDetails = compensateBalances(expensesDetails, incomeDetails)
 
   const data = {
     'balances': BALANCES,
-    'income': {
-      'total': netIncomeDetails.reduce((acc, cur) => acc + cur.value, 0),
-      'previous': incomeDelta,
-      'details': netIncomeDetails
-    },
-    'expenses': {
-      'total': netExpensesDetails.reduce((acc, cur) => acc + cur.value, 0),
-      'previous': expensesDelta,
-      'details': netExpensesDetails
-    },
-    'funding': {
-      'total': totalFunding
-    },
+    // 'income': {
+    //   'total': netIncomeDetails.reduce((acc, cur) => acc + cur.value, 0),
+    //   'previous': incomeDelta,
+    //   'details': netIncomeDetails
+    // },
+    // 'expenses': {
+    //   'total': netExpensesDetails.reduce((acc, cur) => acc + cur.value, 0),
+    //   'previous': expensesDelta,
+    //   'details': netExpensesDetails
+    // },
+    // 'funding': {
+    //   'total': totalFunding
+    // },
     'committees': [
       SABCommittee.toJson(),
       DAOCommittee.toJson(),
