@@ -75,4 +75,3 @@ export class Tokens {
     return Object.keys(TOKENS[network])
   }
 }
-
