@@ -4,7 +4,6 @@ import MEMBERS from '../public/members.json'
 import PROPOSALS from '../public/proposals.json'
 import TRANSACTIONS from '../public/transactions.json'
 import VOTES from '../public/votes.json'
-import { BalanceParsed } from './export-balances'
 import { TransactionParsed } from './export-transactions'
 import { VotesParsed } from './export-votes'
 import { GovernanceProposalType, Status } from './interfaces/GovernanceProposal'
@@ -24,7 +23,7 @@ function main() {
   const votes = VOTES as VotesParsed[]
   const projects = PROJECTS as Project[]
   const transactions = TRANSACTIONS as TransactionParsed[]
-  const balances = BALANCES as BalanceParsed[]
+  const balances = BALANCES
 
   const vpSources: (keyof MemberVP)[] = ['totalVP', 'manaVP', 'landVP', 'namesVP', 'delegatedVP', 'l1WearablesVP', 'rentalVP', 'estateVP']
   const totalVP = sum(members.map(member => member.totalVP))
@@ -211,7 +210,7 @@ function getFees(transactions: TransactionParsed[], type: TransferType) {
   return rows
 }
 
-function getBalanceSummaryRows(balances: BalanceParsed[]) {
+function getBalanceSummaryRows(balances: any[]) {
   const wallets: Record<string, number> = {}
   for (const balance of balances) {
     const key = `${balance.name} - ${balance.network}`
