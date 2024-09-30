@@ -1,9 +1,7 @@
 import fetch from 'isomorphic-fetch'
 import { TOKENS } from './entities/Tokens'
 
-
 const COIN_GECKO_API_KEY = process.env.COIN_GECKO_API_KEY
-
 
 type CoinGeckoResponse = {
   id: string;
@@ -22,9 +20,7 @@ function getAllCoinGeckoIds(): string[] {
     });
   });
 
-  coinGeckoIds.push('ethereum')
-
-  return coinGeckoIds;
+  return [...coinGeckoIds, 'ethereum']
 }
 
 async function fetchCoinGeckoPrices(coinIds: string[]) {

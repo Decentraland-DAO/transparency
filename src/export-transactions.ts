@@ -10,7 +10,6 @@ import { Project } from './interfaces/Project'
 import { EventItem } from './interfaces/Transactions/Events'
 import { TransactionItem } from './interfaces/Transactions/Transactions'
 import { TransferItem, TransferType } from './interfaces/Transactions/Transfers'
-import { BalanceParsed } from './export-balances'
 import {
   baseCovalentUrl,
   COVALENT_API_KEY,
@@ -132,10 +131,10 @@ const RENTAL_ADDRESSES = new Set([
   '0xe90636e24d8faf02aa0e01c26d72dab9629865cb'
 ])
 
-const BALANCES = (RAW_BALANCES as BalanceParsed[]).reduce((accum, balance) => {
+const BALANCES = (RAW_BALANCES).reduce((accum, balance) => {
   accum[balance.contractAddress] = balance
   return accum
-}, {} as { [address: string]: BalanceParsed })
+})
 
 async function getTopicTxs(network: Network, startblock: number, topic: Topic) {
   let block = startblock
