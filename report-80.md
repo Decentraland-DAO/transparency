@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -31,6 +31,13 @@ Since September 16, 0 grants have been approved and the vesting contract(s) will
 
 ## Polls
 
+#### [Should we restructure the way our DAO operates?](https://governance.decentraland.org/proposal/?id=1aee1cf5-52b6-4008-a729-15466c693e65)
+
+* Yes, I support this idea 94.55740165291444% 19,158,104 VP (50 votes)
+* No, I don&#39;t agree with this 4.915235657551651% 995,867 VP (20 votes)
+* Invalid question/options 0.5273626895339225% 106,848 VP (2 votes)
+
+
 
 # Active Proposals
 
@@ -48,6 +55,6 @@ Since September 16, 0 grants have been approved and the vesting contract(s) will
 
 ## Polls
 
-* [Should we restructure the way our DAO operates?](https://governance.decentraland.org/proposal/?id=1aee1cf5-52b6-4008-a729-15466c693e65)
+* [Are Polls a good way of drawing Community attention to a topic ?](https://governance.decentraland.org/proposal/?id=2813dc36-1819-4060-af00-d2bea2e7b3be)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
