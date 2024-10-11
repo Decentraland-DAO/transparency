@@ -137,22 +137,22 @@ jobs:
           npx ts-node ./src/export-financials.ts
           npx ts-node ./src/upload.ts Financials ./public/financials.csv
 
-      - name: Export KPIs
-        env:
-          NODE_OPTIONS: "--max-old-space-size=8192"
-          SHEET_ID: ${{ secrets.SHEET_ID }}
-          SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
-          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
-          ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
-        run: |
-          npx ts-node ./src/export-kpis.ts
-          npx ts-node ./src/upload.ts KPIs ./public/kpis.json
+#      - name: Export KPIs
+#        env:
+#          NODE_OPTIONS: "--max-old-space-size=8192"
+#          SHEET_ID: ${{ secrets.SHEET_ID }}
+#          SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
+#          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
+#          ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
+#        run: |
+#          npx ts-node ./src/export-kpis.ts
+#          npx ts-node ./src/upload.ts KPIs ./public/kpis.json
 
-      - name: Export API
-        env:
-          NODE_OPTIONS: "--max-old-space-size=8192"
-          ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
-        run: npx ts-node ./src/export-api.ts
+#      - name: Export API
+#        env:
+#          NODE_OPTIONS: "--max-old-space-size=8192"
+#          ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
+#        run: npx ts-node ./src/export-api.ts
 
       - name: Export Report
         env:
