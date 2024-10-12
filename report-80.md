@@ -46,6 +46,7 @@ Since September 16, 0 grants have been approved and the vesting contract(s) will
 
 ## Grants
 
+* [Extension of SDK Migration ](https://governance.decentraland.org/proposal/?id=14ed648e-16fb-479a-a5cb-4fd67e625c49) (Higher Tier)
 
 ## Names Bans
 
