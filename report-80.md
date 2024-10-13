@@ -46,6 +46,7 @@ Since September 16, 0 grants have been approved and the vesting contract(s) will
 
 ## Grants
 
+* [Protocol Squad - Alternative Explorers (Desktop, Mobile &amp; VR)](https://governance.decentraland.org/proposal/?id=8ce24f4d-ed98-421b-a04e-dd71876bf9a2) (Higher Tier)
 * [Extension of SDK Migration ](https://governance.decentraland.org/proposal/?id=14ed648e-16fb-479a-a5cb-4fd67e625c49) (Higher Tier)
 
 ## Names Bans
