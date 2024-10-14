@@ -57,6 +57,5 @@ Since October 1, 0 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
-* [Are Polls a good way of drawing Community attention to a topic ?](https://governance.decentraland.org/proposal/?id=2813dc36-1819-4060-af00-d2bea2e7b3be)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
