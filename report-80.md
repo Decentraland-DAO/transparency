@@ -43,6 +43,7 @@ Since September 16, 0 grants have been approved and the vesting contract(s) will
 
 ## Points of Interest
 
+* -89, -80: [Estate Lands! ](https://governance.decentraland.org/proposal/?id=aee6739c-e381-447f-99b1-951acd26d833)
 
 ## Grants
 
