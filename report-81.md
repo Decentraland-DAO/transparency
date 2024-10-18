@@ -47,11 +47,14 @@ Since October 1, 0 grants have been approved and the vesting contract(s) will be
 
 ## Grants
 
+* [Enhancing Scene Capabilities Through &#34;Dynamic Testing&#34;](https://governance.decentraland.org/proposal/?id=5611e604-2b45-471e-a98b-c4168c35593b) (Lower Tier)
 * [Protocol Squad - Alternative Explorers (Desktop, Mobile &amp; VR)](https://governance.decentraland.org/proposal/?id=8ce24f4d-ed98-421b-a04e-dd71876bf9a2) (Higher Tier)
 * [Extension of SDK Migration ](https://governance.decentraland.org/proposal/?id=14ed648e-16fb-479a-a5cb-4fd67e625c49) (Higher Tier)
 
 ## Names Bans
 
+* [Ban the name ffwc](https://governance.decentraland.org/proposal/?id=25d283d5-8475-49ad-8f90-7dcb445bca80)
+* [Ban the name merde](https://governance.decentraland.org/proposal/?id=b8063dca-0121-4df9-9236-fdd9e2bebd59)
 
 ## Catalysts
 
