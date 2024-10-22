@@ -36,7 +36,6 @@ Since October 16, 0 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
-* -89, -80: [Estate Lands! ](https://governance.decentraland.org/proposal/?id=aee6739c-e381-447f-99b1-951acd26d833)
 
 ## Grants
 
@@ -54,5 +53,6 @@ Since October 16, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Increase the scene limitations to build higher and more detailed.](https://governance.decentraland.org/proposal/?id=77275432-f9ac-4161-88b7-d7a753b95b8a)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
