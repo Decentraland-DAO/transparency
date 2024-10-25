@@ -45,8 +45,6 @@ Since October 16, 0 grants have been approved and the vesting contract(s) will b
 
 ## Names Bans
 
-* [Ban the name ffwc](https://governance.decentraland.org/proposal/?id=25d283d5-8475-49ad-8f90-7dcb445bca80)
-* [Ban the name merde](https://governance.decentraland.org/proposal/?id=b8063dca-0121-4df9-9236-fdd9e2bebd59)
 
 ## Catalysts
 
