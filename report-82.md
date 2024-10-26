@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 1 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -26,7 +26,14 @@ No Catalyst nodes have been added since the previous report.
 
 
 ## Grant requests
-Since October 16, 0 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+Since October 16, 1 grants have been approved and the vesting contract(s) will be established within 7-10 days.
+
+
+#### [Extension of SDK Migration ](https://governance.decentraland.org/proposal/?id=14ed648e-16fb-479a-a5cb-4fd67e625c49) (Higher Tier)
+
+* Yes 86.41982387932448% 3,782,791 VP (35 votes)
+* No 12.250224228769545% 536,220 VP (13 votes)
+* Abstain 1.3299518919059696% 58,215 VP (7 votes)
 
 
 ## Polls
@@ -41,7 +48,6 @@ Since October 16, 0 grants have been approved and the vesting contract(s) will b
 
 * [Enhancing Scene Capabilities Through &#34;Dynamic Testing&#34;](https://governance.decentraland.org/proposal/?id=5611e604-2b45-471e-a98b-c4168c35593b) (Lower Tier)
 * [Protocol Squad - Alternative Explorers (Desktop, Mobile &amp; VR)](https://governance.decentraland.org/proposal/?id=8ce24f4d-ed98-421b-a04e-dd71876bf9a2) (Higher Tier)
-* [Extension of SDK Migration ](https://governance.decentraland.org/proposal/?id=14ed648e-16fb-479a-a5cb-4fd67e625c49) (Higher Tier)
 
 ## Names Bans
 
