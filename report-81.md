@@ -47,7 +47,6 @@ Since October 1, 0 grants have been approved and the vesting contract(s) will be
 ## Grants
 
 * [Enhancing Scene Capabilities Through &#34;Dynamic Testing&#34;](https://governance.decentraland.org/proposal/?id=5611e604-2b45-471e-a98b-c4168c35593b) (Lower Tier)
-* [Protocol Squad - Alternative Explorers (Desktop, Mobile &amp; VR)](https://governance.decentraland.org/proposal/?id=8ce24f4d-ed98-421b-a04e-dd71876bf9a2) (Higher Tier)
 
 ## Names Bans
 
@@ -57,6 +56,5 @@ Since October 1, 0 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
-* [Increase the scene limitations to build higher and more detailed.](https://governance.decentraland.org/proposal/?id=77275432-f9ac-4161-88b7-d7a753b95b8a)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
