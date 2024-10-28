@@ -50,6 +50,7 @@ Since October 16, 2 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* 97, -116: [BIGTIME-space](https://governance.decentraland.org/proposal/?id=d7da25af-201d-4456-bb41-66917ed1cc3e)
 
 ## Grants
 
