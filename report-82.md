@@ -70,5 +70,7 @@ Since October 16, 2 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Should we completely shut down the DAO &amp; let the Foundation take over everything](https://governance.decentraland.org/proposal/?id=95bf5058-8f27-49f2-8c62-fe10987da904)
+* [Is MANA dropping due to the 2.0 &#34;release&#34; ?](https://governance.decentraland.org/proposal/?id=8ea46cb9-6931-48b3-84fc-b200837b0cd4)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
