@@ -50,6 +50,8 @@ Since October 16, 2 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* -108, 129: [No Name](https://governance.decentraland.org/proposal/?id=6fe3e38a-26ed-4a5a-93b9-3da93c0fcec5)
+* -101, 127: [No Name](https://governance.decentraland.org/proposal/?id=061d6e2e-b614-44e2-aea5-fb3bde33f4e9)
 * 97, -116: [BIGTIME-space](https://governance.decentraland.org/proposal/?id=620431b8-8117-4602-83b8-694c88883250)
 * -79, -54: [No Name](https://governance.decentraland.org/proposal/?id=1b3b3a28-2d75-4f47-ae7f-627b111c1323)
 * 25, 74: [Xeta Gallery](https://governance.decentraland.org/proposal/?id=17cb9048-125e-4a42-a174-855ab817b1e6)
@@ -60,7 +62,6 @@ Since October 16, 2 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
-* [Enhancing Scene Capabilities Through &#34;Dynamic Testing&#34;](https://governance.decentraland.org/proposal/?id=5611e604-2b45-471e-a98b-c4168c35593b) (Lower Tier)
 
 ## Names Bans
 
@@ -70,6 +71,7 @@ Since October 16, 2 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Can one make money just with a scene in Decentraland ?](https://governance.decentraland.org/proposal/?id=0d3d276e-b780-4eb3-8013-7e4e2c0e1b29)
 * [Should we completely shut down the DAO &amp; let the Foundation take over everything](https://governance.decentraland.org/proposal/?id=95bf5058-8f27-49f2-8c62-fe10987da904)
 * [Is MANA dropping due to the 2.0 &#34;release&#34; ?](https://governance.decentraland.org/proposal/?id=8ea46cb9-6931-48b3-84fc-b200837b0cd4)
 
