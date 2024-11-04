@@ -58,7 +58,6 @@ Since October 16, 2 grants have been approved and the vesting contract(s) will b
 * 117, -27: [Meta Residence Tower](https://governance.decentraland.org/proposal/?id=6493236c-bc78-48e0-b697-fcab0bf82ddc)
 * -28, -63: [Metakey](https://governance.decentraland.org/proposal/?id=3f648ce9-9a03-4b31-acd7-d3714dd026a5)
 * -1, -35: [Sugar Club](https://governance.decentraland.org/proposal/?id=67d8cae1-fc55-4f68-a92e-d34a74a8d238)
-* 97, -116: [BIGTIME-space](https://governance.decentraland.org/proposal/?id=d7da25af-201d-4456-bb41-66917ed1cc3e)
 
 ## Grants
 
