@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -31,6 +31,21 @@ Since November 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+#### [Should we completely shut down the DAO &amp; let the Foundation take over everything](https://governance.decentraland.org/proposal/?id=95bf5058-8f27-49f2-8c62-fe10987da904)
+
+* Yes 22.861494865157496% 210,724 VP (7 votes)
+* No 73.42130444310881% 676,755 VP (17 votes)
+* Invalid question/options 3.7172006917336957% 34,263 VP (2 votes)
+
+
+#### [Is MANA dropping due to the 2.0 &#34;release&#34; ?](https://governance.decentraland.org/proposal/?id=8ea46cb9-6931-48b3-84fc-b200837b0cd4)
+
+* Yes, Markets say 2.0 is a flop 48.32538902726047% 528,716 VP (11 votes)
+* No, the Markets will turn around 17.834152137650527% 195,119 VP (4 votes)
+* Lolwut? I was away for a month 0.8373283367228025% 9,161 VP (1 votes)
+* Invalid question/options 33.003130498366204% 361,079 VP (9 votes)
+
+
 
 # Active Proposals
 
@@ -38,12 +53,6 @@ Since November 1, 0 grants have been approved and the vesting contract(s) will b
 
 * -108, 129: [No Name](https://governance.decentraland.org/proposal/?id=6fe3e38a-26ed-4a5a-93b9-3da93c0fcec5)
 * -101, 127: [No Name](https://governance.decentraland.org/proposal/?id=061d6e2e-b614-44e2-aea5-fb3bde33f4e9)
-* 97, -116: [BIGTIME-space](https://governance.decentraland.org/proposal/?id=620431b8-8117-4602-83b8-694c88883250)
-* -79, -54: [No Name](https://governance.decentraland.org/proposal/?id=1b3b3a28-2d75-4f47-ae7f-627b111c1323)
-* 25, 74: [Xeta Gallery](https://governance.decentraland.org/proposal/?id=17cb9048-125e-4a42-a174-855ab817b1e6)
-* 117, -27: [Meta Residence Tower](https://governance.decentraland.org/proposal/?id=6493236c-bc78-48e0-b697-fcab0bf82ddc)
-* -28, -63: [Metakey](https://governance.decentraland.org/proposal/?id=3f648ce9-9a03-4b31-acd7-d3714dd026a5)
-* -1, -35: [Sugar Club](https://governance.decentraland.org/proposal/?id=67d8cae1-fc55-4f68-a92e-d34a74a8d238)
 
 ## Grants
 
@@ -57,7 +66,5 @@ Since November 1, 0 grants have been approved and the vesting contract(s) will b
 ## Polls
 
 * [Can one make money just with a scene in Decentraland ?](https://governance.decentraland.org/proposal/?id=0d3d276e-b780-4eb3-8013-7e4e2c0e1b29)
-* [Should we completely shut down the DAO &amp; let the Foundation take over everything](https://governance.decentraland.org/proposal/?id=95bf5058-8f27-49f2-8c62-fe10987da904)
-* [Is MANA dropping due to the 2.0 &#34;release&#34; ?](https://governance.decentraland.org/proposal/?id=8ea46cb9-6931-48b3-84fc-b200837b0cd4)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
