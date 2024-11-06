@@ -64,6 +64,5 @@ Since October 16, 2 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
-* [Can one make money just with a scene in Decentraland ?](https://governance.decentraland.org/proposal/?id=0d3d276e-b780-4eb3-8013-7e4e2c0e1b29)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
