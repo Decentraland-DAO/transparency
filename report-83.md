@@ -51,11 +51,10 @@ Since November 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
-* -108, 129: [No Name](https://governance.decentraland.org/proposal/?id=6fe3e38a-26ed-4a5a-93b9-3da93c0fcec5)
-* -101, 127: [No Name](https://governance.decentraland.org/proposal/?id=061d6e2e-b614-44e2-aea5-fb3bde33f4e9)
 
 ## Grants
 
+* [Zombie City - Multiplayer Game](https://governance.decentraland.org/proposal/?id=627e985a-6b40-4795-aebc-b523eaa74f14) (Lower Tier)
 
 ## Names Bans
 
