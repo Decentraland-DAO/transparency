@@ -54,6 +54,7 @@ Since November 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
+* [API to extract color data of any wearable + NPM library](https://governance.decentraland.org/proposal/?id=41cc7556-3ffc-4f27-9a0a-bd4a10a85ec2) (Lower Tier)
 * [Zombie City - Multiplayer Game](https://governance.decentraland.org/proposal/?id=627e985a-6b40-4795-aebc-b523eaa74f14) (Lower Tier)
 
 ## Names Bans
