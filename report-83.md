@@ -64,5 +64,6 @@ Since November 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Why we should bullish Decentraland and MANA when BTC hit 80K?](https://governance.decentraland.org/proposal/?id=f99b5d9b-f1fe-4891-9557-7ac2352e5580)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
