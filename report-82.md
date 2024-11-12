@@ -53,7 +53,6 @@ Since October 16, 2 grants have been approved and the vesting contract(s) will b
 
 ## Grants
 
-* [Zombie City - Multiplayer Game](https://governance.decentraland.org/proposal/?id=627e985a-6b40-4795-aebc-b523eaa74f14) (Lower Tier)
 
 ## Names Bans
 
