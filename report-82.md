@@ -62,6 +62,7 @@ Since October 16, 2 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Can ZK-Proofs enable VP Delegation confidentiality ?](https://governance.decentraland.org/proposal/?id=acb59d35-7c20-433d-8882-791c2c12e420)
 * [again, I ask the commitee and metazins to vote on an onscreen running utc clock.](https://governance.decentraland.org/proposal/?id=eeddfa59-cd60-453c-98c3-19a7ea148535)
 * [What do you know of the Tulip Bulb Bubble ?](https://governance.decentraland.org/proposal/?id=8465995b-d72e-4fc6-ba9a-007b4e836ac8)
 * [Why we should bullish Decentraland and MANA when BTC hit 80K?](https://governance.decentraland.org/proposal/?id=f99b5d9b-f1fe-4891-9557-7ac2352e5580)
