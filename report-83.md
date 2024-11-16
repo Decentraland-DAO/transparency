@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -30,6 +30,14 @@ Since November 1, 0 grants have been approved and the vesting contract(s) will b
 
 
 ## Polls
+
+#### [Why we should bullish Decentraland and MANA when BTC hit 80K?](https://governance.decentraland.org/proposal/?id=f99b5d9b-f1fe-4891-9557-7ac2352e5580)
+
+* Make Sense 94.19626032137596% 2,199,445 VP (16 votes)
+* Does not make sense 0.02406893479973961% 562 VP (1 votes)
+* Neutrual 2.1020488573680063% 49,082 VP (2 votes)
+* Invalid question/options 3.677621886456299% 85,871 VP (6 votes)
+
 
 #### [Should we completely shut down the DAO &amp; let the Foundation take over everything](https://governance.decentraland.org/proposal/?id=95bf5058-8f27-49f2-8c62-fe10987da904)
 
@@ -66,6 +74,5 @@ Since November 1, 0 grants have been approved and the vesting contract(s) will b
 * [Can ZK-Proofs enable VP Delegation confidentiality ?](https://governance.decentraland.org/proposal/?id=acb59d35-7c20-433d-8882-791c2c12e420)
 * [again, I ask the commitee and metazins to vote on an onscreen running utc clock.](https://governance.decentraland.org/proposal/?id=eeddfa59-cd60-453c-98c3-19a7ea148535)
 * [What do you know of the Tulip Bulb Bubble ?](https://governance.decentraland.org/proposal/?id=8465995b-d72e-4fc6-ba9a-007b4e836ac8)
-* [Why we should bullish Decentraland and MANA when BTC hit 80K?](https://governance.decentraland.org/proposal/?id=f99b5d9b-f1fe-4891-9557-7ac2352e5580)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
