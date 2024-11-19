@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -31,6 +31,13 @@ Since November 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+#### [again, I ask the commitee and metazins to vote on an onscreen running utc clock.](https://governance.decentraland.org/proposal/?id=eeddfa59-cd60-453c-98c3-19a7ea148535)
+
+* YES - keep a running clock 95.17632315893259% 954,688 VP (21 votes)
+* NO - don&#39;t 0.05602782648919869% 562 VP (1 votes)
+* Invalid question/options 4.767649014578201% 47,823 VP (3 votes)
+
+
 
 # Active Proposals
 
@@ -49,7 +56,5 @@ Since November 16, 0 grants have been approved and the vesting contract(s) will 
 ## Polls
 
 * [Can ZK-Proofs enable VP Delegation confidentiality ?](https://governance.decentraland.org/proposal/?id=acb59d35-7c20-433d-8882-791c2c12e420)
-* [again, I ask the commitee and metazins to vote on an onscreen running utc clock.](https://governance.decentraland.org/proposal/?id=eeddfa59-cd60-453c-98c3-19a7ea148535)
-* [What do you know of the Tulip Bulb Bubble ?](https://governance.decentraland.org/proposal/?id=8465995b-d72e-4fc6-ba9a-007b4e836ac8)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
