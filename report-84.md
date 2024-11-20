@@ -55,6 +55,5 @@ Since November 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
-* [Can ZK-Proofs enable VP Delegation confidentiality ?](https://governance.decentraland.org/proposal/?id=acb59d35-7c20-433d-8882-791c2c12e420)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
