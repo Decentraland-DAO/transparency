@@ -55,5 +55,6 @@ Since November 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Decentraland DAO Treasury Diversification ( Phase B )](https://governance.decentraland.org/proposal/?id=6adc1fe4-2155-41e6-8d4e-fd246a660a35)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
