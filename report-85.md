@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -31,6 +31,13 @@ Since December 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+#### [Decentraland DAO Treasury Diversification ( Phase B )](https://governance.decentraland.org/proposal/?id=6adc1fe4-2155-41e6-8d4e-fd246a660a35)
+
+* Yes  86.96755905511812% 1,794,793 VP (34 votes)
+* No 13.03244094488189% 268,957 VP (4 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 
 # Active Proposals
 
@@ -48,7 +55,7 @@ Since December 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Code of Ethics Revision: Replacing the Three-Strike System](https://governance.decentraland.org/proposal/?id=09d97427-ddb7-42a6-98fb-3db07e74a2a9)
 * [Stake Reward Incentives](https://governance.decentraland.org/proposal/?id=700eaee9-2e1c-443f-bb72-652c9ec0602c)
-* [Decentraland DAO Treasury Diversification ( Phase B )](https://governance.decentraland.org/proposal/?id=6adc1fe4-2155-41e6-8d4e-fd246a660a35)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
