@@ -56,6 +56,5 @@ Since December 1, 0 grants have been approved and the vesting contract(s) will b
 ## Polls
 
 * [Code of Ethics Revision: Replacing the Three-Strike System](https://governance.decentraland.org/proposal/?id=09d97427-ddb7-42a6-98fb-3db07e74a2a9)
-* [Stake Reward Incentives](https://governance.decentraland.org/proposal/?id=700eaee9-2e1c-443f-bb72-652c9ec0602c)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
