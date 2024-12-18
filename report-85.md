@@ -62,5 +62,6 @@ Since December 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [ Introduce Free Islands to Expand Decentraland’s Genesis City Via Asset Staking](https://governance.decentraland.org/proposal/?id=2686e291-d8d6-4a5b-ad87-8c5362d9d031)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
