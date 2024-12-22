@@ -50,6 +50,7 @@ Since December 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* 17, -145: [Old Guy BBQ](https://governance.decentraland.org/proposal/?id=39555ab5-275a-41d0-9d1e-295af263fe78)
 
 ## Grants
 
