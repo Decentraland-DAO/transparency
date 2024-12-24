@@ -49,6 +49,7 @@ Since December 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Restarting Land Buyback 2.0](https://governance.decentraland.org/proposal/?id=125c733d-e9aa-4e71-97c4-0b0b96c00219)
 * [Introducing &#34;Islands&#34; – Expanding Decentraland through Staking Mechanisms](https://governance.decentraland.org/proposal/?id=f260b03a-4282-4854-af04-546040ad01a3)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
