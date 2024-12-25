@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -31,6 +31,14 @@ Since December 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+#### [Introducing &#34;Islands&#34; – Expanding Decentraland through Staking Mechanisms](https://governance.decentraland.org/proposal/?id=f260b03a-4282-4854-af04-546040ad01a3)
+
+* Yes 32.02799315382512% 602,182 VP (17 votes)
+* No 53.3193736324404% 1,002,497 VP (8 votes)
+* Request Revision 10.69544627252584% 201,093 VP (3 votes)
+* Invalid question/options 3.9571869412086325% 74,402 VP (2 votes)
+
+
 
 # Active Proposals
 
@@ -50,6 +58,5 @@ Since December 16, 0 grants have been approved and the vesting contract(s) will 
 ## Polls
 
 * [Restarting Land Buyback 2.0](https://governance.decentraland.org/proposal/?id=125c733d-e9aa-4e71-97c4-0b0b96c00219)
-* [Introducing &#34;Islands&#34; – Expanding Decentraland through Staking Mechanisms](https://governance.decentraland.org/proposal/?id=f260b03a-4282-4854-af04-546040ad01a3)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
