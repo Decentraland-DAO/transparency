@@ -31,12 +31,11 @@ Since December 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
-#### [Introducing &#34;Islands&#34; – Expanding Decentraland through Staking Mechanisms](https://governance.decentraland.org/proposal/?id=f260b03a-4282-4854-af04-546040ad01a3)
+#### [Restarting Land Buyback 2.0](https://governance.decentraland.org/proposal/?id=125c733d-e9aa-4e71-97c4-0b0b96c00219)
 
-* Yes 32.02799315382512% 602,182 VP (17 votes)
-* No 53.3193736324404% 1,002,497 VP (8 votes)
-* Request Revision 10.69544627252584% 201,093 VP (3 votes)
-* Invalid question/options 3.9571869412086325% 74,402 VP (2 votes)
+* Yes 68.29620676509323% 630,598 VP (35 votes)
+* No 31.101298780065157% 287,167 VP (4 votes)
+* Invalid question/options 0.6024944548416165% 5,563 VP (1 votes)
 
 
 
@@ -44,7 +43,6 @@ Since December 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
-* 17, -145: [Old Guy BBQ](https://governance.decentraland.org/proposal/?id=39555ab5-275a-41d0-9d1e-295af263fe78)
 
 ## Grants
 
@@ -57,6 +55,5 @@ Since December 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
-* [Restarting Land Buyback 2.0](https://governance.decentraland.org/proposal/?id=125c733d-e9aa-4e71-97c4-0b0b96c00219)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
