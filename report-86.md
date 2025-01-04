@@ -55,6 +55,5 @@ Since December 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
-* [Council formation centralizes power giving too much control to a few individuals](https://governance.decentraland.org/proposal/?id=1d145efc-06f8-4469-8d64-af06ffbb6d52)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
