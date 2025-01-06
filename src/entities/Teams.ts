@@ -172,3 +172,10 @@ export const RevocationCommittee = new Committee(
   4,
   []
 )
+
+export const DAOCouncilCommittee = new Committee(
+  'DAO Council',
+  'Responsible for providing strategic guidance to the DAO, approving and reviewing annual budgets and treasury management strategies, and overseeing the execution of key projects through DAO operational teams.',
+  5,
+  []
+)
