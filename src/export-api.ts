@@ -56,7 +56,6 @@ function compensateBalances(fixedBalance: BalanceDetails[], subtractingBalance: 
 const sumQuote = (txs: TransactionParsed[]) => txs.reduce((total, tx) => total + tx.quote, 0)
 
 async function main() {
-
   const now = new Date()
   const last30 = new Date(now.getTime() - dayToMillisec(30))
   const last60 = new Date(now.getTime() - dayToMillisec(60))
@@ -107,6 +106,7 @@ async function main() {
     'funding': {
       'total': totalFunding
     },
+    // TODO: Deprecate committees from this file
     'committees': [
       SABCommittee.toJson(),
       DAOCommittee.toJson(),
