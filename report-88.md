@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -31,6 +31,13 @@ Since January 16, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+#### [Login with Solana..](https://governance.decentraland.org/proposal/?id=95584c85-87a7-4a09-89d3-584c4c053ac0)
+
+* Yes Solana 49.31898763622009% 559,735 VP (24 votes)
+* No Solana 46.970821056489925% 533,085 VP (10 votes)
+* Invalid question/options 3.7101913072899775% 42,108 VP (3 votes)
+
+
 
 # Active Proposals
 
@@ -48,6 +55,6 @@ Since January 16, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
-* [Login with Solana..](https://governance.decentraland.org/proposal/?id=95584c85-87a7-4a09-89d3-584c4c053ac0)
+* [Add two more DAO Council positions4 ToxicWaifu&amp; Canessa or Community Ambassadors](https://governance.decentraland.org/proposal/?id=4ec37aa9-bb9c-4c97-bfb3-c42b5ef96959)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

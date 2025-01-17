@@ -55,6 +55,6 @@ Since January 1, 0 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
-* [Login with Solana..](https://governance.decentraland.org/proposal/?id=95584c85-87a7-4a09-89d3-584c4c053ac0)
+* [Add two more DAO Council positions4 ToxicWaifu&amp; Canessa or Community Ambassadors](https://governance.decentraland.org/proposal/?id=4ec37aa9-bb9c-4c97-bfb3-c42b5ef96959)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
