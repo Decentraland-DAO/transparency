@@ -43,6 +43,7 @@ Since January 1, 0 grants have been approved and the vesting contract(s) will be
 
 ## Points of Interest
 
+* 17, -145: [Old Guy BBQ](https://governance.decentraland.org/proposal/?id=29dd1c00-4dd3-4da8-b5cc-12324168e685)
 
 ## Grants
 
@@ -55,5 +56,6 @@ Since January 1, 0 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Should we start to care about MANA price after Vitalik caring the ETH price? ](https://governance.decentraland.org/proposal/?id=c416616c-a42b-4ce1-8bb3-e0000c3823a9)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
