@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -30,6 +30,13 @@ Since January 16, 0 grants have been approved and the vesting contract(s) will b
 
 
 ## Polls
+
+#### [Should we start to care about MANA price after Vitalik caring the ETH price? ](https://governance.decentraland.org/proposal/?id=c416616c-a42b-4ce1-8bb3-e0000c3823a9)
+
+* Yes 71.70859125048864% 755,777 VP (16 votes)
+* No 0.00018976124240480628% 2 VP (1 votes)
+* Invalid question/options 28.291218988268962% 298,177 VP (11 votes)
+
 
 #### [Add two more DAO Council positions4 ToxicWaifu&amp; Canessa or Community Ambassadors](https://governance.decentraland.org/proposal/?id=4ec37aa9-bb9c-4c97-bfb3-c42b5ef96959)
 
@@ -63,6 +70,6 @@ Since January 16, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
-* [Should we start to care about MANA price after Vitalik caring the ETH price? ](https://governance.decentraland.org/proposal/?id=c416616c-a42b-4ce1-8bb3-e0000c3823a9)
+* [Should the postulants be strictly selected from the community only?](https://governance.decentraland.org/proposal/?id=64269bd6-8387-4e61-913d-2c3730a02dd2)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

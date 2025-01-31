@@ -56,6 +56,6 @@ Since January 1, 0 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
-* [Should we start to care about MANA price after Vitalik caring the ETH price? ](https://governance.decentraland.org/proposal/?id=c416616c-a42b-4ce1-8bb3-e0000c3823a9)
+* [Should the postulants be strictly selected from the community only?](https://governance.decentraland.org/proposal/?id=64269bd6-8387-4e61-913d-2c3730a02dd2)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
