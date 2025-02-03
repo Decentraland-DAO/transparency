@@ -69,6 +69,7 @@ Since January 16, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [I don&#39;t believe it&#39;s fair for a Co-Founder (Esteban) to vote with his 8.5M VP!](https://governance.decentraland.org/proposal/?id=4b8c8b49-0406-465f-a7ea-9b86aec34c0a)
 * [Should the postulants be strictly selected from the community only?](https://governance.decentraland.org/proposal/?id=64269bd6-8387-4e61-913d-2c3730a02dd2)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
