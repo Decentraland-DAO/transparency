@@ -69,9 +69,7 @@ Since January 16, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
-* [This prop is a actually a waste of voter time](https://governance.decentraland.org/proposal/?id=1f5f2123-aa6d-46ff-a417-b0ee893fbb73)
-* [Should this Tshirt be funded by Esteban to list for free on marketplace](https://governance.decentraland.org/proposal/?id=24beaa3b-be87-4f66-b473-52a67f061a59)
-* [The Imperative to Limit Excessive Voting Power Held by a Co-Founder](https://governance.decentraland.org/proposal/?id=a01ef864-d628-4865-9ac5-39ed6844e52d)
+* [Remove HPrivakos from DAO committee](https://governance.decentraland.org/proposal/?id=78aadc66-0364-41ee-940d-d19e18f12283)
 * [$20 wearable publish fee](https://governance.decentraland.org/proposal/?id=7537776f-ad46-4ec9-8dbf-bcfaa5e3bf1c)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
