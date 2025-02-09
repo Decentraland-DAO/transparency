@@ -69,7 +69,5 @@ Since January 16, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
-* [Remove HPrivakos from DAO committee](https://governance.decentraland.org/proposal/?id=78aadc66-0364-41ee-940d-d19e18f12283)
-* [$20 wearable publish fee](https://governance.decentraland.org/proposal/?id=7537776f-ad46-4ec9-8dbf-bcfaa5e3bf1c)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
