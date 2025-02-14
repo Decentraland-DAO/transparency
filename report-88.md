@@ -69,5 +69,6 @@ Since January 16, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [helpimstreaming for DAO Townhall Crier](https://governance.decentraland.org/proposal/?id=3603f2cd-97c6-43d3-8158-40a9b1879400)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
