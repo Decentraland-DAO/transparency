@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -31,6 +31,13 @@ Since February 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+#### [helpimstreaming for DAO Townhall Crier](https://governance.decentraland.org/proposal/?id=3603f2cd-97c6-43d3-8158-40a9b1879400)
+
+* Yes 77.1766426608162% 1,157,689 VP (30 votes)
+* No 0.4058528676691659% 6,088 VP (7 votes)
+* Invalid question/options 22.417504471514636% 336,274 VP (5 votes)
+
+
 
 # Active Proposals
 
@@ -48,6 +55,5 @@ Since February 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
-* [helpimstreaming for DAO Townhall Crier](https://governance.decentraland.org/proposal/?id=3603f2cd-97c6-43d3-8158-40a9b1879400)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
