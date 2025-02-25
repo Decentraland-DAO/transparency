@@ -55,5 +55,6 @@ Since February 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [ Lower VP Threshold for POI (Point of Interest) to 500K VP](https://governance.decentraland.org/proposal/?id=4ec6f09a-d121-47cf-bd8f-b9c05e350161)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
