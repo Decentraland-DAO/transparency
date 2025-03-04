@@ -55,6 +55,5 @@ Since February 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
-* [Gamified Autonomous Voting for Decentraland DAO](https://governance.decentraland.org/proposal/?id=cc6931cb-0203-4f9d-9fc5-11de909756a4)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
