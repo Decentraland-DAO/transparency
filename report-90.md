@@ -52,6 +52,8 @@ Since February 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Catalysts
 
+* [Add catalyst node with domain decentraland.org to the catalyst network](https://governance.decentraland.org/proposal/?id=106716dc-f039-4bd5-8ae8-8eecbbca3030)
+* [Add catalyst node with domain decentraland.org to the catalyst network](https://governance.decentraland.org/proposal/?id=685b43a2-d0c6-4bc9-929a-af85a4a0c0ed)
 
 ## Polls
 
