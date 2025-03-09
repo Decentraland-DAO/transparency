@@ -59,6 +59,9 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Catalysts
 
+* [Add catalyst node with domain decentraland.org to the catalyst network](https://governance.decentraland.org/proposal/?id=adb5d7c5-7e70-4385-acae-cfdce4738546)
+* [Add catalyst node with domain decentraland.org to the catalyst network](https://governance.decentraland.org/proposal/?id=e1def09b-fb9f-4bbc-a6eb-3e966996d09a)
+* [Add catalyst node with domain decentraland.org to the catalyst network](https://governance.decentraland.org/proposal/?id=5c6f3235-d698-4207-b5aa-b35babfa6509)
 * [Add catalyst node with domain decentraland.org to the catalyst network](https://governance.decentraland.org/proposal/?id=106716dc-f039-4bd5-8ae8-8eecbbca3030)
 * [Add catalyst node with domain decentraland.org to the catalyst network](https://governance.decentraland.org/proposal/?id=685b43a2-d0c6-4bc9-929a-af85a4a0c0ed)
 
