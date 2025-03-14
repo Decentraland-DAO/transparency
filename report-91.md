@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -30,13 +30,6 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 
 ## Polls
-
-#### [Gamified Autonomous Voting for Decentraland DAO](https://governance.decentraland.org/proposal/?id=cc6931cb-0203-4f9d-9fc5-11de909756a4)
-
-* Yes 28.800703733584637% 339,846 VP (87 votes)
-* No  66.54460369222842% 785,221 VP (48 votes)
-* Invalid question/options 4.654692574186944% 54,925 VP (5 votes)
-
 
 #### [ Lower VP Threshold for POI (Point of Interest) to 500K VP](https://governance.decentraland.org/proposal/?id=4ec6f09a-d121-47cf-bd8f-b9c05e350161)
 
@@ -59,11 +52,6 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Catalysts
 
-* [Add catalyst node with domain decentraland.org to the catalyst network](https://governance.decentraland.org/proposal/?id=adb5d7c5-7e70-4385-acae-cfdce4738546)
-* [Add catalyst node with domain decentraland.org to the catalyst network](https://governance.decentraland.org/proposal/?id=e1def09b-fb9f-4bbc-a6eb-3e966996d09a)
-* [Add catalyst node with domain decentraland.org to the catalyst network](https://governance.decentraland.org/proposal/?id=5c6f3235-d698-4207-b5aa-b35babfa6509)
-* [Add catalyst node with domain decentraland.org to the catalyst network](https://governance.decentraland.org/proposal/?id=106716dc-f039-4bd5-8ae8-8eecbbca3030)
-* [Add catalyst node with domain decentraland.org to the catalyst network](https://governance.decentraland.org/proposal/?id=685b43a2-d0c6-4bc9-929a-af85a4a0c0ed)
 
 ## Polls
 
