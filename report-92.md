@@ -49,6 +49,7 @@ Since March 16, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+* [Decentraland Marketplace Land/Estate Counter Offer Option](https://governance.decentraland.org/proposal/?id=e98d22ca-2e1b-40cd-aa4d-98072f337b3a)
 * [Dynamic Thresholds](https://governance.decentraland.org/proposal/?id=ba6a317e-7133-4c76-baa4-22380c5e5135)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
