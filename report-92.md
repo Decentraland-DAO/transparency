@@ -42,7 +42,6 @@ Since March 16, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Names Bans
 
-* [Ban the name DCLSystem](https://governance.decentraland.org/proposal/?id=6ec2f14e-e85a-48ac-ad31-92e5fb7f1b27)
 
 ## Catalysts
 
