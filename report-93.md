@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -31,13 +31,6 @@ Since April 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
-#### [Dynamic Thresholds](https://governance.decentraland.org/proposal/?id=ba6a317e-7133-4c76-baa4-22380c5e5135)
-
-* No 0.013433310824273362% 149 VP (13 votes)
-* Yes 98.8796258146762% 1,096,756 VP (11 votes)
-* Invalid question/options 1.106940874499519% 12,278 VP (13 votes)
-
-
 
 # Active Proposals
 
@@ -55,6 +48,5 @@ Since April 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
-* [Decentraland Marketplace Land/Estate Counter Offer Option](https://governance.decentraland.org/proposal/?id=e98d22ca-2e1b-40cd-aa4d-98072f337b3a)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
