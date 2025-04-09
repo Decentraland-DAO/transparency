@@ -62,5 +62,7 @@ Since April 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [funding a never ending social media campaign would help decentraland grow ](https://governance.decentraland.org/proposal/?id=3594f3da-3daa-4d17-89ab-ac4efb608790)
+* [Enable Onchain Delegation](https://governance.decentraland.org/proposal/?id=6487a4dc-9403-4268-b000-46722495de79)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
