@@ -62,6 +62,7 @@ Since April 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Implement streaming features.](https://governance.decentraland.org/proposal/?id=acad46a3-ab7f-41bd-a9ed-2963facd7d57)
 * [funding a never ending social media campaign would help decentraland grow ](https://governance.decentraland.org/proposal/?id=3594f3da-3daa-4d17-89ab-ac4efb608790)
 * [Enable Onchain Delegation](https://governance.decentraland.org/proposal/?id=6487a4dc-9403-4268-b000-46722495de79)
 
