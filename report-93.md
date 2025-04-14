@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -30,6 +30,20 @@ Since April 1, 0 grants have been approved and the vesting contract(s) will be e
 
 
 ## Polls
+
+#### [funding a never ending social media campaign would help decentraland grow ](https://governance.decentraland.org/proposal/?id=3594f3da-3daa-4d17-89ab-ac4efb608790)
+
+* Yes 3.9685371471996285% 71,962 VP (13 votes)
+* No 95.92116749838556% 1,739,351 VP (18 votes)
+* Invalid question/options 0.11029535441481972% 2,000 VP (1 votes)
+
+
+#### [Enable Onchain Delegation](https://governance.decentraland.org/proposal/?id=6487a4dc-9403-4268-b000-46722495de79)
+
+* Yes 99.90439217841059% 2,090,924 VP (23 votes)
+* No 0.00004778002078430905% 1 VP (1 votes)
+* Invalid question/options 0.09556004156861808% 2,000 VP (1 votes)
+
 
 #### [Decentraland Marketplace Land/Estate Counter Offer Option](https://governance.decentraland.org/proposal/?id=e98d22ca-2e1b-40cd-aa4d-98072f337b3a)
 
@@ -75,7 +89,5 @@ Since April 1, 0 grants have been approved and the vesting contract(s) will be e
 ## Polls
 
 * [Implement streaming features.](https://governance.decentraland.org/proposal/?id=acad46a3-ab7f-41bd-a9ed-2963facd7d57)
-* [funding a never ending social media campaign would help decentraland grow ](https://governance.decentraland.org/proposal/?id=3594f3da-3daa-4d17-89ab-ac4efb608790)
-* [Enable Onchain Delegation](https://governance.decentraland.org/proposal/?id=6487a4dc-9403-4268-b000-46722495de79)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
