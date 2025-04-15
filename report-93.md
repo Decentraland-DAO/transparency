@@ -64,6 +64,19 @@ Since April 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
+* -99, -7: [AvatarLife Arcade Centre](https://governance.decentraland.org/proposal/?id=1f27f4dc-65a7-4311-a6a8-a5126faa1cb1)
+* -38, 103: [CollecOnline](https://governance.decentraland.org/proposal/?id=9b03cbe5-5edb-41e6-9496-5da103a2fc35)
+* -59, 4: [Large Plaza Roadside Estate](https://governance.decentraland.org/proposal/?id=920d53e9-dd2e-4dae-b4b1-495abcaf7d65)
+* -1, -35: [Sugar Club](https://governance.decentraland.org/proposal/?id=d29aafef-9f18-42f4-b1d6-a294ca3bfbbd)
+* 144, -34: [SpanishMuseum.es](https://governance.decentraland.org/proposal/?id=213ada99-9924-4c61-a802-483d7bb950a2)
+* -29, 55: [Amusement Park with Carnival Games](https://governance.decentraland.org/proposal/?id=4e1fd6f9-2a0b-4767-bb69-d3fefa7bf2e6)
+* 144, -37: [Federated Reserve Pub](https://governance.decentraland.org/proposal/?id=abba6666-0e14-4e0d-b072-d068ed407642)
+* 102, 86: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=0b5076cc-6262-4169-997b-c74990b240d3)
+* 52, 83: [Soho](https://governance.decentraland.org/proposal/?id=8f65fe10-2c07-4b82-a6c8-26666c6310ee)
+* 150, 65: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=ee38f28c-582d-4798-af3f-820b2d15e572)
+* -36, 146: [The Ocean Meta](https://governance.decentraland.org/proposal/?id=39cceb15-1fba-4f08-bb48-503293eea596)
+* 30, -112: [The FMF365 HQ](https://governance.decentraland.org/proposal/?id=1b0277e9-aa10-4f3b-9042-32c72354936e)
+* 22, -118: [YOLO - A journey into the Metaverse. ](https://governance.decentraland.org/proposal/?id=c51f1182-bc37-48a4-83bd-ed3e59492531)
 * 100, 77: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=49a16c8b-892f-4a7d-a7e0-997a364b03cf)
 * 136, 130: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=97728c39-d093-40ea-9d4a-2c517f43be63)
 * -119, 125: [No Name](https://governance.decentraland.org/proposal/?id=934a4d6d-c19c-4e53-a7cd-2e4dbe3c301a)
@@ -88,6 +101,5 @@ Since April 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
-* [Implement streaming features.](https://governance.decentraland.org/proposal/?id=acad46a3-ab7f-41bd-a9ed-2963facd7d57)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
