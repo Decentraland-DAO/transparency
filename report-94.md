@@ -73,6 +73,7 @@ Since April 16, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+* [LAND as Decentralized Computing Nodes in Decentraland](https://governance.decentraland.org/proposal/?id=94bcc64b-e948-44d7-8ae7-8e49dd9cbcb7)
 * [Reduce DAO Committee Salary](https://governance.decentraland.org/proposal/?id=e2df8161-fb89-4c8e-86c0-b6e4205292ed)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
