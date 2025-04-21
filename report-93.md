@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -30,13 +30,6 @@ Since April 1, 0 grants have been approved and the vesting contract(s) will be e
 
 
 ## Polls
-
-#### [funding a never ending social media campaign would help decentraland grow ](https://governance.decentraland.org/proposal/?id=3594f3da-3daa-4d17-89ab-ac4efb608790)
-
-* Yes 3.9685371471996285% 71,962 VP (13 votes)
-* No 95.92116749838556% 1,739,351 VP (18 votes)
-* Invalid question/options 0.11029535441481972% 2,000 VP (1 votes)
-
 
 #### [Enable Onchain Delegation](https://governance.decentraland.org/proposal/?id=6487a4dc-9403-4268-b000-46722495de79)
 
@@ -90,6 +83,5 @@ Since April 1, 0 grants have been approved and the vesting contract(s) will be e
 ## Polls
 
 * [LAND as Decentralized Computing Nodes in Decentraland](https://governance.decentraland.org/proposal/?id=94bcc64b-e948-44d7-8ae7-8e49dd9cbcb7)
-* [Reduce DAO Committee Salary](https://governance.decentraland.org/proposal/?id=e2df8161-fb89-4c8e-86c0-b6e4205292ed)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
