@@ -9,12 +9,96 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 12 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 24 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-12 points of interest have been added to Decentraland’s map since the last report.
+24 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -99, -7: [AvatarLife Arcade Centre](https://governance.decentraland.org/proposal/?id=1f27f4dc-65a7-4311-a6a8-a5126faa1cb1)
+
+* Yes 99.16557385464745% 2,124,910 VP (26 votes)
+* No 0.8344261453525544% 17,880 VP (1 votes)
+* Abstain 0% 0 VP (0 votes)
+
+
+#### -38, 103: [CollecOnline](https://governance.decentraland.org/proposal/?id=9b03cbe5-5edb-41e6-9496-5da103a2fc35)
+
+* Yes 99.13595536075385% 2,051,687 VP (24 votes)
+* No 0.8639480007673095% 17,880 VP (1 votes)
+* Abstain 0.00009663847883303238% 2 VP (1 votes)
+
+
+#### -59, 4: [Large Plaza Roadside Estate](https://governance.decentraland.org/proposal/?id=920d53e9-dd2e-4dae-b4b1-495abcaf7d65)
+
+* Yes 99.0300999897477% 1,825,609 VP (22 votes)
+* No 0.9699000102522988% 17,880 VP (1 votes)
+* Abstain 0% 0 VP (0 votes)
+
+
+#### 144, -34: [SpanishMuseum.es](https://governance.decentraland.org/proposal/?id=213ada99-9924-4c61-a802-483d7bb950a2)
+
+* Yes 99.13271455977261% 2,043,725 VP (20 votes)
+* No 0.8672854402273956% 17,880 VP (1 votes)
+* Abstain 0% 0 VP (0 votes)
+
+
+#### -29, 55: [Amusement Park with Carnival Games](https://governance.decentraland.org/proposal/?id=4e1fd6f9-2a0b-4767-bb69-d3fefa7bf2e6)
+
+* Yes 69.5015867394887% 1,275,719 VP (16 votes)
+* No 30.4984132605113% 559,806 VP (3 votes)
+* Abstain 0% 0 VP (0 votes)
+
+
+#### 144, -37: [Federated Reserve Pub](https://governance.decentraland.org/proposal/?id=abba6666-0e14-4e0d-b072-d068ed407642)
+
+* Yes 99.13603697065957% 2,051,653 VP (19 votes)
+* No 0.8639630293404357% 17,880 VP (1 votes)
+* Abstain 0% 0 VP (0 votes)
+
+
+#### 102, 86: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=0b5076cc-6262-4169-997b-c74990b240d3)
+
+* Yes 71.98160191770552% 1,326,947 VP (17 votes)
+* No 28.01839808229448% 516,506 VP (2 votes)
+* Abstain 0% 0 VP (0 votes)
+
+
+#### 52, 83: [Soho](https://governance.decentraland.org/proposal/?id=8f65fe10-2c07-4b82-a6c8-26666c6310ee)
+
+* Yes 98.60001855214101% 1,817,645 VP (16 votes)
+* No 0.969918951012041% 17,880 VP (1 votes)
+* Abstain 0.43006249684694975% 7,928 VP (1 votes)
+
+
+#### 150, 65: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=ee38f28c-582d-4798-af3f-820b2d15e572)
+
+* Yes 99.03008104898797% 1,825,573 VP (15 votes)
+* No 0.969918951012041% 17,880 VP (1 votes)
+* Abstain 0% 0 VP (0 votes)
+
+
+#### -36, 146: [The Ocean Meta](https://governance.decentraland.org/proposal/?id=39cceb15-1fba-4f08-bb48-503293eea596)
+
+* Yes 71.98160191770552% 1,326,947 VP (14 votes)
+* No 28.01839808229448% 516,506 VP (2 votes)
+* Abstain 0% 0 VP (0 votes)
+
+
+#### 30, -112: [The FMF365 HQ](https://governance.decentraland.org/proposal/?id=1b0277e9-aa10-4f3b-9042-32c72354936e)
+
+* Yes 98.62067880590828% 1,818,016 VP (13 votes)
+* No 1.008113622173292% 18,584 VP (2 votes)
+* Abstain 0.3712075719184157% 6,843 VP (1 votes)
+
+
+#### 22, -118: [YOLO - A journey into the Metaverse. ](https://governance.decentraland.org/proposal/?id=c51f1182-bc37-48a4-83bd-ed3e59492531)
+
+* Yes 71.8587297401553% 1,318,898 VP (12 votes)
+* No 28.141270259844696% 516,506 VP (2 votes)
+* Abstain 0% 0 VP (0 votes)
 
 
 #### 100, 77: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=49a16c8b-892f-4a7d-a7e0-997a364b03cf)
@@ -127,19 +211,6 @@ Since April 16, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
-* -99, -7: [AvatarLife Arcade Centre](https://governance.decentraland.org/proposal/?id=1f27f4dc-65a7-4311-a6a8-a5126faa1cb1)
-* -38, 103: [CollecOnline](https://governance.decentraland.org/proposal/?id=9b03cbe5-5edb-41e6-9496-5da103a2fc35)
-* -59, 4: [Large Plaza Roadside Estate](https://governance.decentraland.org/proposal/?id=920d53e9-dd2e-4dae-b4b1-495abcaf7d65)
-* -1, -35: [Sugar Club](https://governance.decentraland.org/proposal/?id=d29aafef-9f18-42f4-b1d6-a294ca3bfbbd)
-* 144, -34: [SpanishMuseum.es](https://governance.decentraland.org/proposal/?id=213ada99-9924-4c61-a802-483d7bb950a2)
-* -29, 55: [Amusement Park with Carnival Games](https://governance.decentraland.org/proposal/?id=4e1fd6f9-2a0b-4767-bb69-d3fefa7bf2e6)
-* 144, -37: [Federated Reserve Pub](https://governance.decentraland.org/proposal/?id=abba6666-0e14-4e0d-b072-d068ed407642)
-* 102, 86: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=0b5076cc-6262-4169-997b-c74990b240d3)
-* 52, 83: [Soho](https://governance.decentraland.org/proposal/?id=8f65fe10-2c07-4b82-a6c8-26666c6310ee)
-* 150, 65: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=ee38f28c-582d-4798-af3f-820b2d15e572)
-* -36, 146: [The Ocean Meta](https://governance.decentraland.org/proposal/?id=39cceb15-1fba-4f08-bb48-503293eea596)
-* 30, -112: [The FMF365 HQ](https://governance.decentraland.org/proposal/?id=1b0277e9-aa10-4f3b-9042-32c72354936e)
-* 22, -118: [YOLO - A journey into the Metaverse. ](https://governance.decentraland.org/proposal/?id=c51f1182-bc37-48a4-83bd-ed3e59492531)
 
 ## Grants
 
@@ -152,6 +223,5 @@ Since April 16, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
-* [LAND as Decentralized Computing Nodes in Decentraland](https://governance.decentraland.org/proposal/?id=94bcc64b-e948-44d7-8ae7-8e49dd9cbcb7)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
