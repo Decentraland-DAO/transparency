@@ -57,6 +57,7 @@ Since April 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
+* -27, -46: [No Name](https://governance.decentraland.org/proposal/?id=3f923684-5546-493a-912c-cb8e8607f51c)
 
 ## Grants
 
