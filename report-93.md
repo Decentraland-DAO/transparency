@@ -57,6 +57,8 @@ Since April 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
+* -150, 93: [La Cantina Village](https://governance.decentraland.org/proposal/?id=8987789a-134b-42e0-bf30-59e1d0db3ccf)
+* -89, -85: [Decentraland Community Plaza](https://governance.decentraland.org/proposal/?id=8e6150fb-22bc-44f9-8a60-f21bc805bec6)
 * -27, -46: [No Name](https://governance.decentraland.org/proposal/?id=3f923684-5546-493a-912c-cb8e8607f51c)
 
 ## Grants
