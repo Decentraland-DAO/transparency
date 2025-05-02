@@ -9,12 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 24 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 25 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-24 points of interest have been added to Decentraland’s map since the last report.
+25 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -27, -46: [No Name](https://governance.decentraland.org/proposal/?id=3f923684-5546-493a-912c-cb8e8607f51c)
+
+* Yes 99.82352501308607% 1,134,699 VP (23 votes)
+* No 0.0005278414364324956% 6 VP (2 votes)
+* Abstain 0.17594714547749857% 2,000 VP (1 votes)
 
 
 #### -99, -7: [AvatarLife Arcade Centre](https://governance.decentraland.org/proposal/?id=1f27f4dc-65a7-4311-a6a8-a5126faa1cb1)
@@ -213,7 +220,6 @@ Since April 16, 0 grants have been approved and the vesting contract(s) will be 
 
 * -150, 93: [La Cantina Village](https://governance.decentraland.org/proposal/?id=8987789a-134b-42e0-bf30-59e1d0db3ccf)
 * -89, -85: [Decentraland Community Plaza](https://governance.decentraland.org/proposal/?id=8e6150fb-22bc-44f9-8a60-f21bc805bec6)
-* -27, -46: [No Name](https://governance.decentraland.org/proposal/?id=3f923684-5546-493a-912c-cb8e8607f51c)
 
 ## Grants
 
@@ -226,5 +232,6 @@ Since April 16, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+* [Create an RFI Process to Obtain Information from DAO Officials](https://governance.decentraland.org/proposal/?id=c1d3a1ae-c83d-4244-98ef-4a12d7d9567e)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
