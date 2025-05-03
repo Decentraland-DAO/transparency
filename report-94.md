@@ -226,6 +226,7 @@ Since April 16, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Names Bans
 
+* [Ban the name hacker](https://governance.decentraland.org/proposal/?id=6919cf5e-525b-4412-b178-a6190d770352)
 
 ## Catalysts
 
