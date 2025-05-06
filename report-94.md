@@ -218,6 +218,7 @@ Since April 16, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
+* 145, 60: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=cf6e5067-1369-4d53-a227-36ff385cbcca)
 * 2, -39: [Edifice Metaversal](https://governance.decentraland.org/proposal/?id=901240fd-2a1d-426c-9956-5f59da582bca)
 * -61, 119: [Petaverse](https://governance.decentraland.org/proposal/?id=11f29f6a-9cac-4a3a-ad60-a07595289db7)
 * 48, -4: [卧龍（1261993598@qq.com）@卧龍#4569 on Discord](https://governance.decentraland.org/proposal/?id=6af59f2d-1eb9-4f82-abac-a50413b79819)
@@ -238,8 +239,6 @@ Since April 16, 0 grants have been approved and the vesting contract(s) will be 
 * 16, 83: [Decentraland Museum](https://governance.decentraland.org/proposal/?id=ce3ea6d6-0058-48b8-b8df-78b9f874395c)
 * -62, 128: [Hen.world - Meta&#39;s 1st Health Info Center](https://governance.decentraland.org/proposal/?id=1808a3af-0b3b-48ee-8ec5-0d741077e2dc)
 * 1, 95: [Decentraland Conference Center](https://governance.decentraland.org/proposal/?id=e3953dbc-4ca0-4eed-a728-3ad24a7f8787)
-* -150, 93: [La Cantina Village](https://governance.decentraland.org/proposal/?id=8987789a-134b-42e0-bf30-59e1d0db3ccf)
-* -89, -85: [Decentraland Community Plaza](https://governance.decentraland.org/proposal/?id=8e6150fb-22bc-44f9-8a60-f21bc805bec6)
 
 ## Grants
 
