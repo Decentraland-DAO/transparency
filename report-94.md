@@ -252,6 +252,5 @@ Since April 16, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
-* [Create an RFI Process to Obtain Information from DAO Officials](https://governance.decentraland.org/proposal/?id=c1d3a1ae-c83d-4244-98ef-4a12d7d9567e)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -44,6 +44,13 @@ Since May 1, 0 grants have been approved and the vesting contract(s) will be est
 
 
 ## Polls
+
+#### [Create an RFI Process to Obtain Information from DAO Officials](https://governance.decentraland.org/proposal/?id=c1d3a1ae-c83d-4244-98ef-4a12d7d9567e)
+
+* YES 64.73365635945972% 1,312,337 VP (17 votes)
+* NO 0.16031277268586044% 3,250 VP (1 votes)
+* Invalid question/options 35.10603086785443% 711,700 VP (1 votes)
+
 
 
 # Active Proposals
@@ -84,6 +91,5 @@ Since May 1, 0 grants have been approved and the vesting contract(s) will be est
 
 ## Polls
 
-* [Create an RFI Process to Obtain Information from DAO Officials](https://governance.decentraland.org/proposal/?id=c1d3a1ae-c83d-4244-98ef-4a12d7d9567e)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
