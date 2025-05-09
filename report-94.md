@@ -218,6 +218,7 @@ Since April 16, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
+* 124, -15: [Haus of Daybed](https://governance.decentraland.org/proposal/?id=fcdec67e-521e-46d6-b3c0-143ad2fc3b72)
 * 145, 60: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=cf6e5067-1369-4d53-a227-36ff385cbcca)
 * 2, -39: [Edifice Metaversal](https://governance.decentraland.org/proposal/?id=901240fd-2a1d-426c-9956-5f59da582bca)
 * -61, 119: [Petaverse](https://governance.decentraland.org/proposal/?id=11f29f6a-9cac-4a3a-ad60-a07595289db7)
