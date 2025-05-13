@@ -219,7 +219,6 @@ Since April 16, 0 grants have been approved and the vesting contract(s) will be 
 ## Points of Interest
 
 * 124, -15: [Haus of Daybed](https://governance.decentraland.org/proposal/?id=fcdec67e-521e-46d6-b3c0-143ad2fc3b72)
-* 145, 60: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=cf6e5067-1369-4d53-a227-36ff385cbcca)
 
 ## Grants
 

@@ -9,12 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 18 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 19 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-18 points of interest have been added to Decentraland’s map since the last report.
+19 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 145, 60: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=cf6e5067-1369-4d53-a227-36ff385cbcca)
+
+* Yes 98.81438213375843% 1,285,001 VP (25 votes)
+* No 0% 0 VP (0 votes)
+* Abstain 1.1856178662415728% 15,418 VP (2 votes)
 
 
 #### 2, -39: [Edifice Metaversal](https://governance.decentraland.org/proposal/?id=901240fd-2a1d-426c-9956-5f59da582bca)
@@ -170,7 +177,6 @@ Since May 1, 0 grants have been approved and the vesting contract(s) will be est
 ## Points of Interest
 
 * 124, -15: [Haus of Daybed](https://governance.decentraland.org/proposal/?id=fcdec67e-521e-46d6-b3c0-143ad2fc3b72)
-* 145, 60: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=cf6e5067-1369-4d53-a227-36ff385cbcca)
 
 ## Grants
 
