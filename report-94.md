@@ -218,7 +218,6 @@ Since April 16, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
-* 124, -15: [Haus of Daybed](https://governance.decentraland.org/proposal/?id=fcdec67e-521e-46d6-b3c0-143ad2fc3b72)
 
 ## Grants
 
