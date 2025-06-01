@@ -56,5 +56,6 @@ Since May 16, 0 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+* [NAMEs / DCLWorlds Delegations](https://governance.decentraland.org/proposal/?id=f0d29024-3cb8-43a3-9569-c9919363ee01)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
