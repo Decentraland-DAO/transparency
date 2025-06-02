@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -30,13 +30,6 @@ Since May 16, 0 grants have been approved and the vesting contract(s) will be es
 
 
 ## Polls
-
-#### [Should we allow deploying content on abandoned LAND preserving owner rights?](https://governance.decentraland.org/proposal/?id=08a044de-648d-43f9-8cd5-df7ee5a35c17)
-
-* Yes, I’d like to allow fresh content to be deployed on &#34;abandoned&#34; LANDs  32.39372811424089% 1,432,209 VP (27 votes)
-* No, I don&#39;t think this is a good idea. 67.13294463516459% 2,968,118 VP (43 votes)
-* Invalid question/options 0.47332725059451464% 20,927 VP (3 votes)
-
 
 
 # Active Proposals
