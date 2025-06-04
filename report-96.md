@@ -42,7 +42,6 @@ Since May 16, 0 grants have been approved and the vesting contract(s) will be es
 
 ## Names Bans
 
-* [Ban the name Yemei](https://governance.decentraland.org/proposal/?id=0c09d218-da2d-49dc-83bd-14500e9ce999)
 
 ## Catalysts
 
