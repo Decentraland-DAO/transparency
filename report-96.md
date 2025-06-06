@@ -48,5 +48,6 @@ Since May 16, 0 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+* [Should We Disband the Ineffective Council and Explore Better Alternatives?](https://governance.decentraland.org/proposal/?id=1a5fa5bf-ff6a-4f9d-998f-0ecb4b60d22d)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
