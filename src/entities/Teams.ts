@@ -86,7 +86,7 @@ export const DAOCommittee = new Committee(
 export const CurationCommittee = new Committee(
   'Wearable Curation Committee',
   'Responsible for reviewing new wearable submissions ensuring they are glitch-free and compliant with the design guidelines. They also rise warnings about IP infringement and violent content.',
-  15,
+  100,
   [
     {
       address: '0x8938d1f65abe7750b0777206ee26c974a6721194',
