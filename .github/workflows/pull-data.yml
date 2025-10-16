@@ -2,7 +2,7 @@ name: Pull Data
 
 on:
   schedule:
-    - cron: '0 10 * * *'
+   - cron: '0 10 * * *'
   workflow_dispatch:
     inputs:
       choice:
@@ -12,6 +12,7 @@ on:
           - reduced
           - full
         default: full
+
 permissions:
   contents: write
 
@@ -19,11 +20,11 @@ jobs:
   export:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: '18'
-      - run: npm install
+      - run: npm ci
 
       - name: Pull Proposals
         env:
@@ -60,32 +61,32 @@ jobs:
           npx ts-node ./src/upload.ts Balances ./public/balances.csv
           npx ts-node ./src/upload.ts BalanceHistory ./public/balances.csv --append
 
-      #      - name: Pull Projects
-      #        env:
-      #          ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
-      #          ALCHEMY_API_KEY: ${{ secrets.ALCHEMY_API_KEY }}
-      #          COIN_GECKO_API_KEY: ${{ secrets.COIN_GECKO_API_KEY }}
-      #          ALCHEMY_URL: ${{ secrets.ALCHEMY_URL }}
-      #          SHEET_ID: ${{ secrets.SHEET_ID }}
-      #          SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
-      #          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
-      #        run: |
-      #          npx ts-node ./src/export-projects.ts
-      #          npx ts-node ./src/upload.ts Projects ./public/projects.csv
-      #          npx ts-node ./src/upload.ts Vestings ./public/vestings.csv
+      - name: Pull Projects
+        env:
+          ROLLBAR_ACCESS_TOKEN: ${{ secrets.RROLLBAR_ACCESS_TOKEN }}
+          ALCHEMY_API_KEY: ${{ secrets.ALCHEMY_API_KEY }}
+          COIN_GECKO_API_KEY: ${{ secrets.COIN_GECKO_API_KEY }}
+          ALCHEMY_URL: ${{ secrets.ALCHEMY_URL }}
+          SHEET_ID: ${{ secrets.SHEET_ID }}
+          SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
+          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
+        run: |
+          npx ts-node ./src/export-projects.ts
+          npx ts-node ./src/upload.ts Projects ./public/projects.csv
+          npx ts-node ./src/upload.ts Vestings ./public/vestings.csv
 
-      #      - name: Pull Transactions
-      #        env:
-      #          ALCHEMY_API_KEY: ${{ secrets.ALCHEMY_API_KEY }}
-      #          COIN_GECKO_API_KEY: ${{ secrets.COIN_GECKO_API_KEY }}
-      #          DECENTRALAND_DATA_URL: https://data.decentraland.vote/
-      #          SHEET_ID: ${{ secrets.SHEET_ID }}
-      #          SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
-      #          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
-      #          ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
-      #        run: |
-      #          npx ts-node ./src/export-transactions.ts --${{ github.event.inputs.choice }}
-      #          npx ts-node ./src/upload.ts Transactions ./public/transactions.csv
+      - name: Pull Transactions
+        env:
+          ALCHEMY_API_KEY: ${{ secrets.ALCHEMY_API_KEY }}
+          COIN_GECKO_API_KEY: ${{ secrets.COIN_GECKO_API_KEY }}
+          DECENTRALAND_DATA_URL: https://data.decentraland.vote/
+          SHEET_ID: ${{ secrets.SHEET_ID }}
+          SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
+          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
+          ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
+        run: |
+          npx ts-node ./src/export-transactions.ts --${{ github.event.inputs.choice }}
+          npx ts-node ./src/upload.ts Transactions ./public/transactions.csv
 
       - name: Pull Collections
         env:
@@ -139,17 +140,6 @@ jobs:
           npx ts-node ./src/export-financials.ts
           npx ts-node ./src/upload.ts Financials ./public/financials.csv
 
-      #      - name: Export KPIs
-      #        env:
-      #          NODE_OPTIONS: "--max-old-space-size=8192"
-      #          SHEET_ID: ${{ secrets.SHEET_ID }}
-      #          SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
-      #          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
-      #          ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
-      #        run: |
-      #          npx ts-node ./src/export-kpis.ts
-      #          npx ts-node ./src/upload.ts KPIs ./public/kpis.json
-
       - name: Export API
         env:
           NODE_OPTIONS: "--max-old-space-size=8192"
@@ -160,6 +150,10 @@ jobs:
             mkdir -p public
             mv ./api.json ./public/api.json
           fi
+
+      - name: List public folder
+        run: ls -lah public
+
       - name: Export Report
         env:
           ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
@@ -181,7 +175,7 @@ jobs:
             rm ./public/transactions.json
             echo "transactions.json successfully removed."
           else
-          echo "The file transactions.json does not exist in the ./public directory."
+            echo "The file transactions.json does not exist in the ./public directory."
           fi
           if [ -f ./public/transactions.csv ]; then
             rm ./public/transactions.csv
@@ -197,5 +191,3 @@ jobs:
           clean: false
           branch: gf-pages
           folder: public
-          
-          
