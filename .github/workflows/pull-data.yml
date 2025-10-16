@@ -12,6 +12,8 @@ on:
           - reduced
           - full
         default: full
+permissions:
+  contents: write
 
 jobs:
   export:
@@ -189,7 +191,7 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4.2.2
         with:
           clean: false
-          branch: gh-pages
+          branch: gf-pages
           folder: public
-          token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          
           
