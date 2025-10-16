@@ -13,6 +13,9 @@ on:
           - full
         default: full
 
+permissions:
+  contents: write
+
 jobs:
   export:
     runs-on: ubuntu-latest
@@ -191,5 +194,4 @@ jobs:
           clean: false
           branch: gh-pages
           folder: public
-          token: ${{ secrets.BOT_GITHUB_TOKEN }}
           
