@@ -150,12 +150,16 @@ jobs:
       #          npx ts-node ./src/export-kpis.ts
       #          npx ts-node ./src/upload.ts KPIs ./public/kpis.json
 
-      #      - name: Export API
-      #        env:
-      #          NODE_OPTIONS: "--max-old-space-size=8192"
-      #          ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
-      #        run: npx ts-node ./src/export-api.ts
-
+      - name: Export API
+        env:
+          NODE_OPTIONS: "--max-old-space-size=8192"
+          ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
+        run: |
+          npx ts-node ./src/export-api.ts
+          if [ ! -f ./public/api.json ] && [ -f ./api.json ]; then
+            mkdir -p public
+            mv ./api.json ./public/api.json
+          fi
       - name: Export Report
         env:
           ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
