@@ -60,25 +60,35 @@ export const SABCommittee = new Committee(
   ]
 )
 
-export const DAOCommittee = new Committee(
-  'DAO Committee',
-  'Their principal responsibility is to enact binding proposals on-chain like listing Point of Interests, sending Grants, and any other operations involving the DAO\'s smart contracts.',
-  3,
+export const DAOCouncilCommittee = new Committee(
+  'DAO Council',
+  'Responsible for providing strategic guidance to the DAO, reviewing and approving annual budgets and treasury management strategies, and overseeing the execution of key projects through the DAO\'s executive arm, DCL Regenesis Labs.',
+  5,
   [
     {
-      address: '0xbef99f5f55cf7cdb3a70998c57061b7e1386a9b0',
-      name: 'Kyllian',
-      avatar: 'https://peer.decentraland.org/content/contents/bafkreig4ckv7k7ga7niptdw2wsv2u565r6hb5dwzprhavoa3yyoftjrvni'
+      address: '0x5b5cc427c1D81Db4F94DE4d51D85ce122D63E244',
+      name: 'Fehz',
+      avatar: 'https://profile-images-bucket-43d0c58.s3.us-east-1.amazonaws.com/v1/entities/bafkreiexuj64wzcld442sppax3dsijnfev6adesfbulr7s2umpqvtk7a3u/face.png'
     },
     {
-      address: '0x88013D7eD946dD8292268a6FF69165a97A89a639',
-      name: 'Tobik',
-      avatar: 'https://peer.decentraland.org/content/contents/bafkreif25t6mav5bgkajwr6l6wptzh5lkmonuw7pzricrin6fyhoazfruu'
+      address: '0x8DD060AD7f867ad890490fd87657c1b7e63C622f',
+      name: 'Jungle',
+      avatar: 'https://profile-images-bucket-43d0c58.s3.us-east-1.amazonaws.com/v1/entities/bafkreid6eptd2cjjq3tqewmlyknuhbjvselr644royhpav7hamjr7qaqiq/face.png'
     },
     {
-      address: '0xd6c957f9a6411f35d01baae2658758f277408878',
-      name: 'RizkGh',
-      avatar: 'https://peer.decentraland.org/content/contents/bafkreidnd3mgh25roc6g4scwkidkbo5pdr2w3lqpjecrnadx6dns72ojdy'
+      address: '0xd6eFf8F07cAF3443A1178407d3de4129149D6eF6',
+      name: 'Canessa',
+      avatar: 'https://profile-images-bucket-43d0c58.s3.us-east-1.amazonaws.com/v1/entities/bafkreicvsh4txf2k6kolgubd5f774gzqoebclliko74k3plib7by2uvgkq/face.png'
+    },
+    {
+      address: '0x3f6b1d01b6823ab235fc343069b62b6472774cd1',
+      name: 'MetaRyuk',
+      avatar: 'https://decentraland.org/images/male.png'
+    },
+    {
+      address: '0x7a7280E299B79b7BD14D7501e3a03a0B77541622',
+      name: 'Monotributista',
+      avatar: 'https://profile-images-bucket-43d0c58.s3.us-east-1.amazonaws.com/v1/entities/bafkreifh2g5ouyjxu2lqif6bymkq7vxdmdpv4sgvokbwcaygn2uzh3stve/face.png'
     }
   ]
 )
@@ -164,18 +174,4 @@ export const CurationCommittee = new Committee(
       avatar: 'https://peer.decentraland.org/content/contents/bafkreidrquum4l7dymzhodvzctjaj2odhtp6lxjjn6rkoefy5jr6qycsey'
     }
   ]
-)
-
-export const RevocationCommittee = new Committee(
-  'Revocation Committee',
-  'Responsible for reviewing cases raised by the community regarding Grants Program that raise concerns. After an assessment, they decide if a Grant has to be revoked or not. They also make recommendations for changes in the Grants Program when identifying improvements.',
-  4,
-  []
-)
-
-export const DAOCouncilCommittee = new Committee(
-  'DAO Council',
-  'Responsible for providing strategic guidance to the DAO, approving and reviewing annual budgets and treasury management strategies, and overseeing the execution of key projects through DAO operational teams.',
-  5,
-  []
 )
