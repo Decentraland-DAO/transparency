@@ -61,19 +61,19 @@ jobs:
           npx ts-node ./src/upload.ts Balances ./public/balances.csv
           npx ts-node ./src/upload.ts BalanceHistory ./public/balances.csv --append
 
-      #      - name: Pull Projects
-      #        env:
-      #          ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
-      #          ALCHEMY_API_KEY: ${{ secrets.ALCHEMY_API_KEY }}
-      #          COIN_GECKO_API_KEY: ${{ secrets.COIN_GECKO_API_KEY }}
-      #          ALCHEMY_URL: ${{ secrets.ALCHEMY_URL }}
-      #          SHEET_ID: ${{ secrets.SHEET_ID }}
-      #          SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
-      #          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
-      #        run: |
-      #          npx ts-node ./src/export-projects.ts
-      #          npx ts-node ./src/upload.ts Projects ./public/projects.csv
-      #          npx ts-node ./src/upload.ts Vestings ./public/vestings.csv
+      - name: Pull Projects
+        env:
+          ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
+          ALCHEMY_API_KEY: ${{ secrets.ALCHEMY_API_KEY }}
+          COIN_GECKO_API_KEY: ${{ secrets.COIN_GECKO_API_KEY }}
+          ALCHEMY_URL: ${{ secrets.ALCHEMY_URL }}
+          SHEET_ID: ${{ secrets.SHEET_ID }}
+          SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
+          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
+        run: |
+          npx ts-node ./src/export-projects.ts
+          npx ts-node ./src/upload.ts Projects ./public/projects.csv
+          npx ts-node ./src/upload.ts Vestings ./public/vestings.csv
 
       #      - name: Pull Transactions
       #        env:
@@ -151,11 +151,11 @@ jobs:
       #          npx ts-node ./src/export-kpis.ts
       #          npx ts-node ./src/upload.ts KPIs ./public/kpis.json
 
-      #      - name: Export API
-      #        env:
-      #          NODE_OPTIONS: "--max-old-space-size=8192"
-      #          ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
-      #        run: npx ts-node ./src/export-api.ts
+      - name: Export API
+        env:
+          NODE_OPTIONS: "--max-old-space-size=8192"
+          ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
+        run: npx ts-node ./src/export-api.ts
 
       - name: Export Report
         env:
@@ -194,4 +194,3 @@ jobs:
           clean: false
           branch: gh-pages
           folder: public
-          
