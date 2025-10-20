@@ -2,7 +2,7 @@ import BALANCES from '../public/balances.json'
 import PROJECTS from '../public/projects.json'
 import TRANSACTIONS from '../public/transactions.json'
 import { TagCategoryType, Tags } from './entities/Tags'
-import { CurationCommittee, DAOCommittee, DAOCouncilCommittee, RevocationCommittee, SABCommittee } from './entities/Teams'
+import { CurationCommittee, DAOCouncilCommittee, SABCommittee } from './entities/Teams'
 import { TransactionParsed } from './export-transactions'
 import { BalanceDetails } from './interfaces/Api'
 import { Status } from './interfaces/GovernanceProposal'
@@ -109,9 +109,7 @@ async function main() {
     // TODO: Deprecate committees from this file
     'committees': [
       SABCommittee.toJson(),
-      DAOCommittee.toJson(),
       CurationCommittee.toJson(),
-      RevocationCommittee.toJson(),
       DAOCouncilCommittee.toJson()
     ]
   }
