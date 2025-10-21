@@ -75,18 +75,18 @@ jobs:
           npx ts-node ./src/upload.ts Projects ./public/projects.csv
           npx ts-node ./src/upload.ts Vestings ./public/vestings.csv
 
-      #      - name: Pull Transactions
-      #        env:
-      #          ALCHEMY_API_KEY: ${{ secrets.ALCHEMY_API_KEY }}
-      #          COIN_GECKO_API_KEY: ${{ secrets.COIN_GECKO_API_KEY }}
-      #          DECENTRALAND_DATA_URL: https://data.decentraland.vote/
-      #          SHEET_ID: ${{ secrets.SHEET_ID }}
-      #          SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
-      #          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
-      #          ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
-      #        run: |
-      #          npx ts-node ./src/export-transactions.ts --${{ github.event.inputs.choice }}
-      #          npx ts-node ./src/upload.ts Transactions ./public/transactions.csv
+      - name: Pull Transactions
+        env:
+          ALCHEMY_API_KEY: ${{ secrets.ALCHEMY_API_KEY }}
+          COIN_GECKO_API_KEY: ${{ secrets.COIN_GECKO_API_KEY }}
+          DECENTRALAND_DATA_URL: https://data.decentraland.vote/
+          SHEET_ID: ${{ secrets.SHEET_ID }}
+          SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
+          SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
+          ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
+        run: |
+          npx ts-node ./src/export-transactions.ts --${{ github.event.inputs.choice }}
+          npx ts-node ./src/upload.ts Transactions ./public/transactions.csv
 
       - name: Pull Collections
         env:
