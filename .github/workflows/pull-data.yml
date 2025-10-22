@@ -26,6 +26,11 @@ jobs:
           node-version: '18'
       - run: npm install
 
+      - name: Export Teams
+        env:
+          ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
+        run: npx ts-node ./src/export-teams.ts
+
       - name: Pull Proposals
         env:
           SHEET_ID: ${{ secrets.SHEET_ID }}
@@ -166,11 +171,6 @@ jobs:
         env:
           ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
         run: npx ts-node ./src/export-budgets.ts
-
-      - name: Export Teams
-        env:
-          ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
-        run: npx ts-node ./src/export-teams.ts
 
       - name: Remove transactions.json & transactions.csv
         run: |
