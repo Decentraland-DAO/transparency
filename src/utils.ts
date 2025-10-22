@@ -26,7 +26,7 @@ require('dotenv').config()
 export const ROLLBAR_ACCESS_TOKEN = process.env.ROLLBAR_ACCESS_TOKEN
 export const COVALENT_API_KEY = process.env.COVALENTHQ_API_KEY
 export const ALCHEMY_URL = process.env.ALCHEMY_URL
-export const DECENTRALAND_DATA_URL = process.env.DECENTRALAND_DATA_URL
+export const DECENTRALAND_DATA_URL = 'https://decentraland-dao.github.io/transparency' || process.env.DECENTRALAND_DATA_URL
 export const THE_GRAPH_API_KEY = process.env.THE_GRAPH_API_KEY
 export const MEMBER_VOTE_VP_THRESHOLD = 5
 const COVALENT_RATE_LIMIT = 12000
