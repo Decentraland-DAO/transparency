@@ -169,6 +169,20 @@ jobs:
           ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
         run: npx ts-node ./src/export-teams.ts
 
+      - name: Build API v2 -> public/api-v2.json
+        env:
+          DCL_SUBGRAPH_API_KEY: ${{ secrets.DCL_SUBGRAPH_API_KEY }}
+          ALCHEMY_ETH_URL: ${{ secrets.ALCHEMY_ETH_URL }}
+        run: |
+          set -e
+          mkdir -p ./public
+          npx ts-node ./src/export-api-v2.ts
+          if [ ! -f ./public/api-v2.json ]; then
+            echo "Error: export-api-v2.ts did not generate ./public/api-v2.json" >&2
+            exit 1
+          fi
+          echo "api-v2.json successfully generated in ./public"
+           
       - name: Remove transactions.json & transactions.csv
         run: |
           if [ -f ./public/transactions.json ]; then
