@@ -1,6 +1,5 @@
 import path from 'path'
 import fs from 'fs'
-// import fetch, { Response as FetchResponse } from 'node-fetch'
 type FetchResponse = Response
 /** CONFIG / CONSTANTS */
 const DCL_SUBGRAPH_API_KEY = process.env.DCL_SUBGRAPH_API_KEY || 'b53c670e2e03f823f46ab1b2087835c6'
@@ -599,7 +598,7 @@ async function updateIncome(): Promise<void> {
   }
 
   fs.writeFileSync(OUT_PATH, JSON.stringify(out, null, 2))
-  console.log('[updateIncome] income actualizado en', OUT_PATH)
+  console.log('[updateIncome] income ', OUT_PATH)
 }
 
 
