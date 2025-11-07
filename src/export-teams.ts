@@ -1,13 +1,11 @@
-import { CurationCommittee, DAOCommittee, DAOCouncilCommittee, RevocationCommittee, SABCommittee } from './entities/Teams'
+import { CurationCommittee, DAOCouncilCommittee, SABCommittee } from './entities/Teams'
 import { reportToRollbarAndThrow, saveToJSON } from './utils'
 
 async function main() {
   const data = {
     'committees': [
       SABCommittee.toJson(),
-      DAOCommittee.toJson(),
       CurationCommittee.toJson(),
-      RevocationCommittee.toJson(),
       DAOCouncilCommittee.toJson()
     ]
   }
