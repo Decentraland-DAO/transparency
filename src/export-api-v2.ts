@@ -2,17 +2,17 @@ import path from 'path'
 import fs from 'fs'
 type FetchResponse = Response
 /** CONFIG / CONSTANTS */
-const DCL_SUBGRAPH_API_KEY = process.env.DCL_SUBGRAPH_API_KEY || 'b53c670e2e03f823f46ab1b2087835c6'
-
+const DCL_SUBGRAPH_API_KEY = process.env.DCL_SUBGRAPH_API_KEY
 const RENTALS_SUBGRAPH_URL = 'https://subgraph.decentraland.org/rentals-ethereum-mainnet'
 const MARKETPLACE_SUBGRAPH_URL = 'https://subgraph.decentraland.org/marketplace'
 const COLLECTIONS_POLYGON_SUBGRAPH_URL = 'https://subgraph.decentraland.org/collections-matic-mainnet'
 
 const DCL_RENTALS_FEE_PCT = 0.025
 const PRIMARY_SALES_FEE_PCT = 0.025
+const LAND_MARKETPLACE_FEE_PCT = 0.025
 const NAME_CONTRACT = '0x2a187453064356c898cae034eaed119e1663acb8'.toLowerCase()
 
-const ALCHEMY_ETH_URL = process.env.ALCHEMY_ETH_URL || 'https://eth-mainnet.g.alchemy.com/v2/25n756T7F5Lfxjx34PSfX'
+const ALCHEMY_ETH_URL = process.env.ALCHEMY_ETH_URL
 const NAME_REGISTERED_TOPIC = '0x570313dae523ecb48b1176a4b60272e5ea7ec637f5b2d09983cbc4bf25e7e9e3'
 const NAME_MINT_PRICE_MANA = 100
 
@@ -296,8 +296,8 @@ async function calcLandEstateMarketplaceFeesUSD(
     skip += PAGE_SIZE
   }
 
-  const landFeeMana = landVolumeMana * 0.025
-  const estateFeeMana = estateVolumeMana * 0.025
+  const landFeeMana = landVolumeMana * LAND_MARKETPLACE_FEE_PCT
+  const estateFeeMana = estateVolumeMana * LAND_MARKETPLACE_FEE_PCT
 
   const landFeeUsd = landFeeMana * manaUsd
   const estateFeeUsd = estateFeeMana * manaUsd
@@ -347,7 +347,7 @@ async function getBlock(number: number | string): Promise<{ timestamp: string }>
   return rpc('eth_getBlockByNumber', [h, false])
 }
 
-// mayor bloque con timestamp <= targetTs
+
 async function findBlockAtOrBeforeTimestamp(targetTs: number): Promise<number> {
   const latest = await getLatestBlockNumber()
   const approxBack = Math.ceil((30 * 24 * 3600) / 12) + 20000
@@ -503,7 +503,7 @@ async function calcWearableSubmissionFeeUSD_fromSubgraph(manaUsd: number): Promi
 }
 
 /** Build ./public/api-v2.json income section */
-// Reemplazá la función updateIncome completa por esta:
+
 async function updateIncome(): Promise<void> {
   const OUT_PATH = path.join(process.cwd(), 'public', 'api-v2.json')
   fs.mkdirSync(path.dirname(OUT_PATH), { recursive: true })
@@ -514,28 +514,46 @@ async function updateIncome(): Promise<void> {
     base = JSON.parse(fs.readFileSync(OUT_PATH, 'utf8'))
   }
 
-  // 2) Ventana y precio MANA
+  
   const now = new Date()
   const startTs = Math.floor((now.getTime() - 30 * 24 * 60 * 60 * 1000) / 1000)
   const endTs = Math.floor(now.getTime() / 1000)
 
-  let manaUsd = 0
-  try {
-    const priceRes = await fetch(COINGECKO_MANA_PRICE_URL)
-    const priceJson = await priceRes.json() as any
-    manaUsd = Number(priceJson?.decentraland?.usd) || 0
-  } catch (err: any) {
-    console.error('failed to fetch MANA price:', err?.message || String(err))
+   const manaUsd = await getManaPriceUsdWithRetry()
+
+async function getManaPriceUsdWithRetry(retries = 3, delayMs = 1000): Promise<number> {
+  let lastErr: unknown
+  for (let i = 0; i < retries; i++) {
+    try {
+      const res = await fetch(COINGECKO_MANA_PRICE_URL)
+      if (!res.ok) throw new Error(`HTTP ${res.status}`)
+      const priceJson = await res.json() as any
+      const price = Number(priceJson?.decentraland?.usd)
+      if (!Number.isFinite(price) || price <= 0) throw new Error('Invalid price')
+      return price
+    } catch (err) {
+      lastErr = err
+      if (i < retries - 1) await new Promise(r => setTimeout(r, delayMs))
+    }
   }
+  throw new Error(`Failed to fetch MANA price after ${retries} attempts: ${String((lastErr as any)?.message || lastErr)}`)
+}
 
-  // 3) Cálculos
-  const wearableRow       = await calcWearableSubmissionFeeUSD_fromSubgraph(manaUsd)
-  const rentalsRow        = await calcRentalsIncomeUSD(startTs, endTs, manaUsd)
-  const polygonRow        = await calcPolygonPrimarySalesIncomeUSD(startTs, endTs, manaUsd)
-  const landEstate        = await calcLandEstateMarketplaceFeesUSD(startTs, endTs, manaUsd)
-  const namesMintingRow   = await calcNamesMintingFeeFromLogsUSD(startTs, endTs, manaUsd)
+   const [
+    wearableRow,
+    rentalsRow,
+    polygonRow,
+    landEstate,
+    namesMintingRow
+  ] = await Promise.all([
+    calcWearableSubmissionFeeUSD_fromSubgraph(manaUsd),
+    calcRentalsIncomeUSD(startTs, endTs, manaUsd),
+    calcPolygonPrimarySalesIncomeUSD(startTs, endTs, manaUsd),
+    calcLandEstateMarketplaceFeesUSD(startTs, endTs, manaUsd),
+    calcNamesMintingFeeFromLogsUSD(startTs, endTs, manaUsd)
+  ])
 
-  // 4) Traer valores previos para las entradas que NO calculamos (con esos nombres exactos)
+  
   const prevMap: Record<string, number> = {}
   if (Array.isArray(base?.income?.details)) {
     for (const d of base.income.details) {
@@ -543,7 +561,7 @@ async function updateIncome(): Promise<void> {
     }
   }
 
-  // 5) Construir details con el ORDEN y DESCRIPCIONES EXACTAS del ejemplo
+
   const details = [
     {
       name: 'Wearable Submission Fee',
@@ -587,7 +605,7 @@ async function updateIncome(): Promise<void> {
     }
   ]
 
-  // 6) Mantener previous; recalcular total
+
   const previous = Number(base?.income?.previous) || 0
   const total = details.reduce((acc, d) => acc + (Number(d.value) || 0), 0)
 
@@ -606,7 +624,7 @@ async function updateIncome(): Promise<void> {
 ;(async () => {
   try {
     await updateIncome()
-    // logs de cada cálculo ya salen por consola (como en tu versión server)
+    
   } catch (err) {
     console.error('export-api-v2 failed:', err)
     process.exit(1)

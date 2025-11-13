@@ -171,12 +171,7 @@ jobs:
         env:
           ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
         run: npx ts-node ./src/export-budgets.ts
-
-      - name: Export Teams
-        env:
-          ROLLBAR_ACCESS_TOKEN: ${{ secrets.ROLLBAR_ACCESS_TOKEN }}
-        run: npx ts-node ./src/export-teams.ts
-
+        
       - name: Build API v2 -> public/api-v2.json
         env:
           DCL_SUBGRAPH_API_KEY: ${{ secrets.DCL_SUBGRAPH_API_KEY }}
