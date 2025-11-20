@@ -52,6 +52,7 @@ Since November 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Catalysts
 
+* [Add catalyst node with domain httpbin.org to the catalyst network](https://governance.decentraland.org/proposal/?id=10cf20b8-da3a-4f7a-9c58-769f1b94e00f)
 
 ## Polls
 
