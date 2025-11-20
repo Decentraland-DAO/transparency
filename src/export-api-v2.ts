@@ -2,7 +2,7 @@ import path from 'path'
 import fs from 'fs'
 type FetchResponse = Response
 /** CONFIG / CONSTANTS */
-const DCL_SUBGRAPH_API_KEY = process.env.DCL_SUBGRAPH_API_KEY || ''
+const DCL_SUBGRAPH_API_KEY = process.env.DCL_SUBGRAPH_API_KEY
 const RENTALS_SUBGRAPH_URL = 'https://subgraph.decentraland.org/rentals-ethereum-mainnet'
 const MARKETPLACE_SUBGRAPH_URL = 'https://subgraph.decentraland.org/marketplace'
 const COLLECTIONS_POLYGON_SUBGRAPH_URL = 'https://subgraph.decentraland.org/collections-matic-mainnet'
