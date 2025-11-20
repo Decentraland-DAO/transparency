@@ -186,7 +186,6 @@ jobs:
             exit 1
           fi
           echo "api-v2.json successfully generated in ./public"
-
       - name: Remove transactions.json & transactions.csv
         run: |
           if [ -f ./public/transactions.json ]; then
