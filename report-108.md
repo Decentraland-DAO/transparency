@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -31,11 +31,19 @@ Since November 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+#### [Genesis City Comic Contest](https://governance.decentraland.org/proposal/?id=5da7bf24-dc17-4b59-a5f7-1c64549d1f4c)
+
+* YES 99.99990884578712% 1,097,041 VP (21 votes)
+* NO 0.0000911542128742564% 1 VP (1 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 
 # Active Proposals
 
 ## Points of Interest
 
+* -95, 83: [Bunker](https://governance.decentraland.org/proposal/?id=cad3baa1-5a1d-4fb4-b9d6-be419ecef756)
 
 ## Grants
 
@@ -49,6 +57,5 @@ Since November 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
-* [Genesis City Comic Contest](https://governance.decentraland.org/proposal/?id=5da7bf24-dc17-4b59-a5f7-1c64549d1f4c)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

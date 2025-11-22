@@ -43,6 +43,7 @@ Since November 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
+* -95, 83: [Bunker](https://governance.decentraland.org/proposal/?id=cad3baa1-5a1d-4fb4-b9d6-be419ecef756)
 
 ## Grants
 
@@ -56,6 +57,5 @@ Since November 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
-* [Genesis City Comic Contest](https://governance.decentraland.org/proposal/?id=5da7bf24-dc17-4b59-a5f7-1c64549d1f4c)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
