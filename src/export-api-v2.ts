@@ -954,7 +954,6 @@ async function updateIncome(): Promise<void> {
     base = JSON.parse(fs.readFileSync(OUT_PATH, 'utf8'))
   }
 
-  const now = new Date()
 
 
   // Last-30-days 
@@ -1039,11 +1038,8 @@ async function updateIncome(): Promise<void> {
     }
   ]
 
-    const previousIncome = Number(base?.income?.previous) || 0
-    const totalIncome =
-      typeof base?.income?.total === 'number'
-        ? base.income.total
-        : incomeDetails.reduce((acc, d) => acc + (Number(d.value) || 0), 0)
+   
+    const totalIncome = incomeDetails.reduce((acc, d) => acc + (Number(d.value) || 0), 0)
 
 
   // -------- EXPENSES --------
@@ -1069,7 +1065,7 @@ async function updateIncome(): Promise<void> {
 })
 
 // 2) Wearable Curators Committee Payout 
-if (wccPrev) {
+
   expenseDetails.push({
     name: 'Wearable Curators Committee Payout',
     description:
@@ -1077,7 +1073,7 @@ if (wccPrev) {
       'Compensation paid from the DAO treasury to Wearable Curators Committee members (last 30 days)',
     value: wearableCuratorComitteeRow.usdTotal || 0
   })
-}
+
 
   // 3) Other 
 
@@ -1089,13 +1085,21 @@ if (wccPrev) {
     value: otherExpensesRow.usdTotal || 0
   })
 
-  const previousExpenses = Number(base?.expenses?.previous) || 0
+  
   const totalExpenses = expenseDetails.reduce((acc, d) => acc + (Number(d.value) || 0), 0)
 
   const out = {
     ...base,
-    income: { total: totalIncome, previous: previousIncome, details: incomeDetails },
-    expenses: { total: totalExpenses, previous: previousExpenses, details: expenseDetails }
+    income: {
+    total: totalIncome,
+    previous: base?.income?.total || 0,
+    details: incomeDetails
+},
+    expenses: {
+    total: totalExpenses,
+    previous: base?.expenses?.total || 0,
+    details: expenseDetails
+}
   }
 
   fs.writeFileSync(OUT_PATH, JSON.stringify(out, null, 2))

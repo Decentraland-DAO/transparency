@@ -177,6 +177,7 @@ jobs:
 
           DCL_SUBGRAPH_API_KEY: ${{ secrets.DCL_SUBGRAPH_API_KEY }}
           ALCHEMY_ETH_URL: ${{ secrets.ALCHEMY_ETH_URL }}
+          ALCHEMY_POLYGON_URL: ${{ secrets.ALCHEMY_POLYGON_URL }}
         run: |
           set -e
           mkdir -p ./public
