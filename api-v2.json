@@ -1,18 +1,18 @@
 {
   "balances": [],
   "income": {
-    "total": 4911.452380754202,
+    "total": 4867.374571829324,
     "previous": 0,
     "details": [
       {
         "name": "Wearable Submission Fee",
         "description": "Funds corresponding to the fee applied to every new Wearable submission to the Decentraland Marketplace",
-        "value": 3209.1716962926007
+        "value": 3191.642417938424
       },
       {
         "name": "Names Minting Fee",
         "description": "Funds corresponding to the fee applied to Names minting",
-        "value": 1624.424
+        "value": 1598.5451999999998
       },
       {
         "name": "ESTATE DCL Marketplace Sales Fee",
@@ -27,7 +27,7 @@
       {
         "name": "Wearables Minting Fee",
         "description": "Funds corresponding to the 2.5% fee applied to Wearables minting on Polygon network via the Decentraland Marketplace",
-        "value": 77.70706646160005
+        "value": 77.03815314090005
       },
       {
         "name": "DAO Wallets Transactions",
@@ -37,7 +37,7 @@
       {
         "name": "LAND Rentals Marketplace Fee",
         "description": "Funds corresponding to the 2.5% fee applied to every LAND or ESTATE rental transaction",
-        "value": 0.149618
+        "value": 0.14880074999999998
       },
       {
         "name": "NAME DCL Marketplace Sales Fee",
@@ -47,9 +47,25 @@
     ]
   },
   "expenses": {
-    "total": 0,
+    "total": 10315.804376628364,
     "previous": 0,
-    "details": []
+    "details": [
+      {
+        "name": "DAO Committee Compensation",
+        "description": "Deprecated committee. Kept for historical reasons, always 0.",
+        "value": 0
+      },
+      {
+        "name": "Wearable Curators Committee Payout",
+        "description": "Compensation paid from the DAO treasury to Wearable Curators Committee members (last 30 days)",
+        "value": 775.634538
+      },
+      {
+        "name": "Other",
+        "description": "Other expenses from the DAO treasuries not categorized under specific committees (last 30 days)",
+        "value": 9540.169838628364
+      }
+    ]
   },
   "funding": {
     "total": 0
