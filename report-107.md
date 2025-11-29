@@ -43,7 +43,6 @@ Since November 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Points of Interest
 
-* -95, 83: [Bunker](https://governance.decentraland.org/proposal/?id=cad3baa1-5a1d-4fb4-b9d6-be419ecef756)
 
 ## Grants
 

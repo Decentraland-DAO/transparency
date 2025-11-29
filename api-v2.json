@@ -1,18 +1,18 @@
 {
   "balances": [],
   "income": {
-    "total": 4867.374571829324,
+    "total": 4669.267600083643,
     "previous": 0,
     "details": [
       {
         "name": "Wearable Submission Fee",
         "description": "Funds corresponding to the fee applied to every new Wearable submission to the Decentraland Marketplace",
-        "value": 3191.642417938424
+        "value": 3011.3206817702676
       },
       {
         "name": "Names Minting Fee",
         "description": "Funds corresponding to the fee applied to Names minting",
-        "value": 1598.5451999999998
+        "value": 1582.2725
       },
       {
         "name": "ESTATE DCL Marketplace Sales Fee",
@@ -27,7 +27,7 @@
       {
         "name": "Wearables Minting Fee",
         "description": "Funds corresponding to the 2.5% fee applied to Wearables minting on Polygon network via the Decentraland Marketplace",
-        "value": 77.03815314090005
+        "value": 75.52868268837503
       },
       {
         "name": "DAO Wallets Transactions",
@@ -37,7 +37,7 @@
       {
         "name": "LAND Rentals Marketplace Fee",
         "description": "Funds corresponding to the 2.5% fee applied to every LAND or ESTATE rental transaction",
-        "value": 0.14880074999999998
+        "value": 0.145735625
       },
       {
         "name": "NAME DCL Marketplace Sales Fee",
@@ -47,7 +47,7 @@
     ]
   },
   "expenses": {
-    "total": 10315.804376628364,
+    "total": 10103.310623136445,
     "previous": 0,
     "details": [
       {
@@ -58,12 +58,12 @@
       {
         "name": "Wearable Curators Committee Payout",
         "description": "Compensation paid from the DAO treasury to Wearable Curators Committee members (last 30 days)",
-        "value": 775.634538
+        "value": 759.657355
       },
       {
         "name": "Other",
         "description": "Other expenses from the DAO treasuries not categorized under specific committees (last 30 days)",
-        "value": 9540.169838628364
+        "value": 9343.653268136446
       }
     ]
   },
