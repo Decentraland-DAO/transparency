@@ -1,18 +1,18 @@
 {
   "balances": [],
   "income": {
-    "total": 4669.267600083643,
+    "total": 4555.006181764499,
     "previous": 0,
     "details": [
       {
         "name": "Wearable Submission Fee",
         "description": "Funds corresponding to the fee applied to every new Wearable submission to the Decentraland Marketplace",
-        "value": 3011.3206817702676
+        "value": 2968.6337127230486
       },
       {
         "name": "Names Minting Fee",
         "description": "Funds corresponding to the fee applied to Names minting",
-        "value": 1582.2725
+        "value": 1510.5848
       },
       {
         "name": "ESTATE DCL Marketplace Sales Fee",
@@ -27,7 +27,7 @@
       {
         "name": "Wearables Minting Fee",
         "description": "Funds corresponding to the 2.5% fee applied to Wearables minting on Polygon network via the Decentraland Marketplace",
-        "value": 75.52868268837503
+        "value": 75.64399929145002
       },
       {
         "name": "DAO Wallets Transactions",
@@ -37,7 +37,7 @@
       {
         "name": "LAND Rentals Marketplace Fee",
         "description": "Funds corresponding to the 2.5% fee applied to every LAND or ESTATE rental transaction",
-        "value": 0.145735625
+        "value": 0.14366975
       },
       {
         "name": "NAME DCL Marketplace Sales Fee",
@@ -47,23 +47,23 @@
     ]
   },
   "expenses": {
-    "total": 10103.310623136445,
+    "total": 9960.091167814027,
     "previous": 0,
     "details": [
       {
         "name": "DAO Committee Compensation",
-        "description": "Deprecated committee. Kept for historical reasons, always 0.",
-        "value": 0
+        "description": "Compensation paid from the DAO treasury to DAO Committee members (last 30 days)",
+        "value": 5191.927939955819
       },
       {
         "name": "Wearable Curators Committee Payout",
         "description": "Compensation paid from the DAO treasury to Wearable Curators Committee members (last 30 days)",
-        "value": 759.657355
+        "value": 748.888834
       },
       {
         "name": "Other",
         "description": "Other expenses from the DAO treasuries not categorized under specific committees (last 30 days)",
-        "value": 9343.653268136446
+        "value": 4019.2743938582084
       }
     ]
   },
