@@ -1,18 +1,18 @@
 {
   "balances": [],
   "income": {
-    "total": 4555.006181764499,
+    "total": 3910.4540724123676,
     "previous": 0,
     "details": [
       {
         "name": "Wearable Submission Fee",
         "description": "Funds corresponding to the fee applied to every new Wearable submission to the Decentraland Marketplace",
-        "value": 2968.6337127230486
+        "value": 2380.243694452642
       },
       {
         "name": "Names Minting Fee",
         "description": "Funds corresponding to the fee applied to Names minting",
-        "value": 1510.5848
+        "value": 1460.3232
       },
       {
         "name": "ESTATE DCL Marketplace Sales Fee",
@@ -27,7 +27,7 @@
       {
         "name": "Wearables Minting Fee",
         "description": "Funds corresponding to the 2.5% fee applied to Wearables minting on Polygon network via the Decentraland Marketplace",
-        "value": 75.64399929145002
+        "value": 69.7540755847252
       },
       {
         "name": "DAO Wallets Transactions",
@@ -37,7 +37,7 @@
       {
         "name": "LAND Rentals Marketplace Fee",
         "description": "Funds corresponding to the 2.5% fee applied to every LAND or ESTATE rental transaction",
-        "value": 0.14366975
+        "value": 0.133102375
       },
       {
         "name": "NAME DCL Marketplace Sales Fee",
@@ -47,23 +47,23 @@
     ]
   },
   "expenses": {
-    "total": 9960.091167814027,
+    "total": 0,
     "previous": 0,
     "details": [
       {
         "name": "DAO Committee Compensation",
         "description": "Compensation paid from the DAO treasury to DAO Committee members (last 30 days)",
-        "value": 5191.927939955819
+        "value": 0
       },
       {
         "name": "Wearable Curators Committee Payout",
         "description": "Compensation paid from the DAO treasury to Wearable Curators Committee members (last 30 days)",
-        "value": 748.888834
+        "value": 0
       },
       {
         "name": "Other",
         "description": "Other expenses from the DAO treasuries not categorized under specific committees (last 30 days)",
-        "value": 4019.2743938582084
+        "value": 0
       }
     ]
   },
