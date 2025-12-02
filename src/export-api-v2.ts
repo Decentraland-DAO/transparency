@@ -30,6 +30,16 @@ const DAO_COMMITTEE_PAYMENT_ADDRESSES = [
 
 const DAO_COMMITTEE_PAYMENT_SET = new Set(DAO_COMMITTEE_PAYMENT_ADDRESSES)
 
+const DAO_COUNCIL_ADDRESSES = [
+  '0x5b5cc427c1d81db4f94de4d51d85ce122d63e244',
+  '0x8dd060ad7f867ad890490fd87657c1b7e63c622f',
+  '0xd6eff8f07caf3443a1178407d3de4129149d6ef6',
+  '0x3f6b1d01b6823ab235fc343069b62b6472774cd1',
+  '0x7a7280e299b79b7bd14d7501e3a03a0b77541622'
+].map((a) => a.toLowerCase())
+
+const DAO_COUNCIL_PAYMENT_SET = new Set(DAO_COUNCIL_ADDRESSES)
+
 // ---------------------------------------------EXPENSES
 const DAO_TREASURY_ETH = [
   '0x9a6ebe7e2a7722f8200d0ffb63a1f6406a0d7dce', // Aragon Agent
@@ -918,6 +928,157 @@ async function calcDaoCommitteeCompUSD(
     usdTotal
   }
 }
+// ---- DAO Council Compensation
+
+async function calcDaoCouncilCompUSD(
+  startTs: number,
+  endTs: number,
+  manaUsd: number
+): Promise<IncomeRow> {
+  if (!ALCHEMY_ETH_URL && !ALCHEMY_POLYGON_URL) {
+    console.warn('No Alchemy URL is set, DAO Council Compensation will be 0')
+    return {
+      name: 'DAO Council Compensation',
+      description:
+        'Compensation paid from the DAO treasury to DAO Council members (last 30 days)',
+      txCount: 0,
+      manaTotal: 0,
+      usdTotal: 0
+    }
+  }
+
+  const allTransfers: AlchemyTransfer[] = []
+
+  // ---- ETH ----
+  if (ALCHEMY_ETH_URL) {
+    const fromBlockNum = await findBlockAtOrBeforeTimestamp(startTs)
+    const toBlockNum = await findBlockAtOrBeforeTimestamp(endTs)
+    const fromBlockHex = intToHex(fromBlockNum)
+    const toBlockHex = intToHex(toBlockNum)
+
+    for (const fromAddr of DAO_TREASURY_ETH) {
+      for (const toAddr of DAO_COUNCIL_ADDRESSES) {
+        console.log('[DAO COUNCIL Payout ETH] query', { fromAddr, toAddr })
+        const params = [
+          {
+            fromBlock: fromBlockHex,
+            toBlock: toBlockHex,
+            fromAddress: fromAddr,
+            toAddress: toAddr,
+            category: ['external', 'erc20'],
+            withMetadata: true,
+            maxCount: '0x3e8'
+          }
+        ]
+
+        try {
+          const result = await rpc<{ transfers?: AlchemyTransfer[] }>(
+            'alchemy_getAssetTransfers',
+            params as unknown[]
+          )
+          if (result?.transfers?.length) {
+            allTransfers.push(...result.transfers)
+          }
+        } catch (err: any) {
+          console.error(
+            '[DAO COUNCIL Payout ETH] alchemy_getAssetTransfers failed for',
+            fromAddr,
+            '->',
+            toAddr,
+            err?.message || String(err)
+          )
+        }
+      }
+    }
+  }
+
+  // ---- POLYGON ----
+  if (ALCHEMY_POLYGON_URL) {
+    const fromBlockNumPolygon = await findPolygonBlockAtOrBeforeTimestamp(startTs)
+    const toBlockNumPolygon = await findPolygonBlockAtOrBeforeTimestamp(endTs)
+    const fromBlockHexPolygon = intToHex(fromBlockNumPolygon)
+    const toBlockHexPolygon = intToHex(toBlockNumPolygon)
+
+    for (const fromAddr of DAO_TREASURY_POLYGON) {
+      for (const toAddr of DAO_COUNCIL_ADDRESSES) {
+        console.log('[DAO COUNCIL Payout POLYGON] query', { fromAddr, toAddr })
+        const params = [
+          {
+            fromBlock: fromBlockHexPolygon,
+            toBlock: toBlockHexPolygon,
+            fromAddress: fromAddr,
+            toAddress: toAddr,
+            category: ['external', 'erc20'],
+            withMetadata: true,
+            maxCount: '0x3e8'
+          }
+        ]
+
+        try {
+          const result = await rpcPolygon<{ transfers?: AlchemyTransfer[] }>(
+            'alchemy_getAssetTransfers',
+            params as unknown[]
+          )
+          if (result?.transfers?.length) {
+            allTransfers.push(...result.transfers)
+          }
+        } catch (err: any) {
+          console.error(
+            '[DAO COUNCIL Payout POLYGON] alchemy_getAssetTransfers failed for',
+            fromAddr,
+            '->',
+            toAddr,
+            err?.message || String(err)
+          )
+        }
+      }
+    }
+  }
+
+  const seen = new Set<string>()
+  let usdTotal = 0
+  let manaTotal = 0
+
+  for (const tr of allTransfers) {
+    const key = tr.uniqueId || `${tr.hash}:${tr.asset}:${tr.value}:${tr.to}`
+    if (seen.has(key)) continue
+    seen.add(key)
+
+    const amount = Number(tr.value) || 0
+    const asset = tr.asset || ''
+    if (!amount || !asset) continue
+
+    const usd = tokenAmountToUsd(asset, amount, manaUsd)
+    if (!usd) continue
+
+    usdTotal += usd
+    if (asset.toUpperCase() === 'MANA') {
+      manaTotal += amount
+    }
+  }
+
+  const txCount = seen.size
+
+  console.log(
+    '[DAO Council Compensation]',
+    'txCount:',
+    txCount,
+    'manaTotal:',
+    manaTotal,
+    'usdTotal:',
+    usdTotal
+  )
+
+  return {
+    name: 'DAO Council Compensation',
+    description:
+      'Compensation paid from the DAO treasury to DAO Council members (last 30 days)',
+    txCount,
+    manaTotal,
+    usdTotal
+  }
+}
+
 
 //---- other expense 
 async function calcOtherExpensesUSD(
@@ -1037,6 +1198,7 @@ async function calcOtherExpensesUSD(
   
     if (CURATORS_PAYMENT_SET.has(toAddrLower)) continue
     if (DAO_COMMITTEE_PAYMENT_SET.has(toAddrLower)) continue
+    if (DAO_COUNCIL_PAYMENT_SET.has(toAddrLower)) continue
 
     const usd = tokenAmountToUsd(asset, amount, manaUsd)
     if (!usd) continue
@@ -1136,8 +1298,9 @@ async function updateIncome(): Promise<void> {
   // 2) DAO Committee Compensation (expenses)
   const wearableCuratorComitteeRow = await calcWearableCuratorsCommitteePayoutUSD(startTs, endTs, manaUsd)
   const daoCommitteeRow = await calcDaoCommitteeCompUSD(startTs, endTs, manaUsd)
+  const daoCouncilRow = await calcDaoCouncilCompUSD(startTs, endTs, manaUsd)
   const otherExpensesRow = await calcOtherExpensesUSD(startTs, endTs, manaUsd)
-     
+  
 
   // -------- INCOME --------
   const prevIncomeMap: Record<string, number> = {}
@@ -1210,6 +1373,7 @@ async function updateIncome(): Promise<void> {
 
   const daoPrev = getPrevExpense('DAO Committee Compensation')
   const wccPrev = getPrevExpense('Wearable Curators Committee Payout')
+  const daoCouncilPrev = getPrevExpense('DAO Council Compensation')
   const otherPrev = getPrevExpense('Other')
 
   const expenseDetails: { name: string; description: string; value: number }[] = []
@@ -1233,8 +1397,17 @@ async function updateIncome(): Promise<void> {
     value: wearableCuratorComitteeRow.usdTotal || 0
   })
 
+  // 3) DAO Council Compensation
+   expenseDetails.push({
+    name: 'DAO Council Compensation',
+    description:
+      daoCouncilPrev?.description ||
+      'Compensation paid from the DAO treasury to DAO Council members (last 30 days)',
+    value: daoCouncilRow.usdTotal || 0
+  })
 
-  // 3) Other 
+
+  // 4) Other Expenses
 
   expenseDetails.push({
     name: 'Other',
