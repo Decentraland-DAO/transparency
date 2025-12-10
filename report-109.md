@@ -9,12 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+1 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -95, 83: [Bunker](https://governance.decentraland.org/proposal/?id=87498ef6-fed8-4ae0-b928-c2c6173352e7)
+
+* Yes 99.99940690598669% 505,819 VP (18 votes)
+* No 0% 0 VP (0 votes)
+* Abstain 0.0005930940133090296% 3 VP (1 votes)
 
 
 ## Name Bans
@@ -37,7 +44,6 @@ Since December 1, 0 grants have been approved and the vesting contract(s) will b
 ## Points of Interest
 
 * -22, 136: [Make&#39;s New Home](https://governance.decentraland.org/proposal/?id=0aeade96-cc12-436c-8324-f2671b75f333)
-* -95, 83: [Bunker](https://governance.decentraland.org/proposal/?id=87498ef6-fed8-4ae0-b928-c2c6173352e7)
 
 ## Grants
 
