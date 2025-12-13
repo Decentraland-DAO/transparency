@@ -43,7 +43,6 @@ Since November 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
-* -22, 136: [Make&#39;s New Home](https://governance.decentraland.org/proposal/?id=0aeade96-cc12-436c-8324-f2671b75f333)
 
 ## Grants
 
