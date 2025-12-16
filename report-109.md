@@ -62,5 +62,6 @@ Since December 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Growth Focused Marketing for Decentraland ](https://governance.decentraland.org/proposal/?id=02839470-c7d1-40ef-ad8f-3e13885c3aef)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
