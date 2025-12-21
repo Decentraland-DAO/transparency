@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -31,6 +31,13 @@ Since December 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+#### [Growth Focused Marketing for Decentraland ](https://governance.decentraland.org/proposal/?id=02839470-c7d1-40ef-ad8f-3e13885c3aef)
+
+* Yes 90.9320587566332% 555,714 VP (11 votes)
+* No  0% 0 VP (0 votes)
+* Invalid question/options 9.067941243366807% 55,417 VP (1 votes)
+
+
 
 # Active Proposals
 
@@ -48,6 +55,5 @@ Since December 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
-* [Growth Focused Marketing for Decentraland ](https://governance.decentraland.org/proposal/?id=02839470-c7d1-40ef-ad8f-3e13885c3aef)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
