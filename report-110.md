@@ -55,6 +55,5 @@ Since December 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
-* [What about GolfCraft?](https://governance.decentraland.org/proposal/?id=8196eeb2-069d-406e-873a-3ec241c651dd)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
