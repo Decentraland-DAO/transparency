@@ -63,5 +63,7 @@ Since January 1, 0 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Pizza &amp; Beats Experience: Learn, Cook, and Dance!](https://governance.decentraland.org/proposal/?id=565d7e56-3915-4011-9b09-579326d77821)
+* [Pizza &amp; Beats Experience: Learn, Cook, and Dance!](https://governance.decentraland.org/proposal/?id=5074e79a-322f-4d05-8cca-b69901061e12)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
