@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -31,6 +31,14 @@ Since January 16, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+#### [Pizza &amp; Beats Experience: Learn, Cook, and Dance!](https://governance.decentraland.org/proposal/?id=565d7e56-3915-4011-9b09-579326d77821)
+
+* Yes, I love the idea! 99.98862983871426% 527,637 VP (14 votes)
+* Yes, but I’d change something (comment below). 0.011370161285737838% 60 VP (3 votes)
+* No, I’m not interested. 0% 0 VP (1 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 
 # Active Proposals
 
@@ -48,7 +56,5 @@ Since January 16, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
-* [Pizza &amp; Beats Experience: Learn, Cook, and Dance!](https://governance.decentraland.org/proposal/?id=565d7e56-3915-4011-9b09-579326d77821)
-* [Pizza &amp; Beats Experience: Learn, Cook, and Dance!](https://governance.decentraland.org/proposal/?id=5074e79a-322f-4d05-8cca-b69901061e12)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
