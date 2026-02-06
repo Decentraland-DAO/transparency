@@ -56,5 +56,6 @@ Since January 16, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Removal of SAB Member Kyllian Hprivakos Due to Active Legal Dispute](https://governance.decentraland.org/proposal/?id=6f5db064-ab6c-4bdc-9bdc-011dceb56417)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
