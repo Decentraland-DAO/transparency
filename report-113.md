@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -31,6 +31,13 @@ Since February 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+#### [Removal of SAB Member Kyllian Hprivakos Due to Active Legal Dispute](https://governance.decentraland.org/proposal/?id=6f5db064-ab6c-4bdc-9bdc-011dceb56417)
+
+* Yes 65.74637726277818% 960,905 VP (9 votes)
+* No 34.1167801205994% 498,628 VP (4 votes)
+* Invalid question/options 0.13684261662240949% 2,000 VP (1 votes)
+
+
 
 # Active Proposals
 
@@ -48,6 +55,5 @@ Since February 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
-* [Removal of SAB Member Kyllian Hprivakos Due to Active Legal Dispute](https://governance.decentraland.org/proposal/?id=6f5db064-ab6c-4bdc-9bdc-011dceb56417)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
