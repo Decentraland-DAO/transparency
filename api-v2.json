@@ -1,18 +1,18 @@
 {
   "balances": [],
   "income": {
-    "total": 2861.2977024667885,
+    "total": 3276.3606038695984,
     "previous": 0,
     "details": [
       {
         "name": "Wearable Submission Fee",
         "description": "Funds corresponding to the fee applied to every new Wearable submission to the Decentraland Marketplace",
-        "value": 1937.7402568147884
+        "value": 2248.2163947885983
       },
       {
         "name": "Names Minting Fee",
         "description": "Funds corresponding to the fee applied to Names minting",
-        "value": 876.9728
+        "value": 979.9535
       },
       {
         "name": "ESTATE DCL Marketplace Sales Fee",
@@ -27,7 +27,7 @@
       {
         "name": "Wearables Minting Fee",
         "description": "Funds corresponding to the 2.5% fee applied to Wearables minting on Polygon network via the Decentraland Marketplace",
-        "value": 46.584645652000006
+        "value": 48.19070908100001
       },
       {
         "name": "DAO Wallets Transactions",
