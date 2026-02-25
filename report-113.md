@@ -55,6 +55,5 @@ Since February 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
-* [Windfall Lotto Scene Framework for Decentraland](https://governance.decentraland.org/proposal/?id=d1374a4e-c1fb-4456-9e13-334b9a74ff08)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

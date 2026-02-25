@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -31,6 +31,14 @@ Since February 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+#### [Windfall Lotto Scene Framework for Decentraland](https://governance.decentraland.org/proposal/?id=d1374a4e-c1fb-4456-9e13-334b9a74ff08)
+
+* Good Idea Yaaay 53.21531692290724% 675,470 VP (5 votes)
+* Let&#39;s develop this :) 46.78050759661707% 593,792 VP (9 votes)
+* Are you crazy? 0.004175480475689644% 53 VP (1 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 
 # Active Proposals
 
@@ -48,6 +56,5 @@ Since February 16, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
-* [Windfall Lotto Scene Framework for Decentraland](https://governance.decentraland.org/proposal/?id=d1374a4e-c1fb-4456-9e13-334b9a74ff08)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
