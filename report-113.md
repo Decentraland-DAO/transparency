@@ -55,5 +55,6 @@ Since February 1, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
+* [Community Interest Check: Automatic Execution, Soft Term Limits &amp; Oversight](https://governance.decentraland.org/proposal/?id=477a7152-4fc8-4409-a68c-49b814a4369e)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
