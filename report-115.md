@@ -55,6 +55,7 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Put a decent volume slider in the ui..](https://governance.decentraland.org/proposal/?id=11f8f743-7cd1-4c85-b3e1-338f2e94c794)
 * [Allow customize avatar color name for registered users](https://governance.decentraland.org/proposal/?id=2d7e26ec-0114-4438-bbf6-040e42af2d69)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
