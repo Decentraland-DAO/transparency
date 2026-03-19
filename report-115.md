@@ -43,6 +43,7 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
+* -91, 75: [No Name](https://governance.decentraland.org/proposal/?id=94dcbe67-7940-4b00-9711-ae93ab9c439b)
 * 118, -131: [POAP](https://governance.decentraland.org/proposal/?id=3cce1eee-6a3c-4f4c-a436-3838f850b8c0)
 
 ## Grants
