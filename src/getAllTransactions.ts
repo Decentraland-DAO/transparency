@@ -16,6 +16,7 @@ const COINGECKO_IDS: Record<string, string | null> = {
   ETH:   'ethereum',
   WETH:  'weth',
   MATIC: 'matic-network',
+  POL:   'matic-network', // Polygon rebranded MATIC → POL in Sep 2023
   DAI:   null,
   USDC:  null,
   USDT:  null,
