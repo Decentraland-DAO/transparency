@@ -197,6 +197,14 @@ jobs:
           SHEET_CLIENT_EMAIL: ${{ secrets.SHEET_CLIENT_EMAIL }}
           SHEET_PRIVATE_KEY: ${{ secrets.SHEET_PRIVATE_KEY }}
         run: |
+          npx ts-node ./src/getAllTransactions.ts --year 2020
+          npx ts-node ./src/upload.ts Transactions2020 ./public/transactions-2020.csv
+          npx ts-node ./src/getAllTransactions.ts --year 2021
+          npx ts-node ./src/upload.ts Transactions2021 ./public/transactions-2021.csv
+          npx ts-node ./src/getAllTransactions.ts --year 2022
+          npx ts-node ./src/upload.ts Transactions2022 ./public/transactions-2022.csv
+          npx ts-node ./src/getAllTransactions.ts --year 2023
+          npx ts-node ./src/upload.ts Transactions2023 ./public/transactions-2023.csv
           npx ts-node ./src/getAllTransactions.ts --year 2024
           npx ts-node ./src/upload.ts Transactions2024 ./public/transactions-2024.csv
           npx ts-node ./src/getAllTransactions.ts --year 2025
@@ -213,7 +221,7 @@ jobs:
         run: |
           YEAR=$(date -u +%Y)
           npx ts-node ./src/getAllTransactions.ts --year $YEAR
-          npx ts-node ./src/upload.ts Transactions$YEAR ./public/transactions-$YEAR.csv
+          npx ts-node ./src/upload.ts Transactions ./public/transactions-$YEAR.csv
 
       - name: Remove transactions.json & transactions.csv
         run: |

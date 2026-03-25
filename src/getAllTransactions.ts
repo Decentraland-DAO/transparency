@@ -382,7 +382,7 @@ async function main() {
   // Apply USD prices
   for (const tx of allTransactions) {
     const price = getUsdPrice(tx.symbol, tx.date, priceLookup)
-    tx.quote = price > 0 ? Math.round(tx.amount * price * 100) / 100 : 0
+    tx.quote = price > 0 ? tx.amount * price : 0
   }
 
   saveToJSON(`transactions-${year}.json`, allTransactions)
