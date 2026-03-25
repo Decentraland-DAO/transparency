@@ -1,7 +1,7 @@
 import { Wallets } from './entities/Wallets'
 import { Tokens } from './entities/Tokens'
 import { NetworkName } from './entities/Networks'
-import { Tags } from './entities/Tags'
+import { Tags, TagType } from './entities/Tags'
 import { saveToJSON, saveToCSV } from './utils'
 
 require('dotenv').config()
@@ -230,6 +230,119 @@ async function findBlock(
   return low
 }
 
+// ---- Marketplace & tag constants (ported from export-transactions.ts) ----
+
+const MATIC_ORDER_TOPIC = '0x77cc75f8061aa168906862622e88c5b05a026a9c06c02d91ec98543e01e7ad33'
+const ETH_ORDER_TOPIC   = '0x695ec315e8a642a74d450a4505eeea53df699b47a7378c7d752e97d5b16eb9bb'
+
+const OPENSEA_ADDRESSES = new Set([
+  '0x9b814233894cd227f561b78cc65891aa55c62ad2',
+  '0x2da950f79d8bd7e7f815e1bbc43ecee2c7e7f5d3',
+  '0x00000000006c3852cbef3e08e8df289169ede581',
+  '0xf715beb51ec8f63317d66f491e37e7bb048fcc2d',
+  '0x000000004b5ad44f70781462233d177d32d993f1',
+  '0x13c10925bf130e4a9631900d89475d2155b5f9c0',
+  '0x0000000000e9c0809c14f4dc1e48f97abd9317f6',
+  '0x00000000000001ad428e4906ae43d8f9852d0dd6',
+  '0x00000000000000adc04c56bf30ac9d3c0aaf14dc',
+  '0xef0b56692f78a44cf4034b07f80204757c31bcc9',
+])
+
+const RENTAL_ADDRESSES = new Set([
+  '0x3a1469499d0be105d4f77045ca403a5f6dc2f3f5',
+  '0xe90636e24d8faf02aa0e01c26d72dab9629865cb',
+])
+
+const SAB_ADDRESS         = '0x0e659a116e161d8e502f9036babda51334f2667e'
+const FACILITATOR_ADDRESS = '0x76fb13f00cdbdd5eac8e2664cf14be791af87cb0'
+
+// ---- Transaction detail fetching (for tagging) ----
+
+// Batch-fetches eth_getTransactionByHash for a list of hashes.
+// Returns a map of hash → called contract address (tx.to)
+async function fetchCalledContracts(url: string, hashes: string[]): Promise<Map<string, string>> {
+  const result = new Map<string, string>()
+  if (hashes.length === 0) return result
+
+  const BATCH = 100
+  for (let i = 0; i < hashes.length; i += BATCH) {
+    const slice = hashes.slice(i, i + BATCH)
+    const body = slice.map((hash, idx) => ({
+      jsonrpc: '2.0', id: idx, method: 'eth_getTransactionByHash', params: [hash]
+    }))
+    const res = await fetch(url, {
+      method: 'POST',
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify(body)
+    })
+    const data = await res.json() as Array<{ id: number; result: { to: string | null; hash: string } | null }>
+    for (let j = 0; j < slice.length; j++) {
+      const tx = data.find(d => d.id === j)?.result
+      if (tx?.to) result.set(slice[j].toLowerCase(), tx.to.toLowerCase())
+    }
+    if (i + BATCH < hashes.length) await new Promise(r => setTimeout(r, 150))
+  }
+  return result
+}
+
+// Fetches all tx hashes that emitted a specific event topic in a block range
+async function getTopicTxHashes(url: string, fromBlock: number, toBlock: number, topic: string): Promise<Set<string>> {
+  const hashes = new Set<string>()
+  const CHUNK = 200000
+  for (let start = fromBlock; start <= toBlock; start += CHUNK) {
+    const end = Math.min(start + CHUNK - 1, toBlock)
+    const logs = await rpcCall<Array<{ transactionHash: string }>>(url, 'eth_getLogs', [{
+      fromBlock: intToHex(start),
+      toBlock:   intToHex(end),
+      topics:    [topic],
+    }])
+    for (const log of logs) hashes.add(log.transactionHash.toLowerCase())
+    if (start + CHUNK <= toBlock) await new Promise(r => setTimeout(r, 150))
+  }
+  return hashes
+}
+
+// Resolves the tag for a transaction using the full set of rules from the original script
+function resolveTag(
+  tx: TransactionParsed,
+  calledContract: string,
+  maticMarketHashes: Set<string>,
+  ethMarketHashes: Set<string>
+): string {
+  const hash = tx.hash.toLowerCase()
+  const from = tx.from.toLowerCase()
+  const to   = tx.to.toLowerCase()
+
+  // 1. Marketplace by event topic
+  if (maticMarketHashes.has(hash)) return TagType.MATIC_MARKETPLACE
+  if (ethMarketHashes.has(hash))   return TagType.ETH_MARKETPLACE
+
+  // 2. OpenSea
+  if (tx.type === 'IN' && (OPENSEA_ADDRESSES.has(from) || OPENSEA_ADDRESSES.has(calledContract))) {
+    return TagType.OPENSEA
+  }
+
+  // 3. Rental fee
+  if (tx.type === 'IN' && (RENTAL_ADDRESSES.has(from) || RENTAL_ADDRESSES.has(calledContract))) {
+    return TagType.RENTAL_FEE
+  }
+
+  // 4. SAB / Facilitator
+  if (from === SAB_ADDRESS || to === SAB_ADDRESS) return TagType.SAB_DCL
+  if (tx.type === 'OUT' && to === FACILITATOR_ADDRESS) return TagType.FACILITATOR
+
+  // 5. Called contract (NAME_MINT_FEE, CURATION_FEE, VESTING_CONTRACT, etc.)
+  if (calledContract) {
+    const tag = Tags.get(calledContract)
+    if (tag) return tag
+  }
+
+  // 6. Transfer from/to
+  if (tx.type === 'IN')  return Tags.get(from) || TagType.OTHER
+  if (tx.type === 'OUT') return Tags.getCurator(to) || Tags.get(to) || TagType.OTHER
+  return TagType.OTHER
+}
+
 // ---- Transfer fetching ----
 
 async function fetchTransfersInDirection(
@@ -373,6 +486,31 @@ async function main() {
   allTransactions.sort((a, b) => (a.date > b.date ? -1 : a.date < b.date ? 1 : 0))
 
   console.log(`\nTotal unique transactions for ${year}: ${allTransactions.length}`)
+
+  // Fetch called contracts (tx.to) to improve tag accuracy
+  console.log('\nFetching transaction details for tagging...')
+  const ethHashes  = [...new Set(allTransactions.filter(tx => tx.network === NetworkName.ETHEREUM).map(tx => tx.hash))]
+  const polyHashes = [...new Set(allTransactions.filter(tx => tx.network !== NetworkName.ETHEREUM).map(tx => tx.hash))]
+  console.log(`  ETH: ${ethHashes.length} unique txs, Polygon: ${polyHashes.length} unique txs`)
+
+  const [ethContractMap, polyContractMap] = await Promise.all([
+    fetchCalledContracts(ALCHEMY_ETH_URL, ethHashes),
+    fetchCalledContracts(ALCHEMY_POLYGON_URL, polyHashes),
+  ])
+  const hashToContract = new Map([...ethContractMap, ...polyContractMap])
+
+  // Fetch marketplace order hashes (event topic scan)
+  console.log('\nFetching marketplace order events...')
+  const [ethMarketHashes, maticMarketHashes] = await Promise.all([
+    getTopicTxHashes(ALCHEMY_ETH_URL,     ethFromBlock,  ethToBlock,  ETH_ORDER_TOPIC),
+    getTopicTxHashes(ALCHEMY_POLYGON_URL, polyFromBlock, polyToBlock, MATIC_ORDER_TOPIC),
+  ])
+  console.log(`  ETH Marketplace: ${ethMarketHashes.size} txs, MATIC Marketplace: ${maticMarketHashes.size} txs`)
+
+  for (const tx of allTransactions) {
+    const calledContract = hashToContract.get(tx.hash.toLowerCase()) || ''
+    tx.tag = resolveTag(tx, calledContract, maticMarketHashes, ethMarketHashes)
+  }
 
   // Fetch historical USD prices from CoinGecko
   console.log('\nFetching historical USD prices from CoinGecko...')
