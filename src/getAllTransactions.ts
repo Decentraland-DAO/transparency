@@ -285,20 +285,39 @@ async function fetchCalledContracts(url: string, hashes: string[]): Promise<Map<
   return result
 }
 
-// Fetches all tx hashes that emitted a specific event topic in a block range
+// Fetches all tx hashes that emitted a specific event topic in a block range.
+// Automatically splits ranges that exceed Alchemy's 10K log response limit.
 async function getTopicTxHashes(url: string, fromBlock: number, toBlock: number, topic: string): Promise<Set<string>> {
   const hashes = new Set<string>()
+
+  async function fetchChunk(start: number, end: number): Promise<void> {
+    try {
+      const logs = await rpcCall<Array<{ transactionHash: string }>>(url, 'eth_getLogs', [{
+        fromBlock: intToHex(start),
+        toBlock:   intToHex(end),
+        topics:    [topic],
+      }])
+      for (const log of logs) hashes.add(log.transactionHash.toLowerCase())
+    } catch (err: any) {
+      if (err.message?.includes('Log response size exceeded') || err.message?.includes('block range')) {
+        const mid = Math.floor((start + end) / 2)
+        if (mid === start) return
+        await fetchChunk(start, mid)
+        await new Promise(r => setTimeout(r, 150))
+        await fetchChunk(mid + 1, end)
+      } else {
+        throw err
+      }
+    }
+  }
+
   const CHUNK = 200000
   for (let start = fromBlock; start <= toBlock; start += CHUNK) {
     const end = Math.min(start + CHUNK - 1, toBlock)
-    const logs = await rpcCall<Array<{ transactionHash: string }>>(url, 'eth_getLogs', [{
-      fromBlock: intToHex(start),
-      toBlock:   intToHex(end),
-      topics:    [topic],
-    }])
-    for (const log of logs) hashes.add(log.transactionHash.toLowerCase())
+    await fetchChunk(start, end)
     if (start + CHUNK <= toBlock) await new Promise(r => setTimeout(r, 150))
   }
+
   return hashes
 }
 
