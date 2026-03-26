@@ -9,12 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+1 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### -91, 75: [No Name](https://governance.decentraland.org/proposal/?id=94dcbe67-7940-4b00-9711-ae93ab9c439b)
+
+* Yes 76.34949974457136% 1,706,761 VP (5 votes)
+* No 0% 0 VP (0 votes)
+* Abstain 23.650500255428643% 528,697 VP (2 votes)
 
 
 ## Name Bans
@@ -31,6 +38,13 @@ Since March 16, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+#### [The DAO&#39;s Transparency Log is Broken. 18 Months Missing Data.  Should We Fix It?](https://governance.decentraland.org/proposal/?id=73492f02-c6cf-4cb1-966a-6cd8e3cbcd31)
+
+* Yes restore the missing data and fix the pipeline 100% 2,604,646 VP (18 votes)
+* No leave the transaction record blank 0% 0 VP (0 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 #### [Put a decent volume slider in the ui..](https://governance.decentraland.org/proposal/?id=11f8f743-7cd1-4c85-b3e1-338f2e94c794)
 
 * Yes 51.26169605042844% 1,014,897 VP (10 votes)
@@ -43,7 +57,6 @@ Since March 16, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
-* -91, 75: [No Name](https://governance.decentraland.org/proposal/?id=94dcbe67-7940-4b00-9711-ae93ab9c439b)
 
 ## Grants
 
@@ -57,6 +70,5 @@ Since March 16, 0 grants have been approved and the vesting contract(s) will be 
 ## Polls
 
 * [Time for a Wearables Fee revision?](https://governance.decentraland.org/proposal/?id=8cc9615d-e8f5-4974-8d5b-bc9662305952)
-* [The DAO&#39;s Transparency Log is Broken. 18 Months Missing Data.  Should We Fix It?](https://governance.decentraland.org/proposal/?id=73492f02-c6cf-4cb1-966a-6cd8e3cbcd31)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
