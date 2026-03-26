@@ -108,7 +108,7 @@ async function buildPriceLookup(
 function getUsdPrice(symbol: string, date: string, lookup: Record<string, number>): number {
   const sym = (symbol || '').toUpperCase()
   if (sym === 'DAI' || sym === 'USDC' || sym === 'USDT') return 1
-  return lookup[`${sym}:${date}`] || 0
+  return lookup[`${sym}:${date.split('T')[0]}`] || 0
 }
 
 const ALCHEMY_ETH_URL = process.env.ALCHEMY_ETH_URL || ''
@@ -414,7 +414,7 @@ function mapTransfer(t: AlchemyTransfer, walletName: string, networkName: string
   }
 
   const interactedWith = type === 'IN' ? from : to
-  const date = t.metadata?.blockTimestamp?.split('T')[0] || ''
+  const date = t.metadata?.blockTimestamp || ''
 
   // Tagging: same logic as setTransactionTag in utils.ts
   let tag = Tags.get(interactedWith)
