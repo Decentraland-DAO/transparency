@@ -55,6 +55,5 @@ Since March 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
-* [Time for a Wearables Fee revision?](https://governance.decentraland.org/proposal/?id=8cc9615d-e8f5-4974-8d5b-bc9662305952)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

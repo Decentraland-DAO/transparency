@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -37,6 +37,13 @@ Since March 16, 0 grants have been approved and the vesting contract(s) will be 
 
 
 ## Polls
+
+#### [Time for a Wearables Fee revision?](https://governance.decentraland.org/proposal/?id=8cc9615d-e8f5-4974-8d5b-bc9662305952)
+
+* Yes 100% 1,795,228 VP (12 votes)
+* No 0% 0 VP (0 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
 
 #### [The DAO&#39;s Transparency Log is Broken. 18 Months Missing Data.  Should We Fix It?](https://governance.decentraland.org/proposal/?id=73492f02-c6cf-4cb1-966a-6cd8e3cbcd31)
 
@@ -69,6 +76,5 @@ Since March 16, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
-* [Time for a Wearables Fee revision?](https://governance.decentraland.org/proposal/?id=8cc9615d-e8f5-4974-8d5b-bc9662305952)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
