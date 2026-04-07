@@ -76,6 +76,5 @@ Since March 16, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
-* [**The DAO Needs a Public Definition of Success and a 2030 Plan.**](https://governance.decentraland.org/proposal/?id=11bed710-fc91-45fd-ab4a-d5fa19f54f8d)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
