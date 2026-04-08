@@ -73,6 +73,7 @@ Since March 16, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Catalysts
 
+* [Remove catalyst node with domain peer-wc1.decentraland.org from the catalyst network](https://governance.decentraland.org/proposal/?id=0d0c48b0-a2e7-4888-805b-737640f832c3)
 
 ## Polls
 
