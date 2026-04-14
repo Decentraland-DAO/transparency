@@ -56,5 +56,6 @@ Since April 1, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Should the DAO mandate an annual review and update of all governance documents?](https://governance.decentraland.org/proposal/?id=630bcf4a-695e-4335-a5fc-55ef7e731489)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
