@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -31,6 +31,13 @@ Since April 16, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+#### [Should the DAO mandate an annual review and update of all governance documents?](https://governance.decentraland.org/proposal/?id=630bcf4a-695e-4335-a5fc-55ef7e731489)
+
+* Yes - A review and update of the DAO&#39;s documents is necessary 100% 1,008,428 VP (12 votes)
+* No - This is not needed 0% 0 VP (0 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 
 # Active Proposals
 
@@ -45,10 +52,8 @@ Since April 16, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Catalysts
 
-* [Remove catalyst node with domain peer-wc1.decentraland.org from the catalyst network](https://governance.decentraland.org/proposal/?id=0d0c48b0-a2e7-4888-805b-737640f832c3)
 
 ## Polls
 
-* [Should the DAO mandate an annual review and update of all governance documents?](https://governance.decentraland.org/proposal/?id=630bcf4a-695e-4335-a5fc-55ef7e731489)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
