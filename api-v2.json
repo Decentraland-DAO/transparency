@@ -1,18 +1,18 @@
 {
   "balances": [],
   "income": {
-    "total": 5648.405876654758,
+    "total": 5778.007500815057,
     "previous": 0,
     "details": [
       {
         "name": "Wearable Submission Fee",
         "description": "Funds corresponding to the fee applied to every new Wearable submission to the Decentraland Marketplace",
-        "value": 2945.3979114542076
+        "value": 2982.9012853895565
       },
       {
         "name": "Names Minting Fee",
         "description": "Funds corresponding to the fee applied to Names minting",
-        "value": 2637.3312
+        "value": 2726.556
       },
       {
         "name": "ESTATE DCL Marketplace Sales Fee",
@@ -27,7 +27,7 @@
       {
         "name": "Wearables Minting Fee",
         "description": "Funds corresponding to the 2.5% fee applied to Wearables minting on Polygon network via the Decentraland Marketplace",
-        "value": 45.07032585055004
+        "value": 47.68139692550005
       },
       {
         "name": "DAO Wallets Transactions",
@@ -37,7 +37,7 @@
       {
         "name": "LAND Rentals Marketplace Fee",
         "description": "Funds corresponding to the 2.5% fee applied to every LAND or ESTATE rental transaction",
-        "value": 20.606439350000002
+        "value": 20.8688185
       },
       {
         "name": "NAME DCL Marketplace Sales Fee",
@@ -47,7 +47,7 @@
     ]
   },
   "expenses": {
-    "total": 1276.6331340000002,
+    "total": 1292.88834,
     "previous": 0,
     "details": [
       {
@@ -58,7 +58,7 @@
       {
         "name": "Wearable Curators Committee Payout",
         "description": "Compensation paid from the DAO treasury to Wearable Curators Committee members (last 30 days)",
-        "value": 764.1850300000001
+        "value": 773.9153000000001
       },
       {
         "name": "DAO Council Compensation",
@@ -68,7 +68,7 @@
       {
         "name": "Other",
         "description": "Other expenses from the DAO treasuries not categorized under specific committees (last 30 days)",
-        "value": 512.4481040000001
+        "value": 518.97304
       }
     ]
   },
