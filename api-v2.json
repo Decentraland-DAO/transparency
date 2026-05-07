@@ -1,18 +1,18 @@
 {
   "balances": [],
   "income": {
-    "total": 4944.695981288124,
+    "total": 4837.643275047523,
     "previous": 0,
     "details": [
       {
         "name": "Wearable Submission Fee",
         "description": "Funds corresponding to the fee applied to every new Wearable submission to the Decentraland Marketplace",
-        "value": 2667.1231279928743
+        "value": 2646.271256468323
       },
       {
         "name": "Names Minting Fee",
         "description": "Funds corresponding to the fee applied to Names minting",
-        "value": 2153.9595
+        "value": 2072.3584
       },
       {
         "name": "ESTATE DCL Marketplace Sales Fee",
@@ -22,12 +22,12 @@
       {
         "name": "LAND  DCL Marketplace Sales Fee",
         "description": "Funds corresponding to the 2.5% fee applied to every LAND transaction (Minting or secondary)",
-        "value": 46.62016887499999
+        "value": 46.25568709999999
       },
       {
         "name": "Wearables Minting Fee",
         "description": "Funds corresponding to the 2.5% fee applied to Wearables minting on Polygon network via the Decentraland Marketplace",
-        "value": 56.01072829524998
+        "value": 51.9418314792
       },
       {
         "name": "DAO Wallets Transactions",
@@ -37,7 +37,7 @@
       {
         "name": "LAND Rentals Marketplace Fee",
         "description": "Funds corresponding to the 2.5% fee applied to every LAND or ESTATE rental transaction",
-        "value": 20.982456125
+        "value": 20.8161
       },
       {
         "name": "NAME DCL Marketplace Sales Fee",
@@ -47,7 +47,7 @@
     ]
   },
   "expenses": {
-    "total": 2040.853315,
+    "total": 2024.897692,
     "previous": 0,
     "details": [
       {
@@ -58,7 +58,7 @@
       {
         "name": "Wearable Curators Committee Payout",
         "description": "Compensation paid from the DAO treasury to Wearable Curators Committee members (last 30 days)",
-        "value": 1364.454085
+        "value": 1353.786628
       },
       {
         "name": "DAO Council Compensation",
@@ -68,7 +68,7 @@
       {
         "name": "Other",
         "description": "Other expenses from the DAO treasuries not categorized under specific committees (last 30 days)",
-        "value": 676.39923
+        "value": 671.111064
       }
     ]
   },
