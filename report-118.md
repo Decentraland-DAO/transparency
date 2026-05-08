@@ -52,6 +52,7 @@ Since April 16, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Catalysts
 
+* [Remove catalyst node with domain peer.kyllian.me from the catalyst network](https://governance.decentraland.org/proposal/?id=dd8867bf-2c47-413e-a1de-41d54a551d1c)
 
 ## Polls
 
