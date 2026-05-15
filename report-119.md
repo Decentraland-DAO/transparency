@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 1 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -22,7 +22,14 @@ In the two weeks since the last DAO Committee report, 0 points of interest (POI)
 No names have been banned since the previous report.
 
 ## Catalyst Nodes
-No Catalyst nodes have been added since the previous report.
+1 Catalyst nodes have been added since the previous report.
+
+
+#### [Remove catalyst node with domain peer.kyllian.me from the catalyst network](https://governance.decentraland.org/proposal/?id=dd8867bf-2c47-413e-a1de-41d54a551d1c)
+
+* Yes 87.76780261615802% 10,445,348 VP (33 votes)
+* No 11.65948638766314% 1,387,609 VP (3 votes)
+* Abstain 0.5727109961788457% 68,159 VP (3 votes)
 
 
 ## Grant requests
@@ -45,7 +52,6 @@ Since May 1, 0 grants have been approved and the vesting contract(s) will be est
 
 ## Catalysts
 
-* [Remove catalyst node with domain peer.kyllian.me from the catalyst network](https://governance.decentraland.org/proposal/?id=dd8867bf-2c47-413e-a1de-41d54a551d1c)
 
 ## Polls
 
