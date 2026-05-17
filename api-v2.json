@@ -1,18 +1,18 @@
 {
   "balances": [],
   "income": {
-    "total": 4695.525405769694,
+    "total": 4862.918872840493,
     "previous": 0,
     "details": [
       {
         "name": "Wearable Submission Fee",
         "description": "Funds corresponding to the fee applied to every new Wearable submission to the Decentraland Marketplace",
-        "value": 2472.841161796093
+        "value": 2505.790746546294
       },
       {
         "name": "Names Minting Fee",
         "description": "Funds corresponding to the fee applied to Names minting",
-        "value": 2130.6328
+        "value": 2266.5258
       },
       {
         "name": "ESTATE DCL Marketplace Sales Fee",
@@ -22,12 +22,12 @@
       {
         "name": "LAND  DCL Marketplace Sales Fee",
         "description": "Funds corresponding to the 2.5% fee applied to every LAND transaction (Minting or secondary)",
-        "value": 44.20178979999999
+        "value": 44.79076034999999
       },
       {
         "name": "Wearables Minting Fee",
         "description": "Funds corresponding to the 2.5% fee applied to Wearables minting on Polygon network via the Decentraland Marketplace",
-        "value": 47.84965417360002
+        "value": 45.81156594420002
       },
       {
         "name": "DAO Wallets Transactions",
@@ -47,7 +47,7 @@
     ]
   },
   "expenses": {
-    "total": 1934.9858960000001,
+    "total": 1960.768782,
     "previous": 0,
     "details": [
       {
@@ -58,7 +58,7 @@
       {
         "name": "Wearable Curators Committee Payout",
         "description": "Compensation paid from the DAO treasury to Wearable Curators Committee members (last 30 days)",
-        "value": 1293.674264
+        "value": 1310.9119380000002
       },
       {
         "name": "DAO Council Compensation",
@@ -68,7 +68,7 @@
       {
         "name": "Other",
         "description": "Other expenses from the DAO treasuries not categorized under specific committees (last 30 days)",
-        "value": 641.311632
+        "value": 649.856844
       }
     ]
   },
