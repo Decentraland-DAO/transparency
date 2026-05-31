@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -31,6 +31,13 @@ Since May 16, 0 grants have been approved and the vesting contract(s) will be es
 
 ## Polls
 
+#### [Should the VP distribution be revised to add in created items.](https://governance.decentraland.org/proposal/?id=a396ae23-46e7-41d0-86de-35ed696d4653)
+
+* Yes, we should get VP for publishing wearables &amp; emotes 67.30037623922902% 705,668 VP (8 votes)
+* No, the VP structure is fine as it stands now 32.50888143934156% 340,867 VP (2 votes)
+* Invalid question/options 0.19074232142942296% 2,000 VP (1 votes)
+
+
 
 # Active Proposals
 
@@ -49,6 +56,5 @@ Since May 16, 0 grants have been approved and the vesting contract(s) will be es
 ## Polls
 
 * [Should the VP threshold for governance proposal be reduced?](https://governance.decentraland.org/proposal/?id=253d73ee-ab2e-4f3b-b53d-f4d521a750df)
-* [Should the VP distribution be revised to add in created items.](https://governance.decentraland.org/proposal/?id=a396ae23-46e7-41d0-86de-35ed696d4653)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
