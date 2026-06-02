@@ -1,18 +1,18 @@
 {
   "balances": [],
   "income": {
-    "total": 3906.8057716037947,
+    "total": 3244.8262671517223,
     "previous": 0,
     "details": [
       {
         "name": "Wearable Submission Fee",
         "description": "Funds corresponding to the fee applied to every new Wearable submission to the Decentraland Marketplace",
-        "value": 2105.1477766654943
+        "value": 1441.238259809822
       },
       {
         "name": "Names Minting Fee",
         "description": "Funds corresponding to the fee applied to Names minting",
-        "value": 1737.1870999999999
+        "value": 1738.8468
       },
       {
         "name": "ESTATE DCL Marketplace Sales Fee",
@@ -27,7 +27,7 @@
       {
         "name": "Wearables Minting Fee",
         "description": "Funds corresponding to the 2.5% fee applied to Wearables minting on Polygon network via the Decentraland Marketplace",
-        "value": 45.71093663829997
+        "value": 46.31596214189996
       },
       {
         "name": "DAO Wallets Transactions",
@@ -37,7 +37,7 @@
       {
         "name": "LAND Rentals Marketplace Fee",
         "description": "Funds corresponding to the 2.5% fee applied to every LAND or ESTATE rental transaction",
-        "value": 18.759958299999997
+        "value": 18.4252452
       },
       {
         "name": "NAME DCL Marketplace Sales Fee",
@@ -47,7 +47,7 @@
     ]
   },
   "expenses": {
-    "total": 660.463574,
+    "total": 0,
     "previous": 0,
     "details": [
       {
@@ -58,7 +58,7 @@
       {
         "name": "Wearable Curators Committee Payout",
         "description": "Compensation paid from the DAO treasury to Wearable Curators Committee members (last 30 days)",
-        "value": 522.652272
+        "value": 0
       },
       {
         "name": "DAO Council Compensation",
@@ -68,7 +68,7 @@
       {
         "name": "Other",
         "description": "Other expenses from the DAO treasuries not categorized under specific committees (last 30 days)",
-        "value": 137.81130199999998
+        "value": 0
       }
     ]
   },
