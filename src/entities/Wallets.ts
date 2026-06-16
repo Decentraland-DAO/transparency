@@ -19,6 +19,7 @@ enum WalletNames {
   ARAGON = "Aragon Agent",
   DAO = "DAO Committee",
   COUNCIL = "DAO Council Operational Multisig",
+  TREASURY_MANAGEMENT = "DAO Treasury Management Multisig",
 }
 
 // Proposal that deprecated the DAO Committee and created the Council
@@ -41,6 +42,21 @@ export const WALLETS: Wallet[] = [
   {
     name: WalletNames.COUNCIL,
     address: "0x184e4d9a26add0af1eafc145550e890a421f16d7",
+    network: Networks.getEth(),
+    status: WalletStatus.ACTIVE,
+  },
+  // DAO Treasury Management Multisig. Funded from the Aragon Agent to perform
+  // treasury / DeFi operations (e.g. staking ETH, trading MANA, depositing
+  // stablecoins into DeFi vaults).
+  // NOTE: balances only cover the fixed token list in entities/Tokens.ts
+  // (MANA, ETH, MATIC, DAI, USDT, USDC, WETH). DeFi positions held as other
+  // tokens — staked ETH (stETH/wstETH/rETH), LP tokens, vault receipt tokens
+  // (aTokens, yVault shares, etc.) — are NOT yet captured, so funds deployed
+  // into protocols will under-report here. Tracking those needs a follow-up
+  // (extend TOKENS or integrate a portfolio API such as DeBank/Zapper/Zerion).
+  {
+    name: WalletNames.TREASURY_MANAGEMENT,
+    address: "0x96e2f6099860731cfdc0af700de862cf6eba4407",
     network: Networks.getEth(),
     status: WalletStatus.ACTIVE,
   },
