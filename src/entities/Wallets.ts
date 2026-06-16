@@ -45,9 +45,15 @@ export const WALLETS: Wallet[] = [
     network: Networks.getEth(),
     status: WalletStatus.ACTIVE,
   },
-  // DAO Treasury Management Multisig. Funded from the Aragon Agent to perform
-  // treasury / DeFi operations (e.g. staking ETH, trading MANA, depositing
-  // stablecoins into DeFi vaults).
+  // DAO Treasury Management Multisig. A classic (Safe) multisig used as a
+  // modern alternative to the Aragon Agent for treasury / DeFi operations
+  // (e.g. staking ETH, trading MANA, depositing stablecoins into DeFi vaults),
+  // which are impractical through the Aragon finance app. Funded from the
+  // Aragon Agent and managed by a group defined by the DAO Council per:
+  //   - "Approval of Decentraland Treasury Mandate"
+  //     https://snapshot.org/#/s:daocouncil.dcl.eth/proposal/0x4180bc3bd1669224a425a625dfa61e06610b7c205d3e9151e81ae40f64cfee33
+  //   - "Treasury Withdrawal to Operational Multisig for DAO Operations and Capital Deployment to Avantgarde"
+  //     https://snapshot.org/#/s:daocouncil.dcl.eth/proposal/0x866e65525317e6dda4913533e279989dee28e8c033acf705b54a843d813a545a
   // NOTE: balances only cover the fixed token list in entities/Tokens.ts
   // (MANA, ETH, MATIC, DAI, USDT, USDC, WETH). DeFi positions held as other
   // tokens — staked ETH (stETH/wstETH/rETH), LP tokens, vault receipt tokens
