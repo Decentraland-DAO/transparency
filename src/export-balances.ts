@@ -111,6 +111,7 @@ async function main() {
           symbol: tokenValue.symbol,
           network: NetworkName.ETHEREUM,
           address: wallet.address,
+          status: wallet.status,
           contractAddress: tokenValue.contractAddress,
           decimals: tokenValue.decimals
         })
@@ -128,6 +129,7 @@ async function main() {
           symbol: tokenValue.symbol,
           network: NetworkName.POLYGON,
           address: wallet.address,
+          status: wallet.status,
           contractAddress: tokenValue.contractAddress,
           decimals: tokenValue.decimals
         })
@@ -147,6 +149,7 @@ async function main() {
     { id: 'rate', title: 'USD Rate' },
     { id: 'network', title: 'Network' },
     { id: 'address', title: 'Address' },
+    { id: 'status', title: 'Status' },
     { id: 'contractAddress', title: 'Token' }
   ])
 }
