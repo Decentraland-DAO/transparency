@@ -1,5 +1,6 @@
 import path from 'path'
 import fs from 'fs'
+import { Wallets } from './entities/Wallets'
 type FetchResponse = Response
 /** CONFIG / CONSTANTS */
 const DCL_SUBGRAPH_API_KEY = process.env.DCL_SUBGRAPH_API_KEY
@@ -49,6 +50,12 @@ const DAO_TREASURY_ETH = [
 const DAO_TREASURY_POLYGON = [
   '0xb08e3e7cc815213304d884c88ca476ebc50eaab2' // DAO  (Polygon)
 ].map((a) => a.toLowerCase())
+
+// Every DAO-controlled wallet (single source of truth: entities/Wallets).
+// Transfers BETWEEN these wallets are internal treasury movements (e.g. funding
+// a new multisig from the Aragon Agent), not real expenses, so they must be
+// excluded from the "Other expenses" total.
+const DAO_WALLET_SET = new Set(Wallets.getAddresses().map((a) => a.toLowerCase()))
 
 // // Payment addresses
 const CURATORS_PAYMENT_ADDRESSES = [
@@ -1195,7 +1202,10 @@ async function calcOtherExpensesUSD(
 
     if (!amount || !asset || !toAddrLower) continue
 
-  
+    // Skip internal movements between DAO wallets (e.g. Aragon Agent funding a
+    // new multisig). These are not expenses, just treasury reallocations.
+    if (DAO_WALLET_SET.has(toAddrLower)) continue
+
     if (CURATORS_PAYMENT_SET.has(toAddrLower)) continue
     if (DAO_COMMITTEE_PAYMENT_SET.has(toAddrLower)) continue
     if (DAO_COUNCIL_PAYMENT_SET.has(toAddrLower)) continue
