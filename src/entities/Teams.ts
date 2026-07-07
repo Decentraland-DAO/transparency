@@ -30,7 +30,7 @@ class Committee {
 export const SABCommittee = new Committee(
   'Security Advisory Board',
   'Responsable to overview the sensible operations of the DAO, with the power to halt operations initiated by the DAO Committee or the Community. They advise in the best course of action for technical operations involving the DAO\'s smart contracts.',
-  5,
+  4,
   [
     {
       address: '0xbcac4dafb7e215f2f6cb3312af6d5e4f9d9e7eda',
@@ -51,11 +51,6 @@ export const SABCommittee = new Committee(
       address: '0x42ebd2ab698ba74eec1d2a81c376ea2c38c05249',
       name: 'Brett',
       avatar: 'https://decentraland.org/images/male.png'
-    },
-    {
-      address: '0x759605f5497c578988d167e2f66d4955d35e77af',
-      name: 'Kyllian',
-      avatar: 'https://peer.decentraland.org/content/contents/bafkreig4ckv7k7ga7niptdw2wsv2u565r6hb5dwzprhavoa3yyoftjrvni'
     }
   ]
 )
