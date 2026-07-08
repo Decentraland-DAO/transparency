@@ -8,6 +8,31 @@ import { getAllTokenPrices } from './fetchCoingeckoPrices'
 
 const apiKey = process.env.ALCHEMY_API_KEY
 
+const sleep = (ms: number) => new Promise(resolve => setTimeout(resolve, ms))
+
+// Alchemy enforces a compute-units-per-second (CUPS) throughput cap that is
+// independent of the monthly quota, so bursts of requests get HTTP 429s even
+// on pay-as-you-go plans. We pace the loop with a small delay between calls and
+// retry with exponential backoff when a request fails (e.g. a 429).
+const RATE_LIMIT_DELAY = 500
+
+async function withRetry<T>(fn: () => Promise<T>, retries = 5, backoff = 1000): Promise<T> {
+  let lastErr: unknown
+  for (let attempt = 0; attempt <= retries; attempt++) {
+    try {
+      return await fn()
+    } catch (err) {
+      lastErr = err
+      if (attempt < retries) {
+        const wait = backoff * 2 ** attempt
+        console.log(`Alchemy request failed (attempt ${attempt + 1}/${retries + 1}), retrying in ${wait}ms...`)
+        await sleep(wait)
+      }
+    }
+  }
+  throw lastErr
+}
+
 type TokenBalanceValue = {
   amount: number,
   quote: number,
@@ -65,11 +90,15 @@ async function main() {
     maticBalance: string
   }> = {}
   for (const wallet of WALLETS) {
-    const ethereumErc20Balances = await alchemyEth.alchemy.getTokenBalances(wallet.address, Object.keys(TOKENS[NetworkName.ETHEREUM]))
-    const ethBalance = await alchemyEth.eth.getBalance(wallet.address)
+    const ethereumErc20Balances = await withRetry(() => alchemyEth.alchemy.getTokenBalances(wallet.address, Object.keys(TOKENS[NetworkName.ETHEREUM])))
+    await sleep(RATE_LIMIT_DELAY)
+    const ethBalance = await withRetry(() => alchemyEth.eth.getBalance(wallet.address))
+    await sleep(RATE_LIMIT_DELAY)
 
-    const polygonErc20Balances = await alchemyPolygon.alchemy.getTokenBalances(wallet.address, Object.keys(TOKENS[NetworkName.POLYGON]))
-    const maticBalance = await alchemyPolygon.eth.getBalance(wallet.address)
+    const polygonErc20Balances = await withRetry(() => alchemyPolygon.alchemy.getTokenBalances(wallet.address, Object.keys(TOKENS[NetworkName.POLYGON])))
+    await sleep(RATE_LIMIT_DELAY)
+    const maticBalance = await withRetry(() => alchemyPolygon.eth.getBalance(wallet.address))
+    await sleep(RATE_LIMIT_DELAY)
 
     walletBalances[wallet.address] = {
       ethereumErc20Balances: ethereumErc20Balances.tokenBalances,
