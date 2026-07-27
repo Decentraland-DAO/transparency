@@ -43,6 +43,11 @@ Since July 1, 0 grants have been approved and the vesting contract(s) will be es
 
 ## Points of Interest
 
+* 126, 104: [L’Impératrice Atelier](https://governance.decentraland.org/proposal/?id=9c763876-498a-4ad2-988d-48df889b3458)
+* -118, 149: [PINK OASIS](https://governance.decentraland.org/proposal/?id=e0a2b950-4bc3-456d-adc1-ee46438f51b2)
+* -16, 121: [[2/4] (Connects to [1/4] + [2/4] + [3/4])](https://governance.decentraland.org/proposal/?id=3c2db5dc-f035-42d0-bab2-38b5279bcca3)
+* -65, -37: [No Name](https://governance.decentraland.org/proposal/?id=ede4ceac-4d29-4518-adfc-a5dcbb28c3fc)
+* -34, -30: [/////////](https://governance.decentraland.org/proposal/?id=fe46f341-9020-4839-9fc3-ddf37ae28083)
 
 ## Grants
 
