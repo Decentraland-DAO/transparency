@@ -9,12 +9,47 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 5 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+5 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 126, 104: [L’Impératrice Atelier](https://governance.decentraland.org/proposal/?id=9c763876-498a-4ad2-988d-48df889b3458)
+
+* Yes 99.91236641355165% 2,280,230 VP (12 votes)
+* No 0% 0 VP (0 votes)
+* Abstain 0.0876335864483422% 2,000 VP (2 votes)
+
+
+#### -118, 149: [PINK OASIS](https://governance.decentraland.org/proposal/?id=e0a2b950-4bc3-456d-adc1-ee46438f51b2)
+
+* Yes 99.8606509612103% 2,010,126 VP (10 votes)
+* No 0% 0 VP (0 votes)
+* Abstain 0.13934903878970514% 2,805 VP (3 votes)
+
+
+#### -16, 121: [[2/4] (Connects to [1/4] + [2/4] + [3/4])](https://governance.decentraland.org/proposal/?id=3c2db5dc-f035-42d0-bab2-38b5279bcca3)
+
+* Yes 49.170256073735516% 986,079 VP (8 votes)
+* No 0% 0 VP (0 votes)
+* Abstain 50.82974392626449% 1,019,359 VP (3 votes)
+
+
+#### -65, -37: [No Name](https://governance.decentraland.org/proposal/?id=ede4ceac-4d29-4518-adfc-a5dcbb28c3fc)
+
+* Yes 98.10799250748514% 1,995,546 VP (9 votes)
+* No 0% 0 VP (0 votes)
+* Abstain 1.8920074925148596% 38,484 VP (3 votes)
+
+
+#### -34, -30: [/////////](https://governance.decentraland.org/proposal/?id=fe46f341-9020-4839-9fc3-ddf37ae28083)
+
+* Yes 99.90642841469617% 2,135,401 VP (10 votes)
+* No 0% 0 VP (0 votes)
+* Abstain 0.09357158530383396% 2,000 VP (2 votes)
 
 
 ## Name Bans
@@ -36,11 +71,6 @@ Since August 1, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
-* 126, 104: [L’Impératrice Atelier](https://governance.decentraland.org/proposal/?id=9c763876-498a-4ad2-988d-48df889b3458)
-* -118, 149: [PINK OASIS](https://governance.decentraland.org/proposal/?id=e0a2b950-4bc3-456d-adc1-ee46438f51b2)
-* -16, 121: [[2/4] (Connects to [1/4] + [2/4] + [3/4])](https://governance.decentraland.org/proposal/?id=3c2db5dc-f035-42d0-bab2-38b5279bcca3)
-* -65, -37: [No Name](https://governance.decentraland.org/proposal/?id=ede4ceac-4d29-4518-adfc-a5dcbb28c3fc)
-* -34, -30: [/////////](https://governance.decentraland.org/proposal/?id=fe46f341-9020-4839-9fc3-ddf37ae28083)
 
 ## Grants
 
