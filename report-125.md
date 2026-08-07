@@ -83,5 +83,6 @@ Since August 1, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+* [Should DAO Council members have term limits ?](https://governance.decentraland.org/proposal/?id=de9c27e4-976b-4412-97a5-b94bb1f9e15e)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
