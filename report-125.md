@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 5 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 5 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -66,6 +66,15 @@ Since August 1, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+#### [Should DAO Council members have term limits ?](https://governance.decentraland.org/proposal/?id=de9c27e4-976b-4412-97a5-b94bb1f9e15e)
+
+* 1. Yes — 2 year terms, maximum 2 terms in a row, then a 2-year break 42.895474800401836% 1,056,386 VP (7 votes)
+* 2. Yes — but I prefer different term limits(COMMENT) 11.262769531627507% 277,368 VP (3 votes)
+* 3. No — DAO Council members should not have term limits 1.8252745566041797% 44,951 VP (2 votes)
+* 4. Abstain / I need more information 44.01648111136648% 1,083,993 VP (3 votes)
+* Invalid question/options 0% 0 VP (0 votes)
+
+
 
 # Active Proposals
 
@@ -83,6 +92,5 @@ Since August 1, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
-* [Should DAO Council members have term limits ?](https://governance.decentraland.org/proposal/?id=de9c27e4-976b-4412-97a5-b94bb1f9e15e)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
