@@ -48,5 +48,6 @@ Since July 16, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
+* [Should Decentraland Create Clear Rules for Platform-Wide Bans?](https://governance.decentraland.org/proposal/?id=5f991213-122e-4957-9ce8-6e669a2d3450)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
