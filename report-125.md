@@ -92,6 +92,5 @@ Since August 1, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
-* [Bring Back Collectible Culture to Decentraland](https://governance.decentraland.org/proposal/?id=d1ee6c89-41bf-4130-ba25-88b4c0ce9204)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

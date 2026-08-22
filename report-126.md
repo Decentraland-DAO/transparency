@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -30,6 +30,14 @@ Since August 16, 0 grants have been approved and the vesting contract(s) will be
 
 
 ## Polls
+
+#### [Bring Back Collectible Culture to Decentraland](https://governance.decentraland.org/proposal/?id=d1ee6c89-41bf-4130-ba25-88b4c0ce9204)
+
+* Yes. Cap new L2 collections and restore value to existing ones 0.000354682123240688% 5 VP (1 votes)
+* No. Find another way to restore collectible value 2.446100731141729% 34,483 VP (3 votes)
+* No. Keep wearables abundant, low-cost, and without collectible value. 86.69551887511855% 1,222,158 VP (5 votes)
+* Invalid question/options 10.85802571161648% 153,067 VP (2 votes)
+
 
 #### [Should Decentraland Create Clear Rules for Platform-Wide Bans?](https://governance.decentraland.org/proposal/?id=5f991213-122e-4957-9ce8-6e669a2d3450)
 
@@ -55,6 +63,5 @@ Since August 16, 0 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
-* [Bring Back Collectible Culture to Decentraland](https://governance.decentraland.org/proposal/?id=d1ee6c89-41bf-4130-ba25-88b4c0ce9204)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
