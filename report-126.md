@@ -63,5 +63,6 @@ Since August 16, 0 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Dark mode governance site](https://governance.decentraland.org/proposal/?id=86e3d620-0f60-40bc-92d2-9f2a18aa36bf)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
