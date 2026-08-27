@@ -9,12 +9,12 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 5 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-5 points of interest have been added to Decentraland’s map since the last report.
+2 points of interest have been added to Decentraland’s map since the last report.
 
 
 #### 126, 104: [L’Impératrice Atelier](https://governance.decentraland.org/proposal/?id=9c763876-498a-4ad2-988d-48df889b3458)
@@ -29,27 +29,6 @@ In the two weeks since the last DAO Committee report, 5 points of interest (POI)
 * Yes 99.8606509612103% 2,010,126 VP (10 votes)
 * No 0% 0 VP (0 votes)
 * Abstain 0.13934903878970514% 2,805 VP (3 votes)
-
-
-#### -16, 121: [[2/4] (Connects to [1/4] + [2/4] + [3/4])](https://governance.decentraland.org/proposal/?id=3c2db5dc-f035-42d0-bab2-38b5279bcca3)
-
-* Yes 49.170256073735516% 986,079 VP (8 votes)
-* No 0% 0 VP (0 votes)
-* Abstain 50.82974392626449% 1,019,359 VP (3 votes)
-
-
-#### -65, -37: [No Name](https://governance.decentraland.org/proposal/?id=ede4ceac-4d29-4518-adfc-a5dcbb28c3fc)
-
-* Yes 98.10799250748514% 1,995,546 VP (9 votes)
-* No 0% 0 VP (0 votes)
-* Abstain 1.8920074925148596% 38,484 VP (3 votes)
-
-
-#### -34, -30: [/////////](https://governance.decentraland.org/proposal/?id=fe46f341-9020-4839-9fc3-ddf37ae28083)
-
-* Yes 99.90642841469617% 2,135,401 VP (10 votes)
-* No 0% 0 VP (0 votes)
-* Abstain 0.09357158530383396% 2,000 VP (2 votes)
 
 
 ## Name Bans
@@ -92,6 +71,7 @@ Since August 1, 0 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+* [Decentraland Shop &amp; Marketplace Redesign](https://governance.decentraland.org/proposal/?id=037fdd19-a180-4e17-995e-aa6a26bae790)
 * [Dark mode governance site](https://governance.decentraland.org/proposal/?id=86e3d620-0f60-40bc-92d2-9f2a18aa36bf)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
