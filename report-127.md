@@ -42,6 +42,7 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 
 ## Names Bans
 
+* [Ban the name test](https://governance.decentraland.org/proposal/?id=21cab28b-cebf-4920-8392-c3b60864ae35)
 
 ## Catalysts
 
