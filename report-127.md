@@ -48,5 +48,6 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Introduce a Minimum Offer Threshold for Marketplace Sellers](https://governance.decentraland.org/proposal/?id=87350376-f327-4de1-93ba-f4e95e9fcfce)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
