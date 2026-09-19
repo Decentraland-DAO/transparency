@@ -36,6 +36,7 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
+* 40, 54: [AFTER-HOURS](https://governance.decentraland.org/proposal/?id=c2705fcf-556f-406c-b982-c01c1c56f410)
 
 ## Grants
 
@@ -49,6 +50,5 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 ## Polls
 
 * [Add Show/Hide Toggle for Archived Bids/Offers in DCL Marketplace](https://governance.decentraland.org/proposal/?id=a155d6d2-29ad-4b78-a443-2e490815c6af)
-* [Introduce a Minimum Offer Threshold for Marketplace Sellers](https://governance.decentraland.org/proposal/?id=87350376-f327-4de1-93ba-f4e95e9fcfce)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
