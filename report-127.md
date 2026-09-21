@@ -49,6 +49,5 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
-* [Add Show/Hide Toggle for Archived Bids/Offers in DCL Marketplace](https://governance.decentraland.org/proposal/?id=a155d6d2-29ad-4b78-a443-2e490815c6af)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -30,6 +30,13 @@ Since September 16, 0 grants have been approved and the vesting contract(s) will
 
 
 ## Polls
+
+#### [Add Show/Hide Toggle for Archived Bids/Offers in DCL Marketplace](https://governance.decentraland.org/proposal/?id=a155d6d2-29ad-4b78-a443-2e490815c6af)
+
+* Yes  99.80517627163883% 1,024,569 VP (6 votes)
+* No  0% 0 VP (0 votes)
+* Invalid question/options 0.19482372836117204% 2,000 VP (1 votes)
+
 
 #### [Introduce a Minimum Offer Threshold for Marketplace Sellers](https://governance.decentraland.org/proposal/?id=87350376-f327-4de1-93ba-f4e95e9fcfce)
 
@@ -56,6 +63,5 @@ Since September 16, 0 grants have been approved and the vesting contract(s) will
 
 ## Polls
 
-* [Add Show/Hide Toggle for Archived Bids/Offers in DCL Marketplace](https://governance.decentraland.org/proposal/?id=a155d6d2-29ad-4b78-a443-2e490815c6af)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
