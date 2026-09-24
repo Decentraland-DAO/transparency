@@ -49,5 +49,6 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Should DecentralandDAO X account to do the bare minimum.](https://governance.decentraland.org/proposal/?id=77e5bca9-5f48-4f06-bd1e-2aadab51e200)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
