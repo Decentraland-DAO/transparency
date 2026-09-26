@@ -36,7 +36,6 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
-* 40, 54: [AFTER-HOURS](https://governance.decentraland.org/proposal/?id=c2705fcf-556f-406c-b982-c01c1c56f410)
 
 ## Grants
 
@@ -49,6 +48,9 @@ Since September 1, 0 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
+* [Proposed Decentraland Names Contract Migration and Recovery Plan](https://governance.decentraland.org/proposal/?id=56de07d1-8ca3-4a55-ad83-e8d092f489d7)
+* [Immediate Request to Freeze ALL Decentraland Names and Related Transactions](https://governance.decentraland.org/proposal/?id=ace2ff92-4802-4416-a45e-0f06bc64c004)
+* [DAO X Account to give me rights to post for them?](https://governance.decentraland.org/proposal/?id=7f1585ff-fd93-49da-8dac-efde48781979)
 * [Should DecentralandDAO X account to do the bare minimum.](https://governance.decentraland.org/proposal/?id=77e5bca9-5f48-4f06-bd1e-2aadab51e200)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

@@ -9,12 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+1 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 40, 54: [AFTER-HOURS](https://governance.decentraland.org/proposal/?id=c2705fcf-556f-406c-b982-c01c1c56f410)
+
+* Yes 99.9187175251112% 2,458,555 VP (18 votes)
+* No 0% 0 VP (0 votes)
+* Abstain 0.0812824748887954% 2,000 VP (1 votes)
 
 
 ## Name Bans
@@ -50,7 +57,6 @@ Since September 16, 0 grants have been approved and the vesting contract(s) will
 
 ## Points of Interest
 
-* 40, 54: [AFTER-HOURS](https://governance.decentraland.org/proposal/?id=c2705fcf-556f-406c-b982-c01c1c56f410)
 
 ## Grants
 
@@ -63,6 +69,9 @@ Since September 16, 0 grants have been approved and the vesting contract(s) will
 
 ## Polls
 
+* [Proposed Decentraland Names Contract Migration and Recovery Plan](https://governance.decentraland.org/proposal/?id=56de07d1-8ca3-4a55-ad83-e8d092f489d7)
+* [Immediate Request to Freeze ALL Decentraland Names and Related Transactions](https://governance.decentraland.org/proposal/?id=ace2ff92-4802-4416-a45e-0f06bc64c004)
+* [DAO X Account to give me rights to post for them?](https://governance.decentraland.org/proposal/?id=7f1585ff-fd93-49da-8dac-efde48781979)
 * [Should DecentralandDAO X account to do the bare minimum.](https://governance.decentraland.org/proposal/?id=77e5bca9-5f48-4f06-bd1e-2aadab51e200)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
