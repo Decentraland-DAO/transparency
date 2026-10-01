@@ -77,8 +77,5 @@ Since September 16, 0 grants have been approved and the vesting contract(s) will
 ## Polls
 
 * [Return the money in DAO Committee Multisigs to the DAO Treasury](https://governance.decentraland.org/proposal/?id=949f6bd1-27df-4b4f-81d7-5a61d82496ff)
-* [Proposed Decentraland Names Contract Migration and Recovery Plan](https://governance.decentraland.org/proposal/?id=56de07d1-8ca3-4a55-ad83-e8d092f489d7)
-* [Immediate Request to Freeze ALL Decentraland Names and Related Transactions](https://governance.decentraland.org/proposal/?id=ace2ff92-4802-4416-a45e-0f06bc64c004)
-* [DAO X Account to give me rights to post for them?](https://governance.decentraland.org/proposal/?id=7f1585ff-fd93-49da-8dac-efde48781979)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
