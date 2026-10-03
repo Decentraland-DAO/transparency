@@ -76,6 +76,5 @@ Since September 16, 0 grants have been approved and the vesting contract(s) will
 
 ## Polls
 
-* [Return the money in DAO Committee Multisigs to the DAO Treasury](https://governance.decentraland.org/proposal/?id=949f6bd1-27df-4b4f-81d7-5a61d82496ff)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

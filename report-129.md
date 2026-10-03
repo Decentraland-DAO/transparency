@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 4 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -30,6 +30,13 @@ Since October 1, 0 grants have been approved and the vesting contract(s) will be
 
 
 ## Polls
+
+#### [Return the money in DAO Committee Multisigs to the DAO Treasury](https://governance.decentraland.org/proposal/?id=949f6bd1-27df-4b4f-81d7-5a61d82496ff)
+
+* Yes, return the money 80.23146141632013% 1,617,930 VP (11 votes)
+* No 19.66936066941125% 396,648 VP (1 votes)
+* Invalid question/options 0.09917791426862735% 2,000 VP (1 votes)
+
 
 #### [Proposed Decentraland Names Contract Migration and Recovery Plan](https://governance.decentraland.org/proposal/?id=56de07d1-8ca3-4a55-ad83-e8d092f489d7)
 
@@ -69,6 +76,5 @@ Since October 1, 0 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
-* [Return the money in DAO Committee Multisigs to the DAO Treasury](https://governance.decentraland.org/proposal/?id=949f6bd1-27df-4b4f-81d7-5a61d82496ff)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
