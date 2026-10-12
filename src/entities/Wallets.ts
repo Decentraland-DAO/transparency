@@ -17,9 +17,10 @@ export type Wallet = {
 
 enum WalletNames {
   ARAGON = "Aragon Agent",
-  DAO = "DAO Committee",
+  OPERATIONAL = "DAO Operational Multisig",
   COUNCIL = "DAO Council Operational Multisig",
   TREASURY_MANAGEMENT = "DAO Treasury Management Multisig",
+  TREASURY_MANDATE = "DAO Treasury Mandate Multisig",
 }
 
 // Proposal that deprecated the DAO Committee and created the Council
@@ -33,9 +34,9 @@ export const WALLETS: Wallet[] = [
     network: Networks.getEth(),
     status: WalletStatus.ACTIVE,
   },
-  // DAO Council Operational Multisig (3-of-5). Replaces the deprecated DAO
-  // Committee per proposal bb2b8234. Deployed on Ethereum; a Polygon
-  // deployment is expected. Balances are scanned on BOTH networks for every
+  // DAO Council Operational Multisig (3-of-5, the five DAO Council members).
+  // Pays the Council's stipends and the Wearables curators. Deployed on
+  // Ethereum; the same address also exists on Polygon. Balances are scanned on BOTH networks for every
   // address (see export-balances.ts), so a same-address Polygon Safe will be
   // tracked automatically once deployed. If the Polygon Safe is deployed to a
   // DIFFERENT address, add a second entry here for that address.
@@ -54,20 +55,30 @@ export const WALLETS: Wallet[] = [
     network: Networks.getEth(),
     status: WalletStatus.ACTIVE,
   },
-  // The former DAO Committee multisigs remain controlled by the deprecated
-  // committee, which has not returned the assets to the DAO. Flagged as
-  // disputed so the transparency UI can warn that these funds are withheld.
+  // DAO Treasury Mandate Multisig (3-of-5, the five DAO Council members).
+  // Holds the DAO Treasury assets under the treasury management strategy
+  // approved by the DAO Council.
   {
-    name: WalletNames.DAO,
+    name: WalletNames.TREASURY_MANDATE,
+    address: "0xc3bfc8c27e69ade0b852de1524ae1e9d2019303c",
+    network: Networks.getEth(),
+    status: WalletStatus.ACTIVE,
+  },
+  // DAO Operational Multisig (3-of-5, signers appointed by the DAO Council
+  // per proposal bb2b8234): the former DAO Committee Safes on Ethereum and
+  // Polygon. Executes passed Governance proposals and Council-approved
+  // mandates.
+  {
+    name: WalletNames.OPERATIONAL,
     address: "0x89214c8ca9a49e60a3bfa8e00544f384c93719b1",
     network: Networks.getEth(),
-    status: WalletStatus.DISPUTED,
+    status: WalletStatus.ACTIVE,
   },
   {
-    name: WalletNames.DAO,
+    name: WalletNames.OPERATIONAL,
     address: "0xb08e3e7cc815213304d884c88ca476ebc50eaab2",
     network: Networks.getPolygon(),
-    status: WalletStatus.DISPUTED,
+    status: WalletStatus.ACTIVE,
   },
 ]
 

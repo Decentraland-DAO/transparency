@@ -29,8 +29,8 @@ class Committee {
 
 export const SABCommittee = new Committee(
   'Security Advisory Board',
-  'Responsable to overview the sensible operations of the DAO, with the power to halt operations initiated by the DAO Committee or the Community. They advise in the best course of action for technical operations involving the DAO\'s smart contracts.',
-  4,
+  'Responsible for overseeing the sensitive operations of the DAO, with the power to pause, resume or cancel actions queued in the DAO\'s Aragon contracts. They advise on the best course of action for technical operations involving the DAO\'s smart contracts.',
+  5,
   [
     {
       address: '0xbcac4dafb7e215f2f6cb3312af6d5e4f9d9e7eda',
@@ -38,7 +38,7 @@ export const SABCommittee = new Committee(
       avatar: 'https://decentraland.org/images/male.png'
     },
     {
-      address: '0xfc4ef0903bb924d06db9cbaba1e4bda6b71d2f82',
+      address: '0x4ece6e896e79a8e61199badb6e99b1dbfcd9ffb5',
       name: 'Ariel',
       avatar: 'https://decentraland.org/images/male.png'
     },
@@ -51,6 +51,11 @@ export const SABCommittee = new Committee(
       address: '0x42ebd2ab698ba74eec1d2a81c376ea2c38c05249',
       name: 'Brett',
       avatar: 'https://decentraland.org/images/male.png'
+    },
+    {
+      address: '0xe7f78d2c9a9375153476834d2db32632384b01e1',
+      name: 'Esteban',
+      avatar: 'https://profile-images-bucket-43d0c58.s3.us-east-1.amazonaws.com/v1/entities/bafkreiaofwuwia75cpzdqohlvvfczi2wg36yvjyethe634znm5rgfcn4ny/face.png'
     }
   ]
 )
