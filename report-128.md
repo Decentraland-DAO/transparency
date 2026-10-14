@@ -9,12 +9,19 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+1 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 40, 54: [AFTER-HOURS](https://governance.decentraland.org/proposal/?id=c2705fcf-556f-406c-b982-c01c1c56f410)
+
+* Yes 99.9187175251112% 2,458,555 VP (18 votes)
+* No 0% 0 VP (0 votes)
+* Abstain 0.0812824748887954% 2,000 VP (1 votes)
 
 
 ## Name Bans
@@ -30,6 +37,27 @@ Since September 16, 0 grants have been approved and the vesting contract(s) will
 
 
 ## Polls
+
+#### [Should DecentralandDAO X account to do the bare minimum.](https://governance.decentraland.org/proposal/?id=77e5bca9-5f48-4f06-bd1e-2aadab51e200)
+
+* Yes 67.44648959943804% 1,858,861 VP (6 votes)
+* No 0% 0 VP (0 votes)
+* Invalid question/options 32.55351040056196% 897,192 VP (3 votes)
+
+
+#### [Add Show/Hide Toggle for Archived Bids/Offers in DCL Marketplace](https://governance.decentraland.org/proposal/?id=a155d6d2-29ad-4b78-a443-2e490815c6af)
+
+* Yes  99.80517627163883% 1,024,569 VP (6 votes)
+* No  0% 0 VP (0 votes)
+* Invalid question/options 0.19482372836117204% 2,000 VP (1 votes)
+
+
+#### [Introduce a Minimum Offer Threshold for Marketplace Sellers](https://governance.decentraland.org/proposal/?id=87350376-f327-4de1-93ba-f4e95e9fcfce)
+
+* Yes 99.94055735798855% 3,362,588 VP (12 votes)
+* No 0% 0 VP (0 votes)
+* Invalid question/options 0.0594426420114439% 2,000 VP (1 votes)
+
 
 
 # Active Proposals
