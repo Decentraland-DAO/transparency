@@ -1,6 +1,7 @@
 import path from 'path'
 import fs from 'fs'
 import { Wallets } from './entities/Wallets'
+import { GovernanceProjectInList, percentChange, sumProjectsFundingUSD } from './api-v2-utils'
 type FetchResponse = Response
 /** CONFIG / CONSTANTS */
 const DCL_SUBGRAPH_API_KEY = process.env.DCL_SUBGRAPH_API_KEY
@@ -22,6 +23,8 @@ const COINGECKO_MANA_PRICE_URL =
   'https://api.coingecko.com/api/v3/simple/price?ids=decentraland&vs_currencies=usd'
 
 const SECS_30D = 30 * 24 * 60 * 60 // 30d
+
+const GOVERNANCE_PROJECTS_URL = 'https://governance.decentraland.org/api/projects'
 
 const DAO_COMMITTEE_PAYMENT_ADDRESSES = [
   '0x521b0fef9cdcf250abaf8e7bc798cbe13fa98692',
@@ -603,7 +606,8 @@ async function fetchWearableFeesWindow(fromTs: number, toTs: number): Promise<{ 
   return { totalMana, totalItems }
 }
 
-async function calcWearableSubmissionFeeUSD_fromSubgraph(manaUsd: number): Promise<IncomeRow> {
+// The window is anchored at the latest item submission; windowsBack shifts it back by whole 30 day windows
+async function calcWearableSubmissionFeeUSD_fromSubgraph(manaUsd: number, windowsBack = 0): Promise<IncomeRow> {
   const latestCreatedAt = await fetchLatestItemCreatedAt()
   if (!latestCreatedAt) {
     return {
@@ -615,7 +619,7 @@ async function calcWearableSubmissionFeeUSD_fromSubgraph(manaUsd: number): Promi
       usdTotal: 0
     }
   }
-  const toTs = latestCreatedAt
+  const toTs = latestCreatedAt - windowsBack * SECS_30D
   const fromTs = toTs - SECS_30D
   const { totalMana, totalItems } = await fetchWearableFeesWindow(fromTs, toTs)
   const usdTotal = totalMana * manaUsd
@@ -1275,6 +1279,62 @@ async function getManaPriceUsdWithRetry(retries = 3, delayMs = 1000): Promise<nu
   )
 }
 
+/** Income and expense rows for one window */
+async function calcWindowRows(startTs: number, endTs: number, manaUsd: number, wearableWindowsBack = 0) {
+  const [wearableRow, rentalsRow, polygonRow, landEstate, namesMintingRow] = await Promise.all([
+    calcWearableSubmissionFeeUSD_fromSubgraph(manaUsd, wearableWindowsBack),
+    calcRentalsIncomeUSD(startTs, endTs, manaUsd),
+    calcPolygonPrimarySalesIncomeUSD(startTs, endTs, manaUsd),
+    calcLandEstateMarketplaceFeesUSD(startTs, endTs, manaUsd),
+    calcNamesMintingFeeFromLogsUSD(startTs, endTs, manaUsd)
+  ])
+
+  // 2) DAO Committee Compensation (expenses)
+  const wearableCuratorComitteeRow = await calcWearableCuratorsCommitteePayoutUSD(startTs, endTs, manaUsd)
+  const daoCommitteeRow = await calcDaoCommitteeCompUSD(startTs, endTs, manaUsd)
+  const daoCouncilRow = await calcDaoCouncilCompUSD(startTs, endTs, manaUsd)
+  const otherExpensesRow = await calcOtherExpensesUSD(startTs, endTs, manaUsd)
+
+  return {
+    wearableRow,
+    rentalsRow,
+    polygonRow,
+    landEstate,
+    namesMintingRow,
+    wearableCuratorComitteeRow,
+    daoCommitteeRow,
+    daoCouncilRow,
+    otherExpensesRow
+  }
+}
+
+type WindowRows = Awaited<ReturnType<typeof calcWindowRows>>
+
+/** USD totals of one window, matching the rows that make up income.total and expenses.total */
+function windowTotalsUSD(rows: WindowRows): { income: number; expenses: number } {
+  const sum = (items: IncomeRow[]) => items.reduce((acc, row) => acc + (Number(row.usdTotal) || 0), 0)
+  return {
+    income: sum([
+      rows.wearableRow,
+      rows.namesMintingRow,
+      rows.landEstate.estate,
+      rows.landEstate.land,
+      rows.polygonRow,
+      rows.rentalsRow
+    ]),
+    expenses: sum([rows.daoCommitteeRow, rows.wearableCuratorComitteeRow, rows.daoCouncilRow, rows.otherExpensesRow])
+  }
+}
+
+/** "Funds distributed": total USD size of the DAO-funded projects, from the governance api */
+async function calcFundingTotalUSD(): Promise<number> {
+  const res: FetchResponse = await fetch(GOVERNANCE_PROJECTS_URL)
+  if (!res.ok) throw new Error(`HTTP ${res.status}`)
+  const json = (await res.json()) as { data?: GovernanceProjectInList[] }
+  if (!Array.isArray(json?.data)) throw new Error('Unexpected projects response')
+  return sumProjectsFundingUSD(json.data)
+}
+
 async function updateIncome(): Promise<void> {
   const OUT_PATH = path.join(process.cwd(), 'public', 'api-v2.json')
   fs.mkdirSync(path.dirname(OUT_PATH), { recursive: true })
@@ -1302,21 +1362,38 @@ async function updateIncome(): Promise<void> {
 
   const manaUsd = await getManaPriceUsdWithRetry()
 
-  
-  const [wearableRow, rentalsRow, polygonRow, landEstate, namesMintingRow] = await Promise.all([
-    calcWearableSubmissionFeeUSD_fromSubgraph(manaUsd),
-    calcRentalsIncomeUSD(startTs, endTs, manaUsd),
-    calcPolygonPrimarySalesIncomeUSD(startTs, endTs, manaUsd),
-    calcLandEstateMarketplaceFeesUSD(startTs, endTs, manaUsd),
-    calcNamesMintingFeeFromLogsUSD(startTs, endTs, manaUsd)
-  ])
+  const {
+    wearableRow,
+    rentalsRow,
+    polygonRow,
+    landEstate,
+    namesMintingRow,
+    wearableCuratorComitteeRow,
+    daoCommitteeRow,
+    daoCouncilRow,
+    otherExpensesRow
+  } = await calcWindowRows(startTs, endTs, manaUsd)
 
-  // 2) DAO Committee Compensation (expenses)
-  const wearableCuratorComitteeRow = await calcWearableCuratorsCommitteePayoutUSD(startTs, endTs, manaUsd)
-  const daoCommitteeRow = await calcDaoCommitteeCompUSD(startTs, endTs, manaUsd)
-  const daoCouncilRow = await calcDaoCouncilCompUSD(startTs, endTs, manaUsd)
-  const otherExpensesRow = await calcOtherExpensesUSD(startTs, endTs, manaUsd)
-  
+  // The previous 30 days (60 to 30 days ago), only used for the "% vs previous 30 days" deltas. This file
+  // is rebuilt from scratch on every CI run, so the previous run's totals are not available. Best effort:
+  // if it fails (e.g. rate limits) the deltas stay at 0 instead of failing the whole export.
+  // Note: MANA amounts are valued at today's price in both windows.
+  let previousTotals: { income: number; expenses: number } | null = null
+  try {
+    previousTotals = windowTotalsUSD(await calcWindowRows(startTs - SECS_30D, startTs, manaUsd, 1))
+    console.log('[updateIncome] previous 30 days totals', previousTotals)
+  } catch (err) {
+    console.error('[updateIncome] could not compute the previous 30 days, leaving the deltas at 0:', err)
+  }
+
+  let fundingTotal = Number(base?.funding?.total) || 0
+  try {
+    fundingTotal = await calcFundingTotalUSD()
+    console.log('[updateIncome] funding total', fundingTotal)
+  } catch (err) {
+    console.error('[updateIncome] could not compute the funding total, keeping', fundingTotal, err)
+  }
+
 
   // -------- INCOME --------
   const prevIncomeMap: Record<string, number> = {}
@@ -1439,15 +1516,16 @@ async function updateIncome(): Promise<void> {
   const out = {
     ...base,
     income: {
-    total: totalIncome,
-    previous: base?.income?.total || 0,
-    details: incomeDetails
-},
+      total: totalIncome,
+      previous: previousTotals ? percentChange(totalIncome, previousTotals.income) : 0,
+      details: incomeDetails
+    },
     expenses: {
-    total: totalExpenses,
-    previous: base?.expenses?.total || 0,
-    details: expenseDetails
-}
+      total: totalExpenses,
+      previous: previousTotals ? percentChange(totalExpenses, previousTotals.expenses) : 0,
+      details: expenseDetails
+    },
+    funding: { total: fundingTotal }
   }
 
   fs.writeFileSync(OUT_PATH, JSON.stringify(out, null, 2))
