@@ -1,7 +1,7 @@
 import path from 'path'
 import fs from 'fs'
 import { Wallets } from './entities/Wallets'
-import { GovernanceProjectInList, percentChange, sumProjectsFundingUSD } from './api-v2-utils'
+import { GovernanceProjectInList, percentChange, sumDistributedFundingUSD } from './api-v2-utils'
 type FetchResponse = Response
 /** CONFIG / CONSTANTS */
 const DCL_SUBGRAPH_API_KEY = process.env.DCL_SUBGRAPH_API_KEY
@@ -1326,13 +1326,13 @@ function windowTotalsUSD(rows: WindowRows): { income: number; expenses: number }
   }
 }
 
-/** "Funds distributed": total USD size of the DAO-funded projects, from the governance api */
+/** "Funds distributed": USD actually paid out to DAO-funded projects, from the governance api */
 async function calcFundingTotalUSD(): Promise<number> {
   const res: FetchResponse = await fetch(GOVERNANCE_PROJECTS_URL)
   if (!res.ok) throw new Error(`HTTP ${res.status}`)
   const json = (await res.json()) as { data?: GovernanceProjectInList[] }
   if (!Array.isArray(json?.data)) throw new Error('Unexpected projects response')
-  return sumProjectsFundingUSD(json.data)
+  return sumDistributedFundingUSD(json.data)
 }
 
 async function updateIncome(): Promise<void> {
