@@ -13,6 +13,8 @@ export enum TokenSymbols {
   USDT = 'USDT',
   USDC = 'USDC',
   WETH = 'WETH',
+  STETH = 'stETH',
+  CBBTC = 'cbBTC',
 }
 
 export enum Decimals {
@@ -23,14 +25,19 @@ export enum Decimals {
   USDT = 6,
   USDC = 6,
   WETH = 18,
+  STETH = 18,
+  CBBTC = 8,
 }
 
 
-type TokenData = {
+export type TokenData = {
   symbol: TokenSymbols,
   decimals: number,
   abi?: AbiItem[],
-  coinGeckoId: string
+  coinGeckoId: string,
+  // Treasury assets that are only valued in balances.json. They are left out of Tokens.getAddresses(),
+  // so the transactions exports keep tracking the same tokens as before.
+  balancesOnly?: boolean
 }
 
 type Token = Record<string, TokenData>
@@ -43,6 +50,9 @@ export const TOKENS: DataByNetworks<Token> = {
     '0xdac17f958d2ee523a2206206994597c13d831ec7': { symbol: TokenSymbols.USDT, decimals: Decimals.USDT, abi: USDT_ABI as AbiItem[], coinGeckoId: "tether", },
     '0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48': { symbol: TokenSymbols.USDC, decimals: Decimals.USDC, abi: USDC_ABI as AbiItem[], coinGeckoId: "usd-coin", },
     '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2': { symbol: TokenSymbols.WETH, decimals: Decimals.WETH , coinGeckoId: "weth",},
+    // Held by the DAO Treasury Mandate Multisig
+    '0xae7ab96520de3a18e5e111b5eaab095312d7fe84': { symbol: TokenSymbols.STETH, decimals: Decimals.STETH, coinGeckoId: "staked-ether", balancesOnly: true },
+    '0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf': { symbol: TokenSymbols.CBBTC, decimals: Decimals.CBBTC, coinGeckoId: "coinbase-wrapped-btc", balancesOnly: true },
   },
   [NetworkName.POLYGON]: {
     '0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4': { symbol: TokenSymbols.MANA, decimals: Decimals.MANA , coinGeckoId: "decentraland",},
@@ -72,6 +82,6 @@ export class Tokens {
   }
 
   public static getAddresses(network: NetworkName | `${NetworkName}`): string[] {
-    return Object.keys(TOKENS[network])
+    return Object.keys(TOKENS[network]).filter((address) => !TOKENS[network][address].balancesOnly)
   }
 }
