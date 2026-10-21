@@ -70,7 +70,10 @@ export type ValuedHolding = {
   underlying?: { symbol: string; contractAddress: string; amount: number }
 }
 
-export type Valuation = { valued: ValuedHolding } | { skipped: string }
+// Why a held token was not valued. Everything but `spam` may be a real position worth reviewing.
+export type SkipCode = 'spam' | 'vault_unrecognized' | 'vault_underlying_not_curated' | 'vault_unknown_decimals' | 'unknown_decimals'
+
+export type Valuation = { valued: ValuedHolding } | { skipped: string; code: SkipCode }
 
 export type ValuationContext = {
   curatedTokens: Record<NetworkName, Record<string, TokenData>>
@@ -135,16 +138,19 @@ export function valueHolding(holding: TokenHolding, ctx: ValuationContext): Valu
 
   // 2. ERC4626 vault recognized by DefiLlama, valued through its curated underlying asset
   const vault = ctx.vaultPositions[holdingKey(holding)]
-  let vaultSkipReason: string | undefined
+  let vaultSkip: { skipped: string; code: SkipCode } | undefined
   if (vault) {
     const underlying = ctx.curatedTokens[holding.network][vault.underlying.toLowerCase()]
     const underlyingPrice = underlying ? ctx.curatedPricesBySymbol[underlying.symbol.toUpperCase()] : undefined
     if (!isRecognizedByDefiLlama(defiLlamaCoin)) {
-      vaultSkipReason = 'ERC4626 vault not recognized by DefiLlama'
+      vaultSkip = { skipped: 'ERC4626 vault not recognized by DefiLlama', code: 'vault_unrecognized' }
     } else if (!underlying || !underlyingPrice) {
-      vaultSkipReason = `ERC4626 vault whose underlying ${vault.underlying} is not a curated token`
+      vaultSkip = {
+        skipped: `ERC4626 vault whose underlying ${vault.underlying} is not a curated token`,
+        code: 'vault_underlying_not_curated',
+      }
     } else if (!metadata) {
-      vaultSkipReason = 'ERC4626 vault with unknown share decimals'
+      vaultSkip = { skipped: 'ERC4626 vault with unknown share decimals', code: 'vault_unknown_decimals' }
     } else {
       const amount = toUnits(holding.rawBalance, metadata.decimals)
       const underlyingAmount = toUnits(vault.rawAssets, underlying.decimals)
@@ -169,7 +175,7 @@ export function valueHolding(holding: TokenHolding, ctx: ValuationContext): Valu
   const market = coinGeckoId ? ctx.markets[coinGeckoId] : undefined
   if (hasMeaningfulMarketCap(market)) {
     if (!metadata) {
-      return { skipped: `listed on CoinGecko (${coinGeckoId}) but its decimals are unknown` }
+      return { skipped: `listed on CoinGecko (${coinGeckoId}) but its decimals are unknown`, code: 'unknown_decimals' }
     }
     const amount = toUnits(holding.rawBalance, metadata.decimals)
     return {
@@ -185,5 +191,5 @@ export function valueHolding(holding: TokenHolding, ctx: ValuationContext): Valu
     }
   }
 
-  return { skipped: vaultSkipReason || 'no price with a meaningful market cap (likely spam)' }
+  return vaultSkip || { skipped: 'no price with a meaningful market cap (likely spam)', code: 'spam' }
 }
