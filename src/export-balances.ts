@@ -35,6 +35,22 @@ async function main() {
     .forEach(holding => console.log(`[skipped] ${holding.walletName} (${holding.network}) ${holding.contractAddress}: ${holding.reason}`))
 
   saveToJSON('balances.json', balances)
+  // Held tokens that couldn't be valued and don't look like spam: possible positions to review.
+  // check-treasury.ts raises an alert for them.
+  saveToJSON(
+    'untracked-assets.json',
+    skipped
+      .filter(holding => holding.code !== 'spam')
+      .map(({ walletName, walletAddress, network, contractAddress, rawBalance, reason, code }) => ({
+        walletName,
+        walletAddress,
+        network,
+        contractAddress,
+        rawBalance,
+        reason,
+        code,
+      }))
+  )
   // Same columns as before: the CSV is appended to the BalanceHistory sheet
   await saveToCSV('balances.csv', balances, [
     { id: 'timestamp', title: 'Timestamp' },

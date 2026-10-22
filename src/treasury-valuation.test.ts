@@ -98,6 +98,7 @@ describe('valueHolding', () => {
     it('skips it, so a spam token posing as a vault cannot inflate the treasury', () => {
       expect(valueHolding(holding(FAKE_VAULT, units('1', 18)), context())).toEqual({
         skipped: 'ERC4626 vault not recognized by DefiLlama',
+        code: 'vault_unrecognized',
       })
     })
   })
@@ -106,6 +107,7 @@ describe('valueHolding', () => {
     it('skips it', () => {
       expect(valueHolding(holding(WBTC_VAULT, units('1', 8)), context())).toEqual({
         skipped: `ERC4626 vault whose underlying ${WBTC} is not a curated token`,
+        code: 'vault_underlying_not_curated',
       })
     })
   })
@@ -128,6 +130,7 @@ describe('valueHolding', () => {
     it('skips it when its decimals are unknown', () => {
       expect(valueHolding(holding(SAFE, units('10', 18)), context({ defiLlamaCoins: {} }))).toEqual({
         skipped: 'listed on CoinGecko (safe) but its decimals are unknown',
+        code: 'unknown_decimals',
       })
     })
   })
@@ -136,6 +139,7 @@ describe('valueHolding', () => {
     it('skips it as likely spam', () => {
       expect(valueHolding(holding(MALLY, units('2095076', 18)), context())).toEqual({
         skipped: 'no price with a meaningful market cap (likely spam)',
+        code: 'spam',
       })
     })
   })
@@ -144,6 +148,7 @@ describe('valueHolding', () => {
     it('skips it as likely spam', () => {
       expect(valueHolding(holding('0x3333333333333333333333333333333333333333', units('50002960', 18)), context())).toEqual({
         skipped: 'no price with a meaningful market cap (likely spam)',
+        code: 'spam',
       })
     })
   })

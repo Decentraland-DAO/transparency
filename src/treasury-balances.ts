@@ -17,6 +17,7 @@ import {
   isCurated,
   isNativeTokenErc20,
   isRecognizedByDefiLlama,
+  SkipCode,
   TokenHolding,
   TokenMetadata,
   tokenKey,
@@ -46,7 +47,7 @@ export type TreasuryBalanceRow = {
   underlying?: { symbol: string; contractAddress: string; amount: number }
 }
 
-export type SkippedHolding = TokenHolding & { walletName: string; reason: string }
+export type SkippedHolding = TokenHolding & { walletName: string; reason: string; code: SkipCode }
 
 const SCANNED_NETWORKS = [NetworkName.ETHEREUM, NetworkName.POLYGON]
 const NATIVE_TOKENS: Record<NetworkName, TokenSymbols> = {
@@ -296,7 +297,7 @@ export async function buildTreasuryBalances({
       if ('valued' in valuation) {
         if (valuation.valued.amount > 0) rows.push({ ...base, ...valuation.valued })
       } else {
-        skipped.push({ ...holding, walletName: wallet.name, reason: valuation.skipped })
+        skipped.push({ ...holding, walletName: wallet.name, reason: valuation.skipped, code: valuation.code })
       }
     }
 
