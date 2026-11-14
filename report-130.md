@@ -48,6 +48,5 @@ Since October 16, 0 grants have been approved and the vesting contract(s) will b
 
 ## Polls
 
-* [Add a Dedicated Backpack Wearable Category to Decentraland Avatars](https://governance.decentraland.org/proposal/?id=526e4480-d22c-44c7-8e77-eb9817951883)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
